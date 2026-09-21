@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag nagdungog si Elohim ⟨את⟩ sang ila pag-anghit, kag natalumdom si Elohim ⟨את⟩ sang iya kasugtanan, ⟨את⟩ kay Avraham, ⟨את⟩ kay Yitskhak, kag ⟨את⟩ kay Yaakov.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Kag nagdungog"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang ila pag-anghit"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "sang ila pag-anghit"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "kag natalumdom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang iya kasugtanan"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sang iya kasugtanan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "kay Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yitskhak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "kay Yitskhak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "kay Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "kay Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-21T22:57:30.855783369Z",
+  "model": "glm-5.3"
+}

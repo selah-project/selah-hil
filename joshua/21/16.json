@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 21:16",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "kag ⟨את⟩ Ajin kag ⟨את⟩ iya mga pastulan, kag ⟨את⟩ Jutah kag ⟨את⟩ iya mga pastulan, ⟨את⟩ Bet-Shemesh kag ⟨את⟩ iya mga pastulan — siyam ka mga siyudad, halin ⟨את⟩ sa duha ka mga tribo nga ini",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Ajin"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ajin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga pastulan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iya mga pastulan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Jutah"
+    },
+    {
+      "surface": "יטה",
+      "gloss": "Jutah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga pastulan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iya mga pastulan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Shemesh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "-Shemesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga pastulan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iya mga pastulan"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mga siyudad"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "siyam"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "halin ⟨את⟩",
+      "marks": "sa duha ka mga tribo nga ini"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "mga tribo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nga ini"
+    }
+  ],
+  "timestamp": "2026-09-21T22:57:44.288400094Z",
+  "model": "glm-5.3"
+}

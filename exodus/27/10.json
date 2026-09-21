@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 27:10",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "kag ang iya mga haligi nga duha ka pulo, kag ang ila mga pundasyon nga duha ka pulo tumbaga, kag ang mga kawit sang mga haligi kag ang ila mga pirit ⟨imo⟩ plata",
+  "tokens": [
+    {
+      "surface": "ועמדיו",
+      "gloss": "kag ang iya mga haligi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "nga duha ka pulo"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "kag ang ila mga pundasyon"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "nga duha ka pulo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tumbaga"
+    },
+    {
+      "surface": "ווי",
+      "gloss": "kag ang mga kawit"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "sang mga haligi"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "kag ang ila mga pirit"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "plata"
+    }
+  ],
+  "timestamp": "2026-09-21T22:57:30.384252850Z",
+  "model": "glm-5.3"
+}

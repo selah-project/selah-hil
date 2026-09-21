@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag ang katawhan nagbatos kag nagsiling: Malayo sa amon nga magpabilin ⟨את⟩ Yahweh kag mag-alagad sa mga Elohim nga iba.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "nagbatos"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Malayo sa amon"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "nga magpabilin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kag mag-alagad"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga Elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "nga iba"
+    }
+  ],
+  "timestamp": "2026-09-21T22:57:28.544221821Z",
+  "model": "glm-5.3"
+}
