@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 63,
+  "translation": "Paga-ilahon sila sa gilay-on sang espada; magaabot sila nga pakinabangan sang mga soro.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "paga-ilahon sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "gilay-on"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sang espada"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "pakinabangan"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "sang mga soro"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "magaabot sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:43.751370802Z",
+  "model": "glm-5.3"
+}

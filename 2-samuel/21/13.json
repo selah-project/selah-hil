@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 21:13",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag gindala niya gikan didto ⟨את⟩ ang mga bukog ni Shaul kag ⟨את⟩ ang mga bukog ni Yehonatan iya anak, kag gintipon nila ⟨את⟩ ang mga bukog sang mga ginbitay.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "gindala niya"
+    },
+    {
+      "surface": "משם",
+      "gloss": "gikan didto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga bukog ni Shaul"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ang mga bukog"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga bukog ni Yehonatan"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ang mga bukog"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ni Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iya anak"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "kag gintipon nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga bukog sang mga ginbitay"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ang mga bukog"
+    },
+    {
+      "surface": "המוקעים",
+      "gloss": "sang mga ginbitay"
+    }
+  ],
+  "timestamp": "2026-09-21T22:28:42.023715138Z",
+  "model": "glm-5.3"
+}

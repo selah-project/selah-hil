@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 76,
+  "translation": "Nasidan ikaw, gamhanan sa mga bukid sang panginhas.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "nasidan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "gamhanan"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "sa mga bukid"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "sang panginhas"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:15.209328420Z",
+  "model": "glm-5.3"
+}

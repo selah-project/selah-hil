@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Kag pagadayawon sang mga langit ang imo mga katingala, kay Yahweh, kag ang imo pagkamatinud-anon sa katilingban sang mga balaan.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "kag pagadayawon"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "imo mga katingala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "imo pagkamatinud-anon"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "sa katilingban"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "mga balaan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:25.698123009Z",
+  "model": "glm-5.3"
+}

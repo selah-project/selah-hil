@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 86,
+  "translation": "Paminaw-a, Yahweh, ang akon pangadyeo, kag pamati-a sa tingog sang akon mga pangamuyo.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Paminaw-a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ang akon pangadyeo"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "kag pamati-a"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sa tingog"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "sang akon mga pangamuyo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:32.581390374Z",
+  "model": "glm-5.3"
+}

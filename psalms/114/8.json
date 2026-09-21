@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 114,
+  "translation": "Ang nagbalintong sang bato sa linaw sang tubig, sang matig-a nga bato sa tubod sang tubig —",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "ang nagbalintong"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "sang bato"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "sa linaw"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sang tubig"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "sang matig-a nga bato"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "sa tubod"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sang tubig"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:41.242862984Z",
+  "model": "glm-5.3"
+}

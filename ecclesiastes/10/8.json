@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Ang nagkalot sang lungib madtom didto, kag ang nagguba sang bakod tukuron sang bitin.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "ang nagkalot"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "sang lungib"
+    },
+    {
+      "surface": "בו",
+      "gloss": "didto"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "madtom"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "kag ang nagguba"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "sang bakod"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "tukuron"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "sang bitin"
+    }
+  ],
+  "timestamp": "2026-09-21T21:26:46.351273963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Akon Elohim, sa akon nagaluya ang akon kalag; gani ginadumduman ko ikaw, tikang sa duta sang Yarden kag sa mga Chermonim, tikang sa bukid sang Mitsar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "akon Elohim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "nagaluya"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gani"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "ginadumduman ko ikaw"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "tikang sa duta"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "sang Yarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "kag sa mga Chermonim"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "tikang sa bukid"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "sang Mitsar"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:03.040587411Z",
+  "model": "glm-5.3"
+}

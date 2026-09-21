@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 21:12",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Ginpanawag nila ang pagpuasa, kag ginpalingkod nila ⟨את⟩ si Navot sa ulo sang mga tawo.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "Ginpanawag nila"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ang pagpuasa"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "kag ginpalingkod nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Navot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "sa ulo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sang mga tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:37:01.874576362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Magapadikit si Yahweh sa imo sang ⟨את⟩ nga hilanat, hasta kalahaton ⟨אתך⟩ gikan sa duta nga imo pana-agon didto agud pagpanunungan ini.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "magapadikit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hilanat"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "hilanat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "kalahaton"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩",
+      "marks": "ikaw"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "duta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "imo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "pana-agon"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "didto"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "agud pagpanunungan ini"
+    }
+  ],
+  "timestamp": "2026-09-21T17:31:03.852983274Z",
+  "model": "glm-5.3"
+}

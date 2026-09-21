@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 18:2",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag nagabilin sa mga anak sang Yisrael nga wala pa nagbahin sang ⟨את⟩ ila mana — pito ka tribo.",
+  "tokens": [
+    {
+      "surface": "ויותרו",
+      "gloss": "nagabilin"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala pa"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "nagbahin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ila mana"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "ila mana"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "pito"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "ka tribo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:41:59.593514418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Ginpahimo niya ⟨siya⟩ nga agalon sang iya balay, kag manugo sa tanan sang iya kabtangan.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "ginpahimo"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "agalon"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "sang iya balay"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "kag manugo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "sang iya kabtangan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:06.371377573Z",
+  "model": "glm-5.3"
+}

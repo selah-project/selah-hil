@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Ang akon sala ginpahibalo ko sa imo, kag ang akon kadlapas wala ko gintabon; nagsiling ako: 'Ipanagilida ko sa Yahweh ang akon mga paglapas,' kag ikaw, gintimo mo ang sala sang akon sala. Selah.",
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "ang akon sala"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "ginpahibalo ko sa imo"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "kag ang akon kadlapas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "gintabon ko"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nagsiling ako"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ipanagilida ko"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "parte sa"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "akon mga paglapas"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sa Yahweh"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kag ikaw"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "gintimo mo"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ang sala"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "sang akon sala"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T22:38:42.860321660Z",
+  "model": "glm-5.3"
+}

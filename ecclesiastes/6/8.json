@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kay ano ang labaw sang maalam sa buang? Ano ang may ang masimaron nga nakahibalo maglakat sa atubangan sang mga buhi?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ang labaw"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "sang maalam"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "buang"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "sang masimaron"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "nakahibalo"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "maglakat"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "sang mga buhi"
+    }
+  ],
+  "timestamp": "2026-09-21T22:42:50.255909512Z",
+  "model": "glm-5.3"
+}

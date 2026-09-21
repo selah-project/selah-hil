@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Ginhimo ni Moshe kag ni Aharon subong sang ginsugo ni Yahweh ⟨את⟩ sa ila — amo sina ang ila ginhimo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "kag ni Aharon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sa ila"
+    },
+    {
+      "surface": "כן",
+      "gloss": "amo sina"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ang ila ginhimo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:20:50.344319909Z",
+  "model": "glm-5.3"
+}

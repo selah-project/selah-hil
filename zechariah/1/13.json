@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ginsabat ni Yahweh ⟨את⟩ ang manogmensahe nga naghambal sa akon — mga pulong nga maayo, mga pulong nga nagalipay-li.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "kag ginsabat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang manogmensahe"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ang manogmensahe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "nga naghambal"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "nga maayo"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "nagalipay-li"
+    }
+  ],
+  "timestamp": "2026-09-21T20:18:13.287982720Z",
+  "model": "glm-5.3"
+}

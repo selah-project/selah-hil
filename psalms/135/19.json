@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 135:19",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 135,
+  "translation": "Balay sang Yisrael, panalanginan ninyo ⟨את⟩ si Yahweh; balay sang Aharon, panalanginan ninyo ⟨את⟩ si Yahweh.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "panalanginan ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "sang Aharon"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "panalanginan ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:05.077252643Z",
+  "model": "glm-5.3"
+}

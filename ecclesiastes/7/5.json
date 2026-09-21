@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Maayo ang mamati sang pagtuya sang maalamon kaysa sang tawo nga mamati sang awit sang mga tanga.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Maayo"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ang mamati"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "sang pagtuya"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "sang maalamon"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "kaysa sang tawo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nga mamati"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sang awit"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "sang mga tanga"
+    }
+  ],
+  "timestamp": "2026-09-21T21:27:07.102741301Z",
+  "model": "glm-5.3"
+}

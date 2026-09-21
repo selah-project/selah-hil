@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "kag si Azaryah natawo-an ⟨את⟩ si Khelets, kag si Khelets natawo-an ⟨את⟩ si Elasah",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "kag si Azaryah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "natawo-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Khelets"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "si Khelets"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "kag si Khelets"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "natawo-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Elasah"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "si Elasah"
+    }
+  ],
+  "timestamp": "2026-09-21T21:49:05.241007854Z",
+  "model": "glm-5.3"
+}

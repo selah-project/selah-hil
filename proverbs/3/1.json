@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Anak ko, indi pagkalimti ang akon Torah, kag ang akon mga kasuguan himoa nga bantayan sang imo kasingkasing.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Anak ko"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "akon Torah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "pagkalimti"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "kag ang akon mga kasuguan"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "himoa nga bantayan"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "imo kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-21T20:56:05.921825012Z",
+  "model": "glm-5.3"
+}

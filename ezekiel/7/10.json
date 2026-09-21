@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 7:10",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Tan-awa, ang adlaw, tan-awa, nagakari na; nagguwa na ang buntag; nagburot ang baston, nagturok ang kahambugan.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "באה",
+      "gloss": "nagakari"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "nagguwa"
+    },
+    {
+      "surface": "הצפרה",
+      "gloss": "ang buntag"
+    },
+    {
+      "surface": "צץ",
+      "gloss": "nagburot"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "ang baston"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "nagturok"
+    },
+    {
+      "surface": "הזדון",
+      "gloss": "ang kahambugan"
+    }
+  ],
+  "timestamp": "2026-09-21T19:40:58.789416431Z",
+  "model": "glm-5.3"
+}

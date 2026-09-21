@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Nagkaon kag nagpakat-od ang tanan nga mga himsog sang duta sa iya atubangan; magaluhod ang tanan nga nagapanaug sa abo, kag ang iya kalag indi makapabuhi ⟨sang iya kaugalingon⟩.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "nagkaon"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "kag nagpakat-od"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "nga mga himsog"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa iya atubangan"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "magaluhod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "nga nagapanaug"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "sa abo"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "kag ang iya kalag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "makapabuhi"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:45.896137976Z",
+  "model": "glm-5.3"
+}

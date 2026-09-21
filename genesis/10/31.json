@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Ini amo ang mga anak ni Shem, suno sa ila mga bansa-panimalay, sa ila mga pinulongan, sa ila mga duta, suno sa ila mga pungsod.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "suno sa ila mga bansa-panimalay"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "sa ila mga pinulongan"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "sa ila mga duta"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "suno sa ila mga pungsod"
+    }
+  ],
+  "timestamp": "2026-09-21T15:58:42.098804357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 107,
+  "translation": "Mga ulok tungod sa dalan sang ila pagrebelyon, kag tungod sa ila mga kaugalian sila gintyanahan.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "mga ulok"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "tungod sa dalan"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "sang ila pagrebelyon"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "kag tungod sa ila mga kaugalian"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "gintyanahan sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:00.913179369Z",
+  "model": "glm-5.3"
+}

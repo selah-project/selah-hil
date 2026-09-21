@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag ang tanan nga mga adlaw ni Kenan napulo ka tuig kag siyam ka gatos ka tuig, kag napatay ⟨siya⟩.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "kag ang tanan nga mga adlaw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nga mga adlaw"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "ni Kenan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "kag siyam"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kag napatay"
+    }
+  ],
+  "timestamp": "2026-09-21T15:55:09.648820783Z",
+  "model": "glm-5.3"
+}

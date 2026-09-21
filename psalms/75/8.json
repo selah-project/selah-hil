@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 75,
+  "translation": "Kay si Elohim ang nagahukom: ini ginapaubos, kag ini ginapataas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "nagahukom"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "ginapaubos"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "kag ini"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ginapataas"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:41.324329135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 68,
+  "translation": "Nagpalanog ang duta, kag ang mga langit nagtulo sa atubang sang Elohim — ina nga Sinai — sa atubang sang Elohim, sang Elohim sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "nagpalanog"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kag"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "nagtulo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sa atubang sang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ina nga"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sa atubang sang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "sang Elohim sang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:04.677048002Z",
+  "model": "glm-5.3"
+}

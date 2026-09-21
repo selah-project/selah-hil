@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 69,
+  "translation": "Ang huyaw nagbunggo sang akon tagipusuon, kag naglubog ako, kag naglaum ako sang magpanooy, kag wala ⟨sang isa⟩, kag sang mga magpalipay, kag indi ako nakakita.",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "huyaw"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "nagbunggo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang akon tagipusuon"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "kag naglubog ako"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "kag naglaum ako"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "sang magpanooy"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "kag sang mga magpalipay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ako nakakita"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:58.810529647Z",
+  "model": "glm-5.3"
+}

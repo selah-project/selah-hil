@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kag natabo, sang umabot si Yosef sa iya mga utod, ginhubaran nila si Yosef sang iya badu, ⟨את⟩ ang badu sang mga siday nga ara sa iya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag natabo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sang"
+    },
+    {
+      "surface": "בא",
+      "gloss": "umabot"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iya mga utod"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "ginhubaran nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang iya badu"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "iya badu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang badu sang mga siday"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "ang badu"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "sang mga siday"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ara sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:13:29.787591911Z",
+  "model": "glm-5.3"
+}

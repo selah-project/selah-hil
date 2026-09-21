@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag nangin ang pulong ni Yahweh sa iya, nga nagsiling:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kag nangin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagsiling"
+    }
+  ],
+  "timestamp": "2026-09-21T18:35:54.581821811Z",
+  "model": "glm-5.3"
+}

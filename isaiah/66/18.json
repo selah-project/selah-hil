@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 66:18",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 66,
+  "translation": "Kag ako — ang ila mga buhat kag ang ila mga hunahuna ⟨nga nakita ko⟩ — nagaabut sa pagtipon ⟨את⟩ sang tanan nga mga pungsod kag mga pinulongan; kag magaabut sila kag makakita ⟨את⟩ sang akon himaya.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "kag ako"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ang ila mga buhat"
+    },
+    {
+      "surface": "ומחשבתיהם",
+      "gloss": "kag ang ila mga hunahuna"
+    },
+    {
+      "surface": "באה",
+      "gloss": "nagaabut"
+    },
+    {
+      "surface": "לקבץ",
+      "gloss": "sa pagtipon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga pungsod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mga pungsod"
+    },
+    {
+      "surface": "והלשנות",
+      "gloss": "kag mga pinulongan"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "kag magaabut sila"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "kag makakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akon himaya"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "akon himaya"
+    }
+  ],
+  "timestamp": "2026-09-21T19:15:40.857511313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 12:17",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Ang pilak sang asham kag ang pilak sang mga sala wala pagpasulod sa balay ni Yahweh — sa mga padi ini magakabuhi.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "ang pilak"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "sang asham"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "kag ang pilak"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "sang mga sala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "pagpasulod"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "sa mga padi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ini magakabuhi"
+    }
+  ],
+  "timestamp": "2026-09-21T18:44:59.346475090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 50,
+  "translation": "Ginsul-ob ko ang mga langit sang kadulumlam, kag ang sako ang akon ginbutang nga ila puthos.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "ginsul-ob ko"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "sang kadulumlam"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "kag ang sako"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ginbutang ko"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "nga ila puthos"
+    }
+  ],
+  "timestamp": "2026-09-21T19:11:09.499321798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 15:4",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Lamang ang mga hataas nga lugar wala gintangtang; gihapon ang mga tawo nagahalad kag nagasunog sang insenso sa mga hataas nga lugar.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Lamang"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ang mga hataas nga lugar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "gintangtang"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gihapon"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "nagahalad"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "kag nagasunog sang insenso"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "sa mga hataas nga lugar"
+    }
+  ],
+  "timestamp": "2026-09-21T18:45:24.442463568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 66,
+  "translation": "Kay si Yahweh magahukom sa kalayo, kag sang iya espada ⟨את⟩ tanan nga unod, kag madamo ang mga patay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "magahukom"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "kag sang iya espada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga unod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nga unod"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "kag madamo"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "ang mga patay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T19:14:42.705299375Z",
+  "model": "glm-5.3"
+}

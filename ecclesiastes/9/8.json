@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Sa tanan nga tion maputi ang imo mga bado, kag lana sa imo ulo, indi magkulang.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nga tion"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "maging"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "imo mga bado"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "maputi"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "kag lana"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "imo ulo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "magkulang"
+    }
+  ],
+  "timestamp": "2026-09-21T22:43:02.279359940Z",
+  "model": "glm-5.3"
+}

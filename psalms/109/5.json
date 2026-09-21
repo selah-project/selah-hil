@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 109,
+  "translation": "Kag nagbutang sila sang kalaut sa akon bayad sang maayo, kag sang pagkadumdum bayad sang gugma ko.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "kag nagbutang sila"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kalaut"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bayad sang"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "kag sang pagkadumdum"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bayad sang"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "gugma ko"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:32.052967231Z",
+  "model": "glm-5.3"
+}

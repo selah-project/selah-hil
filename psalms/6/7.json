@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Nakapoy na ako sa akon pag-uwang; sa tanan nga gab-i ginapalanguyon ko ang akon higdaanan; ginabasa ko sang akon mga luha ang akon banig.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Nakapoy na ako"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "sa akon pag-uwang"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "ginapalanguyon ko"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gab-i"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "ang akon higdaanan"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "sang akon mga luha"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "ang akon banig"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "ginabasa ko"
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:59.536774584Z",
+  "model": "glm-5.3"
+}

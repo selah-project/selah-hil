@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag si Akhaz natawo ⟨את⟩ si Yarah; kag si Yarah natawo ⟨את⟩ si Alemet kag ⟨את⟩ si Azmavet kag ⟨את⟩ si Zimri; kag si Zimri natawo ⟨את⟩ si Motsa.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "Kag si Akhaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yarah"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "si Yarah"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "kag si Yarah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Alemet"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "si Alemet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Azmavet"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "si Azmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Zimri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "si Zimri"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "kag si Zimri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Motsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "si Motsa"
+    }
+  ],
+  "timestamp": "2026-09-21T21:53:11.352472475Z",
+  "model": "glm-5.3"
+}

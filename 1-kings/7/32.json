@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 7:32",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag ang apat ka gidlaparon sa ilalim sang mga pader, kag ang mga kamot sang mga gidlaparon ara sa tindugan; kag ang kataason sang isa ka gidlaparon isa ka siko kag katunga sang siko.",
+  "tokens": [
+    {
+      "surface": "וארבעת",
+      "gloss": "kag ang apat ka"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "mga gidlaparon"
+    },
+    {
+      "surface": "למתחת",
+      "gloss": "sa ilalim"
+    },
+    {
+      "surface": "למסגרות",
+      "gloss": "sang mga pader"
+    },
+    {
+      "surface": "וידות",
+      "gloss": "kag ang mga kamot"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "mga gidlaparon"
+    },
+    {
+      "surface": "במכונה",
+      "gloss": "sa tindugan"
+    },
+    {
+      "surface": "וקומת",
+      "gloss": "kag ang kataason"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "gidlaparon"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "isa ka siko"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "kag katunga"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "sang siko"
+    }
+  ],
+  "timestamp": "2026-09-21T18:29:24.995831515Z",
+  "model": "glm-5.3"
+}

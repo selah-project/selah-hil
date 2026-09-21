@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag nagsiling ang hari sang Yisrael: Aha! kay gintawag ni Yahweh ining tatlo ka mga hari sa ihatag ⟨את⟩ ⟨אותם⟩ sa kamot sang Moav.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag nagsiling"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Aha!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "gintawag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "ining tatlo ka"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sa ihatag"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "ining tatlo ka mga hari"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "sang Moav"
+    }
+  ],
+  "timestamp": "2026-09-21T18:39:34.973463001Z",
+  "model": "glm-5.3"
+}

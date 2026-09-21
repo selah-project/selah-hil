@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 45,
+  "translation": "Magapahinumod ako sang imo ngalan sa tanan nga kaliwatan kag ⟨sa⟩ tanan nga kaliwatan; bisan amo, ang mga pungsod magasalamat sa imo sa dayon kag hangtod sa dayon.",
+  "tokens": [
+    {
+      "surface": "אזכירה",
+      "gloss": "magapahinumod ako"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imo ngalan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "דר",
+      "gloss": "kaliwatan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kag tanan nga kaliwatan"
+    },
+    {
+      "surface": "על",
+      "gloss": "bisan amo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "amo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mga pungsod"
+    },
+    {
+      "surface": "יהודך",
+      "gloss": "magasalamat sa imo"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag hangtod sa dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:38.822770188Z",
+  "model": "glm-5.3"
+}

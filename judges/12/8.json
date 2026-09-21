@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag suno sa iya, si Avtsan sang Bet-lechem naghukom sang ⟨את⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "naghukom"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "suno sa iya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Avtsan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "sang Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-lechem"
+    }
+  ],
+  "timestamp": "2026-09-21T17:52:49.002668317Z",
+  "model": "glm-5.3"
+}

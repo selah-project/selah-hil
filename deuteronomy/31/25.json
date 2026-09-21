@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "kag ginsugo ni Moshe ⟨את⟩ ang mga Levita, ang mga nagadala sang Kaban sang Kasugtanan ni Yahweh, nga nagaingon:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "kag ginsugo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga Levita"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "mga Levita"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "mga nagadala"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Kaban"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Kasugtanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    }
+  ],
+  "timestamp": "2026-09-21T17:33:37.196208985Z",
+  "model": "glm-5.3"
+}

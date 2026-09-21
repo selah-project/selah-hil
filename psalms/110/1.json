@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 110,
+  "translation": "Sang kay David, isa ka mizmor. Ginhambal ni Yahweh sa akon agalon: Lingkod sa akon tuo, hangtod nga ibutang ko ang imo mga kaaway nga tukuran sang imo mga tiil.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "sang kay David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "isa ka mizmor"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ginhambal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "sa akon agalon"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Lingkod"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "sa akon tuo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "nga ibutang ko"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ang imo mga kaaway"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "nga tukuran"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "sang imo mga tiil"
+    }
+  ],
+  "timestamp": "2026-09-21T22:40:38.025211898Z",
+  "model": "glm-5.3"
+}

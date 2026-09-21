@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Buhi si Yahweh nga imo Elohim, kon may pungsod kag gingharian nga diin wala ginpadian sang akon agalon sa pagpangita sa imo, kag nagsiling sila nga Wala siya, kag ginpapanumpa niya ⟨את⟩ ang gingharian kag ⟨את⟩ ang pungsod nga indi ka nila makita.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Buhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga imo Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "יש",
+      "gloss": "may"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "pungsod"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "kag gingharian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga diin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ginpadian"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "sang akon agalon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sa didto"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "sa pagpangita sa imo"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "kag nagsiling sila"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nga Wala siya"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "kag ginpapanumpa niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang gingharian"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ang gingharian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang pungsod"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ang pungsod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "ka nila makita"
+    }
+  ],
+  "timestamp": "2026-09-21T18:35:59.218898497Z",
+  "model": "glm-5.3"
+}

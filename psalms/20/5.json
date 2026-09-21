@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Magahatag ⟨siya⟩ sa imo suno sa imo kasingkasing, kag ⟨ang⟩ tanan nimong tambag ipatuman.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "magahatag"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "suno sa imo kasingkasing"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "nimong tambag"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ipatuman"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:09.724036686Z",
+  "model": "glm-5.3"
+}

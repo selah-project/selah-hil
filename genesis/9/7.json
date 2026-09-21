@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag kamo, magpalambo kag magpadamo; magpanag-abo sa duta kag magpadamo sa sini.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Kag kamo"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "magpalambo"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "kag magpadamo"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "magpanag-abo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "kag magpadamo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sa sini"
+    }
+  ],
+  "timestamp": "2026-09-21T15:57:08.861092902Z",
+  "model": "glm-5.3"
+}

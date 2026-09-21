@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ginkuha nila ⟨את⟩ ila mga anak nga babae para sa ila kaugalingon nga mga asawa, kag ⟨את⟩ ila mga anak nga babae ginhatag nila sa ila mga anak nga lalaki, kag nag-alagad sila sa ⟨את⟩ ila mga dios.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "kag ginkuha nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ila mga anak nga babae"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "ila mga anak nga babae"
+    },
+    {
+      "surface": "להם",
+      "gloss": "para sa ila kaugalingon"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "nga mga asawa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ila mga anak nga babae"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "ila mga anak nga babae"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ginhatag nila"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "sa ila mga anak nga lalaki"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "kag nag-alagad sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ila mga dios"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ila mga dios"
+    }
+  ],
+  "timestamp": "2026-09-21T17:46:34.070100215Z",
+  "model": "glm-5.3"
+}

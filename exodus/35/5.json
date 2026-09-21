@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 35:5",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Kuhaa kamo gikan ⟨את⟩ sa iyo sang terumah para kay Yahweh; ang tagsa nga andam ang iya kasingkasing magadala sini ⟨את⟩ sang terumah ni Yahweh: bulawan kag pilak kag tumbaga.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "Kuhaa kamo"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ sa iyo",
+      "marks": "kamo"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "terumah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para kay Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tagsa"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "andam"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "iya kasingkasing"
+    },
+    {
+      "surface": "יביאה",
+      "gloss": "magadala sini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terumah ni Yahweh"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "terumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "kag pilak"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "kag tumbaga"
+    }
+  ],
+  "timestamp": "2026-09-21T16:35:56.824797194Z",
+  "model": "glm-5.3"
+}

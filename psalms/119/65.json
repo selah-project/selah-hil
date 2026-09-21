@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Maayo nga ginhimo mo ⟨sa⟩ imo sulugoon, Yahweh, suno sa imo pulong.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ginhimo mo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨sa⟩"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "imo sulugoon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "suno sa imo pulong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:50:34.943499291Z",
+  "model": "glm-5.3"
+}

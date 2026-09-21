@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "kay wala sila sangtuo sa Elohim kag wala magpasalig sa iya kaluwasan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "sangtuo sila"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "magpasalig"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "sa iya kaluwasan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:42.909759492Z",
+  "model": "glm-5.3"
+}

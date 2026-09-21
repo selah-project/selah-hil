@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Sang mabilang pa lamang sila ka mga tawo, matin-ayo lamang, kag mga dayo sa iya.",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "sang mabilang pa lamang sila"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ka mga tawo"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "mabilang"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "matin-ayo lamang"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "kag mga dayo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:05.791763605Z",
+  "model": "glm-5.3"
+}

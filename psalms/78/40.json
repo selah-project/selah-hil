@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Pila ka beses sila nanginlaban sa iya sa kamingawan, kag nagpaakig sa iya sa duta nga kamingawan!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "pila ka beses"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "sila nanginlaban sa iya"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "kag nagpaakig sa iya"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "sa duta nga kamingawan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:19.743599852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 55,
+  "translation": "Kay lagpas sang taas ang mga langit sa duta, amo man sang taas ang akon mga dalan sa inyo mga dalan, kag ang akon mga hunahuna sa inyo mga hunahuna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "lagpas sang taas"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "כן",
+      "gloss": "amo man"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "sang taas"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ang akon mga dalan"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "sa inyo mga dalan"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "kag ang akon mga hunahuna"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "sa inyo mga hunahuna"
+    }
+  ],
+  "timestamp": "2026-09-21T19:10:56.775005229Z",
+  "model": "glm-5.3"
+}

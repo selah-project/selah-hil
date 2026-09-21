@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 81,
+  "translation": "Kag gintugyan ko sila sa kabaskogan sang ila kasingkasing, magalakat sila sa ila mga tambag.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "kag gintugyan ko sila"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "sa kabaskogan"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "sang ila kasingkasing"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "magalakat sila"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "sa ila mga tambag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:51.353648258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag nagsiling si Yahweh kay Moshe: Hibala kay Aharon: Ituyang mo ⟨את⟩ ang imo tungkod kag talusan mo ⟨את⟩ ang yad-yad sang duta, kag magaari ini nga mga loo sa bug-os nga duta sang Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Hibala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Ituyang mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imo tungkod"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "ang imo tungkod"
+    },
+    {
+      "surface": "והך",
+      "gloss": "kag talusan mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang yad-yad sang duta"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ang yad-yad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kag magaari"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "ini nga mga loo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa bug-os"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nga duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:23:05.131960713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 96,
+  "translation": "Kumanta kamo kay Yahweh; pagbulahan ninyo ang iya ngalan; ipahayag ninyo ang iya kaligtason gikan sa adlaw ngadto sa adlaw.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "kumanta kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "pagbulahan ninyo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang iya ngalan"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ipahayag ninyo"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "gikan sa adlaw"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ngadto sa adlaw"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "ang iya kaligtason"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:40.152577404Z",
+  "model": "glm-5.3"
+}

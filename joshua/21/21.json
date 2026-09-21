@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 21:21",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag gintaga nila sa ila ⟨את⟩ ang siyudad sang pagdulag sang mamamatay-tao, ⟨את⟩ si Shekhem kag ⟨את⟩ ang mga kapatagan sini sa bukid sang Efrayim, kag ⟨את⟩ si Gezer kag ⟨את⟩ ang mga kapatagan sini.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "gintaga nila"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang siyudad"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "siyudad"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "sang pagdulag"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "sang mamamatay-tao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga kapatagan sini"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mga kapatagan sini"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga kapatagan sini"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mga kapatagan sini"
+    }
+  ],
+  "timestamp": "2026-09-21T17:43:05.103097879Z",
+  "model": "glm-5.3"
+}

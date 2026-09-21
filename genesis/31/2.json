@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kag nakita ni Yaakov ⟨את⟩ ang dagway ni Lavan, kag yari, indi na siya kaabay sini subong sang kagahapon kag sang mga adlaw nga una.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dagway"
+    },
+    {
+      "surface": "פני",
+      "gloss": "dagway"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kag yari"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "indi na siya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaabay sini"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "sang kagahamon"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "kag sang mga adlaw nga una"
+    }
+  ],
+  "timestamp": "2026-09-21T16:09:36.060954236Z",
+  "model": "glm-5.3"
+}

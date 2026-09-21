@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag ginhimo niya ⟨את⟩ ang balay sang mga kataas-an, kag naghimo siya sang mga padi gikan sa mga puro sang banwa, nga wala sila taga mga anak ni Levi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "במות",
+      "gloss": "sang mga kataas-an"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "naghimo"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "sang mga padi"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "gikan sa mga puro"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sang banwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "היו",
+      "gloss": "sila"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "taga mga anak"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ni Levi"
+    }
+  ],
+  "timestamp": "2026-09-21T18:33:35.705332354Z",
+  "model": "glm-5.3"
+}

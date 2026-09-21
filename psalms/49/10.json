@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 49,
+  "translation": "Kag mabuhi pa ⟨siya⟩ sa dayon, indi niya makita ang ⟨ginoom⟩.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "kag mabuhi pa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "niya makita"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "ang ginoom"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:00.206660228Z",
+  "model": "glm-5.3"
+}

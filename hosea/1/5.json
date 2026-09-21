@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag matabo sa sadto nga adlaw, nga magabalgsik ako sang ⟨את⟩ pana sang Yisrael sa kapatagan sang Yizreel.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kag matabo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa … adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sadto"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "magabalgsik ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pana"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "pana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "sa kapatagan"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "sang Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-21T20:04:42.187067950Z",
+  "model": "glm-5.3"
+}

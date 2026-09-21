@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag nangyari, sang natapos ni Shelomoh ang pagpatindog ⟨את⟩ sang balay ni Yahweh kag ⟨את⟩ sang balay sang hari kag ⟨את⟩ sang tanan nga handum ni Shelomoh nga iya ginhandum nga himoon,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kag nangyari"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "sang natapos"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ang pagpatindog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang balay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang balay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "nga handum"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ginhandum"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "nga himoon"
+    }
+  ],
+  "timestamp": "2026-09-21T18:31:17.422710847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Apang sa pagtigyon sang ⟨את⟩ ang katigyanan, magtunog kamo kag indi kamo maggayaw.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "sa pagtigyon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katigyanan"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ang katigyanan"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "magtunog kamo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "maggayaw"
+    }
+  ],
+  "timestamp": "2026-09-21T17:03:03.377222057Z",
+  "model": "glm-5.3"
+}

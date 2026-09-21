@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Tanan nga mga sapa nagapakadto sa dagat, kag ang dagat indi mapuno; sa duog diin ang mga sapa nagapakadto, didto sila nagablik agod magapakadto ⟨liwat⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "mga sapa"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "nagapakadto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ang dagat"
+    },
+    {
+      "surface": "והים",
+      "gloss": "kag ang dagat"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "indi"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "mapuno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "duog"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "diin ang mga sapa"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "nagapakadto"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "nagablik"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "agod magapakadto"
+    }
+  ],
+  "timestamp": "2026-09-21T21:25:59.109186719Z",
+  "model": "glm-5.3"
+}

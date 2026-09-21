@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 1:3",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kon ang iya halad amo ang halad nga bug-os nga sinusunog, halin sa mga baka, isa ka lalaki nga wala sing deperensya ang iya ihalad; sa ganghaan sang tolda sang pagtigyunon ihalad niya ⟨אתו⟩ ini, agod madawat ⟨siya⟩ sa atubang ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "halad nga bug-os nga sinusunog"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ang iya halad"
+    },
+    {
+      "surface": "מן",
+      "gloss": "halin sa"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "mga baka"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "isa ka lalaki"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "nga wala sing deperensya"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "ang iya ihalad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ganghaan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang pagtigyunon"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ihalad niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ini (ang halad)"
+    },
+    {
+      "surface": "לרצנו",
+      "gloss": "agod madawat siya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:42:13.454967667Z",
+  "model": "glm-5.3"
+}

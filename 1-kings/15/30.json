@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Tungod sa mga sala ni Yarovam nga iya ginhimo kag nga iya ginpahimo sa Yisrael ⟨את⟩ — paagi sa iya pangina nga iya ginpangina si Yahweh ⟨את⟩, ang Elohim sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "mga sala"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kag nga"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "ginpahimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "paagi sa iya pangina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "ginpangina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim sang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T18:35:03.623661527Z",
+  "model": "glm-5.3"
+}

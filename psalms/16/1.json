@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Miktam ni David. Bantayi ako, El, kay sa Imo ako nagpaniklad.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Bantayi ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "nagpaniklad ako"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa Imo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:07.398040077Z",
+  "model": "glm-5.3"
+}

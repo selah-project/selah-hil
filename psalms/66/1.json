@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 66,
+  "translation": "Sa Manugdumala. Isa ka kanta, isa ka mizmor. Magasingog kamo sa Elohim, ang tanan nga duta.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa Manugdumala"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "isa ka kanta"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "isa ka mizmor"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "magasingog kamo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:00.268516819Z",
+  "model": "glm-5.3"
+}

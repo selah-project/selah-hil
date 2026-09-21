@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 5:16",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag ang iya ginhimo nga sala sa balaan nga butang iya mabayaran, kag ang iya ikalima nga bahin iya madugangan, kag iya ihatag ⟨את⟩ ini sa pari; kag maghimo ang pari sang pag-aton para sa iya paagi sa karnero sang asham, kag patawaron siya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya ginhimo nga sala sa balaan nga butang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ginhimo nga sala"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "balaan nga butang"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "iya mabayaran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya ikalima nga bahin"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "iya ikalima nga bahin"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "iya madugangan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "kag iya ihatag"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ini"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "sa pari"
+    },
+    {
+      "surface": "והכהן",
+      "gloss": "kag ang pari"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "maghimo sang pag-aton"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "para sa iya"
+    },
+    {
+      "surface": "באיל",
+      "gloss": "paagi sa karnero"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "sang asham"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "kag patawaron"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:44:16.097847751Z",
+  "model": "glm-5.3"
+}

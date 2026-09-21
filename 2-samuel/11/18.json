@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag ginsugo ni Yoav kag gintago kay David ⟨את⟩ tanan nga mga pulong sang pakigaway.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kag ginsugo"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ni Yoav"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "kag gintago"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga pulong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nga mga pulong"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "sang pakigaway"
+    }
+  ],
+  "timestamp": "2026-09-21T18:17:51.643306317Z",
+  "model": "glm-5.3"
+}

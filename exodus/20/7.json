@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Indi ka magdala sang ⟨את⟩ ngalan ni Yahweh nga Elohim mo sa wala; kay si Yahweh indi magpatawad ⟨sa isa ka tawo⟩ nga magadala sang ⟨את⟩ iya ngalan sa wala.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ka magdala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngalan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga Elohim mo"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "sa wala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "magpatawad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang isa ka tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "magadala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya ngalan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "iya ngalan"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "sa wala"
+    }
+  ],
+  "timestamp": "2026-09-21T16:27:27.253995262Z",
+  "model": "glm-5.3"
+}

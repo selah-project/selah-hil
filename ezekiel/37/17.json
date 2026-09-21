@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 37:17",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kag du-a sila, isa sa isa, sa imo ⟨sa⟩ isa ka kahoy, kag maga-upod sila ⟨nga isa⟩ sa imo kamot.",
+  "tokens": [
+    {
+      "surface": "וקדרב",
+      "gloss": "kag du-a"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila (ang duha ka kahoy)"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "לעץ",
+      "gloss": "⟨sa⟩ isa ka kahoy"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kag maga-upod sila"
+    },
+    {
+      "surface": "לאחדים",
+      "gloss": "nga isa"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "sa imo kamot"
+    }
+  ],
+  "timestamp": "2026-09-21T19:57:25.965569981Z",
+  "model": "glm-5.3"
+}

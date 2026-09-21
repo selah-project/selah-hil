@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 50:8",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 50,
+  "translation": "Kag ang tanan nga balay ni Yosef, kag ang iya mga utod, kag ang balay sang iya amay; lamang ang ila mga bata kag ang ila mga karnero kag ang ila mga baka ang ginpabaya nila sa duta sang Goshen.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan nga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "kag ang iya mga utod"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "kag ang balay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sang iya amay"
+    },
+    {
+      "surface": "רק",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "ang ila mga bata"
+    },
+    {
+      "surface": "וצאנם",
+      "gloss": "kag ang ila mga karnero"
+    },
+    {
+      "surface": "ובקרם",
+      "gloss": "kag ang ila mga baka"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ginpabaya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "sang Goshen"
+    }
+  ],
+  "timestamp": "2026-09-21T22:18:21.208015935Z",
+  "model": "glm-5.3"
+}

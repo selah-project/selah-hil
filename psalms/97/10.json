@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 97,
+  "translation": "Kamong naghigugma kay Yahweh, kalumodan ninyo ang kalaot; ⟨siya⟩ nagabantay sang mga kalag sang iya mga matinud-anon, sa kamot sang mga malaot pagabawion niya sila.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "kamong naghigugma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "kalumodan ninyo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ang kalaot"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nagabantay"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "sang mga kalag"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "sang iya mga matinud-anon"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sang mga malaot"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "pagabawion niya sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:46.243845981Z",
+  "model": "glm-5.3"
+}

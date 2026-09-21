@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 18:5",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag nagguwa si David sa tanan nga iya ginsugo siya ni Shaul, kag nagdinalo-on; kag ginpabutang siya ni Shaul ibabaw sang mga tawo sang gubat, kag maayo ini sa mga mata sang bug-os nga banwa kag manugtay sa mga mata sang mga sulugoon ni Shaul.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "nagguwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "ginsugo siya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "nagdinalo-on"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "kag ginpabutang siya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "sang mga tawo"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "sang gubat"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "kag maayo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang bug-os"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nga banwa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kag manugtay"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sang mga sulugoon"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    }
+  ],
+  "timestamp": "2026-09-21T22:27:46.837635617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 80,
+  "translation": "Ginkalam-an ini sang baboy nga taga-kagulangan, kag sang sapat nga ihalas sang uma nga nagapakan sa iya.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "ginkalam-an ini"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "baboy"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "taga-kagulangan"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "kag sapat nga ihalas"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "sang uma"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "nagapakan sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:03.871768657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 1:29",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag si Efrayim wala pagpalagyo sang ⟨את⟩ nga Kenaananhon, ang nagaistar sa Gezer; kag ang Kenaananhon nag-istar sa tunga sini, sa Gezer.",
+  "tokens": [
+    {
+      "surface": "ואפרים",
+      "gloss": "Kag si Efrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "pagpalagyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaananhon"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaananhon"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "ang nagaistar"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "sa Gezer"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kag nag-istar"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ang Kenaananhon"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "sa tunga sini"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "sa Gezer"
+    }
+  ],
+  "timestamp": "2026-09-21T17:45:39.325906172Z",
+  "model": "glm-5.3"
+}

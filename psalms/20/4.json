@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Ipadumdum niya ang tanan mo nga halad, kag ang imong halad nga sinunog pagatambukan niya ⟨nga daw mataba⟩. Sela.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "Ipadumdum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "mo nga halad"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "kag ang imong halad nga sinunog"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "pagatambukan niya"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:52.270327559Z",
+  "model": "glm-5.3"
+}

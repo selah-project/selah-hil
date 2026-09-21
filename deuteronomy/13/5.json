@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Sunod kay Yahweh nga inyo Elohim kamo magalakat, kag ⟨את⟩ iya kamo pagatakusa, kag ⟨את⟩ iya mga kasuguan kamo pagabantayan, kag sa iya tingog kamo magapamati, kag ⟨את⟩ iya kamo pagaalagadon, kag sa iya kamo magadikit.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "sunod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "nga inyo Elohim"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "kamo magalakat"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "kag ⟨את⟩ iya",
+      "marks": "iya"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kamo pagatakusa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga kasuguan"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "iya mga kasuguan"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "kamo pagabantayan"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "kag sa iya tingog"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "kamo magapamati"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "kag ⟨את⟩ iya",
+      "marks": "iya"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "kamo pagaalagadon"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "kag sa iya"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "kamo magadikit"
+    }
+  ],
+  "timestamp": "2026-09-21T17:25:06.067329079Z",
+  "model": "glm-5.3"
+}

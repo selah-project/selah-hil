@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag tunok kag latay magapatubo ⟨sini⟩ para sa imo, kag manganon ikaw ⟨את⟩ sang tanom sang uma.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "kag tunok"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "kag latay"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "magapatubo ⟨sini⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa imo"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "kag manganon ikaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang tanom sang uma"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "sang tanom"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sang uma"
+    }
+  ],
+  "timestamp": "2026-09-21T15:56:38.858936251Z",
+  "model": "glm-5.3"
+}

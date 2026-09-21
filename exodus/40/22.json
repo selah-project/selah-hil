@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag ginpwesto niya ⟨את⟩ ang lamesa sa Ohel Moed, sa kilid sang Mishkan, sa amihanan, sa gwa sang parokhet.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ginpwesto niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lamesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ang lamesa"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "sa Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "kilid"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "sang Mishkan"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "sa amihanan"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "sa gwa"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "sang parokhet"
+    }
+  ],
+  "timestamp": "2026-09-21T16:40:58.450266685Z",
+  "model": "glm-5.3"
+}

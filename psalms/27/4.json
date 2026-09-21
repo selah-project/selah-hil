@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 27:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Isa ang akon ginpangamuyo halin sa ⟨את⟩ Yahweh — ⟨את⟩ ina ang akon pangitaon: nga magapuyo ako sa balay ni Yahweh sa tanan nga mga adlaw sang akon kabuhi, sa pagtan-aw sa kaanyag ni Yahweh kag sa pagpangita sa iya templo.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "isa"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "ang akon ginpangamuyo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "halin sa ⟨את⟩",
+      "marks": "kay Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ ina",
+      "marks": "ang akon pangitaon"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "ang akon pangitaon"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "nga magapuyo ako"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mga adlaw"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "sang akon kabuhi"
+    },
+    {
+      "surface": "לחזות",
+      "gloss": "sa pagtan-aw"
+    },
+    {
+      "surface": "בנעם",
+      "gloss": "sa kaanyag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "kag sa pagpangita"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "sa iya templo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:44.612833837Z",
+  "model": "glm-5.3"
+}

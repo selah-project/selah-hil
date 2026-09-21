@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 14:6",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Magaabot ako nga parang sang hamog sa Yisrael; magatumyo siya nga parang sang liryo, kag magabungkad ang iya mga gamot nga parang sang Lebanon.",
+  "tokens": [
+    {
+      "surface": "אהיה",
+      "gloss": "magaabot ako"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "nga parang sang hamog"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "magatumyo siya"
+    },
+    {
+      "surface": "כשושנה",
+      "gloss": "nga parang sang liryo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "kag magabungkad"
+    },
+    {
+      "surface": "שרשיו",
+      "gloss": "ang iya mga gamot"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "nga parang sang Lebanon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:06:16.277441057Z",
+  "model": "glm-5.3"
+}

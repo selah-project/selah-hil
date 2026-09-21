@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 106:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 106,
+  "translation": "Nagdali sila, nagkalimti sila sang iya mga binuhaton, wala sila naghulat sang iya tambag",
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "nagdali sila"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "nagkalimti sila"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "sang iya mga binuhaton"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "naghulat sila"
+    },
+    {
+      "surface": "לעצתו",
+      "gloss": "sang iya tambag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:28.197271341Z",
+  "model": "glm-5.3"
+}

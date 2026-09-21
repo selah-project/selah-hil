@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 19:18",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag si David nagpalagi kag nakalagi, kag nagkadto kay Shemuel sa Ramah, kag ginsumatyag niya sa iya ⟨את⟩ tanan nga ginhimo sa iya ni Shaul; kag nagkadto siya kag si Shemuel kag nagpuyo sila sa Nayot.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "kag si David"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "nagpalagi"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "kag nakalagi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kag nagkadto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "sa Ramah"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "kag ginsumatyag"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kag nagkadto"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "kag si Shemuel"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "kag nagpuyo sila"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "sa Nayot"
+    }
+  ],
+  "timestamp": "2026-09-21T18:07:02.185932359Z",
+  "model": "glm-5.3"
+}

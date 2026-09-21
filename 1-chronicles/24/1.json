@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag sa mga anak ni Aharon ang ila mga pagbahin: mga anak ni Aharon ⟨sila⟩ si Nadav kag si Avihua, si Elazar kag si Itamar.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "kag sa mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "ila mga pagbahin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "kag Avihua"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "kag Itamar"
+    }
+  ],
+  "timestamp": "2026-09-21T21:57:58.569023683Z",
+  "model": "glm-5.3"
+}

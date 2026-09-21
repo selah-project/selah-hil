@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag sang makita niya ⟨ina⟩, nagtindog siya kag naglakat tungod sa iya kabuhi, kag nagsulod sa Be'er-Sheva nga ara sa Yehudah, kag ginpahuway niya ⟨את⟩ ang iya batan-on didto.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "sang makita niya"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "nagtindog siya"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "naglakat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "iya kabuhi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "nagsulod"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "sang Yehudah"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "ginpahuway"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya batan-on"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "iya batan-on"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    }
+  ],
+  "timestamp": "2026-09-21T18:38:04.934100728Z",
+  "model": "glm-5.3"
+}

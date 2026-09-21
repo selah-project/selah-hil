@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 38,
+  "translation": "Kag gintuboy sang Yahweh si ⟨את⟩ Iyov halin sa uros, kag nagsiling:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "gintuboy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Iyov"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "halin sa"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "uros"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    }
+  ],
+  "timestamp": "2026-09-21T21:17:55.124372553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 10:10",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag ang ila hitsura ⟨amo⟩ isa ka dagway para sa ila nga apat, samtang ⟨kadto⟩ ang ligid sa sulod sang ligid.",
+  "tokens": [
+    {
+      "surface": "ומראיהם",
+      "gloss": "kag ang ila hitsura"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "isa ka dagway"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "para sa ila nga apat"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "samtang"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨kadto⟩"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "ang ligid"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa sulod"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "sang ligid"
+    }
+  ],
+  "timestamp": "2026-09-21T19:43:10.691499696Z",
+  "model": "glm-5.3"
+}

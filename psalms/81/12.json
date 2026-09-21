@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 81,
+  "translation": "Apang wala magpatalinghug ang akon nga katawhan sa akon nga tingog, kag si Yisrael wala magtugot sa akon.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Apang wala"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "magpatalinghug"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ang akon nga katawhan"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "sa akon nga tingog"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "kag si Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "magtugot"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:37.592747670Z",
+  "model": "glm-5.3"
+}

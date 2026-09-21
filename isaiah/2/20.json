@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Sa ina nga adlaw itapak sang tawo ⟨את⟩ ang iya mga dios-dios nga plata kag ⟨את⟩ ang iya mga dios-dios nga bulawan, nga iya ginhimo sa iya kaugalingon sa pagsimba, sa mga ilaga-bonday kag sa mga paniki.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ina"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "itapak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga dios-dios nga plata"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "mga dios-dios"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "iya plata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "mga dios-dios nga bulawan"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "mga dios-dios"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "iya bulawan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "sa pagsimba"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "sa mga ilaga-bonday"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "sa mga busay"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "kag sa mga paniki"
+    }
+  ],
+  "timestamp": "2026-09-21T18:51:56.469379366Z",
+  "model": "glm-5.3"
+}

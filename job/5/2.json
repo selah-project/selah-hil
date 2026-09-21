@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 5:2",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kay ang buang ginpamatay sang kaakig, kag ang mapatood ginpapatay sang pagkamaulan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "ang buang"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "ginpamatay"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "sang kaakig"
+    },
+    {
+      "surface": "ופתה",
+      "gloss": "kag ang mapatood"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "ginpapatay"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "sang pagkamaulan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:08:09.773782825Z",
+  "model": "glm-5.3"
+}

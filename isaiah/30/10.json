@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 30:10",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Nga nagsiling sila sa mga manananaw: Indi kamo magtan-aw, kag sa mga nagakita sang mga pangita: Indi kamo magpakita sa amon sang matarong nga mga butang; maghambal kamo sa amon sang hamis nga mga pulong, magpakita kamo sang mga ilusyon.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nagsiling sila"
+    },
+    {
+      "surface": "לראים",
+      "gloss": "sa mga manananaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "magtan-aw kamo"
+    },
+    {
+      "surface": "ולחזים",
+      "gloss": "kag sa mga nagakita sang mga pangita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "magpakita kamo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "matarong nga mga butang"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "maghambal kamo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "hamis nga mga pulong"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "magpakita kamo"
+    },
+    {
+      "surface": "מהתלות",
+      "gloss": "mga ilusyon"
+    }
+  ],
+  "timestamp": "2026-09-21T19:01:46.357615080Z",
+  "model": "glm-5.3"
+}

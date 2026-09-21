@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag kuhaon ko ang ⟨את⟩ mga ngalan sang mga Baalim sa iya baba, kag indi na sila mahinumdoman sang ila ngalan.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "kag kuhaon ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga ngalan sang mga Baalim"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mga ngalan"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "sang mga Baalim"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "sa iya baba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "sila mahinumdoman"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "sang ila ngalan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:04:55.919989632Z",
+  "model": "glm-5.3"
+}

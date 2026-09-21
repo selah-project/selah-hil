@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Duta nga ginapangita ni Yahweh nga imo Elohim ⟨את⟩ iya sing padayon; ang mga mata ni Yahweh nga imo Elohim ara sa iya, gikan sa nahauna sang tuig tubtob sa katapusan sang tuig.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Duta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "imo Elohim"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ginapangita"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "padayon"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "padayon"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang mga mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "imo Elohim"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ara sa iya"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "gikan sa nahauna"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "sang tuig"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "katapusan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    }
+  ],
+  "timestamp": "2026-09-21T17:21:19.033590667Z",
+  "model": "glm-5.3"
+}

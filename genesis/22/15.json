@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kag nagtawag ang mensahero ni Yahweh kay Avraham, sa ikaduha nga tion, gikan sa mga langit.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "nagtawag"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mensahero"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "sa ikaduha nga tion"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa mga langit"
+    }
+  ],
+  "timestamp": "2026-09-21T16:04:10.096176731Z",
+  "model": "glm-5.3"
+}

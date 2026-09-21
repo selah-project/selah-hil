@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Siya amo ang oso nga nagatago kag naghulat sa akon, isa ka leon sa mga tago nga duog.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "oso"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "nagatago kag naghulat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "leon"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "sa mga tago nga duog"
+    }
+  ],
+  "timestamp": "2026-09-21T21:23:01.497847320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag nagpalagyo si Yaakov sa sadya sang Aram, kag nag-alagad ang Yisrael para sa isa ka babayi, kag para sa isa ka babayi nagbantay ⟨sang mga karnero⟩.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "kag nagpalagyo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "sa sadya"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "sang Aram"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "kag nag-alagad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "para sa isa ka babayi"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "kag para sa isa ka babayi"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nagbantay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:05:36.785253327Z",
+  "model": "glm-5.3"
+}

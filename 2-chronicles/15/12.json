@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 15:12",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Kag nagsulod sila sa kasugtanan sa pagpangita ⟨את⟩ kang Yahweh, Elohim sang ila mga kasanayan, sang tanan nila nga tagipusuon kag sang tanan nila nga kabuhi.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "nagsulod"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "sa kasugtanan"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "sa pagpangita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "sang ila mga kasanayan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "nila nga tagipusuon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "kag sang tanan"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nila nga kabuhi"
+    }
+  ],
+  "timestamp": "2026-09-21T22:05:18.104900872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Sa kilid sang mga ganghaan, sa baba sang siyudad, sa sulod sang mga pagsulod, siya nagaingal",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "sa kilid"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "sang mga ganghaan"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sa baba"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "sang siyudad"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "sa sulod sang"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "mga pagsulod"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "siya nagaingal"
+    }
+  ],
+  "timestamp": "2026-09-21T20:57:12.095089952Z",
+  "model": "glm-5.3"
+}

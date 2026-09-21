@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 17:9",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kon makahimo siya magpakig-away ka ⟨את⟩ ako kag patyon niya ako, maga-ulipon kami sa inyo; apang kon ako makaako sa iya kag patyon ko siya, maga-ulipon kamo sa amon kag magasulog kamo ⟨את⟩ amon.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "makahimo siya"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "magpakig-away"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "ka ⟨את⟩ ako"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "kag patyon niya ako"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "maga-ulipon kami"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "nga mga ulipon"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "apang kon"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "makaako"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "והכיתיו",
+      "gloss": "kag patyon ko siya"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "maga-ulipon kamo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "nga mga ulipon"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "kag magasulog kamo"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "amon (kami)"
+    }
+  ],
+  "timestamp": "2026-09-21T18:05:14.738285836Z",
+  "model": "glm-5.3"
+}

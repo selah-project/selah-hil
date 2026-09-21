@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "kag si Azarjah nagkaanak ⟨את⟩ kang Serajah, kag si Serajah nagkaanak ⟨את⟩ kang Yehotsadak;",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "kag si Azarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkaanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Serajah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serajah"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "kag si Serajah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkaanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yehotsadak"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Yehotsadak"
+    }
+  ],
+  "timestamp": "2026-09-21T21:50:59.216678506Z",
+  "model": "glm-5.3"
+}

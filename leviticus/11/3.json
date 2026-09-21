@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Ang tanan nga nagabahin sang kuko, kag buhi sakâ kag nagabahin sing duha ka bahin sang kuko, kag nagaolo sang subo — sa mga sapat, ina nga ⟨את⟩ pwede ninyo kaonon.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ang tanan"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "nagabahin"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "sang kuko"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "kag buhi sakâ kag nagabahin sing duha ka bahin"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "sing duha ka bahin"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "sang kuko"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "kag nagaolo"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "sang subo"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "sa mga sapat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ina nga sapat (pwede ninyo kaonon)"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "pwede ninyo kaonon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:46:18.176724099Z",
+  "model": "glm-5.3"
+}

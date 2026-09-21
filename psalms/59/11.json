@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 59,
+  "translation": "Ang Elohim sang akon hesed magapaunahan sa akon; ipakita sang Elohim sa akon ang akon mga manugdumot.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sang akon hesed"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "magapaunahan sa akon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "ipakita"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "sa akon ang akon mga manugdumot"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:25.272195492Z",
+  "model": "glm-5.3"
+}

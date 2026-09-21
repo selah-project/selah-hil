@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 8:6",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag gindala sang mga pari ⟨את⟩ ang Arka sang Kasugtanan ni Yahweh sa iya duog, sa Debir sang balay, sa Balaan sang mga Balaan, sa idalom sang mga pako sang mga Kerub.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Kag gindala"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sang mga pari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Arka sang Kasugtanan ni Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ang Arka"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sang Kasugtanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "iya duog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Balaan"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "sang mga Balaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "idlom"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "sang mga pako"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "sang mga Kerub"
+    }
+  ],
+  "timestamp": "2026-09-21T18:30:30.710211427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kag ginpanubo ko siya sang espiritu sang Elohim, sa kaalam, kag sa pagsabat, kag sa kahibalo, kag sa tanan nga buluhaton.",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "Kag ginpanubo ko"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sang espiritu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "sa kaalam"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "kag sa pagsabat"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "kag sa kahibalo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "kag sa tanan"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "nga buluhaton"
+    }
+  ],
+  "timestamp": "2026-09-21T16:34:07.915271031Z",
+  "model": "glm-5.3"
+}

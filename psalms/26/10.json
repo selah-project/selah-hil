@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Nga sa ila mga kamot ⟨may⟩ malain nga plano, kag ang ila too mapunu sang suhol.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Nga"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "sa ila mga kamot"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "malain nga plano"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "kag ang ila too"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "mapunu"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "suhol"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:31.834632882Z",
+  "model": "glm-5.3"
+}

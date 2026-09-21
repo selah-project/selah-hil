@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag gintukod ni Yahweh Elohim ⟨את⟩ ang gilid nga iya ginkuha sa tawo nga magaiging babayi, kag gindala niya siya sa tawo.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "kag gintukod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang gilid"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "ang gilid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ginkuha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "nga magaiging babayi"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "kag gindala niya siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T15:54:48.449610197Z",
+  "model": "glm-5.3"
+}

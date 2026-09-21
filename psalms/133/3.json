@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 133,
+  "translation": "Subong sang hamog sang Hermon nga nagadahun sa mga bukid sang Tsiyon, kay didto ginsogo ni Yahweh ⟨את⟩ ang panalangin — kabuhi hasta sa dayon.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Subong sang hamog"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "sang Hermon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "nga nagadahun"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "mga bukid"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "sang Tsiyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsogo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang panalangin"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ang panalangin"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kabuhi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta sa"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:18.854658340Z",
+  "model": "glm-5.3"
+}

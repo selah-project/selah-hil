@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Sulud, hambali kay Paro, hari sang Mitsrayim, agod magapahalin niya ⟨את⟩ ang mga anak sang Yisrael sa iya duta.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "Sulud"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hambali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "agod magapahalin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga anak sang Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "sa iya duta"
+    }
+  ],
+  "timestamp": "2026-09-21T16:20:42.475386488Z",
+  "model": "glm-5.3"
+}

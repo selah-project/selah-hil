@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Ako, yari, ang akon kasugtanan ⟨את⟩ sa imo, kag magakabalton ka nga amay sang damo nga mga pungsod.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yari"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ang akon kasugtanan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sa imo",
+      "marks": "sa imo"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "kag magakabalton ka"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "nga amay"
+    },
+    {
+      "surface": "המון",
+      "gloss": "sang damo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nga mga pungsod"
+    }
+  ],
+  "timestamp": "2026-09-21T16:02:10.629424921Z",
+  "model": "glm-5.3"
+}

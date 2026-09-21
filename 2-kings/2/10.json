@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag nagsiling siya: Pait nga butang ang imo ginapangayo; kon makita mo ⟨את⟩ ako nga ginkuha gikan ⟨את⟩ sa imo, mabuhat ina sa imo; kag kon wala, indi mabuhat.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling siya"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "pait nga butang"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ang imo ginapangayo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "makita mo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ako nga ginkuha"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ginkuha"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "gikan ⟨את⟩ sa imo"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "mabuhat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mabuhat"
+    }
+  ],
+  "timestamp": "2026-09-21T18:39:18.756121390Z",
+  "model": "glm-5.3"
+}

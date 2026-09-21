@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "duha ka gatos ka kambing nga babayi kag duha ka pulo ka kanding nga lalaki, duha ka gatos ka karnero nga babayi kag duha ka pulo ka karnero nga lalaki,",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "kambing nga babayi"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "duha ka gatos"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "kag kanding nga lalaki"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duha ka pulo"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "karnero nga babayi"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "duha ka gatos"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "kag karnero nga lalaki"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duha ka pulo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:08:42.386712011Z",
+  "model": "glm-5.3"
+}

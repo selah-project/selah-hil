@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 101,
+  "translation": "Indi magpuyo sa sulod sang akon balay ang nagahimo sang daya; ang nagahambal sing mga bakak indi magtindog sa atubang sang akon mata.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "magpuyo"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa sulod"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "akon balay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nagahimo"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "daya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagahambal"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "mga bakak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "magtindog"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "akon mata"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:44.139921151Z",
+  "model": "glm-5.3"
+}

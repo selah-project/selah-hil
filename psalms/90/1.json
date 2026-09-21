@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 90,
+  "translation": "Pagpangamuyo ni Moshe, tawo sang Elohim. Adonay, ikaw amo ang amo nga puluy-an namon, sa lahi kag sa lahi.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "pagpangamuyo"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "puluy-an"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "היית",
+      "gloss": "amo <ang amo>"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "namon"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "sa lahi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kag sa lahi"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:01.479699072Z",
+  "model": "glm-5.3"
+}

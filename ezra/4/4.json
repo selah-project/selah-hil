@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag nahimo ang katawhan sang duta nagapahuya sang mga kamot sang katawhan sang Yehudah, kag nagapabudlayan sa ila ⟨את⟩ sa pagtukod.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kag nahimo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "nagapahuya"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "sang mga kamot"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sang katawhan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "kag nagapabudlayan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sa pagtukod"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "sa pagtukod"
+    }
+  ],
+  "timestamp": "2026-09-21T21:41:10.590830003Z",
+  "model": "glm-5.3"
+}

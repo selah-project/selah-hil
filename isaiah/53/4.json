@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 53:4",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 53,
+  "translation": "Sa kamatuorian, ang aton mga sakit siya ang nagdala, kag ang aton mga kasakit iya ginsakbay; apang kita nagtakus sa iya nga gintandog, ginpamukol sang Elohim, kag ginpaantos.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "sa kamatuorian"
+    },
+    {
+      "surface": "חלינו",
+      "gloss": "ang aton mga sakit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ang nagdala"
+    },
+    {
+      "surface": "ומכאבינו",
+      "gloss": "kag ang aton mga kasakit"
+    },
+    {
+      "surface": "סבלם",
+      "gloss": "iya ginsakbay"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "apang kita"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "nagtakus sa iya"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "nga gintandog"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ginpamukol"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "ומענה",
+      "gloss": "kag ginpaantos"
+    }
+  ],
+  "timestamp": "2026-09-21T22:31:05.182406975Z",
+  "model": "glm-5.3"
+}

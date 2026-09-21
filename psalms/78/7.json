@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Kag magabutang sang ila paglaom sa Elohim, kag indi nila makalimtan ang mga binuhat sang El, kag magabantay sang iya mga kasuguan.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "kag magabutang"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "ila paglaom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "makalimtan"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "mga binuhat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sang El"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "kag ang iya mga kasuguan"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "magabantay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:10.743653865Z",
+  "model": "glm-5.3"
+}

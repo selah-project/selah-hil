@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Apang ako, sa kadamo sang imo hesed, magasulod ako sa imo balay; magasimdang ako pa-idto sa imo balaan nga templo sa imo pagkakaalahad.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "apang ako"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "sa kadamo"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "imo hesed"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "magasulod ako"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "imo balay"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "magasimdang ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa-idto sa"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "templo"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "imo balaan"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "imo pagkakaalahad"
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:38.478420427Z",
+  "model": "glm-5.3"
+}

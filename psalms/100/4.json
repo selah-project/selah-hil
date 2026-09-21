@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 100,
+  "translation": "Sulud kamo sa iya mga ganghaan nga may pasalamat, kag sa iya mga nataran nga may pagdayeg; magpasalamat kamo sa iya, pagbulaha ninyo ang iya ngalan.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "sulud kamo"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "sa iya mga ganghaan"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "nga may pasalamat"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "sa iya mga nataran"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "nga may pagdayeg"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "magpasalamat kamo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "pagbulaha ninyo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang iya ngalan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:36.580302697Z",
+  "model": "glm-5.3"
+}

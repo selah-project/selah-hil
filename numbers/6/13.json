@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 6:13",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag amo ini ang Torah sang Nazir: sa adlaw sang pagkapuno sang iya mga adlaw sang pagpanazir, dala-on siya ⟨את⟩ sa ganghaan sang tolda sang pagkigtan-on.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "kag amo ini"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ang Torah"
+    },
+    {
+      "surface": "הנזיר",
+      "gloss": "sang Nazir"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "sang pagkapuno"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "sang mga adlaw"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "sang iya pagpanazir"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "dala-on"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ganghaan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sang tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang pagkigtan-on"
+    }
+  ],
+  "timestamp": "2026-09-21T17:00:45.195831291Z",
+  "model": "glm-5.3"
+}

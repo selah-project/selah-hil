@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Maminati kamo sang pulong ni Yahweh, mga manugdumala sang Sedom; magpatinggi kamo sang Torah sang aton nga Elohim, mga tawo sang Amorah.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "maminati kamo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sang pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "mga manugdumala"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "sang Sedom"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "magpatinggi kamo"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "sang Torah"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "sang aton nga Elohim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "sang Amorah"
+    }
+  ],
+  "timestamp": "2026-09-21T18:51:46.702437800Z",
+  "model": "glm-5.3"
+}

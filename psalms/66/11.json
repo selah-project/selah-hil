@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 66,
+  "translation": "Gindala mo kami sa pukot; nagbutang ka sang panggipa sa hawak namon.",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "gindala mo kami"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "sa pukot"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "nagbutang ka"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "panggipa"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "sa hawak namon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:45.594474778Z",
+  "model": "glm-5.3"
+}

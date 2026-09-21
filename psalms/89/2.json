@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Ang hesed ni Yahweh sa dayon akon pagakantaon; sa kada kaliwatan ipahibalo ko ang imo pagkamatinud-anon sa akon baba.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "akon pagakantaon"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "sa kada kaliwatan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kag kaliwatan"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "ipahibalo ko"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ang imo pagkamatinud-anon"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "sa akon baba"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:28.564840400Z",
+  "model": "glm-5.3"
+}

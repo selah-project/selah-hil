@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag naghambal si Barak sa iya: Kon maglakat ka kaupod sa akon, magalakat ako; kag kon indi ka maglakat kaupod sa akon, indi ako magalakat.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag naghambal"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "si Barak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "maglakat ka"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kaupod sa akon"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "magalakat ako"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "ka maglakat"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kaupod sa akon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ako magalakat"
+    }
+  ],
+  "timestamp": "2026-09-21T17:48:03.510713655Z",
+  "model": "glm-5.3"
+}

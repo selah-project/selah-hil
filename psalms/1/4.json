@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Indi amo ang mga balasubas, kundi lagas ipa nga ginapalayo sang hangin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "amo"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ang mga balasubas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kundi"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "lagas ipa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "ginapalayo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sang hangin"
+    }
+  ],
+  "timestamp": "2026-09-21T20:23:42.310559999Z",
+  "model": "glm-5.3"
+}

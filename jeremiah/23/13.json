@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 23:13",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag sa mga manalagna sang Shomeron nakita ko ang kaulawan: nagpamanalagna sila sa Baal, kag ginpatalinghug nila ⟨את⟩ ang akon nga katawhan, ⟨את⟩ si Yisrael.",
+  "tokens": [
+    {
+      "surface": "ובנביאי",
+      "gloss": "kag sa mga manalagna"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "sang Shomeron"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita ko"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ang kaulawan"
+    },
+    {
+      "surface": "הנבאו",
+      "gloss": "nagpamanalagna sila"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "sa Baal"
+    },
+    {
+      "surface": "ויתעו",
+      "gloss": "kag ginpatalinghug nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon nga katawhan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ang akon nga katawhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "si Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T19:26:46.898671813Z",
+  "model": "glm-5.3"
+}

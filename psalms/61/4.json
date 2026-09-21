@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 61,
+  "translation": "Kay ikaw ang nagligad nga madulungan ko, torre nga kusog gikan sa atubang sang kaaway.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ang nagligad nga"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "madulungan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "torre"
+    },
+    {
+      "surface": "עז",
+      "gloss": "nga kusog"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "gikan sa atubang"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "sang kaaway"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:05.736988765Z",
+  "model": "glm-5.3"
+}

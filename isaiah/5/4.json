@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 5:4",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Ano pa ang akon himoon sa akon ubasan nga wala ko pa ihmò sa sini? Ngaa, baga naghulat ako nga magabunga ini sang mga ubas, apang nagbunga ini sang mga mapait nga bunga?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ano pa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ang akon himoon"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "sa akon ubasan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nga wala"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ko pa ihmò"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa sini"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "naghulat ako"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "nga magabunga"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "mga ubas"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "apang nagbunga ini"
+    },
+    {
+      "surface": "באשים",
+      "gloss": "mga mapait nga bunga"
+    }
+  ],
+  "timestamp": "2026-09-21T18:54:33.340720393Z",
+  "model": "glm-5.3"
+}

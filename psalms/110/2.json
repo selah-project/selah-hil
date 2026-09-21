@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 110,
+  "translation": "Ang tungkod sang imo kusog ipadala ni Yahweh gikan sa Tsiyon: Pagsakop sa tunga sang imo mga kaaway.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "Ang tungkod"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "sang imo kusog"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ipadala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "gikan sa Tsiyon"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "Pagsakop"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "sang imo mga kaaway"
+    }
+  ],
+  "timestamp": "2026-09-21T22:40:38.025468307Z",
+  "model": "glm-5.3"
+}

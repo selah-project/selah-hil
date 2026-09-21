@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag nagkadto ang tanan nga mga gulang sang Yisrael, kag ginduyog sang mga saserdote ⟨את⟩ ang Arca.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "kag nagkadto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "nga mga gulang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "kag ginduyog"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sang mga saserdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Arca"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ang Arca"
+    }
+  ],
+  "timestamp": "2026-09-21T18:30:43.873863517Z",
+  "model": "glm-5.3"
+}

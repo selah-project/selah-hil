@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag magaguwa ang isa ka sanga gikan sa tusok ni Yishai, kag magabunga ang isa ka usbong gikan sa iya mga gamut.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "magaguwa"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "isa ka sanga"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "gikan sa tusok"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "kag ang isa ka usbong"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "gikan sa iya mga gamut"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "magabunga"
+    }
+  ],
+  "timestamp": "2026-09-21T18:56:47.678999308Z",
+  "model": "glm-5.3"
+}

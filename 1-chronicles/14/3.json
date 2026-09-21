@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 14:3",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag nagkuha pa si David sang mga babae sa Yerushalayim, kag natawo pa kay David sang mga anak nga lalaki kag mga anak nga babae.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nagkuha"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "mga babae"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "kag mga anak nga babae"
+    }
+  ],
+  "timestamp": "2026-09-21T21:54:51.883425240Z",
+  "model": "glm-5.3"
+}

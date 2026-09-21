@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 3:7",
+  "book": "jonah",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag nagpanawag siya kag nagsiling sa Ninweh, paagi sa sumbong sang hari kag sang iya mga dako, nga nagsiling: ang tawo kag ang mga sapat, ang mga baka kag ang mga karnero, indi sila magtilaw sang bisan ano, indi sila magpasibsib, kag sang tubig indi sila mag-inom.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "kag nagpanawag"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "בנינוה",
+      "gloss": "sa Ninweh"
+    },
+    {
+      "surface": "מטעם",
+      "gloss": "paagi sa sumbong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "וגדליו",
+      "gloss": "kag sang iya mga dako"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagsiling"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "kag ang mga sapat"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ang mga baka"
+    },
+    {
+      "surface": "והצאן",
+      "gloss": "kag ang mga karnero"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יטעמו",
+      "gloss": "sila magtilaw"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "sang bisan ano"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "sila magpasibsib"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "kag sang tubig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "sila mag-inom"
+    }
+  ],
+  "timestamp": "2026-09-21T20:13:31.459428322Z",
+  "model": "glm-5.3"
+}

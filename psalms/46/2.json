@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 46,
+  "translation": "Si Elohim ⟨amo⟩ ang aton panalipdan kag kusog, bulig sa mga kalisod nga makit-an ⟨gid⟩ sing labi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aton"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "panalipdan"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "kag kusog"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "bulig"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "sa mga kalisod"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "makit-an"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gid sing labi"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:06.184788715Z",
+  "model": "glm-5.3"
+}

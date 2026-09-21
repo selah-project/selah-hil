@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag gindakpan nila ⟨את⟩ ang hari, kag gindala nila siya ⟨אתו⟩ sa hari sang Bavlon, sa Rivlah, kag ginhambalan nila ⟨את⟩ kaupod niya sang hukman.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "kag gindakpan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "kag gindala sa taas"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya (ang hari)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "sang Bavlon"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "sa Rivlah"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "kag ginhambalan nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kaupod"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sang hukman"
+    }
+  ],
+  "timestamp": "2026-09-21T18:51:36.944079906Z",
+  "model": "glm-5.3"
+}

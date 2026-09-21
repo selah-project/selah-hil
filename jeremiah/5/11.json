@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kay nagmalain sang nagmalain sila sa akon — ang balay sang Yisrael kag ang balay sang Yehudah, neum ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "nagmalain sang"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "nagmalain sila"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "kag ang balay"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "neum ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T19:17:00.007529278Z",
+  "model": "glm-5.3"
+}

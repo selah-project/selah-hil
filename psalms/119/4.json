@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Ikaw ang nagsugo sang imo mga kasugoan ⟨sa pagbantay sang mga ina⟩ sing mabaskog.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "ang nagsugo"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "sang imo mga kasugoan"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "sa pagbantay"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sing mabaskog"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:15.486730782Z",
+  "model": "glm-5.3"
+}

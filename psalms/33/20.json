@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Ang amon kalag naghulat kay Yahweh; siya amo ang amon bulig kag ang amon taming.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Ang amon kalag"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "naghulat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "ang amon bulig"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "kag ang amon taming"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya amo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:30.837967613Z",
+  "model": "glm-5.3"
+}

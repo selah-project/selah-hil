@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag ⟨את⟩ ina nga mga langgam ginakasil-an ninyo — indi pagkaonon sila, kakasil-an sila: ⟨את⟩ ang hanashar, kag ⟨את⟩ ang peres, kag ⟨את⟩ ang azniyah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ina nga mga langgam"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ina nga mga"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "ginakasil-an ninyo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "mga langgam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "pagkaonon sila"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "kakasil-an"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hanashar"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "ang hanashar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang peres"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "ang peres"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang azniyah"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "ang azniyah"
+    }
+  ],
+  "timestamp": "2026-09-21T22:21:48.559990526Z",
+  "model": "glm-5.3"
+}

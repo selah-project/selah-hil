@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 66,
+  "translation": "Magkanta kamo sang himaya sang iya ngalan; butangi ⟨sang⟩ himaya ang iya pagdayaw.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "magkanta kamo"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "sang himaya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sang iya ngalan"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "butangi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "himaya"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ang iya pagdayaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:00.269281643Z",
+  "model": "glm-5.3"
+}

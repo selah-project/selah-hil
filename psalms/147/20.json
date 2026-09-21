@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 147,
+  "translation": "Wala niya himo sing sini sa tanan nga pungsod; kag sang mga paghukom, wala nila ini kilala. Dayeg ninyo si Yah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Wala"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "niya himo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sing sini"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "nga pungsod"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "kag sang mga paghukom"
+    },
+    {
+      "surface": "בל",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "nila ini kilala"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Dayeg ninyo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "si Yah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:22.773325256Z",
+  "model": "glm-5.3"
+}

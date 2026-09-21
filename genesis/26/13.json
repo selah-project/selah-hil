@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 26:13",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Kag nagdako ang tawo, kag nagpadayon ⟨siya⟩, nagapadayon kag nagdako, hasta nga nagdako siya sing labi.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "nagdako"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "nagpadayon"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "nagapadayon"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "kag nagdako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "nagdako"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sing labi"
+    }
+  ],
+  "timestamp": "2026-09-21T16:06:00.761891246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "kay tul-id ang pulong ni Yahweh, kag ang tanan niya nga mga ginhimo yara sa pagkamatinud-anon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "tul-id"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "niya nga mga ginhimo"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "sa pagkamatinud-anon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:56.315652783Z",
+  "model": "glm-5.3"
+}

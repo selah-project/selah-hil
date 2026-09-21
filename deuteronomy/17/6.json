@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 17:6",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Sa baba sang duha ka saksi ukon tatlo ka saksi pagapatyon ang mapatay; indi siya pagapatyon sa baba sang isa ka saksi.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duha"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "ka saksi"
+    },
+    {
+      "surface": "או",
+      "gloss": "ukon"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatlo"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "ka saksi"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "pagapatyon"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ang mapatay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "pagapatyon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    }
+  ],
+  "timestamp": "2026-09-21T17:26:51.014902446Z",
+  "model": "glm-5.3"
+}

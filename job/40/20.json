@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 40:20",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kay ang ani sang mga bukid nagadala ⟨sini⟩ para sa iya, kag tanan nga mga sapat sang kapatagan nagakadula didto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "בול",
+      "gloss": "ang ani"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "sang mga bukid"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "nagadala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa iya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag tanan nga"
+    },
+    {
+      "surface": "חית",
+      "gloss": "mga sapat"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sang kapatagan"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "nagakadula"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    }
+  ],
+  "timestamp": "2026-09-21T21:18:06.062505466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 39,
+  "translation": "⟨את⟩ ang kaban sang pagsaksi kag ⟨את⟩ iya mga barahan, kag ⟨את⟩ ang takop sang pagpatawad.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kaban sang pagsaksi"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "ang kaban"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "sang pagsaksi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga barahan"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "iya mga barahan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang takop sang pagpatawad"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ang takop sang pagpatawad"
+    }
+  ],
+  "timestamp": "2026-09-21T16:40:51.763115953Z",
+  "model": "glm-5.3"
+}

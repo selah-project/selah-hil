@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Bangod ginhimo ni David ⟨את⟩ sang matarong sa mga mata sang Yahweh, kag wala siya nagbalhin sa tanan nga ginpagangot sa iya, sa tanan nga mga adlaw sang iya kabuhi, luwas lamang sa butang ni Uriyah nga Hittihanon.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "bangod"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang matarong"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "sang matarong"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sang Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "סר",
+      "gloss": "nagbalhin"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ginpagangot sa iya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nga mga adlaw"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "sang iya kabuhi"
+    },
+    {
+      "surface": "רק",
+      "gloss": "luwas lamang"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sa butang"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ni Uriyah"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "nga Hittihanon"
+    }
+  ],
+  "timestamp": "2026-09-21T18:35:12.397749370Z",
+  "model": "glm-5.3"
+}

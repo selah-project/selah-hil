@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag sang natabo na ini, gintumba ni David ⟨את⟩ ang mga Pelishteo kag ginpakuyap sila, kag ginkuha ni David ⟨את⟩ ang meteg sang ina ⟨nga siyudad⟩ gikan sa kamot sang mga Pelishteo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag sang natabo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sang"
+    },
+    {
+      "surface": "כן",
+      "gloss": "na ini"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "gintumba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga Pelishteo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ang mga Pelishteo"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "ginpakuyap sila"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "kag ginkuha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang meteg"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "ang meteg"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "sang ina ⟨nga siyudad⟩"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gikan sa kamot"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sang mga Pelishteo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:15:54.714771643Z",
+  "model": "glm-5.3"
+}

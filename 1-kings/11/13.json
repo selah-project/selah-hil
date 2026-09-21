@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Apang ang ⟨את⟩ bug-os nga paghari indi ko pagpuniton; isa ka tribo ihatag ko sa imo anak, tungod kay David akon sulugoon, kag tungod sa Yerushalayim nga akon ginpilian.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "apang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bug-os nga paghari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bug-os"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "paghari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "pagpuniton ko"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tribo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa ka"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ihatag ko"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "sa imo anak"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tungod kay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "akon sulugoon"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "kag tungod sa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "akon ginpilian"
+    }
+  ],
+  "timestamp": "2026-09-21T18:32:40.678677266Z",
+  "model": "glm-5.3"
+}

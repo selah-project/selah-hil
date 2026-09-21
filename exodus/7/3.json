@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag ako magapagbatok ⟨את⟩ sang tagipusuon ni Paro, kag padamoon ko ang ⟨את⟩ akon mga timailhan kag ang ⟨את⟩ akon mga katingalahan sa duta sang Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kag ako"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "magapagbatok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang tagipusuon ni Paro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "tagipusuon"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "kag padamoon ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akon mga timailhan"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "akon mga timailhan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "akon mga katingalahan"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "akon mga katingalahan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:22:08.529296278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag gikan sa anak sang lima ka pulo ka tuig magabalik ⟨siya⟩ sa sangka sang pag-alagad, kag indi na ⟨siya⟩ magabuluhaton.",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "kag gikan sa anak"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima ka pulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "magabalik"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "sa sangka"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "sang pag-alagad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "magabuluhaton"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    }
+  ],
+  "timestamp": "2026-09-21T17:02:13.313295320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 109,
+  "translation": "Ginhigugma niya ang pagdaot, kag ini nakaabot sa iya; wala niya kasadyahan ang panalangin, kag ini nalayo sa iya.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "ginhigugma niya"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "ang pagdaot"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "kag ini nakaabot sa iya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "niya kasadyahan"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "ang panalangin"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "kag ini nalayo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:03.783441428Z",
+  "model": "glm-5.3"
+}

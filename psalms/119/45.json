@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Kag magalakat ako sa lapad, kay ang imo mga pagtulon-an ginpangita ko.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "kag magalakat ako"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "sa lapad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "imo mga pagtulon-an"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "ginpangita ko"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:30.240929436Z",
+  "model": "glm-5.3"
+}

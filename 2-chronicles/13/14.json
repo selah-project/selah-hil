@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 13:14",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag nagbalikid ang Yehudah, kag yari, ang away ⟨mga⟩ sa ila atubang kag sa ila likuran, kag nagsinggit sila kay Yahweh, kag ang mga saserdote nagtutudyog sang mga trumpeta.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "nagbalikid"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ang Yehudah"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kag yari"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ang away"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "kag sa likuran"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "kag nagsinggit sila"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "kag ang mga saserdote"
+    },
+    {
+      "surface": "מחצצרים",
+      "gloss": "nagtutudyog"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "sang mga trumpeta"
+    }
+  ],
+  "timestamp": "2026-09-21T22:05:36.782831074Z",
+  "model": "glm-5.3"
+}

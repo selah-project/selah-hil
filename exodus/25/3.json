@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag ini amo ang halad nga kuhaon ninyo gikan sa ila ⟨את⟩: bulawan, kag plata, kag tumbaga.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Kag ini"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "ang halad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "kuhaon ninyo"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "gikan sa ila ⟨את⟩"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "kag plata"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "kag tumbaga"
+    }
+  ],
+  "timestamp": "2026-09-21T16:32:16.537300921Z",
+  "model": "glm-5.3"
+}

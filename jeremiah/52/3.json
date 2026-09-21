@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 52:3",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 52,
+  "translation": "Kay tungod sa kaakig ni Yahweh nangyari ⟨ini⟩ sa Yerushalayim kag sa Yehudah, hasta gintabog niya ⟨את⟩ ⟨אותם⟩ sila halin sa iya atubangan; kag nagrebelde si Tsidkiyahu sa hari sang Bavel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kaakig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "nangyari"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "kag sa Yehudah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "השליכו",
+      "gloss": "gintabog niya"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "sila (Yerushalayim kag Yehudah)"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "halin sa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "iya atubangan"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "kag nagrebelde"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "si Tsidkiyahu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "sang Bavel"
+    }
+  ],
+  "timestamp": "2026-09-21T19:40:01.471843052Z",
+  "model": "glm-5.3"
+}

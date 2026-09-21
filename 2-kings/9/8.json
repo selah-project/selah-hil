@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag magakalag ang tanan nga balay ni Achav, kag putlon ko sa kay Achav ang nagaihi sa dingding, kag ang ginpunggan kag ang ginbiahi, sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "Kag magakalag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nga balay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Achav"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "kag putlon ko"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "sa kay Achav"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "ang nagaihi"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "sa dingding"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "kag ang ginpunggan"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "kag ang ginbiahi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T18:42:30.074580610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag ako, nagbutang ako sang akon nga hari sa Tsiyon, sa akon balaan nga bukid.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kag ako"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "nagbutang ako"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "akon nga hari"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "akon balaan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:23:06.464288613Z",
+  "model": "glm-5.3"
+}

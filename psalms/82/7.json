@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 82,
+  "translation": "Apang pareho sang tawo mangamatay kamo, kag pareho sang isa sa mga manugdumala magkatumba kamo.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "apang"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "pareho sang tawo"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "mangamatay kamo"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "kag pareho sang isa"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "sa mga manugdumala"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "magkatumba kamo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:46.896692415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Ano ang pakinabang sang nagakabuhat sa iya nga pagpangabudlay?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ano"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "pakinabang"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "sang nagakabuhat"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iya"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "pagpangabudlay"
+    }
+  ],
+  "timestamp": "2026-09-21T21:25:26.932774896Z",
+  "model": "glm-5.3"
+}

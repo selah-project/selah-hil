@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag si David kag ang tanan nga balay ni Yisreal nagdala pa-ibabaw sang ⟨את⟩ arca ni Yahweh sa sininggit kag sa tingog sang sungay.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "kag si David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nga balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisreal"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "nagdala pa-ibabaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arca"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "sa sininggit"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "kag sa tingog"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "sang sungay"
+    }
+  ],
+  "timestamp": "2026-09-21T18:16:26.940122711Z",
+  "model": "glm-5.3"
+}

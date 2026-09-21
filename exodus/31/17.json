@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 31:17",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "sa akon kag sa mga anak nga lalaki sang Yisrael — tanda ini sa dayon — kay sa anom ka adlaw gintuga ni Yahweh ⟨את⟩ ang mga langit kag ⟨את⟩ ang duta, kag sa ikapito nga adlaw nagpahuway siya kag nagbag-o sang iya nefesh.",
+  "tokens": [
+    {
+      "surface": "ביני",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "אות",
+      "gloss": "tanda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "anom"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ka adlaw"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gintuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ikapito nga adlaw"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "nagpahuway siya"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "kag nagbag-o sang iya nefesh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:35:54.684615313Z",
+  "model": "glm-5.3"
+}

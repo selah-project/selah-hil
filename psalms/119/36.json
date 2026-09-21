@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Iduyo ang akon kasingkasing sa imo mga pagsaksi, kag indi ⟨kadto⟩ sa mapintas nga ganansya.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "Iduyo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang akon kasingkasing"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "imo mga pagsaksi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag indi sa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kadto⟩ sa"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "mapintas nga ganansya"
+    }
+  ],
+  "timestamp": "2026-09-21T22:40:37.428864057Z",
+  "model": "glm-5.3"
+}

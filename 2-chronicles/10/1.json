@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag nangadto si Rehavam sa Shekhem, kay sa Shekhem nagkadto ang tanan nga Yisrael sa pagpahari ⟨sa iya⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nangadto"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "sa Shekhem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nagkadto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "pagpahari"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "siya"
+    }
+  ],
+  "timestamp": "2026-09-21T22:04:08.798723087Z",
+  "model": "glm-5.3"
+}

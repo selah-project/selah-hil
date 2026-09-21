@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 37:18",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Matuod gid, Yahweh, nga gintapas sang mga hari sang Ashur ⟨את⟩ tanan nga mga duta kag ⟨את⟩ ang ila kaugalingon nga duta.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Matuod gid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "nga gintapas"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "sang mga hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sang Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga duta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "nga mga duta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang ila kaugalingon nga duta"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ang ila duta"
+    }
+  ],
+  "timestamp": "2026-09-21T19:04:49.756135973Z",
+  "model": "glm-5.3"
+}

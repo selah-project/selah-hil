@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag ang mga anak nga lalaki ni Eli mga anak nga lalaki sang mapintas, wala nila makilala ⟨את⟩ si Yahweh.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "kag ang mga anak nga lalaki"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ni Eli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "sang mapintas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nila makilala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T17:57:29.530070724Z",
+  "model": "glm-5.3"
+}

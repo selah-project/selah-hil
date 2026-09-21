@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "kay sa mga gumahimo sang buluhaton ginahatag nila ini, kag ginpakusog nila pinaagi sini ⟨את⟩ sang balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "sa mga gumahimo"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "sang buluhaton"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "ginahatag nila ini"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "kag ginpakusog nila"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pinaagi sini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T18:44:51.748870604Z",
+  "model": "glm-5.3"
+}

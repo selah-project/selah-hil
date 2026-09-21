@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 38,
+  "translation": "Kay ipahayag ko ang akon kalainan; magakabalaka ako tungod sang akon sala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "ang akon kalainan"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ipahayag ko"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "magakabalaka ako"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "tungod sang akon sala"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:23.560089702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 1:45",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag gintahuman ⟨sang lana⟩ ni Tsadok ang pari kag ni Natan ang manalagna ⟨אתו⟩ nga hari sa Gichon; kag nagsaka sila gikan didto nga malipayon, kag nangin sing dakung tingog ang ciudad; amo ini ang tingog nga inyo nabatian.",
+  "tokens": [
+    {
+      "surface": "וימשחו",
+      "gloss": "gintahuman"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "siya (si Shelomoh)"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "si Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang pari"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "kag si Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ang manalagna"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "nga hari"
+    },
+    {
+      "surface": "בגחון",
+      "gloss": "sa Gichon"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "kag nagsaka sila"
+    },
+    {
+      "surface": "משם",
+      "gloss": "gikan didto"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "nga malipayon"
+    },
+    {
+      "surface": "ותהם",
+      "gloss": "kag nangin sing dakung tingog"
+    },
+    {
+      "surface": "הקריה",
+      "gloss": "ang ciudad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "amo ini"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "inyo nabatian"
+    }
+  ],
+  "timestamp": "2026-09-21T18:26:14.043352591Z",
+  "model": "glm-5.3"
+}

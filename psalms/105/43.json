@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Kag ginpagwa niya ang iya katawhan nga may kalipay, ang ⟨את⟩ iya mga pinili nga may pag-amba.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Kag ginpagwa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "iya katawhan"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "nga may kalipay"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "nga may pag-amba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya mga pinili"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "iya mga pinili"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:03.007230431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 10:8",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag ginbiyaan niya ⟨את⟩ ang tambag sang mga tigulang nga ila gintambag sa iya, kag nagpanagtapak siya ⟨את⟩ sa mga batan-on nga nagdako ⟨את⟩ kaupod sa iya, ang mga nagatindog sa iya atubang.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "ginbiyaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tambag"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "ang tambag"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "mga tigulang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "gintambag sa iya"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "nagpanagtapak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga batan-on"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "mga batan-on"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "nagdako"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kaupod sa iya"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "mga nagatindog"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa iya atubang"
+    }
+  ],
+  "timestamp": "2026-09-21T22:04:59.394250796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Sawayon gid niya ⟨את⟩ kamo sang pagsaway, kon sa tago nagabunggo kamo sang mga panagway.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "sang pagsaway"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "sawayon gid niya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo",
+      "marks": "kamo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sa tago"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "mga panagway"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "nagabunggo kamo"
+    }
+  ],
+  "timestamp": "2026-09-21T21:09:18.049898623Z",
+  "model": "glm-5.3"
+}

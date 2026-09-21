@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Indi pagtipuna ang akon kalag kaupod sang mga salaaron, kag ang akon kabuhi kaupod sang mga tawo sang dugo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "pagtipuna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod sang"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "mga salaaron"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kag kaupod sang"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "sang dugo"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ang akon kabuhi"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:31.834357335Z",
+  "model": "glm-5.3"
+}

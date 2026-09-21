@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Sa Elohim gintagal-anan kita sang bug-os nga adlaw, kag ang imo ngalan pagadunggan ta sa dayon. Selah.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Sa Elohim"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "gintagal-anan kita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bug-os"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nga adlaw"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "kag ang imo ngalan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "pagadunggan ta"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:25.389858219Z",
+  "model": "glm-5.3"
+}

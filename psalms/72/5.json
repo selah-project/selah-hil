@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 72,
+  "translation": "Magakilala sila sang kahadlok sa imo kaupod sang adlaw, kag sa atubang sang bulan, dawat sang mga dawat.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "magakilala sila sang kahadlok sa imo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod sang"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "kag sa atubang sang"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "דור",
+      "gloss": "dawat"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "mga dawat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:01.099106386Z",
+  "model": "glm-5.3"
+}

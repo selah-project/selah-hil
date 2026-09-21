@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag nagsiling ako: Magapaungan ako ⟨את⟩ kamo gikan sa kapaitan sang Mitsrayim pakadto sa duta sang Kenanhon, kag sang Hithanhon, kag sang Emoranhon, kag sang Perizanhon, kag sang Hivanhon, kag sang Yebusanhon — pakadto sa duta nga nagaawas sang gatas kag dugos.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "magapaungan ako"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo",
+      "marks": "kamo"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "kapaitan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pakadto sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenanhon"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "kag Hithanhon"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "kag Emoranhon"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "kag Perizanhon"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "kag Hivanhon"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "kag Yebusanhon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pakadto sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "nagaawas"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "gatas"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "dugos"
+    }
+  ],
+  "timestamp": "2026-09-21T16:22:18.079705981Z",
+  "model": "glm-5.3"
+}

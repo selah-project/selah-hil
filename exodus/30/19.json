@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kag magapanghugas si Aharon kag ang iya mga anak sa sini, ⟨את⟩ ila mga kamot kag ⟨את⟩ ila mga tikod.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "magapanghugas"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "kag ang iya mga anak"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "sa sini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ila mga kamot"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ila mga kamot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ila mga tikod"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ila mga tikod"
+    }
+  ],
+  "timestamp": "2026-09-21T16:34:32.623839039Z",
+  "model": "glm-5.3"
+}

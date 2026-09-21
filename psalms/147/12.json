@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 147,
+  "translation": "Sangdayogi, Yerushalayim, ⟨את⟩ si Yahweh; pagdayegi, Tsiyon, ang imo Elohim.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "sangdayogi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "pagdayegi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ang imo Elohim"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:07.527183488Z",
+  "model": "glm-5.3"
+}

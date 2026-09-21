@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag nakaabot si Amalek kag nakig-away ⟨עם⟩ sa Yisrael sa Refidim.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "nakaabot"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "si Amalek"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "nakig-away"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨sa⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "sa Refidim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:28:13.393992790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 113,
+  "translation": "Mapaladayaw ang ngalan ni Yahweh, magkutlo subong kag tubtob sa dayon ⟨nga wala sing katapusan⟩.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "mapaladayaw"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "mapaladayaw"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "magkutlo subong"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag tubtob sa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:37.540567501Z",
+  "model": "glm-5.3"
+}

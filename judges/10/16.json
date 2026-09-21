@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag ginkuha nila ⟨את⟩ ang mga dios sang dayo taliwa sa ila, kag nag-alagad sila ⟨את⟩ kay Yahweh, kag nagduka ang iya kalag sa kapait sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "kag ginkuha nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga dios sang dayo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mga dios"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "sang dayo"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "taliwa sa ila"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "kag nag-alagad sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "kag nagduka"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "iya kalag"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "sa kapait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T17:49:27.646861291Z",
+  "model": "glm-5.3"
+}

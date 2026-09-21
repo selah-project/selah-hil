@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kay ang mga ginpanalanginan niya magapanimod sang duta, kag ang mga ginsapa niya magakaput.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "ang mga ginpanalanginan niya"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "magapanimod"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "kag ang mga ginsapa niya"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "magakaput"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:04.030098283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 56:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 56,
+  "translation": "Sa akon, Elohim, ang imo mga panumpa; mabayaran ko ang ⟨mga⟩ pasasalamat sa imo.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "Sa akon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "imo mga panumpa"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "mabayaran ko"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "mga pasasalamat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:00.396458159Z",
+  "model": "glm-5.3"
+}

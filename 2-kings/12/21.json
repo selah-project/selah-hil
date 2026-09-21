@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag nagbangon ang iya mga sulugoon kag nagkasabwat sang kasabwat, kag ginhampak nila ⟨את⟩ si Yoash sa Beit-Milo, sa nagapa-utod sa Silla.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "Kag nagbangon"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ang iya mga sulugoon"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "kag nagkasabwat"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "kasabwat"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "kag ginhampak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yoash"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "si Yoash"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa Beit"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "ang nagapa-utod"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "sa Silla"
+    }
+  ],
+  "timestamp": "2026-09-21T18:44:29.071496161Z",
+  "model": "glm-5.3"
+}

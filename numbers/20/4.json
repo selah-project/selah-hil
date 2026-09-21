@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag ngaa nga nangin dala ninyo ⟨את⟩ ang katilingban ni Yahweh pakadto sa sini nga kamingawan, sa pagpatay sa amon didto, kami kag ang amon mga sapat?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "kag ngaa"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "nga nangin dala ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katilingban ni Yahweh"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ang katilingban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pakadto"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "sa … kamingawan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sini nga"
+    },
+    {
+      "surface": "למות",
+      "gloss": "sa pagpatay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "kag ang amon mga sapat"
+    }
+  ],
+  "timestamp": "2026-09-21T17:09:39.892075175Z",
+  "model": "glm-5.3"
+}

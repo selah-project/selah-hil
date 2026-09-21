@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 6:5",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kay sila kag ang ila mga kahayupan magasaka, kag ang ila mga tolda magasulod, sing kadamo sang duhol sa kadamuon, kag sa ila kag sa ila mga kamelyo wala sing numero, kag nagsulod sila sa duta sa paglaglag sini.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ומקניהם",
+      "gloss": "kag ang ila mga kahayupan"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "magasaka"
+    },
+    {
+      "surface": "ואהליהם",
+      "gloss": "kag ang ila mga tolda"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "magasulod"
+    },
+    {
+      "surface": "כדי",
+      "gloss": "sing kadamo"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "sang duhol"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "sa kadamuon"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "kag sa ila"
+    },
+    {
+      "surface": "ולגמליהם",
+      "gloss": "kag sa ila mga kamelyo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "sing numero"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "kag nagsulod sila"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "לשחתה",
+      "gloss": "sa paglaglag sini"
+    }
+  ],
+  "timestamp": "2026-09-21T17:47:41.202560545Z",
+  "model": "glm-5.3"
+}

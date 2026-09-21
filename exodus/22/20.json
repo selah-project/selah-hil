@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kag ang dayo indi nimo pag-abusohon, kag indi nimo pagpuguon ⟨siya⟩, kay mga dayo ⟨kamo⟩ sa duta sang Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "kag ang dayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "pag-abusohon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "pagpuguon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "mga dayo"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:30:42.089378923Z",
+  "model": "glm-5.3"
+}

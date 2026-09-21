@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 18:30",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag magabantay kamo ⟨את⟩ sa akon pagbantay, agod indi magahimo sang mga kasuguan nga kahalayhon nga ginhimo sa atubang ninyo, kag indi kamo magainawan sa ila; ako si Yahweh ang inyo Elohim.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "kag magabantay kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akon pagbantay"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "akon pagbantay"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "agod indi"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "magahimo"
+    },
+    {
+      "surface": "מחקות",
+      "gloss": "mga kasuguan"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "nga kahalayhon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "sa atubang ninyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "kamo magainawan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ang inyo Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:49:51.367749250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag ang iya ginhimo sa inyo sa katingalahan, hasta sa pag-abot ninyo sa sini nga duog:",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "kag ang iya"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa katingalahan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "sa pag-abot ninyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "duog"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sini nga"
+    }
+  ],
+  "timestamp": "2026-09-21T17:22:25.129933280Z",
+  "model": "glm-5.3"
+}

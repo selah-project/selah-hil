@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 49,
+  "translation": "Ituyang ko sa pamulong ang akon igugto; bubuksan ko sa kinor ang akon bugtong.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "ituyang ko"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "sa pamulong"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "ang akon igugto"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "bubuksan ko"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "sa kinor"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "ang akon bugtong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:40.299283138Z",
+  "model": "glm-5.3"
+}

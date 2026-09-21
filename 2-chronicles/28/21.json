@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 28:21",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Kay nagbahin si Achaz ⟨sa⟩ ⟨את⟩ ang balay ni Yahweh kag ⟨את⟩ ang balay sang hari kag sang mga prinsipe, kag ginhatag niya ⟨ini⟩ sa hari sang Ashur, apang wala ini nakabulig sa iya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "nagbahin"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "si Achaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay ni Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang balay sang hari"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "kag sang mga prinsipe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kag ginhatag niya"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sang Ashur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apang wala"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "nakabulig"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T22:10:25.435221720Z",
+  "model": "glm-5.3"
+}

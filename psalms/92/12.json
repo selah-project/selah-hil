@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 92,
+  "translation": "Kag ang akon mata nakakita sa akon mga manunulgid; ang akon mga igpagabati sang mga tawo nga malain nga nagatindog laban sa akon.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "nakakita"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "akon mata"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "sa akon mga manunulgid"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "mga nagatindog"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "laban sa akon"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "mga tawo nga malain"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "manggabati"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "akon mga ig"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:27.314145094Z",
+  "model": "glm-5.3"
+}

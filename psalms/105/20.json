@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Nagsugo ang hari kag ginbuhian siya; ang manugdumala sang mga pungsod kag ginpahalu siya.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "nagsugo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "kag ginbuhian siya"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ang manugdumala"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "sang mga pungsod"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "kag ginpahalu siya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:47.220681288Z",
+  "model": "glm-5.3"
+}

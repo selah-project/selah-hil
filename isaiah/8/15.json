@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag madamo sa ila ang matumba, kag magalagpak kag magabukbuk, kag maligpit kag madakpan.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "kag matumba"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "madamo"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "kag magalagpak"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "kag magabukbuk"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "kag maligpit"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "kag madakpan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:53:49.665468964Z",
+  "model": "glm-5.3"
+}

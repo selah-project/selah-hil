@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 55,
+  "translation": "Kag nagsiling ako: Sin-o ⟨ba⟩ ang magahatag sa akon sang pako subong sang salampati? Magalupad ako kag magapahuway ako.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "kag nagsiling ako"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "magahatag"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "sang pako"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "subong sang salampati"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "magalupad ako"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "kag magapahuway ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:08.530798812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ginhimo ni Elohim ⟨את⟩ ang rakiya, kag ginbulag sa tunga sang mga tubig nga ara sa ilalom sang rakiya kag sa tunga sang mga tubig nga ara sa ibabaw sang rakiya; kag nahimo ini.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kag ginhimo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang rakiya"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "ang rakiya"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "kag ginbulag"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sang mga tubig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga ara"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "sa ilalom"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "sang rakiya"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "kag sa tunga"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sang mga tubig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga ara"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "sang rakiya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag nahimo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-21T15:56:23.543362893Z",
+  "model": "glm-5.3"
+}

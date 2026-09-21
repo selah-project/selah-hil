@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Yahweh, akon Elohim, nangadiyaw ako sa imo, kag gin-ayo mo ako.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "akon Elohim"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "nangadiyaw ako"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "kag gin-ayo mo ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:10.061014300Z",
+  "model": "glm-5.3"
+}

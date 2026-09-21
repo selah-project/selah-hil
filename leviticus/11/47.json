@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "agod makilain ⟨ang→ang> ang mara kag ang matinlo, kag ang buhi nga ginakaon kag ang buhi nga indi kaonon.",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "agod makilain"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taliwang sa"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ang mara"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "kag taliwang sa"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "ang matinlo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "kag taliwang sa"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ang buhi"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "nga ginakaon"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "kag taliwang sa"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ang buhi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kaonon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:45:07.824852546Z",
+  "model": "glm-5.3"
+}

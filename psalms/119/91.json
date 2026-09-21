@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 91,
+  "ref": "psalms 119:91",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Suno sa imo mga paghukom nagatindog sila sa adlaw nga ini, kay ang tanan amo ang imo mga sulugoon.",
+  "tokens": [
+    {
+      "surface": "למשפטיך",
+      "gloss": "suno sa imo mga paghukom"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "nagatindog sila"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sa adlaw nga ini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "amo ang imo mga sulugoon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:50:17.092597573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 48,
+  "translation": "Kag nakita ni Yisrael ⟨את⟩ ang mga anak ni Yosef, kag nagsiling: Sin-o ini?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Kag nakita"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga anak ni Yosef"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Sin-o"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-21T22:18:18.849517157Z",
+  "model": "glm-5.3"
+}

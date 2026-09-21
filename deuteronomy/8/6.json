@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag magatagana ka sang ⟨את⟩ sang mga kasuguan ni Yahweh nga imo Elohim, sa paglakat sa iya mga dalan kag sa pagkahadlok sa iya.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "kag magatagana ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga kasuguan"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mga kasuguan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "imo Elohim"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "sa paglakat"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "sa iya mga dalan"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "kag sa pagkahadlok"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T17:21:54.608200148Z",
+  "model": "glm-5.3"
+}

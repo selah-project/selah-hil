@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Itipon ⟨את⟩ ang ihap sang mga anak ni Gershyon — sila man — suno sa balay sang ila mga amay, suno sa ila mga banay.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "itipon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ihap"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ihap"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershyon"
+    },
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "suno sa balay"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "sang ila mga amay"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "suno sa ila mga banay"
+    }
+  ],
+  "timestamp": "2026-09-21T16:59:43.047839109Z",
+  "model": "glm-5.3"
+}

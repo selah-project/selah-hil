@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Kanta kamo kay Yahweh sing bag-o nga kanta, ang iya pagdungog sa katapusan sang duta; kamo nga nagapanultol sa dagat kag sa tanan nga ara sini, mga puro kag ang mga nagapuyo sini.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Kanta kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kanta"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bag-o"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ang iya pagdungog"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "sa katapusan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "mga nagapanultol"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "kag sa tanan nga ara sini"
+    },
+    {
+      "surface": "איים",
+      "gloss": "mga puro"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "kag ang mga nagapuyo sini"
+    }
+  ],
+  "timestamp": "2026-09-21T19:05:37.056914668Z",
+  "model": "glm-5.3"
+}

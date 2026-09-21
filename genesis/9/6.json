@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Ang nagapahulag sang dugo sang tawo — sang tawo pagahulagon ang iya dugo, kay sa larawan sang Elohim ginbuhat niya ⟨את⟩ ang tawo.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "nagapahulag"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "iya dugo"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "pagahulagon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "sa larawan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginbuhat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tawo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T15:57:08.860891043Z",
+  "model": "glm-5.3"
+}

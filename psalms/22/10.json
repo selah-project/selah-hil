@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kay ikaw ang nagpagwa sa akon gikan sa tiyan; ginpabakod mo ako sa mga suso sang akon iloy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "ang nagpagwa sa akon"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "gikan sa tiyan"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "ginpabakod mo ako"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "mga suso"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "sang akon iloy"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:17.768386614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 54:5",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 54,
+  "translation": "Kay ang imo bana amo ang naghimo sa imo, si Yahweh sang Tsevaot ang iya ngalan, kag ang imo manugbawi amo ang Balaan sang Yisrael, ang Elohim sang bug-os nga duta tawagon niya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בעליך",
+      "gloss": "imo bana"
+    },
+    {
+      "surface": "עשיך",
+      "gloss": "naghimo sa imo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "iya ngalan"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "kag imo manugbawi"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Balaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bug-os"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "tawagon"
+    }
+  ],
+  "timestamp": "2026-09-21T19:10:07.727644991Z",
+  "model": "glm-5.3"
+}

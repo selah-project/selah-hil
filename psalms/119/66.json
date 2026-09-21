@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Isigalan mo ako sang maayo nga paghukum kag kahibalo, kay sa imo mga kasuguan nagtuo ako.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "paghukum"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "kag kahibalo"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "isigalan mo ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "sa imo mga kasuguan"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "nagtuo ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:50:34.943760309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 68,
+  "translation": "Nagsiling si Adonay: Sa Bashan magabalik ako, magabalik ako sa kadaluman sang dagat.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "nagsiling"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "sa Bashan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "magabalik ako"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "magabalik ako"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "sa kadaluman"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dagat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:01.009104463Z",
+  "model": "glm-5.3"
+}

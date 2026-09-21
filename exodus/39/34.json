@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 39:34",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 39,
+  "translation": "kag ⟨את⟩ ang tabig sang panit sang mga karnero nga mapula, kag ⟨את⟩ ang tabig sang panit sang mga tachash, kag ⟨את⟩ ang kurtina sang panganabas.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tabig sang panit sang mga karnero nga mapula"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "ang tabig"
+    },
+    {
+      "surface": "עורת",
+      "gloss": "sang panit"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "sang mga karnero"
+    },
+    {
+      "surface": "המאדמים",
+      "gloss": "nga mapula"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tabig sang panit sang mga tachash"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "ang tabig"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "sang panit"
+    },
+    {
+      "surface": "התחשים",
+      "gloss": "sang mga tachash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang kurtina sang panganabas"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "ang kurtina"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "sang panganabas"
+    }
+  ],
+  "timestamp": "2026-09-21T16:40:51.762970462Z",
+  "model": "glm-5.3"
+}

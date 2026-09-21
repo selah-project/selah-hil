@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 18:16",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Sa sadto nga tion gintapyas ni Hizkiyah ⟨את⟩ ang mga pultahan sang templo ni Yahweh kag ⟨את⟩ ang mga harigi nga gintapahan ni Hizkiyah nga hari sang Yehudah, kag ginhatag niya ang mga ini sa hari sang Ashur.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Sa sadto"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "nga tion"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "gintapyas"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "ni Hizkiyah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pultahan"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ang mga pultahan"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "sang templo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga harigi"
+    },
+    {
+      "surface": "האמנות",
+      "gloss": "ang mga harigi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "gintapahan"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "ni Hizkiyah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nga hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "kag ginhatag niya ang mga ini"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sang Ashur"
+    }
+  ],
+  "timestamp": "2026-09-21T18:47:08.988038165Z",
+  "model": "glm-5.3"
+}

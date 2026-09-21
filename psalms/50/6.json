@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 50,
+  "translation": "Kag nagsugid ang mga langit sang iya katarungan, kay si Elohim hukom siya — Selah.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "Kag nagsugid"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "sang iya katarungan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "hukom"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:57.661995338Z",
+  "model": "glm-5.3"
+}

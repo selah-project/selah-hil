@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag nagsiling siya sa akon: Anak sang tawo, tumindog ka sa imo mga tiil, kag magahambal ako ⟨אתך⟩ sa imo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling siya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "tumindog ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "imo mga tiil"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "kag magahambal ako"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩",
+      "marks": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T22:35:03.793871923Z",
+  "model": "glm-5.3"
+}

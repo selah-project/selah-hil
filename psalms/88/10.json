@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 88,
+  "translation": "Naguoa ang akon mata tungod sang akon kahapisan, gintawag kita sa imon, Yahweh, sa tanan nga adlaw, gintin-an ko sa imon ang akon mga palad.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ang akon mata"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "naguoa"
+    },
+    {
+      "surface": "מני",
+      "gloss": "tungod sang"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kahapisan"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "gintawag kita sa imon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nga adlaw"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "gintin-an ko"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imon"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ang akon mga palad"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:13.984921328Z",
+  "model": "glm-5.3"
+}

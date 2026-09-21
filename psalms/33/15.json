@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Siya nga naggama sang ila mga kasingkasing magkahiusa, siya nga nakasabot sa tanan nga ila mga binuhat.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "Siya nga naggama"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "magkahiusa"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "sang ila mga kasingkasing"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "siya nga nakasabot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ila mga binuhat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:34.998400480Z",
+  "model": "glm-5.3"
+}

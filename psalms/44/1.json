@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Sa manugdumala, para sa mga anak ni Korach, isa ka pinadiro-an nga pagtulun-an.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa manugdumala"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "para sa mga anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "pinadiro-an nga pagtulun-an"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:39.303145108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 74,
+  "translation": "Ikaw ang nagbuka sang tubod kag sang sapa; ikaw ang nagpauga sang mga suba nga padayon.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "nagbuka"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "sang tubod"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "kag sang sapa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "nagpauga"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "sang mga suba"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "nga padayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:32.038853574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 54,
+  "translation": "Kay sa too kag sa wala ikaw magauntat, kag ang imo kaliwat magapanag-iya sang mga pungsod, kag ang mga ciudad nga ginbiyaan pagapuy-an nila.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "sa too"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "kag sa wala"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "ikaw magauntat"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "kag ang imo kaliwat"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "sang mga pungsod"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "magapanag-iya"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "kag ang mga ciudad"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "nga ginbiyaan"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "pagapuy-an nila"
+    }
+  ],
+  "timestamp": "2026-09-21T19:10:39.401303408Z",
+  "model": "glm-5.3"
+}

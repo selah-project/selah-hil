@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag nagpanibug-o ang kasing-kasing ni Paro, kag wala siya magpatalingked sa ila, subong sang ginhambal ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "nagpanibug-o"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kasing-kasing"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "magpatalingked"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ginhambal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:21:38.657501335Z",
+  "model": "glm-5.3"
+}

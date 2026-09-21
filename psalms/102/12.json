@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 102,
+  "translation": "Ang akon mga adlaw pareho sang anino nga nagayana, kag ako pareho sang balanon nga nagluya.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "ang akon mga adlaw"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "pareho sang anino"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "nga nagayana"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kag ako"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "pareho sang balanon"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "nagluya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:49.873178778Z",
+  "model": "glm-5.3"
+}

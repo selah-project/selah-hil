@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag gintindog ni Elohim sa iya isa ka manuglalaban, ⟨si⟩ Rezon nga anak ni Elyada, nga naglayas gikan ⟨את⟩ kay Hadadezer nga hari sang Tsobah, iya nga agalon.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Kag gintindog"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "isa ka manuglalaban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Rezon"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "si Rezon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "ni Elyada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "naglayas"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "gikan ⟨את⟩",
+      "marks": "kay Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "kay Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nga hari"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "sang Tsobah"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "iya nga agalon"
+    }
+  ],
+  "timestamp": "2026-09-21T18:32:23.873106538Z",
+  "model": "glm-5.3"
+}

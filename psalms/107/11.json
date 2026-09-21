@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 107,
+  "translation": "Kay nagsukol sila sa mga pulong sang El, kag gintamay ang tambag sang Elyon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "nagsukol sila"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "sa mga pulong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sang El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "kag ang tambag"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "sang Elyon"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "gintamay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:14.534896662Z",
+  "model": "glm-5.3"
+}

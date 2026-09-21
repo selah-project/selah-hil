@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag nabatian ko ⟨את⟩ ang tiwang sang iya mga pulong, kag sang madungog ko ⟨את⟩ ang tiwang sang iya mga pulong, ako nangin ⟨nga⟩ natulog nga bug-at sa akon dagway, kag ang akon dagway padulong sa duta.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "Kag nabatian ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tiwang"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiwang"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "sang iya mga pulong"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "kag sang madungog ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tiwang"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiwang"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "sang iya mga pulong"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kag ako"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nangin"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "natulog nga bug-at"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "akon dagway"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "kag ang akon dagway"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "padulong sa duta"
+    }
+  ],
+  "timestamp": "2026-09-21T21:37:52.951541644Z",
+  "model": "glm-5.3"
+}

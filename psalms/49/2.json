@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 49,
+  "translation": "Mamdungog kamo sang ina, tanan nga mga pungsod; magpanggana kamo, tanan nga mga pumoluyo sang kalibutan.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mamdungog kamo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sang ina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mga pungsod"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "magpanggana kamo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mga pumoluyo"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "sang kalibutan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:26.502968706Z",
+  "model": "glm-5.3"
+}

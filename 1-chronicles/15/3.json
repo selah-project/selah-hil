@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 15:3",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Kag nagtipon si David sang ⟨את⟩ tanan nga Yisrael sa Yerushalayim, sa pagpatindog sang ⟨את⟩ kahon ni Yahweh sa iya duog, nga iya ginhanda para sa iya.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "nagtipon"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "sa pagpatindog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kahon"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kahon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "iya duog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "ginhanda"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T21:54:51.882197817Z",
+  "model": "glm-5.3"
+}

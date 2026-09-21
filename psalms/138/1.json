@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 138,
+  "translation": "Sang kay David. Magapasalamat ako sa imo sang tanan ko nga tagipusuon; sa atubang sang Elohim magakanta ako sa imo.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Sang kay David"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "magapasalamat ako sa imo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ko nga tagipusuon"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "magakanta ako sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:06.811699625Z",
+  "model": "glm-5.3"
+}

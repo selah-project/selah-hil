@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kon nagmaalam ka, nagmaalam ka para sa imo kaugalingon; apang kon nagpaubah ka, ikaw lamang ang magadala sini.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "nagmaalam"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "nagmaalam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa imo kaugalingon"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "kon nagpaubah"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ikaw lamang"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "magadala"
+    }
+  ],
+  "timestamp": "2026-09-21T20:56:31.632375599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag ginpahibalo ni Mordekhai sa iya ⟨את⟩ tanan nga natabo sa iya, kag ⟨את⟩ ang gidamonon sang plati nga ginsiling ni Haman nga itimbang sa mga karangganan sang hari parte sa mga Yehudi, agod paglaglagon sila.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "kag ginpahibalo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "si Mordekhai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga natabo sa iya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "natabo sa iya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang gidamonon sang plati"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "ang gidamonon"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sang plati"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ginsiling"
+    },
+    {
+      "surface": "המן",
+      "gloss": "si Haman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "nga itimbang"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "mga karangganan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "parte sa mga Yehudi"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "agod paglaglagon sila"
+    }
+  ],
+  "timestamp": "2026-09-21T21:30:04.935825845Z",
+  "model": "glm-5.3"
+}

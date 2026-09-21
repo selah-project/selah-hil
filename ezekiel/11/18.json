@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 11:18",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag magakari sila sa sadto, kag kuhaon nila ⟨את⟩ tanan nga mga karumal-dumal sini kag ⟨את⟩ tanan nga mga kahalayan sini sa sini.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "kag magakari sila"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sa sadto"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "kag kuhaon nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga karumal-dumal sini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "שקוציה",
+      "gloss": "mga karumal-dumal sini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga mga kahalayan sini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "mga kahalayan sini"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "sa sini"
+    }
+  ],
+  "timestamp": "2026-09-21T19:44:45.399598122Z",
+  "model": "glm-5.3"
+}

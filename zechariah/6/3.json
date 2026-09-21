@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 6:3",
+  "book": "zechariah",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag sa ikatlo nga karwahe ⟨mga⟩ kabayo puti, kag sa ikapat nga karwahe ⟨mga⟩ kabayo may bulig, mga malig-on.",
+  "tokens": [
+    {
+      "surface": "ובמרכבה",
+      "gloss": "kag sa ikatlo nga karwahe"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "ikatlo"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "mga kabayo"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "puti"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "kag sa ikapat nga karwahe"
+    },
+    {
+      "surface": "הרבעית",
+      "gloss": "ikapat"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "mga kabayo"
+    },
+    {
+      "surface": "ברדים",
+      "gloss": "may bulig"
+    },
+    {
+      "surface": "אמצים",
+      "gloss": "mga malig-on"
+    }
+  ],
+  "timestamp": "2026-09-21T20:19:18.041204587Z",
+  "model": "glm-5.3"
+}

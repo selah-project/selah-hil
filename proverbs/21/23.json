@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 21:23",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Ang nagatipig sang iya baba kag sang iya dila, nagatipig sang iya kalag sa mga katalagman.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "nagatipig"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "iya baba"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "kag iya dila"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nagatipig"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "mga katalagman"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "iya kalag"
+    }
+  ],
+  "timestamp": "2026-09-21T21:00:33.844013807Z",
+  "model": "glm-5.3"
+}

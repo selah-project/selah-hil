@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag magapadalag si Aharon sang ⟨את⟩ baka sang handog sang sala nga iya, kag magahimo sang panubad ⟨para⟩ sa iya kaugalingon kag sa iya balay.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "kag magapadalag"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baka sang handog sang sala"
+    },
+    {
+      "surface": "פר",
+      "gloss": "baka"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "sang handog sang sala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iya"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "kag magahimo sang panubad"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "para sa iya kaugalingon"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "kag para sa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "iya balay"
+    }
+  ],
+  "timestamp": "2026-09-21T16:50:50.074818393Z",
+  "model": "glm-5.3"
+}

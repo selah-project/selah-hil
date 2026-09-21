@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kag ginhagkan ni Yaakov si Rakhel, kag ginpataas ⟨את⟩ ang iya tingog kag naghibi.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "kag ginhagkan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "si Rakhel"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "kag ginpataas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya tingog"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ang iya tingog"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "kag naghibi"
+    }
+  ],
+  "timestamp": "2026-09-21T16:06:59.845553380Z",
+  "model": "glm-5.3"
+}

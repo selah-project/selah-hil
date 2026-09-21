@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Nauga ang hilamon, natibulong ang bulak, apang ang pulong sang aton nga Elohim magatindog sa dayon.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "nauga"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ang hilamon"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "natibulong"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "ang bulak"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "apang ang pulong"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "sang aton nga Elohim"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "magatindog"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T19:05:49.031948820Z",
+  "model": "glm-5.3"
+}

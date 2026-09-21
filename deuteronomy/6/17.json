@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Magbantay gayod kamo nga magabantay ⟨את⟩ ang mga kasuguan ni Yahweh, sang Elohim ninyo, kag ang iya mga pagsaksi kag ang iya mga lagda, nga iya ginsugo sa imo.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "magbantay gayod"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "kamo nga magabantay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kasuguan"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mga kasuguan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sang Elohim ninyo"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "kag ang iya mga pagsaksi"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "kag ang iya mga lagda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "iya ginsugo sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:19:39.527263644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kon magpautang kamo sang salapi ⟨את⟩ sa akon katawhan ⟨את⟩ — sa imo kaupod nga kabudlayan, indi kaw magin sa iya nga utang-mamuhunan; indi ninyo igapwere sa iya sang tubo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sang salapi"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "kamo magpautang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa akon katawhan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sa akon katawhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa imo kaupod nga kabudlayan"
+    },
+    {
+      "surface": "העני",
+      "gloss": "sa kabudlayan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "imo kaupod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kaw magin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "nga utang-mamuhunan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "ninyo igapwere"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "sang tubo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:29:59.563462770Z",
+  "model": "glm-5.3"
+}

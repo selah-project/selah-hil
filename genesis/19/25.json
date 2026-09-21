@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "kag ginbaligya niya ⟨את⟩ ang mga ciudad nga ina kag ⟨את⟩ ang tanan sang kapatagan kag ⟨את⟩ ang tanan sang mga pumalayo sa mga ciudad, kag ang tanan nga nagtutubo sa duta.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "kag ginbaligya niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga ciudad"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ang mga ciudad"
+    },
+    {
+      "surface": "האל",
+      "gloss": "nga ina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "sang kapatagan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "sang mga pumalayo"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "sa mga ciudad"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "kag ang nagtutubo"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "sa duta"
+    }
+  ],
+  "timestamp": "2026-09-21T16:02:09.694857775Z",
+  "model": "glm-5.3"
+}

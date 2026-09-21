@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 74,
+  "translation": "Nagtuynaw ang imo mga kaaway sa tunga sang imo Katipunan; nagbutang sila sang ila mga timailhan ⟨nga⟩ timailhan.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "Nagtuynaw"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "imo mga kaaway"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "imo Katipunan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nagbutang sila"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "ila mga timailhan"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "timailhan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:33.545497805Z",
+  "model": "glm-5.3"
+}

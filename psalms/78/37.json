@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Kag ang ila kasing-kasing wala ⟨matibay⟩ sa iya, kag wala sila matinud-anon sa iya nga kasugtanan.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "kag ang ila kasing-kasing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "matibay"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "matinud-anon sila"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "sa iya nga kasugtanan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:19.743067618Z",
+  "model": "glm-5.3"
+}

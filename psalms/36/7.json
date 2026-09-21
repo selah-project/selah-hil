@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Ang imo pagkamatarong ⟨daw⟩ mga bukid sang El; ang imo mga paghukom ⟨amo⟩ isa ka dako nga kadagatan nga kalaliman; ang tawo kag ang sapat imo ginaluwas, Yahweh.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "ang imo pagkamatarong"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "⟨daw⟩ mga bukid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sang El"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "ang imo mga paghukom"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "kadagatan nga kalaliman"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "isa ka dako"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "kag ang sapat"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "imo ginaluwas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:39.427592986Z",
+  "model": "glm-5.3"
+}

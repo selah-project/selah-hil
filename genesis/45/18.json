@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 45,
+  "translation": "Kag kuhaa ninyo ⟨את⟩ ang inyo amay kag ⟨את⟩ ang inyo mga balay, kag magkari kamo sa akon, kag hatagan ko kamo ⟨את⟩ sang labing maayo sang duta sang Mitsrayim, kag kaon kamo ⟨את⟩ sang taba sang duta.",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "Kag kuhaa ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang inyo amay"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "inyo amay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang inyo mga balay"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "inyo mga balay"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "kag magkari kamo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "kag hatagan ko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang labing maayo sang duta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labing maayo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "kag kaon kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang taba sang duta"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "sang taba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T16:17:36.288686205Z",
+  "model": "glm-5.3"
+}

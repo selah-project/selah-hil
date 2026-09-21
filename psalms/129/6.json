@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 129,
+  "translation": "Magakahimtang sila nga parang sa mga atip sang mga balay, nga wala pa gani mabun-ag nagamala na.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "magakahimtang sila"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "nga parang"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "sa mga atip"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "nga wala pa gani"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "mabun-ag"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "nagamala na"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:50.814846530Z",
+  "model": "glm-5.3"
+}

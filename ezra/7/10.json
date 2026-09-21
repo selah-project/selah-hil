@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kay si Ezra gin-andam ang iya kasingkasing sa pagpangita ⟨את⟩ sang Torah ni Yahweh kag sa paghimo kag sa pagpanudlo sa Yisrael sang kasugoan kag paghukum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "si Ezra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "gin-andam"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ang iya kasingkasing"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "sa pagpangita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang Torah ni Yahweh"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "sang Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "kag sa paghimo"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "kag sa pagpanudlo"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "חק",
+      "gloss": "sang kasugoan"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "kag paghukum"
+    }
+  ],
+  "timestamp": "2026-09-21T21:40:32.433659970Z",
+  "model": "glm-5.3"
+}

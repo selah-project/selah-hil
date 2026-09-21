@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag sa ikan-om nga adlaw igatuli ang unod sang iya utang.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "kag sa ... adlaw"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ikan-om"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "igatuli"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ang unod"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "sang iya utang"
+    }
+  ],
+  "timestamp": "2026-09-21T16:45:53.408617293Z",
+  "model": "glm-5.3"
+}

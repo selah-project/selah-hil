@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 60,
+  "translation": "Ginhatag mo sa mga nagakaila kanimo ang bandila sa pagkalat tungod sa kamatuoran. Selah.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "ginhatag mo"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "sa mga nagakaila kanimo"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ang bandila"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "sa pagkalat"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "kamatuoran"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:03.890614222Z",
+  "model": "glm-5.3"
+}

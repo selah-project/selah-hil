@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag ang katawhan wala mag-uli sa naghampak sa ila, kag ⟨את⟩ si Yahweh sang Tsevaot wala nila pangita.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "kag ang katawhan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שב",
+      "gloss": "mag-uli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "naghampak sa ila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Yahweh sang Tsevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "nila pangita"
+    }
+  ],
+  "timestamp": "2026-09-21T18:55:48.351078720Z",
+  "model": "glm-5.3"
+}

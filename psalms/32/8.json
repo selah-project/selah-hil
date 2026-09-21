@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Pagapasudlion ko ikaw sa kaalam kag magatudlo ako sa imo sa dalan nga imo pagalaktan; magatambag ako, ang akon mata sa imo.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "pagapasudlion ko ikaw sa kaalam"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "kag magatudlo ako sa imo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "זו",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "imo pagalaktan"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "magatambag ako"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "akon mata"
+    }
+  ],
+  "timestamp": "2026-09-21T22:38:37.131278949Z",
+  "model": "glm-5.3"
+}

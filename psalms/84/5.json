@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 84,
+  "translation": "Pagpakamaayo sa mga nagaestar sa imo balay; padayon nila nga ginapadayaw ikaw. Selah.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Pagpakamaayo"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "sa mga nagaestar"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "sa imo balay"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "padayon"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "nga ginapadayaw ikaw"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:22.707431056Z",
+  "model": "glm-5.3"
+}

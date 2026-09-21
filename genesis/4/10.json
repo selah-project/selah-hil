@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag nagsiling ⟨siya⟩: Ano ang imo ginhimo? Ang tingog sang mga dugo sang imo utod nagasinggit sa akon gikan sa duta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nagsiling"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "mga dugo"
+    },
+    {
+      "surface": "אחיכ",
+      "gloss": "imo utod"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "nagasinggit"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "duta"
+    }
+  ],
+  "timestamp": "2026-09-21T22:15:59.118342935Z",
+  "model": "glm-5.3"
+}

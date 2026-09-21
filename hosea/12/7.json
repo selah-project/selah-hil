@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 12:7",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag ikaw, magbalik sa imo Elohim; hesed kag paghukum bantayi, kag naghulat sa imo Elohim sing dayon.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kag ikaw"
+    },
+    {
+      "surface": "באלהיך",
+      "gloss": "sa imo Elohim"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "magbalik"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "kag paghukum"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bantayi"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "kag naghulat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "imo Elohim"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sing dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:06:06.970316858Z",
+  "model": "glm-5.3"
+}

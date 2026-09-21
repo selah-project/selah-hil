@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag ikaw: itaas mo ⟨את⟩ ang imo sungay, kag iunat mo ⟨את⟩ ang imo kamot sa ibabaw sang dagat kag bahinon mo ini, kag magasulod ang mga anak sang Yisrael sa tunga sang dagat, sa uga nga duta.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kag ikaw"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "itaas mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imo sungay"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "imo sungay"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "kag iunat mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imo kamot"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "imo kamot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ang dagat"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "kag bahinon mo ini"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "kag magasulod"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sang dagat"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "sa uga nga duta"
+    }
+  ],
+  "timestamp": "2026-09-21T16:26:20.454130086Z",
+  "model": "glm-5.3"
+}

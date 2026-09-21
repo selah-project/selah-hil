@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag ginhimo ni David sang sing ginpanugdanan sang Elohim sa iya, kag ginslat nila ⟨את⟩ ang kampo sang mga Pelishti gikan sa Givon tubtob sa Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kag ginhimo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sang sing"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ginpanugdanan sa iya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "kag ginslat nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kampo sang mga Pelishti"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ang kampo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sang mga Pelishti"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "gikan sa Givon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag tubtob"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "sa Gezer"
+    }
+  ],
+  "timestamp": "2026-09-21T21:54:43.502010242Z",
+  "model": "glm-5.3"
+}

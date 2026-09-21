@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Ang kabilin magabalik — ang kabilin ni Yaaqov — sa El Gibbor.",
+  "tokens": [
+    {
+      "surface": "שאר",
+      "gloss": "ang kabilin"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "magabalik"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "kabilin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaaqov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "Gibbor"
+    }
+  ],
+  "timestamp": "2026-09-21T18:56:31.656305833Z",
+  "model": "glm-5.3"
+}

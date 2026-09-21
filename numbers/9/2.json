@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag himuon sang mga anak sang Yisrael ⟨את⟩ ang Pesach sa iya takna nga gintakda;",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Kag himuon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sang mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ang Pesach"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "sa iya takna nga gintakda"
+    }
+  ],
+  "timestamp": "2026-09-21T17:03:36.782088360Z",
+  "model": "glm-5.3"
+}

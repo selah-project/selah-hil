@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag ang mga pumaluyo sang Givon nakabati ⟨את⟩ ang ginhimo ni Yehoshua sa Yericho kag sa Ay,",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "kag ang mga pumaluyo"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "sang Givon"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nakabati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ginhimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "sa Yericho"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "kag sa Ay"
+    }
+  ],
+  "timestamp": "2026-09-21T17:37:44.501084195Z",
+  "model": "glm-5.3"
+}

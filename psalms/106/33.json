@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 106,
+  "translation": "Kay ginpabakas nila ang ⟨את⟩ iya espiritu, kag nagsiling siya sing mapasindayon sang iya mga bibig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "ginpabakas nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya espiritu"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "iya espiritu"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "kag nagsiling sing mapasindayon"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "sang iya mga bibig"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:28.244423773Z",
+  "model": "glm-5.3"
+}

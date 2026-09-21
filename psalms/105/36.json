@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Kag ginpamalakad ang tanan nga panganay sa ila duta, ang nahauna sang tanan nila nga kusog.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "kag ginpamalakad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "panganay"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "sa ila duta"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ang nahauna"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "nila nga kusog"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:16.314050184Z",
+  "model": "glm-5.3"
+}

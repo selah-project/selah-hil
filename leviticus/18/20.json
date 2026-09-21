@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag sa asawa sang imo kaupod indi mo paghatag sang imo paghigda sa pagbinhi, sa pagdilit ka sa iya.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "sang imo kaupod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "mo paghatag"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "sang imo paghigda"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "sa pagbinhi"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "sa pagdilit"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:50:34.595814627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Pas-anan sang Damashek. Tan-awa, ginkuha ang Damashek sa pagkadako ⟨sang⟩ dakbanwa, kag magaabot ini nga mga gukod kag timbahan sang pagkatumba.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Pas-anan"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "sang Damashek"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "ang Damashek"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ginkuha"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "sa pagkadako sang dakbanwa"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "kag magaabot ini"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "nga mga gukod"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "kag timbahan sang pagkatumba"
+    }
+  ],
+  "timestamp": "2026-09-21T18:58:07.399622470Z",
+  "model": "glm-5.3"
+}

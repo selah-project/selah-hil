@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag ⟨את⟩ si Kholon kag ⟨את⟩ iya kapatagan, kag ⟨את⟩ si Devir kag ⟨את⟩ iya kapatagan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Kholon"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Kholon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya kapatagan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iya kapatagan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Devir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya kapatagan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iya kapatagan"
+    }
+  ],
+  "timestamp": "2026-09-21T17:43:30.660168413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 35:24",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "kag magahukom ang katilingban taliwa sa nagtama kag taliwa sa manugbawi sang dugo, suno sa sini nga mga hukuman,",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "kag magahukom"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ang katilingban"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taliwa sa"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "ang nagtama"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "kag taliwa sa"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "ang manugbawi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sang dugo"
+    },
+    {
+      "surface": "על",
+      "gloss": "suno sa"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "mga hukuman"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sini nga"
+    }
+  ],
+  "timestamp": "2026-09-21T17:16:29.858063550Z",
+  "model": "glm-5.3"
+}

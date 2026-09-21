@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag ginkuha ni Moshe ⟨את⟩ iya asawa kag ⟨את⟩ iya mga anak, kag ginpasakay niya sila sa asno, kag nagbalik siya sa duta sang Mitsrayim; kag ginkuha ni Moshe ⟨את⟩ sungkod sang Elohim sa iya kamot.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Kag ginkuha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya asawa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "iya asawa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iya mga anak"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "kag ginpasakay niya sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "asno"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kag nagbalik siya"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "kag ginkuha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungkod sang Elohim"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "sungkod"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa iya kamot"
+    }
+  ],
+  "timestamp": "2026-09-21T22:19:47.230548276Z",
+  "model": "glm-5.3"
+}

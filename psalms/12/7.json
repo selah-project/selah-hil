@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Mga pulong ni Yahweh — mga pulong nga putli, subong nga plata nga gin-unod sa ⟨pugon⟩ sang duta, ginpamaayo pito ka beses.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "nga putli"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "plata"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "gin-unod"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "sa ⟨pugon⟩"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "ginpamaayo"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "pito ka beses"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:09.344208065Z",
+  "model": "glm-5.3"
+}

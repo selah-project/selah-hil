@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Indi bala ang iya kahimayaan magapahadlok ⟨את⟩ sa inyo, kag ang iya kahadlok malagpak sa inyo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Indi bala"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "ang iya kahimayaan"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "magapahadlok"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo",
+      "marks": "inyo"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "kag ang iya kahadlok"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "malagpak"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-09-21T21:09:18.050027211Z",
+  "model": "glm-5.3"
+}

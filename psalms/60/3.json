@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 60,
+  "translation": "Elohim, ginsikway Mo kami, ginpungkag Mo kami, nagakalagot Ka; ibalik Mo kami ⟨pagbalik⟩.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "ginsikway Mo kami"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "ginpungkag Mo kami"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "nagakalagot Ka"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "ibalik Mo ⟨pagbalik⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kami"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:49.053730535Z",
+  "model": "glm-5.3"
+}

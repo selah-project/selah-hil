@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Sang nahauna sang inyo arina, isa ka tinapay nga inyong itataas subong handog — pareho sang handog sang gikanan sang humay, ayhan ninyo ina itataas ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "sang nahauna"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "sang inyo arina"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "isa ka tinapay"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "nga inyong itataas"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "subong handog"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "pareho sang handog"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "sang gikanan sang humay"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ayhan"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ninyo itataas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ina (ang tinapay)"
+    }
+  ],
+  "timestamp": "2026-09-21T17:07:01.250727547Z",
+  "model": "glm-5.3"
+}

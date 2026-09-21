@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 51:20",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 51,
+  "translation": "Ang imo mga anak nangaluya, naglatob sila sa ulo sang tanan nga dalan, pareho sang tayop sa pukot; napunu sila sang kaakig ni Yahweh, sang pagbadlong sang imo Elohim.",
+  "tokens": [
+    {
+      "surface": "בניך",
+      "gloss": "Ang imo mga anak"
+    },
+    {
+      "surface": "עלפו",
+      "gloss": "nangaluya"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "naglatob sila"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "sa ulo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "nga dalan"
+    },
+    {
+      "surface": "כתוא",
+      "gloss": "pareho sang tayop"
+    },
+    {
+      "surface": "מכמר",
+      "gloss": "sa pukot"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "napunu sila"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "sang kaakig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "sang pagbadlong"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sang imo Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T19:10:45.975625592Z",
+  "model": "glm-5.3"
+}

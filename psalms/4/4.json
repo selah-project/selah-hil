@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag kilalahon ninyo nga ginbulag ni Yahweh ang matinud-anon para sa iya; Yahweh magabati kon magatawag ako sa iya.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "kag kilalahon ninyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "ginbulag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ang matinud-anon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa iya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "magabati"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "kon magatawag ako"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:23:08.425994597Z",
+  "model": "glm-5.3"
+}

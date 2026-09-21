@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kag magakaon si Aaron kag ang iya mga anak nga lalaki ⟨את⟩ sang unod sang turok kag ⟨את⟩ sang tinapay nga yara sa sulud sang basket, sa ganghaan sang Tolda sang Katipan.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "kag magakaon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aaron"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "kag ang iya mga anak nga lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang unod sang turok"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "unod"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "sang turok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang tinapay"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "sang tinapay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "yara sa sulud sang basket"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sa ganghaan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sang Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang Katipan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:34:24.479628267Z",
+  "model": "glm-5.3"
+}

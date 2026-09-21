@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Kag nagdalagan si Esav sa iya pagtigyon, kag ginakap niya siya, kag naglagpak sa iya liog, kag ginhagkan siya, kag naghibi sila.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "kag nagdalagan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "si Esav"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "sa iya pagtigyon"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "kag ginakap niya siya"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "kag naglagpak"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "iya liog"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "kag ginhagkan siya"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "kag naghibi sila"
+    }
+  ],
+  "timestamp": "2026-09-21T16:10:17.618178466Z",
+  "model": "glm-5.3"
+}

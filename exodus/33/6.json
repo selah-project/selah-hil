@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Kag ginpahalin sang mga anak sang Yisrael ⟨את⟩ ang ila mga adorno sa bukid sang Chorev.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "Kag ginpahalin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ila mga adorno"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "mga adorno"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "sang Chorev"
+    }
+  ],
+  "timestamp": "2026-09-21T16:36:11.930014352Z",
+  "model": "glm-5.3"
+}

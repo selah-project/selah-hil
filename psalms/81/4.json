@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 81,
+  "translation": "Umatingog kamo sang shofar sa bag-ong bulan, sa kadayunan, sa adlaw sang aton pista.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "Umatingog kamo"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "sa bag-ong bulan"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "sang shofar"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "sa kadayunan"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "sang aton pista"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:53.441906527Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 109,
+  "translation": "Tungod kay wala ⟨niya⟩ hinumdumi ang paghimo sang hesed, kag gintiyabtiya ang tawo nga kabus kag panghos, kag ang ginsalo sang kasingkasing, sa pagpatay.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Tungod kay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨nga⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "hinumdumi"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ang paghimo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "kag gintiyabtiya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nga kabus"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "kag panghos"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "kag ang ginsalo"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sang kasingkasing"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "sa pagpatay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:19.278086152Z",
+  "model": "glm-5.3"
+}

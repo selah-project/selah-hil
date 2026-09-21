@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 83,
+  "translation": "Ibutang ang ila mga halangdon subong ⟨kay⟩ Orev kag ⟨kay⟩ Zeev, kag tanan nga ila mga prinsipe subong ⟨kay⟩ Zevakh kag ⟨kay⟩ Tsalmona.",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "Ibutang"
+    },
+    {
+      "surface": "נדי׬מו",
+      "gloss": "ang ila mga halangdon"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "subong kay Orev"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "kag kay Zeev"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "kag kay Zevakh"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "kag kay Tsalmona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "nga ila mga prinsipe"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:51.714144762Z",
+  "model": "glm-5.3"
+}

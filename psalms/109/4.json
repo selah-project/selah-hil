@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 109,
+  "translation": "Sa bayad sang akon paghigugma, nagsuta sila sa akon, apang ako ⟨amo ang⟩ pangamuyo.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Sa bayad sang"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "akon paghigugma"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "nagsuta sila sa akon"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "apang ako"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "pangamuyo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:21.134636303Z",
+  "model": "glm-5.3"
+}

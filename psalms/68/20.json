@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 68,
+  "translation": "Dayawon si Adonay — adlaw-adlaw iya nagakarga sa aton ⟨sang aton dalanon⟩; ang El sang aton kaluwasan. Selah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Dayawon"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "si Adonay"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "nagakarga"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa aton"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ang El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "sang aton kaluwasan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:51.237868892Z",
+  "model": "glm-5.3"
+}

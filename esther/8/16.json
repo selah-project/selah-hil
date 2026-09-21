@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Sa mga Yehudi nagtinuod ang kahayag kag kalipayan, kag kalipay kag kadungganan.",
+  "tokens": [
+    {
+      "surface": "ליהודים",
+      "gloss": "sa mga Yehudi"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "nagtinuod"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "kahayag"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "kag kalipayan"
+    },
+    {
+      "surface": "וששן",
+      "gloss": "kag kalipay"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "kag kadungganan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:31:10.831252063Z",
+  "model": "glm-5.3"
+}

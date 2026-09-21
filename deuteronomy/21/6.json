@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 21:6",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag ang tanan nga mga tigulang sang siyudad sina, ang mga malapit sa ginpatay, magahugas sang ⟨את⟩ ila mga kamot ibabaw sang baka nga putolan ang liog sa walog.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga tigulang"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sang siyudad"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sina"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "ang mga malapit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "ginpatay"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "magahugas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ila mga kamot"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ila mga kamot"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sang"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "baka"
+    },
+    {
+      "surface": "הערופה",
+      "gloss": "nga putolan ang liog"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "sa walog"
+    }
+  ],
+  "timestamp": "2026-09-21T17:25:46.155756813Z",
+  "model": "glm-5.3"
+}

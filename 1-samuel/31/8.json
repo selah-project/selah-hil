@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kag natabo sang sunod nga adlaw, kag nagsulod ang mga Pelishteh sa pagpanilhig ⟨את⟩ sang mga minatay, kag nakita nila ⟨את⟩ si Shaul kag ⟨את⟩ ang iya tatlo ka mga anak nga napukan sa bukid sang Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag natabo"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "sang sunod nga adlaw"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "kag nagsulod"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ang mga Pelishteh"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "sa pagpanilhig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga minatay"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "ang mga minatay"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "kag nakita nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya tatlo ka mga anak"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tatlo ka"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "nga napukan"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "sang Gilboa"
+    }
+  ],
+  "timestamp": "2026-09-21T22:28:13.638776812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Isa ka duta sang trigo kag sebada, sang ubas kag igod kag granada; isa ka duta sang olibo nga lana kag dugos.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "isa ka duta"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "trigo"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "kag sebada"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "kag ubas"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "kag igod"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "kag granada"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isa ka duta"
+    },
+    {
+      "surface": "זית",
+      "gloss": "olibo"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "kag dugos"
+    }
+  ],
+  "timestamp": "2026-09-21T17:21:54.608535623Z",
+  "model": "glm-5.3"
+}

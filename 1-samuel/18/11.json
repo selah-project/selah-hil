@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 18:11",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag ginlabay ni Shaul ⟨את⟩ ang bangkaw, kag nagsiling: Tukdon ko si David bisan sa dingding; kag naglikaw si David sa iya atubang, duha ka higayon.",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "kag ginlabay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bangkaw"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "ang bangkaw"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "Tukdon ko"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "bisan sa dingding"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "kag naglikaw"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "sa iya atubang"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "duha ka higayon"
+    }
+  ],
+  "timestamp": "2026-09-21T18:05:50.982316636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Kag nagtuman si Yaakov sa iya amay kag sa iya iloy, kag nagsirot siya sa Padan-Aram.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "kag nagtuman"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iya amay"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "iya iloy"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kag nagsirot siya"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "sa Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aram"
+    }
+  ],
+  "timestamp": "2026-09-21T16:06:54.086413826Z",
+  "model": "glm-5.3"
+}

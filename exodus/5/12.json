@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag nagwatwats ang katawhan sa bug-os nga duta sang Mitsrayim sa pagtipon sang ugas sa bayad sang dagami.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "Kag nagwatwats"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa bug-os"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nga duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "sa pagtipon"
+    },
+    {
+      "surface": "קש",
+      "gloss": "ugas"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "sa bayad sang dagami"
+    }
+  ],
+  "timestamp": "2026-09-21T16:20:48.659293678Z",
+  "model": "glm-5.3"
+}

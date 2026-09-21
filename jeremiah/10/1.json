@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Pamatii ninyo ⟨את⟩ ang pulong nga ginhambal ni Yahweh tokod sa inyo, balay sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Pamatii ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pulong"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ginhambal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "tokod sa inyo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T19:20:03.011168005Z",
+  "model": "glm-5.3"
+}

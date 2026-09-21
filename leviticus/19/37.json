@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag magatipon kamo sang ⟨את⟩ tanan nga akon mga kasoguan kag ⟨את⟩ tanan nga akon mga pagtulon-an, kag himuon ninyo ⟨את⟩ sila: ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "magatipon kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga akon mga kasoguan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "akon mga kasoguan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga akon mga pagtulon-an"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "akon mga pagtulon-an"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "kag himuon ninyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:51:48.399331326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Ginpakamaayo ni Yehoshua si Kalev, kag ginhatag ⟨את⟩ ang Khevron kay Kalev nga anak ni Yefuneh bilang panununa.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "ginpakamaayo"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ginhatag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Khevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khevron"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "kay Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefuneh"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "bilang panununa"
+    }
+  ],
+  "timestamp": "2026-09-21T17:39:28.219747667Z",
+  "model": "glm-5.3"
+}

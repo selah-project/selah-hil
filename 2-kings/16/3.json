@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 16:3",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag naglakat siya sa dalan sang mga hari sang Yisrael, kag bisan ⟨את⟩ iya anak ginpapakadto niya sa kalayo, suno sa mga kailadlawan sang mga pungsod nga ginpalayas ni Yahweh ⟨את⟩ sila sa atubangan sang mga anak sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kag naglakat siya"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "sang mga hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kag bisan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya anak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iya anak"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "ginpapakadto niya"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "כתעבות",
+      "gloss": "suno sa mga kailadlawan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "sang mga pungsod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "ginpalayas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang mga pungsod)"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sang mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T18:47:22.437682079Z",
+  "model": "glm-5.3"
+}

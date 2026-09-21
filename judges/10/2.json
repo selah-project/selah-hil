@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag ginhukman niya ⟨את⟩ ang Yisrael sing duha ka pulo kag tatlo ka tuig; kag namatay siya kag ginlubong sa Shamir.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ginhukman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duha ka pulo"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "kag tatlo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kag namatay"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "kag ginlubong"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "sa Shamir"
+    }
+  ],
+  "timestamp": "2026-09-21T22:25:44.614317247Z",
+  "model": "glm-5.3"
+}

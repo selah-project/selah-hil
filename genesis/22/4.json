@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 22:4",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Sa ikatlo nga adlaw, gintan-aw ni Avraham ⟨את⟩ ang iya mga mata sa pagtan-aw, kag nakita niya ⟨את⟩ ang duta halin sa malayo.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ikatlo"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "gintan-aw sa pagtan-aw"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya mga mata"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "iya mga mata"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "kag nakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "halin sa malayo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:04:01.903681491Z",
+  "model": "glm-5.3"
+}

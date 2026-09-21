@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 10:27",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag gintana sang hari ⟨את⟩ ang plata sa Yerushalayim subong sang mga bato, kag ⟨את⟩ ang mga sedro iya gintana subong sang mga sikomoro nga yara sa kapatagan, sa kadamo.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "kag gintana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang plata"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ang plata"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "subong sang mga bato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga sedro"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "ang mga sedro"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "iya gintana"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "subong sang mga sikomoro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "sa kapatagan"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "sa kadamo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:30:45.918239137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Him-o ⟨ang⟩ ila dalan kadulumduluman kag pagkalat-as, kag ang sugo ni Yahweh nagapanunod sa ila.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Him-o"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "ila dalan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kadulumduluman"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "kag pagkalat-as"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "kag ang sugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "nagapanunod sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:44.144837497Z",
+  "model": "glm-5.3"
+}

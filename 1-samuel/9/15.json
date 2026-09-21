@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag si Yahweh naghubad sang ⟨את⟩ dunggan ni Shemuel sing isa ka adlaw antes mag-abot si Shaul, nga nagasiling,",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "kag si Yahweh"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "naghubad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang dunggan ni Shemuel"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "dunggan"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuel"
+    },
+    {
+      "surface": "יום",
+      "gloss": "isa ka adlaw"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "antes"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "mag-abot"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    }
+  ],
+  "timestamp": "2026-09-21T18:02:16.224917173Z",
+  "model": "glm-5.3"
+}

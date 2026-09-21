@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Tipigi ang ⟨את⟩ adlaw sang Sabbath sa pagpabalaan sini, suno sa ginsugo sa imo ni Yahweh nga imo Elohim.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Tipigi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adlaw sang Sabbath"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sang Sabbath"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "sa pagpabalaan sini"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "suno sa"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "ginsugo sa imo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "imo Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T17:19:22.549323603Z",
+  "model": "glm-5.3"
+}

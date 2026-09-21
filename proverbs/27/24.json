@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Kay ang kayamanan indi ⟨magententro⟩ hangtud sa kahangturan, kag kon may korona, indi ini sa kaliwat kag kaliwat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtud sa kahangturan"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "ang kayamanan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "korona"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "sa kaliwat"
+    },
+    {
+      "surface": "דור",
+      "gloss": "kag kaliwat"
+    }
+  ],
+  "timestamp": "2026-09-21T22:41:36.313341732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Kag nagsiling sila sa iya: Indi, akon aden; kag ang imo mga sulugoon nagkari sa pagbakal sang pagkaon.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "aken aden"
+    },
+    {
+      "surface": "ו עבדיך",
+      "gloss": "kag ang imo mga sulugoon"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nagkari"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "sa pagbakal"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "sang pagkaon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:15:01.968454529Z",
+  "model": "glm-5.3"
+}

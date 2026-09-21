@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 40:19",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag gintin-aw niya ⟨את⟩ ang tolda sa ibabaw sang Mishkan, kag ginbutang niya ⟨את⟩ ang tabon sang tolda sa iya ibabaw, sa itaas, subong sang ginsugo ni Yahweh ⟨את⟩ kay Moshe.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "kag gintin-aw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tolda"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ang tolda"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "kag ginbutang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tabon sang tolda"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "ang tabon"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "sang tolda"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa iya ibabaw"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "sa itaas"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T16:41:24.220785313Z",
+  "model": "glm-5.3"
+}

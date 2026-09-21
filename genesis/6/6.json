@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag nagbasol si Yahweh nga ginhimo niya ⟨את⟩ ang tawo sa duta, kag nagpanublag ini sa iya kasing-kasing.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "Kag nagbasol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tawo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "kag nagpanublag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ini⟩ sa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "iya kasing-kasing"
+    }
+  ],
+  "timestamp": "2026-09-21T15:57:22.495719032Z",
+  "model": "glm-5.3"
+}

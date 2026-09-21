@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 107,
+  "translation": "Magpasalamat kamo kay Yahweh, kay maayo ⟨siya⟩, kay hasta sa dayon ang iya hesed.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "Magpasalamat kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hasta sa dayon"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iya hesed"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:01.592308779Z",
+  "model": "glm-5.3"
+}

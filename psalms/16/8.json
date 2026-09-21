@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Ginpwesto ko si Yahweh sa akon atubang permi, kay sa akon tuo nga kilid indi ako magakuyap.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "ginpwesto ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "sa akon atubang"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "permi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "sa akon tuo nga kilid"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "magakuyap"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:13.263586834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Mga saagi ⟨nga daw⟩ — ginpahuwat mo ang tanan nga mga maraot sang duta; gani ginhigugma ko ang imo mga pagsaksi.",
+  "tokens": [
+    {
+      "surface": "סגים",
+      "gloss": "Mga saagi"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ginpahuwat mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "nga mga maraot"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "gani"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ginhigugma ko"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ang imo mga pagsaksi"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:59.780608067Z",
+  "model": "glm-5.3"
+}

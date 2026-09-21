@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Kag gintungdan niya sila sa kalig-onan, kag wala sila nagkahadlok, kag ang dagat nagtabon ⟨את⟩ sang ila mga kaaway.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "gintungdan niya sila"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "sa kalig-onan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "sila nagkahadlok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang ila mga kaaway"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "ila mga kaaway"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "nagtabon"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ang dagat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:19.386248414Z",
+  "model": "glm-5.3"
+}

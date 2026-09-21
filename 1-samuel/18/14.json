@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 18:14",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag si David nagbuhat sing maalam sa tanan nga iya mga dalan, kag si Yahweh kaupod niya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag natabo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "nga iya mga dalan"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "nagbuhat sing maalam"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "kag si Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaupod niya"
+    }
+  ],
+  "timestamp": "2026-09-21T18:05:47.925275248Z",
+  "model": "glm-5.3"
+}

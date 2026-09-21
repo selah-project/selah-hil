@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag ginkuha nila ⟨את⟩ si Lot kag ⟨את⟩ ang iya kabtangan, anak sang utod ni Avram, kag naglakat sila, samtang siya nagapuyo sa Sedom.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "kag ginkuha nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "si Lot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya kabtangan"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "ang iya kabtangan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "sang utod"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ni Avram"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "kag naglakat sila"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "samtang siya"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nagapuyo"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "sa Sedom"
+    }
+  ],
+  "timestamp": "2026-09-21T15:59:18.310693020Z",
+  "model": "glm-5.3"
+}

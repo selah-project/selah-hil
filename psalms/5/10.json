@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kay wala ⟨sang⟩ matin-aron sa ila baba; ang ila sulod ⟨mga⟩ kagubatan; ang ila li-og isa ka lubnganan nga bukas; sang ila dila nagahimo sila sing lamin-lamin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "sa ila baba"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "⟨sang⟩ matin-aron"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "ang ila sulod"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "⟨mga⟩ kagubatan"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "lubnganan"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "nga bukas"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "ang ila li-og"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "sang ila dila"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "nagahimo sila sing lamin-lamin"
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:30.748419609Z",
+  "model": "glm-5.3"
+}

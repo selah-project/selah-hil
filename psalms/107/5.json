@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 107,
+  "translation": "Gutom sila kag uhaw man, ang ila kalag sa ila nangluya.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "Gutom"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kag … man"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "uhaw"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ang ila kalag"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "nangluya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:07.863680135Z",
+  "model": "glm-5.3"
+}

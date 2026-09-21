@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 65,
+  "translation": "Sa ⟨manugpangulo⟩. Isa ka mizmor ni David, isa ka kanta.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa manugpangulo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kanta"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:10.905402729Z",
+  "model": "glm-5.3"
+}

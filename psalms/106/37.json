@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 106,
+  "translation": "Kag gintembad nila ⟨את⟩ ang ila mga anak nga lalaki kag ⟨את⟩ ang ila mga anak nga babayi sa mga shed",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "kag gintembad nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ila mga anak nga lalaki"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ang ila mga anak nga lalaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang ila mga anak nga babayi"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "ang ila mga anak nga babayi"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "sa mga shed"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:23.140831962Z",
+  "model": "glm-5.3"
+}

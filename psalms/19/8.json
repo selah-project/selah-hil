@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Ang Torah ni Yahweh himpit, nagabawi sang kalag; ang saksi ni Yahweh kasaligan, nagahimo nga maalam ang simplehon.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Ang Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "himpit"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "nagabawi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kalag"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ang saksi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "kasaligan"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "nagahimo nga maalam"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "ang simplehon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:01.458032787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag gintuytoy niya ⟨את⟩ ang iya dagway padulong sa pader, kag nangadi siya kay Yahweh, nga nagsiling:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Kag gintuytoy niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya dagway"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ang iya dagway"
+    },
+    {
+      "surface": "אל",
+      "gloss": "padulong sa"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "pader"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "kag nangadi siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagsiling"
+    }
+  ],
+  "timestamp": "2026-09-21T18:49:53.751086379Z",
+  "model": "glm-5.3"
+}

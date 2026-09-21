@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 61,
+  "translation": "Mga adlaw sa ibabaw sang mga adlaw sang hari imo idugang; ang iya mga tuig subong sang kaliwatan kag kaliwatan.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "Mga adlaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mga adlaw"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "imo idugang"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "iya mga tuig"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "דר",
+      "gloss": "kaliwatan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kag kaliwatan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:30.038182309Z",
+  "model": "glm-5.3"
+}

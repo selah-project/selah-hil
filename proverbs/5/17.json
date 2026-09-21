@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Huo sila imo lamang, kag wala sa mga taga-lain ⟨את⟩ kanimo.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Huo sila"
+    },
+    {
+      "surface": "לך",
+      "gloss": "imo"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "sa mga taga-lain"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "kanimo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:56:19.408239237Z",
+  "model": "glm-5.3"
+}

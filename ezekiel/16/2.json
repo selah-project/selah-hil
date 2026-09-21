@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Anak sang tawo, ipahibalo sa ⟨את⟩ Yerushalayim ang ⟨את⟩ iya mga ginakasilaklan,",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "ipahibalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya mga ginakasilaklan"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "iya mga ginakasilaklan"
+    }
+  ],
+  "timestamp": "2026-09-21T19:45:50.914284138Z",
+  "model": "glm-5.3"
+}

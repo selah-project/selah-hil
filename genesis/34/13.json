@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Kag ginsabat sang mga anak nga lalaki ni Yaakov ⟨את⟩ si Shekhem kag ⟨את⟩ si Khamor iya amay nga may paila, kag naghambal sila, kay ginaraut niya ⟨את⟩ si Dinah ila utod nga babayi.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "kag ginsabat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sang mga anak nga lalaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "si Shekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Khamor"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "si Khamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iya amay"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "nga may paila"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "kag naghambal sila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kay"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ginaraut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Dinah"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "si Dinah"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "ila utod nga babayi"
+    }
+  ],
+  "timestamp": "2026-09-21T16:12:09.759153936Z",
+  "model": "glm-5.3"
+}

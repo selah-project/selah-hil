@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 19:7",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Tanan nga mga utod sang imol nagadumtan siya; labaw pa gid ang iya mga abyan — nagpalayo sila sa iya; nagasunod ⟨siya⟩ sang mga pulong, apang wala sila ⟨ara⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "nga mga utod"
+    },
+    {
+      "surface": "רש",
+      "gloss": "sang imol"
+    },
+    {
+      "surface": "שנאהו",
+      "gloss": "nagadumtan siya"
+    },
+    {
+      "surface": "אף",
+      "gloss": "labaw pa gid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨labaw pa gid⟩"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "ang iya mga abyan"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "nagpalayo sila"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "nagasunod"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "sang mga pulong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila ⟨ara⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T21:01:27.846842870Z",
+  "model": "glm-5.3"
+}

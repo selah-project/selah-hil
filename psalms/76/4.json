@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 76,
+  "translation": "Didto gintupok ⟨niya⟩ ang mga nagadagit nga palaso sang busog, ang taslad, kag ang espada, kag ang gera. Selah.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "didto"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "gintupok ⟨niya⟩"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "ang mga nagadagit"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "palaso sang busog"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ang taslad"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "kag ang espada"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "kag ang gera"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:15.214168606Z",
+  "model": "glm-5.3"
+}

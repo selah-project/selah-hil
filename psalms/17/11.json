@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Gintukib nila ako subong sa amon mga tikang; ang ila mga mata ginput-up sa pagpa-ihis sa duta.",
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "amon mga tikang"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "subong"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "gintukib nila ako"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ila mga mata"
+    },
+    {
+      "surface": "ישיתו",
+      "gloss": "ginput-up"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "sa pagpa-ihis"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:49.672676286Z",
+  "model": "glm-5.3"
+}

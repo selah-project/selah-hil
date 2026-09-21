@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag nagsiling si Avraham sa iya: Mag-andam ka, basin maibalik mo ⟨את⟩ ang akon anak nga lalaki sa didto.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "mag-andam ka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פן",
+      "gloss": "basin"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "maibalik mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon anak nga lalaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "akon anak"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sa didto"
+    }
+  ],
+  "timestamp": "2026-09-21T16:04:17.816585808Z",
+  "model": "glm-5.3"
+}

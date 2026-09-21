@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Ang aton mga amay ang nagpakasala, kag wala na sila; kami ang nagsapin sang ila mga sala.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "ang aton mga amay"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "nagpakasala"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "wala na sila"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "sang ila mga sala"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "nagsapin"
+    }
+  ],
+  "timestamp": "2026-09-21T22:42:52.407474784Z",
+  "model": "glm-5.3"
+}

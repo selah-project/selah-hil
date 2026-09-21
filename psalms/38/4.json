@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 38,
+  "translation": "Wala sing kahimsog sa akon lawas tungod sa imo kaakig; wala sing kalinong sa akon mga tul-an tungod sa akon sala.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Wala sing"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "kahimsog"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "sa akon lawas"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "imo kaakig"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala sing"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kalinong"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "sa akon mga tul-an"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "akon sala"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:23.632346765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Tungod sa pagpanggubot sa mga kabos, tungod sa pagpaninghalin sang mga pangulos, subong magatindog Ako, hambal ni Yahweh; ibutang Ko siya sa kaligtas ⟨gikan⟩ sa nagahuyop sa iya.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "pagpanggubot"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "mga kabos"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "pagpaninghalin"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "mga pangulos"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "subong"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "magatindog"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "hambal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ibutang Ko"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "sa kaligtas"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "nagahuyop"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:09.344029326Z",
+  "model": "glm-5.3"
+}

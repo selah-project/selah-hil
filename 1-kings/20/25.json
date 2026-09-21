@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 20:25",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag ikaw, ihap sa imo sang kasundalohan nga pareho sang kasundalohan nga napatay gikan ⟨מאת⟩ sa imo, kag kabayo pareho sang kabayo, kag karo pareho sang karo, kag magakigda kita sa ila ⟨את⟩ sa patag; indi bala kita maggahom kaysa sa ila? Kag nagpatalinghug siya sa ila nga tingog kag ginbuhat ina.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kag ikaw"
+    },
+    {
+      "surface": "תמנה",
+      "gloss": "ihap"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sang kasundalohan"
+    },
+    {
+      "surface": "כחיל",
+      "gloss": "pareho sang kasundalohan"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "nga napatay"
+    },
+    {
+      "surface": "מאותך",
+      "gloss": "gikan ⟨מאת⟩ sa imo",
+      "marks": "ang kasundalohan nga napatay"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "kag kabayo"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "pareho sang kabayo"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "kag karo"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "pareho sang karo"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "kag magakigda kita"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila (mga kaaway)"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "sa patag"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "נחזק",
+      "gloss": "maggahom"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kaysa sa ila"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "kag nagpatalinghug"
+    },
+    {
+      "surface": "לקלם",
+      "gloss": "sa ila nga tingog"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "kag ginbuhat"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ina"
+    }
+  ],
+  "timestamp": "2026-09-21T18:38:08.292167363Z",
+  "model": "glm-5.3"
+}

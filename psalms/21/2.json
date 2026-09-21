@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Yahweh, sa imo kusog magakalipay ang hari, kag sa imo kaluwas ⟨kon⟩ gaano kadako iya nga pagpakalipay!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "sa imo kusog"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "magakalipay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "kag sa imo kaluwas"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gaano"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "iya nga pagpakalipay"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kadako"
+    }
+  ],
+  "timestamp": "2026-09-21T22:38:38.261605130Z",
+  "model": "glm-5.3"
+}

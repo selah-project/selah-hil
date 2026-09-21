@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag naghambal siya: Indi ako ang nagpabudlay ⟨את⟩ sang Yisrael, kondi ikaw kag ang balay sang imo amay, sa pagbaya ninyo ⟨את⟩ sang mga kasuguan ni Yahweh, kag sa paglakat ninyo suno sa mga Baal.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag naghambal siya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "ako ang nagpabudlay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": " kondi"
+    },
+    {
+      "surface": "אם",
+      "gloss": " kondi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "kag ang balay"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "sang imo amay"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "sa pagbaya ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang mga kasuguan"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "sang mga kasuguan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "kag sa paglakat"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "suno sa"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "sa mga Baal"
+    }
+  ],
+  "timestamp": "2026-09-21T18:36:31.502334429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag gintipon niya ⟨את⟩ ang tanan nga mga pangulo sang Yisrael, kag ang mga pari kag ang mga Levita.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "kag gintipon niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga mga pangulo sang Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "nga mga pangulo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "kag ang mga pari"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "kag ang mga Levita"
+    }
+  ],
+  "timestamp": "2026-09-21T21:58:02.564660280Z",
+  "model": "glm-5.3"
+}

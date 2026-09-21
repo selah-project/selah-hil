@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag nahitabo sa bug-os nga amo nga adlaw ini: ginpagwa ni Yahweh ⟨את⟩ ang mga anak nga lalaki sang Yisrael sa duta sang Mitsrayim suno sa ila mga panagbon.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kag nahitabo"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "sa bug-os nga amo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nga adlaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ginpagwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga anak nga lalaki sang Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "sa duta sang"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "suno sa"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "ila mga panagbon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:24:53.222785968Z",
+  "model": "glm-5.3"
+}

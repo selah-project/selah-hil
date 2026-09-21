@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 21:5",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Ibutang ang dulang, magbantay ang nagabantay, kumaon, mainom — tumindog kamo, mga manugdumala, pahamulan sing lana ang panangga.",
+  "tokens": [
+    {
+      "surface": "ערך",
+      "gloss": "ibutang"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ang dulang"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "magbantay"
+    },
+    {
+      "surface": "הצפית",
+      "gloss": "ang nagabantay"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "kumaon"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "mainom"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "tumindog kamo"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "mga manugdumala"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "pahamulan sing lana"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ang panangga"
+    }
+  ],
+  "timestamp": "2026-09-21T18:57:52.279425218Z",
+  "model": "glm-5.3"
+}

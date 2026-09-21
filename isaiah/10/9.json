@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Indi bala ang Kalno pareho sang Karkemish? ukon indi ang Hamat pareho sang Arpad? ukon indi ang Shomeron pareho sang Damasek?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Indi bala"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "pareho sang Karkemish"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "ang Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "pareho sang Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ang Hamat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "pareho sang Damasek"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ang Shomeron"
+    }
+  ],
+  "timestamp": "2026-09-21T22:30:12.402658540Z",
+  "model": "glm-5.3"
+}

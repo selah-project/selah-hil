@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Nagpanawag sila, kag wala sing manluluwas; kay Yahweh — kag wala niya sila ginsabat.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "nagpanawag sila"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala sing"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "manluluwas"
+    },
+    {
+      "surface": "על",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "ginsabat niya sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:25.969293308Z",
+  "model": "glm-5.3"
+}

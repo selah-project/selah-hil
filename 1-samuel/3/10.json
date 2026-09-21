@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag nagkadto si Yahweh kag nagtindog, kag nagtawag subong sang nahauna, subong pa gid: Shemuel, Shemuel; kag nagsiling si Shemuel: Hambala, kay nagapamati ang imo sulogoon.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "kag nagkadto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "kag nagtindog"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kag nagtawag"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "subong sang pagkatawo"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "sa pagkatawo"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shemuel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Hambala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nagapamati"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ang imo sulogoon"
+    }
+  ],
+  "timestamp": "2026-09-21T17:58:50.917935259Z",
+  "model": "glm-5.3"
+}

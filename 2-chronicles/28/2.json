@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 28:2",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Kag naglakat siya sa mga dalan sang mga hari sang Yisrael, kag naghibo man siya sang mga larawang tinunaw para sa mga Baal.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kag naglakat siya"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "sa mga dalan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "sang mga hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kag man"
+    },
+    {
+      "surface": "מסכות",
+      "gloss": "mga larawang tinunaw"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "naghibo siya"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "para sa mga Baal"
+    }
+  ],
+  "timestamp": "2026-09-21T22:09:49.842994693Z",
+  "model": "glm-5.3"
+}

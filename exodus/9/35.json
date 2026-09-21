@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag naglig-on ang tagipusuon ni Paro, kag wala niya pagpagwa ang ⟨את⟩ mga anak nga lalaki sang Yisrael, subong sa ginhambal ni Yahweh paagi sa kamot ni Moshe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "kag naglig-on"
+    },
+    {
+      "surface": "לב",
+      "gloss": "tagipusuon"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "pagpagwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak nga lalaki sang Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ginhambal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "paagi sa kamot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T16:22:43.350356053Z",
+  "model": "glm-5.3"
+}

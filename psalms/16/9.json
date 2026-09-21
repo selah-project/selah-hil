@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Tungod sini nagakalipay ang akon tagipusuon, kag nagasilak ang akon himaya; bisan ang akon unod magapuyo ⟨sa⟩ kaseguro.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "tungod sini"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "nagakalipay"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang akon tagipusuon"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "kag nagasilak"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ang akon himaya"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ang akon unod"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "magapuyo"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "sa kaseguro"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:24.756085457Z",
+  "model": "glm-5.3"
+}

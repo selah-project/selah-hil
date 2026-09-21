@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 114,
+  "translation": "Nangin kasantohan ni Yahweh ang Yehudah, ang Yisrael nga mga sakop sang iya pagkadominante.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "Nangin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ang Yehudah"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "kasantohan ni Yahweh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "mga sakop sang iya pagkadominante"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:58.026691888Z",
+  "model": "glm-5.3"
+}

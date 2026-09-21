@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 34:10",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "kag ⟨את⟩ sa amon kamo magapuyo, kag ang duta magaabut sa atubangan ninyo; pumuyo kamo kag pangalakali ninyo ini kag magpanag-iya kamo sini.",
+  "tokens": [
+    {
+      "surface": "ואתנו",
+      "gloss": "kag ⟨את⟩ sa amon",
+      "marks": "kamo"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "magapuyo kamo"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "kag ang duta"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "magaabut"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "sa atubangan ninyo"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "pumuyo kamo"
+    },
+    {
+      "surface": "וסחרוה",
+      "gloss": "pangalakali ninyo ini"
+    },
+    {
+      "surface": "והאחזו",
+      "gloss": "magpanag-iya kamo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sini"
+    }
+  ],
+  "timestamp": "2026-09-21T16:10:53.285168246Z",
+  "model": "glm-5.3"
+}

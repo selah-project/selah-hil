@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 10:1",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag nakig-away ang mga Pelishteo batok sa Yisrael, kag nagpalagyo ang mga tawo sang Yisrael gikan sa atubangan sang mga Pelishteo, kag natumba ang mga gintamok sa bukid sang Gilboa.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "kag nakig-away ang mga Pelishteo"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "nakig-away"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "batok sa Yisrael"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "kag nagpalagyo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "gikan sa atubangan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sang mga Pelishteo"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "kag natumba"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "ang mga gintamok"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "sang Gilboa"
+    }
+  ],
+  "timestamp": "2026-09-21T21:53:41.950728974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 13:24",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag naglakat siya, kag nakasugat sa iya ang leon sa dalan kag ginpamatay niya siya; kag ang iya bangkay napahigda sa dalan, kag ang gamo nagatindog tupad sini, kag ang leon nagatindog tupad sa bangkay.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Kag naglakat siya"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "kag nakasugat sa iya"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ang leon"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "kag ginpamatay siya"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "kag nahimo"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "ang iya bangkay"
+    },
+    {
+      "surface": "משלכת",
+      "gloss": "napahigda"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "והחמור",
+      "gloss": "kag ang gamo"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nagatindog"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "tupad sini"
+    },
+    {
+      "surface": "והאריה",
+      "gloss": "kag ang leon"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nagatindog"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "tupad sa"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "ang bangkay"
+    }
+  ],
+  "timestamp": "2026-09-21T18:33:11.784251248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag ⟨את⟩ ang Khilen kag ⟨את⟩ ang iya mga kapatagan, ⟨את⟩ ang Devir kag ⟨את⟩ ang iya mga kapatagan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Khilen"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "Khilen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya mga kapatagan"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "iya mga kapatagan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Devir"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya mga kapatagan"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "iya mga kapatagan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:51:34.897842344Z",
+  "model": "glm-5.3"
+}

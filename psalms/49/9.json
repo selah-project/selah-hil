@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 49,
+  "translation": "Kag mahal gid ang pantebon sang ila ⟨kalag⟩, kag nagpundo ⟨ang maatood⟩ sa dayon.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "kag mahal gid"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "ang pantebon"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "sang ila kalag"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "kag nagpundo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:00.206368198Z",
+  "model": "glm-5.3"
+}

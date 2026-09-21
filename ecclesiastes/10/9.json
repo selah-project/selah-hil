@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Ang nagahalikay sang mga bato makasian sang sini, kag ang nagabuka sang mga kahoy maperdi sang sini.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "nagahalikay"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "makasian"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sang sini"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "nagabuka"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "mga kahoy"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "maperdi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sang sini"
+    }
+  ],
+  "timestamp": "2026-09-21T21:26:40.299260169Z",
+  "model": "glm-5.3"
+}

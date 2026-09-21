@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "\"Indi suno sina; kadto kamo na, ang mga lalaki, kag magaalagad ⟨את⟩ kay Yahweh, kay ⟨את⟩ inyo ang ginapangita.\" Kag ginpatabog ⟨את⟩ sinda gikan ⟨מאת⟩ sa atubang ni Paro.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "suno sina"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "kadto kamo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "ang mga lalaki"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "kag magaalagad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ino"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ino"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "ang ginapangita"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "Kag ginpatabog"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sinda"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "gikan ⟨מאת⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    }
+  ],
+  "timestamp": "2026-09-21T16:24:32.246451845Z",
+  "model": "glm-5.3"
+}

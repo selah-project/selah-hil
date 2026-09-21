@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Ginkadlaw ko ang katipunan sang mga manugdaut, kag upod sa mga malaot indi ako magapungko.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "ginkadlaw ko"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ang katipunan"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "sang mga manugdaut"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kag upod sa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga malaot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "ako magapungko"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:55.945833856Z",
+  "model": "glm-5.3"
+}

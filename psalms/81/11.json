@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 81,
+  "translation": "Ako si Yahweh, ang imo Elohim, ang nagpatindog sa imo gikan sa duta sang Mitsrayim; paglapad-a ang imo baba kag pun-on ko ini.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ang imo Elohim"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "ang nagpatindog sa imo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "paglapad-a"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ang imo baba"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "kag pun-on ko ini"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:37.592516267Z",
+  "model": "glm-5.3"
+}

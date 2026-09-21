@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Nagapuyang ang akon mata tungod sa kasubo; nagakatigulang ini tungod sa tanan ko nga mga kaaway.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "Nagapuyang"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "tungod sa kasubo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang akon mata"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "nagakatigulang ini"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ko nga mga kaaway"
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:59.536933136Z",
+  "model": "glm-5.3"
+}

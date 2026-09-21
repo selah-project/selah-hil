@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 60,
+  "translation": "Ginpakurog Mo ang duta, ginbungkag Mo ini; ayadon Mo ang iya mga bungkag, kay nagakurog ini.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "Ginpakurog Mo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "ginbungkag Mo ini"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "ayadon Mo"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "ang iya mga bungkag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "nagakurog ini"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:49.053937841Z",
+  "model": "glm-5.3"
+}

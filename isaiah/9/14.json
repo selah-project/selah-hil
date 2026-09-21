@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Ang tigulang kag ang ginataas ⟨sang⟩ dagway, amo ang ulo; kag ang manalagna nga nagatudlo sing bakak, amo ang ikog.",
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "ang tigulang"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "kag ang ginataas"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sang dagway"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "amo"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ang ulo"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "kag ang manalagna"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "nagatudlo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sing bakak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "amo"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "ang ikog"
+    }
+  ],
+  "timestamp": "2026-09-21T18:55:43.365459468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 21:18",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kon magkasingkasing ang isa ka tawo sang isa ka anak nga mapalahon kag mapasukad, wala siya mamati sa tingog sang iya amay kag sa tingog sang iya iloy; kag pagsilot nila sa iya ⟨אתו⟩, kag indi gihapon siya mamati sa ila.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magkasingkasing"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "sa isa ka tawo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "mapalahon"
+    },
+    {
+      "surface": "ומורה",
+      "gloss": "kag mapasukad"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mamati"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sa tingog"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sang iya amay"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "kag sa tingog"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sang iya iloy"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "kag pagsilot nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sa iya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "mamati"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T17:26:40.620434587Z",
+  "model": "glm-5.3"
+}

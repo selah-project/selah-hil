@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 25:4",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag nagsiling si Yahweh kay Moshe: Kuhaa ⟨את⟩ tanan nga mga pangulo sang katawhan, kag ipabitay ⟨sila⟩ sa atubang ni Yahweh, payungga sang adlaw, agod mag-untat ang nagasiga nga kaakig ni Yahweh sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "kuhaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga pangulo sang katawhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mga pangulo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sang katawhan"
+    },
+    {
+      "surface": "והוקע",
+      "gloss": "kag ipabitay"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang mga pangulo)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sa atubang ni Yahweh"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "payungga sang"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "agod mag-untat"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "ang nagasiga"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kaakig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "sa Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T17:11:47.034051837Z",
+  "model": "glm-5.3"
+}

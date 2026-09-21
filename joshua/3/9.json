@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 3:9",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag nagsiling si Yehoshua sa mga anak nga lalaki sang Yisrael: Palapit kamo diri kag magpamati sang ⟨את⟩ mga pulong ni Yahweh, sang inyo Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "si Yehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "palapit kamo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "diri"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "kag magpamati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga pulong"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sang inyo Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T17:34:42.854929413Z",
+  "model": "glm-5.3"
+}

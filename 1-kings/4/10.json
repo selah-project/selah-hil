@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Anak ni Hesed, sa Aruvot; iya ang Sokoh kag ang tanan nga duta sang Hefers.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ni Hesed"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "sa Aruvot"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iya"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "ang Sokoh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nga duta"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "sang Hefers"
+    }
+  ],
+  "timestamp": "2026-09-21T18:25:54.859073420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Magkabungkag sila tungod sang ila kahiya, ang mga nagaingon sa akon, Hala, hala.",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "Magkabungkag sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod sang"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "bayad"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "sang ila kahiya"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ang mga nagaingon"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hala"
+    },
+    {
+      "surface": "האח",
+      "gloss": "hala"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:38.471656942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kundi sa Torah ni Yahweh ang iya kalipay, kag sa iya Torah ginahunahuna niya ⟨ini⟩ adlaw kag gab-i.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kundi"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "sa Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "ang iya kalipay"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "kag sa iya Torah"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ginahunahuna niya"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "kag gab-i"
+    }
+  ],
+  "timestamp": "2026-09-21T20:23:42.310199030Z",
+  "model": "glm-5.3"
+}

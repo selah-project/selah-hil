@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kay ginpataas ko ikaw gikan sa duta sang Mitsrayim, kag gikan sa balay sang mga ulipon ginpahulad ko ikaw; kag nagpadala ako sa imo atubang ⟨את⟩ si Moshe, si Aharon, kag si Miryam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "ginpataas ko ikaw"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "kag gikan sa balay"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "sang mga ulipon"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "ginpahulad ko ikaw"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "kag nagpadala ako"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa imo atubang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "kag Miryam"
+    }
+  ],
+  "timestamp": "2026-09-21T20:15:41.133472796Z",
+  "model": "glm-5.3"
+}

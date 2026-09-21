@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag ginkuha ni Eliyahu ⟨את⟩ ang iya balahabo kag gintipon niya ini kag gintama niya ⟨את⟩ ang tubig, kag nagbahin ini sa diri kag sa didto, kag nagtabok sila nga duha sa mga uga nga duta.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kag ginkuha"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ni Eliyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya balahabo"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "iya balahabo"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "kag gintipon niya ini"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "kag gintama niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tubig"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang tubig"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "kag nagbahin ini"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sa diri"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kag sa didto"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "kag nagtabok"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "sila nga duha"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "sa mga uga nga duta"
+    }
+  ],
+  "timestamp": "2026-09-21T18:39:35.741263675Z",
+  "model": "glm-5.3"
+}

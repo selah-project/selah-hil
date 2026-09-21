@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 13:1",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag naghambal si Yahweh kay Moshe kag kay Aharon, nga nagasiling,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kag naghambal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag kay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    }
+  ],
+  "timestamp": "2026-09-21T16:49:00.765903063Z",
+  "model": "glm-5.3"
+}

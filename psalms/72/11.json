@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 72,
+  "translation": "Kag magapangluhod kaniya tanan nga mga hari; tanan nga mga pungsod magaalagad sa iya.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "kag magapangluhod"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga pungsod"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "magaalagad sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:04.358442545Z",
+  "model": "glm-5.3"
+}

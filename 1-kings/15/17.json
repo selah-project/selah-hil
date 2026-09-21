@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 15:17",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Kag nagtungas si Baasha, hari sang Yisrael, sa pagbatok sa Yehudah, kag gintindog niya ⟨את⟩ ang Rama, agod indi maghatag sang paggwa kag pagsulod kay Asa, hari sang Yehudah.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "nagtungas"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa pagbatok sa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "kag gintindog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "agod indi"
+    },
+    {
+      "surface": "תת",
+      "gloss": "maghatag"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "paggwa"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "kag pagsulod"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "kay Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-21T18:35:54.894738691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ginpaiduol ni Moshe ⟨את⟩ si Aharon kag ⟨את⟩ ang iya mga anak, kag ginpanigo niya ⟨את⟩ sila sang tubig.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Kag ginpaiduol"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ang iya mga anak"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "kag ginpanigo niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sang tubig"
+    }
+  ],
+  "timestamp": "2026-09-21T16:46:45.243570580Z",
+  "model": "glm-5.3"
+}

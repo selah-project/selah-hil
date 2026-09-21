@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Tubtob kanus-a, Yahweh, imo balewalaon ako — sa dayon? Tubtob kanus-a mo tagoon ⟨את⟩ ang imo dagway sa akon?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kanus-a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "imo balewalaon ako"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kanus-a"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "mo tagoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imo dagway"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "imo dagway"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:05.131834909Z",
+  "model": "glm-5.3"
+}

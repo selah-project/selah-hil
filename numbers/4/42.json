@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 4:42",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag ang mga gin-isip sa mga pamilya sang mga anak ni Merari, suno sa ila mga pamilya, suno sa balay sang ila mga amay.",
+  "tokens": [
+    {
+      "surface": "ופקודי",
+      "gloss": "kag ang mga gin-isip"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "sa mga pamilya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sang mga anak"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "ni Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "suno sa ila mga pamilya"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "suno sa balay"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "sang ila mga amay"
+    }
+  ],
+  "timestamp": "2026-09-21T16:58:59.463225864Z",
+  "model": "glm-5.3"
+}

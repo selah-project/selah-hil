@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "⟨Apang⟩ ginpugngan ni Haman ⟨ang iya kaakig⟩, kag nagpakadto siya sa iya balay, kag nagpadala kag nagpaabot sang ⟨את⟩ iya mga higala kag ⟨את⟩ si Zeresh nga iya asawa.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "ginpugngan"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ni Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "kag nagpakadto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "iya balay"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "kag nagpadala"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kag nagpaabot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya mga higala"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "iya mga higala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Zeresh"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "si Zeresh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "iya asawa"
+    }
+  ],
+  "timestamp": "2026-09-21T21:29:52.269946612Z",
+  "model": "glm-5.3"
+}

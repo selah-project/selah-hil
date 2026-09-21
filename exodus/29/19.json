@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kag imo kuhaon ⟨את⟩ ang ikaduha nga kargero, kag si Aharon kag ang iya mga anak magbutang sang ⟨את⟩ ila mga kamot sa ulo sang kargero.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "kag imo kuhaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ikaduha nga kargero"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "kargero"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ang ikaduha"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "kag magbutang"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "kag ang iya mga anak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ila mga kamot"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ila mga kamot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "sang kargero"
+    }
+  ],
+  "timestamp": "2026-09-21T16:34:51.226527761Z",
+  "model": "glm-5.3"
+}

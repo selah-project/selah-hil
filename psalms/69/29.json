@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 69,
+  "translation": "Mapanas sila sa sulatan sang mga buhi, kag sang mga matarong, indi sila isulat.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "mapanas sila"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "sa sulatan"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sang mga buhi"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kag sang"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "mga matarong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "sila isulat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:48.667276125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Kag nagmata si Adonay pareho sang natulog, pareho sang gamhanan nga nagasinggit tungod sang bino.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "kag nagmata"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "pareho sang natulog"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "si Adonay"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "pareho sang gamhanan"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "nga nagasinggit"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "tungod sang bino"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:03.455746113Z",
+  "model": "glm-5.3"
+}

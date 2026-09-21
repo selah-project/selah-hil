@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 38,
+  "translation": "Kag ini ang timaan para sa imo gikan ⟨את⟩ kang Yahweh, nga si Yahweh ang himuon ⟨את⟩ ining pulong nga iya ginhambal;",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Kag ini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa imo"
+    },
+    {
+      "surface": "האות",
+      "gloss": "ang timaan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "gikan ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ang himuon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ining pulong"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ining pulong"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "(ining)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ginhambal"
+    }
+  ],
+  "timestamp": "2026-09-21T19:04:43.218921815Z",
+  "model": "glm-5.3"
+}

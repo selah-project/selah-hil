@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 136,
+  "translation": "⟨את⟩ ang bulan kag ang mga bitoon, sa pagdumala sa gab-i; kay sa dayon nga tion ang iya hesed.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bulan"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "ang bulan"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "kag ang mga bitoon"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "sa pagdumala"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "sa gab-i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon nga tion"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iya hesed"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:22.489145076Z",
+  "model": "glm-5.3"
+}

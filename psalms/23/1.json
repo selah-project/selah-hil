@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Dayoranon ni David. Si Yahweh ⟨ang⟩ akon magabantay ⟨sang karnero⟩; indi ako magkulang.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Dayoranon"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "akon magabantay sang karnero"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "magkulang ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:13.064522682Z",
+  "model": "glm-5.3"
+}

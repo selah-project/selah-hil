@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Si Yahweh ⟨yara⟩ sa iya balaan nga palasyo; si Yahweh, sa mga langit ang iya trono; ang iya mga mata nakakita, ang iya mga taklop nagatilaw sa mga anak sang tawo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "sa iya palacyo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sa mga langit"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ang iya trono"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ang iya mga mata"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "nakakita"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "ang iya mga taklop"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "nagatilaw"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:36.425127712Z",
+  "model": "glm-5.3"
+}

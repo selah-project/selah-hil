@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 50,
+  "translation": "Tipona sa akon ang akon mga hasid, ang nagbugkos sang akon kasugtanan sa ibabaw sang halad.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Tipona"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "ang akon mga hasid"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "ang nagbugkos"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "sang akon kasugtanan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sang halad"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:57.661799767Z",
+  "model": "glm-5.3"
+}

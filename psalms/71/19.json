@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 71,
+  "translation": "Kag ang Imo pagkamatarong, O Elohim, tubtub sa kahitas-an — Siya ⟨nga⟩ naghimo sang mga dalagko — O Elohim, sin-o ang pareho sa Imo?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "Kag ang Imo pagkamatarong"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtub sa"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "kahitas-an"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Siya nga"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "naghimo sang"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "mga dalagko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ang pareho sa Imo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:40.270007628Z",
+  "model": "glm-5.3"
+}

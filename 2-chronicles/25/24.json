@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 25:24",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "⟨Ginkuha niya⟩ ang tanan nga bulawan kag ang plata, kag ⟨את⟩ ang tanan nga mga kagamitan nga nakita sa balay sang Elohim kaupod ni Oved-Edom, kag ⟨את⟩ ang mga kamalig sang balay sang hari, kag ⟨את⟩ ang mga anak sang mga ginbulos, kag nagbalik siya sa Shomron.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "nga bulawan"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "kag ang plata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan nga mga kagamitan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "nga mga kagamitan"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "nga nakita"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay sang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod ni"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga kamalig sang balay sang hari"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "ang mga kamalig"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga anak sang mga ginbulos"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "התערבות",
+      "gloss": "sang mga ginbulos"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kag nagbalik siya"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "sa Shomron"
+    }
+  ],
+  "timestamp": "2026-09-21T22:11:04.853099754Z",
+  "model": "glm-5.3"
+}

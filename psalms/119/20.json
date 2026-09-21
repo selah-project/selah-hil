@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Nagati-it ang akon kalag sa pangandoy sa imo mga matood sa tanan nga tion.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "Nagati-it"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "sa pangandoy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "imo mga matood"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nga tion"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:13.514273300Z",
+  "model": "glm-5.3"
+}

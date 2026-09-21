@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Sa ⟨manugdumala⟩, sa Alamot Laben, isa ka mizmór ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa ⟨manugdumala⟩"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Alamot"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laben"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmór"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:12.031368718Z",
+  "model": "glm-5.3"
+}

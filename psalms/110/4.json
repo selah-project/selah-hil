@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 110,
+  "translation": "Nagpanumpa si Yahweh kag indi na magabag-o sang isip: Ikaw isa ka sakdol sa dayon, suno sa sumbanan ni Malki-Tsedek.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Nagpanumpa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "magabag-o sang isip"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "sakdol"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "על",
+      "gloss": "suno sa"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "sumbanan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedek"
+    }
+  ],
+  "timestamp": "2026-09-21T22:40:36.024254647Z",
+  "model": "glm-5.3"
+}

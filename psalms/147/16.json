@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 147,
+  "translation": "Ang nagahatag sang nyebe nga pareho sang balahibo; hamog nga yelo nga pareho sang abo ang iya ginakalaplap.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "ang nagahatag"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "sang nyebe"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "nga pareho sang balahibo"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "hamog nga yelo"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "nga pareho sang abo"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "ang iya ginakalaplap"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:21.630231742Z",
+  "model": "glm-5.3"
+}

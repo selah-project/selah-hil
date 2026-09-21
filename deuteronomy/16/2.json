@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 16:2",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag magahalad ka sang Pesah kay Yahweh nga imo Elohim, sang mga karnero kag sang mga baka, sa duog nga pilion ni Yahweh sa pagpuyo sang iya ngalan didto.",
+  "tokens": [
+    {
+      "surface": "וזבחת",
+      "gloss": "Kag magahalad ka"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga imo Elohim"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mga karnero"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "kag mga baka"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sa duog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "pilion"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "sa pagpuyo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sang iya ngalan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    }
+  ],
+  "timestamp": "2026-09-21T17:24:45.440195016Z",
+  "model": "glm-5.3"
+}

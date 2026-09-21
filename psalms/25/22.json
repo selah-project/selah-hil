@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Liptawi si Elohim ⟨את⟩ ang Yisrael gikan sa tanan nga iya mga kagul-an.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Liptawi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "gikan sa tanan"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "nga iya mga kagul-an"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:15.108664018Z",
+  "model": "glm-5.3"
+}

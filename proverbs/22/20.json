@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Wala bala ako nakasulat sa imo sang tatlo ka tion, sang mga tambag kag kaalaman?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Wala bala"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "ako nakasultat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "sang tatlo ka tion"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "sang mga tambag"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "kag kaalaman"
+    }
+  ],
+  "timestamp": "2026-09-21T21:01:46.473702113Z",
+  "model": "glm-5.3"
+}

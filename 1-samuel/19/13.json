@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 19:13",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag ginkuha ni Mikal ⟨את⟩ ang mga teraphim kag ginpwesto sa higaan, kag ⟨את⟩ ang banig nga buhok sang mga kanding ginpwesto sa iya ulohan, kag gintabon sang bado.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "kag ginkuha"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "ni Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga teraphim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "ang mga teraphim"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "kag ginpwesto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "higaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang banig nga buhok sang mga kanding"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "banig"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "sang mga kanding"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ginpwesto"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "sa iya ulohan"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "kag gintabon"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "sang bado"
+    }
+  ],
+  "timestamp": "2026-09-21T18:06:02.068508698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 8:6",
+  "book": "ezra",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag sa mga anak ni Adin, Eved nga anak ni Yonatan, kag upod niya lima ka pulo ka mga lalaki.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "kag sa mga anak ni"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "Adin"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Eved"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "ni Yonatan"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "kag upod niya"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima ka pulo"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "ka mga lalaki"
+    }
+  ],
+  "timestamp": "2026-09-21T21:41:56.393137660Z",
+  "model": "glm-5.3"
+}

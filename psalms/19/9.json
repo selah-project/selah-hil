@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Ang mga pikud sang Yahweh matul-id, nagapalipay sang kasingkasing; ang mitzva sang Yahweh malinis, nagapasanag sang mga mata.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "ang mga pikud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sang Yahweh"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "matul-id"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "nagapalipay"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sang kasingkasing"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ang mitzva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sang Yahweh"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "malinis"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "nagapasanag"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "sang mga mata"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:50.346635068Z",
+  "model": "glm-5.3"
+}

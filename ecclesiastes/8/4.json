@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Sa diin ang pulong sang hari ⟨ara⟩ ang gahum, kag sin-o ang makasiling sa iya, Ano ang imo ginahimo?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "sa diin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "ang gahum"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "kag sin-o"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "makasiling"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "imo ginahimo"
+    }
+  ],
+  "timestamp": "2026-09-21T21:26:57.876063331Z",
+  "model": "glm-5.3"
+}

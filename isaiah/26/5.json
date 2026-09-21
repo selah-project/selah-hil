@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Kay nagpaubos siya sang mga nagaistar sa kahitas-an, sang ciudad nga mataas; ginpaubos niya ini, ginpaubos niya tubtob sa duta, ginpaabot niya ini tubtob sa abog.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "השח",
+      "gloss": "nagpaubos"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "sang mga nagaistar"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "sa kahitas-an"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "sang ciudad"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "nga mataas"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "ginpaubos niya ini"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "ginpaubos"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "ginpaabot niya ini"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "sa abog"
+    }
+  ],
+  "timestamp": "2026-09-21T18:59:29.809315998Z",
+  "model": "glm-5.3"
+}

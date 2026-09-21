@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 91,
+  "translation": "Kay ikaw, Yahweh, amo ang akon hingipitan, ang Elyon, ginpili mo nga puluy-an mo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "hingipitan ko"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ginpili mo"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "puluy-an mo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:29.134295064Z",
+  "model": "glm-5.3"
+}

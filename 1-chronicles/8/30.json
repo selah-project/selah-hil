@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ang iya anak nga panganay ⟨amo⟩ Avdon, kag Tsur, kag Khish, kag Baal, kag Nadav.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "kag ang iya anak"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "nga panganay"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "kag Tsur"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "kag Khish"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "kag Baal"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "kag Nadav"
+    }
+  ],
+  "timestamp": "2026-09-21T21:52:15.851865754Z",
+  "model": "glm-5.3"
+}

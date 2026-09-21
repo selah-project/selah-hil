@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag nagsiling siya: Ina amo ang kadautan. Kag ginlabog niya ⟨את⟩ siya sa tunga sang efa, kag ginbutang niya ⟨את⟩ ang bato nga tingga sa iya baba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling siya"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ina"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "ang kadautan"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "kag ginlabog niya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "siya (ang babayi)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "tunga"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "sang efa"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "kag ginbutang niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bato nga tingga"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "bato"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "nga tingga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "iya baba"
+    }
+  ],
+  "timestamp": "2026-09-21T20:18:54.563559970Z",
+  "model": "glm-5.3"
+}

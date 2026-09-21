@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag magabantay kamo sang ⟨את⟩ pagbantay sang ⟨mga butang nga⟩ balaan kag sang ⟨את⟩ pagbantay sang halaran, agod indi na magaluntad kaakig sa mga anak sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "magabantay kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pagbantay"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "pagbantay"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sang balaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "pagbantay"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "pagbantay"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sang halaran"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "agod indi na"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magaluntad"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na pa"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "kaakig"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T17:08:44.551790209Z",
+  "model": "glm-5.3"
+}

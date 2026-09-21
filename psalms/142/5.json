@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 142,
+  "translation": "Tan-awa ang to-o kag makita; kag wala akon sing nakakilala; nalipong ang panikasan sa akon; wala sing nagapangita sa akon kalag.",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ang to-o"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "kag makita"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "akon"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "nakakilala"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "nalipong"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "ang panikasan"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "nagapangita"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "sa akon kalag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:34.223623360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Madamo ang nagahambal sa akon kalag, 'Wala sing kaluwas para sa iya sa Elohim.' Selah.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Madamo"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ang nagahambal"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "sa akon kalag"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Wala sing"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "kaluwas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa iya"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:44.315219909Z",
+  "model": "glm-5.3"
+}

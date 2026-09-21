@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag ipatindog sang saserdote nga nagamalinis ⟨את⟩ ang tawo nga pagamalinison kag ⟨את⟩ sila, sa atubang ni Yahweh, sa ganghaan sang tolda sang pagtigum.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "kag ipatindog"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang saserdote"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "nga nagamalinis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tawo nga pagamalinison"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "nga pagamalinison"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "kag ⟨את⟩ sila",
+      "marks": "ang mga butang sa atubang ni Yahweh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sa ganghaan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang pagtigum"
+    }
+  ],
+  "timestamp": "2026-09-21T16:47:46.209059220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 119:59",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Ginhunahuna ko ang akon mga dalan, kag ginbalik ko ang akon mga tiil sa imo mga pagsaksi.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "ginhunahuna ko"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ang akon mga dalan"
+    },
+    {
+      "surface": "ואשיבה",
+      "gloss": "kag ginbalik ko"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ang akon mga tiil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "imo mga pagsaksi"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:21.045918197Z",
+  "model": "glm-5.3"
+}

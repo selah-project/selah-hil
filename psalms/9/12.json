@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kantaha ninyo si Yahweh, ang nagaestar sa Tsiyon; ipahayag ninyo sa mga pungsod ang iya mga binuhat.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Kantaha ninyo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ang nagaestar"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "sa Tsiyon"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "ipahayag ninyo"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "sa mga pungsod"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ang iya mga binuhat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:23.218721499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 6:9",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Ini ang mga kaliwat ni Noach. Si Noach isa ka tawo nga matarong kag hingpit sa iya mga panahon; kaupod sang ⟨ang⟩ ⟨את⟩ Elohim nagalakat si Noach.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "mga kaliwat"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "si Noach"
+    },
+    {
+      "surface": "איש",
+      "gloss": "isa ka tawo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "hingpit"
+    },
+    {
+      "surface": "היה",
+      "gloss": "amo"
+    },
+    {
+      "surface": "בדרתיו",
+      "gloss": "sa iya mga panahon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "nalakat\/nagalakat"
+    },
+    {
+      "surface": "נח",
+      "gloss": "si Noach"
+    }
+  ],
+  "timestamp": "2026-09-21T15:57:05.498268445Z",
+  "model": "glm-5.3"
+}

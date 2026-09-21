@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "kag mga panit sang mga carnero nga ginpula, kag mga panit sang takash, kag mga kahoy sang shittim",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "kag mga panit"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "sang mga carnero"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "nga ginpula"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "kag mga panit"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "sang takash"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "kag mga kahoy"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sang shittim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:31:35.298210921Z",
+  "model": "glm-5.3"
+}

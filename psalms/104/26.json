@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 104:26",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 104,
+  "translation": "Didto nagalayag ang mga sakayan; si Livyatan — ina imo ginhimo agod magdula sa iya.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "mga sakayan"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "nagalayag"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "si Livyatan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ina"
+    },
+    {
+      "surface": "יצרת",
+      "gloss": "imong ginhimo"
+    },
+    {
+      "surface": "לשחק",
+      "gloss": "agod magdula"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:42.596168253Z",
+  "model": "glm-5.3"
+}

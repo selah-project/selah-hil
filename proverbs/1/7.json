@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 1:7",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Ang kahadlok kay Yahweh amo ang ginsuguran sang kaalam; kag ang mga buyag nagpalain sang kaalam kag pagtulun-an.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "Ang kahadlok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ang ginsuguran"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "sang kaalam"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sing kaalam"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "kag pagtulun-an"
+    },
+    {
+      "surface": "אוילים",
+      "gloss": "ang mga buyag"
+    },
+    {
+      "surface": "בזו",
+      "gloss": "nagpalain"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:48.843425169Z",
+  "model": "glm-5.3"
+}

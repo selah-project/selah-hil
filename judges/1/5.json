@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nakita nila si Adoni-Bezek sa Bezek, kag nanginlaban sila sa iya, kag ginslag nila ⟨את⟩ ang Kanaanon kag ⟨את⟩ ang Perizzi.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "nakita nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Adoni-Bezek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "sa Bezek"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "kag nanginlaban"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "kag ginslag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Kanaanon"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ang Kanaanon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "ang Perizzi"
+    }
+  ],
+  "timestamp": "2026-09-21T17:46:08.770614080Z",
+  "model": "glm-5.3"
+}

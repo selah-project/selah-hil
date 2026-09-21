@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag ginpohon niya ⟨את⟩ ang halaran sang bulawan sa tolda sang katigymunan, sa atubangan sang tabun.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ginpohon niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang halaran sang bulawan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "sang bulawan"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "sa tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang katigymunan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "sang tabun"
+    }
+  ],
+  "timestamp": "2026-09-21T16:40:40.598547263Z",
+  "model": "glm-5.3"
+}

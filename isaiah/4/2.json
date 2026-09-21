@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 4:2",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Sa ina nga adlaw ang Sangkat sang Yahweh magakabuhi sa kahamugtan kag sa himaya, kag ang bunga sang duta sa kahalangdon kag sa kaanyag, para sa mga naligtad sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ina nga"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magakabuhi"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "Sangkat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "sa kahamugtan"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "kag sa himaya"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "kag ang bunga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "sa kahalangdon"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "kag sa kaanyag"
+    },
+    {
+      "surface": "לפליטת",
+      "gloss": "para sa mga naligtad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T18:53:44.084469230Z",
+  "model": "glm-5.3"
+}

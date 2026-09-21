@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag ara ang Aron ni Yahweh sa uma sang mga Pelishteh pito ka bulan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag ara"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa uma"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sang mga Pelishteh"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "pito"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ka bulan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:26:46.096681259Z",
+  "model": "glm-5.3"
+}

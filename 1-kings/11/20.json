@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag natawan siya sang igsoon ni Tahpenes sang anak nga lalaki, ⟨את⟩ si Genubat nga iya anak; kag ginpahunas siya ni Tahpenes sa sulod sang balay ni Paro; kag si Genubat nangin ara sang balay ni Paro sa tunga sang mga anak nga lalaki ni Paro.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "kag natawan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sang igsoon"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "ni Tahpenes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Genubat"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "si Genubat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nga iya anak"
+    },
+    {
+      "surface": "ותגמלהו",
+      "gloss": "kag ginpahunas siya"
+    },
+    {
+      "surface": "תחפנס",
+      "gloss": "ni Tahpenes"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa sulod"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag nangin ara"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "si Genubat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sang mga anak nga lalaki"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    }
+  ],
+  "timestamp": "2026-09-21T18:33:45.381874916Z",
+  "model": "glm-5.3"
+}

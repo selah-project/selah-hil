@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 76,
+  "translation": "Kag ⟨nangyari⟩: sa Shalem ang iya payag, kag ang iya mga puluy-an sa Tsiyon.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag ⟨nangyari⟩"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "sa Shalem"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "ang iya payag"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "kag ang iya mga puluy-an"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "sa Tsiyon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:15.214035687Z",
+  "model": "glm-5.3"
+}

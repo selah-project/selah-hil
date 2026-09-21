@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 9:29",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag ang tanan nga mga adlaw ni Noach amo ang siyam ka gatos ka tuig kag lima ka pulo ka tuig, kag namatay ⟨siya⟩.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "kag nangin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nga mga adlaw"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ni Noach"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "siyam"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "kag lima ka pulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kag namatay"
+    }
+  ],
+  "timestamp": "2026-09-21T15:56:32.688613057Z",
+  "model": "glm-5.3"
+}

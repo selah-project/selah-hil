@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Hambali ang mga anak nga lalaki sang Yisrael, kag ihambal mo sa ila: Ako si Yahweh, ang inyo Elohim.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Hambali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "kag ihambal mo"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ang inyo Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T22:21:15.855026650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 21:29",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "⟨את⟩ Yarmut kag ⟨את⟩ iya mga pastulan, ⟨את⟩ Ein-Ganim kag ⟨את⟩ iya mga pastulan — apat ka mga siyudad.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarmut"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "Yarmut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga pastulan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iya mga pastulan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ein-Ganim"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ein"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "Ganim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga pastulan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iya mga pastulan"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mga siyudad"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "apat"
+    }
+  ],
+  "timestamp": "2026-09-21T17:43:35.745414916Z",
+  "model": "glm-5.3"
+}

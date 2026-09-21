@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag ⟨את⟩ ang mga Patrusim, kag ⟨את⟩ ang mga Kasluhim — gikan sa ila nagguwa ang mga Pelishti — kag ⟨את⟩ ang mga Kaftorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga Patrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "ang mga Patrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga Kasluhim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "ang mga Kasluhim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "nagguwa"
+    },
+    {
+      "surface": "משם",
+      "gloss": "gidtan sadto"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ang mga Pelishti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga Kaftorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "ang mga Kaftorim"
+    }
+  ],
+  "timestamp": "2026-09-21T15:58:49.604274606Z",
+  "model": "glm-5.3"
+}

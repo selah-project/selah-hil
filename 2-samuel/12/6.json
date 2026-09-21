@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "kag ⟨את⟩ ang karnero ibayad niya upat ka pilo, tungod kay ginpangbuhat niya ⟨את⟩ ang butang ini kag tungod kay wala siya nagkaluoy.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang karnero"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "ang karnero"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ibayad"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "upat ka pilo"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginpangbuhat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang butang"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang butang"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag tungod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "nagkaluoy"
+    }
+  ],
+  "timestamp": "2026-09-21T18:17:56.018206994Z",
+  "model": "glm-5.3"
+}

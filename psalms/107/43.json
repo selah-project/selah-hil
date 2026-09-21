@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 107:43",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 107,
+  "translation": "Sin-o ang maalam, kag magatipon sang ini, kag magabinag-iya sang mga hesed ni Yahweh?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Sin-o"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ang maalam"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "kag magatipon"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sang ini"
+    },
+    {
+      "surface": "ויתבוננו",
+      "gloss": "kag magabinag-iya"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "sang mga hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:02.581647366Z",
+  "model": "glm-5.3"
+}

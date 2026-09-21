@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 92,
+  "translation": "⟨Sila⟩ ginpananom sa balay ni Yahweh; sa mga kortal sang Elohim naton magaburak.",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "ginpananom"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "sa mga kortal"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "sang Elohim naton"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "magaburak"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:33.440725494Z",
+  "model": "glm-5.3"
+}

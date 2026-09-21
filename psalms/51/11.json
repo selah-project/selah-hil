@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 51,
+  "translation": "Itago mo ang imo dagway sa akon mga sala, kag panason mo ang tanan ko nga mga kalautan.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "itago mo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang imo dagway"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "sa akon mga sala"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "ko nga mga kalautan"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "panason mo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:12.105279148Z",
+  "model": "glm-5.3"
+}

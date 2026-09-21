@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Sa ila unod indi kamo magakaon, kag sa ila nabilan nga lawas indi kamo magatandog; mga marigtonon sila sa inyo.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "sa ila unod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamo magakaon"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "kag sa ila nabilan nga lawas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "kamo magatandog"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "mga marigtonon"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:45:48.583664492Z",
+  "model": "glm-5.3"
+}

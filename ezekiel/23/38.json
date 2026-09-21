@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezekiel 23:38",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Gani pa gid, amo ini ang ila ginhimo sa akon: ginhugawan nila ⟨את⟩ akon santuaryo sadto nga adlaw, kag ⟨את⟩ akon mga Sabbath ginmalina nila.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "Gani pa gid"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "amo ini"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ang ila ginhimo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "ginhugawan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akon santuaryo"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "akon santuaryo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nga sadto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "akon mga Sabbath"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "akon mga Sabbath"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "ginmalina nila"
+    }
+  ],
+  "timestamp": "2026-09-21T19:50:45.337230103Z",
+  "model": "glm-5.3"
+}

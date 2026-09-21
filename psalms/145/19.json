@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 145,
+  "translation": "Ang kagustuhan sang mga nagaikadlong sa iya himuon niya, kag ⟨את⟩ ang ila pananggit paminawon niya kag iligtas niya sila.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "Ang kagustuhan"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "sang mga nagaikadlong sa iya"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "himuon niya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang ila pananggit"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "ang ila pananggit"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "paminawon niya"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "kag iligtas niya sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:28.103254480Z",
+  "model": "glm-5.3"
+}

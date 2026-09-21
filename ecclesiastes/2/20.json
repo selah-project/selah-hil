@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag nagbalik-balik ako sa pagpawala sang paglaom sang akon ⟨את⟩ tagipusuon tungod sa tanan nga pagpangabudlay nga akon ginpangabudlayan sa ilalom sang adlaw.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "Kag nagbalik-balik"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "sa pagpawala sang paglaom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akon tagipusuon"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "akon tagipusuon"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "nga pagpangabudlay"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "nga akon ginpangabudlayan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalom"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sang adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T21:26:05.099950819Z",
+  "model": "glm-5.3"
+}

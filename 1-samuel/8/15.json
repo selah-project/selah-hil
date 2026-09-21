@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag inyo binhi kag inyo mga kaparasan ikanapulohon niya, kag ihatag niya sa iya mga opisyal kag sa iya mga sulugoon.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "kag inyo binhi"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "kag inyo mga kaparasan"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "ikanapulohon niya"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "kag ihatag niya"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "sa iya mga opisyal"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "kag sa iya mga sulugoon"
+    }
+  ],
+  "timestamp": "2026-09-21T17:58:48.849997074Z",
+  "model": "glm-5.3"
+}

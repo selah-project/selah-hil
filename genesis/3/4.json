@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ang man-og nagsiling sa babae: Indi kamo mamatay gid.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ang man-og"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ang babae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "мות",
+      "gloss": "mamatay gid"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "kamo mamatay"
+    }
+  ],
+  "timestamp": "2026-09-21T15:56:20.985202944Z",
+  "model": "glm-5.3"
+}

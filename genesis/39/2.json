@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 39,
+  "translation": "Kag si Yahweh ⟨את⟩ kaupod kay Yosef, kag nangin isa ka tawo nga mainuswagon siya, kag nahiubos siya sa balay sang iya agalon, ang Mitsri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag nangin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaupod kay Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag nangin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "nga mainuswagon"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag nahiubos"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sang iya agalon"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "ang Mitsri"
+    }
+  ],
+  "timestamp": "2026-09-21T16:14:17.761963398Z",
+  "model": "glm-5.3"
+}

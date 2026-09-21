@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 145,
+  "translation": "Ang kadungganan sang himaya sang imo kahaluagar, kag ang mga pulong sang imo mga kataka-taka pagahunahunaon ko",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "kadungganan"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "himaya"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "imo kahaluagar"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "kag ang mga pulong"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "sang imo mga kataka-taka"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "pagahunahunaon ko"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:15.056418991Z",
+  "model": "glm-5.3"
+}

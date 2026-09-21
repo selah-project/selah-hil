@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Kag ginkuha sang katawhan sang duta ⟨את⟩ ni Yehoachaz, anak nga lalaki ni Yoshiyahu, kag ginpahari nia ⟨sa bayad⟩ sang iya amay sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "kag ginkuha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yehoachaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak nga lalaki"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "ni Yoshiyahu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "kag ginpahari nia"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨sa bayad⟩ sang"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iya amay"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-21T22:14:59.137210105Z",
+  "model": "glm-5.3"
+}

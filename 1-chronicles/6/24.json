@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 6:24",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "kag ang iya utod nga lalaki si Asaf, ang nagatindog sa iya too, si Asaf anak ni Berekhyahu, anak ni Shimea",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "kag ang iya utod nga lalaki"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asaf"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "ang nagatindog"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "iya too"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asaf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "Berekhyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shimea"
+    }
+  ],
+  "timestamp": "2026-09-21T21:51:28.383139748Z",
+  "model": "glm-5.3"
+}

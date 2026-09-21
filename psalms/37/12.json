@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Nagapaninguha ang rikaw sang kadaot batok sa matarong, kag nangatig-ig ang iya mga ngipon sa iya.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "nagapaninguha"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ang rikaw"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "sang kadaot batok sa matarong"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "kag nangatig-ig"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "iya mga ngipon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:40.460534474Z",
+  "model": "glm-5.3"
+}

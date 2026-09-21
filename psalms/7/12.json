@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Elohim ⟨ang⟩ hukoman nga matarong, kag El nga nagakasilag sa tagsa ka adlaw.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "hukoman"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "nagakasilag"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tagsa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ka adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:28.902089064Z",
+  "model": "glm-5.3"
+}

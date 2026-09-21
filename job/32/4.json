@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Kag si Elihu naghulat kay Iyov ⟨את⟩ sa mga pulong, bangod mga tigulang sila labaw sa iya sa mga adlaw.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "Kag si Elihu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "naghulat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyov"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "sa mga pulong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bangod"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "mga tigulang"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "labaw sa iya"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "sa mga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T22:42:24.409449470Z",
+  "model": "glm-5.3"
+}

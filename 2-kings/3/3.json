@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Gani lamang sa mga sala ni Yarovam nga anak ni Nevat, nga nagpasala ⟨sa⟩ ⟨את⟩ sang Yisrael, nagadikit sia, wala sia magbulig sini.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Gani lamang"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "sa mga sala"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ni Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ni Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "nagpasala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "nagadikit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "סר",
+      "gloss": "magbulig"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "sini"
+    }
+  ],
+  "timestamp": "2026-09-21T18:40:06.497368270Z",
+  "model": "glm-5.3"
+}

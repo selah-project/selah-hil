@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Gani sa sini nga butang wala kamo sang pagtuo kay Yahweh nga inyo Elohim.",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "gani sa sini nga butang"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sini"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "wala kamo"
+    },
+    {
+      "surface": "מאמינם",
+      "gloss": "pagtuo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "inyo Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T17:17:43.985524622Z",
+  "model": "glm-5.3"
+}

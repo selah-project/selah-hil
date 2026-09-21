@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Imo ginhambal sa akon kasing-kasing: Pangitaa ninyo ang akon dagway. Ang imo dagway, Yahweh, pangitaon ko.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Imo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ginhambal"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sa akon kasing-kasing"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "Pangitaa ninyo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ang akon dagway"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imo dagway"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang imo dagway"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "pangitaon ko"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:02.314797483Z",
+  "model": "glm-5.3"
+}

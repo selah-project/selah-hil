@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 6:2",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Mga Serap ang nagatindog sa itaas sa iya; anom ka pako, anom ka pako sa isa — sa duha ginatahub ang iya nawong, kag sa duha ginatahub ang iya tiil, kag sa duha nagalupad.",
+  "tokens": [
+    {
+      "surface": "שרפים",
+      "gloss": "mga Serap"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "nagatindog"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "sa itaas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "שש",
+      "gloss": "anom"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "ka pako"
+    },
+    {
+      "surface": "שש",
+      "gloss": "anom"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "ka pako"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "sa isa"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "sa duha"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ginatahub"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "iya nawong"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "kag sa duha"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ginatahub"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "iya tiil"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "kag sa duha"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "nagalupad"
+    }
+  ],
+  "timestamp": "2026-09-21T18:54:43.408095315Z",
+  "model": "glm-5.3"
+}

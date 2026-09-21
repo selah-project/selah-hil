@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Kag naghambal si Yahweh kay Moshe: Lakat, magpanaug, kay nagpalain ang imo nga katawhan nga imo ginsakahe halin sa duta sang Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "naghambal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Lakat"
+    },
+    {
+      "surface": "רד",
+      "gloss": "magpanaug"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "nagpalain"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "imo nga katawhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "ginsakahe"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "halin sa duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:37:05.198079031Z",
+  "model": "glm-5.3"
+}

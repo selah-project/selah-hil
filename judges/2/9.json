@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 2:9",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag ginlubong nila ⟨אתו⟩ sa utod sang iya manunubos sa Timnat-Kheres, sa bukid sang Efrayim, sa aminahan sang bukid sang Gaash.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "ginlubong nila"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨אתו⟩",
+      "marks": "sa utod sang iya manunubos"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "sa utod"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "sang iya manunubos"
+    },
+    {
+      "surface": "בתמנת",
+      "gloss": "sa Timnat"
+    },
+    {
+      "surface": "חרס",
+      "gloss": "Kheres"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "sang Efrayim"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "sa aminahan"
+    },
+    {
+      "surface": "להר",
+      "gloss": "sang bukid"
+    },
+    {
+      "surface": "געש",
+      "gloss": "sang Gaash"
+    }
+  ],
+  "timestamp": "2026-09-21T17:45:52.208163732Z",
+  "model": "glm-5.3"
+}

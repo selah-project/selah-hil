@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ibutang ko nga mga batan-on ang ila mga pangulo, kag mga balasahan ang magadumala sa ila.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Kag ibutang ko"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "nga mga batan-on"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "ang ila mga pangulo"
+    },
+    {
+      "surface": "ותעלולים",
+      "gloss": "kag mga balasahan"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "ang magadumala"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T18:52:54.719025799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag subong, isa ka pangamuyo ang akon ginpangamuyo sa ⟨את⟩ imo; indi pagbaliksa ang akon dagway. Kag nagsiling siya sa iya, Hambala.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kag subong"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "pangamuyo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "isa ka"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ang akon"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ginpangamuyo"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "sa ⟨את⟩ imo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "pagbaliksa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon dagway"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ang akon dagway"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Kag nagsiling"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Hambala"
+    }
+  ],
+  "timestamp": "2026-09-21T18:26:02.867998190Z",
+  "model": "glm-5.3"
+}

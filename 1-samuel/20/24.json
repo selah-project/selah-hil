@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag nagtago si David sa uma, kag nag-abot ang bag-ong bulan, kag nagturok ang hari sa ibabaw sang pagkaon sa pagkaan.",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "nagtago"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa uma"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag nag-abot"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ang bag-ong bulan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kag nagturok"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "sang pagkaon"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "sa pagkaan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:06:03.549365819Z",
+  "model": "glm-5.3"
+}

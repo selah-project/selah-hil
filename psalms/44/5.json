@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Ikaw gid ang akon hari, Elohim; magpasugo ka sang mga kaluwas para kay Yakov.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "gid ⟨ang⟩"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ang akon hari"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "magpasugo ka"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "sang mga kaluwas"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "kay Yakov"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:04.084629487Z",
+  "model": "glm-5.3"
+}

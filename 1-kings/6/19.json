@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 6:19",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag ang Devir sa tunga sang bayay, sa pinakasulod, gin-andam niya sa pagbutang didto ⟨את⟩ sang Kaban sang Kasugtanan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ודביר",
+      "gloss": "kag ang Devir"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sang bayay"
+    },
+    {
+      "surface": "מפנימה",
+      "gloss": "sa pinakasulod"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "gin-andam niya"
+    },
+    {
+      "surface": "לתתן",
+      "gloss": "sa pagbutang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Kaban sang Kasugtanan ni Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ang Kaban"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sang Kasugtanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T18:28:27.169302871Z",
+  "model": "glm-5.3"
+}

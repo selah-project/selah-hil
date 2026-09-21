@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 85,
+  "translation": "Gindala mo ang kasalanan sang imo katawhan; gintabon mo ang tanan nila nga mga sala. Selah.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "Gindala"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kasalanan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "imo katawhan"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "gintabon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "mga sala nila"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:57.838091733Z",
+  "model": "glm-5.3"
+}

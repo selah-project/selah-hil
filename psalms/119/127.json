@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 127,
+  "ref": "psalms 119:127",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Tungod sini, ginhigugma ko ang imo mga kasuguan labaw pa sa bulawan, kag labaw pa sa malinis nga bulawan.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sini"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ginhigugma ko"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ang imo mga kasuguan"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "labaw pa sa bulawan"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "kag labaw pa sa malinis nga bulawan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:47.889298002Z",
+  "model": "glm-5.3"
+}

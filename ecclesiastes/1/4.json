@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Isa ka henerasyon nga nagakadto, kag isa ka henerasyon nga nagaabot, apang ang duta nagatindog sing dayon.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Isa ka henerasyon"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nga nagakadto"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "kag isa ka henerasyon"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nga nagaabot"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "apang ang duta"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sing dayon"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "nagatindog"
+    }
+  ],
+  "timestamp": "2026-09-21T21:25:44.443419440Z",
+  "model": "glm-5.3"
+}

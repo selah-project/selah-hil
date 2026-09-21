@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag natabo sang madason nga adlaw, naglingkod si Moshe sa paghukom ⟨את⟩ sang katawhan, kag nagtindog ang katawhan sa atubang ni Moshe, kag sang aga tubtob sang hapun.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag natabo"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "sang madason nga adlaw"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "naglingkod"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "sa paghukom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sang katawhan"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "kag nagtindog"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kag sang"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "aga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "sang hapun"
+    }
+  ],
+  "timestamp": "2026-09-21T22:19:37.755996811Z",
+  "model": "glm-5.3"
+}

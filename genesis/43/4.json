@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 43,
+  "translation": "Kon may ara ikaw magapadala sang ⟨את⟩ aton utod kaupod ⟨את⟩ sa amon, magpanaw kami kag magabakal sang pagkaon para sa imo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "may ara ikaw"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "magapadala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aton utod"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "aton utod"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "kaupod sa amon"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "magpanaw kami"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "kag magabakal"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa imo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "sang pagkaon"
+    }
+  ],
+  "timestamp": "2026-09-21T22:18:37.045224498Z",
+  "model": "glm-5.3"
+}

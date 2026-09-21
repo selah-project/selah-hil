@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag natao niya ⟨את⟩ si Zimran kag ⟨את⟩ si Yakshan kag ⟨את⟩ si Medan kag ⟨את⟩ si Midyan kag ⟨את⟩ si Yishbak kag ⟨את⟩ si Shuakh.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "kag natao"
+    },
+    {
+      "surface": "לו",
+      "gloss": "niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "si Zimran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Yakshan"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "si Yakshan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Medan"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "si Medan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Midyan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "si Midyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Yishbak"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "si Yishbak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Shuakh"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "si Shuakh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:05:39.655036042Z",
+  "model": "glm-5.3"
+}

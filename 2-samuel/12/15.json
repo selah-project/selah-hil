@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag nagtungtong si Natan sa iya balay; kag ginsilot ni Yahweh ⟨את⟩ ang bata nga anak nga ginbata sang asawa ni Uriya kay David, kag nagmasakit ini sing mabug-at.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kag nagtungtong"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "si Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "iya balay"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "kag ginsilot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bata nga anak"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ang bata nga anak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ginbata"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "sang asawa"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ni Uriya"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "kag nagmasakit sing mabug-at"
+    }
+  ],
+  "timestamp": "2026-09-21T18:17:46.145781559Z",
+  "model": "glm-5.3"
+}

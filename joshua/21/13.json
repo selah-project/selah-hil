@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 21:13",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag sa mga anak ni Aharon nga pari ginhatag nila ⟨את⟩ ang sityo sang pagdalagan sang nakapatay — ⟨את⟩ si Khevron kag ⟨את⟩ iya kapatagan, kag ⟨את⟩ si Livna kag ⟨את⟩ iya kapatagan.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "kag sa mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "nga pari"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ginhatag nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang sityo sang pagdalagan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "sityo"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "sang pagdalagan"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "sang nakapatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Khevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khevron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya kapatagan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iya kapatagan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Livna"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya kapatagan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iya kapatagan"
+    }
+  ],
+  "timestamp": "2026-09-21T17:43:30.659760089Z",
+  "model": "glm-5.3"
+}

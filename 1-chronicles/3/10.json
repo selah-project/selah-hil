@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 3:10",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ang anak ni Shelomoh amo si Rehav'am, si Aviyah ang iya anak, si Asa ang iya anak, si Yehoshafat ang iya anak.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Kag ang anak"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "si Rehav'am"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "si Aviyah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ang iya anak"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "si Asa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ang iya anak"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "si Yehoshafat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ang iya anak"
+    }
+  ],
+  "timestamp": "2026-09-21T21:50:12.565060129Z",
+  "model": "glm-5.3"
+}

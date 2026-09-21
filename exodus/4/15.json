@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag imo hambalan siya, kag imo ibutang ⟨את⟩ ang mga pulong sa iya baba, kag ako magakauban sa imo baba kag sa iya baba, kag itudlo ko sa inyo ⟨את⟩ ang ino ang imo himoon.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "imo hambalan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "imo ibutang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pulong"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ang mga pulong"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "sa iya baba"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "kag ako"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "magakauban"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kauban"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "sa imo baba"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "iya baba"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "itudlo ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sa inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ino ang imo himoon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang ino"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "imo himoon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:21:33.549465486Z",
+  "model": "glm-5.3"
+}

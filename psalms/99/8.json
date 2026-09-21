@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 99,
+  "translation": "Yahweh, ang aton Elohim, ikaw ang nagsabat sa ila; Isa ka El nga nagapatawad ikaw sa ila, apang isa ka man nga manugsilot sang ila mga binuhat.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ang aton Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "ang nagsabat sa ila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Isa ka El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nga nagapatawad"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "kag isa ka man nga manugsilot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sang"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "ila mga binuhat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:02.551092298Z",
+  "model": "glm-5.3"
+}

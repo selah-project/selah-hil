@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Kaabay ako sang tanan nga nagatahod sa imo, kag sang mga nagatipon sang imo mga sugo.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "Kaabay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sang tanan nga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "nagatahod sa imo"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "kag sang mga nagatipon"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "sang imo mga sugo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:40.649635031Z",
+  "model": "glm-5.3"
+}

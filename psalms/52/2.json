@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 52,
+  "translation": "Sa pag-abot ni Doeg nga taga-Edom, kag sang pagpahibalo niya kay Shaul kag sang paghambal niya sa iya nga nakaabot si David sa balay ni Achimelek.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Sa pag-abot"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "ni Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "nga taga-Edom"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "kag sang pagpahibalo niya"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kay Shaul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag sang paghambal niya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nakaabot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "ni Achimelek"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:57.682997037Z",
+  "model": "glm-5.3"
+}

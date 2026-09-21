@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Sa tanan nga ina nagpakasala pa gihapon sila, kag wala sila nagtuo sa iya mga katingalahan.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Sa tanan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nga ina"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "nagpakasala"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa gihapon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "sila nagtuo"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "sa iya mga katingalahan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:04.642336058Z",
+  "model": "glm-5.3"
+}

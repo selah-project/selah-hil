@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag nagbalik si Arnan kag nakita niya ⟨את⟩ ang mensahero, kag ang iya upat ka mga anak nga upod sa iya nagtago; kag si Arnan nagdusol sang trigo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Kag nagbalik"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "si Arnan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "kag nakita niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mensahero"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ang mensahero"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "kag ang upat ka"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "nga upod sa iya"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "nagtago"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "kag si Arnan"
+    },
+    {
+      "surface": "דש",
+      "gloss": "nagdusol"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "sang trigo"
+    }
+  ],
+  "timestamp": "2026-09-21T21:57:04.438360596Z",
+  "model": "glm-5.3"
+}

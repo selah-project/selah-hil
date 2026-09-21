@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Gintipigan ko ang imo mga pagmanduan kag ang imo mga pagsaksi, kay ang tanan ko nga mga dalan ⟨yara⟩ sa imo atubang.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "gintipigan ko"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ang imo mga pagmanduan"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "kag ang imo mga pagsaksi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ko nga mga dalan"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "sa imo atubang"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:50.297928136Z",
+  "model": "glm-5.3"
+}

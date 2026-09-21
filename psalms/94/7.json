@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 94,
+  "translation": "Kag nagsiling sila: Indi makakita si Yah, kag indi makasabot ang Elohim ni Yaakov.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "kag nagsiling sila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "makakita"
+    },
+    {
+      "surface": "יה",
+      "gloss": "si Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "makasabot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:34.797254947Z",
+  "model": "glm-5.3"
+}

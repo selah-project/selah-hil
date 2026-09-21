@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 8:32",
+  "book": "ezra",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag nag-abot kami sa Yerushalayim, kag nagpabilin kami dida sing tatlo ka adlaw.",
+  "tokens": [
+    {
+      "surface": "ונבוא",
+      "gloss": "kag nag-abot kami"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "kag nagpabilin kami"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dida"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ka adlaw"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatlo"
+    }
+  ],
+  "timestamp": "2026-09-21T21:42:52.908493697Z",
+  "model": "glm-5.3"
+}

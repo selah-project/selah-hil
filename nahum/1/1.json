@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Ang pas-an sang Ninwe; ang libro sang panagway ni Nakhum nga taga-Elkosh.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "pas-an"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninwe"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "libro"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "panagway"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "Nakhum"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "taga-Elkosh"
+    }
+  ],
+  "timestamp": "2026-09-21T22:37:44.445454723Z",
+  "model": "glm-5.3"
+}

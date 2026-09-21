@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Magkurog kamo kag indi kamo magpakasala; hambali ninyo sa inyo tagipusuon sa ibabaw sang inyo higrasan, kag maghilum kamo. Selah",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "Magkurog kamo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "kamo magpakasala"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "hambali ninyo"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "sa inyo tagipusuon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "inyo higrasan"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "kag maghilum kamo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:53.347103619Z",
+  "model": "glm-5.3"
+}

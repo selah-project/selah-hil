@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag nagkampu ang mga anak nga lalaki sang Yisrael sa Gilgal, kag ginhimo nila ⟨את⟩ ang Pesach sa ika-napulo kag apat nga adlaw sang bulan, sa pagasulnop, sa mga kapatagan sang Yericho.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "Kag nagkampu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "sa Gilgal"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "kag ginhimo nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ang Pesach"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ika-napulo kag apat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ika-napulo kag apat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nga adlaw"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sang bulan"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "sa pagasulnop"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "sa mga kapatagan"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "sang Yericho"
+    }
+  ],
+  "timestamp": "2026-09-21T17:34:51.782138473Z",
+  "model": "glm-5.3"
+}

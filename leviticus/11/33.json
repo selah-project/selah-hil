@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag ang tanan nga galamiton sang tanalya nga magakahulog sa ila sa sulod sini — ang tanan nga ara sa sulod sini mahugawon, kag ⟨אתו⟩ pagalaglagon ninyo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "galamiton"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "sang tanalya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "magakahulog"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "sulod sini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "sa sulod sini"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "mahugawon"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ini (ang galamiton sang tanalya)"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "pagalaglagon ninyo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:45:19.561274391Z",
+  "model": "glm-5.3"
+}

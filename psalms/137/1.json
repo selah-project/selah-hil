@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 137,
+  "translation": "Sa mga suba sang Bavel, didto nagpungko kami, kag naghibi kami, sang ginumdom namon ⟨את⟩ ang Tsiyon.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mga suba"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "nagpungko kami"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kag"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "naghibi kami"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "sang ginumdom namon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Tsiyon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:51.306297933Z",
+  "model": "glm-5.3"
+}

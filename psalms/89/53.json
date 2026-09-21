@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Dalayegon si Yahweh sa dayon. Amen, kag amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Dalayegon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "kag amen"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:03.992767721Z",
+  "model": "glm-5.3"
+}

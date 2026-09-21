@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ginbaton nila ⟨את⟩ si Yonah kag ginlabog siya sa dagat, kag nagtigda ang dagat sa iya kaakig.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "Kag ginbaton nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "si Yonah"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "kag ginlabog siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "kag nagtigda"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ang dagat"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "sa iya kaakig"
+    }
+  ],
+  "timestamp": "2026-09-21T20:12:38.023065598Z",
+  "model": "glm-5.3"
+}

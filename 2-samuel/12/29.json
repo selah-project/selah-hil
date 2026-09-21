@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag gintipon ni David ⟨את⟩ ang tanan nga mga tawo kag nagkadto sa Rabbah, kag nakig-away sa sini, kag ginsakop niya ini.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "gintipon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga mga tawo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nga mga tawo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kag nagkadto"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "sa Rabbah"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "kag nakig-away"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sa sini"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "kag ginsakop niya ini"
+    }
+  ],
+  "timestamp": "2026-09-21T18:18:04.401740066Z",
+  "model": "glm-5.3"
+}

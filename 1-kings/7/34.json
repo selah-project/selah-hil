@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-kings 7:34",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag apat ka abaga sa upat ka suli sang isa ka tindugan; gikan sa tindugan ang iya ⟨mga⟩ abaga.",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "kag apat"
+    },
+    {
+      "surface": "כתפות",
+      "gloss": "ka mga abaga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "upat"
+    },
+    {
+      "surface": "פנות",
+      "gloss": "ka mga suli"
+    },
+    {
+      "surface": "המכנה",
+      "gloss": "sang tindugan"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "nga isa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan"
+    },
+    {
+      "surface": "המכנה",
+      "gloss": "sa tindugan"
+    },
+    {
+      "surface": "כתפיה",
+      "gloss": "ang iya mga abaga"
+    }
+  ],
+  "timestamp": "2026-09-21T18:28:22.417590231Z",
+  "model": "glm-5.3"
+}

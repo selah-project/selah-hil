@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag si Kush natawan ⟨את⟩ ni Nimrod; siya amo ang nahauna magmatawo nga gamhanan sa duta.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Kag si Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "natawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Nimrod"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "ni Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "החל",
+      "gloss": "amo ang nahauna"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "magmatawo nga"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "gamhanan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    }
+  ],
+  "timestamp": "2026-09-21T15:57:48.419701807Z",
+  "model": "glm-5.3"
+}

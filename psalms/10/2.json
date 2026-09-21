@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 10:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Sa kay-abaw sang madauton, ginadagabdag ang kabos; madakpan sila sa mga plano nga ila ginhimo.",
+  "tokens": [
+    {
+      "surface": "בגאות",
+      "gloss": "sa kay-abaw"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sang madauton"
+    },
+    {
+      "surface": "ידלק",
+      "gloss": "ginadagabdag"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ang kabos"
+    },
+    {
+      "surface": "יתפשו",
+      "gloss": "madakpan sila"
+    },
+    {
+      "surface": "במזמות",
+      "gloss": "sa mga plano"
+    },
+    {
+      "surface": "זו",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "ila ginhimo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:02.956650601Z",
+  "model": "glm-5.3"
+}

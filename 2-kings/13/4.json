@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag ginpangita ni Yehoachaz ⟨את⟩ ang panag-ang ni Yahweh, kag gintangan siya ni Yahweh, kay nakita niya ang paglutos sa Yisrael, kay ginpanglutos sang hari sang Aram ⟨אתם⟩ sila.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "kag ginpangita niya"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "si Yehoachaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang panag-ang ni Yahweh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ang panag-ang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "kag gintangan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakita niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang paglutos sa Yisrael"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ang paglutos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ginpanglutos"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "sang Aram"
+    }
+  ],
+  "timestamp": "2026-09-21T18:46:06.025024682Z",
+  "model": "glm-5.3"
+}

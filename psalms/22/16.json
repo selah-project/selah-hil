@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Namat-ag ang akon kusog parang piraso sang kolon, kag ang akon dila nagadikit sa akon mga panga, kag sa abo sang kamatayon ginpahamtang mo ako.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "namat-ag"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "parang piraso sang kolon"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ang akon kusog"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "kag ang akon dila"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "nagadikit"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "sa akon mga panga"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "kag sa abo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sang kamatayon"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "ginpahamtang mo ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:50.772074926Z",
+  "model": "glm-5.3"
+}

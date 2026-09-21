@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "kag ⟨את⟩ si Kivtsayim kag ⟨את⟩ ang mga kapatagan sini, kag ⟨את⟩ si Bet-Khoron kag ⟨את⟩ ang mga kapatagan sini — apat ka siyudad.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Kivtsayim"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "Kivtsayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga kapatagan sini"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mga kapatagan sini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Bet-Khoron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Khoron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga kapatagan sini"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mga kapatagan sini"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mga siyudad"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "apat"
+    }
+  ],
+  "timestamp": "2026-09-21T17:43:05.103350026Z",
+  "model": "glm-5.3"
+}

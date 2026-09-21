@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Magkari sa iya ang kaguba sang wala niya maaram, kag ang iya lambat nga iya gintago madakpan siya; sa kaguba magatumba siya sa sini.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "Magkari sa iya"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "ang kaguba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "niya maaram"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "kag ang iya lambat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "iya gintago"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "madakpan siya"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "sa kaguba"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "magatumba siya"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sa sini"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:44.145096560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 147,
+  "translation": "Nagatukod si Yahweh sang Yerushalayim, ginatipon niya ang mga natabog sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "nagatukod"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sang Yerushalayim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "ang mga natabog"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "ginatipon niya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:18.312074926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "esther 9:18",
+  "book": "esther",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag ang mga Yehudim nga ara sa Shushan nagkatipon sa ikatlo kag napulo sini kag sa ikaapat kag napulo sini, kag nagpahuway sa ikalima kag napulo sini, kag ginhimo ⟨nila⟩ ⟨את⟩ nga adlaw sang pag-inom kag kalipayan.",
+  "tokens": [
+    {
+      "surface": "והיהודיים",
+      "gloss": "Kag ang mga Yehudim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "ara sa Shushan"
+    },
+    {
+      "surface": "נקהלו",
+      "gloss": "nagkatipon"
+    },
+    {
+      "surface": "בשלשה",
+      "gloss": "sa ikatlo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kag napulo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sini"
+    },
+    {
+      "surface": "ובארבעה",
+      "gloss": "kag sa ikaapat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kag napulo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sini"
+    },
+    {
+      "surface": "ונוח",
+      "gloss": "kag nagpahuway"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "sa ikalima"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kag napulo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sini"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "kag ginhimo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "adlaw"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nga adlaw"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "sang pag-inom"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "kag kalipayan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:31:53.716802353Z",
+  "model": "glm-5.3"
+}

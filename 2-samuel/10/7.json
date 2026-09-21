@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag nabatid ni David, kag ginsugo niya ⟨את⟩ si Yoav kag ⟨את⟩ ang tanan nga kasundalohan, ang mga bantugan.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Kag nabatid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "kag ginsugo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "si Yoav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan nga kasundalohan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "nga kasundalohan"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "ang mga bantugan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:16:36.264321073Z",
+  "model": "glm-5.3"
+}

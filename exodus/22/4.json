@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kon magpapakaon ang tawo sang uma ukon ubasan kag magpadala ⟨את⟩ sang iya mga kahayop kag magpakaon sila sa uma sang iban, halin sa pinakamaayo sang iya uma kag sa pinakamaayo sang iya ubasan ibayad niya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "magpapakaon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "sang uma"
+    },
+    {
+      "surface": "או",
+      "gloss": "ukon"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ubasan"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "kag magpadala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang iya mga kahayop"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "mga kahayop"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "kag magpakaon"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa uma"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sang iban"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "sa pinakamaayo"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "sang iya uma"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "kag sa pinakamaayo"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "sang iya ubasan"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ibayad niya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:30:57.548249150Z",
+  "model": "glm-5.3"
+}

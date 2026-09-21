@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 91,
+  "translation": "Kay siya magaluwas sa imo sa panikang sang mananilo, kag sa makamamatay nga peste.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "magaluwas sa imo"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "sa panikang"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "sang mananilo"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kag sa peste"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "nga makamamatay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:22.248496386Z",
+  "model": "glm-5.3"
+}

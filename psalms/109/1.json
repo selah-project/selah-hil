@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 109,
+  "translation": "Sa Manugpanguna, ni David, isa ka kanta: Elohim sang akon pagdayaw, indi paghilum.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa Manugpanguna"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "isa ka kanta"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim sang"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "akon pagdayaw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "paghilum"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:21.134131030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 11:15",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag ginpatindog niya para sa iya mga pari sa ⟨mga⟩ kataas nga duog, kag para sa mga kanding, kag para sa mga uso nga iya ginhimo.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "kag ginpatindog"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa iya"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "mga pari"
+    },
+    {
+      "surface": "לבמות",
+      "gloss": "sa mga kataas nga duog"
+    },
+    {
+      "surface": "ולשעירים",
+      "gloss": "kag para sa mga kanding"
+    },
+    {
+      "surface": "ולעגלים",
+      "gloss": "kag para sa mga uso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "iya ginhimo"
+    }
+  ],
+  "timestamp": "2026-09-21T22:03:39.346044893Z",
+  "model": "glm-5.3"
+}

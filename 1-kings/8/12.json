@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Sadto nagsiling si Shelomoh: Nagsiling si Yahweh nga magapuyo Siya sa makapal nga kangitngit.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "sadto"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nagsiling"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "si Shelomoh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nagsiling"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "nga magapuyo"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "sa makapal nga kangitngit"
+    }
+  ],
+  "timestamp": "2026-09-21T18:30:47.502908521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 31:3",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Si Yahweh, ang imo Elohim, siya ang magaabante sa imo una; siya ang magapukan sang ⟨את⟩ mga pungsod nga ini sa imo atubang, kag sila imo pagpanag-iyaon; si Yehoshua, siya ang magaabante sa imo una, suno sa ginsiling ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ang imo Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "magaabante"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa imo una"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "magapukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga pungsod"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mga pungsod"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "sa imo atubang"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "kag pagpanag-iyaon sila"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "si Yehoshua"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "magaabante"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa imo una"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "suno sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ginsiling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T17:33:27.114595714Z",
+  "model": "glm-5.3"
+}

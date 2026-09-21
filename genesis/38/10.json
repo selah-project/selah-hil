@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 38,
+  "translation": "Kag nagkadaut sa mga mata ni Yahweh ang iya ginhimo, kag ginpatay niya si Onan ⟨אתו⟩ gihapon.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "nagkadaut"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "iya ginhimo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ginpatay"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gihapon"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "si Onan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:13:33.251018239Z",
+  "model": "glm-5.3"
+}

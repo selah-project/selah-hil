@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Kag ginsikway niya ang tolda ni Yosef, kag ang tribo ni Efrayim wala niya pilii.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "kag ginsikway niya"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ang tolda"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "kag ang tribo"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ni Efrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "niya pilii"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:03.456278626Z",
+  "model": "glm-5.3"
+}

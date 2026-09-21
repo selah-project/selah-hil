@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag si Mesha nga hari sang Moab isa ka magbantay sang mga karnero, kag nagabayar sia sa hari sang Yisrael sing isa ka gatos ka libo nga mga kordero kag isa ka gatos ka libo nga mga karnero nga may lana.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "Kag si Mesha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "sang Moab"
+    },
+    {
+      "surface": "היה",
+      "gloss": "amo"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "magbantay sang mga karnero"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "kag nagabayar"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "isa ka gatos"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ka libo"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "nga mga kordero"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "kag isa ka gatos"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ka libo"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "nga mga karnero"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "nga may lana"
+    }
+  ],
+  "timestamp": "2026-09-21T18:40:06.498011281Z",
+  "model": "glm-5.3"
+}

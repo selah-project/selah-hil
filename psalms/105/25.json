@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Ginpalahi niya ang ila tagipusuon sa pagkadumtan sang iya katawhan, sa pagpanikad sa iya mga sulugoon.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "ginpalahi"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ang ila tagipusuon"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "sa pagkadumtan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sang iya katawhan"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "sa pagpanikad"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "sa iya mga sulugoon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:46.703594189Z",
+  "model": "glm-5.3"
+}

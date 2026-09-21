@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Kag nakita ni Aharon kag tanan nga mga anak nga lalaki sang Yisrael ⟨את⟩ si Moshe, kag yari, nagsinang ang panit sang iya dagway, kag nagkahadlok sila sa pagpalapit sa iya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "kag nakita"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag tanan nga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kag yari"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "nagsinang"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ang panit"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sang iya dagway"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "kag nagkahadlok sila"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "sa pagpalapit"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:37:49.749242441Z",
+  "model": "glm-5.3"
+}

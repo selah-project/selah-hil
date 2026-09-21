@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 107,
+  "translation": "Kag ginpatuyog ⟨niya⟩ sila sa matul-id nga dalan, sa paglakat padulong sa isa ka siyudad nga puy-anan.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "kag ginpatuyog ⟨niya⟩ sila"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "matul-id"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "sa paglakat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "padulong sa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "siyudad"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "nga puy-anan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:07.864060591Z",
+  "model": "glm-5.3"
+}

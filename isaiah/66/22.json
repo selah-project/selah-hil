@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 66:22",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 66,
+  "translation": "Kay sa madason nga ang mga bag-ong langit kag ang bag-ong duta nga akon ginahimo nagatindog sa akon atubangan, nagaangot si Yahweh, sa amo man ang inyo kaliwat kag ang inyo ngalan magatindog.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sa madason nga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "החדשים",
+      "gloss": "bag-o"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "kag ang duta"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "bag-o"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginahimo"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "nagatindog"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa akon atubangan"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nagaangot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa amo man"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "magatindog"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "ang inyo kaliwat"
+    },
+    {
+      "surface": "ושמכם",
+      "gloss": "kag ang inyo ngalan"
+    }
+  ],
+  "timestamp": "2026-09-21T19:14:20.576947258Z",
+  "model": "glm-5.3"
+}

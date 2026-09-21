@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag ang maglati sa iya amay kag sa iya iloy, patyon gid pagapatyon.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "kag ang maglati"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iya amay"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "kag iya iloy"
+    },
+    {
+      "surface": "מות",
+      "gloss": "patyon"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "pagapatyon"
+    }
+  ],
+  "timestamp": "2026-09-21T22:19:27.882886587Z",
+  "model": "glm-5.3"
+}

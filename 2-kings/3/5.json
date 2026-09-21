@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 3:5",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag nangin, sang napatay si Ahab, nagtumang ang hari sang Moab sa hari sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kag nangin"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "sang napatay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "si Ahab"
+    },
+    {
+      "surface": "ויפשע",
+      "gloss": "nagtumang"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "sang Moab"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T18:39:57.747195154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Ginabag-o niya ang akon kalag; ginatultol niya ako sa mga dalan sang katarungan tungod sa iya ngalan.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "akon kalag"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "ginabag-o niya"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "ginatultol niya ako"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "sa mga dalan"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sang katarungan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "iya ngalan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:13.064948609Z",
+  "model": "glm-5.3"
+}

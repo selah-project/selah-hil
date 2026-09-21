@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Sang maghambal si Efrayim, ⟨may⟩ kurog; siya gintindog sa Yisrael, apang sang nagkasala siya sa Baal, nangin patay siya.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "sang maghambal"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "si Efrayim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "kurog"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "gintindog"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "kag nagkasala"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "sa Baal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kag nangin patay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:07:23.408219568Z",
+  "model": "glm-5.3"
+}

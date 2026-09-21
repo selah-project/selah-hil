@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 145,
+  "translation": "Ginasandigan ni Yahweh ang tanan nga nagatumba, kag ginapatindog niya ang tanan nga nakayuko.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "ginasandigan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "nagatumba"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "kag ginapatindog"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "nakayuko"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:24.453945236Z",
+  "model": "glm-5.3"
+}

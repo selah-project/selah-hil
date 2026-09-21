@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag gintinguha ni Moshe, kag maayo ini sa iya mga mata.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Kag gintinguha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "kag maayo"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "sa iya mga mata"
+    }
+  ],
+  "timestamp": "2026-09-21T16:46:56.825942014Z",
+  "model": "glm-5.3"
+}

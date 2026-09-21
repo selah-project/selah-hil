@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 10:5",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "kag matabunan ⟨את⟩ ang mata sang duta, kag indi makita ⟨את⟩ ang duta, kag kaunon nila ⟨את⟩ ang sobra sang naligtas, ang nagabilin sa inyo halin sa yelo, kag kaunon nila ⟨את⟩ ang tanan nga kahoy nga nagatumubo sa inyo halin sa uma;",
+  "tokens": [
+    {
+      "surface": "וכסה",
+      "gloss": "kag matabunan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mata sang duta"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "makita"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "magtan-aw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "kag kaunon nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang sobra sang naligtas"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ang sobra"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "sang naligtas"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "ang nagabilin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "halin sa"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "yelo"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "kag kaunon nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga kahoy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "nga kahoy"
+    },
+    {
+      "surface": "הצמח",
+      "gloss": "nga nagatumubo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "halin sa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "uma"
+    }
+  ],
+  "timestamp": "2026-09-21T22:19:37.740884226Z",
+  "model": "glm-5.3"
+}

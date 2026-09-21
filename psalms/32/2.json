@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Bulahan ang tawo nga indi gintihap sang Yahweh sang kadautan sa iya, kag wala sing pandaraya sa iya espiritu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Bulahan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "gintihap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sang Yahweh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kadautan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "sa iya espiritu"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "pandaraya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:30:11.373406416Z",
+  "model": "glm-5.3"
+}

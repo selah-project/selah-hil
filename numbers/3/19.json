@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 3:19",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ang mga anak nga lalaki ni Kehat suno sa ila mga pamilya: Amram, kag Yitsar, Hevron, kag Uzzi-El.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "kag ang mga anak nga lalaki"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ni Kehat"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "suno sa ila mga pamilya"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "kag Yitsar"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "kag Uzzi-El"
+    }
+  ],
+  "timestamp": "2026-09-21T16:59:23.185253404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag ang mga batan-on magakapoy kag magakapoy, kag ang mga bag-ong tao sa pagkakurap sang mga tiil magakurap kag magakatumba.",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "kag magakapoy"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "mga batan-on"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "kag magakapoy"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "kag ang mga bag-ong tao"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "sa pagkakurap"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "magakurap kag magakatumba"
+    }
+  ],
+  "timestamp": "2026-09-21T19:06:20.120795201Z",
+  "model": "glm-5.3"
+}

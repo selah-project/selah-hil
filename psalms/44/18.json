@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Ang tanan nga ina natabo sa amon, kag wala kami nagkalimot sa Imo, kag wala kami nagpatalimad sa Imo nga katipan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ang tanan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nga ina"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "natabo sa amon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "kami nagkalimot sa Imo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "kami nagpatalimad"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "sa Imo nga katipan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:30.949814042Z",
+  "model": "glm-5.3"
+}

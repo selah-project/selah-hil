@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 66,
+  "translation": "Dali kag tan-awa ang mga buhat ni Elohim — makahahadlok ang iya ginhimo sa ⟨mga⟩ anak sang tawo.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Dali"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "kag tan-awa"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "ang mga buhat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "makahahadlok"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "ang iya ginhimo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:29.880793316Z",
+  "model": "glm-5.3"
+}

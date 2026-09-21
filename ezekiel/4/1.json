@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag ikaw, anak sang tawo, kuhaa ⟨sa imo⟩ ang isa ka ladrilio, kag ibutang mo ⟨את⟩ ini sa imo atubangan, kag iguhit mo sa iya ang dalan sang syudad — ⟨את⟩ Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kag ikaw"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "קח",
+      "gloss": "kuhaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "imo"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ladrilio"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ibutang mo"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ladrilio"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa imo atubangan"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "iguhit mo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "dalan sang syudad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-21T19:42:25.825519135Z",
+  "model": "glm-5.3"
+}

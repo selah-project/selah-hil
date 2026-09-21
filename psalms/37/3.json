@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Isalig kay Yahweh kag himua ang maayo; puy-i ang duta kag pastaha ang pagkamatinud-anon.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Isalig"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "kag himua"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ang maayo"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "puy-i"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "kag pastaha"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ang pagkamatinud-anon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:30:07.063179753Z",
+  "model": "glm-5.3"
+}

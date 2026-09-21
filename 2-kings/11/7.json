@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 11:7",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "kag ang duha ka bahin sa inyo, tanan nga magaguwa sang Sabbath, magabantay ⟨את⟩ sang pagbantay sang balay ni Yahweh palibot sa hari.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "kag ang duha"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "ka bahin"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "nga magaguwa"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sang Sabbath"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "magabantay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang pagbantay"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "sang pagbantay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "palibot sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-09-21T18:43:35.562961280Z",
+  "model": "glm-5.3"
+}

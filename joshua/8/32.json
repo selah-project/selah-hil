@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag nagsulat siya didto sa mga bato ⟨את⟩ kopya sang Torah ni Moshe, nga iya ginsulat sa atubangan sang mga anak nga lalaki sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "kag nagsulat siya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kopya sang Torah ni Moshe"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "kopya"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "sang Torah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "ginsulat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T17:37:45.649741989Z",
+  "model": "glm-5.3"
+}

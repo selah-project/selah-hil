@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 91,
+  "translation": "Kay iya sarang mga mensahero pagasugo-an niya parte sa imo, sa pagbantay sa imo sa tanan nga imo mga dalan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "iya mga mensahero"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "pagasugo-an niya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "parte sa imo"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "sa pagbantay sa imo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "imo mga dalan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:29.134854608Z",
+  "model": "glm-5.3"
+}

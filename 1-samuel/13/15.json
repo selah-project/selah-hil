@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag nagtindog si Shemuel kag nagsaka sa Gilgal pakadto sa Givaat sang Binjamin; kag gin-ihap ni Shaul ⟨את⟩ ang katawhan nga makita sa iya, sing anom ka gatos ka tawo.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kagtindog"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "kagnagsaka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Givaat"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "sang Binjamin"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "kaggin-ihap"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "angkatawhan"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "nga makita"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "sing anom"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ka tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T22:26:21.696342088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 32:8",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Sigi ginhimo sang inyo mga kag-anak: sang pagpadala ko ⟨sa ila⟩ tikang sa Kadesh-Barnea sa pagtan-aw ⟨sa⟩ duta.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Sigi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "sang inyo mga kag-anak"
+    },
+    {
+      "surface": "בשלחי",
+      "gloss": "sang pagpadala ko"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sa ila"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "tikang sa Kadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "sa pagtan-aw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duta"
+    }
+  ],
+  "timestamp": "2026-09-21T17:14:18.837827840Z",
+  "model": "glm-5.3"
+}

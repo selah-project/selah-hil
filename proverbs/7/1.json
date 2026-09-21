@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Anak ko, bantayi ang akon mga pulong, kag ang akon mga kasuguan itago ⟨את⟩ sa imo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Anak ko"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bantayi"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ang akon mga pulong"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "kag ang akon mga kasuguan"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "itago"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sa imo",
+      "marks": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:57:34.554508693Z",
+  "model": "glm-5.3"
+}

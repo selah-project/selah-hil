@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 6:4",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag nagkuyug ang mga haligi sang mga pultahan tungod sa tingog sang nagatawag, kag ang balay napuno sang aso.",
+  "tokens": [
+    {
+      "surface": "וינעו",
+      "gloss": "kag nagkuyug"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ang mga haligi"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "sang mga pultahan"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "tungod sa tingog"
+    },
+    {
+      "surface": "הקורא",
+      "gloss": "sang nagatawag"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "kag ang balay"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "napuno"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "aso"
+    }
+  ],
+  "timestamp": "2026-09-21T18:54:43.408658422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Indi bala ang tanan nga duta sa imo atubangan? Magbulag ⟨palihog⟩ gikan sa akon; kon sa walá, ako sa too, kag kon sa too, ako sa walá.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "indi bala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa imo atubangan"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "magbulag"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨palihog⟩"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "gikan sa akon"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "sa walá"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "kag ako sa too"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "sa too"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "kag ako sa walá"
+    }
+  ],
+  "timestamp": "2026-09-21T15:59:34.248884866Z",
+  "model": "glm-5.3"
+}

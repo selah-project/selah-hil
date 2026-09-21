@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag ang mga anak nga lalaki ni Khetsron, nga natawo sa iya: ⟨את⟩ si Yerakhmeel kag ⟨את⟩ si Ram kag ⟨את⟩ si Khlubay.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "kag ang mga anak nga lalaki"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ni Khetsron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yerakhmeel"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "si Yerakhmeel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "si Ram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Khlubay"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "si Khlubay"
+    }
+  ],
+  "timestamp": "2026-09-21T21:49:19.035730473Z",
+  "model": "glm-5.3"
+}

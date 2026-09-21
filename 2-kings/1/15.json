@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag naghambal ang mensahero ni Yahweh kay Eliyahu: Palanguyon, manaog ka kaupod ⟨sa iya⟩; indi ka magkahadlok sa iya. Kag nagtindog siya kag nagpanaog kaupod ⟨sa iya⟩ sa hari.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Kag naghambal"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ang mensahero"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "רד",
+      "gloss": "manaog ka"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "kaupod sa iya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ka magkahadlok"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "Kag nagtindog"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "siya kag nagpanaog"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "kaupod sa iya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-09-21T18:40:18.231951870Z",
+  "model": "glm-5.3"
+}

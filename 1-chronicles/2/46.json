@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag si Eifah, piligesh ni Kalev, natawan ⟨את⟩ si Haran kag ⟨את⟩ si Motsa kag ⟨את⟩ si Gazez; kag si Haran natawan ⟨את⟩ si Gazez.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "kag si Eifah"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "piligesh"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ni Kalev"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "natawan sang anak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Motsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Gazez"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazez"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "kag si Haran"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nagkatawa sang anak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Gazez"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazez"
+    }
+  ],
+  "timestamp": "2026-09-21T21:49:26.856765890Z",
+  "model": "glm-5.3"
+}

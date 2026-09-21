@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag ang wala magbutang sang iya kasingkasing sa pulong ni Yahweh nagpabilin sang iya mga sulugoon kag ⟨את⟩ ang iya mga kahayupan sa uma.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "kag ang nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "magbutang"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "iya kasingkasing"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "nagpabilin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya mga sulugoon"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iya mga sulugoon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga kahayupan"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "iya mga kahayupan"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa uma"
+    }
+  ],
+  "timestamp": "2026-09-21T16:24:38.063063208Z",
+  "model": "glm-5.3"
+}

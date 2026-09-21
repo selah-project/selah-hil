@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Ang naghambal sa iya amay kag sa iya iloy, \"Indi ko siya nakita,\" kag ⟨את⟩ iya mga utod indi niya nakilala, kag ⟨את⟩ iya mga anak wala niya naila; kay ginsagip nila ang imo pulong kag ang imo kasugtanan pagatipanon nila.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "ang naghambal"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "sa iya amay"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "kag sa iya iloy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "nakita ko siya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga utod"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iya mga utod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "nakilala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga anak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iya mga anak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "naila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ginsagip nila"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "imo pulong"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "kag imo kasugtanan"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "pagatipanon nila"
+    }
+  ],
+  "timestamp": "2026-09-21T17:32:21.148668324Z",
+  "model": "glm-5.3"
+}

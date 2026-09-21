@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 103,
+  "translation": "Kag ang hesed ni Yahweh ⟨gikan⟩ sang nahauna nga panahon tubtob sa dayon nga panahon, sa iya mga ginakalag-an, kag ang iya pagkamatarong sa mga anak sang mga anak.",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "kag ang hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "gikan sang nahauna nga panahon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sa dayon nga panahon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "iya mga ginakalag-an"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "kag ang iya pagkamatarong"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sang mga anak"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:17.952358210Z",
+  "model": "glm-5.3"
+}

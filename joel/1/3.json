@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Parte sini, isaysay ninyo sa inyo mga anak, kag ang inyo mga anak sa ila mga anak, kag ang ila mga anak sa isa pa ka kaliwatan.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "Parte sini"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "sa inyo mga anak"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "isaysay ninyo"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "kag ang inyo mga anak"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "sa ila mga anak"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "kag ang ila mga anak"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "sa isa pa ka kaliwatan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "isa pa"
+    }
+  ],
+  "timestamp": "2026-09-21T20:07:02.403163884Z",
+  "model": "glm-5.3"
+}

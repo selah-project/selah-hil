@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Kag kuhaon mo ⟨את⟩ ang duha ka bato sang shoham, kag iaukit mo sa ila ang mga ngalan sang mga anak nga lalaki sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "kag kuhaon mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duha ka bato sang shoham"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "bato sang"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "kag iaukit mo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ang mga ngalan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sang mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T16:33:08.810729739Z",
+  "model": "glm-5.3"
+}

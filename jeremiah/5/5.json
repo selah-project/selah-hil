@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 5:5",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Maglakat ako ⟨para sa akon⟩ sa mga gamhanan, kag hambalon ko ⟨את⟩ sila, kay sila nakahibalo sang dalan ni Yahweh, sang mistar sang ila Elohim; apang sila nagtinirar nga nagpalagyo sang pasak, nagputol sang mga gapos.",
+  "tokens": [
+    {
+      "surface": "אלכה",
+      "gloss": "Maglakat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨para sa akon⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "mga gamhanan"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "kag hambalon ko"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang mga gamhanan)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nakahibalo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sang dalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sang mistar"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "sang ila Elohim"
+    },
+    {
+      "surface": "אך",
+      "gloss": "apang"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nagtinirar"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "nagpalagyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sang pasak"
+    },
+    {
+      "surface": "נתקו",
+      "gloss": "nagputol"
+    },
+    {
+      "surface": "מוסרות",
+      "gloss": "sang mga gapos"
+    }
+  ],
+  "timestamp": "2026-09-21T19:17:48.369222020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 47,
+  "translation": "Nagsaka si Elohim sa dayday, si Yahweh sa tingog sang shofar.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "Nagsaka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "sa dayday"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sa tingog"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "sang shofar"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:20.573291543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Ang matinud-anon nagatuon sa balay sang malaod — ginapatumba ang mga malaod sa kalaut.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "nagatuon"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ang matinud-anon"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sang malaod"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "ginapatumba"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ang mga malaod"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "sa kalaut"
+    }
+  ],
+  "timestamp": "2026-09-21T21:00:44.214311969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Sang tion sa pagpatay kag sang tion sa pag-ayo; sang tion sa pagguba kag sang tion sa pagpatindog.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "sang tion"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "sa pagpatay"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "kag sang tion"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "sa pag-ayo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "sang tion"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "sa pagguba"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "kag sang tion"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "sa pagpatindog"
+    }
+  ],
+  "timestamp": "2026-09-21T21:25:27.473459560Z",
+  "model": "glm-5.3"
+}

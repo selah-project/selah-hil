@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kaloy-i ako, Yahweh, kay nalain ako; nagakahuyang sang kapungot ang akon mata, ang akon kalag kag ang akon tiyan.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Kaloy-i ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "צר",
+      "gloss": "nalain"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "nagakahuyang"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "sang kapungot"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang akon mata"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "kag ang akon tiyan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:38:15.981860746Z",
+  "model": "glm-5.3"
+}

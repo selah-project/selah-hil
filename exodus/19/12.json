@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag pagabudlayan mo sang utang ⟨את⟩ ang katawhan sa palibot, nga nagaingon: Magbantay kamo sa inyo sa pag-alsa sa bukid kag sa paghikap sang iya kabordahan; bisan sin-o nga magahikap sang bukid, tiyak mapatay.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "Kag pagabudlayan mo sang utang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "Magbantay kamo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "sa pag-alsa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "kag sa paghikap"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "sang iya kabordahan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bisan sin-o"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "nga magahikap"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sang bukid"
+    },
+    {
+      "surface": "מות",
+      "gloss": "tiyak"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "mapatay"
+    }
+  ],
+  "timestamp": "2026-09-21T16:28:06.632314093Z",
+  "model": "glm-5.3"
+}

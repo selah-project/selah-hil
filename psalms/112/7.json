@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 112,
+  "translation": "Sa madaut nga balita indi siya magakulba; himpit ang iya kasingkasing, nagasalig kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "balita"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "madaut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "magakulba"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "himpit"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ang iya kasingkasing"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "nagasalig"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:53.668596663Z",
+  "model": "glm-5.3"
+}

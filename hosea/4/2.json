@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Pagpanumpa kag pagbakak kag pagpamatay kag pagpanakaw kag pagpakiglawas — nagbugtas sila, kag mga dugo sa mga dugo nagtandog.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "pagpanumpa"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "kag pagbakak"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "kag pagpamatay"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "kag pagpanakaw"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "kag pagpakiglawas"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "nagbugtas sila"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "kag mga dugo"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "sa mga dugo"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "nagtandog"
+    }
+  ],
+  "timestamp": "2026-09-21T20:04:37.178977577Z",
+  "model": "glm-5.3"
+}

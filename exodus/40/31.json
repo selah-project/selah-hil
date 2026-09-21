@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag nanghugas gikan sini si Moshe kag si Aharon kag ang iya mga anak, ⟨את⟩ ang ila mga kamot kag ⟨את⟩ ang ila mga tiil.",
+  "tokens": [
+    {
+      "surface": "וירחצו",
+      "gloss": "Kag nanghugas"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "gikan sini"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "kag si Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "kag ang iya mga anak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ila mga kamot"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ang ila mga kamot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang ila mga tiil"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ang ila mga tiil"
+    }
+  ],
+  "timestamp": "2026-09-21T16:41:02.973278262Z",
+  "model": "glm-5.3"
+}

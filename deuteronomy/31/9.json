@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 31:9",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kag nagsulat si Moshe ⟨את⟩ ang Torah nga ini, kag ginhatod niya ini sa mga pari, nga mga anak nga lalaki ni Levi, nga nagadala sang ⟨את⟩ kaban sang kasugtanan ni Yahweh, kag sa tanan nga mga maguwang sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "nagsulat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Torah nga ini"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ginhatod niya ini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mga pari"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ni Levi"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "nga nagadala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaban"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kaban"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sang kasugtanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga maguwang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T17:33:45.365217408Z",
+  "model": "glm-5.3"
+}

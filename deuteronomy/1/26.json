@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag indi kamo nagkamayo sa pagsaka, kag nagsukol kamo sa ⟨את⟩ sang baba ni Yahweh nga inyo Elohim.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "nagkamayo kamo"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "sa pagsaka"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "kag nagsukol kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang baba"
+    },
+    {
+      "surface": "פי",
+      "gloss": "sang baba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "nga inyo Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T17:18:34.210383336Z",
+  "model": "glm-5.3"
+}

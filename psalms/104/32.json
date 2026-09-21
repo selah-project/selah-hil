@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 104,
+  "translation": "Ang nagatalingkad sa duta kag nagakurog ini; ang nagahikap sang mga bantay kag sila nagaaso.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "Ang nagatalingkad"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "kag nagakurog ini"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "ang nagahikap"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "sang mga bantay"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "kag sila nagaaso"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:03.902219181Z",
+  "model": "glm-5.3"
+}

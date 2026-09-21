@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 139,
+  "translation": "Kay wala sing isa ka pulong sa akon dila — tan-awa, Yahweh, kabuhi Mo ini nga tanan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala sing"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "isa ka pulong"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "sa akon dila"
+    },
+    {
+      "surface": "הן",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "kabuhi Mo"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ini nga tanan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:37.720057577Z",
+  "model": "glm-5.3"
+}

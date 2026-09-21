@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Hambalan ninyo ang matarong nga maayo ⟨sang iya⟩, kay ang bunga sang ila mga binuhaton himbonon nila.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Hambalan ninyo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ang matarong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ang bunga"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "sang ila mga binuhaton"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "himbonon nila"
+    }
+  ],
+  "timestamp": "2026-09-21T18:52:38.661450062Z",
+  "model": "glm-5.3"
+}

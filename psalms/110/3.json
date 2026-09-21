@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 110,
+  "translation": "Ang imo nga katawhan ⟨mga⟩ handum nga halad sa adlaw sang imo nga kusog, sa mga dayaw sang kabalaanan; gikan sa sulod tiyan sang sina-adlaw, imo ang hamog sang imo nga pagkabata.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "imo nga katawhan"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "mga handum nga halad"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "sang imo nga kusog"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "sa mga dayaw"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kabalaanan"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "gikan sa sulod tiyan"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "sina-adlaw"
+    },
+    {
+      "surface": "לך",
+      "gloss": "imo"
+    },
+    {
+      "surface": "טל",
+      "gloss": "hamog"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "imo nga pagkabata"
+    }
+  ],
+  "timestamp": "2026-09-21T22:40:36.023968622Z",
+  "model": "glm-5.3"
+}

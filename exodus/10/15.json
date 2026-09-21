@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 10:15",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag gintabon sini ⟨את⟩ ang mata sang tanan nga duta, kag nagdulom ang duta; kag ginkaon sini ⟨את⟩ tanan nga tanom sang duta kag ⟨את⟩ tanan nga bunga sang kahoy nga ginbilin sang yelo; kag wala na nagbilin bisan isa ka berde sa kahoy kag sa tanom sang kapatagan sa tanan nga duta sang Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "Kag gintabon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mata sang tanan nga duta"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "ותחשך",
+      "gloss": "kag nagdulom"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "kag ginkaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga tanom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "tanom"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga bunga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "bunga"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "sang kahoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הותיר",
+      "gloss": "ginbilin"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "sang yelo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "nagbilin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bisan isa ka"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "berde"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "sa kahoy"
+    },
+    {
+      "surface": "ובעשב",
+      "gloss": "kag sa tanom"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sang kapatagan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:23:34.868140349Z",
+  "model": "glm-5.3"
+}

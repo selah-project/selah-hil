@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kag nagkadto si Yehezqiyahu kag ang mga prinsipe, kag nakita nila ⟨את⟩ ang mga tambobo, kag ginpakalanginan nila ⟨את⟩ si Yahweh kag ⟨את⟩ ang iya katawhan nga Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Kag nagkadto"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "si Yehezqiyahu"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "kag ang mga prinsipe"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "kag nakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tambobo"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "ang mga tambobo"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "kag ginpakalanginan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya katawhan nga Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ang iya katawhan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T22:11:46.184201670Z",
+  "model": "glm-5.3"
+}

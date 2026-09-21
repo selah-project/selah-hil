@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 10:4",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Ginpamug-at sang imo amay ⟨את⟩ ang amon abaga; kag subong, pagpagaan ang mabug-at nga pagpangabudlat sang imo amay kag sang iya bug-at nga abaga nga iya gintubang sa amon, kag magaalagad kami sa imo.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "imo amay"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ginpamug-at"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang amon abaga"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "ang amon abaga"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "kag subong"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "pagpagaan"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "pagpangabudlat"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "imo amay"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "mabug-at"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "sang iya abaga"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "bug-at"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gintubang"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "magaalagad kami sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T22:04:08.799247988Z",
+  "model": "glm-5.3"
+}

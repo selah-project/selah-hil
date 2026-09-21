@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kuhaa ⟨את⟩ Aharon kag ⟨את⟩ Elazar iya anak, kag ipaingat ⟨את⟩ sila sa Hor, ⟨ang⟩ bantay.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Kuhaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iya anak"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "kag ipaingat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila"
+    },
+    {
+      "surface": "הר",
+      "gloss": "sa Hor"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ang bantay"
+    }
+  ],
+  "timestamp": "2026-09-21T17:09:43.223880894Z",
+  "model": "glm-5.3"
+}

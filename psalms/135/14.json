@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 135,
+  "translation": "Kay magahukom si Yahweh ⟨sa⟩ iya mga katawhan, kag mahimayaon ang iya mga sulugoon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "magahukom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "iya mga katawhan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag ⟨sa⟩"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iya mga sulugoon"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "mahimayaon"
+    }
+  ],
+  "timestamp": "2026-09-21T22:40:17.837139739Z",
+  "model": "glm-5.3"
+}

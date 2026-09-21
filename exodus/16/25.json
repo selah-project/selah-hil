@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 16:25",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag nagsiling si Moshe: Kaona sang ina ⟨sa⟩ subong nga adlaw, kay subong nga adlaw ⟨ang⟩ Sabbath ⟨sa⟩ Yahweh; sa subong nga adlaw indi ninyo makita ina sa uma.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "אכלהו",
+      "gloss": "kaona sang ina"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sa subong nga adlaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "⟨ang⟩ Sabbath"
+    },
+    {
+      "surface": "היום",
+      "gloss": "subong nga adlaw"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨sa⟩ Yahweh"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sa subong nga adlaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תמצאהו",
+      "gloss": "ninyo makita ina"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa uma"
+    }
+  ],
+  "timestamp": "2026-09-21T16:27:12.129096601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag himoon nila ang isa ka kahon sang kahoy sang akasya: duha ka siko kag katunga ang iya kahalabaan, kag isa ka siko kag katunga ang iya kalapad, kag isa ka siko kag katunga ang iya kahitas-on.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "kag himoon nila"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kahon"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasya"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "duha ka siko"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "kag katunga"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "iya kahalabaan"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "kag isa ka siko"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "kag katunga"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "iya kalapad"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "kag isa ka siko"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "kag katunga"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "iya kahitas-on"
+    }
+  ],
+  "timestamp": "2026-09-21T16:32:05.790202804Z",
+  "model": "glm-5.3"
+}

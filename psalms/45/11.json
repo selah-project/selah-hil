@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 45,
+  "translation": "Pamatii, isa ka anak nga babae, kag tan-awa, kag dupyara ang imo dunggan; kalimti man ang imo katawhan kag ang balay sang imo amay.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "Pamatii"
+    },
+    {
+      "surface": "בת",
+      "gloss": "isa ka anak nga babae"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "kag tan-awa"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "kag dupyara"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ang imo dunggan"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "kag kalimti"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ang imo katawhan"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "kag ang balay"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "sang imo amay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:57.924129057Z",
+  "model": "glm-5.3"
+}

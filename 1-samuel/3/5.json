@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag nagdalagan siya kay Eli kag nagsiling, ⟨Yari ako⟩, kay gintawag mo ako; kag nagsiling siya, Wala ako nagtawag ⟨sa imo⟩; magbalik kag higda; kag naglakat siya kag naghigda.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "nagdalagan siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "⟨Yari ako⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "gintawag mo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling siya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Wala"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "nagtawag ako"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "magbalik"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "higda"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kag naglakat siya"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "kag naghigda"
+    }
+  ],
+  "timestamp": "2026-09-21T17:59:02.636227897Z",
+  "model": "glm-5.3"
+}

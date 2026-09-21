@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Lungib ang iya ginkalal kag ginlusad pa-idalom niya ⟨ini⟩, kag natumba siya sa lungib nga iya ginhimo.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "lungib"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "ginkalal"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "ginlusad pa-idalom"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "natumba"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "sa lungib"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "nga iya ginhimo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:53.756590438Z",
+  "model": "glm-5.3"
+}

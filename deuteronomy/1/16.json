@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ginsugo ko ⟨את⟩ inyo mga maghuhukom sadto nga tion, nga nagasiling: Magpamati kamo taliwa sang inyo mga utod, kag maghukom kamo sing matarong taliwa sang tawo kag taliwa sang iya utod kag taliwa sang iya dayo.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "kag ginsugo ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyo mga maghuhukom"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "inyo mga maghuhukom"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "sa tion"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sadto"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "magpamati kamo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taliwa sang"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "inyo mga utod"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "kag maghukom kamo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sing matarong"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taliwa sang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "kag taliwa sang"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iya utod"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "kag taliwa sang"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "iya dayo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:18:33.332229681Z",
+  "model": "glm-5.3"
+}

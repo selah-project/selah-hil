@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ang tanan nga kalag nga naggikan sa hitit ni Yaakov pito ka pulo ka kalag; kag si Yosef ara na sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kag nangin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kalag"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "naggikan"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "hitit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "pito ka pulo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kalag"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "kag si Yosef"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ara"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:18:37.468646184Z",
+  "model": "glm-5.3"
+}

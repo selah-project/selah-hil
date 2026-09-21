@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nahadlok ang mga tawo sing dako nga kahadlok kay ⟨את⟩ Yahweh, kag naghalar sang halad kay Yahweh, kag nagpanumpa sang mga panumpa.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "Kag nahadlok"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sing kahadlok"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "dako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "kag naghalar"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sang halad"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "kag nagpanumpa"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "sang mga panumpa"
+    }
+  ],
+  "timestamp": "2026-09-21T20:12:38.023416230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 3:22",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag magapangayo ang babayi sa iya ka-abut kag sa nagaestar sa iya balay sang mga kagamitan sang pilak kag mga kagamitan sang bulawan kag mga sulob, kag ibutang ninyo ⟨ini⟩ sa inyo mga anak nga lalaki kag sa inyo mga anak nga babayi, kag pagakuhaon ninyo ⟨את⟩ ang Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ושאלה",
+      "gloss": "Kag magapangayo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ang babayi"
+    },
+    {
+      "surface": "משכנתה",
+      "gloss": "sa iya ka-abut"
+    },
+    {
+      "surface": "ומגרת",
+      "gloss": "kag sa nagaestar"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "sa iya balay"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mga kagamitan"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sang pilak"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "kag mga kagamitan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sang bulawan"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "kag mga sulob"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "kag ibutang ninyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "inyo mga anak nga lalaki"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "inyo mga anak nga babayi"
+    },
+    {
+      "surface": "ונצלתם",
+      "gloss": "kag pagakuhaon ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ang Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:20:33.745437901Z",
+  "model": "glm-5.3"
+}

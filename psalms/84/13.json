@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 84:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 84,
+  "translation": "Yahweh Tsevaot, magabini ang tawo nga nagasalig sa imo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "magabini"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "nagasalig"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:36.527062263Z",
+  "model": "glm-5.3"
+}

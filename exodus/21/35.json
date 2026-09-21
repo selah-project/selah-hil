@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 21:35",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag kon magbagâ ang baka sang isa ka tawo ⟨את⟩ ang baka sang iya isigkatawo kag magkatay, ibaligya nila ang baka nga buhi kag bahin-on nila ⟨את⟩ ang iya pilak, kag ⟨את⟩ ang patay ibahin man nila.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "יגף",
+      "gloss": "magbagâ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ang baka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sang isa ka tawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang baka"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ang baka"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sang iya isigkatawo"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "kag magkatay"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "kag ibaligya nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang baka"
+    },
+    {
+      "surface": "השור",
+      "gloss": "ang baka"
+    },
+    {
+      "surface": "החי",
+      "gloss": "nga buhi"
+    },
+    {
+      "surface": "וחצו",
+      "gloss": "kag bahin-on nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya pilak"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "ang iya pilak"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kag man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang patay"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ang patay"
+    },
+    {
+      "surface": "יחצון",
+      "gloss": "ibahin nila"
+    }
+  ],
+  "timestamp": "2026-09-21T22:19:16.842637344Z",
+  "model": "glm-5.3"
+}

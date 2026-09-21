@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 108,
+  "translation": "Naghambal si Elohim sa iya kabanalbanalan: magalipay ako, bahinon ko ang Shekhem, kag susukdon ko ang walog sang Sukot.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "naghambal"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "sa iya kabanalbanalan"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "magalipay ako"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "bahinon ko"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "kag walog"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "susukdon ko"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:56.453609017Z",
+  "model": "glm-5.3"
+}

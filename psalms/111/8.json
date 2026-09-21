@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 111,
+  "translation": "⟨Mga⟩ nakatindog sa dayon, tubtob sa dayon; ⟨mga⟩ ginbuhat sa kamatuoran kag katarungan.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "⟨Mga⟩ nakatindog"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tubtob sa dayon"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "⟨mga⟩ ginbuhat"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "sa kamatuoran"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "kag katarungan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:56.261036596Z",
+  "model": "glm-5.3"
+}

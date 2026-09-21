@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 21:36",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag gikan sa tribo ni Reuven: ⟨את⟩ Betser kag ⟨את⟩ ang iya pastulan, ⟨את⟩ Yahatsa kag ⟨את⟩ ang iya pastulan.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Kag gikan sa tribo"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ni Reuven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betser"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Betser"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya pastulan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ang iya pastulan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Yahatsa"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Yahatsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya pastulan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ang iya pastulan"
+    }
+  ],
+  "timestamp": "2026-09-21T17:43:18.959142740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 12:3",
+  "book": "daniel",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag ang mga maalam magasidlak sama sa sidlak sang langit, kag ang mga nagapataran sang madamon sama sa mga bitoon sa dayon kag hangtod.",
+  "tokens": [
+    {
+      "surface": "והמשכלים",
+      "gloss": "kag ang mga maalam"
+    },
+    {
+      "surface": "יזהרו",
+      "gloss": "magasidlak"
+    },
+    {
+      "surface": "כזהר",
+      "gloss": "sama sa sidlak"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "sang langit"
+    },
+    {
+      "surface": "ומצדיקי",
+      "gloss": "kag ang mga nagapataran"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "sang madamon"
+    },
+    {
+      "surface": "ככוכבים",
+      "gloss": "sama sa mga bitoon"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag hangtod"
+    }
+  ],
+  "timestamp": "2026-09-21T21:39:38.687862344Z",
+  "model": "glm-5.3"
+}

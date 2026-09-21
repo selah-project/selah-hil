@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 97,
+  "translation": "Nagpahibalo ang mga langit sang iya pagkamatarong, kag nakita sang tanan nga mga pungsod ang iya himaya.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "Nagpahibalo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "sang iya pagkamatarong"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "kag nakita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "nga mga pungsod"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ang iya himaya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:21.434242059Z",
+  "model": "glm-5.3"
+}

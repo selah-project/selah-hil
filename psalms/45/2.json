@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 45,
+  "translation": "Nagahapas ang akon kasingkasing sang ⟨isa ka⟩ maayo nga pulong; nagaingon ako sang akon mga buluhaton sa hari; ang akon dila ⟨amo⟩ ang panulat sang madali nga manunulat.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "Nagahapas"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang akon kasingkasing"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nagaingon"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ang akon mga buluhaton"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ang akon dila"
+    },
+    {
+      "surface": "עט",
+      "gloss": "panulat"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "manunulat"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "madali"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:41.630028384Z",
+  "model": "glm-5.3"
+}

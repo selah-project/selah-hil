@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Ginawangi sang mga tabla imo nga himoon ⟨את⟩ ini; subong sang ginpakita ⟨את⟩ ⟨sa imo⟩ sa bukid, amo sina pagahimoon nila.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "Ginawangi"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "sang mga tabla"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "imo nga himoon"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ini (ang halaran)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "ginpakita"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨sa imo⟩"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "כן",
+      "gloss": "amo sina"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "pagahimoon nila"
+    }
+  ],
+  "timestamp": "2026-09-21T16:31:59.386248555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jonah 1:13",
+  "book": "jonah",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ginbugsay sang mga tawo sing mabaskog ⟨sa pagbalik⟩ sa tinagbalay ⟨nga duta⟩, apang wala sila makahimo, kay ang dagat nagasunod-sunod pa sang kaalon kag nagaakig labi pa labaw sa ila.",
+  "tokens": [
+    {
+      "surface": "ויחתרו",
+      "gloss": "kag ginbugsay sing mabaskog"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "sang mga tawo"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "sa pagbalik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "tinagbalay ⟨nga duta⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apang wala"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "sila makahimo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ang dagat"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "nagasunod-sunod pa"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "kag nagaakig"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "labi pa labaw sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:12:38.022218145Z",
+  "model": "glm-5.3"
+}

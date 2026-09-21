@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Yahweh, Elohim sang Tsevaot, sin-o ang pareho sa imo, nga makusog nga Yah? Kag ang imo pagkamatinud-anon ⟨palibot sa imo⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim sang"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ang pareho sa imo"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "makusog"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "kag ang imo pagkamatinud-anon"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "palibot sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:48.506594487Z",
+  "model": "glm-5.3"
+}

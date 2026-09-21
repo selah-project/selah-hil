@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Katarungan, katarungan, sunodon mo, agod mabuhi ka kag magamhanan mo ⟨את⟩ ang duta nga ginahatag sa imo ni Yahweh nga imo Elohim.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "katarungan"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "katarungan"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "sunodon mo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "agod"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "mabuhi ka"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "kag magamhanan mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga imo Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ginahatag"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:24:28.936738822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag nagsiling si Shemuël: Pantipona ninyo ⟨את⟩ ang tanan nga Yisrael sa Mitzpah, kag magapangamuyo ako sang inyo bayad kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shemuël"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "pantipona ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nga Yisrael"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "sa Mitzpah"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "kag magapangamuyo ako"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "sang inyo bayad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T17:59:25.069222620Z",
+  "model": "glm-5.3"
+}

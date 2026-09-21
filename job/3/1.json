@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Pagkatapos sini, ginbukas ni Iyov ⟨את⟩ ang iya baba kag gintungdan niya ⟨את⟩ ang iya adlaw.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "pagkatapos"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sini"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ginbukas"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ni Iyov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya baba"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ang iya baba"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "kag gintungdan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya adlaw"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ang iya adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T21:05:56.883142911Z",
+  "model": "glm-5.3"
+}

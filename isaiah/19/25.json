@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "nga ginpanalanginan ni Yahweh Tsevaot, nga nagasiling: Bulahan ang akon katawhan nga si Mitsrayim, kag ang tinuga sang akon mga kamot nga si Ashshur, kag ang akon mana nga si Yisrael.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "ginpanalanginan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Bulahan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ang akon katawhan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "kag ang tinuga"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "sang akon mga kamot"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "kag ang akon mana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T18:56:56.987181698Z",
+  "model": "glm-5.3"
+}

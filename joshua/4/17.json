@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag ginsumo ni Yehoshua ⟨את⟩ ang mga saserdote, nga nagsiling: Umangat kamo sa Yarden.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ginsumo"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga saserdote"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ang mga saserdote"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagsiling"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "umangat kamo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-09-21T17:35:01.887032453Z",
+  "model": "glm-5.3"
+}

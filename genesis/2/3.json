@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag ginpakamaayo ni Elohim ⟨את⟩ ang ikapito nga adlaw, kag ginbalaan niya ⟨אתו⟩, kay sa sini siya nagpahuway halin sa tanan nga iya buluhaton nga gintuga ni Elohim sa paghimo.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "ginpakamaayo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ikapito nga adlaw"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ang ikapito"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "kag ginbalaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "niya ini (ang ikapito nga adlaw)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa sini"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "nagpahuway"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "halin sa tanan"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "nga iya buluhaton"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "gintuga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa paghimo"
+    }
+  ],
+  "timestamp": "2026-09-21T15:56:12.938627976Z",
+  "model": "glm-5.3"
+}

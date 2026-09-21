@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 145,
+  "translation": "Ang imo ginharian ⟨isa ka⟩ ginharian sang tanan nga mga katuigan, kag ang imo pagduminion sa tanan nga kaliwat kag kaliwat.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "ang imo ginharian"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ginharian"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tanan nga"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "mga katuigan"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "kag ang imo pagduminion"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "דור",
+      "gloss": "kaliwat"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "kag kaliwat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:24.453751481Z",
+  "model": "glm-5.3"
+}

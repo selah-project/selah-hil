@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag matam-is ang suga, kag maayo sa mga mata ang makakita ⟨את⟩ sang adlaw.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "kag matam-is"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ang suga"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "kag maayo"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ang makakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang adlaw"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sang adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T21:27:57.107614738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 21:25",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag ang nabasi nga mga ginhimo ni Amon, indi bala ini ang mga nasulat sa libro sang mga ginhimo sang mga adlaw sang mga hari sang Yehudah?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "ang nabasi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nga mga ginhimo"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "ni Amon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "indi bala"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ini"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "ang mga nasulat"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "libro"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sang mga ginhimo"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "sang mga adlaw"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "sang mga hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-21T18:48:40.466754557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag ginbalita kay David ⟨את⟩ ang ginhimo sang Ritspa nga anak nga babae sang Aya, asawa nga ikaduha ni Shaul.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "kag ginbalita"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ginhimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "sang Ritspa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babae"
+    },
+    {
+      "surface": "איה",
+      "gloss": "sang Aya"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "asawa nga ikaduha"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    }
+  ],
+  "timestamp": "2026-09-21T18:23:27.103199713Z",
+  "model": "glm-5.3"
+}

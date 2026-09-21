@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 86,
+  "translation": "Palanggayaon mo ang kalag sang imo nga suluguon, kay sa imo, Adonay, ginaalsa ko ang akon kalag.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Palanggayaon mo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ang kalag"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sang imo nga suluguon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ginaalsa ko"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:44.906284630Z",
+  "model": "glm-5.3"
+}

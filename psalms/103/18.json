@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 103,
+  "translation": "Sa mga nagatipig sang iya kasugtanan kag sa mga nagapanumdum sang iya mga sugo, sa paghimo sini.",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "sa mga nagatipig"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sang iya kasugtanan"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "kag sa mga nagapanumdum"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "sang iya mga sugo"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "sa paghimo sini"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:17.952574386Z",
+  "model": "glm-5.3"
+}

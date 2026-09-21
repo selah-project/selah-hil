@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Indi kamo maggama kaupod ⟨את⟩ sa akon sang mga dios sang pilak kag mga dios sang bulawan; indi kamo maggama sa inyo kaugalingon.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "kamo maggama"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "sa akon"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mga dios"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sang pilak"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "kag mga dios"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sang bulawan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kamo maggama"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo kaugalingon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:27:56.248162597Z",
+  "model": "glm-5.3"
+}

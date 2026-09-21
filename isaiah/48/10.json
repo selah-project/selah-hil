@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 48,
+  "translation": "Tan-awa, ginbanhaw ko ikaw, apang indi sa pilak; ginpilian ko ikaw sa dalog sang kahapisan.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "ginbanhaw ko ikaw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apang indi"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "sa pilak"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "ginpilian ko ikaw"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "sa dalog"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sang kahapisan"
+    }
+  ],
+  "timestamp": "2026-09-21T19:07:43.890952292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag ginpwesto niya ⟨את⟩ ang menorah sa Ohel Moed, atbang sang lamesa, sa kilid sang Mishkan, sa habagatan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ginpwesto niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang menorah"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "ang menorah"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "sa Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "atbang sang"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "lamesa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "kilid"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "sang Mishkan"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "sa habagatan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:40:58.450617595Z",
+  "model": "glm-5.3"
+}

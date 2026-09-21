@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "ang pangulo sang lima ka pulo, kag ang dungganon ⟨sa nawong⟩, ang magtatambag kag ang maalam sa mga panday, kag ang batid sa pangulit.",
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "ang pangulo"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "sang lima ka pulo"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "kag ang dungganon"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sa nawong"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "ang magtatambag"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "kag ang maalam"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "sa mga panday"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "kag ang batid"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "sa pangulit"
+    }
+  ],
+  "timestamp": "2026-09-21T18:52:54.716836374Z",
+  "model": "glm-5.3"
+}

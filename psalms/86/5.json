@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 86,
+  "translation": "Kay ikaw, Adonay, maayo kag nagapatawad, kag dako ang imo hesed sa tanan nga nagatawag sa imo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "kag nagapatawad"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "kag dako"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "nagatawag sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:32.581162533Z",
+  "model": "glm-5.3"
+}

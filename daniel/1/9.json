@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ginhatag sang Elohim ⟨את⟩ si Daniel sa hesed kag sa mga kaluoy sa atubangan sang puno sang mga eunoco.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Kag ginhatag"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Daniel"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "si Daniel"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "sa hesed"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "kag sa mga kaluoy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sang puno"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "sang mga eunoco"
+    }
+  ],
+  "timestamp": "2026-09-21T21:31:25.395642077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 48,
+  "translation": "Dako si Yahweh kag labi nga pagdayawon, sa siyudad sang aton Elohim, ang balaan nga bukid niya.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Dako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "kag pagdayawon"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa siyudad"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": " sang aton Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ang bukid"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "balaan niya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:40.322900963Z",
+  "model": "glm-5.3"
+}

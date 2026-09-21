@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Sang kay David. Magdinagit ka, Yahweh, ⟨את⟩ sang mga nagadinigit sa akon; magpakig-away ka ⟨את⟩ sang mga nagapakig-away sa akon.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Sang kay David"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "magdinagit ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang mga nagadinigit sa akon"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "sang mga nagadinigit sa akon"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "magpakig-away ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang mga nagapakig-away sa akon"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "sang mga nagapakig-away sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:51.985403301Z",
+  "model": "glm-5.3"
+}

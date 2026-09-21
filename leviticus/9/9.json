@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 9:9",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag gindala sang mga anak ni Aharon ⟨את⟩ ang dugo sa iya, kag ginlubog niya ang iya tudlo sa dugo kag ginputan niya ⟨ito⟩ sa mga sungay sang halaran, kag ⟨את⟩ ang dugo ginbuhos niya sa tungtong sang halaran.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "gindala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dugo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ang dugo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "ginlubog"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "ang iya tudlo"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "sa dugo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ginputan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "mga sungay"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sang halaran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang dugo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ang dugo"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "ginbuhos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "tungtong"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sang halaran"
+    }
+  ],
+  "timestamp": "2026-09-21T16:45:41.994604536Z",
+  "model": "glm-5.3"
+}

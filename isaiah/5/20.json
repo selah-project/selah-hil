@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kalainan sa mga nagasiling sa malaot nga maayo, kag sa maayo nga malaot; nga nagabutang sang kadudulman sa baylo sang kapawa, kag kapawa sa baylo sang kadudulman; nga nagabutang sang mapait sa baylo sang matam-is, kag matam-is sa baylo sang mapait!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Kalainan"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "sa mga nagasiling"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "sa malaot"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nga maayo"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "kag sa maayo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "nga malaot"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nga nagabutang"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sang kadudulman"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "sa baylo sang kapawa"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "kag kapawa"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "sa baylo sang kadudulman"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nga nagabutang"
+    },
+    {
+      "surface": "מר",
+      "gloss": "sang mapait"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "sa baylo sang matam-is"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "kag matam-is"
+    },
+    {
+      "surface": "למר",
+      "gloss": "sa baylo sang mapait"
+    }
+  ],
+  "timestamp": "2026-09-21T18:54:00.662841514Z",
+  "model": "glm-5.3"
+}

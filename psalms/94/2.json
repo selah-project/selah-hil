@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 94,
+  "translation": "Igpatindog ⟨ang imo kaugalingon⟩, ikaw ⟨nga⟩ maghuhukum sang duta; ibalik ang balos sa mga mapahitas-on.",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Igpatindog"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "maghuhukum"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "השב",
+      "gloss": "ibalik"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "balos"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "mga mapahitas-on"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:04.665898758Z",
+  "model": "glm-5.3"
+}

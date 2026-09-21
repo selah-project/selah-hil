@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag gintindog ni Avraham ⟨את⟩ ang pito ka karnero nga baboy sa carabao sang kawan nga iban sa ila.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "kag gintindog"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pito ka karnero nga baboy"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito ka"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "karnero nga baboy"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "sa kawan"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "nga iban sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T16:02:38.074408197Z",
+  "model": "glm-5.3"
+}

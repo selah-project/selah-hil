@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 5:3",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Ang mga anak ni Reuven, panganay sang Yisrael: Khanokh, kag Pallu, Khetsron, kag Karmi.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ang mga anak"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ni Reuven"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "panganay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Khanokh"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "kag Pallu"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Khetsron"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "kag Karmi"
+    }
+  ],
+  "timestamp": "2026-09-21T21:50:48.644444599Z",
+  "model": "glm-5.3"
+}

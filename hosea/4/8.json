@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Ang sala sang akon katawhan ginakaon nila, kag sa ila kalaut ginataas nila ang iya kalag.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "ang sala"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sang akon katawhan"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ginakaon nila"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ila kalaut"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ginataas nila"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ang iya kalag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:04:23.254498438Z",
+  "model": "glm-5.3"
+}

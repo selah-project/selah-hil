@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Kay David. Si Yahweh ang akon suga kag ang akon kaluwas — kay sin-o ako magakulba? Si Yahweh ang kusgan sang akon kabuhi — kay sin-o ako magakuyom?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ang akon suga"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "kag ang akon kaluwas"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "kay sin-o"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ako magakulba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "ang kusgan"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "sang akon kabuhi"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "kay sin-o"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "ako magakuyom"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:44.612153038Z",
+  "model": "glm-5.3"
+}

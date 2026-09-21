@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 108,
+  "translation": "Kay dako sa itaas sang mga langit ang imo hesed, kag tubtob sa mga panganod ang imo katuoran.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dako"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sa itaas sang"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "imo hesed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag tubtob sa"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "mga panganod"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "imo katuoran"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:56.453059182Z",
+  "model": "glm-5.3"
+}

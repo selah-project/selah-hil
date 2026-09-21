@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Ang daotan nagatantiya sang matarong kag nagapangita kon paano pagapatyon siya.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "nagatantiya"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "daotan"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "sang matarong"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "kag nagapangita"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "kon paano pagapatyon siya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:30:51.518589715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag nagsiling si Moshe sa ⟨ang⟩ katilingban: Ini ang butang nga ginsugo ni Yahweh sa paghimo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag nagsiling"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "⟨ang⟩ katilingban"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang butang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa paghimo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:46:45.243245583Z",
+  "model": "glm-5.3"
+}

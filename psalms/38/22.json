@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 38,
+  "translation": "Indi ako pagbi-i, Yahweh, Elohim ko, indi pagpalayo sa akon.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "ako pagbi-i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "pagpalayo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:08.051570141Z",
+  "model": "glm-5.3"
+}

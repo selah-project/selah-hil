@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nagkahadlok ang mga mananabang ⟨sa⟩ ⟨את⟩ sang Elohim, kag wala nila ginhimo subong sang ginhambal sang hari sang Mitsrayim sa ila, kag ginpabuhi nila ⟨את⟩ ang mga bata nga lalaki.",
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "kag nagkahadlok"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "ang mga mananabang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginhimo nila"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ginhambal"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "kag ginpabuhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga bata nga lalaki"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ang mga bata nga lalaki"
+    }
+  ],
+  "timestamp": "2026-09-21T16:19:01.959334099Z",
+  "model": "glm-5.3"
+}

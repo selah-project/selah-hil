@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag gintawag ni David ang isa sa mga bata, kag nagsiling siya, Palapit, targaha siya; kag ginsungalpo niya siya kag namatay.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "kag gintawag"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "sa mga bata"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "גש",
+      "gloss": "palapit"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "targaha"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "ginsungalpo niya siya"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kag namatay"
+    }
+  ],
+  "timestamp": "2026-09-21T18:12:56.181858448Z",
+  "model": "glm-5.3"
+}

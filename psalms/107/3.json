@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 107,
+  "translation": "kag gikan sa mga duta gintipon sila niya, gikan sa sidlangan kag gikan sa katungdan, gikan sa amihanan kag gikan sa dagat.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "kag gikan sa mga duta"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "gintipon sila niya"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "gikan sa sidlangan"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "kag gikan sa katungdan"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "gikan sa amihanan"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "kag gikan sa dagat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:01.592658503Z",
+  "model": "glm-5.3"
+}

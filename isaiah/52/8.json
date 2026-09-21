@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 52:8",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 52,
+  "translation": "Ang tingog sang imo mga bantay! Ginpataas nila ang tingog, magkahiusa sila magkanta; kay mata sa mata makita nila ⟨bala⟩ sang magabalik si Yahweh sa Tsiyon.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Ang tingog"
+    },
+    {
+      "surface": "צפיך",
+      "gloss": "sang imo mga bantay"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ginpataas nila"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magkahiusa"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "magkanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "sa mata"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "makita nila"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "sang magabalik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "sa Tsiyon"
+    }
+  ],
+  "timestamp": "2026-09-21T19:10:28.297425138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 32:28",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Kag ikaw, sa tunga sang mga ginsupang pagalaglagon, kag magahigda kaupod ⟨את⟩ sa mga naigo sang tabak.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kag ikaw"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "mga ginsupang"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "pagalaglagon"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "magahigda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga naigo sang tabak"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "mga naigo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tabak"
+    }
+  ],
+  "timestamp": "2026-09-21T19:55:28.506650710Z",
+  "model": "glm-5.3"
+}

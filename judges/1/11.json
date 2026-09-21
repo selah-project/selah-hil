@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nangadto ⟨siya⟩ didto sa mga pumoluyo sang Devir — kag ang ngalan sang Devir sang una Kiryat-Sefer.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kag nangadto ⟨siya⟩"
+    },
+    {
+      "surface": "משם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "mga pumoluyo"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "sang Devir"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "kag ang ngalan"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "sang Devir"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "sang una"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    }
+  ],
+  "timestamp": "2026-09-21T17:45:23.384068323Z",
+  "model": "glm-5.3"
+}

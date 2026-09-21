@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag si Arpakhshad natahan ⟨את⟩ si Shelakh, kag si Shelakh natahan ⟨את⟩ si Eber.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "kag si Arpakhshad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "natahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shelakh"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "si Shelakh"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "kag si Shelakh"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "natahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Eber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "si Eber"
+    }
+  ],
+  "timestamp": "2026-09-21T21:49:22.537591337Z",
+  "model": "glm-5.3"
+}

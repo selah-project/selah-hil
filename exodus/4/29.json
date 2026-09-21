@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag nangadayon si Moshe kag si Aharon, kag nagtipon sila sang ⟨את⟩ tanan nga mga tigulang sang mga anak nga lalaki sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nangadayon"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "kag si Aharon"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "nagtipon sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga tigulang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga tigulang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T16:21:15.637891494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ang imo suluganon ara sa tunga sang imo katawhan nga imo ginpilian, katawhan nga damo, nga indi mabilang kag indi maihap tungod sa kadamo.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "Kag ang imo suluganon"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sang imo katawhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "imo ginpilian"
+    },
+    {
+      "surface": "עם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nga damo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "mabilang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "maihap"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "tungod sa kadamo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:27:11.072996924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 85,
+  "translation": "Ang katarungan magalakat sa iya atubang, kag magabutang sang dalan sa iya mga laktat.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Ang katarungan"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa iya atubang"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "magalakat"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "kag magabutang"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "sang dalan"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "sa iya mga laktat"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:24.920608477Z",
+  "model": "glm-5.3"
+}

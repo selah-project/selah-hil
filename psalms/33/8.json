@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Magakadlaw ang tanan nga duta kay Yahweh; sa iya magakilala sang kahadlok ang tanan nga nagaistar sa kalibutan.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "Magakadlaw"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "magakilala sang kahadlok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "nagaistar"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "kalibutan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:38:18.873868366Z",
+  "model": "glm-5.3"
+}

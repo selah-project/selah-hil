@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Kon sa akon mga kasuguan kamo magalakat, kag ⟨את⟩ ang akon mga mando pagatipigan ninyo kag himoon ninyo ⟨אתם⟩;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "sa akon mga kasuguan"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "kamo magalakat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ang akon mga mando"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "pagatipigan ninyo"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "kag himoon ninyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ang akon mga mando"
+    }
+  ],
+  "timestamp": "2026-09-21T16:55:56.239289741Z",
+  "model": "glm-5.3"
+}

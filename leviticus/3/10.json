@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ⟨את⟩ ang duha ka bato, kag ⟨את⟩ ang taba nga ara sa ila, nga ara sa mga hawak, kag ⟨את⟩ ang parte sa ibabaw sang atay — sa mga bato pagakuhaon niya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang duha ka bato"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang taba"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ang taba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "mga hawak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang parte sa ibabaw sang atay"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "parte"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "atay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "pagakuhaon niya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:41:27.915998892Z",
+  "model": "glm-5.3"
+}

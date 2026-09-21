@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Sa pagpildi ginpildi mo ⟨את⟩ ang Edom, kag ginpasaka ka sang imo kasing-kasing; magmadugalon kag magpabilin sa imo balay; kag ngaa magapukaw ka sang kagubatan, kag matumba ikaw kag ang Yehudah kaupod sa imo?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "sa pagpildi"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "ginpildi mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ang Edom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "kag ginpasaka ka"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "imo kasing-kasing"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "magmadugalon"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "kag magpabilin"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "sa imo balay"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "kag ngaa"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "magapukaw ka"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "sang kagubatan"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "kag matumba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "kag ang Yehudah"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kaupod sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:44:49.324666367Z",
+  "model": "glm-5.3"
+}

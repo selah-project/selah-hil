@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 34:21",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Anom ka adlaw magakabudlay ⟨ka⟩, kag sa ⟨ang⟩ ikapito nga adlaw magapahuway ka; sa tion sang pag-oolani kag sa tion sang pag-ani magapahuway ka.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "anom"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ka adlaw"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "magakabudlay"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "kag sa adlaw"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ang ikapito"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "magapahuway ka"
+    },
+    {
+      "surface": "בחריש",
+      "gloss": "sa tion sang pag-oolani"
+    },
+    {
+      "surface": "ובקציר",
+      "gloss": "kag sa tion sang pag-ani"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "magapahuway ka"
+    }
+  ],
+  "timestamp": "2026-09-21T16:36:46.548151552Z",
+  "model": "glm-5.3"
+}

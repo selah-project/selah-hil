@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Tanang nagakamang nga langgam nga nagalupad, nga nagalakat sa apat ⟨ka tiil⟩ — karumulayan sila sa inyo",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "nagakamang nga binuhi"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "nagalupad"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "nga nagalakat"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "apat"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "karumulayan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sila"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:46:31.208677168Z",
+  "model": "glm-5.3"
+}

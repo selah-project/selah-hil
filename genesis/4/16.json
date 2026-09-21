@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag nagguwa si Kayin gikan sa atubangan ni Yahweh kag nagpuyo siya sa duta sang Nod, sa sinirangan sang Eden.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "kag nagguwa"
+    },
+    {
+      "surface": "קין",
+      "gloss": "si Kayin"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "gikan sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kag nagpuyo siya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "sang Nod"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "sa sinirangan"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "sang Eden"
+    }
+  ],
+  "timestamp": "2026-09-21T15:55:09.756331526Z",
+  "model": "glm-5.3"
+}

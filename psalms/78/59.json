@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Nagdungog si Elohim kag naglagot sia, kag ginkadlawan niya sing mabaskog ang Yisrael.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "nagdungog"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "kag naglagot sia"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "kag ginkadlawan niya"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sing mabaskog"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ang Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:57.794094392Z",
+  "model": "glm-5.3"
+}

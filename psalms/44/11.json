@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Ginpalintik mo kami palikos sa aton mga kaaway, kag ang mga nagadumili sa aton naghimus sang ila kaugalingon.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "Ginpalintik mo kami"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "palikos"
+    },
+    {
+      "surface": "מני",
+      "gloss": "sa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "mga kaaway"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "kag ang mga nagadumili sa aton"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "naghimus"
+    },
+    {
+      "surface": "למו",
+      "gloss": "sang ila kaugalingon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:25.390169108Z",
+  "model": "glm-5.3"
+}

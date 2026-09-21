@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 46,
+  "translation": "Pahuwaya kamo kag mahibalo kamo nga ako ang Elohim; mataas ako sa tunga sang mga pungsod, mataas ako sa duta.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "pahuwaya kamo"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "kag mahibalo kamo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "mataas ako"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa tunga sang mga pungsod"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "mataas ako"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:48.483841944Z",
+  "model": "glm-5.3"
+}

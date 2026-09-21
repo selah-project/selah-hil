@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "kag ang iya kupunan, kag ang ila mga gin-ihap — lima kag apat ka pulo ka libo kag anom ka gatos kag lima ka pulo.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "kag ang iya kupunan"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "kag ang ila mga gin-ihap"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "kag apat ka pulo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ka libo"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "kag anom"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "kag lima ka pulo"
+    }
+  ],
+  "timestamp": "2026-09-21T22:22:53.440757219Z",
+  "model": "glm-5.3"
+}

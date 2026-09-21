@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kag magatipon kamo sang akon mga kasuguan kag himoon ninyo ⟨את⟩ sila; ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "kag magatipon kamo"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "sang akon mga kasuguan"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "kag himoon ninyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang akon mga kasuguan)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:52:42.615264178Z",
+  "model": "glm-5.3"
+}

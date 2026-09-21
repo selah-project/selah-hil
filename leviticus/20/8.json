@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag magbantay kamo sang ⟨את⟩ akon mga kahitapan, kag himuon ninyo ⟨את⟩ sila; ako si Yahweh nga nagapabalaan sa inyo.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "kag magbantay kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akon mga kahitapan"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "akon mga kahitapan"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "kag himuon ninyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "nga nagapabalaan sa inyo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:53:00.317428377Z",
+  "model": "glm-5.3"
+}

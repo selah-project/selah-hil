@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "⟨את⟩ ang isa ka kordero ihimo mo sa aga, kag ⟨את⟩ ang ikaduha nga kordero ihimo mo sa taliwa sang mga gab-i.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang isa ka kordero"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "kordero"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ihimo"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa aga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang ikaduha nga kordero"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "kordero"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikaduha"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ihimo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa taliwa"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "sang mga gab-i"
+    }
+  ],
+  "timestamp": "2026-09-21T16:34:26.196330809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 135,
+  "translation": "Ang mga larawan sang mga pungsod plata kag bulawan, himo sang mga kamot sang tawo.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "mga larawan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "sang mga pungsod"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "plata"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "kag bulawan"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "himo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "sang mga kamot"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T22:40:45.250251804Z",
+  "model": "glm-5.3"
+}

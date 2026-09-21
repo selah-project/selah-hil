@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 123,
+  "translation": "Kanta sang mga Pagsaka. Sa imo ginpataas ko ⟨את⟩ ang akon mga mata, sa ⟨iyo⟩ nga nagaestar sa mga langit.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kanta"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sang mga Pagsaka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Sa imo"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ginpataas ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon mga mata"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang akon mga mata"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "⟨iyo⟩ nga nagaestar"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sa mga langit"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:11.011560938Z",
+  "model": "glm-5.3"
+}

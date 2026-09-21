@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 7:15",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Ang espada sa guwa, kag ang peste kag ang gutom sa sulod; ang ara sa uma magapatay sang espada, kag ang ara sa siyudad, gutom kag peste ang magakaon sa iya.",
+  "tokens": [
+    {
+      "surface": "החרב",
+      "gloss": "ang espada"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "sa guwa"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "kag ang peste"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "kag ang gutom"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "sa sulod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang ara"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa uma"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sang espada"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "magapatay"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kag ang ara"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa siyudad"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "gutom"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "kag peste"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "ang magakaon sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T19:41:28.162391892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag magbantay kamo sa paghimo ⟨את⟩ sang tanan nga mga kasuguan kag ⟨את⟩ ang mga paghukom nga akon ginabutang sa atubang ninyo subong nga adlaw.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Kag magbantay kamo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa paghimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang tanan nga mga kasuguan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "nga mga kasuguan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga paghukom"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ang mga paghukom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ginabutang"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "sa atubang ninyo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "subong nga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T17:22:37.782319158Z",
+  "model": "glm-5.3"
+}

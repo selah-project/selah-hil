@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Tungon ang nagapaligoy sa buta sa dalan, kag magahambal ang tanan nga mga tawo: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Tungon"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "nagapaligoy"
+    },
+    {
+      "surface": "עור",
+      "gloss": "sa buta"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "kag magahambal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nga mga tawo"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-21T17:29:57.416825156Z",
+  "model": "glm-5.3"
+}

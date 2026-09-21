@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nagsabat sila ⟨kay⟩ ⟨את⟩ Yehoshua nga nagasiling: Ang tanan nga imo ginsugo sa amon himuon namon, kag sa bisan diin imo ipadala kami, magakadto kami.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Kag nagsabat sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "imo ginsugo sa amon"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "himuon namon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bisan diin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "imo ipadala kami"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "magakadto kami"
+    }
+  ],
+  "timestamp": "2026-09-21T17:35:19.529850889Z",
+  "model": "glm-5.3"
+}

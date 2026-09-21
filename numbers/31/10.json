@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kag ⟨את⟩ tanan nga ila mga syudad sa ila mga puyuan kag ⟨את⟩ tanan nga ila mga kampo ginsunog nila sa kalayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga ila mga syudad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "ila mga syudad"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "sa ila mga puyuan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga ila mga kampo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "ila mga kampo"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "ginsunog nila"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:14:04.055221270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Indi ninyo paghikapon ang akon mga hinaplasan, kag sa akon mga manalagna indi kamo maghimo sang kalaot.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "ninyo paghikapon"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "ang akon mga hinaplasan"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "kag sa akon mga manalagna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "maghimo kamo sang kalaot"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:26.234635004Z",
+  "model": "glm-5.3"
+}

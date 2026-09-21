@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kay ang mga braso sang mga daotan magabali, kag si Yahweh amo ang nagasandig sa mga matarong.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "mga braso"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sang mga daotan"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "magabali"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "kag nagasandig"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sa mga matarong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:00.994535375Z",
+  "model": "glm-5.3"
+}

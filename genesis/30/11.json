@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kag nagsiling si Lea, \"May ⟨maayo nga〕 palad ⟨nga nag-abot⟩!\" kag gintawag niya ⟨את⟩ ang iya ngalan nga Gad.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "nagsiling"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "si Lea"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "palad ⟨maayo⟩"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "gintawag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya ngalan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang iya ngalan"
+    },
+    {
+      "surface": "גד",
+      "gloss": "nga Gad"
+    }
+  ],
+  "timestamp": "2026-09-21T16:06:25.688256382Z",
+  "model": "glm-5.3"
+}

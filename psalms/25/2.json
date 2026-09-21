@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Elohim ko, sa Imo ako nagasalig; indi pagtuguti nga mapakahuy-an ako, indi pagtuguti nga magakalipay ang akon mga kaaway ⟨sa akon⟩.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ko"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa Imo"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nagasalig ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "mapakahuy-an ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi pagtuguti"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "magakalipay"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ang akon mga kaaway"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:53.736333887Z",
+  "model": "glm-5.3"
+}

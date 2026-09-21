@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag ginsugo ni Yahweh ⟨את⟩ si Yerubbaal kag ⟨את⟩ si Bedan kag ⟨את⟩ si Yiftakh kag ⟨את⟩ si Shemuel, kag ginaluwas niya ⟨את⟩ kamo sa kamot sang inyo mga kaaway sa palibot, kag nagpuyo kamo nga walay katalagman.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kag ginsugo niya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yerubbaal"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubbaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Bedan"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Yiftakh"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftakh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "kag ginaluwas niya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "sang inyo mga kaaway"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "kag nagpuyo kamo"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "nga walay katalagman"
+    }
+  ],
+  "timestamp": "2026-09-21T18:02:00.716835402Z",
+  "model": "glm-5.3"
+}

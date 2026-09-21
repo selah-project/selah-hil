@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag ang tawo kon maglatay sang kalag sang bisan ano nga tawo, sa kamatayon mapatay siya.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Kag ang tawo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "maglatay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bisan ano"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kalag"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nga tawo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sa kamatayon"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "mapatay siya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:54:25.517020379Z",
+  "model": "glm-5.3"
+}

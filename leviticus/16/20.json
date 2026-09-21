@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag kon nahuman na sa pagtubos ⟨את⟩ sa balaan nga lugar kag ⟨את⟩ ang tolda sang pagtipun-an kag ⟨את⟩ ang halaran, magadala niya ⟨את⟩ ang buhi nga kanding nga lalaki.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "kag kon nahuman na"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "sa pagtubos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa balaan nga lugar"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sa balaan nga lugar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tolda sang pagtipun-an"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang pagtipun-an"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "halaran"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "kag magadala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buhi nga kanding nga lalaki"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "kanding nga lalaki"
+    },
+    {
+      "surface": "החי",
+      "gloss": "buhi"
+    }
+  ],
+  "timestamp": "2026-09-21T16:51:25.623809957Z",
+  "model": "glm-5.3"
+}

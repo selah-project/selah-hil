@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 45,
+  "translation": "Ihatud sila sa mga kalipayan kag sa kadungganan; magasulod sila sa dakung balay sang hari.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "ihatud sila"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "sa mga kalipayan"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "kag sa kadungganan"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "magasulod sila"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "sa dakung balay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sang hari"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:26.479739065Z",
+  "model": "glm-5.3"
+}

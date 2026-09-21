@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 80,
+  "translation": "Elohim Tsevaot, magbalik ⟨kuno⟩ ⟨ikaw⟩; tan-awa sa mga langit kag ipakita, kag dumdoma ang ini nga parras",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "magbalik"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨kuno⟩"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "sa mga langit"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "kag ipakita"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "kag dumdoma"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "parras"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ang ini nga"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:03.871913101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kay ginpahuag ni Yahweh sa inyo ang espiritu sang bug-at nga katulogon, kag ginpamon-o niya ⟨את⟩ ang inyo mga mata — ⟨את⟩ ang mga manalagna; kag ⟨את⟩ ang inyo mga ulo — ang mga mananawo gintabon niya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "ginpahuag"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ang espiritu"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "sang bug-at nga katulogon"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "kag ginpamon-o niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang inyo mga mata"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ang inyo mga mata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga manalagna"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ang mga manalagna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang inyo mga ulo"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "ang inyo mga ulo"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "ang mga mananawo"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "gintabon niya"
+    }
+  ],
+  "timestamp": "2026-09-21T19:01:57.115906828Z",
+  "model": "glm-5.3"
+}

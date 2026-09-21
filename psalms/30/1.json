@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Mizmor, awit sang pag-inagurar sang balay, ni David.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "awit"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "pag-inagurar"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:10.060660455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Wala nila tipigon ang kasugtanan sang Elohim, kag sa iya Torah nagdumili sila maglakat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Wala"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "nila tipigon"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ang kasugtanan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "kag sa iya Torah"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "nagdumili sila"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "maglakat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:33.251340344Z",
+  "model": "glm-5.3"
+}

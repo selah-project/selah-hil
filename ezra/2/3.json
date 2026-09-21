@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Mga anak sang Parosh, duha ka libo kag isa ka gatos kag pito ka pulo kag duha.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mga anak sang"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Parosh"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "duha ka libo"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "isa ka gatos"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "pito ka pulo"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "kag duha"
+    }
+  ],
+  "timestamp": "2026-09-21T21:39:42.174096328Z",
+  "model": "glm-5.3"
+}

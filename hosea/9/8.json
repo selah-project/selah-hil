@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 9:8",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Manugbantay sang Efrayim ang manalagna kaupod sang akon Elohim; lit-ag sang manuglit-ag sa tanan niya nga mga dalan, kag pagdumut sa balay sang iya Elohim.",
+  "tokens": [
+    {
+      "surface": "צפה",
+      "gloss": "manugbantay"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "sang Efrayim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "sang akon Elohim"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ang manalagna"
+    },
+    {
+      "surface": "פח",
+      "gloss": "lit-ag"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "sang manuglit-ag"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "niya nga mga dalan"
+    },
+    {
+      "surface": "משטמה",
+      "gloss": "pagdumut"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "sang iya Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T20:07:27.012339661Z",
+  "model": "glm-5.3"
+}

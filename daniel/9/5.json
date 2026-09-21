@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Nagpakasala kami kag nagbuhat sing kalainan, kag nagbuhat sing kadaotan, kag nagrebelde, kag nagtalikod sa imo mga kasuguan kag sa imo mga paghukum.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "nagpakasala kami"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "kag nagbuhat sing kalainan"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "kag nagbuhat sing kadaotan"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "kag nagrebelde"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "kag nagtalikod"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "sa imo mga kasuguan"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "kag sa imo mga paghukum"
+    }
+  ],
+  "timestamp": "2026-09-21T21:37:45.407679858Z",
+  "model": "glm-5.3"
+}

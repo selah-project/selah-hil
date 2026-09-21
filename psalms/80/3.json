@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 80,
+  "translation": "Sa atubangan ni Efrayim kag ni Benyamin kag ni Menashe, paganasa ⟨את⟩ ang imo kusog, kag mag-abot ka sa amon nga kaluwasan.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Sa atubangan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ni Efrayim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "kag ni Benyamin"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "kag ni Menashe"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "paganasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imo kusog"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "ang imo kusog"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "kag mag-abot ka"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "sa kaluwasan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:30.017769542Z",
+  "model": "glm-5.3"
+}

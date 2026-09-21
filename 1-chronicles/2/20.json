@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag si Khur natahan ⟨את⟩ si Uri, kag si Uri natahan ⟨את⟩ si Betsalel.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Kag si Khur"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Uri"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "si Uri"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "kag si Uri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Betsalel"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "si Betsalel"
+    }
+  ],
+  "timestamp": "2026-09-21T21:49:44.367089709Z",
+  "model": "glm-5.3"
+}

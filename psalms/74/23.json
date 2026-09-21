@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 74,
+  "translation": "Indi pagkalimti ang tingog sang imo mga kaaway, ang sining sang imo mga nagabangon ⟨batok sa imo⟩ nga nagasaka sing padayon.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "pagkalimti"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "sang imo mga kaaway"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ang sining"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "sang imo mga nagabangon"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "nagasaka"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sing padayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:21.157053237Z",
+  "model": "glm-5.3"
+}

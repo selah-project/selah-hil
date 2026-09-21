@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 29:8",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kag magbantay kamo ⟨את⟩ ang mga pulong sang ining kasugtanan kag himoon ninyo sila, agod mag-uswag kamo ⟨את⟩ tanan nga himoon ninyo.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "kag magbantay ⟨kamo⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pulong sang ining kasugtanan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ang mga pulong"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "sang kasugtanan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ining"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "kag himoon"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang mga pulong)"
+    },
+    {
+      "surface": "למען",
+      "gloss": "agod"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "mag-uswag ⟨kamo⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga himoon ninyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "himoon ninyo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:30:46.526802947Z",
+  "model": "glm-5.3"
+}

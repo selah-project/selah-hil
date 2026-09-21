@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag si Yahweh ⟨yara⟩ sa Iya balaan nga templo — maghilum kamo sa atubang sini, tanan nga duta!",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Kag si Yahweh"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "sa templo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sang Iya pagkabalaan"
+    },
+    {
+      "surface": "הס",
+      "gloss": "maghilum kamo"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "sa atubang sini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nga duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:15:48.042091686Z",
+  "model": "glm-5.3"
+}

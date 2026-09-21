@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 57,
+  "translation": "Kaawa sa akon, Elohim, kaawa sa akon, kay sa imo nagapalagyo ang akon kalag, kag sa anino sang imo mga paka magapalagyo ⟨ako⟩, hasta maglabay ang ⟨mga⟩ katalagman.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "kaawa sa akon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "kaawa sa akon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "nagapalagyo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "kag sa anino"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "sang imo mga paka"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "magapalagyo ako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "maglabay"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ang mga katalagman"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:26.320063100Z",
+  "model": "glm-5.3"
+}

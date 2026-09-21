@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Kag himuon mo ⟨את⟩ sang mga tabla para sa Mishkan, kahoy sang shittim, nga nagatindog.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "kag himuon mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang mga tabla"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "sang mga tabla"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "para sa Mishkan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sang shittim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "nga nagatindog"
+    }
+  ],
+  "timestamp": "2026-09-21T16:32:26.006428096Z",
+  "model": "glm-5.3"
+}

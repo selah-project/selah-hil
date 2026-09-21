@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 31:23",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kilala ang iya bana sa mga ganghaan <sang dako nga duta>, kon nagahigda siya kaupod sang mga tigulang sang <dako nga duta>.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "kilala"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "sa mga ganghaan"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "ang iya bana"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "kon nagahigda siya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "sang mga tigulang"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang dako nga duta"
+    }
+  ],
+  "timestamp": "2026-09-21T21:05:08.179466548Z",
+  "model": "glm-5.3"
+}

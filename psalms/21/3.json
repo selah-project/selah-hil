@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Ang pangandoy sang iya tagipusuon ginhatag mo sa iya, kag ang pangamuyo sang iya mga ngabil indi mo ginpugngan. Selah.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "ang pangandoy"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sang iya tagipusuon"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ginhatag mo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "kag ang pangamuyo"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "sang iya mga ngabil"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "mo ginpugngan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T22:38:14.846596103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Tan-awa, ginsaad ko sa atubang ninyo ⟨את⟩ ang duta; sulod kag panag-iya ninyo ⟨את⟩ ang duta nga ginsaad ni Yahweh sa inyo mga katigulangan — kay Avraham, kay Yitskhak, kag kay Yaakov — sa paghatag sini sa ila kag sa ila kaliwat pagkatapos sang ila.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ginsaad ko"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "sa atubang ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "באו",
+      "gloss": "sulod"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "kag panag-iya ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ginsaad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "sa inyo mga katigulangan"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kay Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kay Yitskhak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "kag kay Yaakov"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sa paghatag sini"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "kag sa ila kaliwat"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "pagkatapos sang ila"
+    }
+  ],
+  "timestamp": "2026-09-21T17:17:31.767066193Z",
+  "model": "glm-5.3"
+}

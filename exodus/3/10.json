@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag subong, maglakat ka, kag ipadala taka kay Paro, agod nga magpagwa ⟨ikaw⟩ ⟨את⟩ sang akon nga katawhan, ang mga anak sang Yisrael, gikan sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kag subong"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "maglakat ka"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "kag ipadala taka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "agod magpagwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon nga katawhan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ang akon nga katawhan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "gikan sa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:21:17.001900065Z",
+  "model": "glm-5.3"
+}

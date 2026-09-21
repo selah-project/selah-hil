@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Pagpalagat mo pagpalagat ang ⟨את⟩ iloy, kag ang ⟨את⟩ mga anak kuhaon mo para sa imo, agod maging maayo para sa imo kag magadugay ka sang mga adlaw.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Pagpalagat"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "pagpalagat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iloy"
+    },
+    {
+      "surface": "האם",
+      "gloss": "ang iloy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga anak"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "kuhaon mo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa imo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "agod"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "maging maayo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa imo"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "kag magadugay ka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "sang mga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T17:27:22.204306533Z",
+  "model": "glm-5.3"
+}

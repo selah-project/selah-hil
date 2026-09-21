@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Hubason paghubas ang duta, kag pagpangkuhaon pangkuhaon, kay si Yahweh amo ang naghambal sang ⟨את⟩ ini nga ginhambal.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "paghubas"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "hubason"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "kag pagpangkuhaon"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "pangkuhaon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "naghambal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ini nga ginhambal"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ginhambal"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-21T22:31:41.294446135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 20:18",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag ang tawo nga maghigda ⟨את⟩ sang babae nga masakiton kag maghubad ⟨את⟩ sang iya kahubaran — ⟨את⟩ ang iya tinubdan iya nga ginhubaran — kag siya naghubo ⟨את⟩ sang tinubdan sang iya dugo, kag ang duha ka nila pagaputlon sa tunga sang ila katawhan.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "kag ang tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "maghigda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang babae"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sang babae"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "nga masakiton"
+    },
+    {
+      "surface": "וגלה",
+      "gloss": "kag maghubad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang iya kahubaran"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "iya kahubaran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya tinubdan"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "iya tinubdan"
+    },
+    {
+      "surface": "הערה",
+      "gloss": "iya nga ginhubaran"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "kag siya"
+    },
+    {
+      "surface": "גלתה",
+      "gloss": "naghubo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang tinubdan"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "sang tinubdan"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "sang iya dugo"
+    },
+    {
+      "surface": "ונכרתו",
+      "gloss": "kag pagaputlon"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ang duha ka nila"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "sang ila katawhan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:53:41.183877911Z",
+  "model": "glm-5.3"
+}

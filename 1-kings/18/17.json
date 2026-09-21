@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag nahit sang makita ni Ahab ⟨את⟩ si Eliyahu, kag naghambal si Ahab sa iya: Ikaw bala ini, ikaw ang nagpabudlay sang Yisrael?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nahit"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "sang makita"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "si Eliyahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag naghambal"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "si Ahab"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "ikaw bala"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "ang nagpabudlay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T18:36:31.501996439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Nagadukot sa yab-ok ang akon kalag; palinguha ako suno sa imo pulong.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "nagadukot"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "sa yab-ok"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "palinguha ako"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "suno sa imo pulong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:20.020600893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 13:5",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag ang halaran naguba, kag nagbuhin ang abo gikan sa halaran, suno sa tanda nga ginhatag sang tawo sang Elohim paagi sa pulong ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "והמזבח",
+      "gloss": "kag ang halaran"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "naguba"
+    },
+    {
+      "surface": "וישפך",
+      "gloss": "kag nagbuhin"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "ang abo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "כמופת",
+      "gloss": "suno sa tanda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ginhatag"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "paagi sa pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T18:33:23.213295604Z",
+  "model": "glm-5.3"
+}

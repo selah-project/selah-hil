@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Isa ka kerub sa punta sini nga bahin, kag isa ka kerub sa punta sina nga bahin; gikan sa kapporet ginhimo niya ⟨את⟩ ang mga kerub sa iya duha ka punta.",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa ka"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "sa punta"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "sini nga bahin"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "kag kerub"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa ka"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "sa punta"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "sina nga bahin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "sa kapporet"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kerub"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "ang mga kerub"
+    },
+    {
+      "surface": "משני",
+      "gloss": "sa duha"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "ka punta sini"
+    }
+  ],
+  "timestamp": "2026-09-21T16:39:27.720040029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kay ang damgo nagakari sa kadamo sang buluhaton, kag ang tingog sang bobo ⟨yara⟩ sa kadamo sang mga pulong.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nagakari"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "ang damgo"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "sa kadamo"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "sang buluhaton"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "kag ang tingog"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "sang bobo"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "sa kadamo"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "sang mga pulong"
+    }
+  ],
+  "timestamp": "2026-09-21T21:26:20.444164895Z",
+  "model": "glm-5.3"
+}

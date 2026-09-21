@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 31:8",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kag si Yahweh, amo ang nagalakat sa atubang mo; siya magakaupod mo, indi niya icao pagpabayaan kag indi niya icao pagbiyaan; indi ka magkahadluk kag indi ka magkagul-an.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Kag si Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "amo"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ang nagalakat"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa atubang mo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magakaupod"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "niya icao pagpabayaan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "niya icao pagbiyaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ka magkahadluk"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka magkagul-an"
+    }
+  ],
+  "timestamp": "2026-09-21T17:33:52.666918724Z",
+  "model": "glm-5.3"
+}

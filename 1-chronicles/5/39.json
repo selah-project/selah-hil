@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "kag si Shallum nagkaanak ⟨את⟩ kang Khilqijah, kag si Khilqijah nagkaanak ⟨את⟩ kang Azarjah;",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "kag si Shallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkaanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Khilqijah"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Khilqijah"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "kag si Khilqijah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkaanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Azarjah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    }
+  ],
+  "timestamp": "2026-09-21T21:50:59.216534831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 10:23",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kay ang katapusan, kag ang ginhukuman, ginhimo ni Adonay Yahweh Tsevaot sa tunga sang tanan nga duta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ang katapusan"
+    },
+    {
+      "surface": "ונחרצה",
+      "gloss": "kag ang ginhukuman"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nga duta"
+    }
+  ],
+  "timestamp": "2026-09-21T18:56:31.656903235Z",
+  "model": "glm-5.3"
+}

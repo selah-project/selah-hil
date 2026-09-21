@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 45:25",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 45,
+  "translation": "Kay Yahweh magaatad sila sing katarungan kag magadayaw ang tanan nga kaliwat sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Kay Yahweh"
+    },
+    {
+      "surface": "יצדקו",
+      "gloss": "magaatad sila sing katarungan"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "kag magadayaw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kaliwat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T19:07:19.532283203Z",
+  "model": "glm-5.3"
+}

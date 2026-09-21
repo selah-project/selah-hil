@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 16:35",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag ang kalayo nagguwa gikan ⟨את⟩ Yahweh, kag naglamon ⟨את⟩ sang lima ka pulo kag duha ka gatos ka tawo, ang mga nagaalay sang insenso.",
+  "tokens": [
+    {
+      "surface": "ואש",
+      "gloss": "kag ang kalayo"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "nagguwa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "gikan ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "kag naglamon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang lima ka pulo kag duha ka gatos ka tawo"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "sang lima ka pulo"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "kag duha ka gatos"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ka tawo"
+    },
+    {
+      "surface": "מקריבי",
+      "gloss": "ang mga nagaalay"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "sang insenso"
+    }
+  ],
+  "timestamp": "2026-09-21T17:07:23.853656681Z",
+  "model": "glm-5.3"
+}

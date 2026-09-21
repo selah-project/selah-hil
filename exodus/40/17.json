@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 40:17",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag natabo sa nahauna nga bulan, sa ikaduha nga tuig, sa nahauna nga adlaw sang bulan, gintindog ang Mishkan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag natabo"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "sa bulan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "nahauna nga"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "sa tuig"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ikaduha nga"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "sa nahauna nga adlaw"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sang bulan"
+    },
+    {
+      "surface": "הוקם",
+      "gloss": "gintindog"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ang Mishkan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:41:24.220165422Z",
+  "model": "glm-5.3"
+}

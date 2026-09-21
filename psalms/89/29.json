@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 89:29",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Sa dayon ampoan ko ang akon hesed sa iya, kag ang akon kasugtanan matinumanon sa iya.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "אשמור",
+      "gloss": "ampoan ko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "ang akon hesed"
+    },
+    {
+      "surface": "ובריתי",
+      "gloss": "kag ang akon kasugtanan"
+    },
+    {
+      "surface": "נאמנת",
+      "gloss": "matinumanon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:44.375212261Z",
+  "model": "glm-5.3"
+}

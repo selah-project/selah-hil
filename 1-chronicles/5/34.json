@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 5:34",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag si Ahitub nagkatawo ⟨את⟩ kay Tsadok, kag si Tsadok nagkatawo ⟨את⟩ kay Ashimaats.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "kag si Ahitub"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkatawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "kag si Tsadok"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkatawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashimaats"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ashimaats"
+    }
+  ],
+  "timestamp": "2026-09-21T21:50:23.535381711Z",
+  "model": "glm-5.3"
+}

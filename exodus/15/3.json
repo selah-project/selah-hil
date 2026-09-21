@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Si Yahweh ⟨amo⟩ tawo sang paggubat, si Yahweh ⟨amo⟩ ang iya ngalan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sang paggubat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang iya ngalan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:26:32.872572081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag magadala sila sing katilingban batok sa imo, kag babatoan ka nila ⟨את⟩ ⟨אותך⟩ sang mga bato, kag dagukan ka nila sang ila mga espada.",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "kag magadala sila"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "batok sa imo"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "sing katilingban"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "kag babatoan ka nila"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ⟨אותך⟩",
+      "marks": "ikaw"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "sang mga bato"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "kag dagukan ka nila"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "sang ila mga espada"
+    }
+  ],
+  "timestamp": "2026-09-21T19:46:46.985957086Z",
+  "model": "glm-5.3"
+}

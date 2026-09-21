@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 80,
+  "translation": "Elohim, ibalik mo kami, kag ipabanag ang imo nawong, kag maluwas kami.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "ibalik mo kami"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "kag ipabanag"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang imo nawong"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "kag maluwas kami"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:30.017885209Z",
+  "model": "glm-5.3"
+}

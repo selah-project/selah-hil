@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 118:18",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 118,
+  "translation": "Ginsilot ni Yah ako sing mabug-at, apang wala niya ako ibinotong sa kamatayon.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "ginsilot"
+    },
+    {
+      "surface": "יסרני",
+      "gloss": "ako sing mabug-at"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ni Yah"
+    },
+    {
+      "surface": "ולמות",
+      "gloss": "apang sa kamatayon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "niya ako ibinotong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:45.750762909Z",
+  "model": "glm-5.3"
+}

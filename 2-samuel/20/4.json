@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag nagsiling ang hari kay Amasa: Tigana mo para sa akon ⟨את⟩ ang mga tawo sang Yehudah sa tatlo ka adlaw, kag ikaw, diri magtindog.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "tigana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para sa akon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tawo sang Yehudah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tatlo ka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kag ikaw"
+    },
+    {
+      "surface": "פה",
+      "gloss": "diri"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "magtindog"
+    }
+  ],
+  "timestamp": "2026-09-21T18:22:52.254447096Z",
+  "model": "glm-5.3"
+}

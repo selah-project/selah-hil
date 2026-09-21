@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kag ihawon mo ⟨את⟩ ang karnero, kag kuhaon mo ⟨את⟩ ang iya dugo kag itunok mo sa halaran sa palibot.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "kag ihawon mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karnero"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ang karnero"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "kag kuhaon mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya dugo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "iya dugo"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "kag itunok mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    }
+  ],
+  "timestamp": "2026-09-21T16:34:00.218402482Z",
+  "model": "glm-5.3"
+}

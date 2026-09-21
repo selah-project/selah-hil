@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Tinapay wala kamo ginkaon, kag bino kag makahalay nga ilimnon wala kamo gin-inom, agod makahibal-o kamo nga ako si Yahweh ang inyo Elohim.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "ginkaon ⟨kamo⟩"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "kag bino"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "kag makahalay nga ilimnon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "gin-inom"
+    },
+    {
+      "surface": "למען",
+      "gloss": "agod"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "makahibal-o kamo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ang inyo Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T17:30:46.526138492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 71,
+  "translation": "O Elohim, ginpangtudlo Mo ako sa akon pagkabata, kag tubtub subong ipahayag ko ang Imo ⟨mga⟩ kagila-giladas.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "ginpangtudlo Mo ako"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "sa akon pagkabata"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag tubtub"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "subong"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ipahayag ko"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ang Imo kagila-giladas"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:40.269569478Z",
+  "model": "glm-5.3"
+}

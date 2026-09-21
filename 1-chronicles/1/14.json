@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "kag ⟨את⟩ ang Yevusi kag ⟨את⟩ ang Emori kag ⟨את⟩ ang Girgashi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Yevusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "ang Yevusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ang Emori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Girgashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "ang Girgashi"
+    }
+  ],
+  "timestamp": "2026-09-21T21:49:16.003029373Z",
+  "model": "glm-5.3"
+}

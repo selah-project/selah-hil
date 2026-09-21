@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 52:27",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 52,
+  "translation": "Kag gintama sang hari sang Bavel sila, kag ginpatay niya sila sa Rivlata, sa duta sang Khamat; kag ginpahalia si Yehudah sa iya kaugalingon nga duta.",
+  "tokens": [
+    {
+      "surface": "ויכה",
+      "gloss": "kag gintama"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "sang Bavel"
+    },
+    {
+      "surface": "וימתם",
+      "gloss": "kag ginpatay niya sila"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "sa Rivlata"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "sang Khamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "kag ginpahalia"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "si Yehudah"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "iya kaugalingon nga duta"
+    }
+  ],
+  "timestamp": "2026-09-21T19:40:01.766777640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 135,
+  "translation": "Nagpatyo siya sang madamo nga mga pungsod kag nagpamatay sang mga hari nga gamhanan —",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Nagpatyo siya"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga pungsod"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "madamo"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "kag nagpamatay"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "nga gamhanan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:34.340065947Z",
+  "model": "glm-5.3"
+}

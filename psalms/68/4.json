@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 68,
+  "translation": "Kag ang mga matarong magakalipay, magasadya sa atubangan sang Elohim, kag magakalipay gid sa kalipay.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "Kag ang mga matarong"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "magakalipay"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "magasadya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "kag magakalipay gid"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "sa kalipay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:47.079410684Z",
+  "model": "glm-5.3"
+}

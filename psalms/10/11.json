@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Naghambal ⟨siya⟩ sa iya tagipusuon: Nakalimtan na ni El, gintago Niya ang Iya dagway, indi gid Niya makita sa dayon.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "naghambal"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "sa iya tagipusuon"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "nakalimtan na"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ni El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "gintago Niya"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ang Iya dagway"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indi gid"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "makita"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sa dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T22:38:53.317966823Z",
+  "model": "glm-5.3"
+}

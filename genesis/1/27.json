@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag gintuga sang Elohim ⟨את⟩ sang tawo sa Iya hulagway; sa hulagway sang Elohim gintuga Niya ⟨אתו⟩ siya; lalaki kag babae gintuga Niya ⟨אתם⟩ sila.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "kag gintuga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang tawo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "sa Iya hulagway"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "sa hulagway"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "gintuga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "kag babae"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "gintuga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sila"
+    }
+  ],
+  "timestamp": "2026-09-21T15:55:58.734913877Z",
+  "model": "glm-5.3"
+}

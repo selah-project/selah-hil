@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag gintaga sang pari sa mga pangulo sang isa ka gatos ⟨את⟩ ang bangkaw kag ⟨את⟩ ang mga taming nga kay hari David, nga yara sa balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "kag gintaga"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang pari"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "sa mga pangulo"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "sang isa ka gatos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bangkaw"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "ang bangkaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga taming"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "ang mga taming"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kay hari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga yara"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T18:45:43.167414383Z",
+  "model": "glm-5.3"
+}

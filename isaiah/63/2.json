@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 63,
+  "translation": "Ngaa maluto ang imo bado, kag ang imo mga bado pareho sang nagatimdak sa pangluga sang ubas?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "maluto"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "ang imo bado"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "kag ang imo mga bado"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "pareho sang nagatimdak"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "sa pangluga sang ubas"
+    }
+  ],
+  "timestamp": "2026-09-21T19:11:51.991661752Z",
+  "model": "glm-5.3"
+}

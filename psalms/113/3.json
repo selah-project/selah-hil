@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 113,
+  "translation": "Magkutlo sa pagtun-od sang adlaw tubtob sa iya pag-akat, ginadayaw ang ngalan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "magkutlo sa pagtun-od"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sang adlaw"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob sa"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "iya pag-akat"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "ginadayaw"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:37.540703004Z",
+  "model": "glm-5.3"
+}

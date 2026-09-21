@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Ang matarong nakakilala sang kabuhi sang iya sapat, kag ang kaluoy sang mga dautan mabangis.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "nakakilala"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ang matarong"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kabuhi"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "iya sapat"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "kag ang kaluoy"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga dautan"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "mabangis"
+    }
+  ],
+  "timestamp": "2026-09-21T20:58:25.801816951Z",
+  "model": "glm-5.3"
+}

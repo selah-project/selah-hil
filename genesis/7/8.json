@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Sa mga sapat nga malinis, kag sa mga sapat nga indi malinis, kag sa mga sapat nga nagalupad, kag sa tanan nga nagakamang sa ibabaw sang duta.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Sa"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "mga sapat"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "nga malinis"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "mga sapat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "indi"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "malinis"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "mga sapat nga nagalupad"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "nagakamang"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "duta"
+    }
+  ],
+  "timestamp": "2026-09-21T15:57:17.422017870Z",
+  "model": "glm-5.3"
+}

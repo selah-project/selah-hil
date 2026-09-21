@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 8:3",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag indi naglakat ang iya mga anak sa iya mga dalan, kundi nagpahuyang sila sa pagpangita sang tinubos, kag nagkuha sila sang suhol, kag ginbalibad ang hustisya.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "naglakat"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ang iya mga anak"
+    },
+    {
+      "surface": "בדרכו",
+      "gloss": "sa iya mga dalan"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "kundi nagpahuyang sila"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sa pagpangita"
+    },
+    {
+      "surface": "הבצע",
+      "gloss": "sang tinubos"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "kag nagkuha sila"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "sang suhol"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "kag nagpahuyang"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ang hustisya"
+    }
+  ],
+  "timestamp": "2026-09-21T17:59:02.440565314Z",
+  "model": "glm-5.3"
+}

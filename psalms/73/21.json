@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 73,
+  "translation": "Kay nagkaaslum ang akon tagipusuon, kag ang akon mga kiniray ginatusok.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "nagkaaslum"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ang akon tagipusuon"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "kag ang akon mga kiniray"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "ginatusok"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:49.914877962Z",
+  "model": "glm-5.3"
+}

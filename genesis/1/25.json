@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ginhimo sang Elohim ⟨את⟩ ang sapat sang duta sa iya klase, kag ⟨את⟩ ang mga sapat nga atipan sa iya klase, kag ⟨את⟩ ang tanan nga nagakamang sa adamah sa iya klase; kag nakita sang Elohim nga ⟨galing⟩ maayo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kag ginhimo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang sapat sang duta"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ang sapat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "sa iya klase"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga sapat nga atipan"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ang mga sapat nga atipan"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "sa iya klase"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan nga nagakamang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "nga nagakamang"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "sa adamah"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "sa iya klase"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "kag nakita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    }
+  ],
+  "timestamp": "2026-09-21T15:55:58.734460707Z",
+  "model": "glm-5.3"
+}

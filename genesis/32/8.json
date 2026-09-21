@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Kag nahadlok gid si Yaakov kag nagkalagkot sia, kag ginbahin niya ⟨את⟩ ang mga tawo nga ⟨את⟩ ka iya, kag ⟨את⟩ ang mga karnero, kag ⟨את⟩ ang mga baka, kag ang mga kamelyo, sa duha ka kampo.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "Kag nahadlok"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gid"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "kag nagkalagkot"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sia"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "kag ginbahin niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tawo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ka iya",
+      "marks": "ang mga tawo nga ka iya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga karnero"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ang mga karnero"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga baka"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ang mga baka"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "kag ang mga kamelyo"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "sa duha"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "ka kampo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:10:19.313668638Z",
+  "model": "glm-5.3"
+}

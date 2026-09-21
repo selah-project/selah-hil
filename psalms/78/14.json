@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Kag gin-giya niya sila paagi sa panganod sa adlaw, kag sa bug-os nga gab-i sa kapawa sang kalayo.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "kag gin-giya niya sila"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "paagi sa panganod"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag sa bug-os"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nga gab-i"
+    },
+    {
+      "surface": "באור",
+      "gloss": "sa kapawa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "sang kalayo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:46.963058572Z",
+  "model": "glm-5.3"
+}

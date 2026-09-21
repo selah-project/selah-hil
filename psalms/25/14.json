@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Ang sod ni Yahweh ⟨ara⟩ sa mga nagakalahad sa iya, kag ang iya kasugtanan, sa pagpaathag sa ila.",
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "Ang sod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "sa mga nagakalahad sa iya"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "kag ang iya kasugtanan"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "sa pagpaathag sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:41.085827110Z",
+  "model": "glm-5.3"
+}

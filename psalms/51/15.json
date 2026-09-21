@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 51,
+  "translation": "Pagatudluan ko sang imo mga dalanon ang mga naglapas, kag ang mga manugsala magabalik sa imo.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "pagatudluan ko"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "mga naglapas"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "imo mga dalanon"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "kag mga manugsala"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "magabalik"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:09.419345770Z",
+  "model": "glm-5.3"
+}

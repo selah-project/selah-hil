@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag kon ang kalag magpakasala kag madungog sang tingog sang panumpa, kag siya ⟨isa ka⟩ saksi — ukon nakakita ukon nakakahibalo — kon indi niya ihambal, magadala niya sang iya sala.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "kag ang kalag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "magpakasala"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "kag madungog"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "panumpa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kag siya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "או",
+      "gloss": "ukon"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakakita"
+    },
+    {
+      "surface": "או",
+      "gloss": "ukon"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakakahibalo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ihambal"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "kag magadala"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "sang iya sala"
+    }
+  ],
+  "timestamp": "2026-09-21T16:44:30.220986572Z",
+  "model": "glm-5.3"
+}

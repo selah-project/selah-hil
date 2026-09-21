@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 45,
+  "translation": "Kag nagsiling si Yosef sa iya mga utod: Palapit kamo, palihog, sa akon; kag nagpalapit sila; kag nagsiling siya: Ako si Yosef, ang inyo utod nga ginbaligya ninyo ⟨את⟩ sa akon ⟨toward⟩ Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iya mga utod"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "palapit kamo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "palihog"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "kag nagpalapit sila"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling siya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ang inyo utod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "ginbaligya ninyo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ sa akon",
+      "marks": "ako (ang ginbaligya)"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "sa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:17:23.147307899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 8:20",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Suno sa mga pungsod nga ginapaguwa ni Yahweh sa atubangan ninyo, amo man kamo magakalaglag, tungod kay indi kamo nakighati sa tingog ni Yahweh nga inyo Elohim.",
+  "tokens": [
+    {
+      "surface": "כגוים",
+      "gloss": "suno sa mga pungsod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מאביד",
+      "gloss": "ginapaguwa"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "sa atubangan ninyo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "amo man"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "kamo magakalaglag"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "tungod kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "kamo nakighati"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sa tingog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "nga inyo Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T17:22:15.056194710Z",
+  "model": "glm-5.3"
+}

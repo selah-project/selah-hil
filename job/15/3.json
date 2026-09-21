@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 15:3",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Sa pagpakiglalis sang pamulong nga indi makabulig, kag sang mga pulong nga wala ⟨sang kapuslanan⟩ sa ila?",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "sa pagpakiglalis"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sang pamulong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יסכון",
+      "gloss": "makabulig"
+    },
+    {
+      "surface": "ומלים",
+      "gloss": "kag sang mga pulong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "⟨sang kapuslanan⟩"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T21:10:46.906948541Z",
+  "model": "glm-5.3"
+}

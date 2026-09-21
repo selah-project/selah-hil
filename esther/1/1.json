@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag natabo sa mga adlaw ni Ahashverosh — siya gid ang Ahashverosh nga nagahari tikang sa Hodu tubtob Kush, sa pito kag duha ka pulo kag isa ka gatos ka probinsya —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kag natabo"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "sa mga adlaw"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "ni Ahashverosh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya gid"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "ang Ahashverosh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nga nagahari"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "tikang sa Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "kag duha ka pulo"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "kag isa ka gatos"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "ka probinsya"
+    }
+  ],
+  "timestamp": "2026-09-21T21:29:53.868054544Z",
+  "model": "glm-5.3"
+}

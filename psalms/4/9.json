@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Sa kahusay maghigda ako kag magtulog ako, kay ikaw, Yahweh, bugtosed, sa kasegurohan ginpapuy-an mo ako.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "sa kahusay"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magkaupod"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "maghigda ako"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "kag magtulog ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "bugtosed"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "sa kasegurohan"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "ginpapuy-an mo ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:17.119731526Z",
+  "model": "glm-5.3"
+}

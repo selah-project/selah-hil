@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 90,
+  "translation": "Sa kaagahon nagaburak kag malaksi; sa kagab-ihon gintapak kag nagtalang.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "sa kaagahon"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "nagaburak"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "kag malaksi"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "sa kagab-ihon"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "gintapak"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "kag nagtalang"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:55.429769188Z",
+  "model": "glm-5.3"
+}

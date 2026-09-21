@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "⟨את⟩ tanan nga orev suno sa iya klase;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga orev"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "orev"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "suno sa iya klase"
+    }
+  ],
+  "timestamp": "2026-09-21T22:21:56.521455402Z",
+  "model": "glm-5.3"
+}

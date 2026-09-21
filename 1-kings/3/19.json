@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag namatay ang anak nga lalaki sang babae nga ini sang gab-i, sang naghigda siya sa ibabaw sini.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "kag namatay"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ang anak nga lalaki"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "sang babae"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "sang gab-i"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sang"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "naghigda"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa ibabaw sini"
+    }
+  ],
+  "timestamp": "2026-09-21T18:27:15.371248478Z",
+  "model": "glm-5.3"
+}

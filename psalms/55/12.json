@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 55,
+  "translation": "Mga kalautan ara sa iya tunga, kag ang panikas kag pandaraya indi magahalin sa iya lakan.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "mga kalautan"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "sa iya tunga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "magahalin"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "sa iya lakan"
+    },
+    {
+      "surface": "תך",
+      "gloss": "panikas"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "kag pandaraya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:30.952276987Z",
+  "model": "glm-5.3"
+}

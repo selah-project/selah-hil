@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 13:5",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Gintipon ni David ⟨את⟩ ang tanan nga Yisrael, gikan sa Shihor sang Mitsrayim tubtob sa pagpasulod sang Chamath, sa pagdala ⟨את⟩ sang kahon sang Elohim gikan sa Kiryat-Yearim.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "gintipon"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "שיחור",
+      "gloss": "Shihor"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tubtob sa"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "sa pagpasulod"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "sang Chamath"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "sa pagdala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang kahon sang Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kahon"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "gikan sa Kiryat-"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Yearim"
+    }
+  ],
+  "timestamp": "2026-09-21T21:55:28.437661625Z",
+  "model": "glm-5.3"
+}

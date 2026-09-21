@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 139,
+  "translation": "Sa manugdumala. Isa ka mizmor ni David. Yahweh, ginpangita Mo ako kag nabatid Mo ako.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa manugdumala"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "isa ka mizmor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "ginpangita Mo ako"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "kag nabatid Mo ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:37.719432307Z",
+  "model": "glm-5.3"
+}

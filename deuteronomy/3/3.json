@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ginhatag ni Yahweh nga aton Elohim sa amon ka mga kamot ⟨את⟩ si Og paagi, hari sang Bashan, kag ⟨את⟩ ang tanan niya ka bangod; kag ginlagas namon siya hasta wala na sing gin-abil sa iya bisan isa ka salakyan.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "kag ginhatag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nga aton Elohim"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "sa amon ka mga kamot"
+    },
+    {
+      "surface": "גם",
+      "gloss": "paagi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Og, hari sang Bashan"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "si Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "sang Bashan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan niya ka bangod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "niya ka bangod"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "kag ginlagas namon siya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "wala na sing"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "gin-abil"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "bisan isa ka salakyan"
+    }
+  ],
+  "timestamp": "2026-09-21T17:18:36.048366747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag nagsugo si Yahweh Elohim sa tawo nga nagaingon: Sa tanan nga kahoy sang tanaman, kaon ka magakaon.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "kag nagsugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "sang tanaman"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kaon"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "magakaon"
+    }
+  ],
+  "timestamp": "2026-09-21T15:54:58.578205499Z",
+  "model": "glm-5.3"
+}

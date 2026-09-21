@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 51:32",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 51,
+  "translation": "Kag ang mga maabtan nadakop, kag ⟨את⟩ ang mga latian sinusog sa kalayo, kag ang mga tawo sang gera nahadlok gid.",
+  "tokens": [
+    {
+      "surface": "והמעברות",
+      "gloss": "Kag ang mga maabtan"
+    },
+    {
+      "surface": "נתפשו",
+      "gloss": "nadakop"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga latian"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "ang mga latian"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "sinusog"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "kag ang mga tawo"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "sang gera"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "nahadlok gid"
+    }
+  ],
+  "timestamp": "2026-09-21T19:38:52.965079300Z",
+  "model": "glm-5.3"
+}

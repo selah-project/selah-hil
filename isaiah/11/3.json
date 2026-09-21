@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag magakahamot siya sa pagkahadlok kay Yahweh; kag indi niya ⟨pagahukuman⟩ ang nakita sang iya mga mata, kag indi niya ⟨pagat-ubyan⟩ ang nabatian sang iya mga dalunggan.",
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "kag magakahamot siya"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "sa pagkahadlok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "sa nakita"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "sang iya mga mata"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "⟨pagahukuman⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "sa nabatian"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "sang iya mga dalunggan"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "⟨pagat-ubyan⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T18:56:47.679397436Z",
+  "model": "glm-5.3"
+}

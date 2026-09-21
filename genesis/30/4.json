@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kag gintagan niya siya ⟨את⟩ sang Bilha nga iya sulug-on nga magaasawa, kag naglakat si Yaaqov sa iya.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "kag gintagan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang Bilha"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilha"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "nga iya sulug-on"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "nga magaasawa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kag naglakat"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaaqov"
+    }
+  ],
+  "timestamp": "2026-09-21T16:07:48.529715044Z",
+  "model": "glm-5.3"
+}

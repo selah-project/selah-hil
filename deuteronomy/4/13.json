@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 4:13",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag ginpahibalo niya sa inyo ⟨את⟩ sang iya kasugtanan, nga iya ginsugo ⟨אתכם⟩ sa inyo himuon, ang napulo ka mga pulong; kag iya ginsulat ini sa duha ka lapida sang bato.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "kag ginpahibalo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang iya kasugtanan"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "iya kasugtanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "sa inyo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "himuon"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "napulo ka"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "ויכתבם",
+      "gloss": "kag iya ginsulat ini"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "lapida"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "bato"
+    }
+  ],
+  "timestamp": "2026-09-21T17:19:20.457858432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Nagligkod si Yahweh sang tion sang Dako nga Baha, kag naglingkod si Yahweh nga hari hangtod sa dayon.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "sang tion sang Dako nga Baha"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nagligkod"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kag naglingkod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nga hari"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T22:38:19.422043717Z",
+  "model": "glm-5.3"
+}

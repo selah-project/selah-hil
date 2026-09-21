@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag nagtipon siya sang mga tawo sa iya, kag nangin tagapangulo siya sang isa ka pangkat sang mga manggugubat sang pagapatay ni David ⟨את⟩ sa ila; kag nagkadto sila sa Damask kag nagpuyo sila didto, kag naghari sila sa Damask.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "Kag nagtipon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "sang mga tawo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag nangin"
+    },
+    {
+      "surface": "שר",
+      "gloss": "tagapangulo"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "sang isa ka pangkat sang mga manggugubat"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "sang pagapatay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sa ila"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "kag nagkadto sila"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "sa Damask"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "kag nagpuyo sila"
+    },
+    {
+      "surface": "בה",
+      "gloss": "didto"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "kag naghari sila"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "sa Damask"
+    }
+  ],
+  "timestamp": "2026-09-21T18:32:23.873278431Z",
+  "model": "glm-5.3"
+}

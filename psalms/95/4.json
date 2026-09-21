@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 95,
+  "translation": "Nga sa iya kamot ara ang mga kalalroman sang duta, kag ang mga kaitaasan sang mga bukid iya sa iya.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa iya kamot"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "mga kalalroman"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "kag ang mga kaitaasan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "sang mga bukid"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iya sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:01.446676122Z",
+  "model": "glm-5.3"
+}

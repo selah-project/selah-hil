@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag pahida mo ⟨את⟩ ang halaran sang halad nga sinusunog kag ⟨את⟩ tanan nga iya mga kagamitan, kag pag-abtanga mo ⟨את⟩ ang halaran, kag ang halaran magaabtang sang kabalaan sang mga balaan.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "kag pahida mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang halaran"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ang halaran"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sang halad nga sinusunog"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "nga iya mga kagamitan"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "kag pag-abtanga mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang halaran"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ang halaran"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kag magaabtang"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ang halaran"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "aba­btang"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "sang mga balaan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:41:10.077721379Z",
+  "model": "glm-5.3"
+}

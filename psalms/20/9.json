@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Silaw, nagluhod kag nadunlup; apang kami nagtindog kag nagbarug ⟨nga tumangtang⟩.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "silaw"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "nagluhod"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "kag nadunlup"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "apang kami"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "nagtindog"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "kag nagbarug"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:51.169513683Z",
+  "model": "glm-5.3"
+}

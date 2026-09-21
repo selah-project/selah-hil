@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Sa Manugpanguna, isa ka kanta ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa Manugpanguna"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "kanta"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:52.269211333Z",
+  "model": "glm-5.3"
+}

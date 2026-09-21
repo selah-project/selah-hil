@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 111,
+  "translation": "Ginhimo niya sing handumdam ang iya mga kagilaumaton; mapainubus kag maluluy-on si Yahweh.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "sing handumdam"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ginhimo niya"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "ang iya mga kagilaumaton"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "mapainubus"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "kag maluluy-on"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:20.128340209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 13:14",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag nagpabilin ang aron sang Elohim kaupod sang balay ni Oved-Edom, sa iya balay, tatlo ka bulan; kag ginpakamaayo ni Yahweh ⟨את⟩ ang balay ni Oved-Edom kag ⟨את⟩ tanan nga iya.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "nagpabilin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ang aron"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod sang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ni Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "sa iya balay"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatlo"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ka bulan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ginpakamaayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay ni Oved-Edom"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ni Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga iya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iya"
+    }
+  ],
+  "timestamp": "2026-09-21T21:54:14.923091735Z",
+  "model": "glm-5.3"
+}

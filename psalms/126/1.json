@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 126,
+  "translation": "Kanta sang mga Pag-akyat. Sa pagbalik ni Yahweh ⟨את⟩ ang pagbalik sang Tsiyon, nangin kita kaangay sang mga tawo sa damgo.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kanta"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sang mga Pag-akyat"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Sa pagbalik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pagbalik sang Tsiyon"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "ang pagbalik"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "sang Tsiyon"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "nangin kita"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "kaangay sang mga tawo sa damgo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:56.525990210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "kag magpangasawa kamo ⟨את⟩ namon: ang inyo mga anak nga babae ihatag ninyo sa amon, kag ⟨את⟩ ang amon mga anak nga babae kuhaa ninyo sa inyo.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "magpangasawa kamo"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ namon",
+      "marks": "ino nga mga anak nga babae"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "ino nga mga anak nga babae"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ihatag ninyo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "amon nga mga anak nga babae"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "amon mga anak nga babae"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "kuhaa ninyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:10:53.284798265Z",
+  "model": "glm-5.3"
+}

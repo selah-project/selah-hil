@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 77,
+  "translation": "Gintubos mo sang imo brasu ang imo katawohan, ang mga anak nga lalaki ni Yaakov kag ni Yosef. Selah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "gintubos mo"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "sang imo brasu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ang imo katawohan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak nga lalaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "kag ni Yosef"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:17.963799211Z",
+  "model": "glm-5.3"
+}

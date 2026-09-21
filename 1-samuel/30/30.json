@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "kag sa ⟨mga tawo⟩ sa Khormah, kag sa ⟨mga tawo⟩ sa Bor-Ashan, kag sa ⟨mga tawo⟩ sa Atakh",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "kag sa ⟨mga tawo⟩"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "sa Khormah"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "kag sa ⟨mga tawo⟩"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "sa Bor-"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashan"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "kag sa ⟨mga tawo⟩"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "sa Atakh"
+    }
+  ],
+  "timestamp": "2026-09-21T18:09:56.583941796Z",
+  "model": "glm-5.3"
+}

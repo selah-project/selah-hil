@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag kay Lot man, ang nagakadto kaupod ⟨את⟩ kay Avraham, may ara mga karnero kag mga baka kag mga tolda.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kag kay … man"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "kay Lot"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ang nagakadto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "kay Avraham"
+    },
+    {
+      "surface": "היה",
+      "gloss": "may ara"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mga karnero"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "kag mga baka"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "kag mga tolda"
+    }
+  ],
+  "timestamp": "2026-09-21T16:00:20.574565146Z",
+  "model": "glm-5.3"
+}

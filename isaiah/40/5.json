@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag mabuy-an dayon ang himaya ni Yahweh, kag makita ini sang tanan nga unod magkahiusa, kay ang baba ni Yahweh amo ang naghambal.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "kag mabuy-an dayon"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ang himaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "kag makita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nga unod"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magkahiusa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ang baba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "naghambal"
+    }
+  ],
+  "timestamp": "2026-09-21T19:05:49.031319778Z",
+  "model": "glm-5.3"
+}

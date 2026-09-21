@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kilala ni Yahweh ang mga adlaw sang mga tin-aw, kag ang ila manunana magapabilin ⟨sa⟩ dayon.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "Kilala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ang mga adlaw"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "sang mga tin-aw"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "kag ang ila manunana"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "magapabilin"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:00.994794088Z",
+  "model": "glm-5.3"
+}

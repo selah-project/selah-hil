@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 25:1",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Ini man nga mga mashal ni Shelomoh, nga ginkuha sang mga tawo ni Hizkiyah, hari sang Yehudah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ini nga mga"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "mashal"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "ginkuha"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "sang mga tawo"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "ni Hizkiyah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-21T21:03:00.984647120Z",
+  "model": "glm-5.3"
+}

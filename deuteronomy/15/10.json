@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 15:10",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Magahatag ka gid sa iya, kag indi magabug-at ang imo tagipusuon sa imo paghatag sa iya, kay tungod sini nga butang pagabendisyonan ka ni Yahweh nga Elohim mo sa tanan mo nga ginahimo kag sa tanan sing gintimo sang imo kamot.",
+  "tokens": [
+    {
+      "surface": "נתון",
+      "gloss": "Magahatag ka gid"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "ירע",
+      "gloss": "magabug-at"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "imo tagipusuon"
+    },
+    {
+      "surface": "בתתך",
+      "gloss": "sa imo paghatag"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay tungod"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "sini"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "nga butang"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "pagabendisyonan ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga Elohim mo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "מעשך",
+      "gloss": "mo nga ginahimo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "kag sa tanan"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "sing gintimo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "imo kamot"
+    }
+  ],
+  "timestamp": "2026-09-21T17:24:10.164573696Z",
+  "model": "glm-5.3"
+}

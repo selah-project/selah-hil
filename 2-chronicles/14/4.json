@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag ginkuha niya sa tanan nga mga dakbanwa sang Yehudah ⟨את⟩ ang mga kataasan kag ⟨את⟩ ang mga larawan sang adlaw, kag nagpahuway ang gingharian sa iya atubang.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "ginkuha"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga dakbanwa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga kataasan"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ang mga kataasan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "mga larawan sang adlaw"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "ang mga larawan sang adlaw"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "kag nagpahuway"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ang gingharian"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa iya atubang"
+    }
+  ],
+  "timestamp": "2026-09-21T22:05:32.457296905Z",
+  "model": "glm-5.3"
+}

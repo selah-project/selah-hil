@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 104,
+  "translation": "Gintukod niya ang duta sa iya mga kinaagahan, indi ini magakilog sa ginkailhanan kag padayon.",
+  "tokens": [
+    {
+      "surface": "יסד",
+      "gloss": " gintukod"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מכוניה",
+      "gloss": "iya mga kinaagahan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "magakilog"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sa ginkailhanan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag padayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:33.165788472Z",
+  "model": "glm-5.3"
+}

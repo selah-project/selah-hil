@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag ginsakop ni David ⟨את⟩ ang kuta sang Tsiyon — amo ini ang dakbanwa ni David.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Kag ginsakop"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kuta sang Tsiyon"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "ang kuta"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "sang Tsiyon"
+    },
+    {
+      "surface": "היא",
+      "gloss": "amo ini"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ang dakbanwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-21T18:15:11.348957649Z",
+  "model": "glm-5.3"
+}

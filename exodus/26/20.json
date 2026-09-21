@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Kag para sa ikaduha nga kilid sang Mishkan, sa bahin sang amihan, duha ka pulo ka tablong.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "kag para sa ikaduha nga kilid"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "sang Mishkan"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ang ikaduha"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "sa bahin sang"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "amihan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duha ka pulo ka"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "tablong"
+    }
+  ],
+  "timestamp": "2026-09-21T16:32:54.027876512Z",
+  "model": "glm-5.3"
+}

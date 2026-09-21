@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 94,
+  "translation": "Ang nagatudlo sang mga pungsod, indi bala sia magat-ang? Ang nagatudlo sang tawo sang ihibalo, indi bala?",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "ang nagatudlo (sa pagpakitid)"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "sang mga pungsod"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "indi bala"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "magat-ang"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "ang nagatudlo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "sang ihibalo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:11.549274971Z",
+  "model": "glm-5.3"
+}

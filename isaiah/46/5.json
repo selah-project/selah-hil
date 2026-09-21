@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 46,
+  "translation": "Kang sin-o kamo magapareho sa akon, kag pagpahamtong ⟨sa akon⟩, kag magatudlong sa akon, agod magparehos kita?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "kang sin-o"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "kamo magapareho sa akon"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "kag pagpahamtong"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "kag magatudlong sa akon"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "agod magparehos kita"
+    }
+  ],
+  "timestamp": "2026-09-21T19:08:28.542054198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Magabalik ang mga malaot sa Sheol — tanan nga mga pungsod, ang mga nakalimtahan sang Elohim.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Magabalik"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ang mga malaot"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "sa Sheol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nga mga pungsod"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "ang mga nakalimtahan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:50.358930220Z",
+  "model": "glm-5.3"
+}

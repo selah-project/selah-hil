@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 43:10",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 43,
+  "translation": "Kamo ang akon mga saksi, nagaingad si Yahweh, kag ang akon sulugoon nga akon ginpili, agod makahibalo kamo kag magtuo sa akon kag masabtan nga ako ina; sa wala pa <sa> akon wala sing El nga gintukod, kag tapos sa akon wala sing magakaigo.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ang akon mga saksi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nagaingad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "kag ang akon sulugoon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "akon ginpili"
+    },
+    {
+      "surface": "למען",
+      "gloss": "agod"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "makahibalo kamo"
+    },
+    {
+      "surface": "ותאמינו",
+      "gloss": "kag magtuo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "ותבינו",
+      "gloss": "kag masabtan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ina"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa wala pa <sa> akon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נוצר",
+      "gloss": "gintukod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "kag tapos sa akon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sing magakaigo"
+    }
+  ],
+  "timestamp": "2026-09-21T22:31:47.530466406Z",
+  "model": "glm-5.3"
+}

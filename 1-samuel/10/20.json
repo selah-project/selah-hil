@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag ginpaiduol ni Shemuel ⟨את⟩ tanan nga mga tribo sang Yisrel, kag nakuha ang tribo ni Binyamin.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "kag ginpaiduol"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga tribo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "mga tribo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrel"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "kag nakuha"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ang tribo"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ni Binyamin"
+    }
+  ],
+  "timestamp": "2026-09-21T18:01:40.576251613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "sa pagdesinyo sang mga desinyo, sa paghimo sa bulawan, kag sa pilak, kag sa tumbaga.",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "sa pagdesinyo"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "sang mga desinyo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa paghimo"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "sa bulawan"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "kag sa pilak"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "kag sa tumbaga"
+    }
+  ],
+  "timestamp": "2026-09-21T16:34:07.915469675Z",
+  "model": "glm-5.3"
+}

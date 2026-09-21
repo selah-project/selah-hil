@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Kag ⟨את⟩ ang Negev, kag ⟨את⟩ ang kapatagan, ang walang sang Yericho, ang siyudad sang mga dadag, tubtob sa Tsoar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Negev"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ang Negev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang kapatagan"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "ang kapatagan"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "ang walang"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "sang Yericho"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ang siyudad"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "sang mga dadag"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob sa"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-09-21T17:33:30.846775471Z",
+  "model": "glm-5.3"
+}

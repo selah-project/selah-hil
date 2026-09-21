@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Sa mga latagon sang luntiang balili ginapahigda niya ako; sa mga tubig sang pahuway ginadala niya ako.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "sa mga latagon"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "luntiang balili"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "ginapahigda niya ako"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mga tubig"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "sang pahuway"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "ginadala niya ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:13.064800185Z",
+  "model": "glm-5.3"
+}

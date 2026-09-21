@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag ang kabudlayan indi pagtahuron sa iya pagtiltig-uong.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "Kag ang kabudlayan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "pagtahuron"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "sa iya pagtiltig-uong"
+    }
+  ],
+  "timestamp": "2026-09-21T16:30:46.286226779Z",
+  "model": "glm-5.3"
+}

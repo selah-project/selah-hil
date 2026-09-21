@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag magakaon ka kag mabuskog ⟨ka⟩, kag magapadala ka sang pagpakig-ani ⟨את⟩ kay Yahweh nga imo Elohim tungod sa maayo nga duta nga iya gintuga sa imo.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "Kag magakaon ka"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "kag mabuskog ⟨ka⟩"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "kag magapadala ka sang pagpakig-ani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "imo Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gintuga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T22:24:05.458725920Z",
+  "model": "glm-5.3"
+}

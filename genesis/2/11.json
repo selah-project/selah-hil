@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Ang ngalan sang nahauna amo ang Pishon; ini amo ang nagalibot sang ⟨את⟩ tanan nga duta sang Havilah, diin didto ang bulawan.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "ang ngalan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "sang nahauna"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "amo ang Pishon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ini amo"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "ang nagalibot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga duta sang Havilah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nga duta"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "sang Havilah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ang bulawan"
+    }
+  ],
+  "timestamp": "2026-09-21T15:54:42.859557195Z",
+  "model": "glm-5.3"
+}

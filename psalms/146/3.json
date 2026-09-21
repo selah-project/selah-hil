@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 146,
+  "translation": "Indi kamo magbutang sang pagtoo sa mga prinsipe, ni sa anak sang tawo, nga wala sia sing kaligtasan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "kamo magbutang sang pagtoo"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "sa mga prinsipe"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "ni sa anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "nga wala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sia"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "sing kaligtasan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:24.272451318Z",
+  "model": "glm-5.3"
+}

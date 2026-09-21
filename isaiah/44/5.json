@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 44:5",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Ina ⟨ang isa⟩ magahambal, Kay Yahweh ⟨ako⟩, kag ina matawag sa ngalan sang Yaakov, kag ina magasulat sang iya kamot kay Yahweh, kag sa ngalan sang Yisrael magatawag siya ⟨sing dugang nga ngalan⟩.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ina"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "magahambal"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "kag ina"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "matawag"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa ngalan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "sang Yaakov"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "kag ina"
+    },
+    {
+      "surface": "יכתב",
+      "gloss": "magasulat"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sang iya kamot"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "kag sa ngalan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "יכנה",
+      "gloss": "magatawag siya sing dugang nga ngalan"
+    }
+  ],
+  "timestamp": "2026-09-21T19:07:11.080749671Z",
+  "model": "glm-5.3"
+}

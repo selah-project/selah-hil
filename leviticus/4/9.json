@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 4:9",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag ⟨את⟩ ang duha ka mga bato kag ⟨את⟩ ang taba nga ara sa ila, nga ara sa mga hawak, kag ⟨את⟩ ang yotra sa ibabaw sang atay, sa mga bato kuhaon niya ini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang duha ka mga bato"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duha"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang taba"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "mga hawak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang yotra"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "yotra"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "atay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "kuhaon niya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:42:51.936254406Z",
+  "model": "glm-5.3"
+}

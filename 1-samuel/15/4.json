@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 15:4",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Kag gintawag ni Shaul ⟨את⟩ ang mga tawo kag ginihap niya sila sa Telaim: duha ka gatos ka libo ka mga soudado sa tiil, kag napulo ka libo ⟨את⟩ ka mga lalaki sang Yehudah.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Kag gintawag"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tawo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "kag ginihap niya sila"
+    },
+    {
+      "surface": "בטלאים",
+      "gloss": "sa Telaim"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "duha ka gatos"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ka libo"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ka mga soudado sa tiil"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "kag napulo"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ka libo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ka mga lalaki sang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mga lalaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-21T18:04:50.122803885Z",
+  "model": "glm-5.3"
+}

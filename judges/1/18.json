@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ginkuha ni Yehudah ⟨את⟩ ang Aza kag ⟨את⟩ ang iya utlanan, kag ⟨את⟩ ang Ashkelon kag ⟨את⟩ ang iya utlanan, kag ⟨את⟩ ang Ekron kag ⟨את⟩ ang iya utlanan.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "ginkuha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Aza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "ang Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya utlanan"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "ang iya utlanan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Ashkelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "ang Ashkelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya utlanan"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "ang iya utlanan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Ekron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "ang Ekron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya utlanan"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "ang iya utlanan"
+    }
+  ],
+  "timestamp": "2026-09-21T17:46:21.187808163Z",
+  "model": "glm-5.3"
+}

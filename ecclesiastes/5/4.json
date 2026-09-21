@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Maayo ang indi ka magapanumpa kaysa sa magapanumpa ka nga indi magatuman.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Maayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "ka magapanumpa"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "kaysa sa magapanumpa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "magatuman"
+    }
+  ],
+  "timestamp": "2026-09-21T21:26:20.444501278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 90,
+  "translation": "Kay ang isa ka libo ka tuig sa imo mga mata pareho lang sang adlaw nga kagahapon, kon mag-agi, kag pareho sang isa ka bantay sa gab-i.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "isa ka libo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "sa imo mga mata"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "pareho sang adlaw"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "nga kagahapon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "mag-agi"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "kag sang isa ka bantay"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "sa gab-i"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:01.480270140Z",
+  "model": "glm-5.3"
+}

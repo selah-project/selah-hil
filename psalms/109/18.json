@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 109,
+  "translation": "Ginsul-ob niya ang pagdaot nga pareho sang iya bado, kag ini nakasulod pareho sang tubig sa iya sulud kag pareho sang lana sa iya mga tul-an.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "Ginsul-ob niya"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "ang pagdaot"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "nga pareho sang iya bado"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "kag ini nakasulod"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "pareho sang tubig"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "sa iya sulud"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "kag pareho sang lana"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "sa iya mga tul-an"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:03.783693505Z",
+  "model": "glm-5.3"
+}

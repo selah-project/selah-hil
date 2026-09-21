@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 102,
+  "translation": "Sa pagtipon sang mga pungsod magkahiusa, kag sang mga ginharian, sa pag-alagad ⟨את⟩ kang Yahweh",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "sa pagtipon"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mga pungsod"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magkahiusa"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "kag sang mga ginharian"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "sa pag-alagad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:42.167989325Z",
+  "model": "glm-5.3"
+}

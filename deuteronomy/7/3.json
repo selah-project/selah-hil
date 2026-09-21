@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "kag indi ka magpangasawa sa ila: ang imo anak nga babae indi mo ihatag sa iya anak nga lalaki, kag ang iya anak nga babae indi mo kuhaon para sa imo anak nga lalaki.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "ka magpangasawa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "ang imo anak nga babae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "mo ihatag"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "sa iya anak nga lalaki"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "kag ang iya anak nga babae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "mo kuhaon"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "para sa imo anak nga lalaki"
+    }
+  ],
+  "timestamp": "2026-09-21T17:20:36.782387649Z",
+  "model": "glm-5.3"
+}

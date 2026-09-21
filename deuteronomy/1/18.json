@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag gintugyan ko ⟨את⟩ kamo sa tion nga sadto ⟨את⟩ ang tanan nga mga butang nga inyo himoon.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "Kag gintugyan ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "sa tion"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nga sadto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga mga butang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "nga mga butang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "inyo himoon"
+    }
+  ],
+  "timestamp": "2026-09-21T17:18:39.264248290Z",
+  "model": "glm-5.3"
+}

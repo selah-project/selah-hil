@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 45,
+  "translation": "Kalag-an sa naghambal sa amay: Ano ang imo ginpatawo? kag sa babae: Ano ang imo ginasabak?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Kalag-an"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sa naghambal"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "sa amay"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ano"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "ginpatawo mo"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "kag sa babae"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ano"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "ginasabak mo"
+    }
+  ],
+  "timestamp": "2026-09-21T19:07:56.670013669Z",
+  "model": "glm-5.3"
+}

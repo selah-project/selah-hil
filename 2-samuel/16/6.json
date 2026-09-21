@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag nagabato sia sing mga bato ⟨את⟩ kay David kag ⟨את⟩ sang tanan nga mga sulugoon sang hari nga si David; kag ang tanan nga mga tawo kag ang tanan nga mga kusganon ⟨ara⟩ sa iya too kag sa iya wala.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "kag nagabato"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "sing mga bato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang tanan nga mga sulugoon sang hari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "nga mga sulugoon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "nga si David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nga mga tawo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "nga mga kusganon"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "sa iya too"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "kag sa iya wala"
+    }
+  ],
+  "timestamp": "2026-09-21T18:20:11.726693121Z",
+  "model": "glm-5.3"
+}

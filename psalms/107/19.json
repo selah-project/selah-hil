@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 107,
+  "translation": "Dayon nanginuyagoy sila kay Yahweh sa ila kalisod, kag sa ila mga kagul-anan ginluwas niya sila.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Dayon nanginuyagoy sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "sa ila kalisod"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ila"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "sa ila mga kagul-anan"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "ginluwas niya sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:00.913588882Z",
+  "model": "glm-5.3"
+}

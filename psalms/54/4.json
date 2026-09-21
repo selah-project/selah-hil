@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 54,
+  "translation": "Elohim, patii ang akon pangamuyo; ipadingga ang mga pulong sang akon baba.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "patii"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ang akon pangamuyo"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ipadingga"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ang mga pulong"
+    },
+    {
+      "surface": "פי",
+      "gloss": "sang akon baba"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:32.098186740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 85,
+  "translation": "Ang hesed kag ang kamatuoran nagtagbo; ang pagkamatarong kag ang kappahusan naghalok sang usag usa.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "kag ang kamatuoran"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "nagtagbo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ang pagkamatarong"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "kag ang kappahusan"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "naghalok sang usag usa"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:59.857945197Z",
+  "model": "glm-5.3"
+}

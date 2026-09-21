@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Kag ikaw magasugo ⟨את⟩ sa mga anak nga lalaki sang Yisrael, kag magadala sila sa imo sang lana sang olibo, hinlas, ginpisa, para sa suga, sa pagpatungas sing ilaw nga padayon.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kag ikaw"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "magasugo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga anak nga lalaki sang Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "kag magadala sila"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "sang lana"
+    },
+    {
+      "surface": "זית",
+      "gloss": "sang olibo"
+    },
+    {
+      "surface": "זך",
+      "gloss": "hinlas"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "ginpisa"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "para sa suga"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "sa pagpatungas"
+    },
+    {
+      "surface": "נר",
+      "gloss": "sing ilaw"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nga padayon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:32:39.259656823Z",
+  "model": "glm-5.3"
+}

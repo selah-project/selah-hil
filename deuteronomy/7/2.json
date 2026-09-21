@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 7:2",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "kag ihatag ni Yahweh nga Elohim mo sila sa imo atubangan, kag latigoon mo sila: laglagon mo sila nga laglag ⟨אתם⟩; indi ka maggakos sang kasugtanan sa ila kag indi ka magmaloy sa ila.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "kag ihatag niya sila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga Elohim mo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa imo atubangan"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "kag latigoon mo sila"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "nga laglag"
+    },
+    {
+      "surface": "תחרים",
+      "gloss": "laglagon mo sila"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "ka maggakos"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sing kasugtanan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תחנם",
+      "gloss": "ka magmaloy sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T17:20:36.782153592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 10:4",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag natakilala sila sing labi ka labi, kag nagsiling sila: Yari kadi, ang duha ka hari wala nakatindog sa iya atubang — kag paano bala kami makatindog?",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "kag natakilala sila"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ka labi"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "kag nagsiling sila"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yari kadi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ang mga hari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "nakatindog"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa iya atubang"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "kag paano bala"
+    },
+    {
+      "surface": "נעמד",
+      "gloss": "makatindog"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    }
+  ],
+  "timestamp": "2026-09-21T18:43:23.283745079Z",
+  "model": "glm-5.3"
+}

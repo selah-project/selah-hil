@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 8:11",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Gani indi na makatindog ang mga pari sa pag-alagad tungod sang panganod, kay nagpun-o ang himaya ni Yahweh ⟨את⟩ sang balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "gani indi"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "makatindog"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ang mga pari"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "sa pagtindog"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "sa pag-alagad"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tungod sang"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "panganod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "nagpun-o"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ang himaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang balay ni Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T18:30:47.502703171Z",
+  "model": "glm-5.3"
+}

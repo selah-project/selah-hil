@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 84,
+  "translation": "Sa manugdumala, sa Gittith, sa mga anak ni Korach, isa ka mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa manugdumala"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gittith"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ni Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:00.106711124Z",
+  "model": "glm-5.3"
+}

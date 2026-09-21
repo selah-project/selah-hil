@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag ginpuyang ni Yehoshua ⟨את⟩ si Amalek kag ⟨את⟩ ang iya katawohan paagi sa ngipihap sang espada.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "ginpuyang"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "si Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya katawohan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ang iya katawohan"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sa ngipihap"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sang espada"
+    }
+  ],
+  "timestamp": "2026-09-21T16:27:14.943500296Z",
+  "model": "glm-5.3"
+}

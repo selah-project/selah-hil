@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 74,
+  "translation": "Ikaw ang nagsira sang dagat paagi sa imo gahum; ginpamutak mo ang mga ulo sang mga taninin sa ibabaw sang mga tubig.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "nagsira"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "paagi sa imo gahum"
+    },
+    {
+      "surface": "ים",
+      "gloss": "sang dagat"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "ginpamutak mo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mga ulo"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "mga taninin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sang mga tubig"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:32.038398311Z",
+  "model": "glm-5.3"
+}

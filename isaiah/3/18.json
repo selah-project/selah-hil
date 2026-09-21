@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Sa ina nga adlaw kukuhaon ni Adonay ⟨את⟩ ang katahum sang mga alahas sa tikod, kag ang mga banda sa ulo, kag ang mga porma sang bag-ong bulan.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ina"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "kukuhaon"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katahum sang mga alahas sa tikod"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "katahum"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "mga alahas sa tikod"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "kag ang mga banda sa ulo"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "kag ang mga porma sang bag-ong bulan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:53:22.909468950Z",
+  "model": "glm-5.3"
+}

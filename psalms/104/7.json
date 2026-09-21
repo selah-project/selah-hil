@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 104,
+  "translation": "Tungod sang imo pagbadya nagpalagi sila; tungod sang tingog sang imo dagundong nagdali sila magpalagi.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "tungod sang"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "imo pagbadya"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "nagpalagi sila"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tungod sang"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "imo dagundong"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "nagdali sila magpalagi"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:33.166133516Z",
+  "model": "glm-5.3"
+}

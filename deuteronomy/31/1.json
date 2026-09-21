@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kag nagkadto si Moshe kag naghambal ⟨את⟩ ang mga pulong nga ini sa tanan nga Yisrael.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kag nagkadto"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "kag naghambal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pulong"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ang mga pulong"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T17:33:27.114059851Z",
+  "model": "glm-5.3"
+}

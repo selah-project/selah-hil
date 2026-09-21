@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag gintipon liwat ni David ⟨את⟩ ang tanan nga mga pinili sa Yisrael, tatlo ka pulo ka libo.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "kag gintipon"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "liwat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga mga pinili sa Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "mga pinili"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tatlo ka pulo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ka libo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:16:34.050917441Z",
+  "model": "glm-5.3"
+}

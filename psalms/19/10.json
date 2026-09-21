@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Ang kahadlok kay Yahweh malinis, nagatindog sa dayon; ang mga mishpat sang Yahweh kamatuoran, nagakatuluod sila tanan.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "ang kahadlok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "malinis"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "nagatindog"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ang mga mishpat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sang Yahweh"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kamatuoran"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "nagakatuluod"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "sila tanan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:50.347002952Z",
+  "model": "glm-5.3"
+}

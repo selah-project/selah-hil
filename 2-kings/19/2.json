@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 19:2",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag ginpadala niya ⟨את⟩ si Eliyakim nga ⟨ang⟩ nagaatipan sang balay, kag si Shevnah ang manunulat, kag ⟨את⟩ ang mga gulang sang mga sacerdote, nga natabon sang mga sackcloth, kay Yeshayahu ang manalagna, anak ni Amots.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kag ginpadala niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Eliyakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "si Eliyakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "nagaatipan sang"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "kag si Shevnah"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ang manunulat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga gulang sang mga sacerdote"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ang mga gulang"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sang mga sacerdote"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "nga natabon"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "sang mga sackcloth"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ang manalagna"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "ni Amots"
+    }
+  ],
+  "timestamp": "2026-09-21T22:30:17.773148502Z",
+  "model": "glm-5.3"
+}

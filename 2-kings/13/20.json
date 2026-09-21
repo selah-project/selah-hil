@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag nangamatay si Elisha kag ginlubong siya. Kag ang mga guropo sang Moab nagsulod sa duta sa pag-abot sang tuig.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Kag nangamatay"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "si Elisha"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "kag ginlubong siya"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "Kag ang mga guropo"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "sang Moab"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "nagsulod"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "בא",
+      "gloss": "sa pag-abot"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sang tuig"
+    }
+  ],
+  "timestamp": "2026-09-21T18:46:08.000460847Z",
+  "model": "glm-5.3"
+}

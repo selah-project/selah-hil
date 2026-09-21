@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "⟨את⟩ ang lamesa kag ⟨את⟩ iya mga baras kag ⟨את⟩ iya tanan nga mga kagamitan kag ⟨את⟩ ang tinapay sang atubangan",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lamesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ang lamesa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga baras"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "iya mga baras"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya tanan nga mga kagamitan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "iya mga kagamitan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tinapay sang atubangan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ang tinapay"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "sang atubangan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:36:29.596856427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Ligid-a palayo sa akon ⟨ang⟩ kaulaw kag ⟨ang⟩ kadal-utan, kay imo ⟨mga⟩ pagsaksi gintipigan ko.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Ligid-a palayo"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "kaulaw"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "kag kadal-utan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "imo mga pagsaksi"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "gintipigan ko"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:36.638334165Z",
+  "model": "glm-5.3"
+}

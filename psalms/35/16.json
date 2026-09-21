@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 35:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Sang mga tampalasan, mga nagatawa-tawa sa mga kaonon, nagtigisan sa akon ang ila mga ngipon.",
+  "tokens": [
+    {
+      "surface": "בחנפי",
+      "gloss": "sang mga tampalasan"
+    },
+    {
+      "surface": "לעגי",
+      "gloss": "mga nagatawa-tawa"
+    },
+    {
+      "surface": "מעוג",
+      "gloss": "sa mga kaonon"
+    },
+    {
+      "surface": "חרק",
+      "gloss": "nagtigisan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "ang ila mga ngipon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:40.552095298Z",
+  "model": "glm-5.3"
+}

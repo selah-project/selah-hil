@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 38:5",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 38,
+  "translation": "Sin-o ang nagbutang sang iya ⟨mga⟩ sukna, kay ikaw ⟨kahibalo⟩? Ukon sin-o ang naglatoy sang pisi sa ibabaw sini?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nagbutang"
+    },
+    {
+      "surface": "ממדיה",
+      "gloss": "iya mga sukna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ikaw kahibalo"
+    },
+    {
+      "surface": "או",
+      "gloss": "ukon"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "naglatoy"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sa ibabaw sini"
+    },
+    {
+      "surface": "קו",
+      "gloss": "pisi"
+    }
+  ],
+  "timestamp": "2026-09-21T21:17:16.478083114Z",
+  "model": "glm-5.3"
+}

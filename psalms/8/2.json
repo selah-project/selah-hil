@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Yahweh, Adonay namon, ano ka dako sang imo Ngalan sa tanan ⟨nga⟩ duta, nga nagahatag sang imo himaya sa taas sang mga langit.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonay namon"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano ka"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "dako"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sang imo Ngalan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "nagahatag"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "sang imo himaya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa taas sang"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mga langit"
+    }
+  ],
+  "timestamp": "2026-09-21T22:38:45.921301246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 17:13",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag nagkuha siya sang binhi sang paghari, kag naggama ⟨את⟩ sa iya sang kasugtanan, kag gindala niya ⟨את⟩ siya sa sumpa, kag ⟨את⟩ ang mga gamhanan sang duta ginkuha niya.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kag nagkuha"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "sang binhi"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "sang paghari"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "kag naggama"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sa iya",
+      "marks": "kasugtanan"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sang kasugtanan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kag gindala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "sa sumpa"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "sa sumpa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "mga gamhanan"
+    },
+    {
+      "surface": "אילי",
+      "gloss": "ang mga gamhanan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ginkuha"
+    }
+  ],
+  "timestamp": "2026-09-21T19:47:35.907547427Z",
+  "model": "glm-5.3"
+}

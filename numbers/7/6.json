@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Ginkuha ni Moshe ⟨את⟩ ang mga karison kag ⟨את⟩ ang mga baka, kag gintanyag niya sila sa mga Levita.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ginkuha ni Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga karison"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "ang mga karison"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga baka"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ang mga baka"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kag gintanyag niya"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "mga Levita"
+    }
+  ],
+  "timestamp": "2026-09-21T17:00:34.411090506Z",
+  "model": "glm-5.3"
+}

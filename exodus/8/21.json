@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag gintawag si Paro kay Moshe kag kay Aharon, kag naghambal: Lakat kamo, maghalad kamo sa inyo Elohim sa duta.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "kag gintawag"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "si Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "kag kay Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag naghambal"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "lakat kamo"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "maghalad kamo"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "sa inyo Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    }
+  ],
+  "timestamp": "2026-09-21T16:23:29.825784727Z",
+  "model": "glm-5.3"
+}

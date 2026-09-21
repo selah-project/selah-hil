@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 11:9",
+  "book": "zechariah",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag nagsiling ako, Indi ako ⟨את⟩ inyo pagapakaon; ang mamatay, mamatay; kag ang magakadula, kadula; kag ang mga mabilin magakaon, ang tagsa ⟨את⟩ sang unod sang iya kaupod.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "kag nagsiling ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "pagapakaon"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "המתה",
+      "gloss": "ang mamatay"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "mamatay"
+    },
+    {
+      "surface": "והנכחדת",
+      "gloss": "kag ang magakadula"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "kadula"
+    },
+    {
+      "surface": "והנשארות",
+      "gloss": "kag ang mga mabilin"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "magakaon"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ang tagsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang unod"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "sang unod"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "sang iya kaupod"
+    }
+  ],
+  "timestamp": "2026-09-21T20:20:41.178363413Z",
+  "model": "glm-5.3"
+}

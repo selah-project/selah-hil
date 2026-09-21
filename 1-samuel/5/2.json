@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag ginkuha sang mga Pelishteo ⟨את⟩ ang kahon sang Elohim kag gindala nila ⟨את⟩ ini sa balay ni Dagon, kag gintindog nila ⟨את⟩ ini sa kilid ni Dagon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "kag ginkuha"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sang mga Pelishteo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kahon"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kahon"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "kag gindala nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ini (ang kahon)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "ni Dagon"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "kag gintindog nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ini (ang kahon)"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "sa kilid"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "ni Dagon"
+    }
+  ],
+  "timestamp": "2026-09-21T18:00:19.422091467Z",
+  "model": "glm-5.3"
+}

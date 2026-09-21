@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 15:9",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Kag sa ikaduha ka pulo nga tuig ni Yarovam, hari sang Yisrael, naghari si Asa nga hari sang Yehudah.",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "kag sa … nga tuig"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ikaduha ka pulo"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "ni Yarovam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "si Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-21T18:34:29.797092755Z",
+  "model": "glm-5.3"
+}

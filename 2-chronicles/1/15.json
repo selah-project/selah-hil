@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag gintana sang hari ⟨את⟩ ang pilak kag ⟨את⟩ ang bulawan sa Yerushalayim nga pareho sang mga bato, kag ⟨את⟩ ang mga sedro gintana niya nga pareho sang mga sikomoro nga yara sa kapatagan, sa kadaku.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "kag gintana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pilak"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ang pilak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang bulawan"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ang bulawan"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "nga pareho sang mga bato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga sedro"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "ang mga sedro"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gintana"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "nga pareho sang mga sikomoro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "sa kapatagan"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "sa kadaku"
+    }
+  ],
+  "timestamp": "2026-09-21T22:00:02.586047882Z",
+  "model": "glm-5.3"
+}

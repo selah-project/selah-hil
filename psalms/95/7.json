@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 95,
+  "translation": "Kay siya ang aton Elohim, kag kita ang iya katawhan sang iya sabsaban kag ang mga karnero sang iya kamot. Subong nga adlaw, kon sa iya tingog kamo mamati",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ang aton Elohim"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "kag kita"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "sang iya sabsaban"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "kag ang mga karnero"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sang iya kamot"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Subong nga adlaw"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "sa iya tingog"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "kamo mamati"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:15.304530962Z",
+  "model": "glm-5.3"
+}

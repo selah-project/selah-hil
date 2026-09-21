@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 101,
+  "translation": "Sang David, isa ka mizmor. Ang hesed kag ang paghukum ipakanta ko ⟨sa imo⟩, Yahweh; magatugtog ako.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "sang David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "kag paghukum"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ipakanta ko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "magatugtog ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:16.533460466Z",
+  "model": "glm-5.3"
+}

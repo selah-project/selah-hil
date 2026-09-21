@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag ang kamot man ni Yahweh ara sa ila sa paglaglag sa ila gikan sa tunga sang kampo, tubod natapos sila tanan.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kag man"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ang kamot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ara ⟨ang⟩"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "sa paglaglag sa ila"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "gikan sa tunga"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "sang kampo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubod"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "natapos sila tanan"
+    }
+  ],
+  "timestamp": "2026-09-21T17:17:09.768625758Z",
+  "model": "glm-5.3"
+}

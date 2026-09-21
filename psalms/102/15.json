@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 102,
+  "translation": "Kay nahamutan ang imo mga alagad ⟨את⟩ sang iya mga bato, kag ⟨את⟩ sang iya abog ginatahod nila.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "nahamutan"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "imo mga alagad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang iya mga bato"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "iya mga bato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang iya abog"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "iya abog"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "ginatahod nila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:15.956978012Z",
+  "model": "glm-5.3"
+}

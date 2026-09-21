@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 17:3",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag ang mga Pelishti nagtindog sa bukid sa ini nga bahin, kag si Yisrael nagtindog sa bukid sa ina nga bahin, kag ang wagi sa ila tunga.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "kag ang mga Pelishti"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "nagtindog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "sa ini nga bahin"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "kag si Yisrael"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "nagtindog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "sa ina nga bahin"
+    },
+    {
+      "surface": "והגיא",
+      "gloss": "kag ang wagi"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "sa ila tunga"
+    }
+  ],
+  "timestamp": "2026-09-21T18:05:10.581213778Z",
+  "model": "glm-5.3"
+}

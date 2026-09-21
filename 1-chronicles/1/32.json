@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 1:32",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ang mga anak ni Ketura, pinggan ni Avraham: natawo niya ⟨את⟩ si Zimran kag Yokshan kag Medan kag Midyan kag Yishbak kag Shuakh; kag ang mga anak ni Yokshan: Sheva kag Dedan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "kag ang mga anak"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "ni Ketura"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "pinggan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "natawo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "si Zimran"
+    },
+    {
+      "surface": "ויקשן",
+      "gloss": "kag Yokshan"
+    },
+    {
+      "surface": "ומדן",
+      "gloss": "kag Medan"
+    },
+    {
+      "surface": "ומדין",
+      "gloss": "kag Midyan"
+    },
+    {
+      "surface": "וישבק",
+      "gloss": "kag Yishbak"
+    },
+    {
+      "surface": "ושוח",
+      "gloss": "kag Shuakh"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "kag ang mga anak"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "ni Yokshan"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "kag Dedan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:49:05.588967191Z",
+  "model": "glm-5.3"
+}

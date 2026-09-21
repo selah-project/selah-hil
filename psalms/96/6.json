@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 96,
+  "translation": "Kadungganan kag kahalayan ⟨ang⟩ sa iya atubangan; kusog kag kaanyag ⟨ang⟩ sa iya santuaryo.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "kadungganan"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "kag kahalayan"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa iya atubangan"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kusog"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "kag kaanyag"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "sa iya santuaryo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:46.759576220Z",
+  "model": "glm-5.3"
+}

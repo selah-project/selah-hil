@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 91,
+  "translation": "Sa iya balahibo iya itatahub sa imo, kag sa ilalom sang iya mga pako ka makadangop; taming kag madya ⟨ang⟩ iya pagkamatuod.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "sa iya balahibo"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "iya itatahub"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "kag sa ilalom"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "sang iya mga pako"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "ka makadangop"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "taming"
+    },
+    {
+      "surface": "ו סחרה",
+      "gloss": "kag madya"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "iya pagkamatuod"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:22.248644672Z",
+  "model": "glm-5.3"
+}

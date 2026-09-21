@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 63,
+  "translation": "Gani, idayaw ko ikaw sa tanan ko nga kabuhi; sa imo nga Ngalan itindog ko ang akon mga palad.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "gani"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "idayaw ko ikaw"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "sa tanan ko nga kabuhi"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "sa imo nga Ngalan"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "itindog ko"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ang akon mga palad"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:40.839879663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag si David nagalabyan na kag busa sa mga adlaw, kag ginpaghari niya ⟨את⟩ si Shelomoh nga iya anak sa ibabaw sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "kag si David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "nagalabyan na"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "kag busa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "sa mga adlaw"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ginpaghari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "kay Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nga iya anak"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T21:58:02.564438376Z",
+  "model": "glm-5.3"
+}

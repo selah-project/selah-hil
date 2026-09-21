@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Kag sa nahauna nga bulan, sa ika-napulo kag apat nga adlaw sang bulan, amo ang Pesach kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "kag sa bulan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ang nahauna"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "sa ika-apat kag"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nga adlaw"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sang bulan"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "amo ang Pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T17:13:05.488136630Z",
+  "model": "glm-5.3"
+}

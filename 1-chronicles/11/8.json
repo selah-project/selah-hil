@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag gintukod niya ang ciudad sa palibot, halin sa Milo tubtob sa palibot sini; kag si Yoav nagabuh-i ⟨את⟩ sang salin sang ciudad.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "kag gintukod"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "niya ang ciudad"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "מן",
+      "gloss": "halin sa"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tubtob sa"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "palibot sini"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "kag si Yoav"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "nagabuh-i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang salin sang ciudad"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "sang salin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sang ciudad"
+    }
+  ],
+  "timestamp": "2026-09-21T21:52:51.058543220Z",
+  "model": "glm-5.3"
+}

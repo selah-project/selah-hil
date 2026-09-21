@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag ⟨את⟩ ang nabiling bahin sang mga tawo ginpasadid-an niya sa kamot ni Avishai, iya utod, kag gintuna ini aron pag-atubang sa mga anak nga lalaki sang Amon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang nabiling bahin sang mga tawo"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ang nabiling bahin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sang mga tawo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ginpasadid-an"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "ni Avishai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iya utod"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "kag gintuna"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "aron pag-atubang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "sang Amon"
+    }
+  ],
+  "timestamp": "2026-09-21T18:17:09.126456821Z",
+  "model": "glm-5.3"
+}

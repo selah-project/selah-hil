@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kon makit-an gid ang ginakaw sa iya kamot — halin sa baka hasta sa buriko, ukon karnero nga buhi — duha ka pilo ang iya ibayad.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "makit-an gid"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "makit-an"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa iya kamot"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "ang ginakaw"
+    },
+    {
+      "surface": "משור",
+      "gloss": "halin sa baka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "sa buriko"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ukon"
+    },
+    {
+      "surface": "שה",
+      "gloss": "karnero"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "buhi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duha ka pilo"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ibayad niya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:30:57.548057980Z",
+  "model": "glm-5.3"
+}

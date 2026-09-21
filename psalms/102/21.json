@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 102:21",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 102,
+  "translation": "Sa pagdungog sang singgit sang bilanggo, sa pagbukas sang mga anak sang kamatayon nga nagalapas sa ila",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "sa pagdungog"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "singgit"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "bilanggo"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "sa pagbukas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "kamatayon nga nagalapas sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:42.167592804Z",
+  "model": "glm-5.3"
+}

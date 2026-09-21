@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Ang saserdote nga naghalaad ⟨את⟩ niana sang sala magakaon sini; sa balaan nga duog magakaon sini, sa korte sang tolda sang pagtig-om.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "Ang saserdote"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "nga naghalaad sang sala"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "niana (ang halad sang sala)"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "magakaon sini"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sa duog"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "magakaon"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "sa korte"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sang tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang pagtig-om"
+    }
+  ],
+  "timestamp": "2026-09-21T16:43:07.112769363Z",
+  "model": "glm-5.3"
+}

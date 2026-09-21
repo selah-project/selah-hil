@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ginkuha naton sa sadto nga tion ⟨את⟩ ang duta gikan sa kamot sang duha ka hari sang mga Emori, nga sa tabok sang Yarden, gikan sa sapa sang Arnon hasta sa bukid sang Chermon.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "kag ginkuha naton"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "sa sadto"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nga tion"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gikan sa kamot"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ka hari"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "sang mga Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "sa tabok"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sang Yarden"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "gikan sa sapa"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermon"
+    }
+  ],
+  "timestamp": "2026-09-21T17:17:44.354345207Z",
+  "model": "glm-5.3"
+}

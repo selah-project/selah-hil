@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Si Yahweh ⟨ang⟩ hari sang ginharian kag dayon; nagkalaglag ang mga pungsod sa iya duta.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sang ginharian"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag dayon"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "nagkalaglag"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ang mga pungsod"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "sa iya duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:41.266784242Z",
+  "model": "glm-5.3"
+}

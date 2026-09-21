@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Madamo na sa inyo ang paglibot sa ⟨את⟩ ini nga bukid; magtungdo kamo sa inyo padto sa amihan.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Madamo na"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "סב",
+      "gloss": "ang paglibot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ini nga bukid"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ini nga bukid"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "magtungdo kamo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "padto sa amihan"
+    }
+  ],
+  "timestamp": "2026-09-21T17:17:20.658020450Z",
+  "model": "glm-5.3"
+}

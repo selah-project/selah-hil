@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Kag mabatbat ko ang nagaakus sa akon sang isa ka pulong, kay nagdasig ako sa imo nga pulong.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "kag mabatbat ko"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "ang nagaakus sa akon"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sang isa ka pulong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nagdasig ako"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "sa imo nga pulong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:12.766400235Z",
+  "model": "glm-5.3"
+}

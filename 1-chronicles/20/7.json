@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag gintuya niya ⟨את⟩ ang Yisrael, kag gintama siya ni Yehonatan, anak ni Shimea, utod ni David.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "kag gintuya niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "kag gintama siya"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ni Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "ni Shimea"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "utod"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-21T21:56:30.027126806Z",
+  "model": "glm-5.3"
+}

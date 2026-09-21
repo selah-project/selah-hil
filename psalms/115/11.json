@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 115,
+  "translation": "Mga nagakaikog kay Yahweh, magbuti kamo kay Yahweh; siya ang ila katabang kag ang ila panangga.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Mga nagakaikog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "magbuti kamo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "ang ila katabang"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "kag ang ila panangga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:42.232412934Z",
+  "model": "glm-5.3"
+}

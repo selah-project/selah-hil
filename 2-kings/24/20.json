@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 24:20",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kay tungod sa kaakig ni Yahweh natabo ina sa Yerushalayim kag sa Yehudah, tubtob nga gintabog niya ⟨אתם⟩ sila sa iya atubangan; kag nagrebelde si Tsidkiyahu sa hari sang Bavel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kaakig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "natabo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "וביהודה",
+      "gloss": "kag sa Yehudah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "השלכו",
+      "gloss": "gintabog niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sila (Yerushalayim kag Yehudah)"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "iya atubangan"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "kag nagrebelde"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "si Tsidkiyahu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "sang Bavel"
+    }
+  ],
+  "timestamp": "2026-09-21T18:51:12.609957343Z",
+  "model": "glm-5.3"
+}

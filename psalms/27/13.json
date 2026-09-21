@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 27:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Kon wala ako nagtuo nga makita ko ang kaayo ni Yahweh sa duta sang mga buhi!",
+  "tokens": [
+    {
+      "surface": "לולא",
+      "gloss": "kon wala"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "nagtuo ako"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "nga makita ko"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ang kaayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sang mga buhi"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:16.109654786Z",
+  "model": "glm-5.3"
+}

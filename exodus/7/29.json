@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 7:29",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag sa imo, kag sa imo ⟨mga⟩ katawhan, kag sa tanan mo nga ⟨mga⟩ sulugon magasaka ang ⟨mga⟩ baki.",
+  "tokens": [
+    {
+      "surface": "ובכה",
+      "gloss": "kag sa imo"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "kag sa imo mga katawhan"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "kag sa tanan"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "mo nga mga sulugon"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "magasaka"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "ang mga baki"
+    }
+  ],
+  "timestamp": "2026-09-21T16:22:25.135545788Z",
+  "model": "glm-5.3"
+}

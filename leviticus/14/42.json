@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "kag kuhaon nila ang iban nga mga bato kag dad-on ⟨sa⟩ idalom sang mga bato, kag iban nga bayo kuhaon niya kag taksan niya ⟨את⟩ ang balay",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "kag kuhaon nila"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "iban"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "kag dad-on"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "idalom"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "sang mga bato"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "kag bayo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "iban"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "kuhaon niya"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "kag taksan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang balay"
+    }
+  ],
+  "timestamp": "2026-09-21T16:48:13.604897077Z",
+  "model": "glm-5.3"
+}

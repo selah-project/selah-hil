@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag si Khever natawo-an ⟨את⟩ si Yaflet kag ⟨את⟩ si Shomer kag ⟨את⟩ si Khotam kag ⟨את⟩ si Shua, ang ila igsoon nga babaye.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "kag si Khever"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yaflet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "si Yaflet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Shomer"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "si Shomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Khotam"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "si Khotam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Shua"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "si Shua"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "ang ila igsoon nga babaye"
+    }
+  ],
+  "timestamp": "2026-09-21T21:52:18.646591490Z",
+  "model": "glm-5.3"
+}

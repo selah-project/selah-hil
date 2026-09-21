@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag nangkuha sila ⟨את⟩ ang abok sang pugon kag nagtindog sa atubang ni Paro, kag ginwisik ni Moshe ⟨אתו⟩ padulong sa langit, kag nagkabuhi nga mga bugas nga may mga bolso nga nagabuto sa tawo kag sa sapat.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "kag nangkuha sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang abok sang pugon"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "abok"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "sang pugon"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "kag nagtindog"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "kag ginwisik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ini (ang abok)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "padulong sa langit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag nagkabuhi nga"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "mga bugas"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "nga may mga bolso"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "nga nagabuto"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "kag sa sapat"
+    }
+  ],
+  "timestamp": "2026-09-21T16:23:03.168050285Z",
+  "model": "glm-5.3"
+}

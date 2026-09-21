@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 6:42",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag sa mga anak ni Aharon ginhatag nila ⟨את⟩ ang mga siyudad sang pagpanikas ⟨את⟩ ang Chevron, kag ⟨את⟩ ang Libnah kag ⟨את⟩ ang iya mga kapatagan, kag ⟨את⟩ ang Yattir kag ⟨את⟩ ang Eshtemoa kag ⟨את⟩ ang iya mga kapatagan.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "kag sa mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ginhatag nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga siyudad"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga siyudad"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "sang pagpanikas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Chevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Libnah"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libnah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya mga kapatagan"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "iya mga kapatagan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Yattir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yattir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Eshtemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya mga kapatagan"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "iya mga kapatagan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:51:34.897584259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nagpanaghoy si David sang ⟨את⟩ hini nga panaghoy sa ibabaw kay Shaul kag sa ibabaw kay Yehonatan nga iya anak",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "kag nagpanaghoy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hini nga panaghoy"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "hini nga panaghoy"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hini"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kay Shaul"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa ibabaw"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "kay Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nga iya anak"
+    }
+  ],
+  "timestamp": "2026-09-21T18:12:28.234616417Z",
+  "model": "glm-5.3"
+}

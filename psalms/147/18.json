@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 147,
+  "translation": "Nagapadala siya sang iya pulong kag gintunaw niya sila; ginapahunok niya ang iya hangin, kag ang mga tubig nagasulog.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Nagapadala siya"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sang iya pulong"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "kag gintunaw niya sila"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ginapahunok niya"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ang iya hangin"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "nagasulog"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ang mga tubig"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:22.773082957Z",
+  "model": "glm-5.3"
+}

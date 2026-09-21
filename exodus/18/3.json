@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag ⟨את⟩ ang iya duha ka mga anak, nga ang ngalan sang nahauna amo Gershom, kay nagsiling siya, Dayo ako sa duta nga lain.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya duha ka mga anak"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ka mga anak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "angan ngalan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "sang nahauna"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "amo Gershom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nagsiling siya"
+    },
+    {
+      "surface": "גר",
+      "gloss": "Dayo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "nga lain"
+    }
+  ],
+  "timestamp": "2026-09-21T16:28:54.885754632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kay ituko mo sila nga ⟨abaga⟩, sa imo mga pisi sang pana magatukod ka batok sa ila mga ⟨pangpang⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "ituko mo sila"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "abaga"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "sa imo mga pisi sang pana"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "magatukod ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ila mga pangpang"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:54.519769128Z",
+  "model": "glm-5.3"
+}

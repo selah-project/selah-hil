@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Pasigarahi ikaw sang iban, kag indi sang imo baba; sang taga-lain, kag indi sang imo mga bibig.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "pasigarahi ikaw"
+    },
+    {
+      "surface": "זר",
+      "gloss": "sang iban"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "sang imo baba"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "sang taga-lain"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "sang imo mga bibig"
+    }
+  ],
+  "timestamp": "2026-09-21T21:04:18.884689391Z",
+  "model": "glm-5.3"
+}

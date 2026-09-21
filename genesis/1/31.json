@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nakita ni Elohim ⟨את⟩ ang tanan nga iya ginhimo, kag yari, maayo sing labi; kag nangyari ang kabugtason kag nangyari ang aga — ang ikan-om nga adlaw.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "kag nakita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga iya ginhimo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "iya ginhimo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kag yari"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sing labi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag nangyari ang"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kabugtason"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag nangyari ang"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "aga"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ikan-om nga"
+    }
+  ],
+  "timestamp": "2026-09-21T15:55:27.741576331Z",
+  "model": "glm-5.3"
+}

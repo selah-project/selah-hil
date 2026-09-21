@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 67,
+  "translation": "Agud makilala sa duta ang imo dalan, sa tanan nga mga pungsod ang imo pagluwas.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "agud makilala"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ang imo dalan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga pungsod"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "ang imo pagluwas"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:18.155211049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kag namatay ang hari, kag nagkadto sa Shomeron, kag ginlubong nila ⟨את⟩ ang hari sa Shomeron.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Kag namatay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "kag nagkadto"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "sa Shomeron"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "kag ginlubong nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "sa Shomeron"
+    }
+  ],
+  "timestamp": "2026-09-21T18:38:44.547521836Z",
+  "model": "glm-5.3"
+}

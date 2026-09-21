@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Lingdi ang imo dagway sa akon kag kaloy-i ako, kay bugtong kag maabtan ako sang kapisanan.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Lingdi ang imo dagway"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "kag kaloy-i ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "bugtong"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "kag maabtan sang kapisanan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:41.086545486Z",
+  "model": "glm-5.3"
+}

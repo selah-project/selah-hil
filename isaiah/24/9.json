@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Sa pag-antar sang kanta wala na sila ⟨maka⟩inom sang bino; nagmapait ang makahalumhan nga ilimnon sa mga nagainom sini.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "sa pag-antar sang kanta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala na"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "maka-inom"
+    },
+    {
+      "surface": "יין",
+      "gloss": "bino"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "nagmapait"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "makahalumhan nga ilimnon"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "sa mga nagainom sini"
+    }
+  ],
+  "timestamp": "2026-09-21T18:59:43.744654603Z",
+  "model": "glm-5.3"
+}

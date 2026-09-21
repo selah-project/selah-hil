@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 38:21",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 38,
+  "translation": "Ini ang mga ginbilang sang balay-balayan, ang balay-balayan sang pagsaksi, nga ginbilang suno sa ⟨ginsiling⟩ ni Moshe, buluhaton sang mga Levita, sa kamot ni Itamar, anak ni Aharon ang pari.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "mga ginbilang"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "sang balay-balayan"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "balay-balayan"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "sang pagsaksi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ginbilang"
+    },
+    {
+      "surface": "על",
+      "gloss": "suno sa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "⟨ginsiling⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "buluhaton"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "sang mga Levita"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "ni Itamar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang pari"
+    }
+  ],
+  "timestamp": "2026-09-21T16:39:00.463367281Z",
+  "model": "glm-5.3"
+}

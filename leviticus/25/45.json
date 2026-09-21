@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 25:45",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag manami sa mga anak sang mga pumuluyo nga nagaestar uban ninyo — sa ila kamo makabakal — kag sa ila mga banay nga uban ninyo, nga mga anak nga linawigan nila sa inyo duta; kag sila magapabilin nga inyo nga ipanag-iya.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kag manami"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "התושבים",
+      "gloss": "sang mga pumuluyo"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "nga nagaestar"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "uban ninyo"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "תקנו",
+      "gloss": "kamo makabakal"
+    },
+    {
+      "surface": "וממשפחתם",
+      "gloss": "kag sa ila mga banay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "uban ninyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "linawigan nila"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "sa inyo duta"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kag magapabilin sila"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nga inyo"
+    },
+    {
+      "surface": "לאחזה",
+      "gloss": "ipanag-iya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:55:48.823278008Z",
+  "model": "glm-5.3"
+}

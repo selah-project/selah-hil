@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag natawo ni Adah ⟨את⟩ si Yaval; siya amo ang amay sang mga nagaestar sa payag kag sang mga may mga hayop.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yaval"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Yaval"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "היה",
+      "gloss": "amo ang"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "amay"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nagaestar"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sa payag"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "kag mga hayop"
+    }
+  ],
+  "timestamp": "2026-09-21T15:55:18.541466421Z",
+  "model": "glm-5.3"
+}

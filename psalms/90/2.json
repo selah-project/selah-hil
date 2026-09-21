@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 90,
+  "translation": "Sa wala pa matawo ang mga bukid, kag sa wala pa imo ginpanganak ang duta kag ang kalibutan — gikan sa kahangturan tubtob sa kahangturan, ikaw amo ang El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "sa wala pa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ang mga bukid"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "matawo"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "kag imo ginpanganak"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "kag ang kalibutan"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "gikan sa kahangturan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sa kahangturan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amo ang El"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:01.479977691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 82,
+  "translation": "Ako nagsiling: Elohim kamo, kag mga anak ni Elyon tanan kamo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nagsiling"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "kag mga anak"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ni Elyon"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "tanan kamo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:46.896568437Z",
+  "model": "glm-5.3"
+}

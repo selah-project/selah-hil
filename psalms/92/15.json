@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 92,
+  "translation": "Magapataba pa gid sila sa katigulangan, mamaskog kag magauptaw ⟨sila⟩.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "pa gid"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "magapataba"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "sa katigulangan"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "mamaskog"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "magauptaw"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "⟨sila⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:33.440857226Z",
+  "model": "glm-5.3"
+}

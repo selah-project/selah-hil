@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Kay nagsiling ako: Sa dayon ang hesed magatindog; sa mga langit imo mapatindog ang imo pagkamatinud-anon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nagsiling ako"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ang hesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "magatindog"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sa mga langit"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "imo mapatindog"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ang imo pagkamatinud-anon"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "⟨sa ila⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:28.564970036Z",
+  "model": "glm-5.3"
+}

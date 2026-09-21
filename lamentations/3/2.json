@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "⟨את⟩ ako ginpanggiya kag ginpakadto niya sa kaduduluman, kag wala ⟨sa⟩ kahayag.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ako",
+      "marks": "ako"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "ginpanggiya"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kag ginpakadto"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sa kaduduluman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "אור",
+      "gloss": "kahayag"
+    }
+  ],
+  "timestamp": "2026-09-21T21:23:07.758221779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Nakita ko ⟨את⟩ ang pagpangabudlay nga ginhatag sang Elohim sa mga anak sang tawo aron pagabudlayan sini.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Nakita ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pagpangabudlay"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "ang pagpangabudlay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ginhatag"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "aron pagabudlayan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sini"
+    }
+  ],
+  "timestamp": "2026-09-21T21:25:26.933012097Z",
+  "model": "glm-5.3"
+}

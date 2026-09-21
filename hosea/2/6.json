@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag ⟨את⟩ iya mga anak indi kaluoyan ko, kay mga anak sang kahalay sila.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga anak"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "iya mga anak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "kaluoyan ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "sang kahalay"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:03:53.262022320Z",
+  "model": "glm-5.3"
+}

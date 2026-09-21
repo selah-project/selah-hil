@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag nagmalaot ini kay Yonah sing isa ka dako nga kalaot, kag nagdungot siya.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "nagmalaot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kalaot"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "dako"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "nagdungot"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:12:22.479204369Z",
+  "model": "glm-5.3"
+}

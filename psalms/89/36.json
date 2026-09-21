@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Isa ka beses nagpanumpa ako sa akon kabalaan — ⟨kon⟩ indi ako magbakak kay David.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "isa ka beses"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "nagpanumpa ako"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "sa akon kabalaan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨kon⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "magbakak"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:36.007036151Z",
+  "model": "glm-5.3"
+}

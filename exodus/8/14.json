@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ginhimo sang mga harotom ang sama paagi sa ila mga lati sa pagguwa ⟨את⟩ sang mga kinim, apang indi nila makaya; kag nangin ang mga kinim sa tawo kag sa mga sapat.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Kag ginhimo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ang sama paagi"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "sang mga harotom"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "sa ila mga lati"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "sa pagguwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang mga kinim"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "sang mga kinim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apang indi"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "nila makaya"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "kag nangin"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "ang mga kinim"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "kag sa mga sapat"
+    }
+  ],
+  "timestamp": "2026-09-21T16:23:43.496773527Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag nagpatumba si Avram sa iya nawong, kag naghambal si Elohim ⟨את⟩ sa iya, nga nagaingon:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "kag nagpatumba"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "si Avram"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "iya nawong"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "kag naghambal"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sa iya",
+      "marks": "sa iya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:02:10.629299196Z",
+  "model": "glm-5.3"
+}

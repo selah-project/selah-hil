@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Kag nagsiling si Yosef sa ila: Amo ina ang akon ginhambal sa inyo, nga nagsiling: Mga maninilip kamo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nagsiling"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "amo ina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "akon ginhambal"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagsiling"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "mga maninilip"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:15:28.668870401Z",
+  "model": "glm-5.3"
+}

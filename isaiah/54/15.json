@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 54,
+  "translation": "Tan-awa, magatipon gid sila, apang indi ⟨sang akon⟩; sin-o bala ang magatipon sangdang ⟨את⟩? Kontra sa imo siya matumba.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "גור",
+      "gloss": "magatipon"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "gid sila magatipon"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "apang indi"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨מאת⟩",
+      "marks": "mga magatipon"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ang magatipon"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "sangdang ⟨את⟩"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kontra sa imo"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "siya matumba"
+    }
+  ],
+  "timestamp": "2026-09-21T19:09:44.273339688Z",
+  "model": "glm-5.3"
+}

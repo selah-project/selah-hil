@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 36:40",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Kag ini ang mga ngalan sang mga pangulo ni Esav suno sa ila mga pamilya, sa ila mga lugar, sa ila mga ngalan: pangulo Timna, pangulo Alvah, pangulo Yetet.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "kag ini"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ang mga ngalan"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "sang mga pangulo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ni Esav"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "suno sa ila mga pamilya"
+    },
+    {
+      "surface": "למקמתם",
+      "gloss": "sa ila mga lugar"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "sa ila mga ngalan"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "pangulo"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Timna"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "pangulo"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "Alvah"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "pangulo"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "Yetet"
+    }
+  ],
+  "timestamp": "2026-09-21T16:10:33.263558252Z",
+  "model": "glm-5.3"
+}

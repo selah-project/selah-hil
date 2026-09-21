@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Ipadiyaw ko ikaw, Yahweh, kay ginhataas mo ako, kag wala mo pagpahamtang nga magakalipay ang akon mga kaaway sa akon.",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "Ipadiyaw ko ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "ginhataas mo ako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "mo pagpahamtang"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mga kaaway"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:10.060876841Z",
+  "model": "glm-5.3"
+}

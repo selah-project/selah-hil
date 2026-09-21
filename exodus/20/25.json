@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag kon maghimo ka sa akon sang halaran sang bato, indi mo ini patindugon sang ⟨את⟩ pinutol nga bato, kay ang imong sundang gintuyang mo sa ibabaw sini kag ginparaut mo ini.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "sang bato"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "maghimo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "patindugon"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "pinutol nga bato"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "pinutol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "imong sundang"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "gintuyang"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sa ibabaw sini"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "kag ginparaut"
+    }
+  ],
+  "timestamp": "2026-09-21T16:29:30.590307949Z",
+  "model": "glm-5.3"
+}

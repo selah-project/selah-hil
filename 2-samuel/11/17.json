@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 11:17",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag naggwa ang mga lalaki sang duta kag nakig-away kay ⟨את⟩ Yoav, kag natumba sa katawhan, sa mga sulugoon ni David, kag namatay man si Uriya ang Hiti.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "naggwa"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ang mga lalaki"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "kag nakig-away"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "si Yoav"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "kag natumba"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "sa mga sulugoon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kag namatay"
+    },
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "si Uriya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ang Hiti"
+    }
+  ],
+  "timestamp": "2026-09-21T18:17:51.642828004Z",
+  "model": "glm-5.3"
+}

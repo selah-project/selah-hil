@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ginhimo ni Yahweh suno sa pulong ni Moshe; kag namatay ang mga baki gikan sa mga balay, gikan sa mga nataran, kag gikan sa mga uma.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kag ginhimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "suno sa pulong"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "kag namatay"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "ang mga baki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "sa mga balay"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "sa mga nataran"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "kag gikan"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "sa mga uma"
+    }
+  ],
+  "timestamp": "2026-09-21T16:23:05.131355838Z",
+  "model": "glm-5.3"
+}

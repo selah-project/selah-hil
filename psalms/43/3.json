@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 43,
+  "translation": "Ipadala ang imo suga kag ang imo kamatuoran; sila ang magatuyong sa akon, magadala sa akon sa imo balaan nga bukid kag sa imo mga Mishkan.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Ipadala"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ang imo suga"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "kag ang imo kamatuoran"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "ang magatuyong sa akon"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "magadala sa akon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "imo balaan nga"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "imo mga Mishkan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:11.748986700Z",
+  "model": "glm-5.3"
+}

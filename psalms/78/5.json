@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Kay ginpatindog niya ang isa ka pagsaksi kay Yaakov, kag ginbutang ang Torah sa Yisrael, nga iya ginsogo ⟨את⟩ sang amon mga amay, agod ipahibalo ini sa ila mga anak.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ginpatindog"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "pagsaksi"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "kay Yaakov"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "kag Torah"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ginbutang"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsogo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga amay namon"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "mga amay namon"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "agod ipahibalo"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "sa ila mga anak"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:10.743287448Z",
+  "model": "glm-5.3"
+}

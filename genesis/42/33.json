@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 42:33",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Kag nagsiling sa amon ang tawo, ang agalon sang duta: Pinaagi sini makakilala ako nga kamo matinud-anon; ang isa ka utod ninyo bilin ninyo sa akon ⟨את⟩, kag ⟨את⟩ ang kagutkom sang inyo mga balay kuhaa ninyo kag lakat.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ang agalon"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "pinaagi sini"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "makakilala ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "matinud-anon"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "utod ninyo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "bilin ninyo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ sa akon",
+      "marks": "sa akon (ang gibilinan nga utod)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang kagutkom"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "ang kagutkom"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "sang inyo mga balay"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "kuhaa ninyo"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "kag lakat"
+    }
+  ],
+  "timestamp": "2026-09-21T16:15:55.089947479Z",
+  "model": "glm-5.3"
+}

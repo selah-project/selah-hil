@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 5:7",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag ⟨את⟩ ang ila mga anak ginpatindug ⟨niya⟩ sa ila katpostahan; sila gintuli ni Yehoshua, kay di-tuli sila ⟨nangin⟩, kay wala nila gintuli ⟨את⟩ ⟨אותם⟩ sa dalan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang ila mga anak"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ang ila mga anak"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "ginpatindug"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "sa ila katpostahan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "מל",
+      "gloss": "gintuli"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "di-tuli"
+    },
+    {
+      "surface": "היו",
+      "gloss": "sila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "gintuli"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    }
+  ],
+  "timestamp": "2026-09-21T17:36:22.793801923Z",
+  "model": "glm-5.3"
+}

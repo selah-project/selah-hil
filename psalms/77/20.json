@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 77,
+  "translation": "Sa dagat ang imo dalan, kag ang imo mga agianan sa madamo nga tubig; kag ang imo mga tikang indi ⟨become⟩ kilala.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ang imo dalan"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "kag ang imo mga agianan"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "madamo nga tubig"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "kag ang imo mga tikang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "kilala"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:17.225690042Z",
+  "model": "glm-5.3"
+}

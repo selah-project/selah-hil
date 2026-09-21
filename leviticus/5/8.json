@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag magadala niya ⟨את⟩ sila sa saserdote, kag iya ihalad ⟨את⟩ ang isa para sa hatod sang sala nahauna, kag ibali niya ⟨את⟩ ang ulo niya sa atubangan sang iya liog, kag indi niya pagbuligon.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "kag magadala niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang mga pichon)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "saserdote"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "kag iya ihalad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang isa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "para sa hatod sang sala"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "nahauna"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "kag ibali niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ulo niya"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ulo niya"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "iya liog"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "pagbuligon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:44:37.041379346Z",
+  "model": "glm-5.3"
+}

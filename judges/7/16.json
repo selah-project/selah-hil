@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 7:16",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag ginbahin niya ⟨את⟩ ang tatlo ka gatos ka tawo sa tatlo ka grupo, kag gintugyan niya ang mga shofar sa kamot sang tanan nila, kag mga banga nga wala sing sulod, kag mga sulo sa sulod sang mga banga.",
+  "tokens": [
+    {
+      "surface": "ויחץ",
+      "gloss": "kag ginbahin niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tatlo ka gatos ka tawo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tatlo ka"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "gatos"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ka tawo"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatlo ka"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "grupo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kag gintugyan niya"
+    },
+    {
+      "surface": "שופרות",
+      "gloss": "ang mga shofar"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sang tanan nila"
+    },
+    {
+      "surface": "וכדים",
+      "gloss": "kag mga banga"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "nga wala sing sulod"
+    },
+    {
+      "surface": "ולפדים",
+      "gloss": "kag mga sulo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa sulod"
+    },
+    {
+      "surface": "הכדים",
+      "gloss": "sang mga banga"
+    }
+  ],
+  "timestamp": "2026-09-21T17:50:28.907049286Z",
+  "model": "glm-5.3"
+}

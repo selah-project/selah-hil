@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 44:20",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Kag ang ila mga ulo indi nila pagagulison, kag ang nagpala-ag nga buhok indi nila pagapabay-an; kaputlan gid nila ⟨את⟩ ang ila mga ulo.",
+  "tokens": [
+    {
+      "surface": "וראשם",
+      "gloss": "Kag ang ila mga ulo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "nila pagagulison"
+    },
+    {
+      "surface": "ופרע",
+      "gloss": "kag ang nagpala-ag nga buhok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "nila pagapabay-an"
+    },
+    {
+      "surface": "כסום",
+      "gloss": "sa pagputol"
+    },
+    {
+      "surface": "יכסמו",
+      "gloss": "gid nila putlon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ila mga ulo"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "ang ila mga ulo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:02:21.921178835Z",
+  "model": "glm-5.3"
+}

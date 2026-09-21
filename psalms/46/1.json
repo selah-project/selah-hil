@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 46,
+  "translation": "Sa nangunguna; sang mga anak ni Korach; tungod sa Alamoth; usa ka awit.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa nangunguna"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sang mga anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Alamoth"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "awit"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:06.184380110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 140,
+  "translation": "Ginpukiran nila ang ila dila subong sang bitin; kamatyan sang ulod nga makahilo ara sa idalom sang ila mga ngabil. Selah.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "ginpukiran nila"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ang ila dila"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "bitin"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "kamatyan"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "ulod nga makahilo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa idalom sang"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "ila mga ngabil"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:43.987934995Z",
+  "model": "glm-5.3"
+}

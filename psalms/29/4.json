@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Ang tingog ni Yahweh ⟨may⟩ kusog; ang tingog ni Yahweh ⟨may⟩ kadungganan.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Ang tingog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "⟨may⟩ kusog"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "⟨may⟩ kadungganan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:53.234443542Z",
+  "model": "glm-5.3"
+}

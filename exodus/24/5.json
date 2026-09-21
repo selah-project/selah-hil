@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag gintodlo ni Moshe ⟨את⟩ ang mga batan-on nga mga anak ni Yisrael, kag nagpatungas sila sang mga halad nga sinunog kag naghinabad sila sang mga hinabad nga kapayapa-an kay Yahweh ⟨sa⟩ mga anak nga baka.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "gintodlo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga batan-on"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "mga batan-on"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "nagpatungas sila"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "mga halad nga sinunog"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "naghinabad sila"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "mga hinabad"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "nga kapayapa-an"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "mga anak nga baka"
+    }
+  ],
+  "timestamp": "2026-09-21T16:31:09.676425117Z",
+  "model": "glm-5.3"
+}

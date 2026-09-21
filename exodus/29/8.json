@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kag ⟨את⟩ ang iya mga anak nga lalaki pagdalaon mo palapit, kag sul-utan mo sila sang mga sina.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya mga anak nga lalaki"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iya mga anak nga lalaki"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "pagdalaon mo palapit"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "sul-utan mo sila"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "mga sina"
+    }
+  ],
+  "timestamp": "2026-09-21T16:33:55.570109351Z",
+  "model": "glm-5.3"
+}

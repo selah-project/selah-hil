@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag ang iya ngalan tatawgon sa Yisrael: Balay sang Ginpakuha sang Sandalyas.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "tatawgon"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "iya ngalan"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Balay"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "sang Ginpakuha"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "sandalyas"
+    }
+  ],
+  "timestamp": "2026-09-21T17:28:00.968387513Z",
+  "model": "glm-5.3"
+}

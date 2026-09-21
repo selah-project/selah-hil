@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 150,
+  "translation": "Paldayawon ninyo siya tungod sa iya mga kahimayaan; paldayawon ninyo siya suno sa kadako sang iya pagkadako.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "paldayawon ninyo siya"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "tungod sa iya mga kahimayaan"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "paldayawon ninyo siya"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "suno sa kadako"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "sang iya pagkadako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:42.759809692Z",
+  "model": "glm-5.3"
+}

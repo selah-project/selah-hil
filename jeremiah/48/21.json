@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 48:21",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 48,
+  "translation": "Kag ang pagpamdos nagaabot sa duta sang Kapatagan — sa Kholon kag sa Yahats, kag <bahin sang> Moab: sa Mofaat.",
+  "tokens": [
+    {
+      "surface": "וMISHPAT",
+      "gloss": "kag ang pagpamdos"
+    },
+    {
+      "surface": "BA",
+      "gloss": "nagaabot sa"
+    },
+    {
+      "surface": "ERETZ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "HAMISHOR",
+      "gloss": "sang Kapatagan"
+    },
+    {
+      "surface": "EL",
+      "gloss": "sa"
+    },
+    {
+      "surface": "HOLON",
+      "gloss": "Kholon"
+    },
+    {
+      "surface": "VEL",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "YAHATSAH",
+      "gloss": "Yahats"
+    },
+    {
+      "surface": "VEAL",
+      "gloss": "kag <bahin sang>"
+    },
+    {
+      "surface": "MOAB",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "MOPHAT",
+      "gloss": "Mofaat"
+    }
+  ],
+  "timestamp": "2026-09-21T19:36:26.818407705Z",
+  "model": "glm-5.3"
+}

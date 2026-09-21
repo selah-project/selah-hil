@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 118:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 118,
+  "translation": "Ini ang pultahan sang Yahweh; ang mga matarong magasulod sa sini.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ang pultahan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sang Yahweh"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ang mga matarong"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "magasulod"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa sini"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:45.751055428Z",
+  "model": "glm-5.3"
+}

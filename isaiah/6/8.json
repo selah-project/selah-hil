@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag nadungog ko ⟨את⟩ ang tingog ni Adonay nga nagsiling, ⟨את⟩ sin-o ang ipadala ko, kag sin-o ang magakadto ⟨para⟩ sa aton? Kag nagsiling ako, Yari ako, ipadala mo ako.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "Kag nadungog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tingog ni Adonay"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nga nagsiling"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin-o"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ang ipadala ko"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "kag sin-o"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ang magakadto"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨para⟩ sa aton"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Kag nagsiling"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Yari ako"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ipadala mo ako"
+    }
+  ],
+  "timestamp": "2026-09-21T18:54:08.914883893Z",
+  "model": "glm-5.3"
+}

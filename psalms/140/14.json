@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 140,
+  "translation": "Siguro ang mga matarong magapadungog sa imo ngalan; ang mga tul-id magapuyo ⟨את⟩ sang imo panagway.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Siguro"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ang mga matarong"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "magapadungog"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "sa imo ngalan"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "magapuyo"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ang mga tul-id"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang imo panagway"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sang imo panagway"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:21.988495360Z",
+  "model": "glm-5.3"
+}

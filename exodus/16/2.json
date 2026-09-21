@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag naghubol ang tanan nga katilingban sang mga anak nga lalaki sang Yisrael batok kay Moshe kag batok kay Aharon sa kamingawan.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "Kag naghubol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "nga katilingban"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sang mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kay Moshe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag batok"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "kay Aharon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:27:16.629207176Z",
+  "model": "glm-5.3"
+}

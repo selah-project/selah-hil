@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 122,
+  "translation": "Kay didto nagasaka ang mga tribo, ang mga tribo ni Yah, isa ka pagsaksi para sa Yisrael, sa pagpasalamat sa ngalan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "Kay didto"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "nagasaka"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "mga tribo"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "mga tribo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ni Yah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "pagsaksi"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "para sa Yisrael"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "sa pagpasalamat"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "sa ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:45.787805064Z",
+  "model": "glm-5.3"
+}

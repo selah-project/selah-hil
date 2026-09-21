@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 5:18",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag bisan sa mga adlaw nga ina, nagaingon si Yahweh, indi ko pagahimuon ⟨את⟩ kamo nga bug-os nga paglaglag.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kag bisan"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "sa mga adlaw"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "nga ina"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nagaingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ko pagahimuon"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "nga bug-os nga paglaglag"
+    }
+  ],
+  "timestamp": "2026-09-21T19:17:39.907811350Z",
+  "model": "glm-5.3"
+}

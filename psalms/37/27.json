@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Magpalayo sa kalaot kag himua ang maayo, kag magpuyo ⟨sing⟩ dayon.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "magpalayo"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "sa kalaot"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "kag himua"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ang maayo"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "kag magpuyo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:30:56.521011026Z",
+  "model": "glm-5.3"
+}

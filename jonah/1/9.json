@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag naghambal siya sa ila: Isa ka Ivri ako, kag si ⟨את⟩ Yahweh, ang Elohim sang mga langit, gina kahadlukan ko — siya ang naghimo ⟨את⟩ sang dagat kag ⟨את⟩ sang mamala nga duta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "naghambal"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Ivri"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sang mga langit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ginakahadlukan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "siya ang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "naghimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang dagat"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sang dagat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang mamala nga duta"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "sang mamala nga duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:12:15.459692740Z",
+  "model": "glm-5.3"
+}

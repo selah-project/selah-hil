@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 92,
+  "translation": "Kag gintuboy mo ang akon sangka subong sang sangka sang baskog nga baka nga lasang; ako gintungan sang lana nga bag-o.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "gintuboy mo"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "baskog nga baka nga lasang"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "akon sangka"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "gintungan"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "sang lana"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "bag-o"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:27.314005470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 91,
+  "translation": "Magsiling ako sa Yahweh: Ang akon dalangpan kag ang akon kuta, ang akon Elohim, sa iya ako magasalig.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "magsiling"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ako sa Yahweh"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ang akon dalangpan"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "kag ang akon kuta"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang akon Elohim"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ako magasalig"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:22.248364934Z",
+  "model": "glm-5.3"
+}

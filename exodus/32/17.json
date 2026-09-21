@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Kag nabatian ni Yehoshua ⟨את⟩ ang tingog sang katawhan sa ila pagpaningud, kag nagsiling siya kay Moshe: Tingog sang gera ⟨ang⟩ ara sa kampo!",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "kag nabatian"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tingog"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sang katawhan"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "sa ila pagpaningud"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sang gera"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "sa kampo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:37:22.046490481Z",
+  "model": "glm-5.3"
+}

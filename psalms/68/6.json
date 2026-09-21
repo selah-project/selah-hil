@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 68,
+  "translation": "Amay sang mga ulila kag manughukom sang mga babayi nga balo amo ang Elohim sa iya balaan nga puluy-anan.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Amay"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "sang mga ulila"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "kag manughukom"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "sang mga babayi nga balo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "amo ang Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "sa puluy-anan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "iya balaan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:04.875548016Z",
+  "model": "glm-5.3"
+}

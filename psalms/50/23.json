@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 50,
+  "translation": "Ang nagahalad sang pasasalamat gadunggan ako, kag ang nagatulid sang dalan ipakita ko sa iya ang kaluwasan sang Elohim.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Ang nagahalad"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "sang pasasalamat"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "gadunggan ako"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "kag ang nagatulid"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sang dalan"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "ipakita ko sa iya"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "ang kaluwasan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:59.319622416Z",
+  "model": "glm-5.3"
+}

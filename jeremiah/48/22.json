@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 48,
+  "translation": "Kag <bahin sang> Divon, kag <bahin sang> Nevo, kag <bahin sang> Bet Divlatayim,",
+  "tokens": [
+    {
+      "surface": "VEAL",
+      "gloss": "kag <bahin sang>"
+    },
+    {
+      "surface": "DIVON",
+      "gloss": "Divon"
+    },
+    {
+      "surface": "VEAL",
+      "gloss": "kag <bahin sang>"
+    },
+    {
+      "surface": "NEVO",
+      "gloss": "Nevo"
+    },
+    {
+      "surface": "VEAL",
+      "gloss": "kag <bahin sang>"
+    },
+    {
+      "surface": "VEIT",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "DIVLATAYIM",
+      "gloss": "Divlatayim"
+    }
+  ],
+  "timestamp": "2026-09-21T19:36:26.818677803Z",
+  "model": "glm-5.3"
+}

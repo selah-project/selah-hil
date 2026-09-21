@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 82:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 82,
+  "translation": "Tubtob san-o kamo magahukom sang ⟨wala matarong⟩, kag itataas ninyo ang mga nawong sang mga mananglalaum? Selah.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Tubtob"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "san-o"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "kamo magahukom"
+    },
+    {
+      "surface": "עול",
+      "gloss": "sang wala matarong"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "kag ang mga nawong"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sang mga mananglalaum"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "itataas ninyo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:38.523619172Z",
+  "model": "glm-5.3"
+}

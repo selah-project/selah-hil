@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 77,
+  "translation": "Sa mga kaliwatan bala nga itapong ni Adonay, kag indi na bala niya pagbuligawon pa?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "sa mga kaliwatan bala nga"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "itapong ni"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi na bala"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "pag-… pa"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "pagbuligawon"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na pa"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:56.351764178Z",
+  "model": "glm-5.3"
+}

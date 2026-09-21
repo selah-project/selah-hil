@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Lakat, hambala sa ila: Magbalik kamo sa inyo ⟨mga⟩ payag.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Lakat"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hambala"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "Magbalik kamo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨kamo⟩"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "sa inyo mga payag"
+    }
+  ],
+  "timestamp": "2026-09-21T17:19:14.238214092Z",
+  "model": "glm-5.3"
+}

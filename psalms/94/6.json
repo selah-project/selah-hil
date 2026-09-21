@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 94,
+  "translation": "Ginapatay nila ang balo kag ang dayo, kag ang mga ilo ginpamatay nila.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "ang balo"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "kag ang dayo"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "ginapatay nila"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "kag ang mga ilo"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "ginpamatay nila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:34.797124334Z",
+  "model": "glm-5.3"
+}

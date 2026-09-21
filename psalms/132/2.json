@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 132,
+  "translation": "nga nagsaad kay Yahweh, nagsaumpa sa Abir sang Yakov,",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "nagsaumpa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nagsaad"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "sa Abir"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "sang Yakov"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:23.238388577Z",
+  "model": "glm-5.3"
+}

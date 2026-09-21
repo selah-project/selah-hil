@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 94,
+  "translation": "Kay sa pagkamatarong magabalik ang hukum, kag human sini tanan sang mga matarong sa tagipusuon ⟨magaubra sa iya⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "pagkamatarong"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "magabalik"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ang hukum"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "kag human sini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "sang mga matarong"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sa tagipusuon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:59.410817624Z",
+  "model": "glm-5.3"
+}

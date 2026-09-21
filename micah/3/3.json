@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag sila nga nangaon sang unod sang akon katawhan, kag ang ila panit halin sa ila ginhubaran nila, kag ⟨את⟩ ila mga tul-an ginbug-as nila, kag naglapad sila nga pareho sang sa kolon, kag pareho sang karne sa sulod sang kalaha.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "kag sila nga"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "nangaon"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "unod"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sang akon katawhan"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "kag ang ila panit"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "halin sa ila"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "ginhubaran nila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ila mga tul-an"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "ila mga tul-an"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "ginbug-as nila"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "kag naglapad sila"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nga pareho sang"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "sa kolon"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "kag pareho sang karne"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa sulod sang"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "kalaha"
+    }
+  ],
+  "timestamp": "2026-09-21T20:13:22.229296716Z",
+  "model": "glm-5.3"
+}

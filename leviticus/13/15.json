@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag pagtan-aw sang pari ⟨את⟩ ang hublas nga unod, itudlo niya nga maraut ⟨siya⟩; ang hublas nga unod maraut ini; tzaraat ini.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "kag pagtan-aw"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang pari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hublas nga unod"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ang unod"
+    },
+    {
+      "surface": "החי",
+      "gloss": "hublas"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "itudlo niya nga maraut"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ang unod"
+    },
+    {
+      "surface": "החי",
+      "gloss": "hublas"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "maraut"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ini"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tzaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-21T22:21:44.279333643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag ang mga anak ni Ham: Kush, kag Mitsrayim, kag Put, kag Kenaan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Kag ang mga anak"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ni Ham"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "kag Mitsrayim"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "kag Put"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "kag Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-21T15:57:48.419406562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 68:35",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 68,
+  "translation": "Ihatag kamo ang kusog sa Elohim; sa ibabaw sang Yisrael ang iya dungganan, kag ang iya kusog ⟨ara⟩ sa mga panganod.",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "Ihatag kamo"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ang kusog"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "ang iya dungganan"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "kag ang iya kusog"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "sa mga panganod"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:19.240844749Z",
+  "model": "glm-5.3"
+}

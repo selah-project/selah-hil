@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ginpahal-in ni Elohim ⟨אתם⟩ sa kalatad sang mga langit, agod magpalanaw sa ibabaw sang duta.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ginpahal-in"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sila (ang duha ka dako nga mga suga kag mga bituon)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "sa kalatad"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sang mga langit"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "agod magpalanaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T15:55:20.323617908Z",
+  "model": "glm-5.3"
+}

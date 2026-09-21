@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag ang katilingban sang mga pungsod magapalibot sa imo, kag sa iya ibabaw, sa kataas-taasan, magbalik ⟨ka⟩.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "kag ang katilingban"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "sang mga pungsod"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "magapalibot sa imo"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "kag sa iya ibabaw"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "sa kataas-taasan"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "magbalik"
+    }
+  ],
+  "timestamp": "2026-09-21T22:38:13.716276560Z",
+  "model": "glm-5.3"
+}

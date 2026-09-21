@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag putlon niya ⟨אתו⟩ sa iya mga piyesa, kag ⟨את⟩ ang iya ulo kag ⟨את⟩ ang iya taba; kag han-ayon sang pari ⟨אתם⟩ sa mga kahoy nga ara sa kalayo, nga ara sa halaran.",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "Kag putlon niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "putlon niya — ang iya"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "sa iya mga piyesa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya ulo"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ang iya ulo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya taba"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "ang iya taba"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "kag han-ayon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang pari"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sang mga ina — ang mga piyesa, ang ulo kag ang taba"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "mga kahoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האש",
+      "gloss": "kalayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    }
+  ],
+  "timestamp": "2026-09-21T22:21:06.338411104Z",
+  "model": "glm-5.3"
+}

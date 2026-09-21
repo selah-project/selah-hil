@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag matabo, kon makita sang mga taga-Mitsrayim ⟨את⟩ ikaw, kag hambalon nila, Iya asawa ini, kag patyon nila ⟨את⟩ ako, apang kag ⟨את⟩ ikaw buhion nila.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kag matabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "makita"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ikaw"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "sang mga taga-Mitsrayim"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "kag hambalon nila"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "iya asawa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "kag patyon nila"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ako"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ikaw"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "buhion nila"
+    }
+  ],
+  "timestamp": "2026-09-21T15:59:36.978911123Z",
+  "model": "glm-5.3"
+}

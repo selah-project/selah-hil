@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 139,
+  "translation": "Sa likod kag sa atubang gintagan mo ako, kag gintungtong mo sa akon ang imo palad.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "sa likod"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "kag sa atubang"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "gintagan mo ako"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "kag gintungtong mo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "ang imo palad"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:48.366869303Z",
+  "model": "glm-5.3"
+}

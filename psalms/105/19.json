@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Tubtob sang tion nga nag-abot ang iya pulong; ang ginhambal ni Yahweh nagsulay sa iya.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tion"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nag-abot"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ang iya pulong"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ang ginhambal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "nagsulay sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:47.220542013Z",
+  "model": "glm-5.3"
+}

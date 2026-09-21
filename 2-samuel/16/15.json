@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag si Avshalom kag ang tanan nga katawhan, ang mga tawo sang Yisrael, nagsulod sa Yerushalayim, kag si Achitofel ⟨את⟩ kadto iya.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "kag si Avshalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan nga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nagsulod"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "kag si Achitofel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kadto iya",
+      "marks": "si Achitofel"
+    }
+  ],
+  "timestamp": "2026-09-21T18:19:22.681156253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 60,
+  "translation": "Sa manugpanguna, sa Shushan-Edut, isa ka miktam ni David, sa pagtulun-an.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa manugpanguna"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edut"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "sa pagtulun-an"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:49.052979541Z",
+  "model": "glm-5.3"
+}

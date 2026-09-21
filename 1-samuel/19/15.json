@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag ginpadian ni Shaul ⟨את⟩ ang mga mensahero sa tan-awon ⟨את⟩ si David, nga nagasiling: Igpadala ninyo siya ⟨אתו⟩ sa higaan sa akon, sa pagapatay sa iya.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kag ginpadian"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga mensahero"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "ang mga mensahero"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "sa tan-awon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "igpadala ninyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "sa higaan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "sa pagapatay sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T18:06:02.069090103Z",
+  "model": "glm-5.3"
+}

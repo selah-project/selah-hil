@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Yahweh, sa aga madunggan mo ang akon tingog; sa aga isa ko ⟨ang akon pangamuyo⟩ magatudlo sa imo kag magapanan-aw ⟨ako⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sa aga"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "madunggan mo"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ang akon tingog"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sa aga"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "isa ko magatudlo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "kag magapanan-aw"
+    }
+  ],
+  "timestamp": "2026-09-21T22:36:43.372041882Z",
+  "model": "glm-5.3"
+}

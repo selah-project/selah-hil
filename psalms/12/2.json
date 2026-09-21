@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Luwasi, Yahweh, kay nagtapos na ang matinud-anon, kay nagkawala ang matinag-anon sa mga anak sang tawo.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Luwasi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "nagtapos na"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ang matinud-anon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "nagkawala"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "ang matinag-anon"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:28.329047155Z",
+  "model": "glm-5.3"
+}

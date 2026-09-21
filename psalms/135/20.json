@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 135:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 135,
+  "translation": "Balay sang Levi, panalanginan ninyo ⟨את⟩ si Yahweh; kamo nga nanginahadlok kay Yahweh, panalanginan ninyo ⟨את⟩ si Yahweh.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "sang Levi"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "panalanginan ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "kamo nga nanginahadlok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "panalanginan ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:05.077387657Z",
+  "model": "glm-5.3"
+}

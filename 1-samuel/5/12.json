@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag ang mga tawo nga wala namatay ginslat sang mga bukol, kag nagtungas ang singgit sang banwa tubtob sa mga langit.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "kag ang mga tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "namatay"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "ginslat"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "sang mga bukol"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "kag nagtungas"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "ang singgit"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sang banwa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa mga langit"
+    }
+  ],
+  "timestamp": "2026-09-21T18:00:17.212625787Z",
+  "model": "glm-5.3"
+}

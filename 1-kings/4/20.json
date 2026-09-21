@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Si Yehudah kag si Yisrael nga madamo, pareho sang balas nga ara sa baybay sa kadamo, nga nagakaon kag nagainum kag nagakalipay.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "kag Yisrael"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "madamo"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "pareho sang balas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "baybay"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "sa kadamo"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "nagakaon"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "kag nagainum"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "kag nagakalipay"
+    }
+  ],
+  "timestamp": "2026-09-21T18:28:00.172717063Z",
+  "model": "glm-5.3"
+}

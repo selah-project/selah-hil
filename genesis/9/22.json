@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag nakita ni Cham, amay sang Kenaan, ⟨את⟩ ang kahubad sang iya amay, kag ginpahibalo niya sa iya duha ka utod sa guwa.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "amay sang"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kahubad sang iya amay"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "kahubad"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iya amay"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ginpahibalo niya"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iya utod"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "sa guwa"
+    }
+  ],
+  "timestamp": "2026-09-21T22:16:25.360866347Z",
+  "model": "glm-5.3"
+}

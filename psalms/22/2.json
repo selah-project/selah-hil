@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "El ko, El ko, ngaa ginbay-an mo ako, malayo ⟨sa⟩ ang kaligtasan ko, ⟨sa⟩ mga pulong sang pangabayad ko?",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El ko"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El ko"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "ginbay-an mo ako"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "malayo"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "ang kaligtasan ko"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "sang pangabayad ko"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:37.677865307Z",
+  "model": "glm-5.3"
+}

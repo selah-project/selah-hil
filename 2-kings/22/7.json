@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Apang ang pilak nga ginahatag sa ila nga mga kamot, indi na ⟨את⟩ paghispahon sa ila, kay sa matinud-anon sila nagabuhat.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "apang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "paghispahon"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sa ila (ang pilak)"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ang pilak"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "nga ginahatag"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ila mga kamot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "sa matinud-anon"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "nagabuhat"
+    }
+  ],
+  "timestamp": "2026-09-21T18:49:33.835781378Z",
+  "model": "glm-5.3"
+}

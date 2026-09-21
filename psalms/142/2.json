@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 142,
+  "translation": "Ang akon tingog pakadto kay Yahweh, magasinggit ako; ang akon tingog pakadto kay Yahweh, mangamuyo ako.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "ang akon tingog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pakadto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "magasinggit ako"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ang akon tingog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pakadto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "mangamuyo ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:42.175559249Z",
+  "model": "glm-5.3"
+}

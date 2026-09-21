@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 136,
+  "translation": "Sa naggua sang Yam Suf sing mga bahin, kay sa dayon ang iya hesed.",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "sa naggua"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "sing mga bahin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iya hesed"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:28.815197828Z",
+  "model": "glm-5.3"
+}

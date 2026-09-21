@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 2:42",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag ang mga anak ni Kalev, utod ni Yerachmeel: si Mesha ang iya panganay, amo ang amay sang Zif; kag ang mga anak ni Mareshah, ang amay sang Khevron.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Kag ang mga anak"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ni Kalev"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "utod"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "ni Yerachmeel"
+    },
+    {
+      "surface": "מישע",
+      "gloss": "si Mesha"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ang iya panganay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "amo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ang amay"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "sang Zif"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "kag ang mga anak"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "ni Mareshah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ang amay"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "sang Khevron"
+    }
+  ],
+  "timestamp": "2026-09-21T21:48:49.107488704Z",
+  "model": "glm-5.3"
+}

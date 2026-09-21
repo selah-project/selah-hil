@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag si Shemuel nagaalagad sa atubangan ⟨את⟩ ni Yahweh, nga isa ka batan-on, nagputos sang ephod nga lino.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Kag si Shemuel"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "nagaalagad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa atubangan ni Yahweh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נער",
+      "gloss": "batan-on"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "nagputos"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "ephod"
+    },
+    {
+      "surface": "בד",
+      "gloss": "lino"
+    }
+  ],
+  "timestamp": "2026-09-21T22:26:05.685760858Z",
+  "model": "glm-5.3"
+}

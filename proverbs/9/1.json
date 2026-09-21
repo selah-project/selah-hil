@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Gintukod sang Kinaadman ang iya balay, ginuknit niya ang iya mga haligi — pito.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Kinaadman"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "gintukod"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ang iya balay"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "ginuknit"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "ang iya mga haligi"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "pito"
+    }
+  ],
+  "timestamp": "2026-09-21T20:57:39.181149824Z",
+  "model": "glm-5.3"
+}

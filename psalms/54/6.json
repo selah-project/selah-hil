@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 54,
+  "translation": "Yari kadi, si Elohim ⟨ang⟩ bulig sa akon; si Adonay ⟨kaubos⟩ sang mga nagasandig sang akon kalag.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Yari kadi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "bulig"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "si Adonay"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "kaubos sang mga nagasandig"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sang akon kalag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:42.563469156Z",
+  "model": "glm-5.3"
+}

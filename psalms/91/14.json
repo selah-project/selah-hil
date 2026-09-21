@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 91,
+  "translation": "Kay sa akon siya naghalad sang iya paghigugma, kag pagaluhton ko siya; itaas ko siya, kay kilala niya ang akon Ngalan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "naghalad sang iya paghigugma"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "kag pagaluhton ko siya"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "itaas ko siya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kilala niya"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ang akon Ngalan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:58.759764442Z",
+  "model": "glm-5.3"
+}

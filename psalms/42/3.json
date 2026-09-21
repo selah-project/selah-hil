@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Nau-uhaw ang akon kalag sa Elohim, sa El nga buhi — san-o ako magakari kag makita ang atubangan sang Elohim?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "Nau-uhaw"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "sa El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nga buhi"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "san-o"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ako magakari"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "kag makita"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ang atubangan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:02.301839055Z",
+  "model": "glm-5.3"
+}

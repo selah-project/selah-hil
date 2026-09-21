@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 29:18",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Yahweh, Elohim ni Avraham, ni Yitskhak kag ni Yisrael, nga amay namon, tipigi ina sa dayon, pakamaatho sa mga hunahuna sang kasingkasing sang imo katawhan, kag padayona ang ila kasingkasing sa imo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ni"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "kag ni Yisrael"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "nga amay namon"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "tipigi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ina"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "ליצר",
+      "gloss": "pakamaatho sa"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "mga hunahuna"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sang kasingkasing"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sang imo katawhan"
+    },
+    {
+      "surface": "והכן",
+      "gloss": "kag padayona"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "ang ila kasingkasing"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T22:00:23.092034895Z",
+  "model": "glm-5.3"
+}

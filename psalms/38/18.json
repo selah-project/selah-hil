@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 38,
+  "translation": "Kay ako handa sa pagkadulhag, kag ang akon kasakitan ⟨ara⟩ sa akon pirmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "sa pagkadulhag"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "handa"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "kag ang akon kasakitan"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "pirmi"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:23.559941906Z",
+  "model": "glm-5.3"
+}

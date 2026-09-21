@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag nagtuo ang mga tawo sang Ninweh kay Elohim, kag nagpanawag sila sang pagpuasa kag nag-abay sila sang mga sako, from sa ila mga dako kag tubtob sa ila mga gamay.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "kag nagtuo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ang mga tawo sang"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninweh"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "kay Elohim"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "kag nagpanawag"
+    },
+    {
+      "surface": "צום",
+      "gloss": "sang pagpuasa"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "kag nag-abay"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "sang mga sako"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "from sa ila mga dako"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag tubtob"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "sa ila mga gamay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:13:31.458630321Z",
+  "model": "glm-5.3"
+}

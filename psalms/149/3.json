@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 149,
+  "translation": "Sa sayaw nila idayaw ang iya ngalan; sa tambol kag arpa magatugtog kag magadayaw sila sa iya.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "idayaw"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang iya ngalan"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "sa sayaw"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "sa tambol"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "kag arpa"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "magatugtog kag magadayaw"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:00.853417069Z",
+  "model": "glm-5.3"
+}

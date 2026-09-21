@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 140,
+  "translation": "O Yahweh, Adonay, kusog sang akon kaluwasan, gintabunan Mo ang akon ulo sa adlaw sang away.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "O Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kusog"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "sang akon kaluwasan"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "gintabunan Mo"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "ang akon ulo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "sang away"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:10.687419153Z",
+  "model": "glm-5.3"
+}

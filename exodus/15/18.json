@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Yahweh magahari sa dayon kag sa dayon pa gid.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "magahari"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag sa dayon pa gid"
+    }
+  ],
+  "timestamp": "2026-09-21T16:26:22.131289601Z",
+  "model": "glm-5.3"
+}

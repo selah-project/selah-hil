@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag ginbitay nila ⟨את⟩ si Haman sa kahoy nga iya gintagna para kay Mordekay, kag ang kaakig sang hari nagpahunod.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "Kag ginbitay nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "si Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "iya gintagna"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "para kay Mordekay"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "kag ang kaakig"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "nagpahunod"
+    }
+  ],
+  "timestamp": "2026-09-21T21:30:25.091441716Z",
+  "model": "glm-5.3"
+}

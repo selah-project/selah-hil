@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Ini amo ang mga ngalan sang mga anak ni Aharon, ang mga pari nga hinaplasan, nga ginpun-o ang ila mga kamot sa pagpari.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ini amo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ang mga ngalan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sang mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ang mga pari"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "nga hinaplasan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ginpun-o"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ang ila mga kamot"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "sa pagpari"
+    }
+  ],
+  "timestamp": "2026-09-21T22:23:17.330547474Z",
+  "model": "glm-5.3"
+}

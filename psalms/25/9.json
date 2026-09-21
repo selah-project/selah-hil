@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Ginapangguyod ⟨niya⟩ ang mga mapainubsanon sa paghukom, kag ginationod ⟨niya⟩ ang mga mapainubsanon sang iya dalan.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "ginapangguyod"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ang mga mapainubsanon"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sa paghukom"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "kag ginationod"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ang mga mapainubsanon"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "iya dalan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:32.584266178Z",
+  "model": "glm-5.3"
+}

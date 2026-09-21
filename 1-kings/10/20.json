@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 10:20",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag napulo kag duha ka lyon ang nagatindog didto sa anom ka mga hagdanan, sa sini nga bahin kag sa sini nga bahin; wala gid sing pareho sang sini ang ginhimo para sa tanan nga mga gingharian.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "kag duha"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kag napulo"
+    },
+    {
+      "surface": "אריים",
+      "gloss": "ka lyon"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "nagatindog"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שש",
+      "gloss": "anom"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "mga hagdanan"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "sa sini nga bahin"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "kag sa sini nga bahin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "pareho sang sini"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "para sa tanan"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mga gingharian"
+    }
+  ],
+  "timestamp": "2026-09-21T18:31:16.221257347Z",
+  "model": "glm-5.3"
+}

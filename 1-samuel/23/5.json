@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 23:5",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag nagsulod si David kag ang iya mga tawo sa Keilah, kag nakig-away sa mga Pelishtiy, kag gindala ⟨את⟩ ang ila mga kahayopan, kag ginhampak sila sing dako nga hampak; kag ginluwas ni David ⟨את⟩ ang mga pumoluyo sang Keilah.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nagsulod"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ואנשו",
+      "gloss": "kag ang iya mga tawo"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "sa Keilah"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "kag nakig-away"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "sa mga Pelishtiy"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "kag gindala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ila mga kahayopan"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "ang ila mga kahayopan"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "kag ginhampak"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "hampak"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "dako"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "kag ginluwas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pumoluyo sang Keilah"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ang mga pumoluyo"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "sang Keilah"
+    }
+  ],
+  "timestamp": "2026-09-21T18:08:00.068811780Z",
+  "model": "glm-5.3"
+}

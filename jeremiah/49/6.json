@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 49,
+  "translation": "Kag pagkatapos sini, ipakabalik ko ⟨את⟩ ang pagkabihag sang mga anak nga lalaki sang Amon, nagaingon si Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Kag pagkatapos"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sini"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ipakabalik ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pagkabihag"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ang pagkabihag"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sang mga anak nga lalaki"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "sang Amon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nagaingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T19:37:11.633415815Z",
+  "model": "glm-5.3"
+}

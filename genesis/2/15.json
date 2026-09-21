@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag ginkuha ni Yahweh Elohim ⟨את⟩ ang tawo kag ginpalagpat niya siya sa tanaman sang Eden sa pag-ato kag sa pagbantay sini.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kag ginkuha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tawo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "kag ginpalagpat niya siya"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "sa tanaman"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "sa pag-ato"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "kag sa pagbantay sini"
+    }
+  ],
+  "timestamp": "2026-09-21T15:54:58.578027527Z",
+  "model": "glm-5.3"
+}

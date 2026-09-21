@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Subong nga adlaw kamo nagagwa, sa bulan sang Aviv.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Subong nga adlaw"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "nagagwa"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "sa bulan"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Aviv"
+    }
+  ],
+  "timestamp": "2026-09-21T16:25:51.012942427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 64,
+  "translation": "Tagoa ako gikan sa sinsin sang mga manginadlaw-an, gikan sa kagubot sang mga manugpangabudlay sang kadautan,",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "Tagoa ako"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "gikan sa sinsin"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "sang mga manginadlaw-an"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "gikan sa kagubot"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "sang mga manugpangabudlay"
+    },
+    {
+      "surface": "און",
+      "gloss": "sang kadautan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:15.654683607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 1:21",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Tan-awa, ginpabayran ni Yahweh nga Elohim mo sa imo sang-atubang ⟨את⟩ ang duta; umalsa kag pangun-a, subong sa ginpanghambal ni Yahweh, Elohim sang imo mga kag-anak, sa imo; indi pagkahadluka kag indi pagpangin-ahon.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ginpabayran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim mo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa imo sang-atubang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "umalsa"
+    },
+    {
+      "surface": "רש",
+      "gloss": "pangun-a"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ginpanghambal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "sang imo mga kag-anak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "pagkahadluka"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pagpangin-ahon"
+    }
+  ],
+  "timestamp": "2026-09-21T17:17:19.363494851Z",
+  "model": "glm-5.3"
+}

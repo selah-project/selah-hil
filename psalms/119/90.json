@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Sa lahi kag sa lahi ang imo pagkamatinud-anon; gintukod mo ang duta, kag nagatindog ini.",
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "sa lahi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kag sa lahi"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ang imo pagkamatinud-anon"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "gintukod mo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "kag nagatindog ini"
+    }
+  ],
+  "timestamp": "2026-09-21T20:50:17.092417088Z",
+  "model": "glm-5.3"
+}

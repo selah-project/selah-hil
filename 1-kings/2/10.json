@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag nagturog si Dovid kaupod sa iya mga kag-anak, kag ginalubong sa duta sang Dovid.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "kag nagturog"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si Dovid"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod sa"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "iya mga kag-anak"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "kag ginalubong"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa duta sang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovid"
+    }
+  ],
+  "timestamp": "2026-09-21T18:25:53.971553753Z",
+  "model": "glm-5.3"
+}

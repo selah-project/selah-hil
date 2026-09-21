@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 9:5",
+  "book": "ezra",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag sa halad sang gab-i nagtindog ako halin sa akon pag-ayuno, kag sang pagpunit ko sang akon bado kag sang akon pang-abay, nagluhod ako sa akon mga tuhod kag gintigayon ko ang akon mga palad pakadto kay Yahweh, ang akon Elohim.",
+  "tokens": [
+    {
+      "surface": "ובמנחת",
+      "gloss": "Kag sa halad sang"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "gab-i"
+    },
+    {
+      "surface": "קמתי",
+      "gloss": "nagtindog ako"
+    },
+    {
+      "surface": "מתעניתי",
+      "gloss": "halin sa akon pag-ayuno"
+    },
+    {
+      "surface": "ובקרעי",
+      "gloss": "kag sang pagpunit ko"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "sang akon bado"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "kag sang akon pang-abay"
+    },
+    {
+      "surface": "ואכרעה",
+      "gloss": "nagluhod ako"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "akon mga tuhod"
+    },
+    {
+      "surface": "ואפרשה",
+      "gloss": "kag gintigayon ko"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ang akon mga palad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pakadto kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang akon Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T21:43:39.725805940Z",
+  "model": "glm-5.3"
+}

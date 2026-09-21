@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "kag indi mo ako ginsudlon sa kamot sang kaaway; gintindog mo ang akon mga tiil sa malapad nga duog.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "ginsudlon mo ako"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "sang kaaway"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "gintindog mo"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "sa malapad nga duog"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ang akon mga tiil"
+    }
+  ],
+  "timestamp": "2026-09-21T22:38:15.981268583Z",
+  "model": "glm-5.3"
+}

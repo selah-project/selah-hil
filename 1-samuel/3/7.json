@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag si Shemuel wala ⟨pa⟩ makaila ⟨kay⟩ Yahweh, kag wala ⟨pa⟩ ginpadayag sa iya ang pulong ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Kag si Shemuel"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "wala ⟨pa⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "makaila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "kag wala ⟨pa⟩"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "ginpadayag"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T17:59:02.636674218Z",
+  "model": "glm-5.3"
+}

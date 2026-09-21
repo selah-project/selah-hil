@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 116,
+  "translation": "Magalakat ako sa atubangan ni Yahweh sa mga duta sang mga buhi.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "magalakat ako"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "sa mga duta"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "sang mga buhi"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:32.727085682Z",
+  "model": "glm-5.3"
+}

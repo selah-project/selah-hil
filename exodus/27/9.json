@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 27:9",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Kag himoun mo ⟨את⟩ ang korte sang Mishkan; sa kilid sang timanan, pakadto sa timanan, mga kurtina para sa korte, hinablal nga maputi nga lino, isa ka gatos ka soko ang laba, sa isa ka kilid.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Kag himoun mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang korte sang Mishkan"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "korte"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "sang Mishkan"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "sa kilid sang"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "timanan"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "pakadto sa timanan"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "mga kurtina"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "para sa korte"
+    },
+    {
+      "surface": "שש",
+      "gloss": "maputi nga lino"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "hinablal"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "isa ka gatos"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ka soko"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ang laba"
+    },
+    {
+      "surface": "לפאה",
+      "gloss": "sa kilid"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "isa"
+    }
+  ],
+  "timestamp": "2026-09-21T16:31:51.426628221Z",
+  "model": "glm-5.3"
+}

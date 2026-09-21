@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Apang sa Sheol pagapaugsahon ikaw, sa kabinTohan sang bangbang.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "apang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "pagapaugsahon ikaw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "kabinTohan"
+    },
+    {
+      "surface": "בור",
+      "gloss": "sang bangbang"
+    }
+  ],
+  "timestamp": "2026-09-21T18:56:07.883097492Z",
+  "model": "glm-5.3"
+}

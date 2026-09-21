@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 85,
+  "translation": "Ginhipos mo ang tanan nga imo kaakig; nagbalik ka gikan sa mainit nga kapungot sang imo ⟨ngipon⟩.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "Ginhipos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "imo kaakig"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "nagbalik"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "mainit nga kapungot"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "imo ilong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:57.838226957Z",
+  "model": "glm-5.3"
+}

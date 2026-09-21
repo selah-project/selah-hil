@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 11:24",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag nagguwa si Moshe kag naghambal sa katawhan ang ⟨את⟩ mga pulong ni Yahweh, kag gintipon niya ang pito ka pulo ka mga tawo sa mga tigulang sang katawhan kag ginpatindog niya ⟨אתם⟩ sa palibot sang tolda.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "kag nagguwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "kag naghambal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga pulong ni Yahweh"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "kag gintipon"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ang pito ka pulo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ka mga tawo"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "sa mga tigulang"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sang katawhan"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "kag ginpatindog"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sila — ang pito ka pulo ka mga tawo"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "sang tolda"
+    }
+  ],
+  "timestamp": "2026-09-21T17:05:03.865200524Z",
+  "model": "glm-5.3"
+}

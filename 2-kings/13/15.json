@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag naghambal si Elisha sa iya: Kuhaa ⟨את⟩ ang pana kag ang mga palaso; kag ginkuha niya ⟨את⟩ ang pana kag ang mga palaso.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag naghambal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "si Elisha"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Kuhaa"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "pana"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "kag ang mga palaso"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "kag ginkuha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "niya"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "pana"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "kag ang mga palaso"
+    }
+  ],
+  "timestamp": "2026-09-21T18:45:22.502392070Z",
+  "model": "glm-5.3"
+}

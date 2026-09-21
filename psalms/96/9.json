@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 96:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 96,
+  "translation": "Magduko kamo sa atubang ni Yahweh sa hamug sang kabalaan; magkurog kamo sa iya atubang, ang tanan nga duta.",
+  "tokens": [
+    {
+      "surface": "השתחוו",
+      "gloss": "magduko kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sa atubang ni Yahweh"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "sa hamug sang"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kabalaan"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "magkurog kamo"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "sa iya atubang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:39.876338781Z",
+  "model": "glm-5.3"
+}

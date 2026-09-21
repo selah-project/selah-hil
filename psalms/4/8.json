@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Ginhatag mo sang kalipay sa akon tagipusuon, halin sa tion nga ang ila humay kag ang ila bag-o nga bino nagadamo.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Ginhatag mo"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "sang kalipay"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "sa akon tagipusuon"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "halin sa tion"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "ang ila humay"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "kag ang ila bag-o nga bino"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "nagadamo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:53.347594433Z",
+  "model": "glm-5.3"
+}

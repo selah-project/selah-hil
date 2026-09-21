@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 17:10",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag bisan sin-o nga tawo sa balay sang Yisrael kag sa nangunguyo nga nangunguyo sa ila kabtangan nga magakaon sang bisan ano nga dugo — ituntun ko ang akon dagway sa nefesh nga nagakaon sang ⟨את⟩ dugo, kag puton ko ⟨את⟩ ⟨siya⟩ sa tunga sang iya katawhan.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "kag ang tawo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bisan sin-o nga tawo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ang nangunguyo"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "nga nangunguyo"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "sa ila kabtangan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "magakaon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bisan ano"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "kag ituntun ko"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ang akon dagway"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "sa nefesh"
+    },
+    {
+      "surface": "האכלת",
+      "gloss": "nga nagakaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dugo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sang dugo"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "kag puton ko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "siya (ang nefesh)"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "sang iya katawhan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:51:28.218745445Z",
+  "model": "glm-5.3"
+}

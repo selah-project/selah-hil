@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Magasala bala sang hudisyo si El, kag magasala bala sang Shadday sang katarungan?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "si El"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "magasala bala sang"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hudisyo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kag"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "magasala bala sang"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "katarungan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:07:38.985948452Z",
+  "model": "glm-5.3"
+}

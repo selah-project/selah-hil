@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 10:3",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag ano ang himuin ninyo sa adlaw sang pagbisita, kag sa kablag? Sa malayo ini magaabot. Kanino kamo magadalag sa bulig, kag diin ninyo ibutang ang inyo himaya?",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "Kag ano"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ang himuin ninyo"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "פקדה",
+      "gloss": "sang pagbisita"
+    },
+    {
+      "surface": "ולשואה",
+      "gloss": "kag sa kablag"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "sa malayo"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "magaabot"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨Sa⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kanino"
+    },
+    {
+      "surface": "תנוסו",
+      "gloss": "kamo magadalag"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "sa bulig"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "kag diin"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "ninyo ibutang"
+    },
+    {
+      "surface": "כבודכם",
+      "gloss": "ang inyo himaya"
+    }
+  ],
+  "timestamp": "2026-09-21T18:56:19.462961669Z",
+  "model": "glm-5.3"
+}

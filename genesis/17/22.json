@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag natapos ⟨את⟩ ang paghambal sa iya, kag nagsaka si Elohim gikan sa ibabaw kay Avraham.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "Kag natapos"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ang paghambal"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "sa iya"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "kag nagsaka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "gikan sa ibabaw"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "kay Avraham"
+    }
+  ],
+  "timestamp": "2026-09-21T16:01:33.539306417Z",
+  "model": "glm-5.3"
+}

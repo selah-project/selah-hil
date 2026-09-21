@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 147,
+  "translation": "Indi sa gahum sang kabayo siya nalilipay, indi sa mga paa sang tawo siya nakakagusto.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "sa gahum"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "sang kabayo"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "siya nalilipay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "sa mga paa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "siya nakakagusto"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:07.526923238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag ⟨את⟩ ang khazir, kay nagabahin sang bahin sang tiil ⟨sia⟩, kag tukab sang tukab sang tiil, apang sang pagkaon indi ⟨sia⟩ nagabalik-balik; marigtonon ⟨sia⟩ sa inyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang khazir"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "ang khazir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "nagabahin"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "sang bahin sang tiil"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sia"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "kag tukab"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "sang tukab"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "sang tiil"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "apang sia"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "sang pagkaon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "nagabalik-balik"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "marigtonon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sia"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:45:48.583518931Z",
+  "model": "glm-5.3"
+}

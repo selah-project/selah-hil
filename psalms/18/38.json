@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Ginpanaw ko ang akon mga kaaway kag naabtan ko sila, kag wala ako magbalik ⟨tubtob⟩ nga nagdalahay na sila.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "ginpanaw ko"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ang akon mga kaaway"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "kag naabtan ko sila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "ako magbalik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨tubtob⟩"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "nga nagdalahay na sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:56.057802829Z",
+  "model": "glm-5.3"
+}

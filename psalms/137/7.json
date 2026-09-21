@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 137,
+  "translation": "Dumduma, Yahweh, sa kaadlawan sang Yerushalayim ang ⟨את⟩ ginhimo sang mga anak sang Edom, sila nga nagsiling: Laglaga, laglaga, tubtob sa pundasyon sini!",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Dumduma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "sang Edom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kaadlawan sang Yerushalayim"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ang kaadlawan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sang Yerushalayim"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "sila nga nagsiling"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "Laglaga"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "laglaga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob sa"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "pundasyon"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sini"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:29.673371429Z",
+  "model": "glm-5.3"
+}

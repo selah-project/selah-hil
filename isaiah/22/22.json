@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 22:22",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kag ibutang ko ang yabi sang balay ni David sa iya abaga; kag magabukas siya nga wala sing nagasira, kag magasira nga wala sing nagabukas.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "kag ibutang ko"
+    },
+    {
+      "surface": "מפתח",
+      "gloss": "yabi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "iya abaga"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "kag magabukas siya"
+    },
+    {
+      "surface": "ו אין",
+      "gloss": "nga wala sing"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "nagasira"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "kag magasira"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nga wala sing"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "nagabukas"
+    }
+  ],
+  "timestamp": "2026-09-21T18:59:24.356473670Z",
+  "model": "glm-5.3"
+}

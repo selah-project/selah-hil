@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag wala sila nagpamati, kondi gintig-a nila ⟨את⟩ ang ila liog, pareho sang liog sang ila mga amay, nga wala nagtuo kay Yahweh nga ila Elohim.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kag wala"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "sila nagpamati"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "kondi gintig-a nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ila liog"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "ang ila liog"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "pareho sang liog"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "sang ila mga amay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "nagtuo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "nga ila Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T18:48:27.661143234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Kag magapalagas kamo ⟨את⟩ inyo mga kaaway, kag matumba sila sa inyo atubang paagi sa espada.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "kag magapalagas kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyo mga kaaway"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "inyo mga kaaway"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "kag matumba sila"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "sa inyo atubang"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "sa espada"
+    }
+  ],
+  "timestamp": "2026-09-21T16:56:04.057365316Z",
+  "model": "glm-5.3"
+}

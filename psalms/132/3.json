@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 132,
+  "translation": "Kon magasulod ako sa tolda sang akon balay, kon magatungtong ako sa akon higdaanan —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "magasulod ako"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "sa tolda"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "sang akon balay"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "magatungtong ako"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "higdaanan"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "akon higdaanan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:23.238605312Z",
+  "model": "glm-5.3"
+}

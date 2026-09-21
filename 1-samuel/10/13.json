@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 10:13",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag nakatapos siya sa pagmanalagna, kag nagsulod siya sa bama.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "nakatapos"
+    },
+    {
+      "surface": "מהתנבות",
+      "gloss": "sa pagmanalagna"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kag nagsulod"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "sa bama"
+    }
+  ],
+  "timestamp": "2026-09-21T18:02:16.518384674Z",
+  "model": "glm-5.3"
+}

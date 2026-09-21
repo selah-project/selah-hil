@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Paano ako magatungali? Wala nagtungali si El. Kag paano ako magalagot? Wala naglagot si Yahweh.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "paano"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "ako magatungali"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "nagtungali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "si El"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "kag paano"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "ako magalagot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "naglagot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T17:11:16.614842908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ginhimo ni Yahweh Elohim kang Adam kag sa iya asawa mga bado sang panit, kag ginbado niya sila.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "kang Adam"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "kag sa iya asawa"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "mga bado"
+    },
+    {
+      "surface": "עור",
+      "gloss": "sang panit"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "ginbado niya sila"
+    }
+  ],
+  "timestamp": "2026-09-21T15:56:12.017022903Z",
+  "model": "glm-5.3"
+}

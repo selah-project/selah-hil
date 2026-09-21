@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ginwisik niya sini sa halaran pito ka beses, kag ginpahid niya ⟨את⟩ ang halaran kag ⟨את⟩ ang tanan nga iya mga kagamitan, kag ⟨את⟩ ang batya kag ⟨את⟩ ang iya pundasyon, sa pagpabalaan sini.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "kag ginwisik"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "sini"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ka beses"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "kag ginpahid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang halaran"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "iya mga kagamitan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang batya"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "batya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya pundasyon"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "pundasyon"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "sa pagpabalaan sini"
+    }
+  ],
+  "timestamp": "2026-09-21T16:45:16.531353793Z",
+  "model": "glm-5.3"
+}

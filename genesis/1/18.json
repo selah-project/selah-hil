@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 1:18",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag agod magdominar sa adlaw kag sa gab-i, kag maglain sa pagbutwa-light — sa pagbutwa-light kag sa kangitngit; kag nakita ni Elohim nga maayo ini.",
+  "tokens": [
+    {
+      "surface": "ולמשל",
+      "gloss": "kag agod magdominar"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "kag sa gab-i"
+    },
+    {
+      "surface": "ולהבדיל",
+      "gloss": "kag maglain"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa pagbutwa-light"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ang kapalanaw"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "ang kangitngit"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "kag nakita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    }
+  ],
+  "timestamp": "2026-09-21T15:55:20.323857485Z",
+  "model": "glm-5.3"
+}

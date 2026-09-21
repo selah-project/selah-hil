@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 68,
+  "translation": "O Elohim, sa imo paggwa sa atubangan sang imo mga katawhan, sa imo paglakat sa kamingawan — Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "sa imo paggwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sang imo mga katawhan"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "sa imo paglakat"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:04.875881815Z",
+  "model": "glm-5.3"
+}

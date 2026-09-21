@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Bantayan mo ang akon kalag kag luwason mo ako; indi ako pagpaila, kay sa imo ako nagdalangpan.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "bantayan mo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akon kalag"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "kag luwason mo ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ako pagpaila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ako nagdalangpan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:32.770791706Z",
+  "model": "glm-5.3"
+}

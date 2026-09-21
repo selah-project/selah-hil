@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 115,
+  "translation": "Yisrael, magbuti kay Yahweh; siya ang ila katabang kag ang ila panangga.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "magbuti"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "ang ila katabang"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "kag ang ila panangga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:42.232036599Z",
+  "model": "glm-5.3"
+}

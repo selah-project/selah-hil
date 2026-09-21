@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 28:26",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "kag himoon mo duha ka singsing nga bulawan, kag ibutang mo ⟨אתם⟩ sa duha ka katapusan sang Choshen, sa iya guhit nga ara sa kilid sang ephod, pasulod.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "kag himoon mo"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duha"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "mga singsing"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "kag ibutang mo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "duha ka singsing nga bulawan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "katapusan"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "sang Choshen"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "iya guhit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "padulong"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kilid"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "sang ephod"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "pasulod"
+    }
+  ],
+  "timestamp": "2026-09-21T22:20:39.188630060Z",
+  "model": "glm-5.3"
+}

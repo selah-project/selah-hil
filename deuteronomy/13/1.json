@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "⟨את⟩ ang tanan nga pulong nga aku ginasugo ⟨את⟩ sa inyo, ⟨את⟩ ina inyo bantayan sa paghimo; indi kamo magdugang sa sini kag indi kamo magpamub-os sa sini.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ginasugo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ina"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "inyo bantayan"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa paghimo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "magdugang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa sini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "magpamub-os"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "sa sini"
+    }
+  ],
+  "timestamp": "2026-09-21T17:24:29.378650792Z",
+  "model": "glm-5.3"
+}

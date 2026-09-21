@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kad nangaki ang katawohan kay Moshe, kad nangamuyo si Moshe kay Yahweh, kag nagtunga ang kalayo.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "Kag nangaki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawohan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "kag nangamuyo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "kag nagtunga"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ang kalayo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:04:12.103663729Z",
+  "model": "glm-5.3"
+}

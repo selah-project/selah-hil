@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 104,
+  "translation": "Nagatabon sang suga subong sang bisti, nagapatilapad sang mga langit subong sang tolda.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "Nagatabon"
+    },
+    {
+      "surface": "אור",
+      "gloss": "sang suga"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "subong sang bisti"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "nagapatilapad"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sang mga langit"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "subong sang tolda"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:38.567735001Z",
+  "model": "glm-5.3"
+}

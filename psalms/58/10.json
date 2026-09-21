@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 58,
+  "translation": "Sa wala pa makilala sang inyo mga kolon ang tunok sang ate, subong sang buhi kag subong sang nagadagus nga kaakgit, sa anhinipuk iya ini pagakuhaon.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "sa wala pa"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "makilala"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "sang inyo mga kolon"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "tunok sang ate"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "חי",
+      "gloss": "buhi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kag subong sang"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "nagadagus nga kaakgit"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "sa anhinipuk iya ini pagakuhaon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:34.382621812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Busa nagbutang sila sa ibabaw nanda sang mga manogdumala sang pinugsan nga buluhaton, agod sila paantuson sa ila mga karga; kag gintindog nanda ang mga ciudad nga bodega para kay Paro, ⟨את⟩ ang Pitom kag ⟨את⟩ ang Raamses.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "nagbutang sila"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa ibabaw nanda"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mga manogdumala"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "pinugsan nga buluhaton"
+    },
+    {
+      "surface": "למען",
+      "gloss": "agod"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "sila paantuson"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "sa ila mga karga"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "kag gintindog nanda"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga ciudad"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "nga bodega"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "para kay Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Pitom"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "ang Pitom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Raamses"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "ang Raamses"
+    }
+  ],
+  "timestamp": "2026-09-21T22:18:57.260806620Z",
+  "model": "glm-5.3"
+}

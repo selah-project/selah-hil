@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kag pagatulihi-on ni Yahweh nga imo Elohim ⟨את⟩ imo kasingkasing kag ⟨את⟩ ang kasingkasing sang imo kaliwat, sa paghigugma ⟨kang⟩ Yahweh nga imo Elohim sang tanan mong kasingkasing kag sang tanan mong kabuhi, agod mabuhi ka.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "kag pagatulihi-on"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "imo Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imo kasingkasing"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "imo kasingkasing"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang kasingkasing sang imo kaliwat"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ang kasingkasing"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "imo kaliwat"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "sa paghigugma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh nga imo Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "imo Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "mong kasingkasing"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "kag sang tanan"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "mong kabuhi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "agod"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "mabuhi ka"
+    }
+  ],
+  "timestamp": "2026-09-21T17:31:44.803076579Z",
+  "model": "glm-5.3"
+}

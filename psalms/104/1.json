@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 104,
+  "translation": "Ipanalangin, akon kalag, si ⟨את⟩ Yahweh; Yahweh, akon Elohim, ikaw gid nakadako; himaya kag kadungganan ang imo nabistihan.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Ipanalangin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akon kalag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "akon Elohim"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "ikaw gid nakadako"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gid"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "himaya"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "kag kadungganan"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "ang imo nabistihan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:38.567500734Z",
+  "model": "glm-5.3"
+}

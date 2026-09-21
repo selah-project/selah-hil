@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 40:12",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Sin-o ang nagtuksa sang mga tubig sa humol sang iya kamot, kag ginsukod ang mga langit sang dangaw, kag gintipon sang iya tatlo ka tudlo ang abo sang duta, kag gintimbang ang mga bukid sa timbangan kag ang mga bungtod sa mga timbangan?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Sin-o"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "ang nagtuksa"
+    },
+    {
+      "surface": "בשעלו",
+      "gloss": "sa humol sang iya kamot"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sang mga tubig"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "kag ang mga langit"
+    },
+    {
+      "surface": "בזרת",
+      "gloss": "sang dangaw"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "ginsukod"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag gintipon"
+    },
+    {
+      "surface": "בשלש",
+      "gloss": "sang iya tatlo ka tudlo"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ang abo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "ושקל",
+      "gloss": "kag gintimbang"
+    },
+    {
+      "surface": "בפלס",
+      "gloss": "sa timbangan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ang mga bukid"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "kag ang mga bungtod"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "sa mga timbangan"
+    }
+  ],
+  "timestamp": "2026-09-21T19:05:59.731263736Z",
+  "model": "glm-5.3"
+}

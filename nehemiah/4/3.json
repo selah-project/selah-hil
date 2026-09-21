@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 4:3",
+  "book": "nehemiah",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag nagpangamuyo kami sa Elohim namon, kag nagbutang kami sang bantay sa ila adlaw kag gab-i tungod sa ila.",
+  "tokens": [
+    {
+      "surface": "ונתפלל",
+      "gloss": "nagpangamuyo kami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim namon"
+    },
+    {
+      "surface": "ונעמיד",
+      "gloss": "nagbutang kami"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "bantay"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "kag gab-i"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "tungod sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T21:44:40.636951859Z",
+  "model": "glm-5.3"
+}

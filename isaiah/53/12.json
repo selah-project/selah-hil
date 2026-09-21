@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 53:12",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 53,
+  "translation": "Busa magabahin ako sa iya kaupod sang daghan, kag ⟨את⟩ sang mga gamhanan bahinan niya sang sinfulan; bangud nga ginpahuway niya sa kamatayon ang iya kalag, kag ⟨את⟩ kaupod sang mga minatang siya gin-ihap; kag ang sala sang madamo iya gindala, kag sa mga minatang nagpangamuyo siya.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "busa"
+    },
+    {
+      "surface": "אחלק",
+      "gloss": "magabahin ako"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "kaupod sang daghan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang mga gamhanan"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "mga gamhanan"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "bahinan niya"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "sang sinfulan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bangud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הערה",
+      "gloss": "ginpahuway\/gingwasi"
+    },
+    {
+      "surface": "למות",
+      "gloss": "sa kamatayon"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "iya kalag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga minatang"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "mga minatang"
+    },
+    {
+      "surface": "נמנה",
+      "gloss": "gin-ihap"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kag siya"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "sala"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "sang madamo"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "gindala"
+    },
+    {
+      "surface": "ולפשעים",
+      "gloss": "kag sa mga minatang"
+    },
+    {
+      "surface": "יפגיע",
+      "gloss": "nagpangamuyo"
+    }
+  ],
+  "timestamp": "2026-09-21T19:10:14.448415738Z",
+  "model": "glm-5.3"
+}

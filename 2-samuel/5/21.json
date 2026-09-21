@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag ginbayaan nila didto ⟨את⟩ ang ila mga dios-dios, kag gindala sila ni David kag sang iya mga tawo.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "ginbayaan nila"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ila mga dios-dios"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "ang ila mga dios-dios"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "kag gindala sila"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "kag sang iya mga tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:14:38.132623330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Siloton ko sila sang peste kag pangason ko sila, kag himoon ko ikaw ⟨את⟩ nga isa ka dakò kag gamhanan nga pungsod kaysa sa ila.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "Siloton ko sila"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sang peste"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "kag pangason ko sila"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "kag himoon ko"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ikaw",
+      "marks": "ikaw"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "nga pungsod"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakò"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "kag gamhanan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kaysa sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T17:05:20.332858778Z",
+  "model": "glm-5.3"
+}

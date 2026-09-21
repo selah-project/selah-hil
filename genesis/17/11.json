@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag ital-i ninyo ⟨את⟩ ang unat sang inyo guti, kag maga倒是 ini nga tanda sang kasugtanan tunga sa akon kag tunga sa inyo.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "Kag ital-i ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang unat"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ang unat"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "sang inyo guti"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kag maga karon ini"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "nga tanda"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sang kasugtanan"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tunga sa akon"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "kag tunga sa inyo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:00:33.453547417Z",
+  "model": "glm-5.3"
+}

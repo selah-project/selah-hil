@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 121,
+  "translation": "Si Yahweh ⟨ang⟩ nagabantay sa imo, si Yahweh ⟨ang⟩ imo iya-om sa imo tuo nga kamot.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "nagabantay sa imo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "imo iya-om"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "imo … nga kamot"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tuo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:12.943163299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Amo ini ang gin-hambal ni Yahweh: kon maputon ninyo ⟨את⟩ ang akon kasugtanan sang adlaw kag ⟨את⟩ ang akon kasugtanan sang gab-i, agod indi mag-abot ang adlaw kag ang gab-i sa ila tion.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Amo ini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gin-hambal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "maputon ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon kasugtanan sang adlaw"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ang akon kasugtanan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sang adlaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang akon kasugtanan sang gab-i"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ang akon kasugtanan"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "sang gab-i"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "agod indi"
+    },
+    {
+      "surface": "היות",
+      "gloss": "mag-abot"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "kag ang gab-i"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "sa ila tion"
+    }
+  ],
+  "timestamp": "2026-09-21T19:30:23.973890704Z",
+  "model": "glm-5.3"
+}

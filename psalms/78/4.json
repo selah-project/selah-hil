@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Indi namon ini paganuron halin sa ila mga anak, sa kaliwatan nga magaabot; ginasugid namon ang mga pagdayaw sang Yahweh kag ang iya kusog kag ang iya mga kagila-giladas nga binuhat nga iya ginhimo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "paganuron"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "hali sa ila mga anak"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "sa kaliwatan"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "nga magaabot"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "ginasugid namon"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "ang mga pagdayaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sang Yahweh"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "kag ang iya kusog"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "kag ang iya mga kagila-giladas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "iya ginhimo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:47.921833185Z",
+  "model": "glm-5.3"
+}

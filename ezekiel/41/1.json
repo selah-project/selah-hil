@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 41,
+  "translation": "Kag gindala niya ako sa sulod sang templo, kag ginsukol niya ⟨את⟩ ang mga haligi: anom ka siko ang lapad sa sa tagsa ka kilid, kag anom ka siko ang lapad sa sa isa pa ka kilid — amo ina ang lapad sang tolda.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "gindala niya ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa sulod sang"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "templo"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "kag ginsukol niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga haligi"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "ang mga haligi"
+    },
+    {
+      "surface": "שש",
+      "gloss": "anom"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ka siko"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ang lapad"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "sa sa isa ka kilid"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "kag anom"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ka siko"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ang lapad"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "sa sa isa pa ka kilid"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ang lapad"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "sang tolda"
+    }
+  ],
+  "timestamp": "2026-09-21T20:00:10.453550022Z",
+  "model": "glm-5.3"
+}

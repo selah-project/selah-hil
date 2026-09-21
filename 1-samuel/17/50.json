@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-samuel 17:50",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag ginpalig-on ni David ang iya kaugalingon labot sa Pelistihano sa sling kag sa bato, kag gintama niya ⟨את⟩ ang Pelistihano kag ginpamatay niya siya; kag espada wala sa kamot ni David.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "kag ginpalig-on"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מן",
+      "gloss": "labot sa"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Pelistihano"
+    },
+    {
+      "surface": "בקלע",
+      "gloss": "sa sling"
+    },
+    {
+      "surface": "ובאבן",
+      "gloss": "kag sa bato"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "kag gintama niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Pelistihano"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ang Pelistihano"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "kag ginpamatay niya siya"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "kag espada"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-21T18:06:41.870045678Z",
+  "model": "glm-5.3"
+}

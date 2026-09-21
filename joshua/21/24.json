@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "⟨את⟩ si Ayalon kag ⟨את⟩ ang mga kapatagan sini, ⟨את⟩ si Gat-Rimon kag ⟨את⟩ ang mga kapatagan sini — apat ka siyudad.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga kapatagan sini"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mga kapatagan sini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Gat-Rimon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga kapatagan sini"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mga kapatagan sini"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mga siyudad"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "apat"
+    }
+  ],
+  "timestamp": "2026-09-21T17:43:05.103695907Z",
+  "model": "glm-5.3"
+}

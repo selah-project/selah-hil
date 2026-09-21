@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 1:7",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ang mga anak nga lalaki ni Yavan: Elishah kag Tarshishah, Kitim kag Rodanim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "kag ang mga anak nga lalaki"
+    },
+    {
+      "surface": "יון",
+      "gloss": "Yavan"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "Elishah"
+    },
+    {
+      "surface": "ותרשישה",
+      "gloss": "kag Tarshishah"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Kitim"
+    },
+    {
+      "surface": "ורודנים",
+      "gloss": "kag Rodanim"
+    }
+  ],
+  "timestamp": "2026-09-21T21:48:48.804365380Z",
+  "model": "glm-5.3"
+}

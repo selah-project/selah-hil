@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 60,
+  "translation": "Kay ang pungsod kag ang ginharian nga indi magaalagad sa imo magakalag-an; kag ang mga pungsod kamingaw pagakamingawan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ang pungsod"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "kag ang ginharian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "magaalagad sa imo"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "magakalag-an"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "kag ang mga pungsod"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kamingaw"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "pagakamingawan"
+    }
+  ],
+  "timestamp": "2026-09-21T19:12:07.721609656Z",
+  "model": "glm-5.3"
+}

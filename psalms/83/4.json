@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 83,
+  "translation": "Batok sa imo nga katawhan nagpaniktik sila sang tinago nga hambal, kag nagtinarong batok sa imo ⟨mga⟩ gintagoan.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Batok sa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "imo katawhan"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "nagpaniktik"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "sang tinago nga hambal"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "kag nagtinarong"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "imo mga gintagoan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:01.256891944Z",
+  "model": "glm-5.3"
+}

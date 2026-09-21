@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 65,
+  "translation": "Malig-on nga pagkalipay sa isa nga imo ginpili kag ginpapaduol ⟨sa imo⟩, magapuyo siya sa imo mga nataran; mapun-an kami sang kaayo sang imo balay, sang imo balaan nga templo.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "malig-on nga pagkalipay"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "imo ginpili"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "kag ginpapaduol"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "magapuyo"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "imo mga nataran"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "mapun-an kami"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "sang kaayo"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "sang imo balay"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "imo templo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:32.423062445Z",
+  "model": "glm-5.3"
+}

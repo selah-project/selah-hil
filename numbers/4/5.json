@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag magasulod si Aharon kag ang iya mga anak sang magapakat ang kampo, kag ila pagpano-a ⟨את⟩ ang tabil sang pangtabil, kag ila tabonan sang ini ⟨את⟩ ang kahon sang pagsaksi.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "kag magasulod"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "kag ang iya mga anak"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "sang magapakat"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ang kampo"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "kag ila pagpano-a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tabil"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "ang tabil"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "sang pangtabil"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "kag ila tabonan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sang ini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kahon"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "ang kahon"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "sang pagsaksi"
+    }
+  ],
+  "timestamp": "2026-09-21T16:59:19.019889563Z",
+  "model": "glm-5.3"
+}

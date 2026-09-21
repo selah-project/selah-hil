@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 51,
+  "translation": "Sa imo, sa imo bug-uid, nagpakasala ako, kag ang karaot ginhimo ko sa imo mga mata, agod magmatood ikaw sa imo mga pulong, maghimos ikaw sing walay sala sa imo paghukom.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "sa imo bug-uid"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nagpakasala ako"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "kag ang karaot"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "sa imo mga mata"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ginhimo ko"
+    },
+    {
+      "surface": "למען",
+      "gloss": "agod"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "magmatood ikaw"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "sa imo mga pulong"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "maghimos ikaw sing walay sala"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "sa imo paghukom"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:19.988794268Z",
+  "model": "glm-5.3"
+}

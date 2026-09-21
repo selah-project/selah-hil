@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag ⟨את⟩ iya mga anak idul-on mo, kag isul-ob mo ⟨את⟩ sila sang mga sina.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iya mga anak"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "idul-on mo"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "kag isul-ob mo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "mga sina"
+    }
+  ],
+  "timestamp": "2026-09-21T16:41:26.432445214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Kag ginhimo niya ⟨את⟩ ang mga kaha-kaha para sa balay-katalogo: duha ka pulo ka kaha-kaha sa kilid sang habagat, pakadto sa habagatan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kag ginhimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kaha-kaha"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ang mga kaha-kaha"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "para sa balay-katalogo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duha ka pulo ka"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "kaha-kaha"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "sa kilid sang"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "habagat"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "pakadto sa habagatan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:38:56.507860774Z",
+  "model": "glm-5.3"
+}

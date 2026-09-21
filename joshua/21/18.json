@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 21:18",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "⟨את⟩ Anatot kag ⟨את⟩ iya mga kapatagan, kag ⟨את⟩ Almon kag ⟨את⟩ iya mga kapatagan — apat ka dakbanwa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anatot"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anatot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga kapatagan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iya mga kapatagan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Almon"
+    },
+    {
+      "surface": "עלמון",
+      "gloss": "Almon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga kapatagan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iya mga kapatagan"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ka dakbanwa"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "apat"
+    }
+  ],
+  "timestamp": "2026-09-21T17:43:27.573764046Z",
+  "model": "glm-5.3"
+}

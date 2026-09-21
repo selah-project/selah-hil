@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag subong, kon madtong ang sulat nga ini sa inyo, kag ⟨אתכם⟩ ang mga anak sang inyo agalon, kag ⟨אתכם⟩ ang mga karo kag ang mga kabayo, kag ang dakbanwa nga malig-on kag ang mga armas,",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kag subong"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "kon madtong"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ang sulat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "kag ⟨אתכם⟩",
+      "marks": "ang mga anak sang inyo agalon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "sang inyo agalon"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "kag ⟨אתכם⟩",
+      "marks": "ang mga karo kag ang mga kabayo"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ang mga karo"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "kag ang mga kabayo"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "kag ang dakbanwa"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "nga malig-on"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "kag ang mga armas"
+    }
+  ],
+  "timestamp": "2026-09-21T18:43:23.283373214Z",
+  "model": "glm-5.3"
+}

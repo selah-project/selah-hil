@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag gintan-aw ko pa-ibabaw ⟨את⟩ ang akon mga mata, kag nakita ko, kag yari — isa ka tawo nga nakabaluti sang mga bado nga lino, kag ang iya mga hawak ginpakipan sang bolawan sang Uphaz.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "gintan-aw ko pa-ibabaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon mga mata"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang akon mga mata"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "kag nakita ko"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kag yari"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "nakabaluti"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "mga bado nga lino"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "kag ang iya mga hawak"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "ginpakipan"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "sang bolawan"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "sang Uphaz"
+    }
+  ],
+  "timestamp": "2026-09-21T21:37:58.994549016Z",
+  "model": "glm-5.3"
+}

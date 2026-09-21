@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag ibubuhat niya ⟨את⟩ ang Yisrael nga matalupsan, tungod sang mga sala ni Yaravam, nga iya ginhimo nga sala, kag nga iya ginpakasala ⟨את⟩ ang Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "kag ibubuhat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "tungod sang"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "mga sala"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ni Yaravam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "iya ginhimo nga sala"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kag nga"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "iya ginpakasala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T18:34:54.243069752Z",
+  "model": "glm-5.3"
+}

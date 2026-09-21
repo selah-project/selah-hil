@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 31:23",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kag gindala niya ⟨את⟩ ang iya mga utod kaupod niya, kag nagligid siya sa iya sa dalan sang pito ka adlaw, kag nadangat niya ⟨אתו⟩ sa bukid sang Gilad.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "gindala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya mga utod"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mga utod"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaupod niya"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "nagligid"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito ka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "וידבק",
+      "gloss": "nadangat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "si Yaakov"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-09-21T16:09:28.011095238Z",
+  "model": "glm-5.3"
+}

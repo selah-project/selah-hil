@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag ang tawo nga maghatag sang iya paghigda sa sapat, kamatayon siya pagakamatuoran; kag ⟨את⟩ sang sapat patyon ninyo.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "kag ang tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "maghatag"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "sang iya paghigda"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "sa sapat"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayon"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "pagakamatuoran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang sapat"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "sang sapat"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "patyon ninyo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:53:34.045591435Z",
+  "model": "glm-5.3"
+}

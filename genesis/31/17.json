@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kag tumindog si Yaakov, kag ginbutang niya ⟨את⟩ ang iya mga anak kag ⟨את⟩ ang iya mga asawa sa mga kamelyo.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kag tumindog"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "kag ginbutang niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ang iya mga anak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya mga asawa"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ang iya mga asawa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "mga kamelyo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:09:32.406932982Z",
+  "model": "glm-5.3"
+}

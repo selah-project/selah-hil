@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 15:10",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Ginhuyop mo sang imo espiritu, ginsakup sila sang dagat; naglubog sila subong sang tingga sa mga makusog nga tubig.",
+  "tokens": [
+    {
+      "surface": "נשפת",
+      "gloss": "ginhuyop mo"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "sang imo espiritu"
+    },
+    {
+      "surface": "כסמו",
+      "gloss": "ginsakup sila"
+    },
+    {
+      "surface": "ים",
+      "gloss": "sang dagat"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "naglubog sila"
+    },
+    {
+      "surface": "כעופרת",
+      "gloss": "subong sang tingga"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sa mga tubig"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "makusog"
+    }
+  ],
+  "timestamp": "2026-09-21T16:25:06.589834461Z",
+  "model": "glm-5.3"
+}

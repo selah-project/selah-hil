@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 68,
+  "translation": "Nagauna ang mga mag-aambahan, nagasunod ang mga tumutugtog, sa tunga sang mga dalaga nga nagtatambol.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "nagauna"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ang mga mag-aambahan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nagasunod"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "ang mga tumutugtog"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "mga dalaga"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "nagtatambol"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:22.860315855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kag igapagwa niya nga pareho sang kahayag ang imo pagkamatarong, kag ang imo paghukum nga pareho sang tungatunga sang adlaw.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "Kag igapagwa niya"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "nga pareho sang kahayag"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ang imo pagkamatarong"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "kag ang imo paghukum"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "nga pareho sang tungatunga sang adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T22:38:50.947176809Z",
+  "model": "glm-5.3"
+}

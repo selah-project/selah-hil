@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 1:3",
+  "book": "zephaniah",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Pangutason ko ang taho kag ang mga sapat nga dako, pangutason ko ang mga sapat nga nagalupad sang mga langit kag ang mga isda sang dagat, kag ang mga makatisod ⟨את⟩ ang mga mallain; kag putlon ko ⟨את⟩ ang taho gikan sa dagway sang duta — orakulo ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "Pangutason ko"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ang taho"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "kag ang mga sapat nga dako"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "pangutason ko"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ang mga sapat nga nagalupad"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sang mga langit"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "kag ang mga isda"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sang dagat"
+    },
+    {
+      "surface": "והמכשלות",
+      "gloss": "kag ang mga makatisod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga mallain"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ang mga mallain"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "kag putlon ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang taho"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang taho"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "dagway"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "orakulo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:17:36.635160867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 75,
+  "translation": "Kay kon akuon ko ang gintagna nga takna, ako mismo magahukom sing kasarangan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "kon akuon ko"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ang gintagna nga takna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako mismo"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "sing kasarangan"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "magahukom"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:28.696076672Z",
+  "model": "glm-5.3"
+}

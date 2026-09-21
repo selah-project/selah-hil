@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 141,
+  "translation": "Kay imo, Yahweh, Adonay, ang akon mga mata; sa imo ako nagpalagyo; indi pagbusaron ang akon kalag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "imo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang akon mga mata"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ako nagpalagyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תער",
+      "gloss": "pagbusaron"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:27.358161162Z",
+  "model": "glm-5.3"
+}

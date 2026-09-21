@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag magakulba kag mahuya sila tungod sa Kush, ang ila paglaom, kag tungod sa Mitsrayim, ang ila himaya.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "magakulba"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "mahuya"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "sa Kush"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "ang ila paglaom"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "kag tungod sa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "ang ila himaya"
+    }
+  ],
+  "timestamp": "2026-09-21T18:57:05.333833909Z",
+  "model": "glm-5.3"
+}

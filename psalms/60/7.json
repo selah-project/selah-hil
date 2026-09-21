@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 60:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 60,
+  "translation": "Agod maluwas ang imo mga hinigugma, luwasa sa imo kamot nga tuo, kag sabta kami.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "agod"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "maluwas"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "imo mga hinigugma"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "luwasa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "imo kamot nga tuo"
+    },
+    {
+      "surface": "ועננו",
+      "gloss": "kag sabta kami"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:03.890856312Z",
+  "model": "glm-5.3"
+}

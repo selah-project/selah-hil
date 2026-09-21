@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 43,
+  "translation": "Ako si Yahweh, ang inyo Balaan, ang Nagtuga sang Yisrael, ang inyo Hari.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "ang inyo Balaan"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "ang Nagtuga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "ang inyo Hari"
+    }
+  ],
+  "timestamp": "2026-09-21T19:05:54.142752026Z",
+  "model": "glm-5.3"
+}

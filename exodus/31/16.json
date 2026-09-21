@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kag bantayan sang mga anak nga lalaki sang Yisrael ⟨את⟩ ang Sabbath, sa pagtuman ⟨את⟩ sang Sabbath sa ila mga kaliwatan, isa ka katipan nga dayon.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Kag bantayan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sang mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Sabbath"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ang Sabbath"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa pagtuman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Sabbath"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ang Sabbath"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "sa ila mga kaliwatan"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "isa ka katipan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nga dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:34:51.094875230Z",
+  "model": "glm-5.3"
+}

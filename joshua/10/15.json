@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 10:15",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag nagpauli si Yehoshua kag ang tanan nga Yisrael upod sa iya, pakadto sa kampo sang Gilgal.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "nagpauli"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "si Yehoshua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan nga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "upod sa iya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pakadto sa"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "sang Gilgal"
+    }
+  ],
+  "timestamp": "2026-09-21T17:38:17.350892407Z",
+  "model": "glm-5.3"
+}

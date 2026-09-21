@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 81,
+  "translation": "Ibuhat kamo ang awit kag tukar kamo sang tambor, ang kinor nga matahom tingog kaupod sang nebel.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Ibuhat kamo"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "ang awit"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "kag tukar kamo"
+    },
+    {
+      "surface": "תף",
+      "gloss": "sang tambor"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "ang kinor"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "nga matahom tingog"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "sang nebel"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:53.441765087Z",
+  "model": "glm-5.3"
+}

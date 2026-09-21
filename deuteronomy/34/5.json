@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Kag namatay didto si Moshe, ulipon ni Yahweh, sa duta sang Moab, sunod sa baba ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "kag namatay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ulipon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "sang Moab"
+    },
+    {
+      "surface": "על",
+      "gloss": "sunod sa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T17:33:49.007927968Z",
+  "model": "glm-5.3"
+}

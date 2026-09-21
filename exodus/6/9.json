@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 6:9",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag ginhambal ni Moshe ina sa mga anak sang Yisrael, apang wala sila magpatalingkad kay Moshe tungod sang mubu nga ginhawa kag sang mabug-at nga pagpaubra.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ginhambal"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apang wala"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nagpatalingkad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מקצר",
+      "gloss": "sang mubu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "nga ginhawa"
+    },
+    {
+      "surface": "ומעבדה",
+      "gloss": "kag sang pagpaubra"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "nga mabug-at"
+    }
+  ],
+  "timestamp": "2026-09-21T16:20:42.475021257Z",
+  "model": "glm-5.3"
+}

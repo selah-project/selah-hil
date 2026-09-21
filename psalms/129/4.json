@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 129,
+  "translation": "Matarong si Yahweh; ginputol niya ⟨את⟩ ang mga higot sang mga malaut.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Matarong"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "ginputol niya"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "ang mga higot"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sang mga malaut"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:25.040874979Z",
+  "model": "glm-5.3"
+}

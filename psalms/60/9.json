@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 60,
+  "translation": "Sa akon ang Gilad, kag sa akon si Menashsheh, kag ang Efrayim ⟨amo⟩ ang pahalipot sang akon ulo; ang Yehudah ⟨amo⟩ ang naggahum sa akon.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "kag sa akon"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "si Menashsheh"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "kag ang Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "pahalipot"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "sang akon ulo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ang Yehudah"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "ang naggahum sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:44.224974613Z",
+  "model": "glm-5.3"
+}

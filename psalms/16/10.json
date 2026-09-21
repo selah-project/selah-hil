@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kay indi mo pagbayran ang akon kalag sa Sheol, indi mo paghatag sang imo matutom ⟨nga tawo⟩ sa pagtan-aw sang bung-a.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "mo pagbayran"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "sa Sheol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "mo paghatag"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "sang imo matutom"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "sa pagtan-aw"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "sang bung-a"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:24.756393762Z",
+  "model": "glm-5.3"
+}

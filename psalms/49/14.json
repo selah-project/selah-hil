@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 49:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 49,
+  "translation": "Ini ang ila dalan, kahaguian para sa ila; kag ang mga nakaabalahan sa ila magakaruyag sang ila hambal nga ginagalin sa ila baba. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "ang ila dalan"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "kahaguian"
+    },
+    {
+      "surface": "למו",
+      "gloss": "para sa ila"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "kag ang mga nakaabalahan sa ila"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "sa ila baba"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "magakaruyag"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:26.406732340Z",
+  "model": "glm-5.3"
+}

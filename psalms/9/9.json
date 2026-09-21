@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag ⟨siya⟩ magahukom sang kalibutan sa pagkamatarong, magahukom sia sang mga pungsod sa kaugpad.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "kag ⟨siya⟩"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "magahukom"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "kalibutan"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "sa pagkamatarong"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "magahukom"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "mga pungsod"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "sa kaugpad"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:23.218244793Z",
+  "model": "glm-5.3"
+}

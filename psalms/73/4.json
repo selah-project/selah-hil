@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 73,
+  "translation": "Kay wala sing gapas sa ila kamatayon, kag busog kag kusgan ang ila lawas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala sing"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "gapas"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "sa ila kamatayon"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "kag busog"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "ang ila lawas"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:14.809420823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag maayo pa kaysa sa duha ka ina ⟨את⟩ ang nga subong pa wala ⟨is⟩ nagkabuhi, ang wala makakita ⟨את⟩ sang buhat nga malain nga ginakabuhat sa ilawom sang adlaw.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "Kag maayo pa"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "kaysa sa duha ka ina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang nga subong pa wala nagkabuhi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang nga"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "subong pa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nagkabuhi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "makakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang buhat nga malain"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "sang buhat"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "nga malain"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ginakabuhat"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilawom"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sang adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T21:26:22.987080511Z",
+  "model": "glm-5.3"
+}

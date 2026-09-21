@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 121,
+  "translation": "Si Yahweh magabantay sa imo sa tanan nga kalaot; magabantay siya ⟨את⟩ sang imo kalag.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "magabantay sa imo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "nga kalaot"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "magabantay siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang imo kalag"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "sang imo kalag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:12.943544734Z",
+  "model": "glm-5.3"
+}

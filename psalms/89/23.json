@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Indi maggasingil ang kaaway sa iya, kag ang anak sang kadautan indi ⟨magapugson⟩ sa iya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "maggasingil"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ang kaaway"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "kag ang anak"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "sang kadautan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "magapugson sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:55.669596353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 117,
+  "translation": "Kay gamhanan sa ibabaw sa aton ang iya hesed, kag ang katumanan ni Yahweh ⟨magauntil⟩ hangtod sa kahangturon. Dayegí ninyo si Yah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "gamhanan"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sa ibabaw sa aton"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iya hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "kag ang katumanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturon"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "dayegí ninyo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "si Yah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:35.281813270Z",
+  "model": "glm-5.3"
+}

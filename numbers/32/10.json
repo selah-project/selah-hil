@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "kag nagdilag ang akig ni Yahweh sasad nga adlaw, kag nagpanumpa siya nga nagasiling",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "kag nagdilag"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ang akig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa sadang"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nga adlaw"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "kag nagpanumpa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    }
+  ],
+  "timestamp": "2026-09-21T17:14:25.364026462Z",
+  "model": "glm-5.3"
+}

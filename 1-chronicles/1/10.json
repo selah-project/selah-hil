@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag si Kush natawan ⟨את⟩ ni Nimrod; siya ang nahauna nga maging gamhanan sa duta.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Kag si Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "natawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Nimrod"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ang nahauna"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "nga maging"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "gamhanan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    }
+  ],
+  "timestamp": "2026-09-21T21:49:13.427877013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 7:10",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag ang mga anak nga lalaki ni Yediael: si Bilhan; kag ang mga anak nga lalaki ni Bilhan: si Yaeush, kag si Binyamin, kag si Ehud, kag si Kenahanah, kag si Zetan, kag si Tarshish, kag si Ajishahar.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "kag ang mga anak nga lalaki"
+    },
+    {
+      "surface": "ידיעאל",
+      "gloss": "Yediael"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Bilhan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "kag ang mga anak nga lalaki"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "ni Bilhan"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "si Yaeush"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "kag si Binyamin"
+    },
+    {
+      "surface": "ואהוד",
+      "gloss": "kag si Ehud"
+    },
+    {
+      "surface": "וכנענה",
+      "gloss": "kag si Kenahanah"
+    },
+    {
+      "surface": "וזיתן",
+      "gloss": "kag si Zetan"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "kag si Tarshish"
+    },
+    {
+      "surface": "ואחישחר",
+      "gloss": "kag si Ajishahar"
+    }
+  ],
+  "timestamp": "2026-09-21T21:52:04.541340617Z",
+  "model": "glm-5.3"
+}

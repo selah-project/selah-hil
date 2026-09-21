@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nagtugo si Yehoshua sa ⟨את⟩ mga opisyal sang katawhan, nga nagasiling:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "kag nagtugo"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "si Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga opisyal sang katawhan"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "mga opisyal"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sang katawhan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    }
+  ],
+  "timestamp": "2026-09-21T17:34:41.050221412Z",
+  "model": "glm-5.3"
+}

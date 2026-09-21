@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag kaonon nila ⟨את⟩ ang unod sa subong nga gab-i — ginsugba sa kalayo — kag tinapay nga wala sing lebadura; kaubay sang mga mapait nga tanom kaonon nila ini.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "kag kaonon nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang unod"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ang unod"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "sa gab-i"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "subong nga"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "ginsugba"
+    },
+    {
+      "surface": "אש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "kag tinapay nga wala sing lebadura"
+    },
+    {
+      "surface": "על",
+      "gloss": "kaubay sang"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "mga mapait nga tanom"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "kaonon nila ini"
+    }
+  ],
+  "timestamp": "2026-09-21T16:24:33.423771264Z",
+  "model": "glm-5.3"
+}

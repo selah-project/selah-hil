@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag nadunggan ni Eli ⟨את⟩ ang tingog sang pagsinggit, kag nagsiling siya, Ano ini nga tingog sang kadaghanan? Kag ang tawo nagdali kag nag-abot kag nagsiling kay Eli.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "kag nadunggan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ni Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tingog"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "sang pagsinggit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ano"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "sang kadaghanan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "kag ang tawo"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "nagdali"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kag nag-abot"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "kay Eli"
+    }
+  ],
+  "timestamp": "2026-09-21T18:00:22.748612699Z",
+  "model": "glm-5.3"
+}

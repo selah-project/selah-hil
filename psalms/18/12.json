@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Nagbutang siya sang kadulumdulunan subong iya tago-anan, sa iya mga palibot ang iya payag — kadulumdulunan sang mga tubig, mga panganod sang mga langit.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "nagbutang siya"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kadulumdulunan"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "tago-anan"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "sa iya mga palibot"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "payag"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "kadulumdulunan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sang mga tubig"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "mga panganod"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "sang mga langit"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:19.671655055Z",
+  "model": "glm-5.3"
+}

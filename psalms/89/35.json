@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Ang akon kasugtanan indi ko pagalauton, kag ang gwa sang akon mga bibig indi ko pagailisan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "pagalauton"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ang akon kasugtanan"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "kag ang gwa"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "sang akon mga bibig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "pagailisan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:36.006883815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Magakalipay ang kamingawan kag ang mabinong duog, kag magakalipay ang kalaw-ayan kag magaubtilob subong sang habatsulet.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "Magakalipay"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ang kamingawan"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "kag ang mabinong duog"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "kag magakalipay"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "ang kalaw-ayan"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "kag magaubtilob"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "subong sang habatsulet"
+    }
+  ],
+  "timestamp": "2026-09-21T19:03:52.231373673Z",
+  "model": "glm-5.3"
+}

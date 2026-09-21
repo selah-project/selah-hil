@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 75,
+  "translation": "Nagatunaw ang duta kag tanan nga mga pumuluyo sini; ako mismo nagpatindog sang iya mga haligi. Selah.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "Nagatunaw"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag tanan nga"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "mga pumuluyo sini"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako mismo"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "nagpatindog"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "sang iya mga haligi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:28.696220766Z",
+  "model": "glm-5.3"
+}

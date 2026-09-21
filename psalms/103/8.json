@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 103,
+  "translation": "Maluluy-on kag bugay si Yahweh, mabalolong sing kaakig, kag dagahan sang hesed.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "maluluy-on"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "kag bugay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "mabalolong"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "sing kaakig"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "kag dagahan"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "sang hesed"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:56.593236988Z",
+  "model": "glm-5.3"
+}

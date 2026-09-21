@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag magasabat sila kag magahambal: Wala ginbuhos sang amon mga kamot ⟨את⟩ ang dugo nga ini, kag wala nakita sang amon mga mata.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "kag magasabat"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "kag magahambal"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "amon mga kamot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "ginbuhos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dugo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ang dugo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "kag amon mga mata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nakita"
+    }
+  ],
+  "timestamp": "2026-09-21T17:25:46.155911873Z",
+  "model": "glm-5.3"
+}

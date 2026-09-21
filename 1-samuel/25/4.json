@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag nadunggan ni David sa kamingawan nga si Nabal gaigo na sa pagputol sang balahibo ⟨את⟩ sang iya karnero.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "kag nadunggan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "gaigo na sa pagputol sang balahibo"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "si Nabal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang iya karnero"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "sang iya karnero"
+    }
+  ],
+  "timestamp": "2026-09-21T18:09:40.791095274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag ⟨את⟩ ang daah, kag ⟨את⟩ ang ayyah, suno sa iya minyah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang daah"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "ang daah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang ayyah"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "ang ayyah"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "suno sa iya minyah"
+    }
+  ],
+  "timestamp": "2026-09-21T22:21:48.560238204Z",
+  "model": "glm-5.3"
+}

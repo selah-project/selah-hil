@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 12:1",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Ginhambal ni Yahweh kay Moshe nga nagsiling:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ginhambal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagsiling"
+    }
+  ],
+  "timestamp": "2026-09-21T16:45:53.408175163Z",
+  "model": "glm-5.3"
+}

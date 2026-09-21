@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Bisan pa gintunga nila ⟨את⟩ ang ila mga anak, pagpabuhin ko sila gikan sa mga tawo — oo, kalisod man sa ila kon maghalin ako sa ila.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bisan pa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "gintunga nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ila mga anak"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ang ila mga anak"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "pagpabuhin ko sila"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "gikan sa mga tawo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "oo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "kalisod"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "kon maghalin ako"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:06:08.507730953Z",
+  "model": "glm-5.3"
+}

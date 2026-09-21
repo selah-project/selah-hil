@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Suno sa ginsogo ni Yahweh ⟨את⟩ si Moshe, amo sina ang ginhimo sang mga anak nga babae ni Tselofkhad.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "suno sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsogo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "amo sina"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ang ginhimo"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "sang mga anak nga babae"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "ni Tselofkhad"
+    }
+  ],
+  "timestamp": "2026-09-21T17:17:01.779643841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 81,
+  "translation": "Ginwala ko ang iya abaga sa sapak; ang iya mga palad magalabay sa bukag.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "ginwala ko"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "sa sapak"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ang iya abaga"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "ang iya mga palad"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "sa bukag"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "magalabay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:10.806409929Z",
+  "model": "glm-5.3"
+}

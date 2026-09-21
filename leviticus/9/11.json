@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag ⟨את⟩ ang unod kag ⟨את⟩ ang panit ginbon-i niya sa kalayo sa gua sang kampo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang unod"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ang unod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang panit"
+    },
+    {
+      "surface": "העור",
+      "gloss": "ang panit"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ginbon-i"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "sa gua"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "sang kampo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:45:41.995124616Z",
+  "model": "glm-5.3"
+}

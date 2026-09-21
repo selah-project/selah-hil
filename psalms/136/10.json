@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 136,
+  "translation": "Sa nakigsapat kay Mitsrayim sa ila mga panganay; kay sa dayon nga tion ang iya hesed.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "Sa nakigsapat"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "kay Mitsrayim"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "sa ila mga panganay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon nga tion"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iya hesed"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:22.489436617Z",
+  "model": "glm-5.3"
+}

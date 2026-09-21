@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Ang kahubas sang imo umagad indi nimo ipakita; asawa sang imo anak siya; indi nimo ipakita ang iya kahubas.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "kahubas"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "sang imo umagad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "nimo ipakita"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sang imo anak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "nimo ipakita"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "iya kahubas"
+    }
+  ],
+  "timestamp": "2026-09-21T16:49:49.583919541Z",
+  "model": "glm-5.3"
+}

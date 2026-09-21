@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Kay tungod kay Yahweh magatago sa iya ako sa isa ka balay-kahahaangan sa adlaw sang katalagman, sa tago nga duog sang iya tolda itatago niya ako, sa bato iapatindog niya ako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay tungod"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "magatago sa iya ako"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "sa isa ka balay-kahahaangan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "sang katalagman"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "itatago niya ako"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sa tago nga duog"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "sang iya tolda"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "sa bato"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "iapatindog niya ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:02.313794969Z",
+  "model": "glm-5.3"
+}

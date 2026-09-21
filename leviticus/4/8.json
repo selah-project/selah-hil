@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 4:8",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag ⟨את⟩ ang tanan nga taba sang baka sang halad sang sala iya iban-on gikan sa iya: ⟨את⟩ ang taba nga nagatakup sa tinai, kag ⟨את⟩ ang tanan nga taba nga yara sa tinai.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan nga taba sang baka sang halad sang sala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "nga taba"
+    },
+    {
+      "surface": "פר",
+      "gloss": "sang baka"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "sang halad sang sala"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "iya iban-on"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "gikan sa iya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang taba nga nagatakup sa tinai"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ang taba"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "nga nagatakup"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "tinai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan nga taba nga yara sa tinai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "nga taba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "tinai"
+    }
+  ],
+  "timestamp": "2026-09-21T16:43:50.252424100Z",
+  "model": "glm-5.3"
+}

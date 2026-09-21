@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 9:5",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag ginkuha nila ⟨את⟩ ang ginsugo ni Moshe sa atubangan sang Tolda sang Katipunan, kag nagpalapit ang tanan nga katilingban kag nagtindog sa atubangan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "kag ginkuha nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ginsugo ni Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "atubangan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang Katipunan"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "kag nagpalapit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "katilingban"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "kag nagtindog"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T22:20:51.057148421Z",
+  "model": "glm-5.3"
+}

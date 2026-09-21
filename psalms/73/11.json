@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 73,
+  "translation": "Kag nagsiling sila: Makakilala bala ang El? Kag may kaalaman bala sa Elyon?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "kag nagsiling sila"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "bala"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "makakilala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ang El"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "kag may"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "kaalaman"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "sa Elyon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:42.214465383Z",
+  "model": "glm-5.3"
+}

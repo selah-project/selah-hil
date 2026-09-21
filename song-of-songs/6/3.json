@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Ako ⟨para⟩ sa akon hinigugma, kag ang akon hinigugma ⟨para⟩ sa akon — ang nagaalimadmad sa mga liryo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "sa akon hinigugma"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "kag ang akon hinigugma"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ang nagaalimadmad"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "sa mga liryo"
+    }
+  ],
+  "timestamp": "2026-09-21T21:19:30.732853020Z",
+  "model": "glm-5.3"
+}

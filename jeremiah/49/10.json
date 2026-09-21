@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 49,
+  "translation": "Kay ako, ginhubaran ko ⟨את⟩ si Esav, ginpasiday ko ⟨את⟩ ang iya mga tagoan, kag magatago indi na siya makahimo; ginwas ang iya kaliwat, kag ang iya mga utod kag ang iya mga silingan, kag wala na siya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "ginhubaran ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "ginpasiday ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya mga tagoan"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "iya mga tagoan"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "kag magatago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "makahimo"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ginwas"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "iya kaliwat"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "kag iya mga utod"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "kag iya mga silingan"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "kag wala na siya"
+    }
+  ],
+  "timestamp": "2026-09-21T19:37:28.412278816Z",
+  "model": "glm-5.3"
+}

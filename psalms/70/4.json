@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 70,
+  "translation": "Magbalik sila tungod sa kaakibat sang ila ulaw, ang mga nagaingon: \"He-ah! He-ah!\"",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "magbalik sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "kaakibat"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "sang ila ulaw"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ang mga nagaingon"
+    },
+    {
+      "surface": "האח",
+      "gloss": "He-ah!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "He-ah!"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:15.210376293Z",
+  "model": "glm-5.3"
+}

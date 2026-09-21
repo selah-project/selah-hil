@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag nagsiling si Balak kay Bilam: Indi gid pagtungtong, ukon pagbadya sing tungtong sa ila; indi gid pagpanalangin, ukon pagbadya sing panalangin sa ila.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "si Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "si Bilam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gid"
+    },
+    {
+      "surface": "קב",
+      "gloss": "pagtungtong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "pagbadya sing tungtong sa ila"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gid"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "pagpanalangin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "pagbadya sing panalangin sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T17:10:46.941475105Z",
+  "model": "glm-5.3"
+}

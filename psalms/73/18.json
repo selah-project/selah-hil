@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 73:18",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 73,
+  "translation": "Sigurado gid, sa mga mahalisdanon nga duog mo sila ginbutang, ginpakatumba mo sila sa mga kaguba.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Sigurado gid"
+    },
+    {
+      "surface": "בחלקות",
+      "gloss": "sa mga mahalisdanon nga duog"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "mo sila ginbutang"
+    },
+    {
+      "surface": "למו",
+      "gloss": "sila"
+    },
+    {
+      "surface": "הפלתם",
+      "gloss": "ginpakatumba mo sila"
+    },
+    {
+      "surface": "למשואות",
+      "gloss": "sa mga kaguba"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:50.953545380Z",
+  "model": "glm-5.3"
+}

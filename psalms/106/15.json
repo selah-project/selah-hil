@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 106,
+  "translation": "Kag ginhatag niya sa ila ang ila ginpangayo, kag ginpadala niya ang kahubas sa ila kalag",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "kag ginhatag niya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "ang ila ginpangayo"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "kag ginpadala niya"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "ang kahubas"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "sa ila kalag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:28.197704881Z",
+  "model": "glm-5.3"
+}

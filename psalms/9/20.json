@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Tindog ka, Yahweh; indi pagtuguti nga magpakusog ang tawo; pagahukman ang mga pungsod sa imo atubangan.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Tindog ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "magpakusog"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "pagahukman"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ang mga pungsod"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "imo atubangan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:50.359172519Z",
+  "model": "glm-5.3"
+}

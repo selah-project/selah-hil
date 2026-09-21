@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Magadamo ang ila mga kasakitan — sila nga nagpadali sa iban ⟨nga dios⟩; indi ako magahulas sang ila mga halad nga may dugo, kag indi ako maggakod ⟨את⟩ sang ila mga ngalan sa akon mga ngabil.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "Magadamo"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "ang ila mga kasakitan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sa iban"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "nga nagpadali"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "ako magahulas"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "sang ila mga halad"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "nga may dugo"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ako maggakod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang ila mga ngalan"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "sang ila mga ngalan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "akon mga ngabil"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:07.398759990Z",
+  "model": "glm-5.3"
+}

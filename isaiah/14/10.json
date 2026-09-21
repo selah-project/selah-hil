@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Tanan sila magasimbag kag magasiling sa imo: 'Ikaw man nagkahuya subong sang amon, sa amon ka nangin pareho.'",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "tanan sila"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "magasimbag"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "kag magasiling"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "nagkahuya"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "subong sang amon"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "nangin pareho"
+    }
+  ],
+  "timestamp": "2026-09-21T18:55:14.689615943Z",
+  "model": "glm-5.3"
+}

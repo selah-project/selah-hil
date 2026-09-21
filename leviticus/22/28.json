@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kag baka ukon kordero, ⟨את⟩ ⟨siya⟩ kag ⟨את⟩ ang iya anak indi ninyo pagpatyon sa isa ka adlaw.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "Kag baka"
+    },
+    {
+      "surface": "או",
+      "gloss": "ukon"
+    },
+    {
+      "surface": "שה",
+      "gloss": "kordero"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨siya⟩",
+      "marks": "⟨siya⟩ (ang baka ukon kordero)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya anak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iya anak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "ninyo pagpatyon"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa isa ka adlaw"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    }
+  ],
+  "timestamp": "2026-09-21T16:52:12.094908343Z",
+  "model": "glm-5.3"
+}

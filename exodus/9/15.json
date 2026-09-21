@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kay subong nga tion madali ko gintubo ⟨את⟩ ang akon kamot kag ginhampak ikaw ⟨את⟩ kag ⟨את⟩ ang imo katawhan sang plaga, kag nagkinalag kaw sa duta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "subong nga tion"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "madali ko gintubo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon kamot"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ang akon kamot"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "kag ginhampak"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "ikaw ⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang imo katawhan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ang imo katawhan"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sang plaga"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "kag nagkinalag kaw"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duta"
+    }
+  ],
+  "timestamp": "2026-09-21T16:23:09.779272531Z",
+  "model": "glm-5.3"
+}

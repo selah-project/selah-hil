@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag ang mga adlaw ni Adam katapos nga natawoan niya ⟨את⟩ si Shet walo ka gatos ka tuig, kag natawoan siya sing mga anak nga lalaki kag mga anak nga babae.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "kag nangin"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ang mga adlaw"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ni Adam"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "katapos"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "natawoan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shet"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "walo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "kag natawoan siya"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "kag mga anak nga babae"
+    }
+  ],
+  "timestamp": "2026-09-21T15:56:07.503003201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 11:14",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag magalupad sila sa abaga sang mga Pelishti pakadto sa dagat, magaubus sila nga magakadto ⟨את⟩ sang mga anak nga lalaki sang sidlangan; magapaabot sila sang ila kamot sa Edom kag Moab, kag ang mga anak nga lalaki sang Amon magatuman sa ila.",
+  "tokens": [
+    {
+      "surface": "ועפו",
+      "gloss": "kag magalupad sila"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "sa abaga"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sang mga Pelishti"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "pakadto sa dagat"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magaubus sila"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "magaubus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang mga anak nga lalaki sang sidlangan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "sang sidlangan"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "sa Edom"
+    },
+    {
+      "surface": "ומואב",
+      "gloss": "kag Moab"
+    },
+    {
+      "surface": "משלוח",
+      "gloss": "magapaabot"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "sang ila kamot"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "kag ang mga anak nga lalaki"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "sang Amon"
+    },
+    {
+      "surface": "משמעתם",
+      "gloss": "magatuman sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T18:56:46.041972877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 139,
+  "translation": "Kay ikaw ang nagbuhat sang akon ⟨mga kaugdang⟩, ginpanipihon mo ako sa sulod sang tiyan sang akon iloy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "nagbuhat"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "mga kaugdang"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "ginpanipihon mo ako"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "sa sulod sang tiyan"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "akon iloy"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:03.605153847Z",
+  "model": "glm-5.3"
+}

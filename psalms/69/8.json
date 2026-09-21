@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 69,
+  "translation": "Kay tungod sa imo gid nagdala ako sang kaulawan; ang kaulawan nagtabon sang akon dagway.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "tungod sa imo gid"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "nagdala ako"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "sang kaulawan"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "nagtabon"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "ang kaulawan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sang akon dagway"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:18.247306897Z",
+  "model": "glm-5.3"
+}

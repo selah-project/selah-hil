@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag ginpaguwa niya ako sa malapad nga duog, gintabangan niya ako, kay nakaluyag siya sa akon.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "kag ginpaguwa niya ako"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "sa malapad nga duog"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "gintabangan niya ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "nakaluyag siya"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:17.283088644Z",
+  "model": "glm-5.3"
+}

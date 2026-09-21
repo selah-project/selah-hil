@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Ang inyo mga amay — diin sila? Kag ang mga manalagna, bala sa gatumod magakabuhi?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "inyo mga amay"
+    },
+    {
+      "surface": "איה",
+      "gloss": "diin"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "kag ang mga manalagna"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "bala sa gatumod"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "magakabuhi"
+    }
+  ],
+  "timestamp": "2026-09-21T20:18:10.453868350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag tan-awa, kag himoa sila sa ila hulad, nga ginapakita sa imo sa bukid.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "kag tan-awa"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "kag himoa"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "sa ila hulad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ginapakita"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    }
+  ],
+  "timestamp": "2026-09-21T16:32:01.687557770Z",
+  "model": "glm-5.3"
+}

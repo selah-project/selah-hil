@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 42:4",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Kag sa atubang sang mga kuwarto may agianan nga napulo ka sokol ang kalapad, pakadto sa ⟨bahin⟩ nga pangsulod, isa ka sokol ang dalan; kag ang ila mga pungan sa amihanan.",
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "kag sa atubang"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "sang mga kuwarto"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "agianan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ka sokol"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ang kalapad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pakadto sa"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "pangsulod"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ang dalan"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "sokol"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ופתחיהם",
+      "gloss": "kag ang ila mga pungan"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "sa amihanan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:36:01.936988950Z",
+  "model": "glm-5.3"
+}

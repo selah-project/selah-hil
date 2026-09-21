@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 26:6",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Kag himoon mo ang lima ka pulo ka kawit sang bulawan, kag iugpon mo ⟨את⟩ ang mga habol, ang isa sa iya kaupod, paagi sa mga kawit; kag ang Mishkan magauntat nga isa.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "kag himoon mo"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima ka pulo"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "ka kawit"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sang bulawan"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "kag iugpon mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga habol"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ang mga habol"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "iya kaupod"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "paagi sa mga kawit"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kag magauntat"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ang Mishkan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nga isa"
+    }
+  ],
+  "timestamp": "2026-09-21T22:19:57.716993098Z",
+  "model": "glm-5.3"
+}

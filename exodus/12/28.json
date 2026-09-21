@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag nagkadto kag ginhimo sang mga anak sang Yisrael subong sang ginsogo ni Yahweh ⟨את⟩ kay Moshe kag kay Aharon — amo gihapon nga ginbuhat ninyo.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "Kag nagkadto"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ghinhimo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsogo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "kag kay Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "amo gihapon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginbuhat ninyo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:26:29.762887796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Ginpataas ni Yahweh ⟨את⟩ ang mga kaaway ni Retsin paglabaw sa iya, kag ⟨את⟩ iya mga kaaway ginpahiusa.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "ginpataas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kaaway ni Retsin"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mga kaaway"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "ni Retsin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paglabaw sa iya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga kaaway"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "iya mga kaaway"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "ginpahiusa"
+    }
+  ],
+  "timestamp": "2026-09-21T18:55:48.348696588Z",
+  "model": "glm-5.3"
+}

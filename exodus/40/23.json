@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag gintanom niya sa orden sa iya ibabaw ang orden sang tinapay sa atubangan ni Yahweh, suno sa ginsugo ni Yahweh ⟨את⟩ ⟨kay⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "ginbutang niya sa orden"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa iya ibabaw"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "ang orden"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "sang tinapay"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "suno sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T16:40:58.450427682Z",
+  "model": "glm-5.3"
+}

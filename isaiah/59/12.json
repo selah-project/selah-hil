@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 59:12",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 59,
+  "translation": "Kay madamo ang aton mga pagsukol sa imo atubang, kag ang aton mga sala nakasaksi kontra sa aton; kay ⟨את⟩ ang aton mga pagsukol ⟨את⟩ sa aton yara, kag ang aton mga kasal-anan aton sila nga kilala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "madamo"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ang aton mga pagsukol"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "sa imo atubang"
+    },
+    {
+      "surface": "וחטאותינו",
+      "gloss": "kag ang aton mga sala"
+    },
+    {
+      "surface": "ענתה",
+      "gloss": "nakasaksi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kontra sa aton"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ang aton mga pagsukol"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ sa aton",
+      "marks": "ang aton mga pagsukol"
+    },
+    {
+      "surface": "ועונתינו",
+      "gloss": "kag ang aton mga kasal-anan"
+    },
+    {
+      "surface": "ידענום",
+      "gloss": "aton sila nga kilala"
+    }
+  ],
+  "timestamp": "2026-09-21T19:11:50.895865630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag nagsulod si Yosef sa ila sa aga, kag nakita niya ⟨את⟩ sila, kag yari, sila ⟨mga⟩ subâ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "nagsulod"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa aga"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "kag nakita"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "kag yari"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "mga subâ"
+    }
+  ],
+  "timestamp": "2026-09-21T16:13:40.747613077Z",
+  "model": "glm-5.3"
+}

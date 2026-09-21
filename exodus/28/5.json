@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Kag sila magakuha sang ⟨את⟩ bulawan kag ⟨את⟩ bughaw kag ⟨את⟩ purpura kag ⟨את⟩ uga nga mapula kag ⟨את⟩ mapino nga lino.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "kag sila"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "magakuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bulawan"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "bughaw"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "bughaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "purpura"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "purpura"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "uga nga mapula"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "uga"
+    },
+    {
+      "surface": "השני",
+      "gloss": "mapula"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "mapino nga lino"
+    },
+    {
+      "surface": "השש",
+      "gloss": "mapino nga lino"
+    }
+  ],
+  "timestamp": "2026-09-21T16:33:29.273076399Z",
+  "model": "glm-5.3"
+}

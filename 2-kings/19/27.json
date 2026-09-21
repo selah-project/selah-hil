@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag ang imo pagpungko, kag ang imo paggwa kag ang imo pagsulod, nahibalo ako, kag ⟨את⟩ ang imo igkagakig sa akon.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "ang imo pagpungko"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "ang imo paggwa"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "ang imo pagsulod"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nahibalo ako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang imo igkagakig"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "ang imo igkagakig"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T18:49:10.836673329Z",
+  "model": "glm-5.3"
+}

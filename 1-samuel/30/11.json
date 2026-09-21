@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 30:11",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kag nakita nila ang isa ka tawo, isa ka Mitsrihon, sa kapatagan; kag gindala nila siya ⟨את⟩ sa kay David, kag gintagan nila siya sang tinapay kag nagkaon siya, kag ginpainum nila siya sang tubig.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "kag nakita nila"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang isa ka tawo"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "isa ka Mitsrihon"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa kapatagan"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "kag gindala nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "sa kay David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa kay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "kag gintagan nila"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "sang tinapay"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "kag nagkaon siya"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "kag ginpainum nila siya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sang tubig"
+    }
+  ],
+  "timestamp": "2026-09-21T18:10:22.563053264Z",
+  "model": "glm-5.3"
+}

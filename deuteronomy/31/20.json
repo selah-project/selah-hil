@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 31:20",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kay madala ko sila sa duta nga ginpanumpaan ko sa iya mga amay, nga nagagasaha sang gatas kag dugos, kag magakaon sila kag mabusog kag mataba, kag magabalik sila sa iban nga mga elohim kag magaalang sila sa ila, kag pagtalastas nila ako, kag pagguba nila ⟨את⟩ sang akon kasugtanan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אביאנו",
+      "gloss": "madala ko sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "duta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ginpanumpaan ko"
+    },
+    {
+      "surface": "לאבתיו",
+      "gloss": "sa iya mga amay"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "nagagasaha"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "gatas"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "kag dugos"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "kag magakaon sila"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "kag mabusog"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "kag mataba"
+    },
+    {
+      "surface": "ופנה",
+      "gloss": "kag magabalik sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "nga iban"
+    },
+    {
+      "surface": "ועבדום",
+      "gloss": "kag magaalang sila sa ila"
+    },
+    {
+      "surface": "ונאצוני",
+      "gloss": "kag pagtalastas nila ako"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "kag pagguba nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang akon kasugtanan"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "sang akon kasugtanan"
+    }
+  ],
+  "timestamp": "2026-09-21T17:34:19.050916289Z",
+  "model": "glm-5.3"
+}

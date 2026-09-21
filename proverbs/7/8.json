@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "nagatabok sa merkado malapit sa iya sulok, kag ang dalan pakadto sa iya balay ginalakat niya",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "nagatabok"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "sa merkado"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "malapit"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "sa iya sulok"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "kag ang dalan"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "pakadto sa iya balay"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "ginalakat niya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:57:04.204153256Z",
+  "model": "glm-5.3"
+}

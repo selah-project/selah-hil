@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Magtindog kamo sang mga balay kag magpuyo didto, kag magtanom kamo sang mga tanaman, kag kaaon kamo ⟨את⟩ ang bunga sini.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "magtindog kamo"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "mga balay"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "kag magpuyo didto"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "kag magtanom kamo"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "mga tanaman"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "kag kaaon kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bunga sini"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "bunga"
+    }
+  ],
+  "timestamp": "2026-09-21T19:28:35.195866668Z",
+  "model": "glm-5.3"
+}

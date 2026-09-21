@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag gidala niya ⟨את⟩ ang halad sang katawhan, kag ginkuha niya ⟨את⟩ ang kanding nga lalaki sang halad sang sala nga para sa katawhan, kag ginpatay niya ini kag ginhimo niya ini nga halad sang sala, nga sugad sang nahauna.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "gidala niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang halad sang katawhan"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "ang halad"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sang katawhan"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "kag ginkuha niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanding nga lalaki"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ang kanding nga lalaki"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "sang halad sang sala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "para sa katawhan"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "ginpatay niya ini"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "ginhimo niya ini nga halad sang sala"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "nga sugad sang nahauna"
+    }
+  ],
+  "timestamp": "2026-09-21T16:45:45.886715388Z",
+  "model": "glm-5.3"
+}

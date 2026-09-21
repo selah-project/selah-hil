@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 49,
+  "translation": "Apang ang tawo sa dungganan indi magapabilin; gingsama siya sa mga sapat nga nagakalag.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "Apang ang tawo"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "sa dungganan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "magapabilin"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "gingsama"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "sa mga sapat"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "nagakalag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:26.406404758Z",
+  "model": "glm-5.3"
+}

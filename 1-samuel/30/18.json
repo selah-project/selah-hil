@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kag ginbawi ni David ⟨את⟩ tanan nga ginkuha ni Amalek, kag ⟨את⟩ iya duha ka asawa ginsagip ni David.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "ginbawi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ginkuha"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ni Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya duha ka asawa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duha"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ka asawa"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "ginsagip"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-21T18:11:17.160897235Z",
+  "model": "glm-5.3"
+}

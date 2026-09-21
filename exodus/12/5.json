@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Isa ka kaban sang grupo, bug-os nga lalaki, isa ka tuig ang iya edad, amo ina ang para sa inyo; halin sa mga kordero ukon halin sa mga kanding kamo magakuha.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "kaban sang grupo"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bug-os"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "amo ina ang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para sa inyo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "halin sa"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "mga kordero"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "kag halin sa"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "mga kanding"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "kamo magakuha"
+    }
+  ],
+  "timestamp": "2026-09-21T16:24:33.423091722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 43:8",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 43,
+  "translation": "Kag nagsiling si Yehudah kay Yisrael nga iya amay, Ipadala ang bata ⟨את⟩ kaupod sa akon, kag magtindog kami kag maglakat, kag mabuhi kami kag indi kami matay — kami man, ikaw man, kag ang amon mga gamay nga anak man.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "si Yehudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "si Yisrael"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nga iya amay"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "ipadala"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kaupod sa akon",
+      "marks": "ang bata"
+    },
+    {
+      "surface": "ונקומה",
+      "gloss": "kag magtindog kami"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "kag maglakat"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "kag mabuhi kami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "matay kami"
+    },
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "טפנו",
+      "gloss": "ang amon mga gamay nga anak"
+    }
+  ],
+  "timestamp": "2026-09-21T16:16:50.246227506Z",
+  "model": "glm-5.3"
+}

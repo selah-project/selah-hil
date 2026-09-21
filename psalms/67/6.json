@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 67,
+  "translation": "Magadayaw sa imo ang mga katawhan, Elohim; magadayaw sa imo ang mga katawhan, tanan nila.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "magadayaw sa imo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ang mga katawhan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "magadayaw sa imo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ang mga katawhan"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tanan nila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:07.646878030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Kag ⟨את⟩ ang inyo utod nga manghod dalhon ninyo sa akon, agod mapamatud-an ang inyo mga pulong kag indi kamo mamatay. Kag ginhimo nila ina.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang inyo utod"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ang inyo utod"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nga manghod"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "dalhon ninyo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "agod mapamatud-an"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "ang inyo mga pulong"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "kamo mamatay"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ginhimo nila"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ina"
+    }
+  ],
+  "timestamp": "2026-09-21T16:15:37.399227874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-chronicles 6:57",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "kag gikan sa tribo ni Yissaskar ⟨את⟩ ang Kedesh kag ⟨את⟩ ang iya mga kasilinganan, ⟨את⟩ ang Daberath kag ⟨את⟩ ang iya mga kasilinganan",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "kag gikan sa tribo"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Kedesh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ang Kedesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya mga kasilinganan"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ang iya mga kasilinganan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Daberath"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ang Daberath"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya mga kasilinganan"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ang iya mga kasilinganan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:51:41.968063213Z",
+  "model": "glm-5.3"
+}

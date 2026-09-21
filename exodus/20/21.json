@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag ang katawhan nagtindog sa malayo, kag si Moshe nagduol sa kaduluman nga diin ⟨ara⟩ ang Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Kag nagtindog"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "sa malayo"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "kag si Moshe"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "nagduol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "kaduluman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga diin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨ara⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ang Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:27:56.247764472Z",
+  "model": "glm-5.3"
+}

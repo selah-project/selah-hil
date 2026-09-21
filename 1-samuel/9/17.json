@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 9:17",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag nakita ni Shemuel ⟨את⟩ si Shaul, kag ginsabat ni Yahweh siya: Tan-awa, ini ang tawo nga akon ginhambal sa imo; ini ang magadumala sa akon katawhan.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Kag si Shemuel"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "kag si Yahweh"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "ginsabat siya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "akon ginhambal"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "magadumala"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "sa akon katawhan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:02:04.949156335Z",
+  "model": "glm-5.3"
+}

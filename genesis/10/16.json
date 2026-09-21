@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag ⟨את⟩ ang Yevusi, kag ⟨את⟩ ang Emori, kag ⟨את⟩ ang Girgashi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Yevusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "ang Yevusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ang Emori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Girgashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "ang Girgashi"
+    }
+  ],
+  "timestamp": "2026-09-21T15:58:49.604685798Z",
+  "model": "glm-5.3"
+}

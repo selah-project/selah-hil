@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag nagsabat si Efron ⟨את⟩ kay Avraham, nga nagasiling sa iya:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "kag nagsabat"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "si Efron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "kay Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:02:56.469430244Z",
+  "model": "glm-5.3"
+}

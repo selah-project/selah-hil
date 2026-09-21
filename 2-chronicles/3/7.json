@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 3:7",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag gintabon niya ⟨את⟩ ang balay — ang mga balabag, ang mga sungkod sang pultahan, kag ang iya mga pader, kag ang iya mga pultahan — sang bulawan, kag iya gintirotiroban sang mga keruv ang mga pader",
+  "tokens": [
+    {
+      "surface": "ויחף",
+      "gloss": "kag gintabon niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "הקרות",
+      "gloss": "mga balabag"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "mga sungkod sang pultahan"
+    },
+    {
+      "surface": "וקירותיו",
+      "gloss": "kag ang iya mga pader"
+    },
+    {
+      "surface": "ודלתותיו",
+      "gloss": "kag ang iya mga pultahan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "kag iya gintirotiroban"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "mga keruv"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "ang mga pader"
+    }
+  ],
+  "timestamp": "2026-09-21T22:01:28.664179189Z",
+  "model": "glm-5.3"
+}

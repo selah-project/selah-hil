@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 95,
+  "translation": "Dali kamo, magdayaw kita kay Yahweh, magpaninghoy kita sa Bato sang aton pagluwas.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "dali kamo"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "magdayaw kita"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "magpaninghoy kita"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "sa Bato"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "sang aton pagluwas"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:01.446087452Z",
+  "model": "glm-5.3"
+}

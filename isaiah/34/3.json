@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 34:3",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Kag ang ila mga gintaya ginsikway, kag ang baho sang ila mga lawas magataas, kag ang mga bukid matunaw tungod sang ila dugo.",
+  "tokens": [
+    {
+      "surface": "וחלליהם",
+      "gloss": "Kag ang ila mga gintaya"
+    },
+    {
+      "surface": "ישלכו",
+      "gloss": "ginsikway"
+    },
+    {
+      "surface": "ופגריהם",
+      "gloss": "kag ang ila mga lawas"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "magataas"
+    },
+    {
+      "surface": "באשם",
+      "gloss": "ang baho"
+    },
+    {
+      "surface": "ונמסו",
+      "gloss": "kag matunaw"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ang mga bukid"
+    },
+    {
+      "surface": "מדמם",
+      "gloss": "tungod sang ila dugo"
+    }
+  ],
+  "timestamp": "2026-09-21T19:03:52.610933457Z",
+  "model": "glm-5.3"
+}

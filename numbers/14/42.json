@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Indi kamo mag-alsa, kay wala ⟨si⟩ Yahweh sa tunga ninyo, kag indi kamo maligsan sa atubang sang mga kaaway ninyo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "mag-alsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "sa tunga ninyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "maligsan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "mga kaaway ninyo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:06:06.598700531Z",
+  "model": "glm-5.3"
+}

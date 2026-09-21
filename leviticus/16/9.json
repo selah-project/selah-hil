@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag paduawon ni Aharon ⟨את⟩ ang kanding nga nagsaka sa iya ang gurulud para kay Yahweh, kag himoon niya ini nga halad sang sala.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "kag paduawon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanding"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ang kanding"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "nagsaka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "ang gurulud"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para kay Yahweh"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "kag himoon niya ini"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "halad sang sala"
+    }
+  ],
+  "timestamp": "2026-09-21T16:50:48.269909774Z",
+  "model": "glm-5.3"
+}

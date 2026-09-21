@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 10:9",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag nakita ni Yoav nga ang atubang sang pakig-away ara sa iya sa atubangan kag sa likod, kag nagpili siya sa tanan nga pinili nga mga batan-on sang Yisrael, kag gintuna niya ⟨mga⟩ aron pag-atubang sa Aram.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "kag nakita"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ni Yoav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ara"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ang atubang"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "sang pakig-away"
+    },
+    {
+      "surface": "מפנים",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "ומאחור",
+      "gloss": "kag sa likod"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "kag nagpili"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "nga pinili nga mga batan-on"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "kag gintuna"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "aron pag-atubang"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "sa Aram"
+    }
+  ],
+  "timestamp": "2026-09-21T18:17:09.126031871Z",
+  "model": "glm-5.3"
+}

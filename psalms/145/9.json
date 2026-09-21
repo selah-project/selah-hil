@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 145,
+  "translation": "Mainhumay si Yahweh sa tanan, kag ang iya mga kaluoy ara sa tanan sang iya mga buhat.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "mainhumay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "kag ang iya mga kaluoy"
+    },
+    {
+      "surface": "על",
+      "gloss": "ara sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "sang iya mga buhat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:00.159229935Z",
+  "model": "glm-5.3"
+}

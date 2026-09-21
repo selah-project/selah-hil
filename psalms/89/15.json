@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Pagkamatarong kag hustisya ang pundasyon sang imo trono; hesed kag kamatuoran nagakauna sa imo dagway.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Pagkamatarong"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "kag hustisya"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "pundasyon"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "sang imo trono"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "kag kamatuoran"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "nagakauna"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sa imo dagway"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:32.298379385Z",
+  "model": "glm-5.3"
+}

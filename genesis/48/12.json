@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 48,
+  "translation": "Kag ginpagwa ni Yosef sila ⟨את⟩ sa tunga sang iya mga tuhod, kag nagtulkod siya sa iya nawong ngadto sa duta.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "kag ginpagwa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "iya mga tuhod"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "kag nagtulkod"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "sa iya nawong"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ngadto sa duta"
+    }
+  ],
+  "timestamp": "2026-09-21T16:17:34.946354467Z",
+  "model": "glm-5.3"
+}

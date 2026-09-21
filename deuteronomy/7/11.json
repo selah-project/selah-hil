@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag magatipig ka ⟨את⟩ sang kasuguan kag ⟨את⟩ sang mga kahalal kag ⟨את⟩ sang mga pagtolon-an nga akon ginasogo sa imo subong nga adlaw, sa paghimo sini.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "kag magatipig ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang kasuguan"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "sang kasuguan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang mga kahalal"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "sang mga kahalal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang mga pagtolon-an"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "sang mga pagtolon-an"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "akon"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ginasogo sa imo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "subong nga adlaw"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "sa paghimo sini"
+    }
+  ],
+  "timestamp": "2026-09-21T17:21:11.574713777Z",
+  "model": "glm-5.3"
+}

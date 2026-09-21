@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag ginkuha niya kag ginbutang ⟨את⟩ ang Testigo sa Arka, kag ginbutang niya ⟨את⟩ ang mga badbaran sa Arka, kag ginbutang niya ⟨את⟩ ang Kapporet sa Arka, sa itaas.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kag ginkuha"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kag ginbutang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Testigo"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ang Testigo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Arka"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "kag ginbutang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga badbaran"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ang mga badbaran"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Arka"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kag ginbutang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Kapporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ang Kapporet"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Arka"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "sa itaas"
+    }
+  ],
+  "timestamp": "2026-09-21T16:41:24.220936741Z",
+  "model": "glm-5.3"
+}

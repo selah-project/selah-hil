@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag ibutang mo ⟨את⟩ ang halaran sang sinunog nga halad sa atubangan sang ganghaan sang tabernakulo, sang tolda sang pagtilipon.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "ibutang mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang halaran sang sinunog nga halad"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sang sinunog nga halad"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sang ganghaan"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "sang tabernakulo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sang tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang pagtilipon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:41:00.285425669Z",
+  "model": "glm-5.3"
+}

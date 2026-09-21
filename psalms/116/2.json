@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 116,
+  "translation": "Kay gintuyang niya ang iya dunggan sa akon, kag sa akon mga adlaw magatawag ⟨ako⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "gintuyang"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ang iya dunggan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "kag sa akon mga adlaw"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "magatawag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:08.727667731Z",
+  "model": "glm-5.3"
+}

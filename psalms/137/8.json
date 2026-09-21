@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 137,
+  "translation": "Anak nga babae sang Bavel, ikaw nga laglagon, malipayon ang magasaulip sa imo sang ⟨את⟩ ganti nga imo ginhimo sa amon.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "Anak nga babae"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "sang Bavel"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "ikaw nga laglagon"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "malipayon"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "ang magasaulip"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ganti"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "sang ganti"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "nga imo ginhimo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:29.673573776Z",
+  "model": "glm-5.3"
+}

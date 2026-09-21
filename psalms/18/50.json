@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Amo gani sa mga pungsod magapadungog ako sa imo, Yahweh, kag sa imo Ngalan magakanta ako.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "amo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gani"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "magapadungog ako sa imo"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa mga pungsod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "kag sa imo Ngalan"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "magakanta ako"
+    }
+  ],
+  "timestamp": "2026-09-21T22:38:27.240178429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 109,
+  "translation": "Kay ako gin-aapi kag imol, kag ang akon kasingkasing nasamaran sa akon sulud.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עני",
+      "gloss": "gin-aapi"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "kag imol"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "kag ang akon kasingkasing"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "nasamaran"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "sa akon sulud"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:35.106309294Z",
+  "model": "glm-5.3"
+}

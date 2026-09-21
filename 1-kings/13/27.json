@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag nagsiling siya sa iya mga anak, nga nagsiling: Sag-ana sa akon ⟨את⟩ ang asno; kag ginsag-an nila ini.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kag nagsiling siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iya mga anak"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagsiling"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "sag-ana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang asno"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "ang asno"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "kag ginsag-an nila ini"
+    }
+  ],
+  "timestamp": "2026-09-21T18:32:44.012786568Z",
+  "model": "glm-5.3"
+}

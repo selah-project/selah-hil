@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 88,
+  "translation": "Malaya sa mga minatay, kaangay sang mga ginpamatay nga nagakaturog sa linibingan, nga wala na nimo ⟨sila⟩ ginadumduman; kag sila sa imo kamot ginputol.",
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "sa mga minatay"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "malaya"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kaangay"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "mga ginpamatay"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "mga nagakaturog"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "linibingan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "ginadumduman"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "kag sila"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "sa imo kamot"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "ginputol"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:53.404872284Z",
+  "model": "glm-5.3"
+}

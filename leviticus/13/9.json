@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kon may nega sang tsaraat ⟨sa⟩ tawo, dal-on siya sa sacerdote.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "nega (sapat)"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "sang tsaraat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "may"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "dal-on siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sa sacerdote"
+    }
+  ],
+  "timestamp": "2026-09-21T16:47:46.049683350Z",
+  "model": "glm-5.3"
+}

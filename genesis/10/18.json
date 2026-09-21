@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "kag ⟨את⟩ ang Arvadhanon, kag ⟨את⟩ ang Tsemarhanon, kag ⟨את⟩ ang Khamathhanon; kag pagkatapos nagwatod ang mga banay sang Kenaanhon",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Arvadhanon"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "ang Arvadhanon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Tsemarhanon"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "ang Tsemarhanon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Khamathhanon"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "ang Khamathhanon"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "kag pagkatapos"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "nagwatod"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ang mga banay"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "sang Kenaanhon"
+    }
+  ],
+  "timestamp": "2026-09-21T15:58:50.785300750Z",
+  "model": "glm-5.3"
+}

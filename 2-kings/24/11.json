@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 24:11",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag nag-abot si Nevukhadnetstsar nga hari sang Bavel sa dakbanwa, samtang ang iya mga sulugoon nagapangibot sa ini.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Kag nag-abot"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "si Nevukhadnetstsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nga hari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "sang Bavel"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa (pangingabot sa)"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang dakbanwa"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "kag ang iya mga sulugoon"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "nagapangibot"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sa ini"
+    }
+  ],
+  "timestamp": "2026-09-21T18:51:03.998670977Z",
+  "model": "glm-5.3"
+}

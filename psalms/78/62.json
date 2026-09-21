@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 78:62",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "kag ginsugid sa espada ⟨את⟩ iya katawhan, kag sa iya mana nagakig umaayon ⟨siya⟩",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "ginsugid"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "sa espada"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "iya katawhan"
+    },
+    {
+      "surface": "ובנחלתו",
+      "gloss": "kag sa iya mana"
+    },
+    {
+      "surface": "התעבר",
+      "gloss": "nagakig umaayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:25.101403091Z",
+  "model": "glm-5.3"
+}

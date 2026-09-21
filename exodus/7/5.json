@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag makakilala ang mga taga-Mitsrayim nga ako si Yahweh, kon itugdas ko ⟨את⟩ ang akon kamot sa Mitsrayim kag pagwaon ko ⟨את⟩ ang mga anak sang Yisrel gikan sa ila kaamongahan.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "kag makakilala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ang mga taga-Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "kon itugdas ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon kamot"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ang akon kamot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "kag pagwaon ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga anak sang Yisrel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrel"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "gikan sa ila kaamongahan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:20:50.344059030Z",
+  "model": "glm-5.3"
+}

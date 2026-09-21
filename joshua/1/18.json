@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Ang tagsa ka tawo nga magasukol ⟨sa⟩ imo baba kag indi magapatinisod ⟨את⟩ sa imo mga pulong, sa tanan nga imo ginasugo sa iya, pagapatyon; basta magkusog kag magaisog.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang tagsa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ka tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "magasukol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imo baba"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "imo baba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "magapatinisod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imo mga pulong"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "imo mga pulong"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "ginasugo"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "pagapatyon"
+    },
+    {
+      "surface": "רק",
+      "gloss": "basta"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "magkusog"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "kag magaisog"
+    }
+  ],
+  "timestamp": "2026-09-21T17:34:41.544429561Z",
+  "model": "glm-5.3"
+}

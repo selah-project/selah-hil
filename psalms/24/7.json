@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Itaas ninyo ang inyo mga ulo, kamo nga mga ganghaan, kag itaas kamo kamo, kamo nga mga pultahan nga walay katapusan, kag magasulod ang Hari sang himaya.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "itaas ninyo"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "mga ganghaan"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "ang inyo mga ulo"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "kag itaas kamo"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "mga pultahan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nga walay katapusan"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "kag magasulod"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang Hari"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "sang himaya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:14.180817240Z",
+  "model": "glm-5.3"
+}

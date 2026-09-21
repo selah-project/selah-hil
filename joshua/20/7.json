@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag ginpahinundayon nila ⟨את⟩ ang Kedesh sa Galilea, sa bukid sang Naftali, kag ⟨את⟩ ang Shekhem sa bukid sang Efraim, kag ⟨את⟩ ang Kiryat-Arba, amo ina ang Hebron, sa bukid sang Yehudah.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "ginpahinundayon nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Kedesh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "sa Galilea"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "sang Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "sang Efraim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Kiryat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "amo ina"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ang Hebron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-21T17:44:29.689415921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag nagtindog siya sa tunga sang gab-i kag ginkuha niya ⟨את⟩ ang akon anak gikan sa akon kilid samtang natug ang imo sulugoon, kag gintugya niya siya sa iya tagipusoon, kag ⟨את⟩ ang iya anak nga patay gintugya niya sa akon tagipusoon.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "kag nagtindog"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "sang gab-i"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "kag ginkuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon anak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang akon anak"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "gikan sa akon kilid"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "kag ang imo sulugoon"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "natug"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "kag gintugya niya siya"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "sa iya tagipusoon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya anak nga patay"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ang iya anak"
+    },
+    {
+      "surface": "המת",
+      "gloss": "nga patay"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "gintugya niya"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "sa akon tagipusoon"
+    }
+  ],
+  "timestamp": "2026-09-21T18:27:15.372290596Z",
+  "model": "glm-5.3"
+}

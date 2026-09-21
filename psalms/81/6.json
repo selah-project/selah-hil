@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 81,
+  "translation": "Isa ka testigo sa kay Yehosef ginbutang niya, sang siya maggwa sa duta sang Mitsrayim; dila nga wala ko nakilala, madungog ko.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "isa ka testigo"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "sa kay Yehosef"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ginbutang niya"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "sang siya maggwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "dila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ko nakilala"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "madungog ko"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:10.806260736Z",
+  "model": "glm-5.3"
+}

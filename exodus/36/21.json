@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Napulo ka siko ang laba sang kaha-kaha, kag isa ka siko kag katunga sang siko ang gaha sang isa ka kaha-kaha.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ka siko"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ang laba"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "sang kaha-kaha"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "kag isa ka siko"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "kag katunga"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "sang siko"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ang gaha"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "sang kaha-kaha"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "sang isa"
+    }
+  ],
+  "timestamp": "2026-09-21T16:38:56.507444766Z",
+  "model": "glm-5.3"
+}

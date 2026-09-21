@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 106,
+  "translation": "Apang ginluwas niya sila alang sang iya ngalan, sa pagpahibalo sang ⟨את⟩ iya gahum.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Apang ginluwas niya sila"
+    },
+    {
+      "surface": "למען",
+      "gloss": "alang"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sang iya ngalan"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "sa pagpahibalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya gahum"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "iya gahum"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:34.941905530Z",
+  "model": "glm-5.3"
+}

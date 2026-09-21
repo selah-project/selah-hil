@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 96,
+  "translation": "Kay dako si Yahweh kag dawatahon nga pagdunganon sing labi; makahahadlok siya sa tanan ⟨nga⟩ mga dios.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "kag dawatahon nga pagdunganon"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sing labi"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "makahahadlok"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga dios"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:40.152824872Z",
+  "model": "glm-5.3"
+}

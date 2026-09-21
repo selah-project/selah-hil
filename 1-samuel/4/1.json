@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 4:1",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag nangyari ang pulong ni Shemuel sa tanan nga Yisrael, kag nagguwa si Yisrael pag-atubang sa mga Pelishtyo sa paggubat, kag nagkampo sila sa Eben-ha-Ezer, kag ang mga Pelishtyo nagkampo sa Afek.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kag nangyari"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuel"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "kag nagguwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "si Yisrael"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "pag-atubang sa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Pelishtyo"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sa paggubat"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "kag nagkampo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "Eben-"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezer"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "kag ang mga Pelishtyo"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "nagkampo"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "sa Afek"
+    }
+  ],
+  "timestamp": "2026-09-21T22:27:03.182154744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 42:12",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Ihatag nila ang himaya kay Yahweh, kag sa mga puro ila ipahayag ang iya pagdungog.",
+  "tokens": [
+    {
+      "surface": "ישימו",
+      "gloss": "Ihatag nila"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ang himaya"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "kag ang iya pagdungog"
+    },
+    {
+      "surface": "באיים",
+      "gloss": "sa mga puro"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "ila ipahayag"
+    }
+  ],
+  "timestamp": "2026-09-21T19:05:37.057248258Z",
+  "model": "glm-5.3"
+}

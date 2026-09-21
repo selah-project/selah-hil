@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Bisan ang tanan nga nagahalat sa Imo indi mapakahuy-an; mapakahuy-an ang mga manikug, nga wala sing rason.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "nagahalat sa Imo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "mapakahuy-an"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "mapakahuy-an"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "ang mga manikug"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "nga wala sing rason"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:53.736517654Z",
+  "model": "glm-5.3"
+}

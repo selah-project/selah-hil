@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "⟨את⟩ Ang tanan nakita ko sa mga adlaw sang akon hevel; may matarong nga nagkalag sa iya pagkamatarong, kag may dautan nga nagadugay sa iya kadautan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ang tanan"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "Ang tanan"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita ko"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "sa mga adlaw"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "sang akon hevel"
+    },
+    {
+      "surface": "יש",
+      "gloss": "may"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "nagkalag"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "sa iya pagkamatarong"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "kag may"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "dautan"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "nagadugay"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "sa iya kadautan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:26:55.329365596Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 10:6",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "kay ang akon kalautan ginapangita mo, kag ang akon sala ginadalagan mo pagpangita?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "ginapangita mo"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "ang akon kalautan"
+    },
+    {
+      "surface": "ולחטאתי",
+      "gloss": "kag ang akon sala"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "ginadalagan mo pagpangita"
+    }
+  ],
+  "timestamp": "2026-09-21T21:09:00.387726Z",
+  "model": "glm-5.3"
+}

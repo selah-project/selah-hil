@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 71,
+  "translation": "Ang akon baba magpahibalo sang imo pagkamatarong, sa tanan nga adlaw sang imo pagluwas, kay indi ako nakahibalo sang mga ihap sini.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "akon baba"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "magpahibalo"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "imo pagkamatarong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nga adlaw"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "imo pagluwas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ako nakahibalo"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "mga ihap"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:21.832662295Z",
+  "model": "glm-5.3"
+}

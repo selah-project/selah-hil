@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 69,
+  "translation": "Nalunud ako sa lawom nga labok, kag wala sing pagdutlan; nakasulod ako sa kalalroman sang mga tubig, kag ang sulog nag-atabos sa akon.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "Nalunud ako"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "lawom nga labok"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "sing pagdutlan"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "nakasulod ako"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "sa kalalroman sang"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mga tubig"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "kag ang sulog"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "nag-atabos sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:45.811377591Z",
+  "model": "glm-5.3"
+}

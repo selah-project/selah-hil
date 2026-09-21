@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag nagpanaw gikan didto si Avraham paadto sa duta sang Negev, kag nagpuyo siya sa pagbutang Kadeg kag Sur, kag nagpumuluyo siya sa Gerar.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "nagpanaw"
+    },
+    {
+      "surface": "משם",
+      "gloss": "gikan didto"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "paadto sa duta"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "sang Negev"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kag nagpuyo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa pagbutang"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadeg"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "kag sa pagbutang"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Sur"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "kag nagpumuluyo"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "sa Gerar"
+    }
+  ],
+  "timestamp": "2026-09-21T16:03:40.019559152Z",
+  "model": "glm-5.3"
+}

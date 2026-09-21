@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 30:7",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kag ang Mitsrayim — wala sing sulod kag wala sing pulos ang ila pagbulig; gani gintawag ko ang ina nga Rahab nga Nagapahuway.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "kag ang Mitsrayim"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "wala sing sulod"
+    },
+    {
+      "surface": "וריק",
+      "gloss": "kag wala sing pulos"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "ang ila pagbulig"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "gani"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "gintawag ko"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "ang ina"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Nagapahuway"
+    }
+  ],
+  "timestamp": "2026-09-21T19:03:16.330850451Z",
+  "model": "glm-5.3"
+}

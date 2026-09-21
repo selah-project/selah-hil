@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 17:33",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Si Yahweh ⟨את⟩ amo ang ginakahadlukan nila, kag ang ila mga dios ⟨את⟩ amo ang gingaalagran nila, suno sa pagdumalahanon sang mga pungsod nga ginpagwa sila didto.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "היו",
+      "gloss": "amo ang"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "ginakahadlukan nila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang ila mga dios"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ang ila mga dios"
+    },
+    {
+      "surface": "היו",
+      "gloss": "amo ang"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "gingaalagran nila"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "suno sa pagdumalahanon"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "sang mga pungsod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "ginpagwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "משם",
+      "gloss": "didto"
+    }
+  ],
+  "timestamp": "2026-09-21T18:47:11.501044238Z",
+  "model": "glm-5.3"
+}

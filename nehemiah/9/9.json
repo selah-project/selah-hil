@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag nakita mo ⟨את⟩ ang kabaliskadan sang aton mga amay sa Mitsrayim, kag ⟨את⟩ ang ila pananggit gingad-an mo sa Dagat sang Suph.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "kag nakita mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kabaliskadan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ang kabaliskadan"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "sang aton mga amay"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang ila pananggit"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "ang ila pananggit"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "gingad-an mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Dagat"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "sang Suph"
+    }
+  ],
+  "timestamp": "2026-09-21T21:46:18.386823853Z",
+  "model": "glm-5.3"
+}

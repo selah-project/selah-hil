@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 146,
+  "translation": "Si Yahweh nagabukas ⟨sang mga mata⟩ sang mga buta, si Yahweh nagapatindog sang mga yukod, si Yahweh nagahigugma sang mga matarong.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "nagabukas"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "mga buta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "nagapatindog"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "mga yukod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "nagahigugma"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "mga matarong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:45.731826860Z",
+  "model": "glm-5.3"
+}

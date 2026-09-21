@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Nagapungko siya sa pagpanglimod sa mga nataran; sa mga tago nga mga duog ginapatay niya ang inosente; ang iya mga mata nagabantay sa tago sa ⟨mga⟩ maluyahon.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "nagapungko"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "sa pagpanglimod"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "mga nataran"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "sa mga tago nga duog"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "ginapatay"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "inosente"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "iya mga mata"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "sa mga maluyahon"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "nagabantay sa tago"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:13.116737242Z",
+  "model": "glm-5.3"
+}

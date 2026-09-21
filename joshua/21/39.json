@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 21:39",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "⟨את⟩ Kheshbon kag ⟨את⟩ iya mga kapatagan, ⟨את⟩ Yazer kag ⟨את⟩ iya mga kapatagan — tanan nga mga dakbanwa nga apat.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kheshbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Kheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga kapatagan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iya mga kapatagan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga kapatagan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iya mga kapatagan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mga dakbanwa"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "apat"
+    }
+  ],
+  "timestamp": "2026-09-21T17:43:08.179034454Z",
+  "model": "glm-5.3"
+}

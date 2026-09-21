@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 48,
+  "translation": "Kay ini nga Elohim amo ang aton Elohim hangtod sang ginhawan kag dayon pa; siya ang magatuyong tagdulog sa aton bisan tubtob sa kamatayon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "nga Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ang aton Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hangtod sang ginhawan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag dayon pa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "ang magatuyong tagdulog sa aton"
+    },
+    {
+      "surface": "על",
+      "gloss": "tubtob sa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:24.998443795Z",
+  "model": "glm-5.3"
+}

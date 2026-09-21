@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Ipadayon ang imo hesed sa mga nakakilala sa imo, kag ang imo pagkamatarong sa mga matarong sang kasingkasing.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "ipadayon"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ang imo hesed"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "sa mga nakakilala sa imo"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "kag ang imo pagkamatarong"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "sa mga matarong"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sang kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:08.982069867Z",
+  "model": "glm-5.3"
+}

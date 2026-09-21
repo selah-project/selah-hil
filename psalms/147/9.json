@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 147,
+  "translation": "Nagahatag siya sang pagkaon sa hayop, kag sa mga anak sang uwak nga nagatawag.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "nagahatag"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "sa hayop"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "sang pagkaon"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "sang uwak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "nagatawag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:07.526665153Z",
+  "model": "glm-5.3"
+}

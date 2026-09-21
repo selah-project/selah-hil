@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 30:9",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kag naglakat si David, siya kag anom ka gatos ka tawo nga mga kaupod ⟨את⟩ sa iya, kag nakaabot sila tubtob sa sapa sang Besor; kag ang mga nabilin nagtindog.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "naglakat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "kag anom"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ka tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sa iya"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "kag nakaabot sila"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob sa"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "sang Besor"
+    },
+    {
+      "surface": "והנותרים",
+      "gloss": "kag ang mga nabilin"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "nagtindog"
+    }
+  ],
+  "timestamp": "2026-09-21T18:10:22.562471716Z",
+  "model": "glm-5.3"
+}

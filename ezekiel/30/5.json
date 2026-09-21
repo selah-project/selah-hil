@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 30:5",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kush, kag Fut, kag Lud, kag tanan nga halo, kag Khuv, kag ang mga anak sang duta sang katipan — ⟨kaubra nila⟩ magakatumba sa espada.",
+  "tokens": [
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "kag Fut"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "kag Lud"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag tanan"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "nga halo"
+    },
+    {
+      "surface": "וכוב",
+      "gloss": "kag Khuv"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "kag ang mga anak"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "sang katipan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "kaubra nila — sa ila kauban magakatumba"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sa espada"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "magakatumba"
+    }
+  ],
+  "timestamp": "2026-09-21T19:53:35.126292226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ⟨את⟩ Yeuts kag ⟨את⟩ Shekhya kag ⟨את⟩ Mirmah — ina ang iya mga anak, mga ulo sang mga amay ⟨sang mga pamilya⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Yeuts"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Yeuts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Shekhya"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Shekhya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Mirmah"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ina"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ang iya mga anak"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mga ulo"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "sang mga amay"
+    }
+  ],
+  "timestamp": "2026-09-21T21:51:31.852812303Z",
+  "model": "glm-5.3"
+}

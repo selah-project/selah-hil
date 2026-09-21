@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Kag ginkuba sang tanan nga katawhan ⟨את⟩ ang mga singsing sang bulawan nga ara sa ila mga dalunggan, kag gindala sa kay Aharon.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "Kag ginkuba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nga katawhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga singsing sang bulawan"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "ang mga singsing"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "sang bulawan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "sa ila mga dalunggan"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "kag gindala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "kay Aharon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:37:35.809659592Z",
+  "model": "glm-5.3"
+}

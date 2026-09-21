@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Tumana nga manginumdom sang ginhimo ni Yahweh nga Elohim mo ⟨kay Miriam⟩ sa dalan, sa paggwa ninyo sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Tumana nga manginumdom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ginhimo kay Miriam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim mo"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "kay Miriam"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "sa paggwa ninyo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "sa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T17:28:09.196864333Z",
+  "model": "glm-5.3"
+}

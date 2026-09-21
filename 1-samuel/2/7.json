@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Si Yahweh nagapakabudlayan kag nagapakadato, nagapakubo, bisan gani nagapataas.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "nagapakabudlayan"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "kag nagapakadato"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "nagapakubo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bisan gani"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "nagapataas"
+    }
+  ],
+  "timestamp": "2026-09-21T17:57:20.774832217Z",
+  "model": "glm-5.3"
+}

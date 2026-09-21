@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Ngaa ang imo mga pangpang ginatagoan? Nagakalimot ka sa aton kahedlan kag sa aton paglutos?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "imo mga pangpang"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "ginatagoan"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "nagakalimot ka"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "aton kahedlan"
+    },
+    {
+      "surface": "ולחצנו",
+      "gloss": "kag sa aton paglutos"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:09.054000126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Sa sadto nga tion mabuksan ang mga mata sang mga buta, kag mabuksan ang mga igdipay sang mga bungi.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "sa sadto nga tion"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "mabuksan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang mga mata"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "sang mga buta"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "kag ang mga igdipay"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "sang mga bungi"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "mabuksan"
+    }
+  ],
+  "timestamp": "2026-09-21T19:04:49.408790188Z",
+  "model": "glm-5.3"
+}

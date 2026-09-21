@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 53:10",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 53,
+  "translation": "Kag nakabuot si Yahweh sa pagdunggo sa iya, iya ginpasakit; kon ibutang niya ang iya kalag nga halad sang sala, magakita siya sang kaliwat, magataas ang iya mga adlaw, kag ang kabuot ni Yahweh sa iya kamot magauswag.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "kag si Yahweh"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "nakabuot\/nakalipay"
+    },
+    {
+      "surface": "דכאו",
+      "gloss": "sa pagdunggo sa iya"
+    },
+    {
+      "surface": "החלי",
+      "gloss": "ginpasakit"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ibutang"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "halad sang sala"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "iya kalag"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "magakita"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kaliwat"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "magataas"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iya mga adlaw"
+    },
+    {
+      "surface": "וחפץ",
+      "gloss": "kag ang kabuot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa iya kamot"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "magauswag"
+    }
+  ],
+  "timestamp": "2026-09-21T19:10:14.448070275Z",
+  "model": "glm-5.3"
+}

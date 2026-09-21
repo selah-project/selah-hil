@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 8:16",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Sang adlaw nga ginwa ko ⟨את⟩ ang akon katawhan, ⟨את⟩ ang Yisrael, gikan sa Mitsrayim, wala ako nakapili sang isa ka ciudad sa tanan nga mga tribo sang Yisrael sa pagpatindog sang isa ka balay agod ang akon ngalan magaalad didto; apang ginpili ko si David sa pagligsad sa akon katawhan nga Yisrael.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "sang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ginwa ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon katawhan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ang akon katawhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "gikan sa Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ako nakapili"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sang isa ka ciudad"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "nga mga tribo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "sa pagpatindog"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sang isa ka balay"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "agod"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ang akon ngalan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dida\/didto magaalad"
+    },
+    {
+      "surface": "ואבחר",
+      "gloss": "apang ginpili ko"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "sa pagligsad"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "akon katawhan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nga Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T18:30:42.957217270Z",
+  "model": "glm-5.3"
+}

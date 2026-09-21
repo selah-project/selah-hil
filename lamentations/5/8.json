@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Mga sulugoon ang nagdumala sa amon; wala sing nagapaluwas gikan sa ila mga kamot.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "mga sulugoon"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "nagdumala"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "nagapaluwas"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala sing"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "gikan sa ila mga kamot"
+    }
+  ],
+  "timestamp": "2026-09-21T22:42:52.407724139Z",
+  "model": "glm-5.3"
+}

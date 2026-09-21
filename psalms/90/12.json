@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 90,
+  "translation": "Sa gihapon ipaila ⟨sa amon⟩ sa pagpanumla sang aton mga adlaw, kag magadala ⟨kami⟩ sing tagipusuon sang kaalam.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "sa pagpanumla"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "aton mga adlaw"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa gihapon"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "ipaila"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "kag magadala"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "tagipusuon"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kaalam"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:34.852594842Z",
+  "model": "glm-5.3"
+}

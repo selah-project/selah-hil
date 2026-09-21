@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Habel nga mga habel, nagsiling si Kohelet; habel nga mga habel, ang tanan ⟨nga⟩ habel.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Habel"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "nga mga habel"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nagsiling"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "si Kohelet"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "habel"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "nga mga habel"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "habel"
+    }
+  ],
+  "timestamp": "2026-09-21T21:25:44.443195441Z",
+  "model": "glm-5.3"
+}

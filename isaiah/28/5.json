@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 28:5",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Sa ina nga adlaw si Yahweh sang Tsevaot magaaging tunga sang himaya kag tunga sang kaanyag, para sa salin sang iya katawhan.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ina nga"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magaaging"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "sang Tsevaot"
+    },
+    {
+      "surface": "לעטרת",
+      "gloss": "tunga"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "sang himaya"
+    },
+    {
+      "surface": "ולצפירת",
+      "gloss": "kag tunga"
+    },
+    {
+      "surface": "תפארה",
+      "gloss": "sang kaanyag"
+    },
+    {
+      "surface": "לשאר",
+      "gloss": "para sa salin"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sang iya katawhan"
+    }
+  ],
+  "timestamp": "2026-09-21T19:00:48.291097077Z",
+  "model": "glm-5.3"
+}

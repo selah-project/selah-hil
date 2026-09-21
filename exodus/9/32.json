@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Pero ang trigo kag ang kusimet wala gintambug, kay mga-afilot pa sila.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "pero ang trigo"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "kag ang kusimet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "gintambug"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "mga-afilot pa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sila"
+    }
+  ],
+  "timestamp": "2026-09-21T16:22:50.629496901Z",
+  "model": "glm-5.3"
+}

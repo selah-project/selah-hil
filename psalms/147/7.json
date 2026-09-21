@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 147,
+  "translation": "Magpahamtang kamo kay Yahweh paagi sa pagpasalamat; magkanta kamo sa aton Elohim sa kinnor.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Magpahamtang kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "paagi sa pagpasalamat"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "magkanta kamo"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "sa aton Elohim"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "sa kinnor"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:43.837978832Z",
+  "model": "glm-5.3"
+}

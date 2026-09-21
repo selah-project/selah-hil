@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Ginalibutan ako sang mga pisi sang kamatayon, kag ang mga sapa sang kalapason nagapahadlok sa akon.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "ginalibutan ako"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "sang mga pisi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sang kamatayon"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "kag ang mga sapa"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "sang kalapason"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "nagapahadlok sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:17.572580006Z",
+  "model": "glm-5.3"
+}

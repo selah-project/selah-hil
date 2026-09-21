@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag si Aminadav nagkatawo ⟨את⟩ kay Nakhshon, kag si Nakhshon nagkatawo ⟨את⟩ kay Salmah.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "kag si Aminadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkatawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Nakhshon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nakhshon"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "kag si Nakhshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkatawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Salmah"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salmah"
+    }
+  ],
+  "timestamp": "2026-09-21T21:21:25.781606132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 38,
+  "translation": "Kag nabuntis siya kag natawan sang anak nga lalaki, kag gintawag niya ⟨את⟩ ang iya ngalan Er.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "nabuntis siya"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "natawan sang anak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak nga lalaki"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "gintawag niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya ngalan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang iya ngalan"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-09-21T16:13:15.799826059Z",
+  "model": "glm-5.3"
+}

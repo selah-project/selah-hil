@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 7:16",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag naglakat siya halin sa tuig pakadto sa tuig, kag naglibot siya sa Beit-El kag sa Gilgal kag sa Mitzpa, kag naghukom siya ⟨sa⟩ ⟨את⟩ Yisrael ⟨sa⟩ ⟨את⟩ tanan nga ini nga mga lugar.",
+  "tokens": [
+    {
+      "surface": "והלך",
+      "gloss": "Kag naglakat"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "halin sa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "pakadto sa tuig"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "kag naglibot"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "והגלגל",
+      "gloss": "kag sa Gilgal"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "kag sa Mitzpa"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "kag naghukom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga ini nga mga lugar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "המקומות",
+      "gloss": "nga ini nga mga lugar"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-21T17:59:49.781341825Z",
+  "model": "glm-5.3"
+}

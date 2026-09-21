@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 18:5",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag bahina ninyo ⟨אתה⟩ sa pito ka bahin: si Yehudah magatindog sa iya utlanan sa timyan, kag ang balay ni Yosef magatindog sa ila utlanan sa amihanan.",
+  "tokens": [
+    {
+      "surface": "והתחלקו",
+      "gloss": "Kag bahina ninyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sa pito ka bahin"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "sa pito"
+    },
+    {
+      "surface": "חלקים",
+      "gloss": "ka bahin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "si Yehudah"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "magatindog"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "iya utlanan"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "sa timyan"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "kag ang balay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "magatindog"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ila utlanan"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "sa amihanan"
+    }
+  ],
+  "timestamp": "2026-09-21T17:42:30.024281407Z",
+  "model": "glm-5.3"
+}

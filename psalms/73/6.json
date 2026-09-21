@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 73,
+  "translation": "Gani ang ila liog ginsing sing garbo, kag panlupig nagatabon ⟨sa ila⟩ sing bisti.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "gani"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "ginsing ang ila liog"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "garbo"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "nagatabon"
+    },
+    {
+      "surface": "שית",
+      "gloss": "sing bisti"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "panlupig"
+    },
+    {
+      "surface": "למו",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:52.299639791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Yahweh, indi ako pagpa-ulhi nga magdaut, kay sa imo ako nagtawag; magdaut ang mga dautan, kag maghilum sila ngadto sa Sheol.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "magdaut ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "sa imo ako nagtawag"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "magdaut sila"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ang mga dautan"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "maghilum sila"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ngadto sa Sheol"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:11.373897164Z",
+  "model": "glm-5.3"
+}

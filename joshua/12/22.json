@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "ang hari sang Kedesh, isa; ang hari sang Yokneam sa Karmel, isa;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sang Kedesh"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "sang Yokneam"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "sa Karmel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    }
+  ],
+  "timestamp": "2026-09-21T17:39:08.984974312Z",
+  "model": "glm-5.3"
+}

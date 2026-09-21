@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Ang nagakadlagan sa pulong ni Yahweh sa mga sulugoon ni Paro iya ginpahalín ⟨את⟩ ang iya mga sulugoon kag ⟨את⟩ ang iya mga sapat pasulod sa mga balay.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "Ang nagakadlagan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pulong"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "sa mga sulugoon"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "iya ginpahalín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya mga sulugoon"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iya mga sulugoon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga sapat"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "iya mga sapat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pasulod"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "sa mga balay"
+    }
+  ],
+  "timestamp": "2026-09-21T16:24:02.869588114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 7:4",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag imo silingon siya: Mag-andam kag maghilum; indi ka magkahadlok, kag indi magluya ang imo kasingkasing tungod sang duha ka ikog sang ini mga pampaso nga nagaaso, tungod sang mapait nga kaakig ni Retsin kag sang Aram kag sang anak ni Remalyahu.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "kag imo silingon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "Mag-andam"
+    },
+    {
+      "surface": "והשקט",
+      "gloss": "kag maghilum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi ka"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "magkahadlok"
+    },
+    {
+      "surface": "ולבבך",
+      "gloss": "kag ang imo kasingkasing"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "magluya"
+    },
+    {
+      "surface": "משני",
+      "gloss": "tungod sang duha"
+    },
+    {
+      "surface": "זנבות",
+      "gloss": "ka ikog"
+    },
+    {
+      "surface": "האודים",
+      "gloss": "sang mga pampaso"
+    },
+    {
+      "surface": "העשנים",
+      "gloss": "nga nagaaso"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בחרי",
+      "gloss": "sang mapait"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nga kaakig"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "ni Retsin"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "kag sang Aram"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "kag sang anak"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "ni Remalyahu"
+    }
+  ],
+  "timestamp": "2026-09-21T18:55:07.873057840Z",
+  "model": "glm-5.3"
+}

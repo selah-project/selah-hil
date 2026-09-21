@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Kag pagatukoon ko sang baston ang ila pagsukol, kag sang mga hagpas ang ila kadalaut.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "kag pagatukoon ko"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "sang baston"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "ang ila pagsukol"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "kag sang mga hagpas"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ang ila kadalaut"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:36.006397471Z",
+  "model": "glm-5.3"
+}

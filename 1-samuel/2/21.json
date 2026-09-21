@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 2:21",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kay ginduaw ni Yahweh ⟨את⟩ si Khannah, kag nagbusong siya kag nangaki sing tatlo ka anak nga lalaki kag duha ka anak nga babae; kag ang bata nga si Shemuel nagdako kaupod ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ginduaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Khannah"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Khannah"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "kag nagbusong"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "kag nangaki"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatlo ka"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak nga lalaki"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "kag duha ka"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "anak nga babae"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "kag nagdako"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T17:58:25.823929436Z",
+  "model": "glm-5.3"
+}

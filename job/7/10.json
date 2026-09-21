@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Indi na siya magabalik pa sa iya balay, kag ang iya duog indi na makakilala pa sa iya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indi na"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "magabalik"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "sa iya balay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi na"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "makakilala"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "ang iya duog"
+    }
+  ],
+  "timestamp": "2026-09-21T21:06:56.191647513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 83,
+  "translation": "Isa ka kanta, isa ka mizmora, kang Asap.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Isa ka kanta"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "isa ka mizmora"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kang Asap"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:01.256324228Z",
+  "model": "glm-5.3"
+}

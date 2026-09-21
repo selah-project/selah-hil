@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 100,
+  "translation": "Kay maayo si Yahweh; hasta sang tanan nga tion ang iya hesed, kag hasta sang binubuhat kag binubuhat ang iya pagkamatinud-anon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hasta sang tanan nga tion"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iya hesed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag hasta"
+    },
+    {
+      "surface": "דר",
+      "gloss": "sang binubuhat"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kag binubuhat"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "ang iya pagkamatinud-anon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:30.302984137Z",
+  "model": "glm-5.3"
+}

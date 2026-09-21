@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Kag ang akon pagkamatinud-anon kag ang akon hesed ⟨ara⟩ sa iya, kag sa akon Ngalan mataas ang iya sungay.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "kag ang akon pagkamatinud-anon"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "kag ang akon hesed"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "kag sa akon Ngalan"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "mataas"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "ang iya sungay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:57.112942911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Apang ako, sa Imo ako nagtuo, Yahweh; nagsiling ako: Elohim ko, Ikaw.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "apang ako"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sa Imo"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nagtuo ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nagsiling ako"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:11.695333501Z",
+  "model": "glm-5.3"
+}

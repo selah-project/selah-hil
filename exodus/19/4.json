@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kamo ang nakakita sang akon ginhimo sa Mitsrayim, kag ginbatyag ko kamo ⟨אתכם⟩ sa pako sang mga agila, kag gindala ko kamo ⟨אתכם⟩ sa akon.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "ang nakakita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sang"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "akon ginhimo"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "kag ginbatyag ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kamo (ginbatyag sa pako sang mga agila)"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "pako sang"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "mga agila"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "kag gindala ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kamo (gindala sa akon)"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T22:19:31.728259020Z",
+  "model": "glm-5.3"
+}

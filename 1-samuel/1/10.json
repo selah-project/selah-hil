@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag mapait ang iya kalag, kag nagpangamuyo kay Yahweh, kag naghibi sing labi.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "kag siya"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "mapait"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kalag"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "kag nagpangamuyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "kag sa paghibi"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "naghibi sing labi"
+    }
+  ],
+  "timestamp": "2026-09-21T17:57:01.341853214Z",
+  "model": "glm-5.3"
+}

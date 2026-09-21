@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 8:17",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Anak sang tatlo ka pulo kag duha ka tuig siya sang iya paghari, kag walo ka tuig siya naghari sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Anak"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tatlo ka pulo"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "kag duha"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "היה",
+      "gloss": "siya"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "sang iya paghari"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "kag walo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-21T18:43:20.698066081Z",
+  "model": "glm-5.3"
+}

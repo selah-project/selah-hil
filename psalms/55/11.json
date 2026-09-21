@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 55,
+  "translation": "Sa adlaw kag sa gab-i nagalibot sila sa iya mga paril; kag sala kag kabalaka ara sa iya tunga.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "kag sa gab-i"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "nagalibot sila sa iya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "iya mga paril"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "kag sala"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "kag kabalaka"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "sa iya tunga"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:30.952059554Z",
+  "model": "glm-5.3"
+}

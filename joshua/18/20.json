@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag ang Yarden nagautlanan ⟨sa iya⟩ ⟨את⟩ sa banda sidlangan; ini amo ang panag-iya sang mga anak ni Binyamin, sa iya mga utlanan nga nagalibot, suno sa ila mga pamilya.",
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "Kag ang Yarden"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "nagautlanan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sa iya — ang teritoryo nga ginautlanan"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "sa banda"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "sidlangan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ang panag-iya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sang mga anak"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ni Binyamin"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "sa iya mga utlanan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "nga nagalibot"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "suno sa ila mga pamilya"
+    }
+  ],
+  "timestamp": "2026-09-21T22:25:18.527545350Z",
+  "model": "glm-5.3"
+}

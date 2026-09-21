@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 62,
+  "translation": "Kag imo, Adonay, ang hesed, kay ikaw nga magabayar sa tagsa ka tawo suno sa iya binuhat.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "kag imo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "magabayar"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "sa tagsa ka tawo"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "suno sa iya binuhat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:11.437737329Z",
+  "model": "glm-5.3"
+}

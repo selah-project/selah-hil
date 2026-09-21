@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 85,
+  "translation": "Sa Manugdumala, sang mga anak ni Korach, isa ka mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa Manugdumala"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sang mga anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ni Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "isa ka mizmor"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:57.837684246Z",
+  "model": "glm-5.3"
+}

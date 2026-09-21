@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "nga iya ginpamutol ⟨kay⟩ ⟨את⟩ Avraham, kag ang iya panumpa kay Yitskhak;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ginpamutol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "kag ang iya panumpa"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "kay Yitskhak"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:05.791085391Z",
+  "model": "glm-5.3"
+}

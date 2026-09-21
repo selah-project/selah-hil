@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag nagyudo siya kag nagsiling, Ano bala ang imo sulugoon, kay nagtan-aw ka sa ido nga patay nga pareho sa akon?",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "kag nagyudo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ano bala"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "imo sulugoon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "nagtan-aw ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "ido"
+    },
+    {
+      "surface": "המת",
+      "gloss": "patay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "pareho sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T18:15:55.498238123Z",
+  "model": "glm-5.3"
+}

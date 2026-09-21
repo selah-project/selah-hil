@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Nagapangutana ang malain kag indi ⟨siya⟩ nagabayar, kag ang matarong nagakaalo kag nagahatag.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "nagapangutana"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ang malain"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "nagabayar"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "kag ang matarong"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "nagakaalo"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "kag nagahatag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:04.029842294Z",
+  "model": "glm-5.3"
+}

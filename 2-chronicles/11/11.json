@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag ginpatig-ong niya ⟨את⟩ ang mga pader sang pagpintig kag nagbutang siya sa ila sang mga pangulo kag sang mga bodega sang pagkaon, lana kag bino.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ginpatig-ong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pader sang pagpintig"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "ang mga pader sang pagpintig"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nagbutang"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "mga pangulo"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "kag mga bodega"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "sang pagkaon"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "bino"
+    }
+  ],
+  "timestamp": "2026-09-21T22:02:58.097005024Z",
+  "model": "glm-5.3"
+}

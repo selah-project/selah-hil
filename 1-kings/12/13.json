@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag ginsabat sang hari ⟨את⟩ ang katawhan sing mabug-at, kag ginbayaan niya ⟨את⟩ ang tambag sang mga tigulang nga ila gintambag sa iya.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "kag ginsabat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "sing mabug-at"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "kag ginbayaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tambag"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "tambag"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "sang mga tigulang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "gintambag sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T22:29:52.445095011Z",
+  "model": "glm-5.3"
+}

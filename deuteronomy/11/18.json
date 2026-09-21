@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 11:18",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag ibutang ninyo ⟨את⟩ ini nga mga pulong ko sa inyo kasingkasing kag sa inyo kalag, kag igapos ninyo ⟨את⟩ bilang tanda sa inyo kamot, kag magauntat sila nga mga totafot sa tunga sang inyo mga mata.",
+  "tokens": [
+    {
+      "surface": "ושמתם",
+      "gloss": "kag ibutang ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ini nga mga pulong ko"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga pulong ko"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "inyo kasingkasing"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "inyo kalag"
+    },
+    {
+      "surface": "וקשרתם",
+      "gloss": "kag igapos ninyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bilang tanda"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "bilang tanda"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "inyo kamot"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kag magauntat"
+    },
+    {
+      "surface": "לטוטפת",
+      "gloss": "nga mga totafot"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "inyo mga mata"
+    }
+  ],
+  "timestamp": "2026-09-21T17:21:57.593364164Z",
+  "model": "glm-5.3"
+}

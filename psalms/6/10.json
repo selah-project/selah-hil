@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Gindungog ni Yahweh ang akon pagpangamuyo; si Yahweh madawat sang akon pangadyo.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Gindungog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "ang akon pagpangamuyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "sang akon pangadyo"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "madawat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:30.083802003Z",
+  "model": "glm-5.3"
+}

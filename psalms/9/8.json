@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag si Yahweh nagapabilin sa dayon; gintindog niya ang iya trono ⟨tungod sa⟩ paghukom.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Kag si Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nagapabilin"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "gintindog niya"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "tungod sa paghukom"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ang iya trono"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:42.614359953Z",
+  "model": "glm-5.3"
+}

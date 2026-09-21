@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag nagpanaw ang mga Kehati, ang mga nagadala sang balaan; kag gintindog ⟨nga iondihon⟩ ⟨ang uban⟩ ⟨את⟩ ang tolda tubtob sa ila pag-abot.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "kag nagpanaw ang"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "mga Kehati"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ang mga nagadala"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "sang balaan"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "kag gintindog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tolda"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ang tolda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "באם",
+      "gloss": "sa ila pag-abot"
+    }
+  ],
+  "timestamp": "2026-09-21T17:02:26.093054911Z",
+  "model": "glm-5.3"
+}

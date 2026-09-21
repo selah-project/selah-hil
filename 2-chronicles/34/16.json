@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 34:16",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Kag gindala ni Shafan ⟨את⟩ ang libro ngadto sa hari, kag gintubang niya liwat ⟨kay⟩ ⟨את⟩ ang hari sang isa ka pulong, nga nagasiling: Tanan nga ginhatag sa kamot sang imo ⟨mga⟩ sulugoon — sila ang nagahimo sini.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "kag gindala"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "ni Shafan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang libro"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ang libro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kag gintubang liwat"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "liwat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sang isa ka pulong"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ginhatag"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "sang imo ⟨mga⟩ sulugoon"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "nagahimo"
+    }
+  ],
+  "timestamp": "2026-09-21T22:15:04.973374333Z",
+  "model": "glm-5.3"
+}

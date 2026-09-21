@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag subong, mga pumaluyo sang Yerushalayim kag mga tawo sang Yehudah, humukom kamo ⟨nga⟩ sa akon kag sa akon ubasan.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kag subong"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "mga pumaluyo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kag mga tawo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "humukom kamo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨nga⟩"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "sa akon kag"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "akon ubasan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:54:33.340552202Z",
+  "model": "glm-5.3"
+}

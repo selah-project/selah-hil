@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Ang akon tiil nagatindog sa patag nga duta; sa mga katipunan pagapanalanginan ko si Yahweh.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "ang akon tiil"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "nagatindog"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "sa patag nga duta"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "sa mga katipunan"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "pagapanalanginan ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:31.834901932Z",
+  "model": "glm-5.3"
+}

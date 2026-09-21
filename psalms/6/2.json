@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Yahweh, indi ako pagtimalosa sa imo kaakig, kag indi ako pagtulokloa sa imo kaligutgut.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "sa imo kaakig"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "pagtimalosa ako"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "sa imo kaligutgut"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "pagtulokloa ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:23:00.551899342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Nagpatindog siya sing dalan para sa iya kaakig; wala niya gintagana ang ila kalag sa kamatayon, kag ang ila kabuhi ginpasurrender niya sa peste.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "nagpatindog"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "sang dalan"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "para sa iya kaakig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "gintagana"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "sa kamatayon"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ang ila kalag"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "kag ang ila kabuhi"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "sa peste"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "ginpasurrender"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:58.969327222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Kag ang lalaki, kon maggwa sa iya ang paghigda sang binhi, magpaligus siya sa tubig ⟨את⟩ ang bug-os nga iya unod, kag mahugaw siya tubtob sa gab-i.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Kag ang lalaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "maggwa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "ang paghigda"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sang binhi"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "kag magpaligus"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sa tubig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bug-os nga iya unod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bug-os nga"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "iya unod"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "kag mahugaw"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "sa gab-i"
+    }
+  ],
+  "timestamp": "2026-09-21T16:50:57.983328133Z",
+  "model": "glm-5.3"
+}

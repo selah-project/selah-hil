@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 28:20",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Kay man-ot ang higda-an sa pagpatipas, kag man-ot man ang halungkat sa pagputos.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "man-ot"
+    },
+    {
+      "surface": "המצע",
+      "gloss": "ang higda-an"
+    },
+    {
+      "surface": "מהשתרע",
+      "gloss": "sa pagpatipas"
+    },
+    {
+      "surface": "והמסכה",
+      "gloss": "kag ang halungkat"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "man-ot man"
+    },
+    {
+      "surface": "כהתכנס",
+      "gloss": "sa pagputos"
+    }
+  ],
+  "timestamp": "2026-09-21T19:00:47.009763859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag ginhimo ni David ⟨sining⟩ subong sang ginsugo sa iya ni Yahweh, kag ginlagas niya ⟨את⟩ ang mga Pelishtiy halin sa Geva tubtob sa imo pag-abot sa Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kag ginhimo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sining"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ginsugo sa iya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "kag ginlagas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga Pelishtiy"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ang mga Pelishtiy"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "halin sa Geva"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob sa"
+    },
+    {
+      "surface": "באך",
+      "gloss": "imo pag-abot"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "sa Gezer"
+    }
+  ],
+  "timestamp": "2026-09-21T18:14:08.825211361Z",
+  "model": "glm-5.3"
+}

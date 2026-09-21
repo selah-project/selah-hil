@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 94,
+  "translation": "Makigsama bala ang trono sang kadaotan sa imo, ang nagabuhat sang sulab pinaagi sa kasuguan?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "makigsama bala sa imo"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ang trono"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "sang kadaotan"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ang nagabuhat"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "sang sulab"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pinaagi sa"
+    },
+    {
+      "surface": "חק",
+      "gloss": "kasuguan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:33.090758783Z",
+  "model": "glm-5.3"
+}

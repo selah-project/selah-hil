@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 139,
+  "translation": "Kag nagsiling ako, nga siguro ang kangitngit magaputos sa akon, apang ang gab-i ⟨magaan⟩ sa akon palibot.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "kag nagsiling ako"
+    },
+    {
+      "surface": "אך",
+      "gloss": "nga siguro"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ang kangitngit"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "magaputos sa akon"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "apang ang gab-i"
+    },
+    {
+      "surface": "אור",
+      "gloss": "⟨magaan⟩"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "sa akon palibot"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:46.977858862Z",
+  "model": "glm-5.3"
+}

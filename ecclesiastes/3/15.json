@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Ang nahanabo na, ina na nahanabo; kag ang madalom, nahanabo na; kag ang Elohim nagapangita ⟨את⟩ sang ginpahalin.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ang"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "nahanabo na"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ina"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kag ang"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "madalom"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "na"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nahanabo"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "kag ang Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "nagapangita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang ginpahalin"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "ginpahalin"
+    }
+  ],
+  "timestamp": "2026-09-21T21:25:35.258523232Z",
+  "model": "glm-5.3"
+}

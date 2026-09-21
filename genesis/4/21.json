@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag ang ngalan sang iya utod amo Yubal; siya ang amay sang tanan nga nagakupt sang kinor kag ugab.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "kag ang ngalan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sang iya utod"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Yubal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "היה",
+      "gloss": "amo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "amay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tanan nga"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "nagakupt"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kinor"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "kag ugab"
+    }
+  ],
+  "timestamp": "2026-09-21T15:54:40.914638908Z",
+  "model": "glm-5.3"
+}

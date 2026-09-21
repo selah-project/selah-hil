@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Ang nahauna sang kaalam amo ang pagkalahadlam kay Yahweh, kag ang pagkilala sang mga balaan amo ang kaalam.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "nahauna"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kaalam"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "pagkalahadlam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "kag pagkilala"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "mga balaan"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "kaalam"
+    }
+  ],
+  "timestamp": "2026-09-21T20:56:31.632151599Z",
+  "model": "glm-5.3"
+}

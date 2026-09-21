@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 106,
+  "translation": "Kag ginlutos sila sang ila mga kaaway, kag nag-ubos sila sa ilom sang ila kamot.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "ginlutos sila"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "sang ila mga kaaway"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "kag nag-ubos sila"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilom"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "sang ila kamot"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:25.436656782Z",
+  "model": "glm-5.3"
+}

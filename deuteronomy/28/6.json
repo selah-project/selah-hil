@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Ginapalain ikaw sa imo pagsulod, kag ginapalain ikaw sa imo paggwa.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ginapalain"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "sa imo pagsulod"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "kag ginapalain"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "sa imo paggwa"
+    }
+  ],
+  "timestamp": "2026-09-21T17:30:09.149835372Z",
+  "model": "glm-5.3"
+}

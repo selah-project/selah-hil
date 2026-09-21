@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Siya nagpatindog ⟨את⟩ sang ganghaan sang balay ni Yahweh, ang itaas ⟨nga ganghaan⟩, kag sa paril sang Ophel nagpatindog siya sing dako.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Siya"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nagpatindog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ganghaan sang balay ni Yahweh"
+    },
+    {
+      "surface": "שער",
+      "gloss": "sang ganghaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "ang itaas"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "kag sa paril"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "sang Ophel"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nagpatindog"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "sing dako"
+    }
+  ],
+  "timestamp": "2026-09-21T22:09:28.109627901Z",
+  "model": "glm-5.3"
+}

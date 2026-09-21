@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 80,
+  "translation": "Elohim Tsevaot, ibalik mo kami, kag pagtilawa ang imo nawong, kag maluwas kami.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "ibalik mo kami"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "kag pagtilawa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang imo nawong"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "kag maluwas kami"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:17.641136841Z",
+  "model": "glm-5.3"
+}

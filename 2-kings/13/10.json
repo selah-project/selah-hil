@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 13:10",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Sa tuig nga ikatlo ka pulo kag pito ni Yoash nga hari sang Yehudah, naghari si Yehoash nga anak ni Yehoachaz sa Yisrael, sa Shomron — napulo kag anom ka tuig.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "sa tuig nga"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tatlo ka pulo"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "kag pito"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "ליואש",
+      "gloss": "ni Yoash"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "si Yehoash"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "ni Yehoachaz"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "sa Shomron"
+    },
+    {
+      "surface": "שש",
+      "gloss": "anom"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "napulo kag"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    }
+  ],
+  "timestamp": "2026-09-21T18:44:50.091734216Z",
+  "model": "glm-5.3"
+}

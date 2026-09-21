@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 24:4",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag bisan ang dugo sang inosente nga iya ginpahulas — kag ginpuno niya ⟨את⟩ sang Yerushalayim sang dugo sang inosente — kag wala nagtugot si Yahweh sa pagpasaylo.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Kag bisan"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ang dugo"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "sang inosente"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "iya ginpahulas"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "kag ginpuno niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sang Yerushalayim"
+    },
+    {
+      "surface": "דם",
+      "gloss": "sang dugo"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "sang inosente"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "nagtugot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לסלח",
+      "gloss": "sa pagpasaylo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:52:34.726871306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag nagsiling si Elohim kay Noach kag sa iya mga anak kaupod ⟨את⟩ sa iya, nga nagasiling:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag nagsiling"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iya mga anak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kaupod sa iya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    }
+  ],
+  "timestamp": "2026-09-21T15:57:08.861272271Z",
+  "model": "glm-5.3"
+}

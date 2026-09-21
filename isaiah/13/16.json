@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 13:16",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag ang ila mga ginapasuso pagatigbason sa atubang sang ila mga mata; pagapanguhaton ang ila mga balay, kag ang ila mga asawa iguabus sang iban.",
+  "tokens": [
+    {
+      "surface": "ועלליהם",
+      "gloss": "Kag ang ila mga ginapasuso"
+    },
+    {
+      "surface": "ירטשו",
+      "gloss": "pagatigbason"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "sa atubang sang ila mga mata"
+    },
+    {
+      "surface": "ישסו",
+      "gloss": "pagapanguhaton"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "ang ila mga balay"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "kag ang ila mga asawa"
+    },
+    {
+      "surface": "תשגלנה",
+      "gloss": "iguabus sang iban"
+    }
+  ],
+  "timestamp": "2026-09-21T18:55:36.439855221Z",
+  "model": "glm-5.3"
+}

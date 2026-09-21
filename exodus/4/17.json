@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag ⟨את⟩ ang baston nga ini kuhaon mo sa imo kamot, nga himoon mo sa iya ⟨את⟩ ang mga tanda.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang baston"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "ang baston"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "kuhaon mo"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "sa imo kamot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "himonon mo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tanda"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "ang mga tanda"
+    }
+  ],
+  "timestamp": "2026-09-21T22:19:32.353163190Z",
+  "model": "glm-5.3"
+}

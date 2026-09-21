@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kag nakita sang iya mga utod nga ang ila amay naghigugma ⟨את⟩ kay Yosef labaw sa tanan nga iya mga utod, kag ginkadlagan nila ⟨את⟩ si Yosef, kag wala nila makasiling sa iya sing kappahayag.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Kag nakita"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iya mga utod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "naghigugma"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ila amay"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "labaw sa tanan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iya mga utod"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "kag ginkadlagan nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "si Yosef"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "nila maka-"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "siling"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "sing kappahayag"
+    }
+  ],
+  "timestamp": "2026-09-21T16:12:23.683148336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag sa aga, makita ninyo ⟨את⟩ ang kabug-at ni Yahweh, sang madunggan niya ⟨את⟩ ang inyo mga pagpanulabid batok kay Yahweh; kag kami, ano bala kami, kay nagapanulabid kamo sa amon?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "Kag sa aga"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "makita ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kabug-at ni Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ang kabug-at"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "sang madunggan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang inyo mga pagpanulabid"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "ang inyo mga pagpanulabid"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "kag kami"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano bala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "nagapanulabid kamo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sa amon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:29:00.040910611Z",
+  "model": "glm-5.3"
+}

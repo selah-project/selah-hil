@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag nagsiling si Elisha sa iya: Kadto ka, silinga: Indi ka gid mamatay; apang ginpakita sa akon ni Yahweh nga siya gid mamatay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "si Elisha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kadto ka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "silinga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "gid mamatay"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "apang ginpakita sa akon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מות",
+      "gloss": "gid"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mamatay siya"
+    }
+  ],
+  "timestamp": "2026-09-21T18:43:06.563295983Z",
+  "model": "glm-5.3"
+}

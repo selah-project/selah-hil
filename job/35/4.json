@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Ako magasabat sa imo sing mga pulong, kag ⟨את⟩ ang imo mga kaabay kaupod sa imo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "magasabat sa imo"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "sing mga pulong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang imo mga kaabay"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "ang imo mga kaabay"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kaupod sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T21:16:12.948971646Z",
+  "model": "glm-5.3"
+}

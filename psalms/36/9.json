@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Mabusog sila sa taba sang imo balay, kag sang suba sang imo mga kalipayan pagainomon mo sila.",
+  "tokens": [
+    {
+      "surface": "ירוין",
+      "gloss": "mabusog sila"
+    },
+    {
+      "surface": "מדשן",
+      "gloss": "taba"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "imo balay"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "kag suba"
+    },
+    {
+      "surface": "עדניך",
+      "gloss": "imo mga kalipayan"
+    },
+    {
+      "surface": "תשקם",
+      "gloss": "pagainomon mo sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:08.981714695Z",
+  "model": "glm-5.3"
+}

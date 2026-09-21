@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag gintindog sang tanan nga katipunan ang ⟨את⟩ ila tingog, kag nangabuhi ang mga tawo sa gab-i nga ina.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "gintindog"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "katipunan"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "naghatid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ila tingog"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ila tingog"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "kag nangabuhi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "sa gab-i"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nga ina"
+    }
+  ],
+  "timestamp": "2026-09-21T22:22:30.599116849Z",
+  "model": "glm-5.3"
+}

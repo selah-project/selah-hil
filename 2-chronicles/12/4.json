@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag gin-akop niya ⟨את⟩ ang mgaudad nga mga duta nga yara kay Yehudah, kag nagsolpad siya tubtob sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "kag gin-akop niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mgaudad nga mga duta"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ang mga duta"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "mguad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "kay Yehudah"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kag nagsolpad siya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob sa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-21T22:04:05.636026386Z",
+  "model": "glm-5.3"
+}

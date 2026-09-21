@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Kag himoon nila ⟨את⟩ ang ephod: bulawan, bughaw, kag purpura, uga nga mapula, kag birad-birad nga lino — obra sang matalamhon.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "kag himoon nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ephod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ang ephod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "bughaw"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "kag purpura"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "uga"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mapula"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "kag lino"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "birad-birad"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "obra"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "matalamhon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:33:29.273293483Z",
+  "model": "glm-5.3"
+}

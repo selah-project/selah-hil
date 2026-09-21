@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Ang kadaluman nagatawag sa kadaluman sang tingog sang imo mga busay; tanan nga imo mga balud nga mabaskog kag imo mga balud naglabay sa akon.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "ang kadaluman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "kadaluman"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "nagatawag"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "sang tingog"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "sang imo mga busay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "nga imo mga balud nga mabaskog"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "kag imo mga balud"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "naglabay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:03.040728153Z",
+  "model": "glm-5.3"
+}

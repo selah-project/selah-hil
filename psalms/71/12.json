@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 71,
+  "translation": "Elohim, indi pagpalayo sa akon; Elohim ko, para sa akon tabang, pagdali-a.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "pagpalayo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ko"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "para sa akon tabang"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "pagdali-a"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:15.841190740Z",
+  "model": "glm-5.3"
+}

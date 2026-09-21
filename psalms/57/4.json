@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 57,
+  "translation": "Magsugo siya sa mga langit kag magaluwas sa akon; magayawâ ⟨siya⟩ sa nangabuklad nga buot ako lon-on. Selah. Magsugo si Elohim sang iya hesed kag sang iya kamatuoran.",
+  "tokens": [
+    {
+      "surface": "יִשְׁלַח",
+      "gloss": "magsugo siya"
+    },
+    {
+      "surface": "מִשָּׁמַיִם",
+      "gloss": "sa mga langit"
+    },
+    {
+      "surface": "וְיוֹשִׁיעֵנִי",
+      "gloss": "kag magaluwas sa akon"
+    },
+    {
+      "surface": "חֵרֵף",
+      "gloss": "magayawâ"
+    },
+    {
+      "surface": "שֹׁאֲפִי",
+      "gloss": "sa nangabuklad nga buot ako lon-on"
+    },
+    {
+      "surface": "סֶלָה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "יִשְׁלַח",
+      "gloss": "magsugo"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "חַסְדּוֹ",
+      "gloss": "sang iya hesed"
+    },
+    {
+      "surface": "וַאֲמִתּוֹ",
+      "gloss": "kag sang iya kamatuoran"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:26.320404233Z",
+  "model": "glm-5.3"
+}

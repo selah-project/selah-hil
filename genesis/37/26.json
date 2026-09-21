@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kag naghambal si Yehudah sa iya mga utod: Ano nga ginansya kon patyon naton ⟨את⟩ ang aton utod kag tagoon naton ⟨את⟩ ang iya dugo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag naghambal"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "si Yehudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iya mga utod"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "ginansya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "patyon naton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang aton utod"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "ang aton utod"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "kag tagoon naton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya dugo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ang iya dugo"
+    }
+  ],
+  "timestamp": "2026-09-21T22:18:42.215452501Z",
+  "model": "glm-5.3"
+}

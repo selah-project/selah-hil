@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Kag nagsiling si Aharon: Indi pagmagakig, akon ginoo; ikaw mismo ang nakakahibalo ⟨את⟩ sang katawhan ini, nga sila ⟨ara⟩ sa kalainan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "pagmagakig"
+    },
+    {
+      "surface": "אף",
+      "gloss": "⟨ang akig⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "akon ginoo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw mismo"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ang nakakahibalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sang katawhan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "sa kalainan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sila"
+    }
+  ],
+  "timestamp": "2026-09-21T16:36:11.039034104Z",
+  "model": "glm-5.3"
+}

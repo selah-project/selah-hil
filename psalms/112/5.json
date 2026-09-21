@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 112,
+  "translation": "Maayo ang tawo nga nagakalooy kag nagpautang; ginasandig niya ang iya mga ginhambal sa paghukum.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "nagakalooy"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "kag nagpautang"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "ginasandig"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ang iya mga ginhambal"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sa paghukum"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:53.668123450Z",
+  "model": "glm-5.3"
+}

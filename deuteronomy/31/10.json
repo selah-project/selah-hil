@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 31:10",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kag ginmanduan ni Moshe ⟨את⟩ sila nga nagsiling: Sa katapusan sang pito ka tuig, sa takna nga gintudlo, sa tuig sang pagpahuway, sa fiesta sang mga Payong —",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ginmanduan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "ila (mga pari kag mga maguwang)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagsiling"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "sa katapusan"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito ka"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "במעד",
+      "gloss": "sa takna nga gintudlo"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "sa tuig"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "sang pagpahuway"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "sa fiesta"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "sang mga Payong"
+    }
+  ],
+  "timestamp": "2026-09-21T17:33:45.365534721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag ang mga tawo sang Bavel naghimo ⟨את⟩ sang Sukkot-Benot, kag ang mga tawo sang Kut naghimo ⟨את⟩ sang Nergal, kag ang mga tawo sang Khamat naghimo ⟨את⟩ sang Ashima.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "kag ang mga tawo sang"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "naghimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukkot-Benot"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "-Benot"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "kag ang mga tawo sang"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kut"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "naghimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergal"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergal"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "kag ang mga tawo sang"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Khamat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "naghimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashima"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Ashima"
+    }
+  ],
+  "timestamp": "2026-09-21T18:47:36.832915063Z",
+  "model": "glm-5.3"
+}

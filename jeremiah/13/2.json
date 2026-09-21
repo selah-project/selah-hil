@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag ginbakal ko ⟨את⟩ ang pamakos suno sa pulong ni Yahweh, kag ginsulod ko ini sa akon hawak.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "Kag ginbakal ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pamakos"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "ang pamakos"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "suno sa pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "kag ginsulod ko"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "akon hawak"
+    }
+  ],
+  "timestamp": "2026-09-21T19:21:56.113342654Z",
+  "model": "glm-5.3"
+}

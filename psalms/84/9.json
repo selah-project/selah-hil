@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 84,
+  "translation": "Yahweh, Elohim sang Tsevaot, pamatii ang akon pangamuyo; itang-ga ⟨ang imo dunggan⟩, Elohim ni Yakov. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "sang Tsevaot"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "pamatii"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ang akon pangamuyo"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "itang-ga ⟨ang imo dunggan⟩"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:07.637199851Z",
+  "model": "glm-5.3"
+}

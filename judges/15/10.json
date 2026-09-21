@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 15:10",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Kag nagsiling ang mga tawo sang Yehudah: Ngaa nagsaka kamo batok sa amon? Kag nagsiling sila: Sa pagligot ⟨את⟩ kay Shimshon nagsaka kami sa amon, sa paghimo sa iya sang ginhimo niya sa amon.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "עליתם",
+      "gloss": "nagsaka kamo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "batok sa amon"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "kag nagsiling sila"
+    },
+    {
+      "surface": "לאסור",
+      "gloss": "sa pagligot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Shimshon"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Shimshon"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa paghimo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo niya"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amon"
+    }
+  ],
+  "timestamp": "2026-09-21T17:53:23.256897994Z",
+  "model": "glm-5.3"
+}

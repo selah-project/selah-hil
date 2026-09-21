@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 17:25",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag nahitabo, sa pagtikang sang ila pagpuyo didto, wala ⟨sila⟩ nahadlok ⟨את⟩ kay Yahweh, gani nagpadala si Yahweh sa ila sang ⟨את⟩ ⟨mga⟩ leon, kag nangin mga nagapamatay sa ila.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "sa pagtikang"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "sang ila pagpuyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "nahadlok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "gani nagpadala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga leon"
+    },
+    {
+      "surface": "האריות",
+      "gloss": "mga leon"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "kag nangin"
+    },
+    {
+      "surface": "הרגים",
+      "gloss": "mga nagapamatay"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T18:48:03.672751142Z",
+  "model": "glm-5.3"
+}

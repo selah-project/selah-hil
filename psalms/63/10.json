@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 63,
+  "translation": "Kag sila nga nagapangita sang akon kalag sa paglaglag magasulod sa mga pinakaubos sang duta.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "kag sila"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "sa paglaglag"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "nagapangita"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sang akon kalag"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "magasulod"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "sa mga pinakaubos"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:43.751072765Z",
+  "model": "glm-5.3"
+}

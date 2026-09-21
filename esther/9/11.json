@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Sa sadto nga adlaw ang ihap sang mga ginpatay sa Shushan haBira nag-abot sa atubangan sang hari.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Sa … adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sadto nga"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nag-abot"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ang ihap"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "sang mga ginpatay"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "sa Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "haBira"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    }
+  ],
+  "timestamp": "2026-09-21T21:30:50.839138077Z",
+  "model": "glm-5.3"
+}

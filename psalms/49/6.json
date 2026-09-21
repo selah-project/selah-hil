@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 49,
+  "translation": "Ngaa makahadlok ako sa mga adlaw sang kalaot, kon ang sala sang akon tikod nagalibot sa akon?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "makahadluk ako"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "sa mga adlaw"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sang kalaot"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ang sala"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "sang akon tikod"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "nagalibot sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:40.299538219Z",
+  "model": "glm-5.3"
+}

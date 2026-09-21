@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 33:16",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "kag sang mga katahum sang duta kag sang iya kafulunan, kag ang gusto sang Nagaestar sa tunok — mag-abot ina sa ulo ni Yosef kag sa tuktok sang ulo sang ginbulag sa iya mga utod.",
+  "tokens": [
+    {
+      "surface": "וממגד",
+      "gloss": "kag sang mga katahum"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "kag sang iya kafulunan"
+    },
+    {
+      "surface": "ורצון",
+      "gloss": "kag ang gusto"
+    },
+    {
+      "surface": "שכני",
+      "gloss": "sang Nagaestar"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "sa tunok"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "mag-abot ina"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "sa ulo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "ולקדקד",
+      "gloss": "kag sa tuktok sang ulo"
+    },
+    {
+      "surface": "נזיר",
+      "gloss": "sang ginbulag"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sa iya mga utod"
+    }
+  ],
+  "timestamp": "2026-09-21T17:32:17.402583398Z",
+  "model": "glm-5.3"
+}

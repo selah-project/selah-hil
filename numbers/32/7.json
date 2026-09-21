@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 32:7",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Kag ngaa ninyo ginapangulag ang ⟨את⟩ kasingkasing sang mga anak nga lalaki sang Yisrael sa pagtabok sa duta nga ginhatag ni Yahweh sa ila?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "kag ngaa"
+    },
+    {
+      "surface": "תנואון",
+      "gloss": "ginapangulag ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kasingkasing"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki sang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "sa pagtabok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ginhatag"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T17:14:18.837688705Z",
+  "model": "glm-5.3"
+}

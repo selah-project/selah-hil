@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 1:11",
+  "book": "zechariah",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nagsabat sila ⟨kay⟩ ⟨את⟩ ang mensahero ni Yahweh nga nagatindog tunga sang mga hadas, kag nagsiling sila, Naglibot kami sa duta, kag yari, tanan ⟨nga⟩ duta nagapuyo kag nagahilway.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "kag nagsabat sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mensahero ni Yahweh"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ang mensahero"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "nga nagatindog"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tunga sang"
+    },
+    {
+      "surface": "ההדסים",
+      "gloss": "mga hadas"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "kag nagsiling sila"
+    },
+    {
+      "surface": "התהלכנו",
+      "gloss": "naglibot kami"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kag yari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "nagapuyo"
+    },
+    {
+      "surface": "ושקטת",
+      "gloss": "kag nagahilway"
+    }
+  ],
+  "timestamp": "2026-09-21T20:17:37.247084912Z",
+  "model": "glm-5.3"
+}

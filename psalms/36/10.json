@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Kay sa imo ara ang tubod sang kabuhi; sa imo kahayag makakita kami sing kahayag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "tubod"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sang kabuhi"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "sa imo kahayag"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "makakita kami"
+    },
+    {
+      "surface": "אור",
+      "gloss": "sing kahayag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:08.981933526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Ang baba sang matarong nagahambal sang kaalam, kag ang iya dila nagahambal sang hustisya.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "nagahambal"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kaalam"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "kag ang iya dila"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "nagahambal"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hustisya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:30:51.518274007Z",
+  "model": "glm-5.3"
+}

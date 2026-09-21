@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 15:23",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Kag nakaabot sila sa Marah, kag indi sila makainom sang tubig sa Marah kay mapait ini; gani gintawag ang ngalan sini Marah.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "nakaabot sila"
+    },
+    {
+      "surface": "מרתה",
+      "gloss": "sa Marah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "sila makainom"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "sing pag-inom"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sang tubig"
+    },
+    {
+      "surface": "ממרה",
+      "gloss": "sa Marah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "mapait"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ini"
+    },
+    {
+      "surface": "על",
+      "gloss": "gani"
+    },
+    {
+      "surface": "כן",
+      "gloss": "<elision>"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "gintawag"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ang ngalan sini"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "Marah"
+    }
+  ],
+  "timestamp": "2026-09-21T16:24:55.755251385Z",
+  "model": "glm-5.3"
+}

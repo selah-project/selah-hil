@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Si Yahweh ang kusog ⟨sang iya mga tawo⟩, kag amo sia ang pinanag-an sang mga kaluwas sang iya Mesiyas.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kusog"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨sang iya mga tawo⟩"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "pinanag-an"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "mga kaluwas"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "iya Mesiyas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "amo sia"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:08.359075372Z",
+  "model": "glm-5.3"
+}

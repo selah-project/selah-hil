@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Kag gintadlong niya ⟨את⟩ ang lima ka yari'ot, isa sa isa, kag ang isa pa ka lima ka yari'ot gintadlong niya, isa sa isa.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "Kag gintadlong niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lima ka yari'ot"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ka yari'ot"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "isa"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "kag ang isa pa ka lima"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "ka yari'ot"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "gintadlong niya"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "isa"
+    }
+  ],
+  "timestamp": "2026-09-21T16:39:06.983974850Z",
+  "model": "glm-5.3"
+}

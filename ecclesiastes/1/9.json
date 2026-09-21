@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Ang ano nga nangin amo ina nga magakabuhi man, kag ang ano nga ginhimo amo ina nga pagahimuon man; kag wala sing bisan ano nga bag-o sa idalom sang adlaw.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ang ano nga"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "nangin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "amo ina"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "nga magakabuhi"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "kag ang ano nga"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "amo ina"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "nga pagahimuon"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bisan ano"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bag-o"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa idalom"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sang adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T21:25:27.751818097Z",
+  "model": "glm-5.3"
+}

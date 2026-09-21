@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 54:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 54,
+  "translation": "Sa ⟨manugdumala⟩, sa ⟨pagtugtog sang kuerdas⟩; isa ka pagtulun-an ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa manugdumala"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "sa pagtugtog sang kuerdas"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "isa ka pagtulun-an"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:32.097657789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "kundi sa akon duta kag sa akon kabanalan magakadto ikaw, kag magakuha ikaw sang asawa para sa akon anak, para kay Yitskhak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kundi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "akon duta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "akon kabanalan"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "magakadto ikaw"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "kag magakuha ikaw"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "para sa akon anak"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "para kay Yitskhak"
+    }
+  ],
+  "timestamp": "2026-09-21T16:03:52.068266105Z",
+  "model": "glm-5.3"
+}

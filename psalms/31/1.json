@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Sa Manugpanguna; isa ka mizmór ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa Manugpanguna"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "isa ka mizmór"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:36.333269445Z",
+  "model": "glm-5.3"
+}

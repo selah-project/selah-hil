@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag gintagyaan niya ⟨את⟩ ang iya karosa, kag ⟨את⟩ ang iya katawhan gindala niya kaupod niya.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "kag gintagyaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya karosa"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "ang iya karosa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya katawhan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ang iya katawhan"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "gindala"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaupod niya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:25:44.359616064Z",
+  "model": "glm-5.3"
+}

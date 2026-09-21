@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag ang kahon sang Elohim ginkuha, kag ang duha ka anak nga lalaki ni Eli namatay — si Khafni kag si Pinekhas.",
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "kag ang kahon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "ginkuha"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "kag ang duha ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak nga lalaki"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ni Eli"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "namatay"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "si Khafni"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "kag si Pinekhas"
+    }
+  ],
+  "timestamp": "2026-09-21T17:59:02.990925200Z",
+  "model": "glm-5.3"
+}

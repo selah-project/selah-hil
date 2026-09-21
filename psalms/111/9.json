@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 111,
+  "translation": "Pagpalagyo ginpadiana ⟨sa iya katawhan⟩; ginsugo niya sa dayon ⟨ang⟩ iya kasugtanan; balaan kag makahadlok ang iya Ngalan.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "pagpalagyo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ginpadiana"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "sa iya katawhan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsugo niya"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "iya kasugtanan"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "kag makahadlok"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang iya Ngalan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:19.921296033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "kag gintindog niya ini kay Yaakov nga kasuguan, kay Yisrael nga kasugtanan sang dayon:",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "kag gintindog niya ini"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kay Yaakov"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "nga kasuguan"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kay Yisrael"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "nga kasugtanan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sang dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:05.791309460Z",
+  "model": "glm-5.3"
+}

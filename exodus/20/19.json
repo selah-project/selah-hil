@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag nagsiling sila kay Moshe: Ikaw ang maghambal sa amon kag magapaminaw kami; kag indi paghambal ang Elohim sa amon, basi mamatay kami.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Kag nagsiling sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "maghambal"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "kag magapaminaw kami"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "paghambal"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "basi"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "mamatay kami"
+    }
+  ],
+  "timestamp": "2026-09-21T16:28:53.124173193Z",
+  "model": "glm-5.3"
+}

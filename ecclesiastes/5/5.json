@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 5:5",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Indi paghatag sang ⟨את⟩ imo baba sa pagpakasala sang ⟨את⟩ imo unod, kag indi paghambal sa atubang sang mensahero nga pagkakamali ini; ngaa magakasuko ang Elohim sa imo tingog kag magalaglag sang ⟨את⟩ buhat sang imo mga kamot?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "paghatag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imo baba"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "imo baba"
+    },
+    {
+      "surface": "לחטיא",
+      "gloss": "sa pagpakasala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imo unod"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "imo unod"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "paghambal"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "sang mensahero"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שגגה",
+      "gloss": "pagkakamali"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ini"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "יקצף",
+      "gloss": "magakasuko"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "imo tingog"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "kag magalaglag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buhat"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buhat"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "imo mga kamot"
+    }
+  ],
+  "timestamp": "2026-09-21T21:27:44.489497635Z",
+  "model": "glm-5.3"
+}

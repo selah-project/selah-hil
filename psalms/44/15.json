@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Ginpahimutak mo kami nga pananglitan sa mga pungsod, pag-uyog sang ulo sa mga katawhan.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "ginpahimutak mo kami"
+    },
+    {
+      "surface": "משל",
+      "gloss": "pananglitan"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa mga pungsod"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "pag-uyog"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sang ulo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "mga katawhan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:34.129244079Z",
+  "model": "glm-5.3"
+}

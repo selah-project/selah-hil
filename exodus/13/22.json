@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Wala magpauli ang haligi sang panganod sa adlaw, kag ang haligi sang kalayo sa gab-i, sa atubangan sang katawhan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Wala"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "magpauli"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "ang haligi"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "sang panganod"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "kag ang haligi"
+    },
+    {
+      "surface": "האש",
+      "gloss": "sang kalayo"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "sa gab-i"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sang katawhan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:24:47.463713364Z",
+  "model": "glm-5.3"
+}

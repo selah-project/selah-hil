@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 107,
+  "translation": "Kay ginbal-o niya ang mga pultahan sang tumbaga kag gintapyas ang mga bara sang puthaw.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ginbal-o niya"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ang mga pultahan"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "sang tumbaga"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "kag ang mga bara"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "sang puthaw"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "gintapyas"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:00.407020738Z",
+  "model": "glm-5.3"
+}

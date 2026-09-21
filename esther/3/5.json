@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag nakita ni Haman nga wala magatukad kag magaduko si Mordecai sa iya, kag napuno si Haman sang kaakig.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "המן",
+      "gloss": "si Haman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "si Mordecai"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "magatukad"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "kag magaduko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "napuno"
+    },
+    {
+      "surface": "המן",
+      "gloss": "si Haman"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "kaakig"
+    }
+  ],
+  "timestamp": "2026-09-21T21:30:48.049680281Z",
+  "model": "glm-5.3"
+}

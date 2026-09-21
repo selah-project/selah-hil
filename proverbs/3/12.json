@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kay ⟨ang⟩ tawo nga ginahigugma ni Yahweh ginatudlo niya, kag subong sang amay ⟨ang⟩ anak nga iya kalipay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tawo nga ginahigugma ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "ginahigugma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "ginatudlo niya"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "kag subong sang amay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang anak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "nga iya kalipay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:55:17.191342168Z",
+  "model": "glm-5.3"
+}

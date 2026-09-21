@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kag ang tawo, kon magakaon siya sang balaan nga butang sa wala niya kasayod, magadugang siya sang iya ikalima nga bahin sa sini kag magahatag sa pari sang ⟨את⟩ ang balaan nga butang.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "kag ang tawo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "magakaon siya"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sang balaan nga butang"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "sa wala niya kasayod"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "magadugang siya"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "sang iya ikalima nga bahin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa sini"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "kag magahatag"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "sa pari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balaan nga butang"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ang balaan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:53:24.020119087Z",
+  "model": "glm-5.3"
+}

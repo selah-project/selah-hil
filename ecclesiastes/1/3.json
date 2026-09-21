@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Ano ang kinabuhi sang tawo sa tanan niya nga pangabudlay nga iya ginakabudlayan sa idalom sang adlaw?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ano"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ang kinabuhi"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "niya nga pangabudlay"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "nga iya ginakabudlayan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa idalom"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sang adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T21:25:44.443311736Z",
+  "model": "glm-5.3"
+}

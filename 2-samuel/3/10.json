@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "sa pagpalagdà sang ginharian halin sa balay ni Shaul kag sa pagpatindug ⟨את⟩ sang trono ni David sa ibabaw sang Yisrael kag sa ibabaw sang Yehudah, gikan sa Dan tubtob sa Be'er Sheva.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "sa pagpalagdà"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "sang ginharian"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "halin sa balay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "kag sa pagpatindug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang trono"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trono"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa ibabaw"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "gikan sa Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "באר",
+      "gloss": "sa Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-09-21T18:13:12.038689675Z",
+  "model": "glm-5.3"
+}

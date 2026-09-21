@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ⟨sila⟩ nagpabilin sa pagsulay sa ila ⟨את⟩ Yisrael, agod makilala kon magamatood ⟨sila⟩ ⟨את⟩ sang mga kasuguan ni Yahweh nga iya ginsugo ⟨את⟩ sang ila mga amay paagi sa kamot ni Moshe.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "kag nagpabilin"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "sa pagsulay"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "agod makilala"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "kon magamatood"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang mga kasuguan"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "sang mga kasuguan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang ila mga amay"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "sang ila mga amay"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "paagi sa kamot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T17:46:44.201843351Z",
+  "model": "glm-5.3"
+}

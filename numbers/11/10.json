@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 11:10",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag nabatian ni Moshe ⟨את⟩ ang katawhan nga nagahibi sa tagsa ka banay, ang tagsa ka tawo sa ganghaan sang iya tolda; kag nasinder sing sobra ang kaakig ni Yahweh, kag sa mga mata ni Moshe malaot ini.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Kag nabatian"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "nga nagahibi"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "sa tagsa ka banay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tagsa ka tawo"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "sa ganghaan"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "sang iya tolda"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "kag nasinder"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ang kaakig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sing sobra"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "kag sa mga mata"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "malaot ini"
+    }
+  ],
+  "timestamp": "2026-09-21T17:04:55.666160650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-samuel 25:43",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag si David nagkuha man kag ⟨את⟩ kay Akhinoam halin sa Yizreel, kag ang duha sila nangin iya mga asawa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "kay Akhinoam",
+      "gloss2": ""
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nagkuha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "מיזרעאל",
+      "gloss": "halin sa Yizreel"
+    },
+    {
+      "surface": "ותהיין",
+      "gloss": "kag nangin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "שתיהן",
+      "gloss": "ang duha sila"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iya"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "mga asawa"
+    }
+  ],
+  "timestamp": "2026-09-21T18:09:50.156235680Z",
+  "model": "glm-5.3"
+}

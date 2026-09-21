@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Magahugas ako sang akon mga kamot sa kalinawa, kag palibutan ko ⟨את⟩ ang imo halaran, Yahweh.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "magahugas ako"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "sa kalinawa"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "sang akon mga kamot"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "kag palibutan ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imo halaran"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "ang imo halaran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:55.946178621Z",
+  "model": "glm-5.3"
+}

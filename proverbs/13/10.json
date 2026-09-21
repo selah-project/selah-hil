@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Ang kinaadlaw-nga-away nagahalin lamang sa kadugas; apang sa ⟨mga⟩ nagahisgutan kag ⟨את⟩ ⟨mga⟩ nagahisgutan ⟨may⟩ kaalam.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "sa kadugas"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "nagahalin"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "ang kinaadlaw-nga-away"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "mga nagahisgutan"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "mga nagahisgutan"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kaalam"
+    }
+  ],
+  "timestamp": "2026-09-21T20:58:21.073044045Z",
+  "model": "glm-5.3"
+}

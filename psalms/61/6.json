@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 61,
+  "translation": "Kay ikaw, Elohim, nagdungog sa akon mga panumpa; naghatag ka sang manunulundan sa mga nagakalaglag sa imo Ngalan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "nagdungog"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "sa akon mga panumpa"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "naghatag ka"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "sang manunulundan"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "sa mga nagakalaglag"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imo Ngalan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:30.037745416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 66,
+  "translation": "Kari kamo, magpatalinghug kamo, tanan kamo nga nagakadladkad sa Elohim, kag isugid ko kon ano ang iya ginhimo sa akon kalag.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "kari kamo"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "magpatalinghug kamo"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "kag isugid ko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "nagakadladkad"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kon ano ang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "iya ginhimo"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "sa akon kalag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:03.675868214Z",
+  "model": "glm-5.3"
+}

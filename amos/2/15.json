@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 2:15",
+  "book": "amos",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag ang naggakem sang pana indi magatindog, kag ang paspas sa iya mga tiil indi makaligtas, kag ang nagsakay sang kabayo indi maluwas sang iya ⟨kalag⟩.",
+  "tokens": [
+    {
+      "surface": "ותפש",
+      "gloss": "Kag ang naggakem"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "sang pana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "magatindog"
+    },
+    {
+      "surface": "וקל",
+      "gloss": "kag ang paspas"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "sa iya mga tiil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "makaligtas"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "kag ang nagsakay"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "sang kabayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "maluwas"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "iya kalag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:08:52.032536214Z",
+  "model": "glm-5.3"
+}

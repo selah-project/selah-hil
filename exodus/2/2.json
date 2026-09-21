@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag nabuntis ang babae kag natawo niya sang anak nga lalaki, kag sang nakita niya ⟨אתו⟩ nga maayo siya, gintago niya siya tatlo ka bulan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "kag nabuntis"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ang babae"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "kag natawo niya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sang anak nga lalaki"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "kag sang nakita niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "siya (ang bata)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "gintago niya siya"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatlo ka"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "bulan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:20:05.110893606Z",
+  "model": "glm-5.3"
+}

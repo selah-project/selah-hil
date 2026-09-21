@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 98,
+  "translation": "Kumanta kamo kay Yahweh sa arpa, sa arpa kag sa tingog sang pagkanta.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Kumanta kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "sa arpa"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "sa arpa"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "kag sa tingog"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "sang pagkanta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:50.876167716Z",
+  "model": "glm-5.3"
+}

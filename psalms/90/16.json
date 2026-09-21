@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 90,
+  "translation": "Magpakita ang imo binuhaton sa imo mga sulugoon, kag ang imo himaya sa ila mga anak.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "Magpakita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "imo mga sulugoon"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "ang imo binuhaton"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "kag ang imo himaya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ila mga anak"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:47.594184798Z",
+  "model": "glm-5.3"
+}

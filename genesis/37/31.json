@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kag ginkuha nila ⟨את⟩ ang sobrero ni Yosef, kag gintanom nila ang isa ka kanding nga lalaki, kag ginlubog nila ⟨את⟩ ang sobrero sa dugo.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ginkuha nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang sobrero ni Yosef"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "sobrero"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "gintanom nila"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "kanding nga lalaki"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "isa ka kanding"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "ginlubog nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang sobrero"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "ang sobrero"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "sa dugo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:12:48.116236862Z",
+  "model": "glm-5.3"
+}

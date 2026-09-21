@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Tan-awa ang akon mga kaaway, kay nadamo sila, kag sang pagkadumdom sang kapintasan ginadumdom nila ako.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "akon mga kaaway"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "nadamo sila"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "kag sang pagkadumdom"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "sang kapintasan"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "ginadumdom nila ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:32.770575878Z",
+  "model": "glm-5.3"
+}

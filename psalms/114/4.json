@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 114,
+  "translation": "Nagsayaw ang mga bungtod subong sang mga kanding, ang mga kabuswitan subong sang mga kordero.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "ang mga bungtod"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "Nagsayaw"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "subong sang mga kanding"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ang mga kabuswitan"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "subong sang mga"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kordero"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:58.026937820Z",
+  "model": "glm-5.3"
+}

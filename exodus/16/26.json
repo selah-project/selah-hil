@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Sa anom ka adlaw idugang ninyo ina, kag sa ikapito nga adlaw ⟨amo ang⟩ Sabbath, wala ⟨nga makita⟩ sa iya.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "sa anom ka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "idugang ninyo ina"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "kag sa ikapito nga adlaw"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ikapito"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "⟨amo ang⟩ Sabbath"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨nga makita⟩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:27:12.129358526Z",
+  "model": "glm-5.3"
+}

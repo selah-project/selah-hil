@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag ibunal ko ⟨את⟩ ang mga nagapuyo sa sini nga dakbanwa, kag ⟨את⟩ ang tawo kag ⟨את⟩ ang mga sapat; sa dako nga peste sila magakamatay.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "kag ibunal ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga nagapuyo sa sini nga dakbanwa"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "mga nagapuyo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dakbanwa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sini nga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tawo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga sapat"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "mga sapat"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sa peste"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dako"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "sila magakamatay"
+    }
+  ],
+  "timestamp": "2026-09-21T19:24:48.942298813Z",
+  "model": "glm-5.3"
+}

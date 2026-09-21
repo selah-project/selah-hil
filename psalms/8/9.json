@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Pispis sang langit kag mga isda sang dagat, ⟨ang mga⟩ nagalabay sa mga dalayan sang mga dagat.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "pispis"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sang langit"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "kag mga isda"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sang dagat"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "nagalabay"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "mga dalayan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "sang mga dagat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:14.942339845Z",
+  "model": "glm-5.3"
+}

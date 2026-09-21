@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 3:2",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag natawo ang mga anak ⟨kay⟩ David sa Hevron, kag ang iya panganay ⟨amo⟩ si Amnon, nga anak ni Akhinoam nga taga-Yizreel.",
+  "tokens": [
+    {
+      "surface": "וילדו",
+      "gloss": "kag natawo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "⟨kay⟩ David"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "sa Hevron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "ang iya panganay"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "si Amnon"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "ni Akhinoam"
+    },
+    {
+      "surface": "היזרעאלת",
+      "gloss": "nga taga-Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-21T18:13:02.312982629Z",
+  "model": "glm-5.3"
+}

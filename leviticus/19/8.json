@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag ang magakaon sini magadala sang iya sala, kay ginpakilait niya ⟨את⟩ sang balaan nga butang ni Yahweh; kag ang tawo nga ina pagaputlon sa iya mga katawhan.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "kag ang magakaon sini"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "sang iya sala"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "magadala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang balaan nga butang ni Yahweh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sang balaan nga butang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ginpakilait niya"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "kag pagaputlon"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nga ina"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "sa iya mga katawhan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:50:45.797912928Z",
+  "model": "glm-5.3"
+}

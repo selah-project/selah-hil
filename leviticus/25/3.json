@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Anom ka tuig magatanom ka sang imo uma, kag anom ka tuig magaputol ka sang imo kaparasan, kag magatipon ka ⟨את⟩ sang iya ani;",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "anom"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "magatanom ka"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "imo nga uma"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "kag anom"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "magaputol ka"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "imo nga kaparasan"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "kag magatipon ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya ani"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "iya nga ani"
+    }
+  ],
+  "timestamp": "2026-09-21T22:21:43.182045335Z",
+  "model": "glm-5.3"
+}

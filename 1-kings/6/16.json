@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 6:16",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag gintukod niya ⟨את⟩ ang duha ka pulo ka siko sa likuran sang balay sang mga tabla sang sedro, tikang sa salog tubtob sa mga pader; kag gintukod niya ini para sa iya sa sulod — sa Debir, sa Balaan sang mga Balaan.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "kag gintukod niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duha ka pulo ka siko"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duha ka pulo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "siko"
+    },
+    {
+      "surface": "מירכותי",
+      "gloss": "sa likuran"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "sang mga tabla"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sang sedro"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tikang sa"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "salog"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob sa"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "mga pader"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "kag gintukod niya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa iya"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "sa sulod"
+    },
+    {
+      "surface": "לדביר",
+      "gloss": "sa Debir"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "sa Balaan"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "sang mga Balaan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:29:20.634475890Z",
+  "model": "glm-5.3"
+}

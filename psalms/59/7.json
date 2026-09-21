@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 59,
+  "translation": "Nagabalik sila sa kagab-ihon, nagahuni sila subong sang ido, kag nagalibot sila sa siyudad.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "nagabalik sila"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "sa kagab-ihon"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "nagahuni sila"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "subong sang ido"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "kag nagalibot sila"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "sa siyudad"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:15.597595812Z",
+  "model": "glm-5.3"
+}

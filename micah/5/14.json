@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag himuon ko sa kaakog kag sa kaakig ang pagbalos ⟨את⟩ ang mga pungsod nga wala magpatalinghug.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "kag himuon ko"
+    },
+    {
+      "surface": "באף",
+      "gloss": "sa kaakog"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "kag sa kaakig"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ang pagbalos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pungsod"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ang mga pungsod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "magpatalinghug"
+    }
+  ],
+  "timestamp": "2026-09-21T20:11:45.804476126Z",
+  "model": "glm-5.3"
+}

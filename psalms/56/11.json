@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 56,
+  "translation": "Sa Elohim pagadayawon ko ang iya pulong; kay Yahweh pagadayawon ko ang iya pulong.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "pagadayawon ko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "pagadayawon ko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang pulong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:22.789553626Z",
+  "model": "glm-5.3"
+}

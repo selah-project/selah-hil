@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 1:12",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ginsabat ni Eliyahu kag nagsiling sa ila: Kon tawo sang Elohim ako, magpanaug kalayo sa mga langit kag magakaon ⟨sa imo⟩ kag ⟨kag⟩ sa imo nga lima ka pulo; kag nagpanaug ang kalayo sang Elohim sa mga langit kag nagkaon ⟨sa iya⟩ kag sa iya nga lima ka pulo.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Kag ginsabat"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ni Eliyahu"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "magpanaug"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kalayo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "kag magakaon"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ikaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "imo nga lima ka pulo"
+    },
+    {
+      "surface": "חמשיך",
+      "gloss": "imo nga lima ka pulo"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "kag nagpanaug"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ang kalayo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "kag nagkaon"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya nga lima ka pulo"
+    },
+    {
+      "surface": "חמשיו",
+      "gloss": "iya nga lima ka pulo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:39:39.937543585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 39,
+  "translation": "Suno sa tanan nga ginsogo ni Yahweh ⟨את⟩ ⟨kay⟩ Moshe, amo sina ang ginbuhat sang mga anak sang Yisrael, ⟨את⟩ ang tanan nga pagbuluhaton.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "suno sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsogo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "amo sina"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginbuhat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "nga pagbuluhaton"
+    }
+  ],
+  "timestamp": "2026-09-21T16:40:55.637090316Z",
+  "model": "glm-5.3"
+}

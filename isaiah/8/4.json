@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kay antes makailla ang bata sa pagtawag ⟨nga⟩ Amay kag Nanay, dalahon ang mga kabtang sang Damasek kag ⟨את⟩ ang sansinabog sang Shomeron sa atubang sang hari sang Ashur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "antes"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "makailla"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "sa pagtawag"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Amay"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "kag Nanay"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "dalahon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kabtang sang Damasek"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mga kabtang"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "sang Damasek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang sansinabog sang Shomeron"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "sansinabog"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "sang Shomeron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sang Ashur"
+    }
+  ],
+  "timestamp": "2026-09-21T18:54:44.117639365Z",
+  "model": "glm-5.3"
+}

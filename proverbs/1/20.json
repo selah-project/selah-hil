@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Ang Kinaadman sa gwa nagasinggit, sa mga dalan nga lapad nagahatag sang iya tingog.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Ang Kinaadman"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "sa gwa"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "nagasinggit"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "sa mga dalan nga lapad"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nagahatag"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "sang iya tingog"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:55.013874124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 149,
+  "translation": "Kay nakalipay si Yahweh sa iya katawhan; ginsikway niya sang kaluwas ang mga mapainubuson ⟨paagi sa pagtib-ong⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "nakalipay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "sa iya katawhan"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "pagtib-ong"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "mga mapainubuson"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "sang kaluwas"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:00.853559487Z",
+  "model": "glm-5.3"
+}

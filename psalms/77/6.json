@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 77,
+  "translation": "Ginpensar ko ang mga adlaw sang una, ang mga tuig sang mga kaliwatan.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "ginpensar ko"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ang mga adlaw"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "sang una"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ang mga tuig"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "sang mga kaliwatan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:56.351446584Z",
+  "model": "glm-5.3"
+}

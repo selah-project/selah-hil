@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 12:5",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Magakabuhi man sila sa gitas-on kag mga kabalaka sa dalan, kag mamurak ang mandarog, kag magapasan ang hulmigas, kag madula ang handum, kay magakadto ang tawo sa iya balay sang kadayon, kag magalibot sa merkado ang mga managtaghoy.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "sa gitas-on"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "magakabuhi"
+    },
+    {
+      "surface": "וחתחתים",
+      "gloss": "kag mga kabalaka"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "וינאץ",
+      "gloss": "kag mamurak"
+    },
+    {
+      "surface": "השקד",
+      "gloss": "ang mandarog"
+    },
+    {
+      "surface": "ויסתבל",
+      "gloss": "kag magapasan"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "ang hulmigas"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "kag madula"
+    },
+    {
+      "surface": "האביונה",
+      "gloss": "ang handum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "magakadto"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "עולמו",
+      "gloss": "sang iya kadayon"
+    },
+    {
+      "surface": "וסבבו",
+      "gloss": "kag magalibot"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "sa merkado"
+    },
+    {
+      "surface": "הספדים",
+      "gloss": "ang mga managtaghoy"
+    }
+  ],
+  "timestamp": "2026-09-21T21:28:42.040324981Z",
+  "model": "glm-5.3"
+}

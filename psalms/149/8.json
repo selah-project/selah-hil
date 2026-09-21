@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 149,
+  "translation": "Sa pagligad sang ila mga hari sang mga kadena, kag ila mga dungganon sang mga putos sang puthaw.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "sa pagligad sang"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "ila mga hari"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "mga kadena"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "kag ila mga dungganon"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "mga putos sang"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "puthaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:01.780132298Z",
+  "model": "glm-5.3"
+}

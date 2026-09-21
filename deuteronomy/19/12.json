@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "kag magapadala ang mga gulang sang iya dakbanwa kag magakuha ⟨את⟩ sang iya sa didto, kag magahatag ⟨את⟩ sang iya sa kamot sang manugbawi sang dugo, kag magakapatay siya.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "kag magapadala"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ang mga gulang"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "sang iya dakbanwa"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "kag magakuha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "משם",
+      "gloss": "sa didto"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "kag magahatag"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "sang manugbawi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sang dugo"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "kag magakapatay siya"
+    }
+  ],
+  "timestamp": "2026-09-21T17:26:17.407924775Z",
+  "model": "glm-5.3"
+}

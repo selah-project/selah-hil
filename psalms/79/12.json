@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 79,
+  "translation": "Kag ibalik sa aton mga ka-ingod pito ka pilo sa ila dughan ang ila kahuya-uya nga ila ginhuya-uya sa imo, Adonay.",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "Kag ibalik"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "sa aton mga ka-ingod"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "pito ka pilo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "ila dughan"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "ang ila kahuya-uya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "ginhuya-uya sa imo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:11.519565824Z",
+  "model": "glm-5.3"
+}

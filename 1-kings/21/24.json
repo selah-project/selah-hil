@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Ang namatay ⟨nga kaliwat⟩ ni Ahab sa dakbanwa, kaonon sang mga ido; kag ang namatay sa uma, kaonon sang mga langgam sang langit.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "ang namatay"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "ni Ahab"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa dakbanwa"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "kaonon"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "sang mga ido"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "kag ang namatay"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa uma"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "kaonon"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "sang mga langgam"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sang langit"
+    }
+  ],
+  "timestamp": "2026-09-21T18:36:39.269033736Z",
+  "model": "glm-5.3"
+}

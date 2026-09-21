@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 23:3",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag nagsiling ang mga tawo ni David sa iya: Tan-awa, kami diri sa Yehudah maluyahon ⟨kami⟩ sang kahadlok, kag labi pa gid kon magakadto kami sa Kelilah, sa tupad sang mga hanay sang mga Pelishteho.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "פה",
+      "gloss": "diri"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "maluyahon sang kahadlok"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "kag labi pa gid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "magakadto kami"
+    },
+    {
+      "surface": "קעלה",
+      "gloss": "sa Kelilah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa tupad sang"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "mga hanay"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sang mga Pelishteho"
+    }
+  ],
+  "timestamp": "2026-09-21T18:08:24.173682560Z",
+  "model": "glm-5.3"
+}

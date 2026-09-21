@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 106:27",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 106,
+  "translation": "kag sa pagpatumba sang ila kaliwat sa mga pungsod, kag sa pagwagtang sa ila sa mga duta.",
+  "tokens": [
+    {
+      "surface": "ולהפיל",
+      "gloss": "kag sa pagpatumba"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "sang ila kaliwat"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa mga pungsod"
+    },
+    {
+      "surface": "ולזרותם",
+      "gloss": "kag sa pagwagtang sa ila"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "sa mga duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:57.286543781Z",
+  "model": "glm-5.3"
+}

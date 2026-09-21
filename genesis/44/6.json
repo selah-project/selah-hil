@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Kag nakalasol siya sa ila, kag naghambal siya sa ila ⟨את⟩ ang mga pulong nga ini.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "kag nakalasol niya sila"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "kag naghambal"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pulong nga ini"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ang mga pulong"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nga ini"
+    }
+  ],
+  "timestamp": "2026-09-21T16:15:41.798291750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag nagsiling siya sa iya agalon nga babae: Gin-unto lamang nga ang akon agalon ⟨yara⟩ sa atubang sang manalagna nga aalon sa Shomron! Sa sini nga tion, tigtangkas niya siya ⟨את⟩ halin sa iya sakit sa panit.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "kag nagsiling siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "iya agalon nga babae"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Gin-unto lamang"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ang akon agalon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "sang manalagna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "aalon sa Shomron"
+    },
+    {
+      "surface": "אז",
+      "gloss": "sa sini nga tion"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "tigtangkas niya siya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "halin sa iya sakit sa panit"
+    }
+  ],
+  "timestamp": "2026-09-21T18:41:52.511676569Z",
+  "model": "glm-5.3"
+}

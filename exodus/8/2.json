@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag gindangat ni Aharon ang iya kamot sa ibabaw sang mga tubig sang Mitsrayim, kag nagtungas ang baki kag gintabon ⟨את⟩ ang duta sang Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "kag gindangat"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya kamot"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "iya kamot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "mga tubig"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "kag nagtungas"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "ang baki"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "kag gintabon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta sang Mitsrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:24:24.754893771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 74,
+  "translation": "Isa ka tulun-an ni Asaf. Ngaa, Elohim, ginbalewala mo kami sa dayon? Ngaa nagapadayon ang kapungot mo batok sa kaban sang imo kawan?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "tulun-an"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ni Asaf"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Ngaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "ginbalewala mo"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "nagapadayon ang kapungot"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "imo"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "sa kaban"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "sang imo kawan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:33.544907459Z",
+  "model": "glm-5.3"
+}

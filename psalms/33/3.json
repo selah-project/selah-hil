@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Kanta-a ninyo sa iya ang bag-o nga kanta; pagtugtoga ninyo nga maayo sa mabaskog nga sigáw.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "kanta-a ninyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ang kanta"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bag-o"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "nga maayo"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "pagtugtoga ninyo"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "sa mabaskog nga sigáw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:56.315525871Z",
+  "model": "glm-5.3"
+}

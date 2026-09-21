@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Gintawag ⟨niya⟩ si Moshe, kag naghambal si Yahweh sa iya halin sa tolda sang pagtigyunon, nga nagasiling:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "gintawag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "kag naghambal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "halin sa tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang pagtigyunon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    }
+  ],
+  "timestamp": "2026-09-21T16:42:13.454430265Z",
+  "model": "glm-5.3"
+}

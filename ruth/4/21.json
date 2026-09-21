@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "kag si Salmon natawan ⟨את⟩ ni Boaz, kag si Boaz natawan ⟨את⟩ ni Oved",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "kag si Salmon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaz"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "ni Boaz"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "kag si Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ni Oved"
+    }
+  ],
+  "timestamp": "2026-09-21T21:20:22.596643480Z",
+  "model": "glm-5.3"
+}

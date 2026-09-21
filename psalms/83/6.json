@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 83,
+  "translation": "Kay nagbinagihay sila sang isa ka tagipusuon nga hunahuna ⟨kontra⟩ sa imo, nagbuhat sang kasugtanan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "nagbinagihay sila"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sang isa ka tagipusuon nga hunahuna"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magkahiusa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "⟨kontra⟩ sa imo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sang kasugtanan"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "nagbuhat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:54.119189928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 142,
+  "translation": "Isa ka pagtulun-an ni David, sang ⟨kon siya yara⟩ sa lungib — isa ka pangamuyo.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "pagtulun-an"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "sang ⟨kon siya yara⟩"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "sa lungib"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "pangamuyo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:42.175247173Z",
+  "model": "glm-5.3"
+}

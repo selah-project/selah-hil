@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 10:21",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag nagsiling si Yahweh kay Moshe: Iunat ang imo kamot sa mga langit, kag magakadulum sa duta sang Mitsrayim, kag madutyan ang kadulum.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nagsiling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "iunat"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang imo kamot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag magakadulum"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kadulum"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "וימש",
+      "gloss": "kag madutyan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ang kadulum"
+    }
+  ],
+  "timestamp": "2026-09-21T16:24:07.975821964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 116,
+  "translation": "Ginpalibot ako sang mga pisi sang kamatayon, kag ang mga kakitid sang Sheol nakit-an ako; nakit-an ko ang katalagman kag ang kasubo.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "ginpalibot ako"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "sang mga pisi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sang kamatayon"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "kag ang mga kakitid"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "sang Sheol"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "nakit-an ako"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ang katalagman"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "kag ang kasubo"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "nakit-an ko"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:08.727813292Z",
+  "model": "glm-5.3"
+}

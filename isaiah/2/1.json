@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Ang pulong nga ginkita ni Yeshayahu, anak ni Amots, parte kay Yehudah kag Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ginkita"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ni Yeshayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "ni Amots"
+    },
+    {
+      "surface": "על",
+      "gloss": "parte kay"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "kag Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-21T18:52:58.240973321Z",
+  "model": "glm-5.3"
+}

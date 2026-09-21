@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kag nagtipon ang mga Pelishti ⟨את⟩ nga tanan nila nga mga kampo sa Apek, kag ang Yisrael nagkampu sa tubod nga yara sa Yizreel.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "Kag nagtipon"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ang mga Pelishti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nga tanan nila nga mga kampo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nga tanan"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "nila nga mga kampo"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "sa Apek"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "kag ang Yisrael"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "nagkampu"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "sa tubod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "sa Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-21T22:27:30.521066869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag ang mga oreg nga itom nagadala sa iya sang tinapay kag karne sa aga, kag sang tinapay kag karne sa gab-i, kag sa sapa siya nagainom.",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "kag ang mga oreg nga itom"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "nagadala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "sang tinapay"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "kag karne"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa aga"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "kag sang tinapay"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "kag karne"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "sa gab-i"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "siya nagainom"
+    }
+  ],
+  "timestamp": "2026-09-21T18:34:22.951260845Z",
+  "model": "glm-5.3"
+}

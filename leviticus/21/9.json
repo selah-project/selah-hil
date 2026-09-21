@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag ang anak nga babae sang isa ka pari, kon siya magpakahubas sa pagpanag-iya, ⟨את⟩ ang iya amay siya ginpahubas; sa kalayo siya pagsunogon.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "kag ang anak nga babae"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sang isa ka tawo"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "pari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "magpakahubas"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "sa pagpanag-iya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya amay"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ang iya amay"
+    },
+    {
+      "surface": "היא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "ginpahubas"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "pagsunogon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:53:01.047949842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 46,
+  "translation": "Tungod sini indi kami magakilala bisan magbalhin ang duta kag magtikuhoy ang mga bukid sa tagipusuon sang mga dagat.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "magakilala"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "magbalhin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "kag magtikuhoy"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mga bukid"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sa tagipusuon"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga dagat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:06.185019629Z",
+  "model": "glm-5.3"
+}

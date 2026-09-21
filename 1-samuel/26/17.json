@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Kag nakilala ni Shaul ⟨את⟩ ang tingog ni David, kag nagsiling: Ini bala ang imo tingog, akon anak nga si David? Kag nagsiling si David: ⟨Amo⟩ ang akon tingog, akon Adonay nga hari.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "nakilala"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tingog"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "ang imo tingog"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "akon anak"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ang akon tingog"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "akon Adonay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nga hari"
+    }
+  ],
+  "timestamp": "2026-09-21T18:11:08.725688897Z",
+  "model": "glm-5.3"
+}

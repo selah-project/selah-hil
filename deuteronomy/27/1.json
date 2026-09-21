@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Kag nagmandar si Moshe kag ang mga katigulangan sang Yisrael ⟨את⟩ ang katawhan nga nagsiling: Tumana ninyo ⟨את⟩ tanan sang sugo nga akon ginamandar ⟨את⟩ sa inyo subong nga adlaw.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "nagmandar"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "kag ang mga katigulangan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagsiling"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Tumana ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan sang sugo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "sang sugo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ginamandar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "subong nga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T17:29:18.429709726Z",
+  "model": "glm-5.3"
+}

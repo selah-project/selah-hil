@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 49,
+  "translation": "Sa Manugdumala, sa mga anak ni Korach, isa ka kanta.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa Manugdumala"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ni Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "isa ka kanta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:26.502670599Z",
+  "model": "glm-5.3"
+}

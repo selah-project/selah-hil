@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Ginhimo ko ⟨para sa akon⟩ ang mga tanaman kag mga parde, kag nagtanom ako sa ila sang ⟨mga⟩ kahoy sang tanan nga bunga.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "ginhimo ko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para sa akon"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "ang mga tanaman"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "kag mga parde"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "kag nagtanom ako"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "sang kahoy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "nga bunga"
+    }
+  ],
+  "timestamp": "2026-09-21T21:25:58.876189366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 104,
+  "translation": "Ini ang dagat, dalagko kag halapad sang mga kamot; didto ⟨ya⟩ ang mga sulog nga wala sing ihap, mga buhi nga gagmay kaupod sang mga dalagko.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ang dagat"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dalagko"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "kag halapad"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "mga kamot"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "mga sulog"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ihap"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "mga buhi"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "gagmay"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "mga dalagko"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:42.595893615Z",
+  "model": "glm-5.3"
+}

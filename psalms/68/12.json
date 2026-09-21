@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 68,
+  "translation": "Ginahatag ni Adonay ang pulong; ang mga babayi nga mamabalita amo ang dako ka panon.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ginahatag"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "ang mga babayi nga mamabalita"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "panon"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dako ka"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:04.677596231Z",
+  "model": "glm-5.3"
+}

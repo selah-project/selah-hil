@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag gintindog niya ⟨את⟩ ang mga haligi sa atubangan sang templo, isa sa tuo kag isa sa wala; kag gintawag niya ang ngalan sang haligi sa tuo Yakhin, kag ang ngalan sang haligi sa wala Boaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "gintindog niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga haligi"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ang mga haligi"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "atubangan"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "sang templo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "sa tuo"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "kag isa"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "sa wala"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kag gintawag niya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang ngalan"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "sang haligi sa tuo"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Yakhin"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "kag ang ngalan"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "sang haligi sa wala"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-09-21T22:00:44.994062737Z",
+  "model": "glm-5.3"
+}

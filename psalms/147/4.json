@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 147,
+  "translation": "Nagailhan sang ihap sang mga bitoon, sa tanan sini nga mga ngalan ginatawag niya.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "nagailhan"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "sang ihap"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "sang mga bitoon"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "sa tanan sini"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nga mga ngalan"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ginatawag niya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:18.312535776Z",
+  "model": "glm-5.3"
+}

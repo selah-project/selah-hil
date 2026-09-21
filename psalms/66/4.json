@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 66,
+  "translation": "Ang tanan nga duta magapanimo sa imo, kag magakanta sa imo; magakanta sila sang imo ngalan. Selah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "magapanimo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "kag magakanta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "magakanta sila"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sang imo ngalan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:00.269936109Z",
+  "model": "glm-5.3"
+}

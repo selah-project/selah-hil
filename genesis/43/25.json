@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 43,
+  "translation": "Kag ginhandum nila ⟨את⟩ ang halad tubtob sa pag-abot ni Yosef sa odto, kay nabatian nila nga didto magakaon sila sang tinapay.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "ginhandum nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang halad"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ang halad"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "sa pag-abot"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "sa odto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nabatian nila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "magakaon sila"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "sang tinapay"
+    }
+  ],
+  "timestamp": "2026-09-21T16:15:39.640260276Z",
+  "model": "glm-5.3"
+}

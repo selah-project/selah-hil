@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Kag nagkabuhi si Iyob human sini sing isa ka gatos kag apat ka pulo ka tuig, kag nakita niya ⟨את⟩ iya mga anak kag ⟨את⟩ mga anak sang iya mga anak — upat ka ka lugár nga kabanwa.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "kag nagkabuhi"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "si Iyob"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "human"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sini"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "isa ka gatos"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "kag apat ka pulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "kag nakita niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iya mga anak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "mga anak sang iya mga anak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sang iya mga anak"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "upat"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "ka kabanwa"
+    }
+  ],
+  "timestamp": "2026-09-21T21:18:52.361117725Z",
+  "model": "glm-5.3"
+}

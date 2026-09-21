@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nagsiling si David sa iya, Ang imo dugo ⟨sia⟩ sa imo ulo, kay ang imo Baba ang nagpamatuod laban sa imo, nga nagasiling, Ako ang nagpatay ⟨את⟩ sang Mesiyas ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "ang imo dugo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "imo ulo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ang imo Baba"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "nagpamatuod"
+    },
+    {
+      "surface": "בך",
+      "gloss": "laban sa imo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "ang nagpatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mesiyas ni Yahweh"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mesiyas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T18:12:56.182011553Z",
+  "model": "glm-5.3"
+}

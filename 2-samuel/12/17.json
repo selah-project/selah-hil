@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 12:17",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag nagtindog ang mga tigulang sang iya balay sa iya sa pagpatindog sa iya halin sa duta, apang indi siya nagtuo, kag wala siya magkaon ⟨אתם⟩ sang tinapay.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "nagtindog"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ang mga tigulang"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sang iya balay"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "sa pagpatindog sa iya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "halin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apang indi"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "siya nagtuo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "siya magkaon"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "kaupod sa ila"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "sang tinapay"
+    }
+  ],
+  "timestamp": "2026-09-21T18:17:41.811355602Z",
+  "model": "glm-5.3"
+}

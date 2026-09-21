@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 48,
+  "translation": "Suno sa imo ngalan, Elohim, amo man ang imo pagdayaw sa mga kilid sang duta; sang katarungan napuno ang imo tuo nga kamot.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "suno sa imo ngalan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "amo man"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "imo pagdayaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "mga kilid"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "katarungan"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "napunu"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "imo tuo nga kamot"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:53.547968791Z",
+  "model": "glm-5.3"
+}

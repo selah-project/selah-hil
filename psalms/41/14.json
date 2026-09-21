@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 41,
+  "translation": "Dayawon si Yahweh, ang Elohim sang Yisrael, halin sa dayon kag tubtob sa dayon. Amen, kag Amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Dayawon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim sang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "halin sa dayon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag tubtob sa"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "dayon"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "kag Amen"
+    }
+  ],
+  "timestamp": "2026-09-21T20:30:48.473421557Z",
+  "model": "glm-5.3"
+}

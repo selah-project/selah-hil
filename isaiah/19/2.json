@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag pagpaguin ko ang Mitsrayim batok sa Mitsrayim, kag magainaway ang tagsa ka tawo sa iya utod, kag ang tagsa ka tawo sa iya paryente, siyudad batok sa siyudad, gingharian batok sa gingharian.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "kag pagpaguin ko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ang Mitsrayim"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "batok sa Mitsrayim"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "kag magainaway"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tagsa ka tawo"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "sa iya utod"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kag ang tagsa ka tawo"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "sa iya paryente"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "siyudad"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "batok sa siyudad"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "gingharian"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "batok sa gingharian"
+    }
+  ],
+  "timestamp": "2026-09-21T18:58:32.057576630Z",
+  "model": "glm-5.3"
+}

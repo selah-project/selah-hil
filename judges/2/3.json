@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag nagsiling man ako: indi ako magapaguwa ⟨את⟩ sila sa inyo atubangan, kag magauntat sila sa inyo nga mga tunok, kag ang ila mga dios magauntat sa inyo nga lanson.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kag man"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nagsiling ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "magapaguwa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "sa inyo atubangan"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kag magauntat sila"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "nga mga tunok"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "kag ang ila mga dios"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "magauntat"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "nga lanson"
+    }
+  ],
+  "timestamp": "2026-09-21T17:46:33.204691422Z",
+  "model": "glm-5.3"
+}

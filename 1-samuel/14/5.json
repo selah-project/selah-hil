@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Ang isa nga matirad nga bato nagatindog sa amihanan, atubang sang Mikhmas, kag ang isa sa habagatan, atubang sang Geba.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "ang matirad nga bato"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "nagatindog"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "sa amihanan"
+    },
+    {
+      "surface": "מול",
+      "gloss": "atubang"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "sang Mikhmas"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "kag ang isa"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "sa habagatan"
+    },
+    {
+      "surface": "מול",
+      "gloss": "atubang"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "sang Geba"
+    }
+  ],
+  "timestamp": "2026-09-21T18:03:10.635875172Z",
+  "model": "glm-5.3"
+}

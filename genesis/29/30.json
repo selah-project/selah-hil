@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 29:30",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kag nagpakadto man si Yaakov kay Rahel, kag hinigugma man niya ⟨את⟩ si Rahel labaw kay Lea, kag nagpangabudlay siya kaupod sa iya pa sang pito ka tuig nga iba.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "nagpakadto"
+    },
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "si Rahel"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "kag hinigugma"
+    },
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Rahel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "si Rahel"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "labaw kay Lea"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "kag nagpangabudlay"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaupod sa iya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "nga iba"
+    }
+  ],
+  "timestamp": "2026-09-21T16:07:48.658065498Z",
+  "model": "glm-5.3"
+}

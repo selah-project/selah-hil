@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 12:5",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "kag namuno sa bukid sang Chermon kag sa Salkah kag sa tanan sang Bashan tubtob sa utlanan sang mga Geshuri kag sang mga Maakhati, kag sa katunga sang Gilead ⟨ini ang⟩ utlanan ni Sichon, hari sang Cheshbon.",
+  "tokens": [
+    {
+      "surface": "ומשל",
+      "gloss": "kag namuno"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "sang Chermon"
+    },
+    {
+      "surface": "ובסלכה",
+      "gloss": "kag sa Salkah"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "kag sa tanan"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "sang Bashan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "sa utlanan"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "sang mga Geshuri"
+    },
+    {
+      "surface": "והמעכתי",
+      "gloss": "kag sang mga Maakhati"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "kag sa katunga"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "sang Gilead"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "utlanan"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "ni Sichon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "sang Cheshbon"
+    }
+  ],
+  "timestamp": "2026-09-21T17:40:00.647758634Z",
+  "model": "glm-5.3"
+}

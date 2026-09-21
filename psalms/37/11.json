@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kag ang mga maamo magapanubli sang duta, kag magakalipalip sa kadamo sang kappahayahay.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "ang mga maamo"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "magapanubli"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "magakalipalip"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kadamo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kappahayahay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:40.460390310Z",
+  "model": "glm-5.3"
+}

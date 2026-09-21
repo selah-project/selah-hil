@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 109,
+  "translation": "Ini ang balus sang akon mga kaaway, gikan kang ⟨את⟩ Yahweh, kag sang mga naghambal sing malaot batok sa akon kalag.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ang balus"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "sang akon mga kaaway"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "gikan kang ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "kag sang mga naghambal"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sing malaot"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sa akon kalag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:03.783954593Z",
+  "model": "glm-5.3"
+}

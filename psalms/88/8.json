@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 88,
+  "translation": "Sa akon namatyag ang imo kaakig, kag tanan sang imo mga balud ginpasakitan mo ⟨ako⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "namatyag"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "imo kaakig"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag tanan"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "imo mga balud"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "ginpasakitan mo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:53.405127295Z",
+  "model": "glm-5.3"
+}

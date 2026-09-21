@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 41,
+  "translation": "Ang akon mga kaaway naghambal sang malain batok sa akon: San-o siya mamatay kag mapierdi ang iya ngalan?",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "Ang akon mga kaaway"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "naghambal"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sang malain"
+    },
+    {
+      "surface": "לי",
+      "gloss": "batok sa akon"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "San-o"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mamatay"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "kag mapierdi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang iya ngalan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:40.687258269Z",
+  "model": "glm-5.3"
+}

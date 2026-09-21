@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag napatay si Shaul kag iya tatlo ka mga anak kag ang iya bug-os nga balay — magkahipunos sila napatay.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "kag napatay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "kag tatlo ka"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iya mga anak"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang bug-os nga"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "iya balay"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magkahipunos"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "napatay sila"
+    }
+  ],
+  "timestamp": "2026-09-21T21:53:39.336259630Z",
+  "model": "glm-5.3"
+}

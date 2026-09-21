@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Isa ka kanta ni David, sang magpalagyo siya sa atubangan ni Avshalom nga iya anak.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Isa ka kanta"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "sang magpalagyo siya"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ni Avshalom"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nga iya anak"
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:44.314906366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Kay sang wala sing rason gintago nila alang sa akon ang lungag, ang ila lambat; sang wala sing rason nanghuyop sila sang lungag alang sa akon kalag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "sang wala sing rason"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "gintago nila"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang sa akon"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ang lungag"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "ang ila lambat"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "sang wala sing rason"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "nanghuyop sila"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "alang sa akon kalag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:44.144963012Z",
+  "model": "glm-5.3"
+}

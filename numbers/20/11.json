@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 20:11",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag gintungtong ni Moshe ⟨את⟩ iya kamot, kag gintama niya ⟨את⟩ ang bato gamit ang iya punggan, duha ka higayon; kag nagguwa ang tubig nga madamo, kag nag-inom ang katilingban kag ang ila mga sapat.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "kag gintungtong"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya kamot"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "iya kamot"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "kag gintama niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bato"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "ang bato"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "gamit ang iya punggan"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "duha ka higayon"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "kag nagguwa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nga madamo"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "kag nag-inom"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ang katilingban"
+    },
+    {
+      "surface": "ובעירם",
+      "gloss": "kag ang ila mga sapat"
+    }
+  ],
+  "timestamp": "2026-09-21T17:09:11.751269636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 3:6",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ginuba naton sa lagot ⟨את⟩ sila, suno sa ginhimo naton kay Sichon, hari sang Cheshbon; ginuba sa lagot ang tanan nga dakbanwa — ang mga lalaki, ang mga babayi kag ang mga bata.",
+  "tokens": [
+    {
+      "surface": "ונחרם",
+      "gloss": "kag ginuba naton sa lagot"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "suno sa"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "ginhimo naton"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "kay Sichon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "sang Cheshbon"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "ginuba sa lagot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "nga dakbanwa"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "ang mga lalaki"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ang mga babayi"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "kag ang mga bata"
+    }
+  ],
+  "timestamp": "2026-09-21T17:17:44.352899653Z",
+  "model": "glm-5.3"
+}

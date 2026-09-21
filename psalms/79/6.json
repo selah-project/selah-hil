@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 79,
+  "translation": "Isula ang imo nga kaligotgut sa mga pungsod nga wala makakilala sa imo, kag sa mga gingharian nga wala nagtawag sa imo nga ngalan.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Isula"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "imo nga kaligotgut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mga pungsod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "makakilala sa imo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mga gingharian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "sa imo nga ngalan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "nagtawag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:28.421193748Z",
+  "model": "glm-5.3"
+}

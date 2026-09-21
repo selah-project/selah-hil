@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 38,
+  "translation": "Kag sa palad sang hari sang Ashshur pagaluwasun ko ikaw kag ⟨את⟩ ining siyudad, kag pangalipdan ko ining siyudad.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "kag sa palad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sang Ashshur"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "pagaluwasun ko ikaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ining siyudad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ining siyudad"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "(ining)"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "kag pangalipdan ko"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ining siyudad"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "(ining)"
+    }
+  ],
+  "timestamp": "2026-09-21T19:04:43.218730853Z",
+  "model": "glm-5.3"
+}

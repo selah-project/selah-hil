@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 85,
+  "translation": "Indi bala nga magaduli ka kag pagabuhion mo kami, agod ang imo katawhan magakalipay sa imo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Indi bala nga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "magaduli ka"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "pagabuhion mo kami"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ang imo katawhan"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "magakalipay"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:00.318654569Z",
+  "model": "glm-5.3"
+}

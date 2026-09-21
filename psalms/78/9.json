@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Ang mga anak nga lalaki ni Efrayim, nga nagasulud sang gihimo nga pana, nagbalik sa adlaw sang away.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ni Efrayim"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "nagasulud"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "gihimo"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "pana"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "nagbalik"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "sang away"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:33.250814955Z",
+  "model": "glm-5.3"
+}

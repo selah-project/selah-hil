@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Ginsaway mo ang mga pungsod, ginlaglag mo ang tamparas; ang ila ngalan ginpanas mo ⟨sa⟩ dayon kag ⟨sa⟩ dayon pa gid.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "Ginsaway mo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ang mga pungsod"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "ginlaglag mo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ang tamparas"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ang ila ngalan"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "ginpanas mo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag sa dayon pa gid"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:42.613889044Z",
+  "model": "glm-5.3"
+}

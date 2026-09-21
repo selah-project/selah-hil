@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ang mga anak ni Elpaal: Ever, Misham, kag Shamed — siya ang naghimo sang ⟨את⟩ Ono kag ⟨את⟩ Lod kag ang iya mga baryo.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "kag ang mga anak"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "ni Elpaal"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "kag Misham"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "kag Shamed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ang naghimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "kag ang iya mga baryo"
+    }
+  ],
+  "timestamp": "2026-09-21T21:51:31.853137791Z",
+  "model": "glm-5.3"
+}

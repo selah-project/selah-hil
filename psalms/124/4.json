@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 124,
+  "translation": "sadto nag-igi sa aton ang mga tubig, nag-agi ang sapa sa aton kalag,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "sadto"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang mga tubig"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "nag-igi sa aton"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ang sapa"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "nag-agi"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "aton kalag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:48.675220766Z",
+  "model": "glm-5.3"
+}

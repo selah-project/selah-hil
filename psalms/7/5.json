@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kon ginsabat ko sing kagadlawan ang nagakaayad sa akon, kag ginhakop ko nga wala sing kabangdanan ang akon manugdolot—",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "ginsabat ko"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "ang nagakaayad sa akon"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sing kagadlawan"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "kag ginhakop ko"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ang akon manugdolot"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "nga wala sing kabangdanan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:37:56.574724779Z",
+  "model": "glm-5.3"
+}

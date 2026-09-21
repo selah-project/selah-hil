@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 149,
+  "translation": "Magalipay ang mga balaan sa himaya; magasinggit sila sang kalipay sa ibabaw sang ila mga higtinan.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "magalipay"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "mga balaan"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "sa himaya"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "magasinggit sila sang kalipay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "ila mga higtinan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:01.779567934Z",
+  "model": "glm-5.3"
+}

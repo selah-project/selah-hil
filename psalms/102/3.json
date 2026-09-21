@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 102,
+  "translation": "Indi pagtagua ang imo dagway sa akon sa adlaw sang akon katalagman; ikiling ang imon dunggan sa akon; sa adlaw nga akon magatawag, pagdali, sabti ako.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "pagtagua"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang imo dagway"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sang katalagman"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sang akon"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "ikiling"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ang imon dunggan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nga akon magatawag"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "pagdali"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "sabti ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:14.738757946Z",
+  "model": "glm-5.3"
+}

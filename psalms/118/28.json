@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 118,
+  "translation": "Ikaw ang akon El, kag pagasalamatan ko ikaw; Elohim ako, itaas ko ikaw.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "akon El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "kag pagasalamatan ko ikaw"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "akon Elohim"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "itaas ko ikaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:03.514937194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 39:7",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 39,
+  "translation": "Kag ⟨את⟩ ang mga mata ni Tsidkiyahu ginbuta, kag ginsugponan siya sang mga tanod nga bronse, sa pagdala ⟨kaniya⟩ sa Bavel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga mata ni Tsidkiyahu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mga mata"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ginbuta"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "ginsugponan siya"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "sang mga tanod nga bronse"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "sa pagdala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sa Bavel"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "sa Bavel"
+    }
+  ],
+  "timestamp": "2026-09-21T22:34:01.850677250Z",
+  "model": "glm-5.3"
+}

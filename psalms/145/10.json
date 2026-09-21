@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 145,
+  "translation": "Igapadungog sa imo, Yahweh, ang tanan mo nga mga buhat, kag ang imo mga hasidon magapanalangin sa imo.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "igapadungog sa imo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "mo nga mga buhat"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "kag ang imo mga hasidon"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "magapanalangin sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:00.159418871Z",
+  "model": "glm-5.3"
+}

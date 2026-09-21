@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Ini amo ang mga sapat nga sarang ninyo kaonon: baka, kordero sang mga karnero, kag kordero sang mga kambing.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ang mga sapat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "sarang ninyo kaonon"
+    },
+    {
+      "surface": "שור",
+      "gloss": "baka"
+    },
+    {
+      "surface": "שה",
+      "gloss": "kordero"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "sang mga karnero"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "kag kordero"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "sang mga kambing"
+    }
+  ],
+  "timestamp": "2026-09-21T17:23:12.280635285Z",
+  "model": "glm-5.3"
+}

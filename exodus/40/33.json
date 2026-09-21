@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 40:33",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag gintindog niya ⟨את⟩ ang kortal sa palibot sang Mishkan kag sang halaran, kag ginputak niya ⟨את⟩ ang kurtina sang ganghaan sang kortal; kag gintapos ni Moshe ⟨את⟩ ang buluhaton.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "gintindog niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kortal"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ang kortal"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "sang Mishkan"
+    },
+    {
+      "surface": "ולמזבח",
+      "gloss": "kag sang halaran"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kag ginputak niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kurtina"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ang kurtina"
+    },
+    {
+      "surface": "שער",
+      "gloss": "sang ganghaan"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "sang kortal"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "kag gintapos"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang buluhaton"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ang buluhaton"
+    }
+  ],
+  "timestamp": "2026-09-21T22:20:24.126055478Z",
+  "model": "glm-5.3"
+}

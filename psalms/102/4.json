@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 102,
+  "translation": "Kay nagtapos na sa aso ang akon mga adlaw, kag ang akon mga tul-an daw nagasinga nga nagadagit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "nagtapos na"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "sa aso"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ang akon mga adlaw"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "kag ang akon mga tul-an"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "daw"
+    },
+    {
+      "surface": "קד",
+      "gloss": "nagasinga"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "nagadagit"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:14.738915031Z",
+  "model": "glm-5.3"
+}

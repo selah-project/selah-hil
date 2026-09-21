@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Tungon ang nagakaturog kaupod sang asawa sang iya amay, kay ginladawan niya ang pinggan sang iya amay, kag magahambal ang tanan nga mga tawo: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Tungon"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "nagakaturog"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "sang asawa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sang iya amay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ginladawan"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ang pinggan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sang iya amay"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "kag magahambal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nga mga tawo"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-21T17:29:57.417140376Z",
+  "model": "glm-5.3"
+}

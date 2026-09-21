@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Sa pagbuhat sang imo kabuot, Elohim ko, nalipay ako, kag ang imo Torah ⟨yara⟩ sa tunga sang akon mga tinai.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "sa pagbuhat"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "imo kabuot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ko"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "nalipay ako"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "kag ang imo Torah"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "akon mga tinai"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:37.939913402Z",
+  "model": "glm-5.3"
+}

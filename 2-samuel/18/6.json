@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 18:6",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag naggwa ang mga tawo sa kapatagan sa pag-atipan sa Yisrael, kag ang gera ⟨aty⟩ sa kadlagan sang Efrayim.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "naggwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sa kapatagan"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "sa pag-atipan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "kag ⟨aty⟩"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ang gera"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "sa kadlagan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "sang Efrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T18:20:45.425366183Z",
+  "model": "glm-5.3"
+}

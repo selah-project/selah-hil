@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 8:12",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag naghulat pa siya sing pito ka adlaw nga iban, kag ginpakadto niya ⟨את⟩ ang salampati, kag wala na siya magdugang sing pagbalik sa iya pa.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "kag naghulat"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito ka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "nga iban"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "kag ginpakadto niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang salampati"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ang salampati"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "יספה",
+      "gloss": "magdugang"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "sing pagbalik"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    }
+  ],
+  "timestamp": "2026-09-21T15:57:09.020503416Z",
+  "model": "glm-5.3"
+}

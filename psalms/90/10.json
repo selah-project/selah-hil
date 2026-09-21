@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 90,
+  "translation": "Mga adlaw sang aton mga tuig sa ila pito ka pulo ka tuig, kag kon sa kusog walo ka pulo ka tuig; kag ang ila pagpasigarbo amihon kag kasakitan, kay madali ini ginpamut kag naglupad kami.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "mga adlaw"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "sang aton mga tuig"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "pito ka pulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "sa kusog"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "walo ka pulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "kag ang ila pagpasigarbo"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "amihon"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "kag kasakitan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גז",
+      "gloss": "ginpamut"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "madali"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "kag naglupad kami"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:34.852332986Z",
+  "model": "glm-5.3"
+}

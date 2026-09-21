@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 51,
+  "translation": "Ipabati mo sa akon ang kalipay kag ang sadya, nga magakalipay ang mga tul-an nga imo gintukdan.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "ipabati mo sa akon"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "kalipay"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "kag ang sadya"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "nga magakalipay"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ang mga tul-an"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "nga imo gintukdan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:12.105087628Z",
+  "model": "glm-5.3"
+}

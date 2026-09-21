@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 20:22",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag magatuman kamo sang ⟨את⟩ tanan ko nga mga kasuguan kag ⟨את⟩ tanan ko nga mga paghukom, kag himoon ninyo ⟨את⟩ sila; agod indi kamo ibuga sang ⟨את⟩ duta nga akon gindala ⟨את⟩ kamo didto sa pagpuyo sini.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "kag magatuman kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan ko nga mga kasuguan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ko nga mga kasuguan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan ko nga mga paghukom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ko nga mga paghukom"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "kag himoon ninyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang mga kasuguan kag mga paghukom)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "agod indi"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "mabuga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo",
+      "marks": "kamo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "gindala"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo",
+      "marks": "kamo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "didto"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "sa pagpuyo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sini"
+    }
+  ],
+  "timestamp": "2026-09-21T16:53:54.419411885Z",
+  "model": "glm-5.3"
+}

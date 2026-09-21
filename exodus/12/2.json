@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Ang bulan nga ini amo ang ulo sang mga bulan para sa inyo; amo ini ang nahauna para sa inyo sa mga bulan sang tuig.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "ang bulan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para sa inyo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ang ulo"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "sang mga bulan"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "ang nahauna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "amo ini"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para sa inyo"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "sa mga bulan"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "sang tuig"
+    }
+  ],
+  "timestamp": "2026-09-21T16:24:27.690365507Z",
+  "model": "glm-5.3"
+}

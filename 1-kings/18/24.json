@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 18:24",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag tawga ninyo sa ngalan sang inyo mga dios, kag ako magatawag sa ngalan ni Yahweh; kag ang Elohim nga magasimbag paagi sa kalayo, siya amo ang Elohim. Kag nagsimbag ang tanan nga katawhan kag nagsiling: Maayo ang pulong.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "kag tawga ninyo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa ngalan"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sang inyo mga dios"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kag ako"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "magatawag"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kag ang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "magasimbag"
+    },
+    {
+      "surface": "באש",
+      "gloss": "paagi sa kalayo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "amo ang Elohim"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "kag nagsimbag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Maayo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang pulong"
+    }
+  ],
+  "timestamp": "2026-09-21T18:36:32.247461971Z",
+  "model": "glm-5.3"
+}

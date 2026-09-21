@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 39,
+  "translation": "Pinaagi sang mga pagtambilan tungod sa kalapusan ginbatad mo ang tawo, kag ginpakalag mo subong sang tanga ang iya gwapo; bugtong ⟨ang⟩ singaw ang tanan nga tawo. Selah.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "pinaagi sang mga pagtambilan"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kalapusan"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "ginbatad mo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "kag ginpakalag mo"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "subong sang tanga"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "iya gwapo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "bugtong"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "singaw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:28.755526620Z",
+  "model": "glm-5.3"
+}

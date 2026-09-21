@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 17:16",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag nagduol ang Peleshti sa pagkaaga kag sa pagkagab-i, kag nagtindog sing apat ka pulo ka adlaw.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "kag nagduol"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ang Peleshti"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "sa pagkaaga"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "kag sa pagkagab-i"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "kag nagtindog"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "sing apat ka pulo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ka adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T18:05:14.261600398Z",
+  "model": "glm-5.3"
+}

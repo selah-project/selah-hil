@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 28:5",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Kag ginpapadayon ni Yitschak ⟨את⟩ si Yaakov, kag nagsirot siya sa Padan-Aram, kay Lavan nga anak ni Betuel nga Arameo, utod ni Rivka, nga iloy ni Yaakov kag ni Esav.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ginpapadayon"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "si Yitschak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kag nagsirot siya"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "sa Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "si Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "ni Betuel"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "nga Arameo"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "utod"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "ni Rivka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nga iloy"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "kag ni Esav"
+    }
+  ],
+  "timestamp": "2026-09-21T16:06:54.086007734Z",
+  "model": "glm-5.3"
+}

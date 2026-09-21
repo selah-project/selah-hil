@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 109,
+  "translation": "Magbitad ang utangan sa tanan nga iya, kag dubaron sang mga taga-lain ang iya panikasug.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "magbitad"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "ang utangan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iya"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "kag dubaron"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "mga taga-lain"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "iya panikasug"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:50.978176310Z",
+  "model": "glm-5.3"
+}

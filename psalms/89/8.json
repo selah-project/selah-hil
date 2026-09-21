@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "El nga ginakaladlukan sa tinago nga katipunan sang mga balaan, nga dako, kag makahaladluk sa ibabaw sang tanan nga nakapalibot sa iya.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "nga ginakaladlukan"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "sa tinago nga katipunan"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "mga balaan"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "nga dako"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "kag makahaladluk"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "nga nakapalibot sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:25.698393386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 106,
+  "translation": "Malig-on ang mga nagatipig sang hutuo, nga nagahimo sang kamatarong sa tanan nga tion.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "malig-on ang mga"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "nagatipig"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sang hutuo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nga nagahimo"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "sang kamatarong"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nga tion"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:41.814412959Z",
+  "model": "glm-5.3"
+}

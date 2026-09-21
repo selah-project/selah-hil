@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 48,
+  "translation": "Kay tan-awa, nagkatipon ang mga hari, nag-agi sila magkaupod.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ang mga hari"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "nagkatipon"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "nag-agi sila"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magkaupod"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:05.641281579Z",
+  "model": "glm-5.3"
+}

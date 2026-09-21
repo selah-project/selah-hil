@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Magpalaula kag magpakahuya sila nga nagapangita sang akon kabuhi; magpanaw sila pabalik kag magpaila-ilaw sila nga nagahimo sang kalaot sa akon.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "magpalaula sila"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "kag magpakahuya sila"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "nga nagapangita"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sang akon kabuhi"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "magpanaw sila"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "pabalik"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "kag magpaila-ilaw sila"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "nga nagahimo"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "sang kalaot sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:51.985915489Z",
+  "model": "glm-5.3"
+}

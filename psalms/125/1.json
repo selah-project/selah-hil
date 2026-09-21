@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 125,
+  "translation": "Kanta sang mga Pagsaka. Ang mga nagasalig kay Yahweh ⟨are⟩ kaangay sang bukid sang Tsiyon — indi ⟨ini⟩ maggakalamat, sa dayon ⟨ini⟩ magapuyo.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kanta"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sang mga Pagsaka"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "ang mga nagasalig"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "kaangay sang bukid"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "maggakalamat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "magapuyo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:09.580905846Z",
+  "model": "glm-5.3"
+}

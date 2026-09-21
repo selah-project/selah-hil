@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Ang mga anak ni Merari, segun sa ila mga pamilya, sa balay sang ila mga amay, ihapon mo ⟨את⟩ sila.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "ni Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "segun sa ila mga pamilya"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "sang ila mga amay"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "ihapon mo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila (ang mga anak ni Merari)"
+    }
+  ],
+  "timestamp": "2026-09-21T16:59:47.801444626Z",
+  "model": "glm-5.3"
+}

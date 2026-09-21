@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 135,
+  "translation": "Nagpadala siya sang mga timailhan kag mga katingalah-an sa tunga mo, Mitsrayim, kay Paro kag sa tanan niya nga mga sulugoon.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Nagpadala siya"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "mga timailhan"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "kag mga katingalah-an"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "sa tunga mo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "kay Paro"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "kag sa tanan"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "niya nga mga sulugoon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:34.339810726Z",
+  "model": "glm-5.3"
+}

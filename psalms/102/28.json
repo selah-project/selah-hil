@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 102,
+  "translation": "Kag ikaw amo gihapon, kag ang imo mga tuig indi gid matapos.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kag ikaw"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "amo gihapon"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "kag ang imo mga tuig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "matapos"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:32.542092053Z",
+  "model": "glm-5.3"
+}

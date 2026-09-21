@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kay sa Tsoan ang iya mga pangulo, kag ang iya mga sugo nakaabot sa Khanes.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ang ... yara"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "sa Tsoan"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "ang iya mga pangulo"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "kag ang iya mga sugo"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "sa Khanes"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "nakaabot"
+    }
+  ],
+  "timestamp": "2026-09-21T19:02:21.656920041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kag usa ka ikapulo ka bahin sa tagsa ka kordero, sa napulo kag apat ka kordero.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "kag usa ka ikapulo ka bahin"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "ikapulo ka bahin"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "sa tagsa ka kordero"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "usa"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "sa apat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "napulo kag"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ka kordero"
+    }
+  ],
+  "timestamp": "2026-09-21T17:13:05.824019280Z",
+  "model": "glm-5.3"
+}

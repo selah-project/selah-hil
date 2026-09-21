@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Ang tanan nga gul-ang mataas, kag ang tanan nga bukid kag bungtod mapaubos; kag ang maliko maga ⟨kabuhi⟩ nga tul-id nga kapatagan, kag ang mga magaspag nga mga duog magakahimo ⟨nga⟩ kapatagan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "nga gul-ang"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "mataas"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "nga bukid"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "kag bungtod"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "mapaubos"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kag magakabuhi"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "ang maliko"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "nga tul-id nga kapatagan"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "kag ang mga magaspag nga mga duog"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "nga kapatagan"
+    }
+  ],
+  "timestamp": "2026-09-21T19:06:48.067583189Z",
+  "model": "glm-5.3"
+}

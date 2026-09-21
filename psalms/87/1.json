@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 87,
+  "translation": "Sa mga anak ni Korach, isa ka mizmor, isa ka kanta. Ang iya pundasyon ⟨sa⟩ mga bantod sang kabanalan.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "isa ka mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "isa ka kanta"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "iya pundasyon"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "sa mga bantod"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kabanalan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:07.498788647Z",
+  "model": "glm-5.3"
+}

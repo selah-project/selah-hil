@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag indi na pagatawgon ⟨את⟩ ang imo ngalan nga Avram, kag ang imo ngalan magaAvraham, kay amay sang kadamo sang mga pungsod ginhimo ikaw.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kag indi na"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "pagatawgon"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imo ngalan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imo ngalan"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kag magaang"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imo ngalan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אב",
+      "gloss": "amay"
+    },
+    {
+      "surface": "המון",
+      "gloss": "kadamo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga pungsod"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "ginhimo ikaw"
+    }
+  ],
+  "timestamp": "2026-09-21T16:02:18.761257072Z",
+  "model": "glm-5.3"
+}

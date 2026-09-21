@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag ⟨את⟩ sang Resen sa tunga sang Ninweh kag sa tunga sang Kelakh — ina amo ang dako nga dakbanwa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninweh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "kag sa tunga"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kelakh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ina"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang dakbanwa"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "nga dako"
+    }
+  ],
+  "timestamp": "2026-09-21T22:16:39.638324277Z",
+  "model": "glm-5.3"
+}

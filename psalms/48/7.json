@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 48,
+  "translation": "Ang kakurog nag-akop sa ila didto, mga kasakit ⟨nga⟩ pareho sang babae nga nagabata.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "ang kakurog"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "nag-akop sa ila"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mga kasakit"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "pareho sang babae nga nagabata"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:05.641771695Z",
+  "model": "glm-5.3"
+}

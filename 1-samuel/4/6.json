@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 4:6",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag nabatian sang mga Pelishteo ⟨את⟩ ang tingog sang singgit, kag sila nagsiling: Ano ini nga tingog sang dako nga singgit sa kampo sang mga Hebreo? Kag nakilala nila nga ang Arca ni Yahweh nakaabot sa kampo.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Kag nabatian sang"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Pelishteo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tingog sang singgit"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "singgit"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "kag sila nagsiling"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ano"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "singgit"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "dako"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "sa kampo"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "sang mga Hebreo"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "Kag nakilala nila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Arca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nakaabot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:59:29.782286830Z",
+  "model": "glm-5.3"
+}

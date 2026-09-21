@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag nagmalipayon ang kasingkasing sang pari, kag ginkuha niya ⟨את⟩ sang ephod kag ⟨את⟩ sang mga terafim kag ⟨את⟩ sang tinig-a nga larawan, kag nagsulod siya sa tunga sang mga tawo.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "nagmalipayon"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ang kasingkasing"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang pari"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "kag ginkuha niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang ephod"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ephod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang mga terafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "mga terafim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang tinig-a nga larawan"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "tinig-a nga larawan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kag nagsulod siya"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sang mga tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:55:43.166819229Z",
+  "model": "glm-5.3"
+}

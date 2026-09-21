@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kag naglakat ang iya mga utod sa pagbantay sang ⟨את⟩ mga karnero sang ila amay sa Shekhem.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "naglakat"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iya mga utod"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "sa pagbantay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga karnero"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "karnero"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ila amay"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "sa Shekhem"
+    }
+  ],
+  "timestamp": "2026-09-21T16:10:48.964784664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Kag gintakluban nila ang iya mga binuhat kag ang iya mga kataka-taka nga iya ginpakita sa ila.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "Kag gintakluban nila"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ang iya mga binuhat"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "kag ang iya mga kataka-taka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "iya ginpakita sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:33.251525159Z",
+  "model": "glm-5.3"
+}

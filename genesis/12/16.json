@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 12:16",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag gin-ayo niya si Avram tungod sa iya, kag nagkaroon siya sang mga karnero kag mga baka, mga buriko nga lalaki, mga ulipon nga lalaki kag mga ulipon nga babae, mga buriko nga babae, kag mga kamelyo.",
+  "tokens": [
+    {
+      "surface": "ולאברם",
+      "gloss": "si Avram"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "gin-ayo niya"
+    },
+    {
+      "surface": "בעבורה",
+      "gloss": "tungod sa iya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag nagkaroon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sang mga karnero"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "kag mga baka"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "mga buriko nga lalaki"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "mga ulipon nga lalaki"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "mga ulipon nga babae"
+    },
+    {
+      "surface": "ואתנת",
+      "gloss": "mga buriko nga babae"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "kag mga kamelyo"
+    }
+  ],
+  "timestamp": "2026-09-21T15:59:18.677969305Z",
+  "model": "glm-5.3"
+}

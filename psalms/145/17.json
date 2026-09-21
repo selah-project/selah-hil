@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 145,
+  "translation": "Matarong si Yahweh sa tanan niya nga mga dalan, kag hesed iya sa tanan niya nga mga binuhat.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Matarong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "niya nga mga dalan"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "kag hesed iya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "niya nga mga binuhat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:28.102859565Z",
+  "model": "glm-5.3"
+}

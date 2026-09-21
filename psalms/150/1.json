@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 150:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 150,
+  "translation": "Paldayawon ninyo si Yah; paldayawon ninyo si El sa iya pagkabalaan; paldayawon ninyo siya sa rakta sang iya kusog.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "paldayawon ninyo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "si Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "paldayawon ninyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "si El"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "sa iya pagkabalaan"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "paldayawon ninyo siya"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "sa rakta"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "sang iya kusog"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:42.759531771Z",
+  "model": "glm-5.3"
+}

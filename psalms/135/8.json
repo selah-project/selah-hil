@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 135,
+  "translation": "Siya nga nagtama sang mga panganay sang Mitsrayim, gikan sa tawo tubtob sa sapat.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Siya nga nagtama"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "sang mga panganay"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "gikan sa tawo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "sa sapat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:07.705854807Z",
+  "model": "glm-5.3"
+}

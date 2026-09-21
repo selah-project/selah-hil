@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Ngaa ang mga tuhod nagauna sa akon, kag ano ang mga suso, kay nagasuso ako?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "nagauna sa akon"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "ang mga tuhod"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "kag ano"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "ang mga suso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "nagasuso"
+    }
+  ],
+  "timestamp": "2026-09-21T21:05:35.527302681Z",
+  "model": "glm-5.3"
+}

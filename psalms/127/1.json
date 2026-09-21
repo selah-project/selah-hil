@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 127,
+  "translation": "Kanta sang mga Pagsaka, ni Shelomoh. Kon si Yahweh indi magpatindog sang balay, wala sing pulos ang pagpangabudlay sang iya mga nagatindog sini. Kon si Yahweh indi magbantay sang siyudad, wala sing pulos ang pagbantay sang bantay.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kanta"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sang mga Pagsaka"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "magpatindog"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "wala sing pulos"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ang pagpangabudlay"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "sang iya mga nagatindog"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sini"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "magbantay"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "sang siyudad"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "wala sing pulos"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "ang pagbantay"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "sang bantay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:45.486341644Z",
+  "model": "glm-5.3"
+}

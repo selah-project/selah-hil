@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 121,
+  "translation": "Ang akon bulig taga kang Yahweh, ang naghimo sang mga langit kag sang duta.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "Ang akon bulig"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "taga kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ang naghimo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sang mga langit"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "kag sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:50:58.854102146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 116,
+  "translation": "Sa mga korte sang balay ni Yahweh, sa imo tunga, Yerushalayim — dayaw ninyo si Yah.",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "Sa mga korte"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "sa imo tunga"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "dayaw ninyo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "si Yah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:38.903547795Z",
+  "model": "glm-5.3"
+}

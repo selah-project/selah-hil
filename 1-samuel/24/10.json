@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag nagsiling si David kay Shaul: Ngaa ginapadungog mo ⟨את⟩ ang mga pulong sang tawo, nga nagsiling: Tan-awa, si David nagapangita sang imo kadaut?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kay Shaul"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ginapadungog mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pulong sang tawo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ang mga pulong"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagsiling"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "nagapangita"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "sang imo kadaut"
+    }
+  ],
+  "timestamp": "2026-09-21T18:08:43.949768424Z",
+  "model": "glm-5.3"
+}

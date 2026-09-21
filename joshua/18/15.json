@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 18:15",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag ang kilid sa habagat ⟨nagatungtong⟩ gikan sa puno sang Kiryat-Yearim, kag nagguwa ang utlanan pakadto sa nakatundan, kag nagguwa sa tubod sang tubig sang Neftoakh.",
+  "tokens": [
+    {
+      "surface": "ופאת",
+      "gloss": "kag ang kilid"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "sa habagat"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "gikan sa puno"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Yearim"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "kag nagguwa"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "ang utlanan"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "sa nakatundan"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "kag nagguwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "tubod"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "נפתוח",
+      "gloss": "Neftoakh"
+    }
+  ],
+  "timestamp": "2026-09-21T17:42:43.517245721Z",
+  "model": "glm-5.3"
+}

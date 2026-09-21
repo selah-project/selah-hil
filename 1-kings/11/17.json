@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 11:17",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "kag nagpalagyo si Adad, siya kag mga tawo nga Edomnon, nga mga sulugoon sang iya amay, ⟨אתו⟩ kaupod sa iya, sa pagkadto sa Mitsrayim; kag si Hadad sang tion nga ina isa ka bata nga gamay pa.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "kag nagpalagyo"
+    },
+    {
+      "surface": "אדד",
+      "gloss": "si Adad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "kag mga tawo"
+    },
+    {
+      "surface": "אדמיים",
+      "gloss": "nga Edomnon"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "nga mga sulugoon"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sang iya amay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "si Adad"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "sa pagkadto"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "והדד",
+      "gloss": "kag si Hadad"
+    },
+    {
+      "surface": "נער",
+      "gloss": "isa ka bata"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "nga gamay pa"
+    }
+  ],
+  "timestamp": "2026-09-21T18:33:45.381150044Z",
+  "model": "glm-5.3"
+}

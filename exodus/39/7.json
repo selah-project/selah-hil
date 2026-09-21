@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 39,
+  "translation": "Kag ginput-ong niya ⟨אתם⟩ sa mga abaga sang ephod — mga bato nga pahinumdom para sa mga anak sang Yisrael — suno sa ginsugo ni Yahweh ⟨את⟩ kay Moshe.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "kag ginput-ong niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ang mga bato (sila)"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "mga abaga"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "sang ephod"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mga bato nga"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "pahinumdom"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "para sa mga anak sang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "suno sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T16:40:22.609737943Z",
+  "model": "glm-5.3"
+}

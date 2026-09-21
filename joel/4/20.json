@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joel 4:20",
+  "book": "joel",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag ang Yehudah magapuyo sing dayon, kag ang Yerushalayim sang panunod kag panunod.",
+  "tokens": [
+    {
+      "surface": "ויהודה",
+      "gloss": "kag ang Yehudah"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sing dayon"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "magapuyo"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "kag ang Yerushalayim"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "sang panunod"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "kag panunod"
+    }
+  ],
+  "timestamp": "2026-09-21T20:08:49.859415388Z",
+  "model": "glm-5.3"
+}

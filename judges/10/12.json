@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 10:12",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag ang mga Tsidoniano kag si Amalek kag si Maon nagdusa ⟨אתכם⟩ kamo, kag nagsangit kamo sa akon, kag gintalbang kong luwas ⟨אתכם⟩ kamo halin sa ila kamot?",
+  "tokens": [
+    {
+      "surface": "וצידונים",
+      "gloss": "Kag ang mga Tsidoniano"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "kag si Amalek"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "kag si Maon"
+    },
+    {
+      "surface": "לחצו",
+      "gloss": "nagdusa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "ותצעקו",
+      "gloss": "kag nagsangit"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kamo sa akon"
+    },
+    {
+      "surface": "ואושיעה",
+      "gloss": "kag gintalbang kong luwas"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "halin sa ila kamot"
+    }
+  ],
+  "timestamp": "2026-09-21T17:48:55.284667349Z",
+  "model": "glm-5.3"
+}

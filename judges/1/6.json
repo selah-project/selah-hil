@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nagpalagyo si Adoni-Bezek, kag ginpanglagyo nila siya, kag gindakop nila siya, kag ginputol nila ⟨את⟩ ang mga kumagko sang iya mga kamot kag sang iya mga tiil.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "Kag nagpalagyo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "kag ginpanglagyo nila"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "kag gindakop nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (si Adoni-Bezek)"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "kag ginputol nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kumagko"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "mga kumagko"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "sang iya mga kamot"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "kag sang iya mga tiil"
+    }
+  ],
+  "timestamp": "2026-09-21T17:46:08.770946132Z",
+  "model": "glm-5.3"
+}

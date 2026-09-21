@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 98,
+  "translation": "Sa mga trumpeta kag sa tingog sang shofar, singgit kamo sa atubang sang hari, si Yahweh.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "Sa mga trumpeta"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "kag sa tingog"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "sang shofar"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "singgit kamo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:50.876409247Z",
+  "model": "glm-5.3"
+}

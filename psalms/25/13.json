@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 25:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Ang iya nefesh magapabilin sa kaayohan, kag ang iya kaliwat magapanag-iya sang duta.",
+  "tokens": [
+    {
+      "surface": "נפשו",
+      "gloss": "Ang iya nefesh"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "sa kaayohan"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "magapabilin"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "kag ang iya kaliwat"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "magapanag-iya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:41.085444488Z",
+  "model": "glm-5.3"
+}

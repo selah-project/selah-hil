@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 48:1",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 48,
+  "translation": "Kag natabo sang nagligad ini nga mga butang, may nagsiling kay Yosef: Yari, masakit ang imo amay; kag gindala niya ⟨את⟩ ang iya duha ka anak kaupod niya, ⟨את⟩ si Menasheh kag ⟨את⟩ si Efrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "natabo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sang nagligad"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mga butang"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nagsiling"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "kay Yosef"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Yari"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "imo amay"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "masakit"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "gindala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya duha ka anak"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iya mga anak"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaupod niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Menasheh"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasheh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:18:10.171971190Z",
+  "model": "glm-5.3"
+}

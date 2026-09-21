@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag nagsiling siya sa Yehudah nga pangita-on nila ⟨את⟩ si Yahweh, ang Elohim sang ila mga amay, kag himu-on ang Torah kag ang kasuguan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "nga pangita-on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "sang ila mga amay"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "kag himu-on"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ang Torah"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "kag ang kasuguan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:05:32.457146454Z",
+  "model": "glm-5.3"
+}

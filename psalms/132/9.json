@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 132,
+  "translation": "Ang imo mga padi magasul-ob sang katulfog, kag ang imo mga mainabagon magakanti sing kalipay.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "imo mga padi"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "magasul-ob"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "katulfog"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "kag ang imo mga mainabagon"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "magakanti sing kalipay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:25.157303238Z",
+  "model": "glm-5.3"
+}

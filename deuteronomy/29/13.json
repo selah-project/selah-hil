@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kag indi tagbana lamang kamo — ako amo ang nagaputol sang ⟨את⟩ ini nga katipan kag sang ⟨את⟩ ini nga sumpa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "tagbana lamang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "nagaputol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ini nga katipan"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "katipan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ini nga sumpa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sumpa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-21T17:30:40.409405812Z",
+  "model": "glm-5.3"
+}

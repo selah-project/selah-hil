@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Kag magpatalinghog ka sa tingog ni Yahweh nga imo nga Elohim, kag himoon mo ⟨ang⟩ ⟨את⟩ ang iya mga kasugoan kag ⟨ang⟩ ⟨את⟩ ang iya mga batas, nga akon ginatas sa imo subong nga adlaw.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Kag magpatalinghog ka"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sa tingog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "imo nga Elohim"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "kag himoon mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya mga kasugoan"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "ang iya mga kasugoan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya mga batas"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "ang iya mga batas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ginatas"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sa imo subong nga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T17:28:35.750458632Z",
+  "model": "glm-5.3"
+}

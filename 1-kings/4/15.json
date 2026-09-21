@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Achimaats, sa Naftali; siya man nagkuha ⟨את⟩ kay Basemat nga anak nga babayi ni Shelomoh nga abaay.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Achimaats"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "sa Naftali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nagkuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Basemat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basemat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babayi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "nga abaay"
+    }
+  ],
+  "timestamp": "2026-09-21T18:26:13.362103949Z",
+  "model": "glm-5.3"
+}

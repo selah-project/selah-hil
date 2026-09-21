@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag nagluwas ang hari sang Yisrael, kag gintama niya ⟨את⟩ ang mga kabayo kag ⟨את⟩ ang mga karuwahan, kag gintama niya ang Aram sang dako nga pagtama.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "nagluwas"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "gintama niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kabayo"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ang mga kabayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga karuwahan"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ang mga karuwahan"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "kag gintama niya"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "ang Aram"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "pagtama"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "dako"
+    }
+  ],
+  "timestamp": "2026-09-21T18:36:45.778382842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 73,
+  "translation": "Kag ako bu-ang kag indi makakahibalo; nahimo ako nga sapat nga kaupod sa imo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kag ako"
+    },
+    {
+      "surface": "בער",
+      "gloss": "bu-ang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "makakahibalo"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "sapat"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nahimo ako"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kaupod sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:49.915108597Z",
+  "model": "glm-5.3"
+}

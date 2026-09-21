@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Anak ko, kon madawat mo ang akon mga pulong kag ang akon mga kasuguan tago-on mo ⟨את⟩ sa imo,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Anak ko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "madawat mo"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ang akon mga pulong"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "kag ang akon mga kasuguan"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "tago-on mo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:56:17.161904524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kag kaunon nila ⟨את⟩ ina nga gintubos sa ila, sa pagpuno ⟨את⟩ sang ila mga kamot, sa pagpakabalaan ⟨את⟩ sa ila; kag ang dumuluong indi magakaon, kay balaan sila.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "kag kaunon nila"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "gintubos"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "sa pagpuno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang ila mga kamot"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ila mga kamot"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "sa pagpakabalaan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sa ila"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "kag ang dumuluong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "magakaon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    }
+  ],
+  "timestamp": "2026-09-21T16:34:27.057955420Z",
+  "model": "glm-5.3"
+}

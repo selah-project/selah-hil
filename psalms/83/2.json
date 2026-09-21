@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 83,
+  "translation": "O Elohim, indi pagpabilin nga hilum ⟨sa imo⟩, indi paghilom kag indi pagpahuway, O El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "pagpabilin nga hilum"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "paghilom"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "pagpahuway"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:01.256611928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "⟨את⟩ Khelkat kag ⟨את⟩ iya mga pastulan, kag ⟨את⟩ Rkhov kag ⟨את⟩ iya mga pastulan — apat ka mga siyudad.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khelkat"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Khelkat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga pastulan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iya mga pastulan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Rkhov"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rkhov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga pastulan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iya mga pastulan"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mga siyudad"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "apat"
+    }
+  ],
+  "timestamp": "2026-09-21T17:43:35.745893716Z",
+  "model": "glm-5.3"
+}

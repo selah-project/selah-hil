@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Kay nagpaslumya siya sa iya kaugalingon sa iya mga mata, sa pagpangita sang iya sala agud pagkadumtan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "nagpaslumya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "sa iya mga mata"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "sa pagpangita"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "sang iya sala"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "agud pagkadumtan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:34.485719387Z",
+  "model": "glm-5.3"
+}

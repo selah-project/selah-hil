@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Kag kon wala siya sing mga utod, itugyo ninyo ⟨את⟩ ang iya mananonaron sa mga utod sang iya amay.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "mga utod"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "itugyo ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya mananonaron"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ang iya mananonaron"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "sa mga utod"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sang iya amay"
+    }
+  ],
+  "timestamp": "2026-09-21T17:12:27.839862973Z",
+  "model": "glm-5.3"
+}

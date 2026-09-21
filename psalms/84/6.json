@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 84,
+  "translation": "Pagpakamaayo sa tawo nga kusog niya ⟨ang nakabase⟩ sa imo, mga dalan nga daw monghe sa ila kasingkasing.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Pagpakamaayo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "kusog"
+    },
+    {
+      "surface": "לו",
+      "gloss": "niya"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "mga dalan nga daw monghe"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "sa ila kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:22.707792585Z",
+  "model": "glm-5.3"
+}

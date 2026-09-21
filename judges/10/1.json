@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 10:1",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag nagtindog si Tola, anak ni Puah, anak ni Dodo, isa ka tawo sang Yissaskar, pagkatapos ni Avimelekh, sa pagluwas sang ⟨את⟩ Yisrael; kag ⟨siya⟩ nagapuyo sa Shamir, sa bukid sang Efrayim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nagtindog"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pagkatapos"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "sa pagluwas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "Tola"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "פואה",
+      "gloss": "ni Puah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "ni Dodo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "isa ka tawo"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "sang Yissaskar"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kag siya"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nagapuyo"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "sa Shamir"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "sang Efrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T22:25:44.614049244Z",
+  "model": "glm-5.3"
+}

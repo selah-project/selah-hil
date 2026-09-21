@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ihatod sang saserdote ⟨ini⟩ sa halaran, kag pulon niya ⟨את⟩ iya ulo, kag pasondagon ini sa halaran, kag maya ang iya dugo sa pader sang halaran.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "kag ihatod"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang saserdote"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "kag pulon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya ulo"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "iya ulo"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "kag pasondagon"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa halaran"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "maya"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "iya dugo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "pader"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sang halaran"
+    }
+  ],
+  "timestamp": "2026-09-21T22:21:16.578720650Z",
+  "model": "glm-5.3"
+}

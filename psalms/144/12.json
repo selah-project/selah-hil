@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 144:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 144,
+  "translation": "nga ang amon mga anak nga lalaki pariho sang mga tanum nga nagadako sa ila kabataan, ang amon mga anak nga babae pariho sang mga pihak nga bato nga gintigib sunod sa hitsura sang palasyo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "ang amon mga anak nga lalaki"
+    },
+    {
+      "surface": "כנטעים",
+      "gloss": "pariho sang mga tanum"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "nga nagadako"
+    },
+    {
+      "surface": "בנעוריהם",
+      "gloss": "sa ila kabataan"
+    },
+    {
+      "surface": "בנותינו",
+      "gloss": "ang amon mga anak nga babae"
+    },
+    {
+      "surface": "כזוית",
+      "gloss": "pariho sang mga pihak nga bato"
+    },
+    {
+      "surface": "מחטבות",
+      "gloss": "nga gintigib"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "sunod sa hitsura"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "sang palasyo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:09.080918632Z",
+  "model": "glm-5.3"
+}

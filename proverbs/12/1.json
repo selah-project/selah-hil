@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Ang nagahigugma sang pagpanudyo nagahigugma sang kahibalo, kag ang nagakasilag sang tidyag ⟨:⟩ mangmang.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ang nagahigugma"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "sang pagpanudyo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "nagahigugma"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "sang kahibalo"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "kag ang nagakasilag"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "sang tidyag"
+    },
+    {
+      "surface": "בער",
+      "gloss": "mangmang"
+    }
+  ],
+  "timestamp": "2026-09-21T20:58:55.185852177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kag kon ipier gid ⟨אתם⟩ kayamat-ihan ang iya pagdungog, magadala niya ⟨את⟩ ang iya sala.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ipier"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "gid nga ipier"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sila — ang mga saad kag mga gapos"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kayamat-ihan"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ang iya pagdungog"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "kag magadala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya sala"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "sang iya sala"
+    }
+  ],
+  "timestamp": "2026-09-21T17:15:03.660190731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 146,
+  "translation": "Magahari si Yahweh sa dayon, ang imo Elohim, O Tsiyon, sa lahi kag lali — pagdayeg kamo, si Yah!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "Magahari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ang imo Elohim"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "O Tsiyon"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "sa lahi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kag lali"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pagdayeg kamo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "si Yah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:42.504739048Z",
+  "model": "glm-5.3"
+}

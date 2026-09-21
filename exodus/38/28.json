@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 38:28",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 38,
+  "translation": "Kag ⟨את⟩ ang isa ka libo kag pito ka gatos kag lima kag pito ka pulo ginhimo niya nga mga kawit para sa mga haligi, kag gintabon niya ang ila mga ulo kag ginbugkos ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang isa ka libo kag pito ka gatos kag lima kag pito ka pulo"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "ang isa ka libo"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "kag pito"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "kag lima"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "kag pito ka pulo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo niya"
+    },
+    {
+      "surface": "ווים",
+      "gloss": "nga mga kawit"
+    },
+    {
+      "surface": "לעמודים",
+      "gloss": "para sa mga haligi"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "kag gintabon niya"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "ang ila mga ulo"
+    },
+    {
+      "surface": "וחשק",
+      "gloss": "kag ginbugkos"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ang mga haligi"
+    }
+  ],
+  "timestamp": "2026-09-21T16:39:16.498142063Z",
+  "model": "glm-5.3"
+}

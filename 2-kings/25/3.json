@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Sa ikasiyam sang bulan, kag nagbaskog ang kagutum sa siyudad, kag wala na sing tinapay para sa katawhan sang duta.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "Sa ikasiyam"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sang bulan"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "kag nagbaskog"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ang kagutum"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa siyudad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "היה",
+      "gloss": "na ara"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "sing tinapay"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "para sa katawhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T18:52:42.567229353Z",
+  "model": "glm-5.3"
+}

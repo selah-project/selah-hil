@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 71,
+  "translation": "Mag-obra ako sa mga gahum ni Adonay Yahweh; ipahinumdom ko ang imo pagkamatarong — ikaw lamang.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "mag-obra ako"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "sa mga gahum"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "ipahinumdom ko"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "imo pagkamatarong"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ikaw lamang"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:21.832830766Z",
+  "model": "glm-5.3"
+}

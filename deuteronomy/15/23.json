@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Rak ⟨ang⟩ ⟨את⟩ iya dugo indi ka magakaon ⟨sang⟩; sa duta ibubugos mo ini arog sang tubig.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "rak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya dugo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "iya dugo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "magakaon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ibubugos mo ini"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "arog sang tubig"
+    }
+  ],
+  "timestamp": "2026-09-21T22:23:23.137596431Z",
+  "model": "glm-5.3"
+}

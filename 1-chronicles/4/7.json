@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag ang mga anak ni Khelah: si Tsereth, si Yitskhar, kag si Ethnan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "kag ang mga anak"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "ni Khelah"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "si Tsereth"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "si Yitskhar"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "kag si Ethnan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:50:17.179766353Z",
+  "model": "glm-5.3"
+}

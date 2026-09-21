@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 109,
+  "translation": "Kon siya pagahukman, magaguwa siya nga dautan, kag ang iya pangamuyo magaabot subong sala.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "Kon siya pagahukman"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "magaguwa siya"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nga dautan"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "kag ang iya pangamuyo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "magaabot"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "subong sala"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:32.053364730Z",
+  "model": "glm-5.3"
+}

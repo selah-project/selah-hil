@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag nagsiling siya sa iya: Lakat ⟨את⟩ ako ngadto sa balay kag kaganka tinapay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lakat"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ako",
+      "marks": "ka-upod ka ako"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ngadto sa balay"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "kag kaganka"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    }
+  ],
+  "timestamp": "2026-09-21T18:32:51.966828530Z",
+  "model": "glm-5.3"
+}

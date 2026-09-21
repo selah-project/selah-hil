@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 17:4",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "kay sa Elohim sang iya amay siya nagpangita, kag sa iya mga kasugoan siya naglakat, kag indi suno sa mga binuhat sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iya amay"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "nagpangita"
+    },
+    {
+      "surface": "ובמצותיו",
+      "gloss": "kag sa iya mga kasugoan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "naglakat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "suno sa mga binuhat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T22:05:21.930762907Z",
+  "model": "glm-5.3"
+}

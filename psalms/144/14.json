@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 144,
+  "translation": "Ang aton mga baka gabutong sa pagdala; wala sing pagbutas, kag wala sing nagaguwa, kag wala sing sigáw sa aton mga lapad nga dalan.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "aton mga baka"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "gabutong sa pagdala"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "sing pagbutas"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "sing nagaguwa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "sing sigáw"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "sa aton mga lapad nga dalan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:02.902873874Z",
+  "model": "glm-5.3"
+}

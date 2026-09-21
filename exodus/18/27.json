@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag ginpauli ni Moshe ⟨את⟩ iya nga amay sang asawa, kag nagpakadto siya sa iya nga duta.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kag ginpauli"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya nga amay sang asawa"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "iya nga amay sang asawa"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kag nagpakadto"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "iya nga duta"
+    }
+  ],
+  "timestamp": "2026-09-21T16:27:25.806930204Z",
+  "model": "glm-5.3"
+}

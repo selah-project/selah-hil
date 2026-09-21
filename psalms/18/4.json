@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Ginapadayaw ⟨nga⟩ magatawag ako sa ngalan ni Yahweh, kag maluwas ako sa akon mga kaaway.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "ginapadayaw"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "magatawag ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "akon mga kaaway"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "maluwas ako"
+    }
+  ],
+  "timestamp": "2026-09-21T22:38:53.906442999Z",
+  "model": "glm-5.3"
+}

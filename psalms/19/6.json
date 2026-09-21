@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 19:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag sia pareho sang bag-ong bana nga nagagua sa iya silid, kag nagakalipay pareho sang gamhanan sa pagdagan sang dalan.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "kag sia"
+    },
+    {
+      "surface": "כחתן",
+      "gloss": "pareho sang bag-ong bana"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "nagagua"
+    },
+    {
+      "surface": "מחפתו",
+      "gloss": "sa iya silid"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "nagakalipay"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "pareho sang gamhanan"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "sa pagdagan"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "sang dalan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:01.457653587Z",
+  "model": "glm-5.3"
+}

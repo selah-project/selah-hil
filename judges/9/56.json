@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "judges 9:56",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag ginaibalik ni Elohim ⟨את⟩ ang kalaay ni Avimelekh, nga iya ginhimo sa iya amay, sa pagpatay ⟨את⟩ sang iya pito ka pulo ka mga utod.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ginaibalik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kalaay ni Avimelekh"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "kalaay"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "sa iya amay"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "sa pagpatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya pito ka pulo ka mga utod"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "pito ka pulo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iya mga utod"
+    }
+  ],
+  "timestamp": "2026-09-21T17:50:29.900652472Z",
+  "model": "glm-5.3"
+}

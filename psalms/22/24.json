@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kamo nga nagakadalahad kay Yahweh, dayawon ninyo siya; tanan nga kaliwat ni Yaakov, padunggan ninyo siya; kag magkabudlay kamo sa iya, tanan nga kaliwat sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "nagakadalahad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "dayawon ninyo siya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kaliwat"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "padunggan ninyo siya"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "kag magkabudlay kamo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kaliwat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:02.044380612Z",
+  "model": "glm-5.3"
+}

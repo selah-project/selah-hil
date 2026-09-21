@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 12:24",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag gin-liwanhi ni David si ⟨את⟩ Bat-Sheva nga iya asawa, kag nagkadto siya sa iya kag nagturog sa iya, kag natawo siya sing isa ka anak nga lalaki, kag gintawag niya si ⟨את⟩ iya ngalan nga Shelomoh, kag ginhigugma siya ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "kag gin-liwanhi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Bat-Sheva"
+    },
+    {
+      "surface": "בת",
+      "gloss": "si Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "nga iya asawa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kag nagkadto"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "kag nagturog"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "kag natawo siya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sing anak nga lalaki"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kag gintawag niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si iya ngalan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "iya ngalan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "nga Shelomoh"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "kag si Yahweh"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "ginhigugma siya"
+    }
+  ],
+  "timestamp": "2026-09-21T18:18:08.532694241Z",
+  "model": "glm-5.3"
+}

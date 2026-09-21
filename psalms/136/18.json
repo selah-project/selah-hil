@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 136:18",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 136,
+  "translation": "Kag nagpatay sang mga hari nga gamhanan, kay sa dayon ang iya hesed",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "kag nagpatay"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "nga gamhanan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iya hesed"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:34.080853001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag sa pag-ani ninyo ⟨sang⟩ ani sang inyo nga duta, indi ninyo pag-anihon sing bug-os ang kinatumyan sang imo nga uma sa pag-ani, kag ang natimbaw sang imo nga ani indi nimo pagtipunan.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "kag sa pag-ani ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ani"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "sang inyo nga duta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "pag-anihon sing bug-os"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ang kinatumyan"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "sang imo nga uma"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "sa pag-ani"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "kag ang natimbaw"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "sang imo nga ani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "pagtipunan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:50:07.020644593Z",
+  "model": "glm-5.3"
+}

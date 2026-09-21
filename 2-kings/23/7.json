@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag ginpangguba niya ⟨את⟩ ang mga balay sang mga kadesh nga ara sa balay ni Yahweh, diin ang mga babayi naghahabol didto sang mga balay para sa Ashera.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "ginpangguba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga balay sang mga kadesh"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "sang mga balay"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "sang mga kadesh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ang mga babayi"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "naghahabol"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "sang mga balay"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "para sa Ashera"
+    }
+  ],
+  "timestamp": "2026-09-21T18:50:51.876657037Z",
+  "model": "glm-5.3"
+}

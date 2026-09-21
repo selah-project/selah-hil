@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag ang iya anak nga babae amo si Sheera, kag gintindog niya ⟨את⟩ ang Bet-Khoron nga ubos kag ⟨את⟩ ang pataas, kag ⟨את⟩ si Utsen-Sheera.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "Kag ang iya anak nga babae"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "si Sheera"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "kag gintindog niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Bet-Khoron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "-Khoron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "nga ubos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang pataas"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "ang pataas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Utsen-Sheera"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "si Utsen"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "-Sheera"
+    }
+  ],
+  "timestamp": "2026-09-21T21:52:16.659914318Z",
+  "model": "glm-5.3"
+}

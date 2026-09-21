@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kay natumba ang Yerushalayim kag nalaglag ang Yehudah; kay ang ila dila kag ang ila mga binuhat batok kay Yahweh, sa pagpasina sang mga mata sang iya himaya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "natumba"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ang Yerushalayim"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "kag ang Yehudah"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "nalaglag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ang ila dila"
+    },
+    {
+      "surface": "ומעלליהם",
+      "gloss": "kag ang ila mga binuhat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "batok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "sa pagpasina"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sang mga mata"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "sang iya himaya"
+    }
+  ],
+  "timestamp": "2026-09-21T18:52:54.550156890Z",
+  "model": "glm-5.3"
+}

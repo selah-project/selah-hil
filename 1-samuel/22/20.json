@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 22:20",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kag nakaligtas ang isa ka anak nga lalaki ni Aimelek nga anak ni Aitub, kag ang iya ngalan si Abiatar, kag nagpalagyo siya sa luyo ni David.",
+  "tokens": [
+    {
+      "surface": "וימלט",
+      "gloss": "kag nakaligtas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ka anak"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "ni Aimelek"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "ni Aitub"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "kag ang iya ngalan"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "si Abiatar"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "kag nagpalagyo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sa luyo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-21T18:09:30.660248060Z",
+  "model": "glm-5.3"
+}

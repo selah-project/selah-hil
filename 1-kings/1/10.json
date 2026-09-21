@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Apang ⟨את⟩ si Natan ang manalagna, kag si Benayahu, kag ⟨את⟩ ang mga gamhanan nga mga tawo, kag ⟨את⟩ si Shelomoh nga iya utod, wala niya gintawag.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "si Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ang manalagna"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "kag si Benayahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga gamhanan"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "ang mga gamhanan nga mga tawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "si Shelomoh"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "nga iya utod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "niya gintawag"
+    }
+  ],
+  "timestamp": "2026-09-21T18:25:20.465503505Z",
+  "model": "glm-5.3"
+}

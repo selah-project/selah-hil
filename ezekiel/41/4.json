@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 41:4",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 41,
+  "translation": "Kag ginsukol niya ⟨את⟩ ang iya kadugay — duha ka pulo ka siko, kag ang lapad duha ka pulo ka siko, sa atubangan sang templo; kag nagsiling siya sa akon: Amo ini ang Balaan sang mga Balaan.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "kag ginsukol niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya kadugay"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ang iya kadugay"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duha ka pulo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ka siko"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "kag ang lapad"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duha ka pulo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ka siko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "atubangan"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "sang templo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling siya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "זה",
+      "gloss": "amo ini"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Balaan"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "sang mga Balaan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:00:10.454121021Z",
+  "model": "glm-5.3"
+}

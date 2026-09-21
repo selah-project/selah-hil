@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 21:6",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag si Levi kag si Benjamin wala ihap sa ila tunga, kay malain ang pulong sang hari ⟨את⟩ kay Yoav.",
+  "tokens": [
+    {
+      "surface": "ולוי",
+      "gloss": "kag si Levi"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "kag si Benjamin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ihap"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "sa ila tunga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "malain"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    }
+  ],
+  "timestamp": "2026-09-21T21:56:45.935066537Z",
+  "model": "glm-5.3"
+}

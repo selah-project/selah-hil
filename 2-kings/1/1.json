@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag naghimakuit si Moab batok sa Yisrael tapos sang kamatayon ni Ahab.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "naghimakuit"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "si Moab"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "tapos sang"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayon"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Ahab"
+    }
+  ],
+  "timestamp": "2026-09-21T18:39:42.608978166Z",
+  "model": "glm-5.3"
+}

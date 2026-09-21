@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Anak ni Deker, sa Makats, kag sa Shaalavim kag sa Bet-Shemesh, kag sa Elon-Bet-Khanan.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "ni Deker"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "sa Makats"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "kag sa Shaalavim"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "kag sa Bet"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "-Shemesh"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "kag sa Elon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "-Khanan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:25:54.858157865Z",
+  "model": "glm-5.3"
+}

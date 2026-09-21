@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 74,
+  "translation": "Imo ang adlaw, pati imo ang gab-i; ikaw ang nagaandam sang kahayag kag sang adlaw.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "imo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pati"
+    },
+    {
+      "surface": "לך",
+      "gloss": "imo"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ang gab-i"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "nagaandam"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "sang kahayag"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "kag sang adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:32.039021067Z",
+  "model": "glm-5.3"
+}

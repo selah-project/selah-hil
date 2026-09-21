@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 64,
+  "translation": "Sa pagpana sa mga tagong lugar sa ⟨ang⟩ tuman — bigla nila siya ginpana, kag wala sila sing kahadlok.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "sa pagpana"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "sa mga tagong lugar"
+    },
+    {
+      "surface": "תם",
+      "gloss": "tuman"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "bigla"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "ginpana nila siya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "sing kahadlok"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:36.890849143Z",
+  "model": "glm-5.3"
+}

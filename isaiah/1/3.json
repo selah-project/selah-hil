@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Nakakilala ang baka sang iya tag-iya, kag angiburido sang sopa sang iya agalon; apang si Yisrael wala makakilala, ang akon katawhan wala nakasabti.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "Nakakilala"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ang baka"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "sang iya tag-iya"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "kag angiburido"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "sang sopa"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "sang iya agalon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "si Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "makakilala"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ang akon katawhan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "nakasabti"
+    }
+  ],
+  "timestamp": "2026-09-21T18:52:29.620751691Z",
+  "model": "glm-5.3"
+}

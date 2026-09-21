@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 139,
+  "translation": "Kon magapatay ka, Eloah, sa malain — kag kamo, mga tawo sang dugo, magpalayo kamo sa akon!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "magapatay ka"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sa malain"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "kag ang mga tawo sang"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "magpalayo kamo"
+    },
+    {
+      "surface": "מני",
+      "gloss": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:03.757924110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag ipatindog sang pari sa halaran ⟨את⟩ ang ginasunog nga halad kag ⟨את⟩ ang halad nga harina, kag maghimo sang katubus para sa iya ang pari, kag magakahinlo na siya.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "kag ipatindog"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang pari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ginasunog nga halad"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ang ginasunog nga halad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang halad nga harina"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ang halad nga harina"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa halaran"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "kag maghimo sang katubus"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "para sa iya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang pari"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "kag magakahinlo na siya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:47:49.700688588Z",
+  "model": "glm-5.3"
+}

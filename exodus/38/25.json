@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 38:25",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 38,
+  "translation": "Kag ang pilak sang mga gin-iloksohan sang katipunan: isa ka gatos ka talento kag isa ka libo kag pito ka gatos kag lima kag pito ka pulo ka sekil, sa sekil sang balaan.",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "kag ang pilak"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "sang mga gin-iloksohan"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "sang katipunan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "isa ka gatos"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ka talento"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "kag isa ka libo"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "kag pito"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "kag lima"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "kag pito ka pulo"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "ka sekil"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "sa sekil"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sang balaan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:39:16.497175662Z",
+  "model": "glm-5.3"
+}

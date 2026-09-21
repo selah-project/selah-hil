@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag si Khazael, hari sang Aram, nanglugad ⟨את⟩ sa Yisrael sa tanan nga mga adlaw ni Yehoahaz.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "kag si Khazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "sang Aram"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "nanglugad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mga adlaw"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "ni Yehoahaz"
+    }
+  ],
+  "timestamp": "2026-09-21T18:45:09.196282268Z",
+  "model": "glm-5.3"
+}

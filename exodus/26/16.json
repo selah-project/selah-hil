@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Napulo ka dangaw ang gilayon sang tagsa ka tabla, kag isa ka dangaw kag katunga sang dangaw ang gilapdon sang isa ka tabla.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ka dangaw"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ang gilayon"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "sang tagsa ka tabla"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "kag isa ka dangaw"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "kag katunga"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "sang dangaw"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ang gilapdon"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "sang isa ka tabla"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang usa"
+    }
+  ],
+  "timestamp": "2026-09-21T16:32:26.006573726Z",
+  "model": "glm-5.3"
+}

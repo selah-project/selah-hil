@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Natapos na ang kaaway, mga naguba ⟨na⟩ binuak sa dayon; kag ang mga siyudad ginbun-ag mo; naglaglag ang ila handumdom kaupod ⟨nila⟩.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "ang kaaway"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "Natapos na"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "mga naguba"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "kag ang mga siyudad"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "ginbun-ag mo"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "naglaglag"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ang ila handumdom"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:42.614159003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Kag magahatag kami ⟨את⟩ sang amon mga anak nga babayi sa kamo, kag ⟨את⟩ sang inyo mga anak nga babayi kuhaon namon sa amon, kag magapuyo kami ⟨את⟩ ka ninyo, kag magakami nga isa ka banwa.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "kag magahatag kami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang amon mga anak nga babayi"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "sang amon mga anak nga babayi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa kamo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang inyo mga anak nga babayi"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "sang inyo mga anak nga babayi"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "kuhaon namon"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "kag magapuyo kami"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ka ninyo"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "kag magakami"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "nga banwa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    }
+  ],
+  "timestamp": "2026-09-21T16:12:09.759715087Z",
+  "model": "glm-5.3"
+}

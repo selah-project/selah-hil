@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Sa tanan nga duta nagawa ang ila linya, kag sa kabit-unan sang kalibutan ang ila mga pulong; para sa adlaw gintindog niya ang tolda sa ila.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "nagawa"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ang ila linya"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "kag sa kabit-unan"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "sang kalibutan"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "ang ila mga pulong"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "para sa adlaw"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gintindog niya"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:01.457288148Z",
+  "model": "glm-5.3"
+}

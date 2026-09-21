@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag mag-aton siya ⟨את⟩ sang santuaryo nga pinakabalaan, kag ⟨את⟩ sang tolda sang pagtig-ub, kag ⟨את⟩ sang halaran pag-atonan niya; kag sa mga pari kag sa tanan nga katawhan sang katilingban pag-atonan niya.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "kag mag-aton siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "santuaryo nga pinakabalaan"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "santuaryo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pinakabalaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tolda sang pagtig-ub"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang pagtig-ub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "halaran"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "pag-atonan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mga pari"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "sang katilingban"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "pag-atonan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:50:02.937715936Z",
+  "model": "glm-5.3"
+}

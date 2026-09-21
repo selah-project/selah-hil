@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag kuhaon sang saserdote ⟨את⟩ ang karnero sang halad sang sala kag ⟨את⟩ ang log nga lana, kag saserdote ang magapauyog ⟨אתם⟩ sa pagauyog nga halad sa atubangan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Kag kuhaon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang saserdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang karnero sang halad sang sala"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "karnero"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "sang halad sang sala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang log nga lana"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "nga lana"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "kag magapauyog"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sila — ang karnero kag ang log nga lana"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "saserdote"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "pagauyog nga halad"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:48:45.438310781Z",
+  "model": "glm-5.3"
+}

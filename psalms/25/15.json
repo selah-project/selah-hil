@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Ang akon mga mata pirmi ⟨kay⟩ Yahweh, kay siya ang magakuha sang akon mga tiil gikan sa lantay.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Ang akon mga mata"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "pirmi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kay⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ang magakuha"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "gikan sa lantay"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "sang akon mga tiil"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:41.086152038Z",
+  "model": "glm-5.3"
+}

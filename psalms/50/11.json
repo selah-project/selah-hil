@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 50,
+  "translation": "Kabalo ako sa tanan nga sapat nga nagalupad sang mga bukid, kag ang mga sapat sang uma kaupod ako.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Kabalo ako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "nga sapat nga nagalupad"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "sang mga bukid"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "kag ang mga sapat"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "sang uma"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "kaupod ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:45.074398891Z",
+  "model": "glm-5.3"
+}

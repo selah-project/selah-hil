@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 79,
+  "translation": "Kay ginkaon nila ⟨את⟩ si Yaakov kag ⟨את⟩ ang iya puluy-an ginpangtablaw nila.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ginkaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya puluy-an"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "iya puluy-an"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "ginpangtablaw nila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:28.421350974Z",
+  "model": "glm-5.3"
+}

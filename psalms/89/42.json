@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Ginasamsam siya sang tanan nga nagaagi sa dalan; nangin ⟨siya⟩ kahuya sa iya mga kaabay.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "ginasamsam siya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "nagaagi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nangin"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "kahuya"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "sa iya mga kaabay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:26.832850488Z",
+  "model": "glm-5.3"
+}

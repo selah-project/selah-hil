@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Nagapanaghoy kag nagapangluya ang duta, nagapaninuya kag nagapangluya ang kalibutan; nagapaninuya ang kataasan sang mga tawo sang duta.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "nagapanaghoy"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "nagapangluya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "nagapaninuya"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "nagapangluya"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ang kalibutan"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "nagapaninuya"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ang kataasan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sang mga tawo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T22:31:41.295551814Z",
+  "model": "glm-5.3"
+}

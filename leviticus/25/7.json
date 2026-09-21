@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag sa imo mga sapat, kag sa mga sapat nga buhi nga yara sa imo duta; ang tanan nga tinubo sini magakabuhi nga pagkaon.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "Kag sa imo mga sapat"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "kag sa mga sapat nga buhi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "sa imo duta"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "magakabuhi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "nga tinubo sini"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "nga pagkaon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:54:59.738710445Z",
+  "model": "glm-5.3"
+}

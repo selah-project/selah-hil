@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Sang nagluya na sa akon ang akon kalag, gintanduman ko ⟨את⟩ si Yahweh; kag ang akon pangamuyo nagdulóng sa imo, ngadto sa imo balaan nga templo.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "sang nagluya na"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akon kalag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "gintanduman ko"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "kag nagdulóng"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "akon pangamuyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "templo"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "imo balaan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:12:53.624294075Z",
+  "model": "glm-5.3"
+}

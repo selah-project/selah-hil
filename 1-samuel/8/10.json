@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag naghambal si Shemuel ⟨את⟩ ang tanan nga mga pulong ni Yahweh sa katawhan nga nangayo sa iya ⟨את⟩ sang isa ka hari.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag naghambal"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga mga pulong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nga mga pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "nga nangayo"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "sa iya ⟨את⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sang isa ka hari"
+    }
+  ],
+  "timestamp": "2026-09-21T17:59:29.843379343Z",
+  "model": "glm-5.3"
+}

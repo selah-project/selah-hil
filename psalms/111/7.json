@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 111,
+  "translation": "Ang mga binuhat sang iya mga kamot kamatuoran kag paghukum; matinud-anon ang tanan niya nga mga pagsugo.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "Ang mga binuhat"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "sang iya mga kamot"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kamatuoran"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "kag paghukum"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "matinud-anon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "niya nga mga pagsugo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:56.260926796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag gintagan ni Avraham ⟨את⟩ ang tanan nga ara sa iya kay Yitskhak.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Kag gintagan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga ara sa iya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kay Yitskhak"
+    }
+  ],
+  "timestamp": "2026-09-21T16:05:17.040575850Z",
+  "model": "glm-5.3"
+}

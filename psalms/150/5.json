@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 150,
+  "translation": "Dayeg ninyo siya sa mga simbal sang tingog; dayeg ninyo siya sa mga simbal sang pag-ula.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Dayeg ninyo siya"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "sa mga simbal"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Dayeg ninyo siya"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "sa mga simbal"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "pag-ula"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:01.534817459Z",
+  "model": "glm-5.3"
+}

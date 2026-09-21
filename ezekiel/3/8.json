@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Tan-awa, ginhimo ko ⟨את⟩ ang imo nawong nga mga tig-a batok sa ila mga nawong, kag ⟨את⟩ ang imo agang nga tig-a batok sa ila mga agang.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ginhimo ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imo nawong"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "imo nawong"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "mga tig-a"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ila mga nawong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "imo agang"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "imo agang"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "tig-a"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "ila mga agang"
+    }
+  ],
+  "timestamp": "2026-09-21T19:41:58.720032747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag ini ang mga kaliwat ni Yitskhak, anak nga lalaki ni Avraham: si Avraham natawo sang ⟨את⟩ Yitskhak.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "kag ini"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "mga kaliwat"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak nga lalaki"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitskhak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    }
+  ],
+  "timestamp": "2026-09-21T16:06:25.897372144Z",
+  "model": "glm-5.3"
+}

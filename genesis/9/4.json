@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Apos ang unod kauban ang iya kabuhi — ang iya dugo — indi ninyo kaonon.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "apos"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ang unod"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "kauban ang iya kabuhi"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ang iya dugo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ninyo kaonon"
+    }
+  ],
+  "timestamp": "2026-09-21T15:57:47.389007016Z",
+  "model": "glm-5.3"
+}

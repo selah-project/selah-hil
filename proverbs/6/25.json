@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Indi pagpangandoy sang iya katahum sa imo tagipusuon, kag indi pagpagamot sa iya nga imo kuahon sa iya mga kilay.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "pagpangandoy"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "iya katahum"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "sa imo tagipusuon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "imo kuahon"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "sa iya mga kilay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:57:07.644609150Z",
+  "model": "glm-5.3"
+}

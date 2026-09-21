@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag ginpalapit ni Aharon ⟨ang iya kaugalingon⟩ sa halaran kag ginihaw ⟨את⟩ ang baka nga anak, ang halad sang sala nga iya.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Ginpalapit"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "kag ginihaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang baka nga anak"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "baka nga anak"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "halad sang sala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iya"
+    }
+  ],
+  "timestamp": "2026-09-21T22:21:02.228040277Z",
+  "model": "glm-5.3"
+}

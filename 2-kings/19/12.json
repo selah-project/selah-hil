@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Nagluwas bala ang mga dios sang mga pungsod ⟨את⟩ ila nga ginpanglaglag sang akon mga amay — ⟨את⟩ Gozan kag ⟨את⟩ Kharan, kag Retses, kag ang mga anak sang Eden nga ara sa Telassar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Nagluwas bala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ila"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mga dios"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mga pungsod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "ginpanglaglag"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "akon mga amay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Kharan"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Kharan"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "kag Retses"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "kag ang mga anak"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "sa Telassar"
+    }
+  ],
+  "timestamp": "2026-09-21T18:46:48.519651970Z",
+  "model": "glm-5.3"
+}

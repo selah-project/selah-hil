@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kay sa amo ginsogo ako sang pulong ni Yahweh, nga nagasiling: Indi ka magkaan sang tinapay kag indi ka mag-inom sang tubig, kag indi ka magbalik sa dalan nga imo ginkadtoan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa amo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsogo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "sang pulong ni Yahweh"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sang pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "magkaan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "mag-inom"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "magbalik"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "imo ginkadtoan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:32:33.481863733Z",
+  "model": "glm-5.3"
+}

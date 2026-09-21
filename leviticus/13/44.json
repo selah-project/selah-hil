@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 13:44",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Tawo nga may tsaraat siya, marot siya; maroton siya sang saserdote nga marot; sa iya ulo ang iya sakit.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "may tsaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "marot"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "marot"
+    },
+    {
+      "surface": "יטמאנו",
+      "gloss": "maroton niya siya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang saserdote"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "sa iya ulo"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "iya sakit"
+    }
+  ],
+  "timestamp": "2026-09-21T16:47:40.652367472Z",
+  "model": "glm-5.3"
+}

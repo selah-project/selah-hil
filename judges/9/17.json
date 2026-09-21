@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 9:17",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "nga nakig-away ang akon amay alon sa inyo, kag ginlabay niya ⟨את⟩ ang iya kalag sa atubangan, kag gintubos niya ⟨את⟩ kamo sa kamot sang Midyan",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "nakig-away"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ang akon amay"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "alon sa inyo"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "kag ginlabay niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya kalag"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ang iya kalag"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "kag gintubos niya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "sang Midyan"
+    }
+  ],
+  "timestamp": "2026-09-21T17:50:50.566748086Z",
+  "model": "glm-5.3"
+}

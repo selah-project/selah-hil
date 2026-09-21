@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 74,
+  "translation": "Ang amon mga timaila indi namon makita; wala na sang manalagna, kag wala ⟨אתנו⟩ may nakahibalo hangtod san-o.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "amon mga timaila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "namon makita"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "manalagna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨אתנו⟩",
+      "marks": "kami"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakahibalo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "מה",
+      "gloss": "san-o"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:54.098575126Z",
+  "model": "glm-5.3"
+}

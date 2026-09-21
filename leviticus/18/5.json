@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag magabantay kamo sang ⟨את⟩ mga kasuguan ko kag sang ⟨את⟩ mga paghukom ko, nga ihimo sang tawo ⟨את⟩ iya kag mabuhi sa ila; ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "kag magabantay kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga kasuguan ko"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mga kasuguan ko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "mga paghukom ko"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mga paghukom ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ihimo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "siya (ang tawo)"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "kag mabuhi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:49:54.102707880Z",
+  "model": "glm-5.3"
+}

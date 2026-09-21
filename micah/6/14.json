@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 6:14",
+  "book": "micah",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Ikaw magakaon kag indi ka mabuhug, kag ang imo kagul-an yara sa imo tunga; magapirit ka kag indi ka makaluwas, kag ang imo maluwas igahatag ko sa espada.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "magakaon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "mabuhug"
+    },
+    {
+      "surface": "וישחך",
+      "gloss": "kag ang imo kagul-an"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "sa imo tunga"
+    },
+    {
+      "surface": "ותסג",
+      "gloss": "magapirit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תפליט",
+      "gloss": "makaluwas"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kag ang"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "maluwas"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "sa espada"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "igahatag ko"
+    }
+  ],
+  "timestamp": "2026-09-21T20:14:37.236181978Z",
+  "model": "glm-5.3"
+}

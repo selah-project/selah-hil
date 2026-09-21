@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 27:6",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Mga bato nga bug-os imo pagpatinduron ⟨את⟩ sang halaran ni Yahweh nga Elohim mo, kag magapasaka ka sa iya sang halad nga sinunog kay Yahweh nga Elohim mo.",
+  "tokens": [
+    {
+      "surface": "אבנים",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "nga bug-os"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "imo pagpatinduron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang halaran"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sang halaran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga Elohim mo"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "kag magapasaka ka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "sang halad nga sinunog"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga Elohim mo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:28:53.422169552Z",
+  "model": "glm-5.3"
+}

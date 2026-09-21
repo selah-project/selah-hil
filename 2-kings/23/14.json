@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag ginpamalba niya ⟨את⟩ ang mga tindog nga bato, kag gintapyas ⟨את⟩ ang mga Ashera, kag ginpun-an ⟨את⟩ ang ila mga lugar sang mga tul-an sang tawo.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "Kag ginpamalba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tindog nga bato"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "ang mga tindog nga bato"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "kag gintapyas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga Ashera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "ang mga Ashera"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "kag ginpun-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ila mga lugar"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "ang ila mga lugar"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "sang mga tul-an"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:51:15.509940818Z",
+  "model": "glm-5.3"
+}

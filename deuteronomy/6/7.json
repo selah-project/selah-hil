@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag istoryahon mo sing madalà ini sa imo mga anak, kag hambalon mo ini kon nagapungko ka sa imo balay, kag kon nagalakat ka sa dalan, kag kon nagahigda ka kag kon nagatindog ka.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "kag istoryahon mo sing madalà"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "sa imo mga anak"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "kag hambalon mo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "kon nagapungko ka"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "sa imo balay"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "kag kon nagalakat ka"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "kag kon nagahigda ka"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "kag kon nagatindog ka"
+    }
+  ],
+  "timestamp": "2026-09-21T17:18:55.820549212Z",
+  "model": "glm-5.3"
+}

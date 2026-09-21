@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Yahweh, Elohim ko, sa Imo ako nagsandig; luwasa ako sa tanan nga nagsunod sa akon, kag iluwas ako.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ko"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa Imo"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ako nagsandig"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "luwasa ako"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "nagsunod sa akon"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "kag iluwas ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:23:20.735132001Z",
+  "model": "glm-5.3"
+}

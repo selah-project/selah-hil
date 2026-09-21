@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Suno sa tanan nga akon ginapakita sa imo ⟨את⟩ — ⟨את⟩ ang hulagway sang Mishkan kag ⟨את⟩ ang hulagway sang tanan nga iya mga kagamitan — amo gid ina himoon ninyo.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "suno sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ginapakita"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "ikaw (sa imo)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulagway sang Mishkan"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "hulagway"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "sang Mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "hulagway sang tanan nga kagamitan"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "hulagway"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "iya mga kagamitan"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "amo gid ina"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "himoon ninyo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:32:05.789915873Z",
+  "model": "glm-5.3"
+}

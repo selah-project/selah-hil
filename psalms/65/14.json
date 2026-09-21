@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 65,
+  "translation": "Nagsulob ang mga kapatungan sang mga karnero, kag ang mga kalamnan ginatabon sang bugas; nagasinggit ⟨sila⟩, gani nagakanta ⟨sila⟩.",
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "nagsulob"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "mga kapatungan"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "mga karnero"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "kag ang mga kalamnan"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "ginatabon"
+    },
+    {
+      "surface": "בר",
+      "gloss": "bugas"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "nagasinggit"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gani"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "nagakanta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:33.506736094Z",
+  "model": "glm-5.3"
+}

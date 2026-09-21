@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Ang nagalakat sing matarong, kag nagabuhat sang katarungan, kag naghambal sang kamatuoran sa iya tagipusuon.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "nagalakat"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "kag nagabuhat"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "katarungan"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "kag naghambal"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kamatuoran"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "sa iya tagipusuon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:54.911052188Z",
+  "model": "glm-5.3"
+}

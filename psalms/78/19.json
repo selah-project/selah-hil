@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 78:19",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Kag naghambal sila batok sa Elohim; nagsiling sila, Makahimo bala si El sa paglatid sang lamesa sa kamingawan?",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "naghambal sila batok"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nagsiling sila"
+    },
+    {
+      "surface": "היוכל",
+      "gloss": "Makahimo bala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "si El"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "sa paglatid"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "sang lamesa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:36.468901591Z",
+  "model": "glm-5.3"
+}

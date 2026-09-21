@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Sa ikaduha ka bulan, sa ika-napulo kag apat nga adlaw, sa tunga sang mga kagab-ihon himuon nila ⟨את⟩ ini; sa tinapay nga wala sing lebadura kag mga mapait nga tanom ihalon nila ini.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Sa ikaduha ka bulan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikaduha"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ika-napulo kag apat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "napulo kag apat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nga adlaw"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "sang mga kagab-ihon"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "himuon nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ini (ang Pesah)"
+    },
+    {
+      "surface": "על",
+      "gloss": "kauban"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "sa tinapay nga wala sing lebadura"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "kag mga mapait nga tanom"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "ihalon nila ini"
+    }
+  ],
+  "timestamp": "2026-09-21T17:03:34.914041412Z",
+  "model": "glm-5.3"
+}

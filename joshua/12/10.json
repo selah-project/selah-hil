@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "ang hari sang Yerushalayim, isa; ang hari sang Khevron, isa;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sang Yerushalayim"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "sang Khevron"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    }
+  ],
+  "timestamp": "2026-09-21T17:39:04.781398757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 20:20",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag nagsiling si Moshe sa mga tawo: Indi kamo kahadlok, kay umabot ang Elohim agod pagtilawon ⟨אתכם⟩ kamo, kag agod ang iya kahadlok magaestar sa atubang sang inyo mga nawong, agod indi kamo magpakasala.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag nagsiling"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kamo kahadlok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לבעבור",
+      "gloss": "agod"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "pagtilawon"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "umabot"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "ובעבור",
+      "gloss": "kag agod"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "magaestar"
+    },
+    {
+      "surface": "יראתו",
+      "gloss": "ang iya kahadlok"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "sang inyo mga nawong"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "agod indi"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "kamo magpakasala"
+    }
+  ],
+  "timestamp": "2026-09-21T16:28:53.124363595Z",
+  "model": "glm-5.3"
+}

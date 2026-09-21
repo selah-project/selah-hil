@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 62,
+  "translation": "Sa Elohim ⟨yara⟩ ang akon kaluwasan kag ang akon dungog; ang bato sang akon kusog, ang akon panalipod, ⟨yara⟩ sa Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ang akon kaluwasan"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "kag ang akon dungog"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ang bato"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "sang akon kusog"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ang akon panalipod"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "sa Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:06.576864968Z",
+  "model": "glm-5.3"
+}

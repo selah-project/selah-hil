@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Ang mga ina ginakagustuhan labaw sa bolawan kag sa madamu nga pinong nga bolawan, kag ginakalamyohan labaw sa dugos kag sa tinuhok nga dugos sang pukot.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "ang mga ginakagustuhan"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "sa bolawan"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "kag sa pinong nga bolawan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "madamu"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "kag ginakalamyohan"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "sa dugos"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "kag sa tinuhok nga dugos"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "sang pukot"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:50.347170725Z",
+  "model": "glm-5.3"
+}

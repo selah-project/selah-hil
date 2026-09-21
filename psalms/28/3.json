@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Indi ako pagguma kaupod sang mga malain, kag kaupod sang mga nagabuhat sang kabalangutan, nga naghahambal sing kappayapaan sa ila mga kaabay, apang karaotan ⟨nga yara⟩ sa ila kasingkasing.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "pagguma ako"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod sang"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga malain"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kag kaupod sang"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "mga nagabuhat"
+    },
+    {
+      "surface": "און",
+      "gloss": "sang kabalangutan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nga naghahambal"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kappayapaan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "ila mga kaabay"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "apang karaotan"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "sa ila kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-21T22:38:41.180014441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 124,
+  "translation": "Sa sadto nga tion, naglaban sa aton kalag ang mga tubig, ang mga tubig nga palabilâ.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "Sa sadto nga tion"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "naglaban"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "aton kalag"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang mga tubig"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "ang mga tubig nga palabilâ"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:58.624074280Z",
+  "model": "glm-5.3"
+}

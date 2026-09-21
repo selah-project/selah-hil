@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag ginsunog niya ⟨את⟩ iya halad nga sinusunog kag ⟨את⟩ iya halad nga bugas, kag ginduso niya ⟨את⟩ iya ilimnon nga halad, kag gintin-aw niya ⟨את⟩ ang dugo sang iya mga halad sa pakigdait sa ibabaw sang halaran.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "ginsunog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya halad nga sinusunog"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "iya halad nga sinusunog"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya halad nga bugas"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "iya halad nga bugas"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "ginduso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya ilimnon nga halad"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "iya ilimnon nga halad"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "gintin-aw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dugo"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ang dugo"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "sang mga halad sa pakigdait"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sang halaran"
+    }
+  ],
+  "timestamp": "2026-09-21T18:47:23.867468234Z",
+  "model": "glm-5.3"
+}

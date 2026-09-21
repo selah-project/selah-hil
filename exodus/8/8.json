@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 8:8",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag nagguwa si Mosheh kag si Aharon gindi kay Paro; kag nagsinggit si Mosheh kay Yahweh parte sa mga baki nga iya ginbutang kay Paro.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "kag nagguwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Mosheh"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "kag si Aharon"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "gindi sa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kay Paro"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "kag nagsinggit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "parte sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sa butang"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "sang mga baki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "iya ginbutang"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kay Paro"
+    }
+  ],
+  "timestamp": "2026-09-21T16:22:47.454729071Z",
+  "model": "glm-5.3"
+}

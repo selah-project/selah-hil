@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 102,
+  "translation": "Gintudla ako subong sang pelikano sa kamingawan, nagligad ako subong sang ibon sang gab-i sa mga lagaw.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "Gintudla ako subong"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "sang pelikano"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nagligad ako subong"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "sang ibon sang gab-i"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "sa mga lagaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:42.743002830Z",
+  "model": "glm-5.3"
+}

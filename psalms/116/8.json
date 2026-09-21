@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 116,
+  "translation": "Kay ginluhas mo ang akon kalag sa kamatayon, ⟨את⟩ ang akon mata halin sa ulung, ⟨את⟩ ang akon tiil halin sa pagkatumba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "ginluhas mo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akon kalag"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "sa kamatayon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon mata"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "akon mata"
+    },
+    {
+      "surface": "מן",
+      "gloss": "halin sa"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "ulung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon tiil"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "akon tiil"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "pagkatumba"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:04.346202441Z",
+  "model": "glm-5.3"
+}

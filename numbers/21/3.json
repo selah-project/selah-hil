@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag gindunggan ni Yahweh ang tingog sang Yisrael, kag ginhatag niya ⟨את⟩ ang Kenaananhon, kag ginpahinabyon sila kag ⟨את⟩ ang ila mga kagamyan; kag gintawag ang ngalan sang duog nga Khormah.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "kag gindunggan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kag ginhatag niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Kenaananhon"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ang Kenaananhon"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "kag ginpahinabyon"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang Kenaananhon)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "ang ila mga kagamyan"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kag gintawag"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang ngalan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "sang duog"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "nga Khormah"
+    }
+  ],
+  "timestamp": "2026-09-21T17:09:27.657120415Z",
+  "model": "glm-5.3"
+}

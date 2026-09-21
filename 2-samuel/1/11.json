@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ginkapot ni David ang iya mga bado kag ginsikad niya sila, kag pati ang tanan nga mga tawo nga ⟨את⟩ kaupod niya.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Kag ginkapot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "ang iya mga bado"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "kag ginsikad niya sila"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kag pati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "nga mga tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kaupod"
+    }
+  ],
+  "timestamp": "2026-09-21T18:12:41.866682881Z",
+  "model": "glm-5.3"
+}

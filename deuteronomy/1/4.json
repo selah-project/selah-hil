@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Tapos sang iya pagtalumpati ⟨את⟩ kay Sihon, hari sang mga Amorite, nga nagaistar sa Cheshbon, kag ⟨את⟩ kay Og, hari sang Bashan, nga nagaistar sa Ashtarot sa Edrei.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Tapos sang"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "iya pagtalumpati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Sihon, hari sang mga Amorite"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "sang mga Amorite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "nagaistar"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "sa Cheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "kay Og, hari sang Bashan"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "sang Bashan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "nagaistar"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "sa Ashtarot"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "sa Edrei"
+    }
+  ],
+  "timestamp": "2026-09-21T17:17:58.408508492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag ginhibi sang iya kaugalingon si Yehonatan ⟨את⟩ ang sina nga ara sa iya, kag ginhatag niya ini kay David, kag ang iya mga sul-ob, tubtob sa iya espada, kag tubtob sa iya pana, kag tubtob sa iya bakus.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "kag ginhibi sang iya kaugalingon"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "si Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang sina"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "ang sina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ara sa iya"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "kag ginhatag niya ini"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "kag ang iya mga sul-ob"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tubtob sa"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "iya espada"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag tubtob sa"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "iya pana"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag tubtob sa"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "iya bakus"
+    }
+  ],
+  "timestamp": "2026-09-21T18:06:34.357405344Z",
+  "model": "glm-5.3"
+}

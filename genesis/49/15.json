@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 49,
+  "translation": "Kag nakita niya nga ang kapoyan maayo, kag ⟨את⟩ ang duta nga matam-is; kag ginpuyô niya ang iya abaga sa pagdala, kag nagin manugu-ugnod siya sa pagpangabudlay.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "kag nakita niya"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ang kapoyan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "matam-is"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ginpuyô niya"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ang iya abaga"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "sa pagdala"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag nagin"
+    },
+    {
+      "surface": "למס",
+      "gloss": "manugu-ugnod"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sa pagpangabudlay"
+    }
+  ],
+  "timestamp": "2026-09-21T16:18:36.324213825Z",
+  "model": "glm-5.3"
+}

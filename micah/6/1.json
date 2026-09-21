@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Paminaw kamo, palihog, ⟨את⟩ sang ginhambal ni Yahweh: Tumindog ka, makiglalis ⟨את⟩ sa mga bukid, kag magapaminaw sang imo tingog ang mga bungtod.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "paminaw kamo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "palihog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang ginhambal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ginhambal"
+    },
+    {
+      "surface": "קום",
+      "gloss": "tumindog ka"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "makiglalis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga bukid"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "mga bukid"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "magapaminaw"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "mga bungtod"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "imo tingog"
+    }
+  ],
+  "timestamp": "2026-09-21T20:15:41.129561437Z",
+  "model": "glm-5.3"
+}

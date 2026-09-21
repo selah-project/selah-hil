@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 107,
+  "translation": "Kag nagkalipay sila kay nag-untat ⟨ang balod⟩, kag gindala niya sila sa dungganan sang ila gusto.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "Kag nagkalipay sila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "nag-untat"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "kag gindala niya sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "dungganan"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "sang ila gusto"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:23.450295536Z",
+  "model": "glm-5.3"
+}

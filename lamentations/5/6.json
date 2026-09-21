@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Ginhatag namon ang kamot sa Mitsrayim, sa Ashur, aron mabusog ⟨kami⟩ sang tinapay.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ginhatag namon"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ang kamot"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sa Ashur"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "aron mabusog"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "sang tinapay"
+    }
+  ],
+  "timestamp": "2026-09-21T22:42:46.158093977Z",
+  "model": "glm-5.3"
+}

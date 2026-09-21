@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kay sin-o ang Eloah gawas kay Yahweh? Kag sin-o ang bato gawas sa aton Elohim?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ang Eloah"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "gawas kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "kag sin-o"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ang bato"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "gawas sa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "aton Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:45.088776917Z",
+  "model": "glm-5.3"
+}

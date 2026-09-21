@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 62,
+  "translation": "Bug-os lamang sa Elohim magapahuway sing kalma ang akon kalag, kay gikan sa iya ang akon paglaom.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Bug-os lamang"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "magapahuway sing kalma"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "gikan sa iya"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "ang akon paglaom"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:06.576423325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Magakalipay ako kag magakantahado sa imo hesed, kay nakita mo ⟨את⟩ ang akon kalisud; nakilala mo ang mga kagul-anon sang akon kalag.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "magakalipay ako"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "kag magakantahado"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "sa imo hesed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "nakita mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon kalisud"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ang akon kalisud"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nakilala mo"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "ang mga kagul-anon"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sang akon kalag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:26.891660655Z",
+  "model": "glm-5.3"
+}

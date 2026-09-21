@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 76,
+  "translation": "Sang tumindog ang Elohim sa paghukom, sa pagluwas sa tanan nga malumo sang duta. Selah.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "Sang tumindog"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "sa paghukom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "sa pagluwas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "nga malumo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:57.642812884Z",
+  "model": "glm-5.3"
+}

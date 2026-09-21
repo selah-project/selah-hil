@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Magapaulan ⟨niya⟩ sa mga malain sing mga paniknod, kalayo kag asupre, kag isa ka mabaga nga hangin — ini ang bahin sang ila kopa.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "magapaulan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga malain"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "mga paniknod"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kalayo"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "kag asupre"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "kag isa ka hangin"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "mabaga"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "ang bahin"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "sang ila kopa"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:44.293726773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kag ginhimo niya ⟨את⟩ ang mga badbarasan halin sa kahoy sang shittim, kag gintabon niya ⟨את⟩ sinda sang bulawan, sa pagdala ⟨את⟩ sang mes.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kag ginhimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga badbarasan"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ang mga badbarasan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "halin sa kahoy"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sang shittim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "kag gintabon"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sinda"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sang bulawan"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "sa pagdala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang mes"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "sang mes"
+    }
+  ],
+  "timestamp": "2026-09-21T16:39:37.666750422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag nagkalimot sila ⟨את⟩ kay Yahweh nga ila Elohim, kag ginbaligya niya ⟨את⟩ sila sa kamot ni Sisera, kapitan sang kasundalohan sang Hatzor, kag sa kamot sang mga Pelishteo, kag sa kamot sang hari sang Moab, kag nakig-away sila sa ila.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "nagkalimot sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yahweh nga ila Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "nga ila Elohim"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "kag ginbaligya niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kapitan"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "kasundalohan"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatzor"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "kag sa kamot"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Pelishteo"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "kag sa kamot"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "kag nakig-away sila"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T18:02:00.716097749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "kag sa iya likod ⟨si⟩ Gabbai, Sallai — siyam ka gatos kag duha ka pulo kag walo.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "kag sa iya likod"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "si Gabbai"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "si Sallai"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "siyam"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kag duha ka pulo"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "kag walo"
+    }
+  ],
+  "timestamp": "2026-09-21T21:47:25.774015371Z",
+  "model": "glm-5.3"
+}

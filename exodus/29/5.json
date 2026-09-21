@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 29:5",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kag kuhaon mo ⟨את⟩ ang mga bado, kag sul-utan mo ⟨את⟩ si Aharon sang sina, kag ⟨את⟩ ang bado sa ibabaw sang efod, kag ⟨את⟩ ang efod, kag ⟨את⟩ ang choshen, kag padianan mo siya sang tali nga tinagtu sang efod.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "kuhaon mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga bado"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "ang mga bado"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "sul-utan mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang sina"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "ang sina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang bado sa ibabaw"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "bado sa ibabaw"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "sang efod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ang efod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang choshen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ang choshen"
+    },
+    {
+      "surface": "ואפדת",
+      "gloss": "padianan mo siya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "tali nga tinagtu"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "sang efod"
+    }
+  ],
+  "timestamp": "2026-09-21T16:33:55.569641099Z",
+  "model": "glm-5.3"
+}

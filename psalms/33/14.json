@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Gikan sa pinuy-anan sang iya pagpuyo nagatutok sang panan-aw siya ⟨sa⟩ tanan nga mga pumuyo sang duta.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "Gikan sa pinuy-anan"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "sang iya pagpuyo"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "nagatutok sang panan-aw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mga pumuyo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:34.998265955Z",
+  "model": "glm-5.3"
+}

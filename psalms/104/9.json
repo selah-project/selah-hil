@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 104,
+  "translation": "Isa ka utlanan imo ⟨gintaga⟩ nga indi sila magatabok, nga indi sila magbalik sa pagtabon sang duta.",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "isa ka utlanan"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "imo gintaga"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nga indi"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "sila magatabok"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nga indi"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "sila magbalik"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "sa pagtabon"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:48.513886685Z",
+  "model": "glm-5.3"
+}

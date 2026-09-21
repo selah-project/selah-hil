@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 115,
+  "translation": "Ang mga langit ⟨amo⟩ ang mga langit ni Yahweh, apang ang duta ginhatag niya sa mga anak sang tawo.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "apang ang duta"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ginhatag"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:34.656503540Z",
+  "model": "glm-5.3"
+}

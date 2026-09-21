@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag ang tawo nga magahalay ⟨את⟩ sa asawa sang isa ka tawo, nga magahalay ⟨את⟩ sa asawa sang iya isigkatawo — kamatayon gid sila: ang lalaki nga naghahalay kag ang babae nga naghahalay.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "kag ang tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "magahalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa asawa sang isa ka tawo"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "isa ka tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "magahalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa asawa sang iya isigkatawo"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "iya isigkatawo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayon"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "gid"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "ang lalaki nga naghahalay"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "kag ang babae nga naghahalay"
+    }
+  ],
+  "timestamp": "2026-09-21T16:52:56.095552920Z",
+  "model": "glm-5.3"
+}

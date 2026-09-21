@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Sin-o sa inyo ang magapatiyaw sini, magatuminaw kag magadungog sa ulihi?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Sin-o"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "ang magapatiyaw"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sini"
+    },
+    {
+      "surface": "יקשיב",
+      "gloss": "magatuminaw"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "kag magadungog"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "sa ulihi"
+    }
+  ],
+  "timestamp": "2026-09-21T19:06:23.735216153Z",
+  "model": "glm-5.3"
+}

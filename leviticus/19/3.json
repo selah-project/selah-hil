@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Ang tagsa ka tawo, ang iya iloy kag ang iya amay pagatakdon niya sing kahadlok, kag ⟨את⟩ ang akon mga Sabbath pagatipigan ninyo; ako si Yahweh nga inyo Elohim.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ang tagsa ka tawo"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ang iya iloy"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "kag ang iya amay"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "pagatakdon niya sing kahadlok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang akon mga Sabbath"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "ang akon mga Sabbath"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "pagatipigan ninyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "nga inyo Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:51:14.108520393Z",
+  "model": "glm-5.3"
+}

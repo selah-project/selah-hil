@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "⟨את⟩ si Yahweh sang Tsevaot — ⟨אתו⟩ iya pagaingon ninyo nga balaan, kag siya ang inyo kahadlok, kag siya ang inyo kakuyap.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh sang Tsevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "sang Tsevaot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iya (nga pagaingon balaan)"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "pagaingon ninyo nga balaan"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kag siya"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "ang inyo kahadlok"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kag siya"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "ang inyo kakuyap"
+    }
+  ],
+  "timestamp": "2026-09-21T18:53:49.665030115Z",
+  "model": "glm-5.3"
+}

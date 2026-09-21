@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 60,
+  "translation": "Ihatag sa amon ang bulig gikan sa kagul-an, kay wala sing bili ang kaluwas sang tawo.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Ihatag"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "ang bulig"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "gikan sa kagul-an"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "kay wala sing bili"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "ang kaluwas"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:24.143045903Z",
+  "model": "glm-5.3"
+}

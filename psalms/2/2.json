@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Nagpatindog sang kaugalingon ang mga hari sang duta, kag ang mga mangungulo nagtipon nga manag-uyon batok kay Yahweh kag batok sa iya Mesiyas,",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "nagpatindog sang kaugalingon"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ang mga hari"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "kag ang mga mangungulo"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "nagtipon nga manag-uyon"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "nga manag-uyon"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag batok sa"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "iya Mesiyas"
+    }
+  ],
+  "timestamp": "2026-09-21T20:23:22.720825179Z",
+  "model": "glm-5.3"
+}

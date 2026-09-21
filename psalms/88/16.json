@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 88,
+  "translation": "Pigus-os ako kag nagakapatay subong pa lang sang akon pagkabata; gindala ko ang imo mga kakahadlok, nagalibog ako.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "pigus-os ako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "kag nagakapatay"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "subong pa lang sang akon pagkabata"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "gindala ko"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "imo mga kakahadlok"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "nagalibog ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:15.300822970Z",
+  "model": "glm-5.3"
+}

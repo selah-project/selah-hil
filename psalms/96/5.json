@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 96:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 96,
+  "translation": "Kay ang tanan nga mga dios sang mga pungsod mga dios-diosan, apang si Yahweh naghimo sang mga langit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mga dios"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "sang mga pungsod"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "mga dios-diosan"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "apang si Yahweh"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "naghimo sang"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:46.759278532Z",
+  "model": "glm-5.3"
+}

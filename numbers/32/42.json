@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Kag si Novakh naglakat kag ginkuha niya ⟨את⟩ ang Kenath kag ⟨את⟩ ang iya mga baryo, kag gintawag niya ini nga Novath, sang iya ngalan.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "kag si Novakh"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "naglakat"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "kag ginkuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Kenath"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "ang Kenath"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya mga baryo"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "ang iya mga baryo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kag gintawag"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "nga Novath"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "sang iya ngalan"
+    }
+  ],
+  "timestamp": "2026-09-21T17:13:43.680494954Z",
+  "model": "glm-5.3"
+}

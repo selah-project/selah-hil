@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Ang imo bayo wala naguba sa imo, kag ang imo tiil wala namul-og — ina nga apat ka pulo ka tuig.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "ang imo bayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "naguba"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "kag ang imo tiil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "namul-og"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ina"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "apat ka pulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    }
+  ],
+  "timestamp": "2026-09-21T17:22:54.737086523Z",
+  "model": "glm-5.3"
+}

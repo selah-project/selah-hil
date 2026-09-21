@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Kon nakalimtan namon ang ngalan sang Elohim namon, kag gintadyaw namon ang amon mga palad sa isa ka El nga langyaw,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "nakalimtan namon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang ngalan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "sang Elohim namon"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "kag gintadyaw namon"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "ang amon mga palad"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "sa isa ka El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "nga langyaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:28.632012192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "kay abri gid nga pag-abri sang ⟨את⟩ imo kamot sa iya, kag pahuhol gid nga pagpahuhol sa iya, suno sa iya kakulangan nga kulang sa iya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "abri gid"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "nga pag-abri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang imo kamot"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "imo kamot"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "kag pahuhol gid"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "nga pagpahuhol sa iya"
+    },
+    {
+      "surface": "די",
+      "gloss": "suno sa"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "iya kakulangan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "kulang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T17:24:41.506237974Z",
+  "model": "glm-5.3"
+}

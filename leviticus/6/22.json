@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Ang tagsa ka lalaki sa mga pari magakaon sang ⟨את⟩ sini; balaan sang mga balaan ini.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang tagsa"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ka lalaki"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "sa mga pari"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "magakaon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sini (ang halad)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "sang mga balaan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-21T22:20:59.633757348Z",
+  "model": "glm-5.3"
+}

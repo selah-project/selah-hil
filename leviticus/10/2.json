@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag nagguwa sang kalayo gikan sa atubang ni Yahweh, kag naglamon ⟨את⟩ sa ila, kag nangatay sila sa atubang ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "nagguwa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "sang kalayo"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "gikan sa atubang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "kag naglamon"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ila"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "kag nangatay sila"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:47:13.766202938Z",
+  "model": "glm-5.3"
+}

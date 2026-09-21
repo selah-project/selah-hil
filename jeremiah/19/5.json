@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 19:5",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag nagpatindog sila sang ⟨את⟩ mga mataas nga lugar sang Baal agud pasunoron sa kalayo ⟨את⟩ ila mga anak bilang halad nga sinusunog kay Baal — nga wala ko ginsogo, kag wala ko ginhambal, kag wala umangkat sa akon kasing-kasing.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "kag nagpatindog sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga mataas nga lugar sang Baal"
+    },
+    {
+      "surface": "במות",
+      "gloss": "mga mataas nga lugar"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "sang Baal"
+    },
+    {
+      "surface": "לשרף",
+      "gloss": "agud pasunoron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ila mga anak"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ila mga anak"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "halad nga sinusunog"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "kay Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ko ginsogo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ko ginhambal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "umangkat"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "akon kasing-kasing"
+    }
+  ],
+  "timestamp": "2026-09-21T19:24:33.595884892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 79,
+  "translation": "Ginhatag nila ⟨את⟩ ang mga minatay nga lawas sang imo mga sulugoon nga pagkaon sang mga sapat sang kahanglangitan, ang unod sang imo mga matinud-anon sa mga sapat sang duta.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "Ginhatag nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga minatay nga lawas sang imo mga sulugoon"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "ang mga minatay nga lawas"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "sang imo mga sulugoon"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "nga pagkaon"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "sang mga sapat"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sang kahanglangitan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ang unod"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "sang imo mga matinud-anon"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "sa mga sapat"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:20.930587295Z",
+  "model": "glm-5.3"
+}

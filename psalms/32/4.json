@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Kay sa adlaw kag sa gab-i nagabug-at ang imo kamot sa akon; ginbalhin ang akon huminab ⟨sa⟩ kadam-ong sang ting-init. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "kag sa gab-i"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "nagabug-at"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang imo kamot"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "ginbalhin"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "ang akon huminab"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "kadam-ong"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "sang ting-init"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:30:11.373686852Z",
+  "model": "glm-5.3"
+}

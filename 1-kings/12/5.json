@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag naghambal siya sa ila: Magkadto kamo pa sang tatlo ka adlaw, kag magbalik kamo sa akon. Kag nanglakat ang mga tawo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag naghambal siya"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Magkadto kamo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatlo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ka adlaw"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "kag magbalik kamo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "Kag nanglakat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang mga tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:33:12.685906423Z",
+  "model": "glm-5.3"
+}

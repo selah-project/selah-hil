@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 106,
+  "translation": "Ang aton mga katigulangan sa Mitsrayim wala magtuum sa imo mga milagro, wala nila minduman ang ⟨את⟩ kadamo sang imo mga hesed, kag nagsukol sila sa dagat, sa Dagat sang Suph.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "Ang aton mga katigulangan"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "magtuum"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "sa imo mga milagro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "nila minduman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadamo sang imo mga hesed"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kadamo"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "sang imo mga hesed"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "kag nagsukol sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "בים",
+      "gloss": "sa Dagat"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "sang Suph"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:34.941726791Z",
+  "model": "glm-5.3"
+}

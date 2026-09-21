@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Tan-awa ⟨את⟩ ang buhat sang Elohim, kay sin-o ang makahimo sing matin-od ⟨את⟩ sang ginpangbaluktad niya?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang buhat sang Elohim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ang buhat"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ang makahimo"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "sing matin-od"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang ginpangbaluktad niya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sang"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "ginpangbaluktad niya"
+    }
+  ],
+  "timestamp": "2026-09-21T21:26:55.328939389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Kag kuhaon ko ⟨את⟩ ang akon palad, kag makita mo ⟨את⟩ ang akon likod, apang ang akon dagway indi makita.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "Kag kuhaon ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon palad"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ang akon palad"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "kag makita mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon likod"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ang akon likod"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "apang ang akon dagway"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "makita"
+    }
+  ],
+  "timestamp": "2026-09-21T16:35:47.873606106Z",
+  "model": "glm-5.3"
+}

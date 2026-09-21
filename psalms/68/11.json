@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 68,
+  "translation": "Ang imo kawan nagpuyo didto sa iya; sa imo kaayo ginpangandam mo ang mga kabos, O Elohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "ang imo kawan"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "nagpuyo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "didto sa iya"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "ginpangandam"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "sa imo kaayo"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "para sa mga kabos"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:04.677432509Z",
+  "model": "glm-5.3"
+}

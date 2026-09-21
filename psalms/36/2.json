@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Ginasiling sang kasalanan sa malaot, sa sulod sang akon tagipusuon: wala sing kahadlok sang Elohim sa atubang sang iya mga mata.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "ginasiling"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ang kasalanan"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "sa malaot"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa sulod"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sang akon tagipusuon"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala sing"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "kahadlok"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "sang iya mga mata"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:34.485547703Z",
+  "model": "glm-5.3"
+}

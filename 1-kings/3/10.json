@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag maayo ang hambal sa mga mata ni Adonay, kay nangyo si Shelomoh ⟨את⟩ sang hambal nga ini.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "kag maayo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang hambal"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "nangyo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "si Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang hambal"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sang hambal"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nga ini"
+    }
+  ],
+  "timestamp": "2026-09-21T18:26:51.595838455Z",
+  "model": "glm-5.3"
+}

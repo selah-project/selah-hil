@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag kon may kadaot nga magaabot, magahatag ikaw sang kabuhi bayad sang kabuhi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "kadaot"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magaabot"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "kag magahatag ikaw"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sang kabuhi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bayad sang"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kabuhi"
+    }
+  ],
+  "timestamp": "2026-09-21T16:29:47.236122629Z",
+  "model": "glm-5.3"
+}

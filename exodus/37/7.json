@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kag ginhimo niya duha ka kerub nga bulawan; binukpok nga buluhaton ginhimo niya ⟨אתם⟩ sa duha ka punta sang kapporet.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kag ginhimo niya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "ka kerub"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "nga bulawan"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "binukpok nga buluhaton"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sila (ang duha ka kerub)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "sa duha"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ka punta"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "sang kapporet"
+    }
+  ],
+  "timestamp": "2026-09-21T16:39:27.719841384Z",
+  "model": "glm-5.3"
+}

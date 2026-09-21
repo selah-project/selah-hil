@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 44:23",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Kag nagsiling ka sa imo mga sulugoon: Kon indi magpanaog ang inyo mangud nga utod kaupod ninyo ⟨את⟩, indi na ninyo makita pa ang akon dagway.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "kag nagsiling ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "imo mga sulugoon"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "magpanaog"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ang inyo utod"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "mangud"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaupod ninyo",
+      "marks": "kaupod ninyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "na"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "makita pa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ang akon dagway"
+    }
+  ],
+  "timestamp": "2026-09-21T16:15:12.336055110Z",
+  "model": "glm-5.3"
+}

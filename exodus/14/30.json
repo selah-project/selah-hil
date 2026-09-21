@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag gintalu-an ni Yahweh sa ina nga adlaw ⟨את⟩ ang Yisrel halin sa kamot sang Mitsrayim, kag nakita sang Yisrael ⟨את⟩ ang Mitsrayim nga minatay sa baybay sang dagat.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "gintalu-an"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ina nga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "halin sa kamot"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "kag nakita"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ang Mitsrayim"
+    },
+    {
+      "surface": "מת",
+      "gloss": "nga minatay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "baybay"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sang dagat"
+    }
+  ],
+  "timestamp": "2026-09-21T16:25:43.627840935Z",
+  "model": "glm-5.3"
+}

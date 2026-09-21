@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Ang Imo mga dalan, Yahweh, ipakilala sa akon; ang Imo mga agianan itudlo sa akon.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "ang Imo mga dalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "ipakilala sa akon"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "ang Imo mga agianan"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "itudlo sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:53.736649176Z",
+  "model": "glm-5.3"
+}

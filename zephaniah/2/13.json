@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zephaniah 2:13",
+  "book": "zephaniah",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag itungtong niya ang iya kamot sa amihanan, kag paguangkon niya ⟨את⟩ sang Ashur, kag ihimo niya ⟨את⟩ sang Ninweh nga pagkatiwangwang, nga duta nga namamat subong sang kamingawan.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "kag itungtong niya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang iya kamot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "amihanan"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "kag paguangkon niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "kag ihimo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninweh"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninweh"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "nga pagkatiwangwang"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "nga namamat"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "subong sang kamingawan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:16:51.240774209Z",
+  "model": "glm-5.3"
+}

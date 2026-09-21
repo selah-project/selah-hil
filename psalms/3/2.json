@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Yahweh, gaano namad-an ang akon mga mangaaway! Madamo ang nagabangon sing batok sa akon!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gaano"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "namad-an"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ang akon mga mangaaway"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Madamo"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "nagabangon"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sing batok sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:44.315105150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 61,
+  "translation": "Sa kinatumyan sang duta magatawag ako sa imo; kon magaluto ang akon kasingkasing, sa bato nga labaw sa akon imo magapanguna sa akon.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "Sa kinatumyan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "magatawag ako"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "kon magaluto"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang akon kasingkasing"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "sa bato"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "nga labaw"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "imo magapanguna sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:05.736624094Z",
+  "model": "glm-5.3"
+}

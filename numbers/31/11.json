@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kag ginkuha nila ⟨את⟩ tanan nga hinakot kag ⟨את⟩ tanan nga biyahe — sa tawo kag sa sapat.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ginkuha nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga hinakot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "hinakot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga biyahe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "biyahe"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "kag sa sapat"
+    }
+  ],
+  "timestamp": "2026-09-21T17:14:04.055412791Z",
+  "model": "glm-5.3"
+}

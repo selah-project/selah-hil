@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 4:40",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "kag ang ila mga ginbilang, suno sa ila mga pamilya kag sa balay sang ila mga amay, duha ka libo kag anom ka gatos kag tatlo ka pulo.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "kag nangyari nga"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "ang ila mga ginbilang"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "suno sa ila mga pamilya"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "sang ila mga amay"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "duha ka libo"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "kag anom"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "kag tatlo ka pulo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:59:00.373284105Z",
+  "model": "glm-5.3"
+}

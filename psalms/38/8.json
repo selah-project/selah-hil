@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 38,
+  "translation": "Kay ang akon mga hawak ⟨nga⟩ sulod napuno sang pagkasunog, kag wala sing kahimsog sa akon unod.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "mga hawak nga sulod"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "napuno"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "pagkasunog"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "kahimsog"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "sa akon unod"
+    }
+  ],
+  "timestamp": "2026-09-21T22:38:24.456436765Z",
+  "model": "glm-5.3"
+}

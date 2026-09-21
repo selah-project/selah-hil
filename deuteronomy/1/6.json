@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Naghambal si Yahweh nga aton ⟨mga⟩ Elohim sa aton sa Chorev, nga nagsiling: Sobra na sa inyo ang pagpuyo sa bukid nga ini.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nga aton Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "naghambal"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "sa aton"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sa Chorev"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagsiling"
+    },
+    {
+      "surface": "רב",
+      "gloss": "sobra na"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ang pagpuyo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nga ini"
+    }
+  ],
+  "timestamp": "2026-09-21T17:17:31.763930341Z",
+  "model": "glm-5.3"
+}

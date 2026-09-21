@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Indi ka maggama sang kasugtanan sa ila kag sa ila mga dios.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "maggama"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "kag sa ila mga dios"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sang kasugtanan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:31:07.636407852Z",
+  "model": "glm-5.3"
+}

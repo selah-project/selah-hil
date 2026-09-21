@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 22:21",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kag gинтipon ko ⟨אתכם⟩, kag ginhipan ko kamo sa kalayo sang akon kaakig, kag natunaw kamo sa sulod sini.",
+  "tokens": [
+    {
+      "surface": "וכנסתי",
+      "gloss": "kag gintipon ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "ונפחתי",
+      "gloss": "kag ginhipan ko"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sa kamo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "sang akon kaakig"
+    },
+    {
+      "surface": "ונתכתם",
+      "gloss": "kag natunaw kamo"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "sa sulod sini"
+    }
+  ],
+  "timestamp": "2026-09-21T22:35:37.890127460Z",
+  "model": "glm-5.3"
+}

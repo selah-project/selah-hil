@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag nagsiling ang isa: Pahamtanga, pabor, kag kadto ka uban ⟨את⟩ sang imo mga sulugoon. Kag nagsiling siya: Ako, magkadto ako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag nagsiling"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "Pahamtanga"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pabor"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "kag kadto ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang imo mga sulugoon"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "sang imo mga sulugoon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag nagsiling siya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "magkadto ako"
+    }
+  ],
+  "timestamp": "2026-09-21T18:41:06.448825868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 59:6",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 59,
+  "translation": "Ang ila mga sapot indi ⟨maging⟩ bayo, kag indi sila pagtakpan sang ila mga buhat; ang ila mga buhat mga buhat sang kalautan, kag ang buhat sang kahasan ara sa ila mga palad.",
+  "tokens": [
+    {
+      "surface": "קוריהם",
+      "gloss": "ang ila mga sapot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "⟨maging⟩"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "bayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יתכסו",
+      "gloss": "pagtakpan"
+    },
+    {
+      "surface": "במעשיהם",
+      "gloss": "sang ila mga buhat"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ang ila mga buhat"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "mga buhat"
+    },
+    {
+      "surface": "און",
+      "gloss": "sang kalautan"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "kag ang buhat"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "sang kahasan"
+    },
+    {
+      "surface": "בכפיהם",
+      "gloss": "sa ila mga palad"
+    }
+  ],
+  "timestamp": "2026-09-21T19:13:32.794223334Z",
+  "model": "glm-5.3"
+}

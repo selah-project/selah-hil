@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag gintawag ni Elohim ang mamara nga duta nga Duta, kag ang tinipon sang mga tubig gintawag niya nga mga Dagat; kag nakita ni Elohim nga maayo ⟨ini⟩.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Kag gintawag"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "ang mamara nga duta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Duta"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "kag ang tiponan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sang mga tubig"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "gintawag niya"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga Dagat"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "kag nakita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    }
+  ],
+  "timestamp": "2026-09-21T15:55:10.971571615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Ini nga kabos nagtawag, kag si Yahweh nakadungog, kag ginluwas niya siya sa tanan niya nga mga kagul-anan.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nga kabos"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nagtawag"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "kag si Yahweh"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nakadungog"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "kag sa tanan"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "niya nga mga kagul-anan"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "ginluwas niya siya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:07.806080432Z",
+  "model": "glm-5.3"
+}

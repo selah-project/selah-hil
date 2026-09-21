@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Mga anak sang tawo, tubtong san-o ang akon himaya ⟨nga⟩ mahiya? Ginhigugma ninyo ang kawalay-sulod kag ginapangita ninyo ang bakak. Selah.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtong"
+    },
+    {
+      "surface": "מה",
+      "gloss": "san-o"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ang akon himaya"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "⟨nga⟩ mahiya"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "ginhigugma ninyo"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ang kawalay-sulod"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "ginapangita ninyo"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ang bakak"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:23:08.425853227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kon indi kamo magapati sa tingog sang Yahweh, kag magabatok kamo ⟨את⟩ ang baba sang Yahweh, kag mangin ang kamot sang Yahweh ⟨kontra⟩ sa inyo kag sa inyo mga amay.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "magapati kamo"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sa tingog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sang Yahweh"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "kag magabatok kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang baba"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ang baba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sang Yahweh"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "kag mangin"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ang kamot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sang Yahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "kag sa inyo mga amay"
+    }
+  ],
+  "timestamp": "2026-09-21T18:01:53.472967018Z",
+  "model": "glm-5.3"
+}

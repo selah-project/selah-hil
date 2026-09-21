@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 93,
+  "translation": "Ang imo mga pagsaksi gintuman gid <⟨nga⟩> sing dagway; sa imong balay nagakaigo ang kabalaan, o Yahweh, sa malawig nga mga adlaw.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "imo mga pagsaksi"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "gintuman gid"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sing dagway"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "sa imong balay"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "nagakaigo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kabalaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "sa malawig"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:08.010464064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 67,
+  "translation": "Magakalipay kag magakanta sing kalipay ang mga pungsod, kay imo nga pagahukman sing matarong ang mga katawhan, kag ang mga pungsod sa duta imo nga pagaguyodon. Selah.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "magakalipay"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "kag magakanta sing kalipay"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ang mga pungsod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "imo nga pagahukman"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ang mga katawhan"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "singt matarong"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "kag ang mga pungsod"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "imo nga pagaguyodon"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:07.646454757Z",
+  "model": "glm-5.3"
+}

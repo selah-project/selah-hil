@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 45:17",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 45,
+  "translation": "Sa baylo sang imo mga amay, ang imo mga anak ⟨ang maging⟩; itakod mo sila nga mga pangulo sa tanan ⟨nga⟩ duta.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "sa baylo sang"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "imo mga amay"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "maging"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "imo mga anak"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "itakod mo sila"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "nga mga pangulo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:38.822359977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 62,
+  "translation": "Kag indi ninyo ihatag ⟨ang⟩ kahilum sa iya, tubtob ⟨nga⟩ mahimugtan ⟨niya⟩, kag tubtob ⟨nga⟩ ibutang ⟨niya⟩ ⟨את⟩ ang Yerushalayim nga pagdayaw sa duta.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Kag indi"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ninyo ihatag"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "kahilum"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "יכונן",
+      "gloss": "mahimugtan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag tubtob"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "ibutang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "pagdayaw"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    }
+  ],
+  "timestamp": "2026-09-21T19:13:44.068102138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Mag-alagad kamo ⟨את⟩ Yahweh sing kahadlok, kag magkalipay kamo sing pangin lagyo.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "mag-alagad kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "sing kahadlok"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "kag magkalipay kamo"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "sing pangin lagyo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:33.405763824Z",
+  "model": "glm-5.3"
+}

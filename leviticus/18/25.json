@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag nadungisan ang duta, kag gintambalan ko ang iya kabakod sa iya, kag ginluwa sang duta ⟨את⟩ ang iya mga pumapanaw.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "nadungisan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "kag gintambalan ko"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "ang iya kabakod"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "kag ginluwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya mga pumapanaw"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "ang iya mga pumapanaw"
+    }
+  ],
+  "timestamp": "2026-09-21T16:50:08.611242022Z",
+  "model": "glm-5.3"
+}

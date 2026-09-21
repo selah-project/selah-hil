@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Siya gid ang naghampak ⟨את⟩ sang mga Pelishteh tubtob sa Aza kag ⟨את⟩ sang iya mga utang, gikan sa torre sang mga bantay tubtob sa syudad nga kuta.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Siya gid"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ang naghampak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang mga Pelishteh"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sang mga Pelishteh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "sa Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang iya mga utang"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "sang iya mga utang"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "gikan sa torre"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "sang mga bantay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "sa syudad"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "nga kuta"
+    }
+  ],
+  "timestamp": "2026-09-21T18:46:46.391594949Z",
+  "model": "glm-5.3"
+}

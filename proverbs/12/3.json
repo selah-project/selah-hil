@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Wala mapatindog ang tawo paagi ⟨sa⟩ kalautan, kag ang gamot sang mga matarong indi gid mabulkan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "mapatindog"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "paagi sa kalautan"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "kag ang gamot"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sang mga matarong"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indi gid"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "mabulkan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:58:55.186268746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 104,
+  "translation": "Nagsaka ang mga bukid, nagpanaug sila sa mga kapatagan, sa duog nga imo gintukod para sa ila.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "nagsaka"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ang mga bukid"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "nagpanaug sila"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "sa mga kapatagan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "duog"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "imo gintukod"
+    },
+    {
+      "surface": "להם",
+      "gloss": "para sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:33.166265596Z",
+  "model": "glm-5.3"
+}

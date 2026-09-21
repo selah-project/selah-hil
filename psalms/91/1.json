@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 91,
+  "translation": "Ang nagaestar sa taguang-taguang sang Elyon, sa landong sang Shadday magapuyo ⟨siya⟩.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "ang nagaestar"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sa taguang-taguang"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "sa landong"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "magapuyo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:22.248133182Z",
+  "model": "glm-5.3"
+}

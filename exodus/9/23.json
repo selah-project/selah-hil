@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 9:23",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag gindangat ni Moshe ⟨את⟩ ang iya baston sa mga langit, kag si Yahweh naghatag sang mga tingog kag sang yelo, kag ang kalayo naglakat padulong sa duta; kag ginpaulan ni Yahweh sang yelo sa duta sang Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "kag gindangat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya baston"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "iya baston"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "kag si Yahweh"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "naghatag"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "mga tingog"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "kag sang yelo"
+    },
+    {
+      "surface": "ותהלך",
+      "gloss": "kag naglakat"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kalayo"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "padulong sa duta"
+    },
+    {
+      "surface": "וימטר",
+      "gloss": "kag ginpaulan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "sang yelo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:24:38.063590483Z",
+  "model": "glm-5.3"
+}

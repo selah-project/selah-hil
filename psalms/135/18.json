@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 135,
+  "translation": "Pareho sa ila magaangot ang ila mga ginbubuhat, kag tanan nga nagasalig sa ila.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "pareho sa ila"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "magaangot"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ang ila mga ginbubuhat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "nagasalig"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:05.077115324Z",
+  "model": "glm-5.3"
+}

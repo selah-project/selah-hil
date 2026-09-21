@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 118:27",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 118,
+  "translation": "Si El amo si Yahweh, kag nagpakamaathag siya sa aton; ligowa ang halad sang pista sang ⟨mga⟩ lubid tubtob sa mga tandok sang halaran.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "kag nagpakamaathag"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa aton"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "ligowa"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ang halad sang pista"
+    },
+    {
+      "surface": "בעבתים",
+      "gloss": "sang mga lubid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "mga tandok"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sang halaran"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:03.514779340Z",
+  "model": "glm-5.3"
+}

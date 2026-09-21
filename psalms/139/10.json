@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 139,
+  "translation": "bisan sa sadto ang imo kamot magatuytuy sa akon, kag ang imo tuo nga kamot magakapkap sa akon.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sa sadto"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang imo kamot"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "magatuytuy sa akon"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "kag magakapkap sa akon"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ang imo tuo nga kamot"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:46.977698004Z",
+  "model": "glm-5.3"
+}

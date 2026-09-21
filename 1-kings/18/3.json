@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag gintawag ni Ahab si Obadyahu, nga ⟨nagaatipan⟩ sang balay; kag si Obadyahu nagatahod ⟨את⟩ kay Yahweh sing labi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "kag gintawag"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "si Ahab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "si Obadyahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "kag si Obadyahu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yara"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nagatahod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sing labi"
+    }
+  ],
+  "timestamp": "2026-09-21T22:29:25.429401082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ini ang mga ngalan sang mga tawo nga magatindog ⟨את⟩ kamo: para kay Reuven, Elitsur nga anak ni Shedejur.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "kag ini"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mga ngalan"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "sang mga tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "magatindog"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo",
+      "marks": "kamo"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "para kay Reuven"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Shedejur"
+    }
+  ],
+  "timestamp": "2026-09-21T16:56:19.105990146Z",
+  "model": "glm-5.3"
+}

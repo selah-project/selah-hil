@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 8:32",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ikaw mamatii sa ⟨mga⟩ langit kag himoon mo kag pagahukman mo ⟨את⟩ ang imo mga sulugoon — ipaila nga sala ang makasasala sa paghatag sang iya dalan sa iya ulo, kag ipaila nga matarong ang matarong sa paghatag sa iya suno sa iya pagkamatarong.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kag ikaw"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "mamatii"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa mga langit"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "himoon mo"
+    },
+    {
+      "surface": "ושפטת",
+      "gloss": "pagahukman mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imo mga sulugoon"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "imo mga sulugoon"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "ipaila nga sala"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ang makasasala"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sa paghatag"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "sang iya dalan"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "sa iya ulo"
+    },
+    {
+      "surface": "ולהצדיק",
+      "gloss": "kag ipaila nga matarong"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ang matarong"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sa paghatag"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "כצדקתו",
+      "gloss": "suno sa iya pagkamatarong"
+    }
+  ],
+  "timestamp": "2026-09-21T18:31:29.651257742Z",
+  "model": "glm-5.3"
+}

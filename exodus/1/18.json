@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 1:18",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag gintawag sang hari sang Mitsrayim ang mga mananabang, kag nagsiling siya sa ila: Ngaa ginbuhat ninyo ang butang nga ini, kag ginpabuhi ninyo ⟨את⟩ ang mga bata?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "kag gintawag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "ang mga mananabang"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "להן",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "ginbuhat ninyo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang butang"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "kag ginpabuhi ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga bata"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ang mga bata"
+    }
+  ],
+  "timestamp": "2026-09-21T16:19:01.959682077Z",
+  "model": "glm-5.3"
+}

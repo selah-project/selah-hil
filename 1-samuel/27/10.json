@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Kag nagsiling si Akish: Diin kamo nakapanghilabas subong nga adlaw? Kag nagsiling si David: Sa timo-ot sang Yehudah, kag sa timo-ot sang mga Yerachmeeli, kag sa timo-ot sang mga Kaini.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag nagsiling"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "si Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Diin"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "kamo nakapanghilabas"
+    },
+    {
+      "surface": "היום",
+      "gloss": "subong nga adlaw"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag nagsiling"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "על",
+      "gloss": "Sa"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "timo-ot"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "timo-ot"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "sang mga Yerachmeeli"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "timo-ot"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "sang mga Kaini"
+    }
+  ],
+  "timestamp": "2026-09-21T18:10:50.605454036Z",
+  "model": "glm-5.3"
+}

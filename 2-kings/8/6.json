@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 8:6",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ginpangutan sang hari ang babae, kag ginsugid niya sa iya; kag ginhimo sang hari sa iya sang isa ka saris, nga nagsiling: Ipagbalik ⟨את⟩ ⟨ang tanan⟩ nga iya, kag ⟨את⟩ ⟨ang tanan⟩ nga ani sang talad, gikan sa adlaw nga iya ginbayaan ⟨את⟩ ⟨ang duta⟩ hasta subong.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "kag ginpangutan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ang babae"
+    },
+    {
+      "surface": "ותספר",
+      "gloss": "kag ginsugid niya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kag ginhimo sang"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "saris"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa ka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagsiling"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "ipagbalik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ani"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sang talad"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "gikan sa adlaw"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "iya ginbayaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "subong"
+    }
+  ],
+  "timestamp": "2026-09-21T18:44:09.695442890Z",
+  "model": "glm-5.3"
+}

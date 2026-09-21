@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 14:10",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag kon magsiling sila nga amo ini: Sumaka kamo sa amon — magasaka kita sa ila, kay ginhatag ni Yahweh sila sa amon mga kamot; kag ini amo ang tanda sa aton.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kag kon"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nga amo ini"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "magsiling sila"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Sumaka kamo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "ועלינו",
+      "gloss": "magasaka kita sa ila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "ginhatag sila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "sa amon mga kamot"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "kag ini"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa aton"
+    },
+    {
+      "surface": "האות",
+      "gloss": "amo ang tanda"
+    }
+  ],
+  "timestamp": "2026-09-21T18:04:28.049397210Z",
+  "model": "glm-5.3"
+}

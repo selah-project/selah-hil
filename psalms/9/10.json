@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag mangin Yahweh nga dalangpan sang ginpaguyod, dalangpan sa mga tion sang kalisod.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag mangin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "nga dalangpan"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "sang ginpaguyod"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "dalangpan"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "sa mga tion"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "sang kalisod"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:23.218461319Z",
+  "model": "glm-5.3"
+}

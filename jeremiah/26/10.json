@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 26:10",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Kag nabatian sang mga pangulo sang Yehudah ⟨את⟩ ini nga mga pulong, kag nagsaka sila gikan sa balay sang hari pa-To sa balay ni Yahweh, kag nagpungto sila sa entrada sang bag-o nga ganghaan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "kag nabatian"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "sang mga pangulo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ini nga mga pulong"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ang mga pulong"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "kag nagsaka"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "gikan sa balay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "kag nagpungto"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "sa entrada"
+    },
+    {
+      "surface": "שער",
+      "gloss": "sang ganghaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ang bag-o"
+    }
+  ],
+  "timestamp": "2026-09-21T19:27:00.822283967Z",
+  "model": "glm-5.3"
+}

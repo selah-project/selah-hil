@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Sino ang magahatag nga makahibalo ako kag makita ko siya, kag makaadto ako hasta sa iya duong?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Sino"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ang magahatag"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "makahibalo ako"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "kag makita ko siya"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "makaadto ako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "sa iya duong"
+    }
+  ],
+  "timestamp": "2026-09-21T21:12:55.160138424Z",
+  "model": "glm-5.3"
+}

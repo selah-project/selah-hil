@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ⟨את⟩ ang torre sang Penuel gintumba niya, kag ginpatay niya ⟨את⟩ ang mga tawo sang dakbanwa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang torre sang Penuel"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "torre"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "gintumba"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "kag ginpatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tawo sang dakbanwa"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sang dakbanwa"
+    }
+  ],
+  "timestamp": "2026-09-21T22:25:59.384067102Z",
+  "model": "glm-5.3"
+}

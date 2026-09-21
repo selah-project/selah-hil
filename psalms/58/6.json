@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 58,
+  "translation": "Nga indi magpatalingkat sa tingog sang mga manugbulong, sang bugtong nga matalupangdun nga manugbulong sang mga bulong.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "magpatalingkat"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "sa tingog"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "mga manugbulong"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "manugbulong"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "mga bulong"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "matalupangdun"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:17.393521040Z",
+  "model": "glm-5.3"
+}

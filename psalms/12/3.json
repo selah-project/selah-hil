@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kabubut-on ginahambal sang tagsa ka tawo ⟨את⟩ iya kaupod; sang mga ngabil nga hamis, sa kasingkasing kag sa kasingkasing ginahambal nila.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Kabubut-on"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ginahambal"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sang tagsa ka tawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya kaupod"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "iya kaupod"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "sang mga ngabil"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "nga hamis"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sa kasingkasing"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "kag sa kasingkasing"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ginahambal nila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:28.329242308Z",
+  "model": "glm-5.3"
+}

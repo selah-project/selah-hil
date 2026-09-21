@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Ang tanan nga may inalsa indi ninyo kaonon; sa tanan ninyo nga mga duogan kaunon ninyo ang tinapay nga wala sing inalsa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "nga may inalsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ninyo kaonon"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "ninyo nga mga duogan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kaunon ninyo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ang tinapay nga wala sing inalsa"
+    }
+  ],
+  "timestamp": "2026-09-21T16:26:00.947872598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 7:13",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Siya ang magatukod sang balay para sa akon ngalan, kag tukuron ko ⟨את⟩ ang trono sang iya gingharian sa tubtub sang dayon.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Siya"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "magatukod"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "para sa akon ngalan"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "kag tukuron ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang trono"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trono"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "sang iya gingharian"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa tubtub"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sa dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T18:15:01.135172374Z",
+  "model": "glm-5.3"
+}

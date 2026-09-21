@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag magapadala ako sang ⟨את⟩ ang higad sa imo atubangan, kag pagsalakton niya ⟨את⟩ ang Hiwhanon, ⟨את⟩ ang Kanaanhon kag ⟨את⟩ ang Hithanon halin sa imo atubangan.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "kag magapadala ako sang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang higan"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "ang higad"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa imo atubangan"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "kag pagsalakton niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Hiwhanon"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ang Hiwhanon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Kanaanhon"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ang Kanaanhon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Hithanon"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ang Hithanon"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "halin sa imo atubangan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:30:13.249909867Z",
+  "model": "glm-5.3"
+}

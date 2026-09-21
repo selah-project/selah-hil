@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Imo ang mga langit, pati ang duta imo; ang kalibutan kag ang iya katanan, ikaw ang nagsugod sini.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "imo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pati"
+    },
+    {
+      "surface": "לך",
+      "gloss": "imo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ang kalibutan"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "kag ang iya katanan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "nagsugod sini"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:51.799438404Z",
+  "model": "glm-5.3"
+}

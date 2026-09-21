@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag ibalutan mo ⟨את⟩ ini sang malinig nga bulawan, kag himoon mo para sa iya sing korona sang bulawan sa iya palibot.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "ibalutan mo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ini",
+      "marks": "ang lamesa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "malinig"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "himoon mo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa iya"
+    },
+    {
+      "surface": "זר",
+      "gloss": "korona"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa iya palibot"
+    }
+  ],
+  "timestamp": "2026-09-21T16:32:40.325226461Z",
+  "model": "glm-5.3"
+}

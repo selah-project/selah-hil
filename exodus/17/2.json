@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag nagtilibag ang katawhan kay Moshe, kag nagsiling sila: Maghatag kamo sang tubig sa amon agod mag-inom kami. Kag nagsiling si Moshe sa ila: Ngaa ninyo ginatilibag ako? Ngaa ninyo ginasulay ⟨את⟩ si Yahweh?",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "kag nagtilibag"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "kag nagsiling sila"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "maghatag kamo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sang tubig"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "agod mag-inom kami"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "ninyo ginatilibag"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "ninyo ginasulay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:29:10.811167323Z",
+  "model": "glm-5.3"
+}

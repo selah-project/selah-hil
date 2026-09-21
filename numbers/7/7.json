@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "⟨את⟩ ang duha ka karison kag ⟨את⟩ ang apat ka baka gintanyag niya sa mga anak ni Gershon, suno sa ila nga pagbuluhaton.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duha ka karison"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duha"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "ka karison"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang apat ka baka"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "apat"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ka baka"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gintanyag niya"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "ni Gershon"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "suno sa"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "ila nga pagbuluhaton"
+    }
+  ],
+  "timestamp": "2026-09-21T17:00:34.411264635Z",
+  "model": "glm-5.3"
+}

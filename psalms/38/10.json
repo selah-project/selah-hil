@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 38,
+  "translation": "Adonay, sa imo atubang ang tanan ko nga pangandoy, kag ang akon pag-unga sa imo indi natago.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "sa imo atubang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "ko nga pangandoy"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "kag ang akon pag-unga"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "natago"
+    }
+  ],
+  "timestamp": "2026-09-21T22:38:12.855075146Z",
+  "model": "glm-5.3"
+}

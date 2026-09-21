@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 115,
+  "translation": "Magadugang si Yahweh sa inyo, sa inyo kag sa inyo ⟨mga⟩ anak.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "magadugang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ino mga anak"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:34.656256282Z",
+  "model": "glm-5.3"
+}

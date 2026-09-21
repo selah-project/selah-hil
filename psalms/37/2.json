@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kay pareho sang hilamon, madali sila maputol, kag pareho sang berdeng hilamon, sila malaya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "pareho sang hilamon"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "madali"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "maputol"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "kag pareho sang berdeng"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "hilamon"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "mala"
+    }
+  ],
+  "timestamp": "2026-09-21T20:30:07.063054866Z",
+  "model": "glm-5.3"
+}

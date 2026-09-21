@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 72,
+  "translation": "Ang mga hari sang Tarshish kag sang mga pulo magahatod sang handog; ang mga hari sang Sheva kag Seva mga gasa ang ila ipahalad.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "ang mga hari sang"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "kag sang mga pulo"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "handog"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "magahatod"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ang mga hari sang"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "kag sang"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "mga gasa"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "magapahalad"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:04.358256333Z",
+  "model": "glm-5.3"
+}

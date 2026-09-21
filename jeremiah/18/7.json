@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 18:7",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Sa isa ka kibot magahambal ako mahitungod sa isa ka pungsod kag mahitungod sa isa ka gingharian — sa pagpanas kag sa pagguba kag sa paglaglag.",
+  "tokens": [
+    {
+      "surface": "רגע",
+      "gloss": "sa isa ka kibot"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "magahambal ako"
+    },
+    {
+      "surface": "על",
+      "gloss": "mahitungod sa"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "isa ka pungsod"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag mahitungod sa"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "isa ka gingharian"
+    },
+    {
+      "surface": "לנתוש",
+      "gloss": "sa pagpanas"
+    },
+    {
+      "surface": "ולנתוץ",
+      "gloss": "kag sa pagguba"
+    },
+    {
+      "surface": "ולהאביד",
+      "gloss": "kag sa paglaglag"
+    }
+  ],
+  "timestamp": "2026-09-21T22:32:39.694547276Z",
+  "model": "glm-5.3"
+}

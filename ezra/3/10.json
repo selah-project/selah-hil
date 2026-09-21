@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 3:10",
+  "book": "ezra",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag gintukod sang mga nagatukod ang ⟨את⟩ templo ni Yahweh, kag ginpatakod nila ang mga saserdote nga nagasul-ob sang mga trumpeta, kag ang mga Levita nga mga anak ni Asaf nga may mga simbalom, sa pagdayaw ⟨את⟩ kay Yahweh suno sa kamot ni David nga hari sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויסדו",
+      "gloss": "gintukod"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "ang mga nagatukod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "templo ni Yahweh"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "templo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "kag ginpatakod"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ang mga saserdote"
+    },
+    {
+      "surface": "מלבשים",
+      "gloss": "nga nagasul-ob"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "sang mga trumpeta"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "kag ang mga Levita"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ni Asaf"
+    },
+    {
+      "surface": "במצלתים",
+      "gloss": "sang mga simbalom"
+    },
+    {
+      "surface": "להלל",
+      "gloss": "sa pagdayaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "suno sa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kamot"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T21:41:46.898743036Z",
+  "model": "glm-5.3"
+}

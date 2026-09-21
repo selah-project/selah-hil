@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 57,
+  "translation": "Sa manugdumala. Indi pagguba. Isa ka miktam ni David, sang magpalagyo siya sa tampad ni Shaul, sa kuweba.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa manugdumala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "pagguba"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "isa ka miktam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "sang magpalagyo siya"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sa tampad ni"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "sa kuweba"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:26.319788672Z",
+  "model": "glm-5.3"
+}

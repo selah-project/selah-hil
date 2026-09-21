@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Sa gilapdon sang pader sang pinggang, sa dalan sa sidlangan, tubtub sa atubangan sang ginbulinganan kag tubtub sa atubangan sang balay — mga kuwarto.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "sa gilapdon"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "sang pader"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "sang pinggang"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "sa sidlangan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tubtub sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "atubangan"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "sang ginbulinganan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag tubtub sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "atubangan"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "mga kuwarto"
+    }
+  ],
+  "timestamp": "2026-09-21T22:35:14.644412271Z",
+  "model": "glm-5.3"
+}

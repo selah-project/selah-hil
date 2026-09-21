@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Ang tagipusuon sang mga maalam ⟨yara⟩ sa balay sang lubong, kag ang tagipusuon sang mga ulol ⟨yara⟩ sa balay sang kalipayan.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ang tagipusuon"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "sang mga maalam"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "sang lubong"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "kag ang tagipusuon"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "sang mga ulol"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "sang kalipayan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:27:33.817191976Z",
+  "model": "glm-5.3"
+}

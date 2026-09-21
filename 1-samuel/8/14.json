@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ⟨את⟩ inyo mga uma kag ⟨את⟩ inyo mga kaparasan kag inyo mga olibo — ang mga maayo — kuwaon niya, kag ihatag niya sa iya mga sulugoon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "inyo mga uma"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "inyo mga uma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "inyo mga kaparasan"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "inyo mga kaparasan"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "inyo mga olibo"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "ang mga maayo"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "kuwaon niya"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "kag ihatag niya"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "sa iya mga sulugoon"
+    }
+  ],
+  "timestamp": "2026-09-21T17:58:48.849846903Z",
+  "model": "glm-5.3"
+}

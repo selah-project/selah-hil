@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 117,
+  "translation": "Dayegí ninyo ⟨את⟩ si Yahweh, tanan nga mga pungsod; pasidunggi ninyo siya, tanan nga mga katawhan.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "dayegí ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga pungsod"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "pasidunggi ninyo siya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "mga katawhan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:35.281504267Z",
+  "model": "glm-5.3"
+}

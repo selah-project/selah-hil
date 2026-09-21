@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 38,
+  "translation": "Isa ka kanta ni David, sa pagpaandam.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Isa ka kanta"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "sa pagpaandam"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:23.631819210Z",
+  "model": "glm-5.3"
+}

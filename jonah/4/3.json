@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag subong, Yahweh, kuhaa sa palihog ⟨את⟩ ang akon kabuhi sa akon, kay maayo ang akon kamatayon sangsa akon pagkabuhi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kag subong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קח",
+      "gloss": "kuhaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sa palihog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon kabuhi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kabuhi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "ang akon kamatayon"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "ang akon pagkabuhi"
+    }
+  ],
+  "timestamp": "2026-09-21T20:12:22.480875526Z",
+  "model": "glm-5.3"
+}

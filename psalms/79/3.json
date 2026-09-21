@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 79,
+  "translation": "Ginbubo nila ang ila dugo subong sang tubig sa mga palibot sang Yerushalayim, kag wala sing nagalubong.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "Ginbubo nila"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "ang ila dugo"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "subong sang tubig"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "sa mga palibot"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sang Yerushalayim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala sing"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "nagalubong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:20.930721891Z",
+  "model": "glm-5.3"
+}

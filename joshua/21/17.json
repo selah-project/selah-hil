@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag sa tribo sang Binjamin ⟨את⟩ Givon kag ⟨את⟩ iya mga kapatagan, ⟨את⟩ Giva kag ⟨את⟩ iya mga kapatagan.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "kag sa tribo sang"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Givon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga kapatagan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iya mga kapatagan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giva"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Giva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga kapatagan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iya mga kapatagan"
+    }
+  ],
+  "timestamp": "2026-09-21T17:43:27.573523703Z",
+  "model": "glm-5.3"
+}

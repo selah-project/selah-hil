@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag nagbalik siya ka ⟨אתו⟩ iya, kag nangaon sang tinapay sa iya balay, kag nag-inom sang tubig.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "kag nagbalik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "iya (ang luma nga manalagna)"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "kag nangaon"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "sa iya balay"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "kag nag-inom"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    }
+  ],
+  "timestamp": "2026-09-21T18:33:39.009244039Z",
+  "model": "glm-5.3"
+}

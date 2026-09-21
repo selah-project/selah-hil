@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Pangitaa ninyo si Yahweh kag ang iya gahum; pangitaa ninyo ang iya dagway sa tanan nga tion.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Pangitaa ninyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "kag ang iya gahum"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "pangitaa ninyo"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ang iya dagway"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sa tanan nga tion"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:41.525006932Z",
+  "model": "glm-5.3"
+}

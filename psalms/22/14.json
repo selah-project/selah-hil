@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Ginbukas nila ⟨ang ila⟩ baba batok sa akon — isa ka leon nga nagpunit kag nagahuni.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "ginbukas nila"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "batok sa akon"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ang ila baba"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "leon"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "nagpunit"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "kag nagahuni"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:50.771724224Z",
+  "model": "glm-5.3"
+}

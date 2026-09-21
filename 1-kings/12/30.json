@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag ang butang nga ini nahimo nga sala; kag ang mga tawo nagsulog sa atubangan sang isa tubtob sa Dan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nahimo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang butang"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "nga sala"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "nagsulog"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "sang isa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "דן",
+      "gloss": "sa Dan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:33:35.705036063Z",
+  "model": "glm-5.3"
+}

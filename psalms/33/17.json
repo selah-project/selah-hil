@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Isa ka bakak ang kabayo sa kaluwasan, kag sa kadamo sang iya kusog indi siya makaligtas.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "isa ka bakak"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ang kabayo"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "sa kaluwasan"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "kag sa kadamo"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "sang iya kusog"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "siya makaligtas"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:30.837268305Z",
+  "model": "glm-5.3"
+}

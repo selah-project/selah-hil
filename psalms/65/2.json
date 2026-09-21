@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 65,
+  "translation": "Imo ang kahilwayan sang pagpdayaw, Elohim, sa Tsiyon, kag imo pagabal-in ang gimantala.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "imo"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "kahilwayan"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "pagdayaw"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "sa Tsiyon"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "kag imo"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "pagabal-in"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "gimantala"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:10.905668636Z",
+  "model": "glm-5.3"
+}

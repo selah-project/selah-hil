@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 49,
+  "translation": "Gale ang mga anak sang tawo, gale ang mga anak sang hamiling tawo, magkahiusa ang adbung kag ang kabos.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Gale"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gale"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sang hamiling tawo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "magkahiusa"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ang adbung"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "kag ang kabos"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:26.503144790Z",
+  "model": "glm-5.3"
+}

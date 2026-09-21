@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 41,
+  "translation": "Kag natabo, subong sang iya pagpat-ad sa amon, amo ina ang nangin: ⟨אתי⟩ ginpabalik sa akon katungdanan kag ⟨ואתו⟩ ginpabitay.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag natabo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "pagpat-ad"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "amo ina"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ang nangin"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨אתי⟩",
+      "marks": "ako"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "ginpabalik"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כני",
+      "gloss": "akon katungdanan"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "kag ⟨ואתו⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "ginpabitay"
+    }
+  ],
+  "timestamp": "2026-09-21T16:14:39.477345707Z",
+  "model": "glm-5.3"
+}

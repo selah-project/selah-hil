@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 34:10",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Kag ginhatag nila sa kamot sang mga naghimo sang buluhaton, ang mga gintugyan sa balay ni Yahweh, kag ginhatag nila ⟨אתו⟩ sa mga naghimo sang buluhaton nga nagakabuhat sa balay ni Yahweh, sa pagtiman-aw kag sa pagpalig-on sang balay.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "kag ginhatag nila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamot"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sang naghimo"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "sang buluhaton"
+    },
+    {
+      "surface": "המפקדים",
+      "gloss": "ang mga gintugyan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "kag ginhatag nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "sa mga naghimo sang buluhaton"
+    },
+    {
+      "surface": "עושי",
+      "gloss": "sa mga naghimo"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "sang buluhaton"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "nagakabuhat"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לבדוק",
+      "gloss": "sa pagtiman-aw"
+    },
+    {
+      "surface": "ולחזק",
+      "gloss": "kag sa pagpalig-on"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sang balay"
+    }
+  ],
+  "timestamp": "2026-09-21T22:14:37.685464896Z",
+  "model": "glm-5.3"
+}

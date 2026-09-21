@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 39,
+  "translation": "Kag ⟨את⟩ ang putong sang lino, kag ⟨את⟩ ang mga matahom nga takip sang ulo sang lino, kag ⟨את⟩ ang mga kalsonsilyo sang badil sang lino, lino nga ginsug-id.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang putong"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "ang putong"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga takip sang ulo"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "mga matahom nga"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "takip sang ulo"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga kalsonsilyo"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "mga kalsonsilyo"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "badil"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lino"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ginsug-id"
+    }
+  ],
+  "timestamp": "2026-09-21T16:41:17.101669299Z",
+  "model": "glm-5.3"
+}

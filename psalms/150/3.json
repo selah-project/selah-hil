@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 150,
+  "translation": "Paldayawon ninyo siya sa pagtunog sang shofar; paldayawon ninyo siya sa nebel kag kenor.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "paldayawon ninyo siya"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "sa pagtunog"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "sang shofar"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "paldayawon ninyo siya"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "sa nebel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "kag kenor"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:42.759959514Z",
+  "model": "glm-5.3"
+}

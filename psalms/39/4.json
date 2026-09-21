@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 39,
+  "translation": "Nagmainit ang akon kasing-kasing sulod sa akon; samtang nagapanumdum ako, nagdilaab ang kalayo; gani nagsiling ako sang akon dila.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "Nagmainit"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang akon kasing-kasing"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "sulod sa akon"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "samtang nagapanumdum ako"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "nagdilaab"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ang kalayo"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "gani nagsiling ako"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "sang akon dila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:39.693598486Z",
+  "model": "glm-5.3"
+}

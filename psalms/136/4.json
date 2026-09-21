@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 136,
+  "translation": "Sa nagahimo sang mga dakung katingalahan, siya lamang, kay sa dayon ang iya hesed.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "sa nagahimo"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "mga katingalahan"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "dakung"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "siya lamang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iya hesed"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:39.961786398Z",
+  "model": "glm-5.3"
+}

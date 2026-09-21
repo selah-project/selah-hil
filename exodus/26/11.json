@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Kag himoon mo sing lima ka pulo ka kandado sang tumbaga, kag isulod mo ⟨את⟩ ang mga kandado sa mga laso, kag dugtaka mo ⟨את⟩ ang tolda, kag maga-isahan ⟨kini⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "kag himoon mo"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "sing mga kandado"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "sang tumbaga"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima ka pulo"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "kag isulod mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kandado"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "ang mga kandado"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "sa mga laso"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "kag dugtaka mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tolda"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ang tolda"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kag maga-isahan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    }
+  ],
+  "timestamp": "2026-09-21T16:32:21.799842758Z",
+  "model": "glm-5.3"
+}

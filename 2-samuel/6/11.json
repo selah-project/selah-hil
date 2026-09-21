@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 6:11",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag nagpabilin ang Arka ni Yahweh sa balay ni Oved-Edom nga taga-Gat tatlo ka bulan, kag ginpakamaayo ni Yahweh ⟨את⟩ si Oved-Edom kag ⟨את⟩ ang tanan nga iya balay.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "nagpabilin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ang Arka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ni Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "nga taga-Gat"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatlo ka"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "kag ginpakamaayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Oved-Edom"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "si Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan nga iya balay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "iya balay"
+    }
+  ],
+  "timestamp": "2026-09-21T18:15:52.800773688Z",
+  "model": "glm-5.3"
+}

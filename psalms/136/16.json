@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 136,
+  "translation": "Sa nangdala sang iya katawhan sa katoninawan, kay sa dayon ang iya hesed.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "sa nangdala"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sang iya katawhan"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa katoninawan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iya hesed"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:28.815666432Z",
+  "model": "glm-5.3"
+}

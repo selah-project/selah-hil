@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 65,
+  "translation": "Kag kamo nga nagabiya kay Yahweh, nga nagkalimti ⟨את⟩ sang akon balaan nga bukid, nga nagahanda sang lamesa para kay Gad, kag nagapun-i sang sinhalo nga ilimnon para kay Meni.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "kag kamo"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "nga nagabiya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "nga nagkalimti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akon balaan nga bukid"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "akon balaan"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "nga nagahanda"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "para kay Gad"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "lamesa"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "kag nagapun-i"
+    },
+    {
+      "surface": "למני",
+      "gloss": "para kay Meni"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "sinhalo nga ilimnon"
+    }
+  ],
+  "timestamp": "2026-09-21T19:14:27.119420765Z",
+  "model": "glm-5.3"
+}

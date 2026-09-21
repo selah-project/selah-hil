@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 95,
+  "translation": "Apat ka pulo ka tuig nakapoy ako sa sini nga kaliwatan, kag nagsiling ako: Tawo nga nagapasiga-ligaw sa tagipusuon sila, kag sila indi nakahibalo sang akon mga dalan.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "apat ka pulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "nakapoy ako"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "sa sini nga kaliwatan"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "kag nagsiling ako"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "nagapasiga-ligaw"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sa tagipusuon"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "והם",
+      "gloss": "kag sila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nakahibalo"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "sang akon mga dalan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:25.029310489Z",
+  "model": "glm-5.3"
+}

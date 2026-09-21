@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Indi pagbatikosi ang sulugoon sa iya agalon, agud indi niya ikaw sumpaon kag ikaw magakasala.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "pagbatikosi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ang sulugoon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "iya agalon"
+    },
+    {
+      "surface": "פן",
+      "gloss": "agud indi"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "niya ikaw sumpaon"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "kag ikaw magakasala"
+    }
+  ],
+  "timestamp": "2026-09-21T21:04:10.364623231Z",
+  "model": "glm-5.3"
+}

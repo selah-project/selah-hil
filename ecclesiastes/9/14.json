@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Isa ka gamay nga dakbanwa, kag pila lamang ka mga tawo sa sini; kag may nag-abot sa sini nga isa ka dako nga hari, kag ginpalian-ian niya ⟨את⟩ ini, kag gintindug niya batok sini nga mga tarangan nga mga dako.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "dakbanwa"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "gamay"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "kag mga tawo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sa sini"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "pila lamang"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "kag nag-abot"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "sa sini"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dako"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "kag ginpalian-ian"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ini (ang dakbanwa)"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "kag gintindug"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "batok sini"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "mga tarangan"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "mga dako"
+    }
+  ],
+  "timestamp": "2026-09-21T21:27:20.664012555Z",
+  "model": "glm-5.3"
+}

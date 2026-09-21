@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 78:41",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Nagbalik sila kag gintimbahan nila si El, kag ang Balaan sang Yisrael gintamanan nila.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "nagbalik"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "gintimbahan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "si El"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "kag ang Balaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "התוו",
+      "gloss": "gintamanan nila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:09.773673987Z",
+  "model": "glm-5.3"
+}

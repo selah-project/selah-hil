@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 28:11",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Kag ginhatag ni David kay Shelomoh iya anak ⟨את⟩ ang porma sang ganghaan kag ⟨את⟩ ang iya mga balay, kag ang iya mga kaban sang mga ginasimpan, kag ang iya mga itaas nga kwarto, kag ang iya mga kwarto nga sulod, kag ang balay sang kapore.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Kag ginhatag"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "kay Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iya anak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang porma sang ganghaan"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ang porma"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "sang ganghaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya mga balay"
+    },
+    {
+      "surface": "בתיו",
+      "gloss": "ang iya mga balay"
+    },
+    {
+      "surface": "וגנזכיו",
+      "gloss": "kag ang iya mga kaban sang mga ginasimpan"
+    },
+    {
+      "surface": "ועליתיו",
+      "gloss": "kag ang iya mga itaas nga kwarto"
+    },
+    {
+      "surface": "וחדריו",
+      "gloss": "kag ang iya mga kwarto"
+    },
+    {
+      "surface": "הפנימים",
+      "gloss": "nga sulod"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "kag ang balay"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "sang kapore"
+    }
+  ],
+  "timestamp": "2026-09-21T21:59:56.040948387Z",
+  "model": "glm-5.3"
+}

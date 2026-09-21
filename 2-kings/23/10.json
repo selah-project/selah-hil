@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag ginbag-ol niya ⟨את⟩ ang Tofet nga ara sa walog sang mga anak ni Hinnom, agod nga indi magpaagi ang tawo sa ⟨את⟩ iya anak nga lalaki kag ⟨את⟩ iya anak nga babae sa kalayo para kay Molekh.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "Kag ginbag-ol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Tofet"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "ang Tofet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "sa walog"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sang mga anak"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "ni Hinnom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "agod nga indi"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "magpaagi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya anak nga lalaki"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iya anak nga lalaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya anak nga babae"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "iya anak nga babae"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "para kay Molekh"
+    }
+  ],
+  "timestamp": "2026-09-21T18:50:26.344355029Z",
+  "model": "glm-5.3"
+}

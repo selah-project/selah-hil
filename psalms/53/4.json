@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 53,
+  "translation": "Ang tanan nagbalik ⟨sa likod⟩, magkahipon sila nangin malaw-ay; wala sing nagabuhat sang maayo, wala, bisan gani isa.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "סג",
+      "gloss": "nagbalik"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magkahipon"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "nangin malaw-ay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nagabuhat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "sang maayo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bisan gani"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:38.555138953Z",
+  "model": "glm-5.3"
+}

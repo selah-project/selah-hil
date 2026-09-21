@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 72,
+  "translation": "Kag magadumala ⟨siya⟩ tikang sa dagat tubtob sa dagat, kag tikang sa suba tubtob sa mga katumtuman sang duta.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "kag magadumala"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tikang sa dagat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob sa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "kag tikang sa suba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob sa"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "mga katumtuman sang"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:01.099703299Z",
+  "model": "glm-5.3"
+}

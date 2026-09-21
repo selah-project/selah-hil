@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 72,
+  "translation": "Kag ginadayaw ang ngalan sang iya himaya sing dayon, kag magapun-an sang iya himaya ⟨את⟩ ang tanan sang duta. Amén, kag amén.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "kag ginadayaw"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang ngalan"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "sang iya himaya"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sing dayon"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "kag magapun-an"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "sang iya himaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan sang duta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amén"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "kag amén"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:58.995158699Z",
+  "model": "glm-5.3"
+}

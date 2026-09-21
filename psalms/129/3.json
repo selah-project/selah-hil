@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 129,
+  "translation": "Sa ibabaw sang akon likod nagsarang ang mga nagsasarang; ginpahalaba nila ⟨sang lain⟩ ang ila mga guhit.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "akon likod"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "nagsarang"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ang mga nagsasarang"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "ginpahalaba"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "ang ila mga guhit"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:25.040732561Z",
+  "model": "glm-5.3"
+}

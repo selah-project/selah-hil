@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Sang kay David. Hukmi ako, Yahweh, kay ako sa akon pagkamatinood naglakat, kag kay Yahweh ako nagasalig, indi ako magakuyap.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Sang kay David"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "hukmi ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "sa akon pagkamatinood"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "naglakat"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "kag kay Yahweh"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nagasalig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "magakuyap"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:35.271247927Z",
+  "model": "glm-5.3"
+}

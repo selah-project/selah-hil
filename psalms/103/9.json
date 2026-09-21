@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 103,
+  "translation": "Indi sa dayon mag-away ⟨Siya⟩, kag indi sa ginhalian magatipig ⟨sang kaakig⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "mag-away"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa ginhalian"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "magatipig"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:54.894637607Z",
+  "model": "glm-5.3"
+}

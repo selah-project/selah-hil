@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 88,
+  "translation": "Kay nabusog sa ⟨mga⟩ kalaay ang akon kalag, kag ang akon kabuhi nakaabot ⟨na⟩ sa Sheol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "nabusog"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "sa ⟨mga⟩ kalaay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "kag ang akon kabuhi"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "sa Sheol"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "nakaabot ⟨na⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:30.440328416Z",
+  "model": "glm-5.3"
+}

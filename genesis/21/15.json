@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag nagkahuluya ang tubig gikan sa dagohong, kag ginpahuya niya ⟨את⟩ ang bata sa idalom sang isa ka sagbod.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "kag nagkahuluya"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang tubig"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "dagohong"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "kag ginpahuya niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bata"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa idalom"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa ka"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "sagbod"
+    }
+  ],
+  "timestamp": "2026-09-21T16:03:36.344906667Z",
+  "model": "glm-5.3"
+}

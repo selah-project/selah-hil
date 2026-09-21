@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Wala ako magpadala ⟨את⟩ sang mga manalagna, apan sila nagdalagan; wala ako maghambal sa ila, apan sila nagmanalagna.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ako magpadala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang mga manalagna"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "sang mga manalagna"
+    },
+    {
+      "surface": "והם",
+      "gloss": "apan sila"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "nagdalagan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ako maghambal"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "והם",
+      "gloss": "apan sila"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "nagmanalagna"
+    }
+  ],
+  "timestamp": "2026-09-21T19:26:10.761216325Z",
+  "model": "glm-5.3"
+}

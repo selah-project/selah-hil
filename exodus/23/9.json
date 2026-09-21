@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag ang dayon nga taga-lain nga duta indi mo paglung-oton; kamo man nga nagakilala ⟨את⟩ sang kabuhi sang dayon, kay dayon kamo man sang una sa duta sang Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "kag ang dayon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "mo paglung-oton"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "kamo man"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "nga nagakilala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang kabuhi sang dayon"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kabuhi"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "sang dayon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "dayon kamo"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "sang una"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:29:32.282864564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kag gindala niya ⟨את⟩ ang mga bad sa mga singsing sa mga kilid sang aron, sa pagdala sang aron.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "kag gindala niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga bad"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ang mga bad"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "sa mga singsing"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "mga kilid"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sang aron"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "sa pagdala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang aron"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sang aron"
+    }
+  ],
+  "timestamp": "2026-09-21T16:39:27.719387589Z",
+  "model": "glm-5.3"
+}

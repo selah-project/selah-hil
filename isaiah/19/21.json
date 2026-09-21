@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 19:21",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag magakilala si Yahweh sa Mitsrayim, kag makilala sang Mitsrayim ⟨את⟩ si Yahweh sa sadto nga adlaw, kag magahalad sila sing ihaw nga halad kag halad, kag magapanumpa sila sang panumpa kay Yahweh kag tumanon nila ⟨ini⟩.",
+  "tokens": [
+    {
+      "surface": "ונודע",
+      "gloss": "kag magakilala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "kag makilala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sadto nga"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "kag magahalad sila"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sing ihaw nga halad"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "kag halad"
+    },
+    {
+      "surface": "ונדרו",
+      "gloss": "kag magapanumpa sila"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "sang panumpa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "kag tumanon nila"
+    }
+  ],
+  "timestamp": "2026-09-21T18:57:35.148582820Z",
+  "model": "glm-5.3"
+}

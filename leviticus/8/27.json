@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 8:27",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag gintugyan niya ⟨את⟩ ang tanan sa mga palad ni Aharon kag sa mga palad sang iya mga anak, kag ginbayaw niya ⟨אתם⟩ ina nga bayaw sa atubangan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "kag gintugyan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mga palad"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mga palad"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sang iya mga anak"
+    },
+    {
+      "surface": "וינף",
+      "gloss": "kag ginbayaw niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ina"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "nga bayaw"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:46:52.690938430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Ang kalamayan nga gidurog indi niya pagasiri-on, kag ang lino nga nagakupa indi niya pagapaalonhayan; sa kamatuoran igapagwa niya ang paghukum.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "Ang kalamayan"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "nga gidurog"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "pagasiri-on"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "kag ang lino"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "nga nagakupa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "pagapaalonhayan"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "sa kamatuoran"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "igapagwa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ang paghukum"
+    }
+  ],
+  "timestamp": "2026-09-21T19:07:18.101036648Z",
+  "model": "glm-5.3"
+}

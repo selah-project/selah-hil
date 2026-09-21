@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 106,
+  "translation": "Wala nila ginlaglag ⟨את⟩ ang mga pungsod nga ginsiling ni Yahweh sa ila,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "ginlaglag nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pungsod"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mga pungsod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ginsiling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:28.244663208Z",
+  "model": "glm-5.3"
+}

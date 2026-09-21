@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Bisan ako, ang nahauna nga anak ihatag ko sa iya, pinakamataas sa mga hari sang duta.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "nahauna nga anak"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "iható ko sa iya"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "pinakamataas"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "sa mga hari"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:57.113519707Z",
+  "model": "glm-5.3"
+}

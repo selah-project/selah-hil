@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 118:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 118,
+  "translation": "Si Yahweh sa akon, upod sa mga manogbulig sa akon; kag ako magatan-aw sa mga nagakalagot sa akon.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "upod sa mga manogbulig sa akon"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kag ako"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "magatan-aw"
+    },
+    {
+      "surface": "בשנאי",
+      "gloss": "sa mga nagakalagot sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:45.645704548Z",
+  "model": "glm-5.3"
+}

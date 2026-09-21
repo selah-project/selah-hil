@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Sang nagpangilum ako, naglubog ang akon mga tulang sa akon pagpanaguho sang tanan nga adlaw.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sang"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "nagpangilum ako"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "naglubog"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ang akon mga tulang"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "sa akon pagpanaguho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:30:11.373548904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Kaliwat ni Avraham, ang iya sulugoon, mga anak nga lalaki ni Yaakov, ang iya mga pinili.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "kaliwat"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ang iya sulugoon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "ang iya mga pinili"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:03.671257605Z",
+  "model": "glm-5.3"
+}

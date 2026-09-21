@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Ginpaguwa mo ako sa lambat nga ini nga gintago nila <sa akon> tungod kay ikaw amo ang akon kinalig-unan.",
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "ginpaguwa mo ako"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "sa lambat"
+    },
+    {
+      "surface": "זו",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "gintago nila"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tungod kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "akon kinalig-unan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:26.890974339Z",
+  "model": "glm-5.3"
+}

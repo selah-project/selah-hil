@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 69,
+  "translation": "Kag ang sako ang ginpangbayo ko nga sulab, kag naging pananglitan ako sa ila.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "kag ginpangbayo ko"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "nga sulab"
+    },
+    {
+      "surface": "שק",
+      "gloss": "ang sako"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "kag naging"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "pananglitan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:56.545337435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag ginsulat ni Moshe ⟨את⟩ ang tanan nga mga pulong ni Yahweh, kag nagtindog siya sa pag-aga, kag nagpatindog sang halaran sa ilalom sang bukid, kag duha kag napulo ka haligi para sa duha kag napulo ka tribo sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "kag ginsulat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga mga pulong ni Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nga mga pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "kag nagtindog sa pag-aga"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa pag-aga"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "kag nagpatindog"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sang halaran"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalom"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "sang bukid"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "kag duha kag napulo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ka haligi"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "ka haligi"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "para sa duha kag napulo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ka tribo"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ka mga tribo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T16:31:24.305265358Z",
+  "model": "glm-5.3"
+}

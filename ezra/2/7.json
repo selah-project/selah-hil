@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Ang mga anak ni Elam, isa ka libo kag duha ka gatos kag lima ka pulo kag apat.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "isa ka libo"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "duha ka gatos"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima ka pulo"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "kag apat"
+    }
+  ],
+  "timestamp": "2026-09-21T21:38:51.962305709Z",
+  "model": "glm-5.3"
+}

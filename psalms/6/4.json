@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag ang akon kalag nabalaska gid; kag ikaw, Yahweh — tubtong san-o?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "kag ang akon kalag"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "nabalaska"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtong"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "san-o"
+    }
+  ],
+  "timestamp": "2026-09-21T20:23:00.552202408Z",
+  "model": "glm-5.3"
+}

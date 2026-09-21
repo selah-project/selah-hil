@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag gintipon ni Yehu ⟨את⟩ ang tanan nga mga tawo, kag nagsiling siya sa ila: Si Aḥav nag-alagad ⟨את⟩ kang Baal sing diyutay; si Yehu magaalagad sa iya sing dako.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "kag gintipon"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "si Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga mga tawo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nga mga tawo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "si Aḥav"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "nag-alagad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "kang Baal"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sing diyutay"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "si Yehu"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "magaalagad sa iya"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "sing dako"
+    }
+  ],
+  "timestamp": "2026-09-21T18:43:24.839201926Z",
+  "model": "glm-5.3"
+}

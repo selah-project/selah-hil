@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 48:13",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 48,
+  "translation": "Kag ginkuha ni Yosef ⟨את⟩ ang duha ka anak — ⟨את⟩ si Efrayim sa iya tuo, sa walá sang Yisrael, kag ⟨את⟩ si Menashe sa iya walá, sa tuo sang Yisrael — kag ginpaabot niya sila sa iya.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ginkuha"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duha ka anak"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ang duha ka anak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "si Efrayim"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "sa iya tuo"
+    },
+    {
+      "surface": "משמאל",
+      "gloss": "sa walá sang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Menashe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "si Menashe"
+    },
+    {
+      "surface": "בשמאלו",
+      "gloss": "sa iya walá"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "sa tuo sang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "ginpaabot"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:18:35.690154119Z",
+  "model": "glm-5.3"
+}

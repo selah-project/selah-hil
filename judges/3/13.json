@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 3:13",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag gintipon niya ⟨sa iya⟩ ⟨את⟩ ang mga anak nga lalaki sang Ammon kag sang Amalek, kag nagkadto siya kag gintama niya ⟨את⟩ si Yisrael, kag gintun-an nila ⟨את⟩ ang siudad sang mga palmera.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "gintipon niya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga anak nga lalaki sang Ammon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "sang Ammon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "kag sang Amalek"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kag nagkadto siya"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "kag gintama niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "si Yisrael"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "kag gintun-an nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang siudad sang mga palmera"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ang siudad"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "sang mga palmera"
+    }
+  ],
+  "timestamp": "2026-09-21T17:47:54.374193549Z",
+  "model": "glm-5.3"
+}

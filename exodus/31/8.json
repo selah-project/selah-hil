@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "kag ⟨את⟩ ang lamesa kag ⟨את⟩ ang iya mga kagamitan, kag ⟨את⟩ ang kandilahan nga malimpyo kag ⟨את⟩ ang tanan nga iya mga kagamitan, kag ⟨את⟩ ang halaran sang insenso;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang lamesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "lamesa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya mga kagamitan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "iya mga kagamitan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang kandilahan"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "kandilahan"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "nga malimpyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "nga iya mga kagamitan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang halaran"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "sang insenso"
+    }
+  ],
+  "timestamp": "2026-09-21T16:35:19.555346962Z",
+  "model": "glm-5.3"
+}

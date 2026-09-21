@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 18:46",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Ang mga anak sang lain nga pungsod magaluya kag magakurog ⟨sila⟩ sa paggwa sa ila mga kinalagaran.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "sang lain nga pungsod"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "magaluya"
+    },
+    {
+      "surface": "ויחרגו",
+      "gloss": "kag magakurog"
+    },
+    {
+      "surface": "ממסגרותיהם",
+      "gloss": "sa paggwa sa ila mga kinalagaran"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:21.537811257Z",
+  "model": "glm-5.3"
+}

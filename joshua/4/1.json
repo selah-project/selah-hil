@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag natabo, sang natapos na ang tanan nga pungsod sa pagtabok ⟨את⟩ sang Yarden, nga naghambal si Yahweh kay Yehoshua, nga nagaingon:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kag natabo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sang"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "natapos na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "pungsod"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "sa pagtabok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sang Yarden"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "naghambal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    }
+  ],
+  "timestamp": "2026-09-21T17:35:56.949004343Z",
+  "model": "glm-5.3"
+}

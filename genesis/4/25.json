@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag nakilala pa ni Adam ⟨את⟩ iya asawa, kag natawo sang isa ka anak nga lalaki, kag gintawag niya ⟨את⟩ iya ngalan nga Shet, kay ginpamatdon sang Elohim sa akon ang isa pa ka binhi sa baylo ni Hevel, kay ginpatay siya ni Kayin.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "nakilala"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya asawa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "iya asawa"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "gintawag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya ngalan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "iya ngalan"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ginpamatdon"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "binhi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "isa pa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa baylo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ginpatay"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    }
+  ],
+  "timestamp": "2026-09-21T15:54:34.077084039Z",
+  "model": "glm-5.3"
+}

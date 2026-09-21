@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 137,
+  "translation": "Sa mga willow didto sa tunga sini, ginbitay namon ang aton mga kinor.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "mga willow"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "sa tunga sini"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "ginbitay namon"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "ang aton mga kinor"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:51.306565517Z",
+  "model": "glm-5.3"
+}

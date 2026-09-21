@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kon magaabot sang away sa mga tawo kag maglapit sila sa paghukuman kag hukman sila, ihukum nila nga matarong ⟨את⟩ ang matarong kag ihukum nga sala ⟨את⟩ ang Malko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magaabot"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "away"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "kag maglapit sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "paghukuman"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "kag hukman sila"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "ihukum nila nga matarong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang matarong"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "ang matarong"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "ihukum nga sala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Malko"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ang Malko"
+    }
+  ],
+  "timestamp": "2026-09-21T17:29:30.479860635Z",
+  "model": "glm-5.3"
+}

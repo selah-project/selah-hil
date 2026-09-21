@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kay ang pagpanikasog nagapabuang sang maalamon, kag ang hatag nagadistroso ⟨את⟩ sang kasingkasing.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "ang pagpanikasog"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "nagapabuang"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "sang maalamon"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "kag nagadistroso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang kasingkasing"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sang kasingkasing"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "ang hatag"
+    }
+  ],
+  "timestamp": "2026-09-21T21:27:07.103139080Z",
+  "model": "glm-5.3"
+}

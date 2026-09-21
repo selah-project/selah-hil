@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 73,
+  "translation": "Sa kapisan sang tawo wala sila, kag kaupod sang mga tawo indi sila malapyaran.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "sa kapisan"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "wala sila"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kag kaupod"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang mga tawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "malapyaran"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:52.299395816Z",
+  "model": "glm-5.3"
+}

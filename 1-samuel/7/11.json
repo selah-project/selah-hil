@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag nagguwa ang mga tawo sang Yisrael sa Mitzpah kag nagsunod sila ⟨את⟩ sa mga Pelishteo kag gintamma sila tubtob sa ubos sang Beit-Khar.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "kag nagguwa sila"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mga tawo sang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitzpah"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "kag nagsunod sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga Pelishteo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Pelishteo"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "kag gintamma sila"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "sa ubos"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sang Beit"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Khar"
+    }
+  ],
+  "timestamp": "2026-09-21T17:59:28.019423163Z",
+  "model": "glm-5.3"
+}

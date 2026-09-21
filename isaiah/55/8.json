@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 55,
+  "translation": "Kay indi ang akon mga hunahuna ang inyo ⟨mga⟩ hunahuna, kag indi ang inyo mga dalan ang akon ⟨mga⟩ dalan, nagaingon si Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "ang akon mga hunahuna"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "ang inyo mga hunahuna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "ang inyo mga dalan"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ang akon mga dalan"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nagaingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T22:31:27.232187808Z",
+  "model": "glm-5.3"
+}

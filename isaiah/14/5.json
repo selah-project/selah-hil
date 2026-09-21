@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Ginbalaka ni Yahweh ang tungkod sang mga daotan, ang setro sang mga manughari.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "ginbalaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tungkod"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga daotan"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "setro"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "mga manughari"
+    }
+  ],
+  "timestamp": "2026-09-21T18:56:15.299773291Z",
+  "model": "glm-5.3"
+}

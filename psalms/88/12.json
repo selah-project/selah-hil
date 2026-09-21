@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 88,
+  "translation": "Isugiron bala sa lulangdan ang imo hesed, ang imo pagkamatinud-anon sa Avaddon?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "isugiron bala"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "sa lulangdan"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ang imo hesed"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ang imo pagkamatinud-anon"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "sa Avaddon"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:41.972167247Z",
+  "model": "glm-5.3"
+}

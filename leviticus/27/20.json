@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Kon indi niya gabawion ⟨את⟩ ang uma, kag kon ginbaligya niya ⟨את⟩ ang uma sa isa ka tawo nga iban, indi na ini mabawian pa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "niya gabawion"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang uma"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ang uma"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "ginbaligya niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang uma"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ang uma"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "sa isa ka tawo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nga iban"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi na"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "mabawian"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    }
+  ],
+  "timestamp": "2026-09-21T16:57:44.478975846Z",
+  "model": "glm-5.3"
+}

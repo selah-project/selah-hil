@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kag ginkuha ni David ⟨את⟩ tanan nga mga karnero kag mga baka — ginpaguid nila sa atubang sini nga mga sapat — kag nagsiling sila: Ini amo ang sinamsam ni David.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kag ginkuha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga karnero kag mga baka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "nga mga karnero"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "kag mga baka"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "ginpaguid"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "sang mga sapat"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sini"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ang sinamsam"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-21T18:11:17.161206798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 57,
+  "translation": "Kay mapintas ang imo hesed tubtob sa mga langit, kag tubtob sa mga panganod ang imo kamatuoran.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "mapintas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob sa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ang imo hesed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag tubtob sa"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "mga panganod"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ang imo kamatuoran"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:33.519671829Z",
+  "model": "glm-5.3"
+}

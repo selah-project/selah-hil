@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Isa ka pangamuyo ni David. Magpatalinghug ⟨ikaw⟩, Yahweh, sa kaangayan; magpatingala sa akon pagpaningala; patalinguga ⟨ang imo kasud-an⟩ sa akon pangamuyo — wala ⟨ini⟩ magagikan sa bibig sang daya.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "pangamuyo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Magpatalinghug"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kaangayan"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "magpatingala"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "sa akon pagpaningala"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "patalinguga"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "sa akon pangamuyo"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "sa bibig"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "sang daya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:30.157134026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 54,
+  "translation": "Magabalik ang kagila matulodon sa akon mga manugbantay; sa imo kamatuoran paglaglaga sila.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "Magabalik"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ang kagila matulodon"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "sa akon mga manugbantay"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "sa imo kamatuoran"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "paglaglaga sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:42.563652784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Magbalhin ka sa kagubtan kag himuwa ang maayo; pangitaa ang kappahayahay kag pagbalhibad sa iya.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "magbalhin ka"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "sa kagubtan"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "kag himuwa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ang maayo"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "pangitaa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ang kappahayahay"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "kag pagbalhibad sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:17.818745872Z",
+  "model": "glm-5.3"
+}

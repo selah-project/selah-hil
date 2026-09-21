@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 94,
+  "translation": "Kon wala ang bulig ni Yahweh sa akon, halos nagpundar na sa silensyo ang akon kalag.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "kon wala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "ang bulig"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "halos"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "nagpundar"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "sa silensyo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:33.090291926Z",
+  "model": "glm-5.3"
+}

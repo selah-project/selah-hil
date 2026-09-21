@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 31:3",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kag nagmabug-at ang-away kay Shaul, kag nakit-an siya sang mga mamana — mga tawo nga may pana — kag nanginig siya sing mabug-at tungod sa mga mamana.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "kag nagmabug-at"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ang-away"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "kag nakit-an siya"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "sang mga mamana"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "nga may pana"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "kag nanginig"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sing mabug-at"
+    },
+    {
+      "surface": "מהמורים",
+      "gloss": "tungod sa mga mamana"
+    }
+  ],
+  "timestamp": "2026-09-21T18:12:35.396149399Z",
+  "model": "glm-5.3"
+}

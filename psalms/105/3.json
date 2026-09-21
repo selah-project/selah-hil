@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Magpakapalangga kamo sa iya balaan nga ngalan; magakalipay ang tagipusuon sang mga nangita kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Magpakapalangga kamo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa … ngalan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "iya balaan"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "magakalipay"
+    },
+    {
+      "surface": "לב",
+      "gloss": "tagipusuon"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "sang mga nangita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:41.524865353Z",
+  "model": "glm-5.3"
+}

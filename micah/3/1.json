@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag nagsiling ako: Pamati kamo, palihog, mga ulo sang Yakov, kag mga pangulo sang balay sang Yisrael; indi bala sa inyo ang pagkahibalo sang ⟨את⟩ hukom?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Pamati kamo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "palihog"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mga ulo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "sang Yakov"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "kag mga pangulo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "indi bala"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ang pagkahibalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hukom"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "hukom"
+    }
+  ],
+  "timestamp": "2026-09-21T20:13:22.228765460Z",
+  "model": "glm-5.3"
+}

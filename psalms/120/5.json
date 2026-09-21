@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 120,
+  "translation": "Kapait ko, kay nagpuyo ako subong nga dumulou sa Meshek, kag nagpuyo ako kaupod sang mga tolda sang Kedar!",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "kapait ko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "nagpuyo ako subong nga dumulou"
+    },
+    {
+      "surface": "משך",
+      "gloss": "sa Meshek"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "nagpuyo ako"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "sang mga tolda"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "sang Kedar"
+    }
+  ],
+  "timestamp": "2026-09-21T20:50:41.294605084Z",
+  "model": "glm-5.3"
+}

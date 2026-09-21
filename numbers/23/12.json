@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag siya nagtubas kag nagsiling: Indi bala ⟨את⟩ ang ginaplagay ni Yahweh sa akon baba, ina ⟨ang⟩ atipanon ko nga ihambal?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "kag siya nagtubas"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "indi bala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ginaplagay ni Yahweh sa akon baba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "ginaplagay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "sa akon baba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ina"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "atipanon ko"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "nga ihambal"
+    }
+  ],
+  "timestamp": "2026-09-21T17:10:41.495689450Z",
+  "model": "glm-5.3"
+}

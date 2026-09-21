@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag gintabon sang cedar sa itaas, sa ibabaw sang mga ligid nga yara sa mga haligi — apat ka pulo kag lima, napulo kag lima kada laray.",
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "Kag gintabon"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "sang cedar"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "sa itaas"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "mga ligid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "mga haligi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "apat ka pulo"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "kag lima"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "napulo kag lima"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kada laray"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "laray"
+    }
+  ],
+  "timestamp": "2026-09-21T18:28:53.318377629Z",
+  "model": "glm-5.3"
+}

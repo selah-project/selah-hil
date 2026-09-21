@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 8:15",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag naghari si David sa tanan sang Yisrael, kag si David ⟨nagahimo⟩ sang paghukom kag katarungan sa tanan sang iya katawhan.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "kag naghari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag nangin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nagahimo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sang paghukom"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "kag katarungan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sang iya katawhan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:14:54.251576725Z",
+  "model": "glm-5.3"
+}

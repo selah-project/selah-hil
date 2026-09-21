@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kay matarong si Yahweh, ginahigugma niya ang katarungan; ang ⟨mga tawo nga⟩ matarong makakita sang iya dagway.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "ang katarungan"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ginahigugma niya"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ang matarong"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "makakita"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "sang iya dagway"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:44.293919272Z",
+  "model": "glm-5.3"
+}

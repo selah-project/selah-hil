@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 88,
+  "translation": "Ngaa, Yahweh, ginapabayaan mo ang akon kalag, ginatago mo ang imo pagpakatawo sa akon?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "ginapabayaan mo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "ginatago mo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "imo pagpakatawo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:15.300655407Z",
+  "model": "glm-5.3"
+}

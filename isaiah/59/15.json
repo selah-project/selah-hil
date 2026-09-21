@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 59:15",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 59,
+  "translation": "Kag ang kamatuoron nadula, kag ang nagbuligaway sa kalaot ginpanghasi; kag nakita ni Yahweh, kag nagmaraot sa iya mga mata, kay wala sing paghukum.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "kag ang kamatuoran nadula"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "ang kamatuoran"
+    },
+    {
+      "surface": "נעדרת",
+      "gloss": "nadula"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "kag ang nagbuligaway"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "sa kalaot"
+    },
+    {
+      "surface": "משתולל",
+      "gloss": "ginpanghasi"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "kag nakita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "kag nagmaraot"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "sa iya mga mata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala sing"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "paghukum"
+    }
+  ],
+  "timestamp": "2026-09-21T19:12:20.368664860Z",
+  "model": "glm-5.3"
+}

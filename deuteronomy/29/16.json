@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "kag nakita ninyo ang ⟨את⟩ ila mga ginakalaglagan kag ang ⟨את⟩ ila mga dios-dios — kahoy kag bato, plate kag bulawan — nga ara upod sa ila.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "kag nakita ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ila mga ginakalaglagan"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "ila mga ginakalaglagan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ila mga dios-dios"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "ila mga dios-dios"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "kag bato"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "plate"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "kag bulawan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "upod sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T17:30:40.410343857Z",
+  "model": "glm-5.3"
+}

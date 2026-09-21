@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "kag ⟨את⟩ ang Khivihanon, kag ⟨את⟩ ang Arkihanon, kag ⟨את⟩ ang Sinihanon",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Khivihanon"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ang Khivihanon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Arkihanon"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "ang Arkihanon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Sinihanon"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "ang Sinihanon"
+    }
+  ],
+  "timestamp": "2026-09-21T15:58:50.785080242Z",
+  "model": "glm-5.3"
+}

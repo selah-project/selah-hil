@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Ginpahibalo ko ang pagkamatarong sa dako nga katilingban; yari, ang akon mga ngabil indi ko gin-untat; ikaw, Yahweh, nakakahibalo.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "ginpahibalo ko"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "pagkamatarong"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "sa katilingban"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dako"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yari"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "akon mga ngabil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "gin-untat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nakakahibalo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:37.940169601Z",
+  "model": "glm-5.3"
+}

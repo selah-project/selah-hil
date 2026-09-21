@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kag ⟨את⟩ si Aharon kag ⟨את⟩ ang iya mga anak imo nga pahaplasan sing lana, kag pabal-anon mo ⟨אתם⟩ sa pagka-pari sa akon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ang iya mga anak"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "imo nga pahaplasan sing lana"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "kag pabal-anon mo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "si Aharon kag ang iya mga anak"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "sa pagka-pari"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:34:51.481211705Z",
+  "model": "glm-5.3"
+}

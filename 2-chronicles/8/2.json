@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 8:2",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ang mga ciudad nga ginhatag ni Hiram kay Shelomoh, gintukod sang Shelomoh ⟨אתם⟩, kag ginpahalad nga puluy-an didto ⟨את⟩ ang mga anak nga lalaki sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "kag ang mga ciudad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ginhatag"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "ni Hiram"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "kay Shelomoh"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "gintukod"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "sang Shelomoh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ang mga ciudad"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "kag ginpahalad nga puluy-an didto"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga anak nga lalaki sang Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T22:03:43.373628160Z",
+  "model": "glm-5.3"
+}

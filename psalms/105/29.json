@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Ginbalikid ⟨niya⟩ ⟨את⟩ ang ila mga tubig nga dugo, kag ginpatay ⟨niya⟩ ⟨את⟩ ang ila mga sapa.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "ginbalikid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ila mga tubig"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "ang ila mga tubig"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "nga dugo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kag ginpatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ila mga sapa"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "ang ila mga sapa"
+    }
+  ],
+  "timestamp": "2026-09-21T22:40:22.534791104Z",
+  "model": "glm-5.3"
+}

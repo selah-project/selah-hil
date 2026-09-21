@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Kag ang akon kalag magakalipay kay Yahweh, magakalipay sa iya kaluwas.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "kag ang akon kalag"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "magakalipay"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "magakalipay"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "sa iya kaluwas"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:15.630323830Z",
+  "model": "glm-5.3"
+}

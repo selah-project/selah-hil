@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 55,
+  "translation": "Lamonon, Adonay, kag panagona ang ila dila, kay nakita ko ang kapintas kag ang away sa siudad.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "Lamonon"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "panagona"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ang ila dila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita ko"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ang kapintas"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "kag away"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa siudad"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:30.951827941Z",
+  "model": "glm-5.3"
+}

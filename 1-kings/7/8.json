@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 7:8",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag ang iya balay nga diin siya nagapuyo didto ⟨may ara⟩ isa ka iban nga katarungan sa sulod sang Tolda, pareho sa obra nga ini; kag isa ka balay ginhimo para kay anak nga babae ni Paro, nga ginkuha ni Shelomoh, pareho sa sini nga Tolda.",
+  "tokens": [
+    {
+      "surface": "וביתו",
+      "gloss": "kag ang iya balay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nagapuyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "katarungan"
+    },
+    {
+      "surface": "האחרת",
+      "gloss": "iban"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "sa sulod sang balay"
+    },
+    {
+      "surface": "לאולם",
+      "gloss": "sa Tolda"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "pareho sa obra"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "היה",
+      "gloss": "amo"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "kag isa ka balay"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "para kay anak nga babae"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ginkuha"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "כאולם",
+      "gloss": "pareho sa Tolda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nga sini"
+    }
+  ],
+  "timestamp": "2026-09-21T18:28:24.128943868Z",
+  "model": "glm-5.3"
+}

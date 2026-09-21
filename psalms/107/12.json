@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 107,
+  "translation": "Ginpakubo niya ang ila kasing-kasing paagi sa kabalaklon, sila natumba kag wala sing manogbulig.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "ginpakubo niya"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "paagi sa kabalaklon"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ang ila kasing-kasing"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "sila natumba"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "sing manogbulig"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:14.535000804Z",
+  "model": "glm-5.3"
+}

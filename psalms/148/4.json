@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 148,
+  "translation": "Dayawon ninyo siya, mga langit sang mga langit, kag mga tubig nga ⟨ara⟩ sa itaas sang mga langit.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Dayawon ninyo siya"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sang mga langit"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "kag mga tubig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sa itaas sang"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mga langit"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:30.466211077Z",
+  "model": "glm-5.3"
+}

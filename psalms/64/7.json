@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 64,
+  "translation": "Ginpangita nila ang mga kaingran; natuman na ⟨ang⟩ pagpangita sa limbong; kag ang kaugalingon sang tawo kag ang kasingkasing ⟨amo⟩ malalim.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "ginpangita nila"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ang mga kaingran"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "natuman na"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "limbong"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "sa pagpangita"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "kag ang sulod"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "kag ang kasingkasing"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "malalim"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:36.891677388Z",
+  "model": "glm-5.3"
+}

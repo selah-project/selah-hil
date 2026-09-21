@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag ang hari nga si Shelomoh ⟨ang⟩ hari sa tanan nga Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag ang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "si Shelomoh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T18:26:55.488131342Z",
+  "model": "glm-5.3"
+}

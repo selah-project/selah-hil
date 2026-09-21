@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 66,
+  "translation": "Kay ikaw, Elohim, ang nagsulay sa amon; ginpagaayo mo kami pareho sang pag-ayo sang plata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "nagsulay sa amon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "ginpagaayo sa amon"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "pareho sang pag-ayo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "plata"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:45.594250918Z",
+  "model": "glm-5.3"
+}

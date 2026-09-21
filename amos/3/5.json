@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kon mahulog ang duyon sa litag sa duta, kag wala sing panikop para sa iya? Kon magbayaw ang litag gikan sa duta, kag wala gid makapanikop?",
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "Kon mahulog"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "duyon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פח",
+      "gloss": "litag"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "kag panikop"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala sing"
+    },
+    {
+      "surface": "לה",
+      "gloss": "para sa iya"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "Kon magbayaw"
+    },
+    {
+      "surface": "פח",
+      "gloss": "ang litag"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "duta"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "kag makapanikop"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala gid"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "makapanikop"
+    }
+  ],
+  "timestamp": "2026-09-21T20:09:26.805687299Z",
+  "model": "glm-5.3"
+}

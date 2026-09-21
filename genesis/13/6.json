@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag ang duta wala makadala ⟨את⟩ sila sa pagpuyo nga nagahiusa, kay damo ang ila kabtangan, kag wala sila makapuyo nga nagahiusa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "makadala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "sa pagpuyo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nga nagahiusa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ara⟩"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "ang ila kabtangan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "damo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "sila makapuyo"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "sa pagpuyo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nga nagahiusa"
+    }
+  ],
+  "timestamp": "2026-09-21T16:00:20.574833220Z",
+  "model": "glm-5.3"
+}

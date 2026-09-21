@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Sa imo baba — ang shofar! Subong sa agila ⟨sa⟩ balay ni Yahweh: kay naglabang sila sa akon katipan, kag sa akon Torah nagrebelde sila.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "imo baba"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "ang shofar"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "subong sa agila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יען",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "naglabang sila"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "akon katipan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "akon Torah"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "nagrebelde sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:06:06.472602725Z",
+  "model": "glm-5.3"
+}

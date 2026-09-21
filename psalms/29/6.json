@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kag ginpangsayaw niya ⟨ang⟩ Lebanon subong sang guya, kag si Sirion subong sang anak sang mga baka nga ihalas.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "ginpangsayaw"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "guya"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanon"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "kag si Sirion"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "mga baka nga ihalas"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:42.714593110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Kag nagsiling ⟨siya⟩: Indi ka makakaya sa pagtan-aw ⟨את⟩ sa akon dunggay; kay ang tawo indi makakita sa akon kag mabuhi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag nagsiling"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ka makakaya"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "sa pagtan-aw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa akon dunggay"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sa akon dunggay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "makakita sa akon"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "kag mabuhi"
+    }
+  ],
+  "timestamp": "2026-09-21T16:37:20.303446547Z",
+  "model": "glm-5.3"
+}

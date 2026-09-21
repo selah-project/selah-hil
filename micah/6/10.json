@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 6:10",
+  "book": "micah",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Ara pa bala sa balay sang malaut ang mga kaangtanan sang kalautan, kag ang manipis nga eipa nga ginakasilag?",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "pa gihapon"
+    },
+    {
+      "surface": "האש",
+      "gloss": "⟨bala⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "malaut"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "mga kaangtanan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kalautan"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "kag ang eipa"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "manipis"
+    },
+    {
+      "surface": "זעומה",
+      "gloss": "ginakasilag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:14:19.061389122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 55,
+  "translation": "Kahadlok kag pagkurog nagsulod sa akon, kag ang katingalahan nagtabon sa akon.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "kahadlok"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "kag pagkurog"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "nagsulod"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "kag nagtabon sa akon"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "ang katingalahan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:08.530601285Z",
+  "model": "glm-5.3"
+}

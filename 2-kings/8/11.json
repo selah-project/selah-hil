@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag gintindog niya ⟨את⟩ ang iya nawong nga matinahuron tubtob nga naulawan, kag nagpananglitis ang tawo sang Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "kag gintindog niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya nawong"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ang iya nawong"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "kag gintagna niya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "בש",
+      "gloss": "nga naulawan"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "kag nagpananglitis"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sang Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T18:43:06.563443291Z",
+  "model": "glm-5.3"
+}

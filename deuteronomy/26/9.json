@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "kag gindala niya kita ngadto sa sini nga duog, kag gintugyan niya sa aton ⟨את⟩ sini nga duta — duta nga nagaulan sang gatas kag dugos.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "kag gindala niya kita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "sini nga duog"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sini"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kag gintugyan niya"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa aton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sini nga duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sini nga duta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sini"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "nga nagaulan"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "sang gatas"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "kag dugos"
+    }
+  ],
+  "timestamp": "2026-09-21T17:28:29.607286665Z",
+  "model": "glm-5.3"
+}

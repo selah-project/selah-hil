@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 3:1",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ini ⟨amo⟩ ang mga pungsod nga ginpabilin ni Yahweh sa pagsulay sa ila ⟨את⟩ Yisrael — ⟨את⟩ tanan nga wala makakilala ⟨את⟩ tanan nga mga gubat sang Kenaan.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "kag ini"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ang mga pungsod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "ginpabilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "sa pagsulay"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "makakilala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "mga gubat"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "sang Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-21T17:46:44.201189864Z",
+  "model": "glm-5.3"
+}

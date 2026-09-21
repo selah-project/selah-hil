@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Ginsugo niya ang kadudulman kag nagdulom ini, kag wala nila pagbanggihi ⟨את⟩ ang iya pulong.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ang kadudulman"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "kag nagdulom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "pagbanggihi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya pulong"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "ang iya pulong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:46.704076413Z",
+  "model": "glm-5.3"
+}

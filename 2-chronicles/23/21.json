@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag ang tanan nga katawhan sang duta nagkalipay, kag ang ciudad nagpahuway, kag ⟨את⟩ si Atalyahu ginpatay nila sang espada.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "nagkalipay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "kag ang ciudad"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "nagpahuway"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Atalyahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "si Atalyahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ginpatay nila"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sang espada"
+    }
+  ],
+  "timestamp": "2026-09-21T22:06:49.323026512Z",
+  "model": "glm-5.3"
+}

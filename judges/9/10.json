@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag nagsiling ang mga kahoy sa igos: Kadto ka, ikaw, maghari ka sa amon.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ang mga kahoy"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "sa igos"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "kadto ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "maghari ka"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sa amon"
+    }
+  ],
+  "timestamp": "2026-09-21T17:49:06.178136762Z",
+  "model": "glm-5.3"
+}

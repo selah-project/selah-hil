@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kag ginhimo niya ⟨את⟩ ang mga badbar, kahoy sang shittim, kag gintabon niya ⟨אתם⟩ sang bulawan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kag ginhimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga badbar"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ang mga badbar"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sang shittim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "kag gintabon"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ang mga badbar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sang bulawan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:39:49.673942792Z",
+  "model": "glm-5.3"
+}

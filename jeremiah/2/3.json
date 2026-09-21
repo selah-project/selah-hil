@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Balaan ang Yisrael kay Yahweh, ang nahauna sang iya ani; ang tanan nga nagakaon sini magasala — kalainan magaabot sa ila, ingon sang ginasiling ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "Balaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ang nahauna"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "sang iya ani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "nga nagakaon sini"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "magasala"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kalainan"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "magaabot"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ingon sang ginasiling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T19:15:14.766240934Z",
+  "model": "glm-5.3"
+}

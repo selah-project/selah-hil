@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 114,
+  "translation": "Sa paggwa ni Yisrael sa Mitsrayim, ang balay ni Yaakov gikan sa isa ka dumuluong nga pungsod,",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "Sa paggwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "gikan sa isa ka dumuluong"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "nga pungsod"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:58.026230968Z",
+  "model": "glm-5.3"
+}

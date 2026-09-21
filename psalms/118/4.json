@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 118,
+  "translation": "Maghambal ⟨kamo⟩ gali ang mga nagakalag-ad kay Yahweh: kay tubtob sa dayon dayon ang iya hesed.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "maghambal"
+    },
+    {
+      "surface": "נא",
+      "gloss": "gali"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ang mga nagakalag-ad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tubtob sa dayon dayon"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iya hesed"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:48.477280158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag gintawag ni Barak ⟨את⟩ ang Zevulun kag ⟨את⟩ ang Naftali sa Kedesh, kag nagsaka siya nga sa iya mga tiil ara ang napulo ka libo ka tawo, kag nagsaka kaupod sa iya si Devorah.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "kag gintawag"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "ni Barak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Zevulun"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ang Zevulun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Naftali"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ang Naftali"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "sa Kedesh"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "kag nagsaka"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "sa iya mga tiil"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ka libo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ka tawo"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "kag nagsaka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaupod sa iya"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "si Devorah"
+    }
+  ],
+  "timestamp": "2026-09-21T17:47:23.917282646Z",
+  "model": "glm-5.3"
+}

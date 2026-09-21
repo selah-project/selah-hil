@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "ang kalag nga magatandog sa iya mahugaw tubtob sang gab-i, kag indi siya magakaon sang mga balaan kundi magahugas siya sang iya unod sa tubig.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "ang kalag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "magatandog"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "kag mahugaw"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "sang gab-i"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "magakaon"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sang"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "mga balaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kundi ⟨kon⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨indi⟩"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "magahugas"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sang iya unod"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sa tubig"
+    }
+  ],
+  "timestamp": "2026-09-21T16:52:24.264238801Z",
+  "model": "glm-5.3"
+}

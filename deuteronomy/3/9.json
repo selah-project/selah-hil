@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Gintawag sang mga Tsidoniano ang Hermon nga Siryon, kag gintawag sang mga Amorihanon ini nga Shenir.",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "sang mga Tsidoniano"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "gintawag"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "ang Hermon"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "nga Siryon"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "kag sang mga Amorihanon"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "gintawag"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ini"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "nga Shenir"
+    }
+  ],
+  "timestamp": "2026-09-21T17:18:24.619698962Z",
+  "model": "glm-5.3"
+}

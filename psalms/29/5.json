@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Ang tingog ni Yahweh nagabali sang mga sedro; ginkapak ni Yahweh ⟨את⟩ ang mga sedro sang Lebanon.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "nagabali"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "mga sedro"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "ginkapak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga sedro sang Lebanon"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "mga sedro"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Lebanon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:42.714288088Z",
+  "model": "glm-5.3"
+}

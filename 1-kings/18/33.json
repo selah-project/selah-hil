@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag gintana-ang niya ⟨את⟩ ang mga kahoy, kag gintunga niya ⟨את⟩ ang baka, kag ginpwesto niya ⟨sila⟩ sa ibabaw sang mga kahoy.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "gintana-ang niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kahoy"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ang mga kahoy"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "kag gintunga niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang baka"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ang baka"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "kag ginpwesto niya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "sang mga kahoy"
+    }
+  ],
+  "timestamp": "2026-09-21T18:36:52.334515035Z",
+  "model": "glm-5.3"
+}

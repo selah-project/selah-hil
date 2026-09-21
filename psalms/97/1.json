@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 97,
+  "translation": "Naghari si Yahweh — magliwat ang duta, magakalipay ang madamo nga mga isla.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Naghari"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "magliwat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "magakalipay"
+    },
+    {
+      "surface": "איים",
+      "gloss": "mga isla"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "madamo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:10.643704789Z",
+  "model": "glm-5.3"
+}

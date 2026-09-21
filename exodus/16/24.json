@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag ginpabilin nila ⟨את⟩ sini hasta sa buntag, suno sa ginsugo ni Moshe, kag wala ini nagbaho, kag ulod wala may yara sa iya.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "Kag ginpabilin nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sini"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sa buntag"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "suno sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "nagbaho"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "kag ulod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "may yara"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:27:29.613744468Z",
+  "model": "glm-5.3"
+}

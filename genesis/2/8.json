@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag gintanum ni Yahweh Elohim sang hardin sa Eden, sa sidlangan, kag ginpuntera niya didto ⟨את⟩ ang tawo nga iya ginporma.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "gintanum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "hardin"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "sa Eden"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "sa sidlangan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "kag ginpuntera"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tawo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ginporma"
+    }
+  ],
+  "timestamp": "2026-09-21T15:54:55.058212735Z",
+  "model": "glm-5.3"
+}

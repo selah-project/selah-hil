@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 2:25",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag nagtipon ang mga anak ni Binyamin sa likod ni Avner, kag nangin sila sa isa ka pundok, kag nagtindog sila sa ibabaw sang ulo sang isa ka bungtod.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "nagtipon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ni Binyamin"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sa likod"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "ni Avner"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "kag nangin sila"
+    },
+    {
+      "surface": "לאגדה",
+      "gloss": "pundok"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "kag nagtindog sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "bungtod"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "isa"
+    }
+  ],
+  "timestamp": "2026-09-21T18:13:44.983587627Z",
+  "model": "glm-5.3"
+}

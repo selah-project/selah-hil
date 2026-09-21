@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Yahweh, Elohim ko, kon ginhimo ko ini, kon may katalang sa akon mga palad,",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ginhimo ko"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "יש",
+      "gloss": "may"
+    },
+    {
+      "surface": "עול",
+      "gloss": "katalang"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "sa akon mga palad"
+    }
+  ],
+  "timestamp": "2026-09-21T20:23:20.735475857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Indi bala ang kinaadman nagatawag, kag ang pagsabtar nagahatag sang iya tingog?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "indi bala"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ang kinaadman"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "nagatawag"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "kag ang pagsabtar"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nagahatag"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "sang iya tingog"
+    }
+  ],
+  "timestamp": "2026-09-21T20:57:12.094687983Z",
+  "model": "glm-5.3"
+}

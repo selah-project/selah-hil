@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 81,
+  "translation": "Wala sing langyaw nga El sa imo, kag indi ka magaluhod sa El nga taga-lain.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Wala"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨magauntat⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "langyaw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "ka magaluhod"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "sa El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "taga-lain"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:37.592341021Z",
+  "model": "glm-5.3"
+}

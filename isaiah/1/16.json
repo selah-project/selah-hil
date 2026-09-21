@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Maghugas kamo, maghinabi kamo nga putli; kuhaa ninyo ang kalaunan sang inyo mga binuhat sa atubangan sang akon mga mata; untat kamo sa paghimo sang kalaunan.",
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "Maghugas kamo"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "maghinabi kamo nga putli"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "kuhaa ninyo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ang kalaunan"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "sang inyo mga binuhat"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sang akon mga mata"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "untat kamo"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "sa paghimo sang kalaunan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:51:47.585250051Z",
+  "model": "glm-5.3"
+}

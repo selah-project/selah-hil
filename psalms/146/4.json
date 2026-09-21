@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 146,
+  "translation": "Magagua ang iya ginhawa, magabalik sia sa iya duta; sa sadto nga adlaw magakun gusto ang iya mga hunahuna.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "magagua"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ang iya ginhawa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "magabalik"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "sa iya duta"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa nga adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sadto"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "magakun gusto"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "ang iya mga hunahuna"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:24.272619789Z",
+  "model": "glm-5.3"
+}

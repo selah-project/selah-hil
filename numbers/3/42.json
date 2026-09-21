@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ginhipos ni Moshe, subong sang ginsogo ni Yahweh ⟨אתו⟩ kaniya, ⟨את⟩ ang tanan nga nahauna nga anak sa mga anak sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Kag ginhipos"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsogo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "kaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga nahauna nga anak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "nahauna nga anak"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "sa mga anak sang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T16:59:15.291802420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 127,
+  "translation": "Madagaya ang tawo nga nagpun-i ⟨את⟩ sang iya panagipit sang pana sang sanda; indi sanda magakaulaw, kay sanda makahambal ⟨את⟩ sa mga kaaway sa ganghaan.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Madagaya"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "nagpun-i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya panagipit sang pana"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "iya panagipit sang pana"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "sang sanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "magakaulaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "sanda makahambal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga kaaway"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "mga kaaway"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "sa ganghaan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:02.022801234Z",
+  "model": "glm-5.3"
+}

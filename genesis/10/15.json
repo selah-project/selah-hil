@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag si Kenaan natawo ⟨את⟩ si Tsidon nga iya panganay, kag ⟨את⟩ si Khet.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "kag si Kenaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Tsidon"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "si Tsidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "iya panganay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Khet"
+    },
+    {
+      "surface": "חת",
+      "gloss": "si Khet"
+    }
+  ],
+  "timestamp": "2026-09-21T15:58:49.604437560Z",
+  "model": "glm-5.3"
+}

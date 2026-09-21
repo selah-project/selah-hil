@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 12:20",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag nagatabo, sang madunggan sang tanan nga Yisreal nga nagbalik si Yeravam, nagsugo sila kag gintawag nila ⟨siya⟩ sa katilingban, kag ginhari nila ⟨siya⟩ sa tanan nga Yisrael; wala sing nagsunod sa balay ni David gawas lang sa tribo sang Yehudah nga bug-os lamang.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag nagatabo"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "sang madunggan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tanan nga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שב",
+      "gloss": "nga nagbalik"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "si Yeravam"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "nagsugo sila"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "kag gintawag nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "si Yeravam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "katilingban"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "kag ginhari nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "si Yeravam"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala sing"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nangin"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nagsunod"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "gawas lang"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "sa tribo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "nga bug-os lamang"
+    }
+  ],
+  "timestamp": "2026-09-21T18:32:23.000324275Z",
+  "model": "glm-5.3"
+}

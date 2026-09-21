@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag nabuhi si Shelach sing tatlo ka pulo ka tuig, kag natawo siya ⟨kay⟩ ⟨את⟩ Ever;",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Kag si Shelach"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nabuhi"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tatlo ka pulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "natawo siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    }
+  ],
+  "timestamp": "2026-09-21T15:58:49.740915581Z",
+  "model": "glm-5.3"
+}

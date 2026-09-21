@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Dako nga kappahulay sang mga nahigugma sa imo nga Torah, kag wala sila sing butang nga ikapawas.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "kappahulay"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dako"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "sang mga nahigugma"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "imo nga Torah"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "למו",
+      "gloss": "sila"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "butang nga ikapawas"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:50.297310200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Gintunga niya ang dagat kag ginpakatabok ⟨sila⟩; kag ginpabungtong niya ang mga tubig subong nga isa ka tagumbas.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "gintunga"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ang dagat"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "kag ginpakatabok sila"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "kag ginpabungtong"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ang mga tubig"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "subong nga"
+    },
+    {
+      "surface": "נד",
+      "gloss": "isa ka tagumbas"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:46.962774155Z",
+  "model": "glm-5.3"
+}

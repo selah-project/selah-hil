@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Indi pagdali-dalihon ang paghalin sa iya atubangan, indi magtindog sa malain nga butang, kay ang tanan nga iya luyag himoon niya.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "pagdali-dalihon"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "sa iya atubangan"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ang paghalin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "magtindog"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sa butang"
+    },
+    {
+      "surface": "רע",
+      "gloss": "malain"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "iya luyag"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "himoon niya"
+    }
+  ],
+  "timestamp": "2026-09-21T21:26:57.875940540Z",
+  "model": "glm-5.3"
+}

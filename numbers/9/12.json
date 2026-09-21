@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Wala nila pagabilin bisan ano sa iya tubtob sa kaagahon, kag sing bukog wala nila pagputol sa iya; suno sa tanan nga kasugoan sang Pesah himuon nila ⟨את⟩ ini.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Wala"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "nila pagabilin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "bisan ano sa iya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob sa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "kaagahon"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "kag sing bukog"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "nila pagputol"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "suno sa tanan"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "nga kasugoan"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "sang Pesah"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "himuon nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ini (ang Pesah)"
+    }
+  ],
+  "timestamp": "2026-09-21T17:03:34.914214494Z",
+  "model": "glm-5.3"
+}

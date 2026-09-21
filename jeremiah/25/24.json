@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "kag ⟨את⟩ tanan nga mga hari sang Arav, kag ⟨את⟩ tanan nga mga hari sang gin-ilog nga mga tawo nga nagaistar sa kamingawan",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga mga hari sang Arav"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Arav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga mga hari sang gin-ilog nga mga tawo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "gin-ilog nga mga tawo"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "nga nagaistar"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    }
+  ],
+  "timestamp": "2026-09-21T19:25:23.634938412Z",
+  "model": "glm-5.3"
+}

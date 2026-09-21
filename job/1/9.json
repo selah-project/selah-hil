@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ginsabat sang Satan si ⟨את⟩ Yahweh kag nagsiling: Sa wala gid sing ano-ano nagakahadlok si Iyov sa Elohim?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "kag ginsabat"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "sang Satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "sa wala gid sing ano-ano"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nagakahadlok"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "si Iyov"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sa Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T21:06:22.935708143Z",
+  "model": "glm-5.3"
+}

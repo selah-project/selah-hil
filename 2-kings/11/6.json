@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 11:6",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "kag ang ikatlo sa ganghaan sang Sur, kag ang ikatlo sa ganghaan luyo sang mga dalaganon, kag magabantay kamo ⟨את⟩ sang pagbantay sang balay bilang ⟨sagang⟩.",
+  "tokens": [
+    {
+      "surface": "והשלשית",
+      "gloss": "kag ang ikatlo"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "sa ganghaan"
+    },
+    {
+      "surface": "סור",
+      "gloss": "sang Sur"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "kag ang ikatlo"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "sa ganghaan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "luyo"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "sang mga dalaganon"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "kag magabantay kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang pagbantay"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "sang pagbantay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "מסח",
+      "gloss": "sagang"
+    }
+  ],
+  "timestamp": "2026-09-21T18:43:35.562690413Z",
+  "model": "glm-5.3"
+}

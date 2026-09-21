@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 16:1",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag gindala nila ⟨את⟩ ang Arca sang Elohim, kag gintindog nila ⟨את⟩ ini sa tunga sang Tolda nga ginpatayang ni David sa iya, kag naghahadla sila sang mga halad nga sinunog kag sang mga halad sang kalinong sa atubang sang Elohim.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "gindala nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Arca sang Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Arca"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "gintindog nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ini (ang Arca)"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa tunga sang"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "Tolda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ginpatayang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "naghahadla sila"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "mga halad nga sinunog"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "kag mga halad sang kalinong"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubang sang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T21:55:32.352300914Z",
+  "model": "glm-5.3"
+}

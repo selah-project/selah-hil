@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "kag ⟨את⟩ ang duha ka bato, kag ⟨את⟩ ang tambok nga ara sa ila, nga ara sa mga hawak, kag ⟨את⟩ ang yoteret sa ibabaw sang atay — upod sa mga bato ikuhaon niya ina.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang duha ka bato"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duha"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ka bato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tambok"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ang tambok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "mga hawak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang yoteret"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "yoteret"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "sang atay"
+    },
+    {
+      "surface": "על",
+      "gloss": "upod sa"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "ikuhaon niya ina"
+    }
+  ],
+  "timestamp": "2026-09-21T16:42:19.870766056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Padungganga si Yahweh ⟨את⟩ gikan sa imo kayamanan, kag gikan sa nahauna sang tanan nga imo abot.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Padungganga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "gikan sa imo kayamanan"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "kag gikan sa nahauna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "nga imo abot"
+    }
+  ],
+  "timestamp": "2026-09-21T20:55:17.190840178Z",
+  "model": "glm-5.3"
+}

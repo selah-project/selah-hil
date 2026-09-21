@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 106,
+  "translation": "Ginluwas niya sila sa kamot sang nangdumili kag gintubos niya sila sa kamot sang kaaway.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "ginluwas niya sila"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "sang nangdumili"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "gintubos niya sila"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "sa kamot sang"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "kaaway"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:28.881130162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 41,
+  "translation": "Ang tagsa ka tawo nagabulig sa iya ⟨את⟩ kaabay, kag sa iya utod nagasiling sia: Hiruie kadasig.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ang tagsa ka tawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaabay"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "iya kaabay"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "nagabulig"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "kag sa iya utod"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "nagasiling sia"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Hiruie kadasig"
+    }
+  ],
+  "timestamp": "2026-09-21T19:05:55.838732693Z",
+  "model": "glm-5.3"
+}

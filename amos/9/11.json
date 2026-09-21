@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Sa ina nga adlaw patindugon ko ⟨את⟩ ang payag ni David nga natumba, kag sarahan ko ⟨את⟩ ang mga bintas sini, kag ang iya mga ginuba patindugon ko, kag itukod ko ini liwat subong sang mga adlaw sang una.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Sa ina nga adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ina"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "patindugon ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang payag ni David"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "payag"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "nga natumba"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "kag sarahan ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga bintas sini"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "ang mga bintas sini"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "kag ang iya mga ginuba"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "patindugon ko"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "kag itukod ko ini liwat"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "subong sang mga adlaw"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sang una"
+    }
+  ],
+  "timestamp": "2026-09-21T22:37:26.545698067Z",
+  "model": "glm-5.3"
+}

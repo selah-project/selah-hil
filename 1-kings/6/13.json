@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag magapuyo ako sa tunga sang mga anak sang Yisrael, kag indi ko pagbiyaan ⟨את⟩ ang akon katawhan, ang Yisrael.",
+  "tokens": [
+    {
+      "surface": "ושכני",
+      "gloss": "kag magapuyo ako"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "pagbiyaan ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon katawhan, ang Yisrael"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ang akon katawhan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T18:29:20.632299946Z",
+  "model": "glm-5.3"
+}

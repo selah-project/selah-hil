@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 10:41",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag ginpamatay ni Yehoshua ⟨sila⟩ ⟨halin⟩ sa Kadesh-Barnea kag tubtob sa Azzah, kag ⟨את⟩ ang tanan nga duta sang Goshen kag tubtob sa Givon.",
+  "tokens": [
+    {
+      "surface": "ויכם",
+      "gloss": "ginpamatay"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag tubtob"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "sa Azzah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan nga duta sang Goshen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "sang Goshen"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag tubtob"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "sa Givon"
+    }
+  ],
+  "timestamp": "2026-09-21T17:39:10.917503264Z",
+  "model": "glm-5.3"
+}

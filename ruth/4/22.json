@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "kag si Oved natawan ⟨את⟩ ni Yishay, kag si Yishay natawan ⟨את⟩ ni David",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "kag si Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishay"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ni Yishay"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "kag si Yishay"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-21T21:20:22.597065216Z",
+  "model": "glm-5.3"
+}

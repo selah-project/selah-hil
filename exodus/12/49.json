@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Isa ka Torah ang magaatindog ⟨sa⟩ natawo ⟨sa⟩ duta kag ⟨sa⟩ tagtipon nga nagaistar sa tunga ninyo.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "isa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magaatindog"
+    },
+    {
+      "surface": "לאזרח",
+      "gloss": "sa natawo sa duta"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "kag sa tagtipon"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "nga nagaistar"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "sa tunga ninyo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:24:53.222142822Z",
+  "model": "glm-5.3"
+}

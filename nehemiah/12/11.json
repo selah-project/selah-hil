@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "kag si Yoyada nagtawo ⟨את⟩ Yonatan, kag si Yonatan nagtawo ⟨את⟩ Yadua.",
+  "tokens": [
+    {
+      "surface": "ויודע",
+      "gloss": "kag si Yoyada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagtawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "kag si Yonatan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagtawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yadua"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Yadua"
+    }
+  ],
+  "timestamp": "2026-09-21T22:44:56.197410523Z",
+  "model": "glm-5.3"
+}

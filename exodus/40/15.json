@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag lanan mo ⟨את⟩ sila subong sang imo ginalanan ⟨את⟩ sang ila amay, kag magin padi sila sa akon; kag magapabilin ang ila paglanan sa ila nga pagka-padi nga dayon, sa ila mga kaliwat.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "kag lanan mo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "imo ginalanan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang ila amay"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ila amay"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "magin padi sila"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "kag magapabilin"
+    },
+    {
+      "surface": "להית",
+      "gloss": "nga magin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "ang ila paglanan"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "nga pagka-padi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nga dayon"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "sa ila mga kaliwat"
+    }
+  ],
+  "timestamp": "2026-09-21T16:41:26.432735289Z",
+  "model": "glm-5.3"
+}

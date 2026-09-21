@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag ibutang mo ⟨את⟩ ang kapporet sa ibabaw sang kahon, sa ibabaw; kag sa kahon imo ibutang ⟨את⟩ ang pagsaksi nga ihatag ko sa imo.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ibutang mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kapporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ang kapporet"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "kahon"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "kahon"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "imo ibutang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pagsaksi"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ang pagsaksi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ihatag ko"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:32:40.324708547Z",
+  "model": "glm-5.3"
+}

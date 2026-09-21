@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Magakalayo ang akon kaakig, kag pagamatyon ko kamo ⟨את⟩ sang espada, kag magaabalo ang inyo mga asawa kag maga-ulila ang inyo mga anak.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "kag magakalayo"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "ang akon kaakig"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "kag pagamatyon ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sang espada"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kag maga-"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "ang inyo mga asawa"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "magaabalo"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "kag ang inyo mga anak"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "maga-ulila"
+    }
+  ],
+  "timestamp": "2026-09-21T16:29:59.563294999Z",
+  "model": "glm-5.3"
+}

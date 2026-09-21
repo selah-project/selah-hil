@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 6:5",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag si David kag ang bug-os nga balay sang Yisrael nagakadula sa atubangan ni Yahweh sa tanan nga mga instrumento nga kahoy sang berosh, kag sa mga kinor, kag sa mga nebel, kag sa mga timprel, kag sa mga manogpaugid, kag sa mga silsíl.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "kag si David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang bug-os"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "nagakadula"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "nga mga instrumento nga kahoy"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "berosh"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "kag sa mga kinor"
+    },
+    {
+      "surface": "ובנבלים",
+      "gloss": "kag sa mga nebel"
+    },
+    {
+      "surface": "ובתפים",
+      "gloss": "kag sa mga timprel"
+    },
+    {
+      "surface": "ובמנענעים",
+      "gloss": "kag sa mga manogpaugid"
+    },
+    {
+      "surface": "ובצלצלים",
+      "gloss": "kag sa mga silsíl"
+    }
+  ],
+  "timestamp": "2026-09-21T18:15:50.642740778Z",
+  "model": "glm-5.3"
+}

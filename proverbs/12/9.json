@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Maayo ang ginakutub kag may sulugoon sa iya, kaysa sa nagapadunggan sa iya kaugalingon kag kulang sang tinapay.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "ang ginakutub"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "kag may sulugoon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "sa iya kaugalingon nagapadunggan"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "kag kulang"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:58:25.801576815Z",
+  "model": "glm-5.3"
+}

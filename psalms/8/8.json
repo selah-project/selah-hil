@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Mga karnero kag mga baka, ang tanan sini, kag pati ang mga sapat sa kapatagan.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "mga karnero"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "kag mga baka"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ang tanan sini"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kag pati"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "ang mga sapat"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "sa kapatagan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:25.805078225Z",
+  "model": "glm-5.3"
+}

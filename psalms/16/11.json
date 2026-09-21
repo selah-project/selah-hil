@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Ginapakamaayo mo ako sa dalan sang kabuhi; ka busog sang mga kalipay ⟨את⟩ ang imo mga dagway; mga kaayo sa imo tuo nga kamot sang dayon.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "ginapakamaayo mo ako"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sang kabuhi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ka busog"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "sang mga kalipay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imo mga dagway"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang imo mga dagway"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "mga kaayo"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "sa imo tuo nga kamot"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "sang dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:24.756609939Z",
+  "model": "glm-5.3"
+}

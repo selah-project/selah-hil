@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 59:20",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 59,
+  "translation": "Kag magakari sa Tsiyon ang Manluluwas, kag sa mga nagbalik gikan sa paglapas sa Yakov — gi hambal ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "kag magakari"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "sa Tsiyon"
+    },
+    {
+      "surface": "גואל",
+      "gloss": "ang Manluluwas"
+    },
+    {
+      "surface": "ולשבי",
+      "gloss": "kag sa mga nagbalik"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "gikan sa paglapas"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "sa Yakov"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "gi hambal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T19:12:51.966388733Z",
+  "model": "glm-5.3"
+}

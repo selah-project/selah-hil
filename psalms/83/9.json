@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 83,
+  "translation": "Nagkahugpon man ang Ashur sa ila; nangin sila nga bukton sa mga anak ni Lot. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "nagkahugpon"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nangin sila"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "nga bukton"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ni Lot"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:51.713571807Z",
+  "model": "glm-5.3"
+}

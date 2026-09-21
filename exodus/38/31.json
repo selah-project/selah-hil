@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 38,
+  "translation": "kag ⟨את⟩ mga pundasyon sang nakabalikid nga kortal, kag ⟨את⟩ mga pundasyon sang ganghaan sang kortal, kag ⟨את⟩ tanan nga mga tukod sang Mishkan, kag ⟨את⟩ tanan nga mga tukod sang kortal sa palibot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "mga pundasyon sang kortal"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mga pundasyon"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "sang kortal"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "mga pundasyon sang ganghaan sang kortal"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mga pundasyon"
+    },
+    {
+      "surface": "שער",
+      "gloss": "sang ganghaan"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "sang kortal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga mga tukod sang Mishkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "mga tukod"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "sang Mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga mga tukod sang kortal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "mga tukod"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "sang kortal"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    }
+  ],
+  "timestamp": "2026-09-21T22:20:06.733436969Z",
+  "model": "glm-5.3"
+}

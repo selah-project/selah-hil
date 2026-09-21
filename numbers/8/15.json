@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 8:15",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag pagkatapos sina magasulod ang mga Levita sa pag-alagad sang ⟨את⟩ tolda sang katipunan, kag pitlason mo ⟨אתם⟩ sila kag iyan-as mo ⟨אתם⟩ sila nga yan-aw.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "kag pagkatapos"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "magasulod"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ang mga Levita"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "sa pag-alagad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tolda sang katipunan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang katipunan"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "kag pitlason mo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sila (ang mga Levita)"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "kag iyan-as mo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sila (ang mga Levita)"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "yan-aw"
+    }
+  ],
+  "timestamp": "2026-09-21T17:03:43.001829652Z",
+  "model": "glm-5.3"
+}

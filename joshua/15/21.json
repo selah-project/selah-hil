@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 15:21",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Kag ang mga siyudad gikan sa katapusan sang tribo sang mga anak ni Yehudah, paadto sa utlanan sang Edom sa habagatan: Kavtseel, kag Eder, kag Yagur.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "nangin"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ang mga siyudad"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "gikan sa katapusan"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "sang tribo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sang mga anak"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "paadto sa"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "utlanan"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "sang Edom"
+    },
+    {
+      "surface": "בנגבה",
+      "gloss": "sa habagatan"
+    },
+    {
+      "surface": "קבצאל",
+      "gloss": "Kavtseel"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "kag Eder"
+    },
+    {
+      "surface": "ויגור",
+      "gloss": "kag Yagur"
+    }
+  ],
+  "timestamp": "2026-09-21T17:41:08.441453042Z",
+  "model": "glm-5.3"
+}

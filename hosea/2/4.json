@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 2:4",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Sumbongai ninyo ang inyo iloy, sumbongai, kay siya indi akon asawa kag ako indi iya bana; kag paganahon niya nga mahalin ang iya mga panaplas gikan sa iya dagway kag ang iya mga pangiway gikan sa tunga sang iya mga suso.",
+  "tokens": [
+    {
+      "surface": "ריבו",
+      "gloss": "Sumbongai ninyo"
+    },
+    {
+      "surface": "באמכם",
+      "gloss": "ang inyo iloy"
+    },
+    {
+      "surface": "ריבו",
+      "gloss": "sumbongai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "היא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "akon asawa"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "kag ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "iya bana"
+    },
+    {
+      "surface": "ותסר",
+      "gloss": "kag paganahon niya nga mahalin"
+    },
+    {
+      "surface": "זנוניה",
+      "gloss": "iya mga panaplas"
+    },
+    {
+      "surface": "מפניה",
+      "gloss": "gikan sa iya dagway"
+    },
+    {
+      "surface": "ונאפופיה",
+      "gloss": "kag ang iya mga pangiway"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "gikan sa tunga"
+    },
+    {
+      "surface": "שדיה",
+      "gloss": "sang iya mga suso"
+    }
+  ],
+  "timestamp": "2026-09-21T20:04:49.635125997Z",
+  "model": "glm-5.3"
+}

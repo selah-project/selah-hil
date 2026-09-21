@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Sa tanan man nga mga pulong nga igahambal, indi paghatag sang imo kasingkasing, agod indi ka makabati ⟨את⟩ sang imo sulugoon nga nagatuyaw sa imo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "igahambal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "paghatag"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "imo kasingkasing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "agod nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ka makabati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imo sulugoon"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "imo sulugoon"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "nagatuyaw sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T21:26:46.626652748Z",
+  "model": "glm-5.3"
+}

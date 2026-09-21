@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 21:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Magataas ka, Yahweh, sa imo kusog; magakanta kag magadayeg kami sang imo gahum.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Magataas ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "sa imo kusog"
+    },
+    {
+      "surface": "נשירה",
+      "gloss": "magakanta"
+    },
+    {
+      "surface": "ונזמרה",
+      "gloss": "kag magadayeg"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "sang imo gahum kami"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:54.520061577Z",
+  "model": "glm-5.3"
+}

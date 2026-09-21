@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag wala ako gusto magpatalingpada <sa> Bileam, kag nagpanalangin siya sang panalangin ⟨אתכם⟩ sa inyo, kag ginkabuhi ko ⟨אתכם⟩ kamo sa iya kamot.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "ako gusto"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "sa pagpatalingpada"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "<sa> Bileam"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "kag nagpanalangin"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "sang panalangin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "sa inyo"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "kag ginkabuhi ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "sa iya kamot"
+    }
+  ],
+  "timestamp": "2026-09-21T22:25:11.672997890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 15:16",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Isa ka Torah kag isa ka hudisyo magakabuhi para sa inyo kag para sa dayo nga nagapuyo kaubà ⟨אתכם⟩ ninyo.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "kag hudisyo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magakabuhi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para sa inyo"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "kag para sa dayo"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "nga nagapuyo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩ kaubà ninyo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:06:49.226625657Z",
+  "model": "glm-5.3"
+}

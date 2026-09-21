@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 59,
+  "translation": "Kay ang inyo mga palad nangahugawan sang dugo, kag ang inyo mga tudlo sang kalautan; ang inyo mga bibig naghambal sing bakak, kag ang inyo dila nagahuni-huni sing kahigalangan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "inyo mga palad"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "nangahugawan"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "sang dugo"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "kag ang inyo mga tudlo"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "sang kalautan"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "inyo mga bibig"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "naghambal"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sing bakak"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "inyo dila"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "sing kahigalangan"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "nagahuni-huni"
+    }
+  ],
+  "timestamp": "2026-09-21T19:12:54.387723399Z",
+  "model": "glm-5.3"
+}

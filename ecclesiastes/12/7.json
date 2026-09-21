@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag magabalik ang yab-ok sa duta nga pareho sang una, kag ang espiritu magabalik sa Elohim nga naghatag sini.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "kag magabalik"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ang yab-ok"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "nga pareho sang una"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "kag ang espiritu"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "magabalik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "naghatag sini"
+    }
+  ],
+  "timestamp": "2026-09-21T21:28:42.040729884Z",
+  "model": "glm-5.3"
+}

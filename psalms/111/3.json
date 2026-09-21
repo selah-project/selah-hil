@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 111,
+  "translation": "Himaya kag kahalayan ang iya binuhatan, kag ang iya pagkamatarung nagatindog ⟨sa⟩ dayon.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Himaya"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "kag kahalayan"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ang iya binuhatan"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "kag ang iya pagkamatarung"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "nagatindog"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "sa dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:20.128242493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag nagsiling ang mga sulugoon sang hari nga ara sa ganghaan sang hari kay Mordokay: Ngaa ikaw gapalabya sang ⟨את⟩ kasugoan sang hari?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga sulugoon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "sa ganghaan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "kay Mordokay"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "gapalabya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasugoan sang hari"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "kasugoan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    }
+  ],
+  "timestamp": "2026-09-21T21:29:48.976044292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kay amo ini ang ginsiling ni Yahweh sang Tsevaot: isa ka higayon pa, hamtong gid ini, kag ako magapaguyang ⟨את⟩ ang mga langit kag ⟨את⟩ ang duta kag ⟨את⟩ ang dagat kag ⟨את⟩ ang mamara nga duta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כה",
+      "gloss": "amo ini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang ginsiling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "sang Tsevaot"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "isa ka higayon"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "hamtong gid"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kag ako"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "magapaguyang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang dagat"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ang dagat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mamara nga duta"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "ang mamara nga duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:16:16.034664468Z",
+  "model": "glm-5.3"
+}

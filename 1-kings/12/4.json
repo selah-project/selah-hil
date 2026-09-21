@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Ang imo amay naghimo sang mabug-at ⟨את⟩ ang amon luga; apang ikaw subong, pagpahayon sang malig-on nga pagpangabudlat sang imo amay kag sang iya mabug-at nga luga nga iya ginpapat-o sa amon, kag magaalagad kami sa imo.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Ang imo amay"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "naghimo sang malig-on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang amon luga"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "ang amon luga"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "apang ikaw"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "subong"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "pagpahayon"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "sang pagpangabudlat"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "sang imo amay"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "nga malig-on"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "kag sang iya luga"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "nga mabug-at"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "iya ginpapat-o"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "kag magaalagad kami sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:33:29.475099518Z",
+  "model": "glm-5.3"
+}

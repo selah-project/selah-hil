@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 47,
+  "translation": "Sa manugdumala, sang mga anak ni Korach, isa ka mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa manugdumala"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sang mga anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ni Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "isa ka mizmor"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:30.190196066Z",
+  "model": "glm-5.3"
+}

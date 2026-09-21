@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 21:5",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag nagtindog ⟨siya⟩ sang mga halaran sa tanan nga kasundalahan sang mga langit, sa duha ka korte sang balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Kag nagtindog"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "mga halaran"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "kasundalahan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sang mga langit"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "sa duha"
+    },
+    {
+      "surface": "חצרות",
+      "gloss": "ka korte"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T18:50:28.601039940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag ⟨mga langgam⟩ ina ang indi ninyo kaonon sa ila: ang agila, kag ang Peres, kag ang Azanyahu.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "kag ina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ninyo kaonon"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "ang agila"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "kag ang Peres"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "kag ang Azanyahu"
+    }
+  ],
+  "timestamp": "2026-09-21T17:23:19.387065030Z",
+  "model": "glm-5.3"
+}

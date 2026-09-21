@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Sulod kamo sa bato kag magtago kamo sa yab-ok, tungod sa kahadlok ni Yahweh kag sa kadungganan sang iya pagkadayaw.",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "Sulod kamo"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "sa bato"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "kag magtago kamo"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "sa yab-ok"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "kahadlok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "kag sa kadungganan"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "sang iya pagkadayaw"
+    }
+  ],
+  "timestamp": "2026-09-21T18:51:08.682935549Z",
+  "model": "glm-5.3"
+}

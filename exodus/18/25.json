@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 18:25",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag nagpili si Moshe sang mga tawo nga kusgan sa tanan nga Yisrael, kag ginhatag niya ⟨את⟩ sila nga mga pangulo sa ibabaw sang katawhan — mga manugdumala sang isa ka libo, mga manugdumala sang gatos, mga manugdumala sang lima ka pulo, kag mga manugdumala sang napulo.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "kag nagpili"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "nga kusgan"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kag ginhatag"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mga pangulo"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "nga mga pangulo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sang katawhan"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mga manugdumala"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "sang isa ka libo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mga manugdumala"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sang gatos"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mga manugdumala"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "sang lima ka pulo"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "kag mga manugdumala"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sang napulo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:27:25.806518738Z",
+  "model": "glm-5.3"
+}

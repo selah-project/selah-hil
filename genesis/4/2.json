@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag nagdugang siya sa pagtatao ⟨את⟩ sang iya utod ⟨את⟩ si Hevel; kag nangin si Hevel magabanol sang mga karnero, kag si Kayin mangin mamumugon sang duta.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "kag nagdugang siya"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "sa pagtatao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang iya utod"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sang iya utod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Hevel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "si Hevel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag nangin"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "si Hevel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "magabanol"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sang mga karnero"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "kag si Kayin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "mangin"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mamumugon"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T15:55:37.497198735Z",
+  "model": "glm-5.3"
+}

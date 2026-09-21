@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Kag ginkuha ko ⟨את⟩ ang sulat sang pagpalit — ⟨את⟩ ang ginsealan, ang kasugoan kag ang mga lagda, kag ⟨את⟩ ang dayag.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "ginkuha ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang sulat sang pagpalit"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ang sulat"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "sang pagpalit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ginsealan"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "ang ginsealan"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ang kasugoan"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "kag ang mga lagda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang dayag"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "ang dayag"
+    }
+  ],
+  "timestamp": "2026-09-21T19:30:07.412755792Z",
+  "model": "glm-5.3"
+}

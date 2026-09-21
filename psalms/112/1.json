@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 112,
+  "translation": "Palamdagi kamo kay Yah; malipayon ang tawo nga nagakahadlok ⟨kay⟩ Yahweh ⟨את⟩; sa iya mga kasuguan nagakalipay gid.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Palamdagi kamo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kay Yah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "malipayon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nagakahadlok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "sa iya mga kasuguan"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "nagakalipay"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gid"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:49.341969590Z",
+  "model": "glm-5.3"
+}

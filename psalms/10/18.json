@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Sa paghukom sa ulitawo kag sa ginlutos, agud indi na magdugang ⟨ang tawo⟩ nga taga duta sa pagpakahadlok.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "Sa paghukom"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "sa ulitawo"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "kag sa ginlutos"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "magdugang"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "sa pagpakahadlok"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "taga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:16.989433892Z",
+  "model": "glm-5.3"
+}

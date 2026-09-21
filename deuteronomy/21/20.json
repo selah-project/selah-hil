@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 21:20",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "kag maghambal sila sa mga tigulang sang iya lungsod: Ini nga amon anak mapalahon kag mapasukad, wala siya mamati sa amon tingog; matakaw siya kag mainom.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "kag maghambal sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga tigulang"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "sang iya lungsod"
+    },
+    {
+      "surface": "בננו",
+      "gloss": "amon anak"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "mapalahon"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "kag mapasukad"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mamati"
+    },
+    {
+      "surface": "בקלנו",
+      "gloss": "sa amon tingog"
+    },
+    {
+      "surface": "זולל",
+      "gloss": "matakaw"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "kag mainom"
+    }
+  ],
+  "timestamp": "2026-09-21T17:26:40.620774253Z",
+  "model": "glm-5.3"
+}

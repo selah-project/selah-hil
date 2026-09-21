@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 144,
+  "translation": "Ang akon hesed kag ang akon kuta, ang akon mataas nga kinasangkaran kag ang nagaluwas sa akon, ang akon pansangga, kag sa iya ako nagdulag, ang nagapaubos sang akon katawhan sa ilalom sang akon.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "ang akon hesed"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "kag ang akon kuta"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ang akon mataas nga kinasangkaran"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "kag ang nagaluwas sa akon"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "ang akon pansangga"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "kag sa iya"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ako nagdulag"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "ang nagapaubos"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sang akon katawhan"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "sa ilalom sang akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:39.741995383Z",
+  "model": "glm-5.3"
+}

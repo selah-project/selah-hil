@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 82,
+  "translation": "Tumindog ka, O Elohim, pagahukman mo ang duta, kay ikaw magapanunungkol sa tanan nga mga pungsod.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Tumindog ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "pagahukman mo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "magapanunungkol"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "nga mga pungsod"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:46.896808850Z",
+  "model": "glm-5.3"
+}

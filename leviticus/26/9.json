@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Kag magbinalikod Ako sa inyo, kag pagapahamulon Ko kamo ⟨את⟩, kag pagadugangan Ko kamo ⟨את⟩, kag pagatindugon Ko ⟨את⟩ ang Akon kasugtanan ⟨את⟩ upod sa inyo.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "kag magbinalikod Ako"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "kag pagapahamulon Ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "kag pagadugangan Ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "kag pagatindugon Ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Akon kasugtanan"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ang Akon kasugtanan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ upod sa inyo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:55:33.181395063Z",
+  "model": "glm-5.3"
+}

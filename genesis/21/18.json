@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 21:18",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Tindog ka, iyawat ⟨את⟩ ang bata nga lalaki, kag kuptan mo sing mabaskog ⟨את⟩ ang imo kamot sa iya, kay sa dakung pungsod itbutang ko siya.",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "tindog ka"
+    },
+    {
+      "surface": "שאי",
+      "gloss": "iyawat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bata nga lalaki"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ang bata nga lalaki"
+    },
+    {
+      "surface": "והחזיקי",
+      "gloss": "kag kuptan mo sing mabaskog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imo kamot"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang imo kamot"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "sa dakung pungsod"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakung"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "itbutang ko siya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:03:30.043227140Z",
+  "model": "glm-5.3"
+}

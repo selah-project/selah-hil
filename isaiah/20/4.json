@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 20:4",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Suno sini ipangabay sang hari sang Ashur ⟨את⟩ ang mga bihag sang Mitsrayim kag ⟨את⟩ ang mga pagkabihag sang Kush — mga batan-on kag mga tigulang, nga hublas kag walay sapin, kag nga ginpakita ang ila pigu — ang kaulawan sang Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Suno sini"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "ipangabay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sang Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga bihag sang Mitsrayim"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "ang mga bihag"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga pagkabihag sang Kush"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "ang mga pagkabihag"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "sang Kush"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "mga batan-on"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "kag mga tigulang"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "hublas"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "kag walay sapin"
+    },
+    {
+      "surface": "וחשופי",
+      "gloss": "kag ginpakita"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ang ila pigu"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ang kaulawan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T18:58:45.607827254Z",
+  "model": "glm-5.3"
+}

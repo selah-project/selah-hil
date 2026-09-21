@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag sigurado, ⟨את⟩ ang inyo dugo para sa inyo mga kalag pagapangitaon Ko; sa kamot sang tagsa ka hayop pagapangitaon Ko sini, kag sa kamot sang tawo — sa kamot sang tagsa ka tawo, sa iya utod — pagapangitaon Ko ⟨את⟩ ang kalag sang tawo.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "Kag sigurado"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang inyo dugo"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "ang inyo dugo"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "para sa inyo mga kalag"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "pagapangitaon Ko"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tagsa"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ka hayop"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "pagapangitaon Ko sini"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "kag sa kamot"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sang tagsa ka tawo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iya utod"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "pagapangitaon Ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kalag"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kalag"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sang tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T15:57:08.860490888Z",
+  "model": "glm-5.3"
+}

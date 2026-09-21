@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Kag ang mga Mitsrayim nagalubong ⟨את⟩ sa mga ginslat ni Yahweh sa ila, ang tanan nga panganay; kag sa ila mga dios ginhimo ni Yahweh sing mga silot.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Kag ang mga Mitsrayim"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "nagalubong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga ginslat ni Yahweh sa ila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa mga"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ginslat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "nga panganay"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "kag sa ila mga dios"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "sing mga silot"
+    }
+  ],
+  "timestamp": "2026-09-21T17:15:58.169263835Z",
+  "model": "glm-5.3"
+}

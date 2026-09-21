@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag ang tagsa ka ulipon sang tawo, palit sang pilak, kag tunuli mo siya ⟨את⟩ — dayon magakaon siya sini.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tagsa"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ka ulipon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "palit"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sang pilak"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "kag tunuli mo siya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "אז",
+      "gloss": "dayon"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "magakaon siya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sini"
+    }
+  ],
+  "timestamp": "2026-09-21T16:25:16.078833708Z",
+  "model": "glm-5.3"
+}

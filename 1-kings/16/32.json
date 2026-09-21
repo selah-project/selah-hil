@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 16:32",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag gintindog niya ang isa ka halaran para sa Baal sa balay sang Baal nga iya ginpatindog sa Shomron.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kag gintindog niya"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ang isa ka halaran"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "para sa Baal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "sang Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨nga⟩"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "iya ginpatindog"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "sa Shomron"
+    }
+  ],
+  "timestamp": "2026-09-21T18:35:03.228302963Z",
+  "model": "glm-5.3"
+}

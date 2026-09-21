@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "kag sa ikapito nga tuig magangin ⟨ang duta⟩ isa ka Sabbath sang bug-os nga pagpahuway, isa ka Sabbath para kay Yahweh; ang imo uma indi nimo pagatanoman, kag ang imo kaparasan indi nimo pagaputulan.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "kag sa tuig"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "nga ikapito"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabbath"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "sang bug-os nga pagpahuway"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magangin"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "isa ka Sabbath"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para kay Yahweh"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "imo nga uma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "nimo pagatanoman"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "kag imo nga kaparasan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "nimo pagaputulan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:21:43.182294480Z",
+  "model": "glm-5.3"
+}

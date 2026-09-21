@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 19:30",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag nagsiling ang hari sa iya: Ngaa magahambal ka pa sang imo mga butang? Nagsiling ako: ikaw kag si Tsiva magbahin kamo ⟨את⟩ sang uma.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "magahambal ka"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "sang imo mga butang"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nagsiling ako"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "וציבא",
+      "gloss": "kag si Tsiva"
+    },
+    {
+      "surface": "תחלקו",
+      "gloss": "magbahin kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang uma"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sang uma"
+    }
+  ],
+  "timestamp": "2026-09-21T18:22:41.282815474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 74,
+  "translation": "Kag ⟨ang tanan⟩ nga tinigbas sini ginbali nila himpit nga tanan, sang palakol kag lagaring pamukol.",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan nga tinigbas sini"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "nga tinigbas sini"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "himpit nga tanan"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "sang palakol"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "kag lagaring pamukol"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "ginbali nila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:11.155238983Z",
+  "model": "glm-5.3"
+}

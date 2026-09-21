@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Mga kopyor sang bulawan, tatlo ka pulo; mga kopyor sang pilak sang ikaduha ⟨klase⟩, apat ka gatos kag napulo; kag iban pa nga mga kagamitan, isa ka libo.",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "mga kopyor"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sang bulawan"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tatlo ka pulo"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "mga kopyor"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sang pilak"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "sang ikaduha ⟨klase⟩"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "apat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "kag napulo"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "mga kagamitan"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "iban pa"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "isa ka libo"
+    }
+  ],
+  "timestamp": "2026-09-21T21:38:47.411837868Z",
+  "model": "glm-5.3"
+}

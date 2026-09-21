@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 52:9",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 52,
+  "translation": "Kag gindakop nila ⟨את⟩ ang hari, kag gindala nila siya ⟨אתו⟩ sa hari sang Bavel, sa Rivlah sa duta sang Chamath, kag naghambal siya ⟨⟨את⟩ sa iya⟩ sang mga hukom.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "gindakop nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "gindala nila siya pa-ibabaw"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩ siya",
+      "marks": "siya (ang hari)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Rivlah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamath"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "kag naghambal"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sa iya"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "mga hukom"
+    }
+  ],
+  "timestamp": "2026-09-21T19:39:31.682915714Z",
+  "model": "glm-5.3"
+}

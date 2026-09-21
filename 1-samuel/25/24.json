@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 25:24",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag nagpahiya siya sa iya tiil kag nagsiling: Sa akon, ginoo ko, sa akon ang sala; kag palihog, maghambal ang imo sulugbahanon sa imo mga dunggan, kag pamat-i ⟨את⟩ ang mga pulong sang imo sulugbahanon.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "kag nagpahiya siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "iya tiil"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ginoo ko"
+    },
+    {
+      "surface": "העון",
+      "gloss": "ang sala"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "maghambal"
+    },
+    {
+      "surface": "נא",
+      "gloss": "palihog"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ang imo sulugbahanon"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "sa imo mga dunggan"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "kag pamat-i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pulong"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ang mga pulong"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "sang imo sulugbahanon"
+    }
+  ],
+  "timestamp": "2026-09-21T18:08:30.197604528Z",
+  "model": "glm-5.3"
+}

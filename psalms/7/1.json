@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Shiggaion ni David, nga ginkanta kay Yahweh, parte sa mga pulong ni Kush, anak ni Benjamin.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Shiggaion"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ginkanta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "parte sa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "ni Benjamin"
+    }
+  ],
+  "timestamp": "2026-09-21T20:23:20.734882997Z",
+  "model": "glm-5.3"
+}

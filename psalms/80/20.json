@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 80,
+  "translation": "Yahweh, Elohim sang Tsevaot, ibalik kami; pasinduga ang imo dagway kag maluwas kami.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "ibalik kami"
+    },
+    {
+      "surface": "האר",
+      "gloss": "pasinduga"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang imo dagway"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "kag maluwas kami"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:16.020143239Z",
+  "model": "glm-5.3"
+}

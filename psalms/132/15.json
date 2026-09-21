@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 132,
+  "translation": "Ang iya pagkaon pagpanalanginan ko sing abunda; ang iya mga imol pabusugin ko sang tinapay.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "iya pagkaon"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "pagpanalanginan"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "pagpanalanginan ko gid"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "iya mga imol"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "pabusugin ko"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    }
+  ],
+  "timestamp": "2026-09-21T22:40:45.062033164Z",
+  "model": "glm-5.3"
+}

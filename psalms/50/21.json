@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 50,
+  "translation": "Ini imo ginhimo kag nagtahimik ako; ginpareho mo sa imo ang ako, nga pareho ako sa imo; pagbadbaran taka kag isunod ko ⟨ini⟩ sa imo mga mata.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "imo ginhimo"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "kag nagtahimik ako"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "ginpareho mo"
+    },
+    {
+      "surface": "היות",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ako"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "pareho sa imo"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "pagbadbaran taka"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "kag isunod ko"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "sa imo mga mata"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:59.319163521Z",
+  "model": "glm-5.3"
+}

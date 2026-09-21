@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 11:3",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag ginsugo ni David kag ginpangita niya parte sa babayi; kag nagsiling ⟨siya⟩: Indi bala ini si Bat-Sheva, anak nga babayi ni Eliam, asawa ni Uriya nga Hetita?",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kag ginsugo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "kag ginpangita"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "parte sa babayi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "indi bala"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בת",
+      "gloss": "si Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babayi"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "ni Eliam"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ni Uriya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "nga Hetita"
+    }
+  ],
+  "timestamp": "2026-09-21T18:18:47.270577391Z",
+  "model": "glm-5.3"
+}

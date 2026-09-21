@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 103,
+  "ref": "psalms 119:103",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Sa ano ka tam-is sa akon ngipin ang imo mga pulong — labaw pa sa dugos sa akon baba!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Sa ano ka"
+    },
+    {
+      "surface": "נמלצו",
+      "gloss": "tam-is"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "sa akon ngipin"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ang imo mga pulong"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "sa dugos"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sa akon baba"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:33.912212332Z",
+  "model": "glm-5.3"
+}

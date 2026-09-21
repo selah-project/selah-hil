@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Sa dayon ipatindog ko ang imo kaliwat, kag patinduron ko ang imo trono sa henerasyon kag henerasyon. Selah.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dayon"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "ipatindog ko"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "imo kaliwat"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "kag patinduron ko"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "sa henerasyon"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "kag henerasyon"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "imo trono"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:25.697907321Z",
+  "model": "glm-5.3"
+}

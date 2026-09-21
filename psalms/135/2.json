@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 135,
+  "translation": "⟨Kamo⟩ nga nagatindog sa balay ni Yahweh, sa mga korte sang balay sang aton Elohim.",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "nagatindog"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "sa mga korte"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "sang aton Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:59.450502542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kag nagbalik si Ravshake, kag nakit-an niya ⟨את⟩ ang hari sang Ashur nga nagapakigaway sa Livnah, kay nadung-an niya nga nagbiyahe siya gikan sa Lakhish.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Kag nagbalik"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "shake"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "kag nakit-an niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hari sang Ashur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sang Ashur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "nagapakigaway"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livnah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nadung-an niya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "nagbiyahe"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "gikan sa Lakhish"
+    }
+  ],
+  "timestamp": "2026-09-21T19:05:09.596051767Z",
+  "model": "glm-5.3"
+}

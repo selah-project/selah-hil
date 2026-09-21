@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 50:19",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 50,
+  "translation": "Ang imo baba ginpabutyag mo sa kadaotan, kag ang imo dila ginasapot-sapot sing daya.",
+  "tokens": [
+    {
+      "surface": "פיך",
+      "gloss": "ang imo baba"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "ginpabutyag mo"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "sa kadaotan"
+    },
+    {
+      "surface": "ולשונך",
+      "gloss": "kag ang imo dila"
+    },
+    {
+      "surface": "תצמיד",
+      "gloss": "ginasapot-sapot"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "sing daya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:18.399594580Z",
+  "model": "glm-5.3"
+}

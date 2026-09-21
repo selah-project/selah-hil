@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Sang katapusan sang tanan nga <ang> pulong nagakabati ⟨⟨na⟩⟩ kagahapon: magatahod ka ⟨kay⟩ ⟨את⟩ Elohim kag magatipon sa ⟨את⟩ iya mga kasuguan, kay ini amo ang kabug-osan sang tawo.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "sang katapusan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sang pulong"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "nagakabati kagahapon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨kay⟩ Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "magatahod ka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga kasuguan"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "iya mga kasuguan"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "magatipon sa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabug-osan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sang tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T21:28:03.843821311Z",
+  "model": "glm-5.3"
+}

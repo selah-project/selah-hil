@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Si Yahweh nagkalot sang tambag sang mga pungsod, ginpierdi niya ang mga hunahuna sang mga banwa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "nagkalot"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "sang tambag"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "sang mga pungsod"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "ginpierdi niya"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "ang mga hunahuna"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "sang mga banwa"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:00.584149246Z",
+  "model": "glm-5.3"
+}

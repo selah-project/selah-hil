@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag gindawat sang mga Yehudim ⟨את⟩ ang ginsuguran nila himoon, kag ⟨את⟩ ang ginsulat ni Mordekhai sa ila,",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "kag gindawat"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "sang mga Yehudim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ginsuguran nila himoon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "ginsuguran nila"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "himoon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang ginsulat ni Mordekhai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "ginsulat"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ni Mordekhai"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T21:31:21.928141865Z",
+  "model": "glm-5.3"
+}

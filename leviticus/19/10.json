@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag ang imo nga ubasan indi nimo pag-anihon sing bug-os, kag ang nalaglag nga bunga sang imo nga ubasan indi nimo pagkuhaon; sa kabudlon kag sa dayo pagabilinan mo sila ⟨אתם⟩; ako si Yahweh, inyo nga Elohim.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "kag ang imo nga ubasan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "pag-anihon sing bug-os"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "kag ang nalaglag nga bunga"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "sang imo nga ubasan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "pagkuhaon"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "sa kabudlon"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "kag sa dayo"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "pagabilinan mo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sila (ang kabudlon kag ang dayo)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "inyo nga Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:50:07.020922234Z",
+  "model": "glm-5.3"
+}

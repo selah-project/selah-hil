@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Si Elazar natawo-an ⟨את⟩ si Pinechas; si Pinechas natawo-an ⟨את⟩ si Avishua.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "si Elazar"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Pinechas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "si Pinechas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "si Pinechas"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "natawo-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avishua"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "si Avishua"
+    }
+  ],
+  "timestamp": "2026-09-21T21:50:38.799325848Z",
+  "model": "glm-5.3"
+}

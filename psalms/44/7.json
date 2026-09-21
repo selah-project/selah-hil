@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Kay indi sa akon pana akon ginasalig, kag ang akon espada indi makaluwas sa akon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "sa akon pana"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "akon ginasalig"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "kag ang akon espada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "makaluwas sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:04.085239252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Indi sila magpuyo sa duta ni Yahweh; kag magabalik si Efrayim sa Mitsrayim, kag sa Ashur sang mga butang nga di-matinlo magakaon sila.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "magpuyo sila"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "kag magabalik"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "kag sa Ashur"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "mga butang nga di-matinlo"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "magakaon sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:06:52.215394817Z",
+  "model": "glm-5.3"
+}

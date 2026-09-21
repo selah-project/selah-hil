@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Kag naghambal si Yahweh: Yari, isa ka duog ⟨sa akon⟩, kag magatindog ka sa ⟨ang⟩ bato.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag naghambal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Yari"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "isa ka duog"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ sa akon",
+      "marks": "isa ka duog — ang duog nga duol sa akon"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "kag magatindog ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "⟨ang⟩ bato"
+    }
+  ],
+  "timestamp": "2026-09-21T16:35:47.872625666Z",
+  "model": "glm-5.3"
+}

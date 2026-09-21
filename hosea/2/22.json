@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag pangasaw-on ko ikaw sa akon sa pagtuo, kag makakilala mo ⟨את⟩ si Yahweh.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "kag pangasaw-on ko ikaw"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "sa pagtuo"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "kag makakilala mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:03:52.879577385Z",
+  "model": "glm-5.3"
+}

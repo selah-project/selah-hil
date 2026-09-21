@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ang mga anak nga lalaki sang Yisrael nagpuyo sa tunga sang Kenaananon, sang Hetanon, kag sang Emoronon, kag sang Perizonon, kag sang Hiwvonon, kag sang Yebusonon.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "kag ang mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "nagpuyo"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "sang Kenaananon"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "sang Hetanon"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "kag sang Emoronon"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "kag sang Perizonon"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "kag sang Hiwvonon"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "kag sang Yebusonon"
+    }
+  ],
+  "timestamp": "2026-09-21T17:46:34.069821247Z",
+  "model": "glm-5.3"
+}

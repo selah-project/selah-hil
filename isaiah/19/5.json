@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag magubà ang tubig sa dagat, kag ang suba magalapà kag magatuyo.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "magubà"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "kag ang suba"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "magalapà"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "kag magatuyo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:58:32.614509477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag ginpauli ni Paro ⟨את⟩ si Moshe kag ⟨את⟩ si Aharon sa iya, kag nagsiling siya sa ila, Lakat kamo, mag-alagad kamo ⟨את⟩ kang Yahweh, ang inyo Elohim — sin-o kag sin-o ang magalakat?",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "kag ginpauli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "lakat kamo"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mag-alagad kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ang inyo Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "kag sin-o"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "ang magalakat"
+    }
+  ],
+  "timestamp": "2026-09-21T22:19:31.805696289Z",
+  "model": "glm-5.3"
+}

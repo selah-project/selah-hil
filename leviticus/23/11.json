@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag ipalayo niya ang ⟨את⟩ omer sa atubangan ni Yahweh, agod madawat ⟨para⟩ sa inyo; sa kaadlawan sang Sabbath ipalayo sang saserdote ini.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "Kag ipalayo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omer"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "agod madawat ⟨para⟩ sa inyo"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "sa kaadlawan"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sang Sabbath"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "ipalayo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang saserdote"
+    }
+  ],
+  "timestamp": "2026-09-21T16:53:05.432785697Z",
+  "model": "glm-5.3"
+}

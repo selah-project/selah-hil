@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kag ginpakamaayo ni David si ⟨את⟩ Yahweh sa atubangan sang tanan nga katilingban, kag nagsiling si David: Ginapakamaayo ⟨ikaw⟩, Yahweh, Elohim sang Yisrael, ang amay namon, gikan sang kahangturan kag tubtob sa kahangturan.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "kag ginpakamaayo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "katilingban"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Ginapakamaayo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ikaw⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim sang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ang amay namon"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "gikan sang kahangturan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag tubtob sa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kahangturan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:59:41.103512825Z",
+  "model": "glm-5.3"
+}

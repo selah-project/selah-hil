@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 44:14",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Kag ibutang ko sila ⟨את⟩ nga mga bantay sang pagbantay sang balay, sa tanan nga pagpangabudlat sini kag sa tanan nga himoon sa sini.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "kag ibutang ko"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (nga mga bantay)"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "nga mga bantay"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "sang pagbantay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "nga pagpangabudlat"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "kag sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "himoon"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa sini"
+    }
+  ],
+  "timestamp": "2026-09-21T20:02:39.523736978Z",
+  "model": "glm-5.3"
+}

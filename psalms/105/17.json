@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Isa ka tawo ang ginsugo sa ila atubangan — si Yosef, ginbaligya ⟨isip⟩ ulipon.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "sa ila atubangan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "isa ka tawo"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "isip ulipon"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "ginbaligya"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:47.220155689Z",
+  "model": "glm-5.3"
+}

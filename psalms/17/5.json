@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Gintagan ang akon mga lakat sa imo mga agianan, indi ⟨maga⟩gad ang akon mga tikud.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "Gintagan"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ang akon mga lakat"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "sa imo mga agianan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "⟨maga⟩gad"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ang akon mga tikud"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:16.166493116Z",
+  "model": "glm-5.3"
+}

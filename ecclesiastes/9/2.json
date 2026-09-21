@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 9:2",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Ang tanan pareho sa tanan: isa ka hitabo sa matarong kag sa dautan, sa maayo kag sa malinis kag sa mahugaw, sa naghahalad kag sa wala nagahalad; pareho sa maayo, pareho sa makasasala; ang nanumpa pareho sa nagakahadlok sa panumpa.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "pareho"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "hitabo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa ka"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "sa matarong"
+    },
+    {
+      "surface": "ולרשע",
+      "gloss": "kag sa dautan"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "sa maayo"
+    },
+    {
+      "surface": "ולטהור",
+      "gloss": "kag sa malinis"
+    },
+    {
+      "surface": "ולטמא",
+      "gloss": "kag sa mahugaw"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "kag sa naghahalad"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "wala"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "nagahalad"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "pareho sa maayo"
+    },
+    {
+      "surface": "כחטא",
+      "gloss": "pareho sa makasasala"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "ang nanumpa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "pareho"
+    },
+    {
+      "surface": "שבועה",
+      "gloss": "sa panumpa"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nagakahadlok"
+    }
+  ],
+  "timestamp": "2026-09-21T21:28:15.520287802Z",
+  "model": "glm-5.3"
+}

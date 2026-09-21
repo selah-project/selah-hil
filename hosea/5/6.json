@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Sang ila mga karnero kag sang ila mga baka magakadto sila sa pagpangita ⟨את⟩ kay Yahweh, apang indi nila sia makita; naglaktat na sia sa ila.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "sang ila mga karnero"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "kag sang ila mga baka"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "magakadto sila"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "sa pagpangita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apang indi"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "sia makita"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "naglaktat na"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:04:36.810820708Z",
+  "model": "glm-5.3"
+}

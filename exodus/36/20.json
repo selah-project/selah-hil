@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Kag gintuga niya ⟨את⟩ ang mga tabla para sa tabernakulo, kahoy sang shittim, nagatindog.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kag gintuga niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tabla"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ang mga tabla"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "para sa tabernakulo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sang shittim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "nagatindog"
+    }
+  ],
+  "timestamp": "2026-09-21T16:39:47.251110862Z",
+  "model": "glm-5.3"
+}

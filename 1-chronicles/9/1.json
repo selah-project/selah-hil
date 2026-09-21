@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 9:1",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag ang tanan nga Yisrael gintalaan sa ila kapungkoy, kag yadto sila nakasulat sa libro sang mga hari sang Yisrael kag Yehudah; gintapo sila sa Bavel tungod sang ila pagpanulo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "gintalaan sa kapungkoy"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "kag yadto sila"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "nakasulat"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "libro"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "sang mga hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "kag Yehudah"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "gintapo"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "sa Bavel"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "tungod sang ila pagpanulo"
+    }
+  ],
+  "timestamp": "2026-09-21T21:53:46.677245024Z",
+  "model": "glm-5.3"
+}

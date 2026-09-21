@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 26:21",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Kag kon maglakat kamo upod sa akon sa keri, kag indi kamo maggusto sa pagpamati sa akon, magdugang ako sa inyo sang hampak sing pito ka beses, suno sa inyo mga sala.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "maglakat kamo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "upod sa akon"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "sa keri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תאבו",
+      "gloss": "kamo maggusto"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "sa pagpamati"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "magdugang ako"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "sang hampak"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito ka beses"
+    },
+    {
+      "surface": "כחטאתיכם",
+      "gloss": "suno sa inyo mga sala"
+    }
+  ],
+  "timestamp": "2026-09-21T16:56:44.615825956Z",
+  "model": "glm-5.3"
+}

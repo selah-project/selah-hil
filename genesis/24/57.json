@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag nagsiling sila: Tawga ⟨ang⟩ dalaga, kag pangutan-a ⟨את⟩ ang iya baba.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "kag nagsiling sila"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "tawga"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "⟨ang⟩ dalaga"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "kag pangutan-a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya baba"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ang iya baba"
+    }
+  ],
+  "timestamp": "2026-09-21T16:04:45.384671257Z",
+  "model": "glm-5.3"
+}

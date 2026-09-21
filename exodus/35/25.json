@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Kag tanan nga babayi nga maalam sang kasingkasing nagsulod sa iya mga kamot, kag nagdala sila sang sinulod: ⟨את⟩ ang tekhelet kag ⟨את⟩ ang argaman, ⟨את⟩ ang tolaat sang hashani kag ⟨את⟩ ang shesh.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "kag tanan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "nga babayi"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "maalam"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sang kasingkasing"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "sa iya mga kamot"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "nagsulod"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "kag nagdala sila"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "sang sinulod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tekhelet"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "ang tekhelet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang argaman"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "ang argaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tolaat sang hashani"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ang tolaat"
+    },
+    {
+      "surface": "השני",
+      "gloss": "sang hashani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang shesh"
+    },
+    {
+      "surface": "השש",
+      "gloss": "ang shesh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:38:08.168975042Z",
+  "model": "glm-5.3"
+}

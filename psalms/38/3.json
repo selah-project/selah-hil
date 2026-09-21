@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 38,
+  "translation": "Kay ang imo mga palaso naglusot sa akon, kag ang imo kamot nagbug-at sa akon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "ang imo mga palaso"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "naglusot"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "kag nagbug-at"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang imo kamot"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:23.632193730Z",
+  "model": "glm-5.3"
+}

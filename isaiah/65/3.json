@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 65,
+  "translation": "Ang pungsod nga nagapakasuko sang ⟨את⟩ ako sa akon atubang sing padayon, nagahalad sa mga tanaman kag nagapasingud sa ibabaw sang mga laryo.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "Ang pungsod"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "nga nagapakasuko"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "ako"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "akon atubang"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sing padayon"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "nagahalad"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "sa mga tanaman"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "kag nagapasingud"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "sang mga laryo"
+    }
+  ],
+  "timestamp": "2026-09-21T19:14:42.255319651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Hoyo ⟨sa⟩ ⟨mga⟩ nagahimo sang kasuguan sang kalapasan, kag ⟨sa⟩ ⟨mga⟩ nagsulat — nagsulat sila sang kabalaka!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hoyo"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "sa mga nagahimo sang kasuguan"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "kasuguan"
+    },
+    {
+      "surface": "און",
+      "gloss": "kalapasan"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "kag sa mga nagsulat"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kabalaka"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "nagsulat sila"
+    }
+  ],
+  "timestamp": "2026-09-21T18:56:19.462468968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Kag ginbalita sa Shaul nga nagpalagyo si David sa Gat, kag wala na ⟨siya⟩ magdugang pa sa pagpangita sa iya.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "kag ginbalita"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "sa Shaul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "nagpalagyo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "גת",
+      "gloss": "sa Gat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala na"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "magdugang"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "sa pagpangita sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T18:11:25.375585652Z",
+  "model": "glm-5.3"
+}

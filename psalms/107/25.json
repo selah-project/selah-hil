@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 107,
+  "translation": "Kag nagsiling siya, kag ginpatindog niya ang espiritu sang bagyo, kag gintukmol hini ang iya mga balud.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling siya"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "kag ginpatindog niya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ang espiritu"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "sang bagyo"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "kag gintukmol"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "ang iya mga balud"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:14.958032124Z",
+  "model": "glm-5.3"
+}

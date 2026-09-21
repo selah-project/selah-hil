@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag nagsiling si Yahweh kay Moshe: Lakat sa kay Paro, kay ako ang nagpabug-at ⟨את⟩ sang iya kasingkasing kag ⟨את⟩ sang kasingkasing sang iya mga sulugoon, agod nga maggunit ako sang akon mga tanda nga ini sa tunga sang iya mga tawo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Lakat sa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa kay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "ang nagpabug-at"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang iya kasingkasing"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sang iya kasingkasing"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang kasingkasing sang iya mga sulugoon"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sang kasingkasing"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sang iya mga sulugoon"
+    },
+    {
+      "surface": "למען",
+      "gloss": "agod nga"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "maggunit ako"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "sang akon mga tanda"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "sa tunga sang iya mga tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T22:19:09.852941701Z",
+  "model": "glm-5.3"
+}

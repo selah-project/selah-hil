@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ginhimo ni Elohim ⟨את⟩ ang duha ka dako nga mga lamparanahan — ⟨את⟩ ang dako nga lamparanahan sa pagkaduminaha sang adlaw, kag ⟨את⟩ ang gamay nga lamparanahan sa pagkaduminaha sang gab-i — kag ⟨את⟩ ang mga bitoon.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kag ginhimo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duha ka dako nga mga lamparanahan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ang duha ka"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "nga mga lamparanahan"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "dako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dako nga lamparanahan"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ang lamparanahan"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ang dako nga"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "sa pagkaduminaha"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sang adlaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang gamay nga lamparanahan"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ang lamparanahan"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ang gamay nga"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "sa pagkaduminaha"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "sang gab-i"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga bitoon"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "ang mga bitoon"
+    }
+  ],
+  "timestamp": "2026-09-21T15:55:02.248229023Z",
+  "model": "glm-5.3"
+}

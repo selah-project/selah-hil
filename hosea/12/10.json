@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag ako ⟨amo⟩ si Yahweh nga Elohim mo tikang sa duta sang Mitsrayim; gani pagapapuyoon ko ikaw liwat sa mga tolda, subong sa mga adlaw sang takna nga tinudya.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Kag ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim mo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "tikang sa duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gani"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "pagapapuyoon ko ikaw"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "sa mga tolda"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "subong sa mga adlaw"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang takna nga tinudya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:06:13.470220450Z",
+  "model": "glm-5.3"
+}

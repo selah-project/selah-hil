@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 62,
+  "translation": "Kay ang mga nagatipon sini magakaon sini kag magadayaw ⟨את⟩ Yahweh; kag ang iya mga nagapanipon mainom sini sa mga nataranan sang akon kabalaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "ang iya mga nagatipon"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "magakaon sini"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "kag magadayaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "kag ang iya mga nagapanipon"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "mainom sini"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "sa mga nataranan"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "sang akon kabalaan"
+    }
+  ],
+  "timestamp": "2026-09-21T19:12:22.707085831Z",
+  "model": "glm-5.3"
+}

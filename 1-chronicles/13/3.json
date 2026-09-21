@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "kag magdala kita pagbalik ⟨את⟩ ang Aron sang aton Elohim ngari sa aton, kay wala naton pagpangita ini sa mga adlaw ni Shaul.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "kag magdala kita pagbalik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Aron"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "sang aton Elohim"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ngari sa aton"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "pagonpangita ini"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "sa mga adlaw"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    }
+  ],
+  "timestamp": "2026-09-21T22:44:21.470124602Z",
+  "model": "glm-5.3"
+}

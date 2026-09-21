@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 49,
+  "translation": "Wala sing utod nga magatubos sang utod; wala siya magahatag kay Elohim sang iya tubos",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "utod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "sing magatubos"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "magatubos"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "magahatag"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kay Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "sang iya tubos"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:40.299818166Z",
+  "model": "glm-5.3"
+}

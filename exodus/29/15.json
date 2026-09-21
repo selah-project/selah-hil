@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kag ⟨את⟩ ang isa ka karnero kuhaon mo, kag isandig ni Aharon kag sang iya mga anak ang ila mga kamot sa ulo sang karnero.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "isa ka karnero"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "karnero"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "kuhaon mo"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "kag isandig"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "kag sang iya mga anak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ila mga kamot"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ila mga kamot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "sang karnero"
+    }
+  ],
+  "timestamp": "2026-09-21T16:34:00.218271659Z",
+  "model": "glm-5.3"
+}

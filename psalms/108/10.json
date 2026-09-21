@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 108,
+  "translation": "Ang Moab amo ang kalaha sang akon paghugas; sa Edom itapok ko ang akon sapatos; sa Peleshet magasinggit ako ⟨sa pagdaug⟩.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "ang Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "amo ang kalaha"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "sang akon paghugas"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "itapok ko"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "ang akon sapatos"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "magasinggit ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:35.553333034Z",
+  "model": "glm-5.3"
+}

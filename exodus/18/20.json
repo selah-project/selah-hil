@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag ipaandam mo ⟨אתהם⟩ sa ila: ⟨את⟩ ang mga lagda kag ⟨את⟩ ang mga tulun-an, kag ipaathag mo sa ila ⟨את⟩ ang dalan nga magalakat sila didto kag ⟨את⟩ ang buluhaton nga himoon nila.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "kag ipaandam mo"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨אתהם⟩",
+      "marks": "sa ila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga lagda"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ang mga lagda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga tulun-an"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "ang mga tulun-an"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "kag ipaathag mo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dalan"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ang dalan"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "magalakat sila"
+    },
+    {
+      "surface": "בה",
+      "gloss": "didto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang buluhaton"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ang buluhaton"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "himoon nila"
+    }
+  ],
+  "timestamp": "2026-09-21T16:28:54.827636664Z",
+  "model": "glm-5.3"
+}

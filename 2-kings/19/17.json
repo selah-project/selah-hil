@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Matuod gid, Yahweh, ginlaglag sang mga hari sang Ashur ⟨את⟩ ang mga pungsod kag ⟨את⟩ ang ila duta.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Matuod gid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "ginlaglag"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pungsod"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mga pungsod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang ila duta"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ila duta"
+    }
+  ],
+  "timestamp": "2026-09-21T18:49:37.195969453Z",
+  "model": "glm-5.3"
+}

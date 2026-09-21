@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Kag kankaon ninyo ang daan nga tipon nga natingala na, kag ang daan pagaguwaon ninyo tungod sang bag-o.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "kag kankaon ninyo"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "ang daan"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "nga natingala na"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "kag ang daan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tungod sang"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bag-o"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "pagaguwaon ninyo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:55:33.181811700Z",
+  "model": "glm-5.3"
+}

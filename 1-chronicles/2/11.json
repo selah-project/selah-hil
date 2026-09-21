@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag si Nakhshon natawo ⟨את⟩ kay Salma, kag si Salma natawo ⟨את⟩ kay Boaz.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "kag si Nakhshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Salma"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "kay Salma"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "kag si Salma"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Boaz"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "kay Boaz"
+    }
+  ],
+  "timestamp": "2026-09-21T21:49:19.036142850Z",
+  "model": "glm-5.3"
+}

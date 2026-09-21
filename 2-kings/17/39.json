@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-kings 17:39",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kundi ⟨את⟩ si Yahweh, ang inyo Elohim, kamo magahadlok; kag siya ang magaluwas sa ⟨את⟩ inyo gikan sa kamot sang tanan ninyo mga kaaway.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kundi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kundi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ang inyo Elohim"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "magahadlok kamo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kag siya"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "magaluwas"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gikan sa kamot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ninyo mga kaaway"
+    }
+  ],
+  "timestamp": "2026-09-21T18:46:43.107136266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 103,
+  "translation": "Kay ang hangin magalabay sa iya kag wala na siya; kag ang iya duog indi na siya makilala ⟨pa⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ang hangin"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "magalabay"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "kag wala na siya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "makilala siya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ang iya duog"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:57.798271419Z",
+  "model": "glm-5.3"
+}

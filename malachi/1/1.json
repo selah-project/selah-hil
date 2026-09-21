@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Ang dalahon sang pulong ni Yahweh sa Yisrael, paagi sa kamot ni Malakhi.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "dalahon"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "paagi sa kamot"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malakhi"
+    }
+  ],
+  "timestamp": "2026-09-21T22:37:15.052569012Z",
+  "model": "glm-5.3"
+}

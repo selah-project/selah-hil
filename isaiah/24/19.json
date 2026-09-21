@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 24:19",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Pagkauba, naguba nga naguba ang duta; pagkalaglag, nagkalaglag ang duta; pagkakurog, nagkurog-kurog ang duta.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "Pagkauba"
+    },
+    {
+      "surface": "התרעעה",
+      "gloss": "naguba nga naguba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "פור",
+      "gloss": "pagkalaglag"
+    },
+    {
+      "surface": "התפוררה",
+      "gloss": "nagkalaglag"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "pagkakurog"
+    },
+    {
+      "surface": "התמוטטה",
+      "gloss": "nagkurog-kurog"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T19:00:12.858807941Z",
+  "model": "glm-5.3"
+}

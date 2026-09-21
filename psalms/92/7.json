@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 92,
+  "translation": "Ang tawo nga wala sing isip wala nakasayod, kag ang ulol wala nakasabot sang ⟨את⟩ ina.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "בער",
+      "gloss": "nga wala sing isip"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakasayod"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "kag ang ulol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "nakasabot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ina"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ina"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:07.934937228Z",
+  "model": "glm-5.3"
+}

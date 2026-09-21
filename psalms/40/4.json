@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag ginpbutang niya sa akon baba isa ka bag-o nga kanta, isa ka pagdayaw sa aton Elohim; madamo ang makakita kag magakalag kag magasalig kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "kag ginpbutang niya"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "sa akon baba"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "isa ka kanta"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bag-o"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "isa ka pagdayaw"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "sa aton Elohim"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "makakita"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "madamo"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "kag magakalag"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "kag magasalig"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:44.973542725Z",
+  "model": "glm-5.3"
+}

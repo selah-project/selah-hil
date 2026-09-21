@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 90,
+  "translation": "Kay sa imo kaakig ⟨kami⟩ gintingob, kag sa imo kalagot nagkurog ⟨kami⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "gintingob kami"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "sa imo kaakig"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "kag sa imo kalagot"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "nagkurog kami"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:55.429904272Z",
+  "model": "glm-5.3"
+}

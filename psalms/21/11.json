@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Ang ila bunga madula-on mo sa duta, kag ang ila binhi sa mga anak sang tawo.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "Ang ila bunga"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "madula-on mo"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "kag ang ila binhi"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:00.510779975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 26:18",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Kag himuon mo ⟨את⟩ ang mga tablong para sa Mishkan: duha ka pulo ka tablong sa bahin sang habagat, paadto sa habagat.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "kag himuon mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tablong"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ang mga tablong"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "para sa Mishkan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duha ka pulo ka"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "tablong"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "sa bahin sang"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "habagat"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "paadto sa habagat"
+    }
+  ],
+  "timestamp": "2026-09-21T16:32:54.027560456Z",
+  "model": "glm-5.3"
+}

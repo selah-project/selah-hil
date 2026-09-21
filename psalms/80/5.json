@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 80,
+  "translation": "Yahweh, Elohim Tsevaot, hangtod san-o? Nagapaus ka sa pag-ampo sang imo katawhan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "san-o"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "nagapaus ka"
+    },
+    {
+      "surface": "בתפלת",
+      "gloss": "sa pag-ampo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sang imo katawhan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:17.640638343Z",
+  "model": "glm-5.3"
+}

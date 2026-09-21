@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 18:33",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag nagsulod si Yahweh sang taposon niya ang paghambal kay Avraham, kag si Avraham nagpauli sa iya duog.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kag nagsulod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sang"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "taposon"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ang paghambal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "kag si Avraham"
+    },
+    {
+      "surface": "שב",
+      "gloss": "nagpauli"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "sa iya duog"
+    }
+  ],
+  "timestamp": "2026-09-21T16:00:03.975200642Z",
+  "model": "glm-5.3"
+}

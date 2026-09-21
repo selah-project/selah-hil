@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Hinumdomi ang iya mga kagila-gilalson nga iya ginhimo, ang iya mga tanda kag ang mga paghukum sang iya baba.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Hinumdomi"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "mga kagila-gilalson"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "mga tanda"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "kag mga paghukum"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "sang iya baba"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:03.671033326Z",
+  "model": "glm-5.3"
+}

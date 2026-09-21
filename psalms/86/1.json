@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 86,
+  "translation": "Pagpangamuyo ni David. Iyogyad ang imo nga talinga, Yahweh, kag tubli ako, kay imol kag kinahanglanon ako.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Pagpangamuyo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Iyogyad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ang imo nga talinga"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "tubli ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עני",
+      "gloss": "imol"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "kag kinahanglanon"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:44.905636659Z",
+  "model": "glm-5.3"
+}

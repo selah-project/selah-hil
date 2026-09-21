@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ginkuha sang hari ⟨את⟩ ang iya singsing sa iya kamot, kag ginhaton niya ⟨ini⟩ kay Haman nga anak ni Hamdata nga Agaginhon, kaaway sang mga Yehudi.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Kag ginkuha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya singsing"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "ang iya singsing"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "iya kamot"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "kag ginhaton niya"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "kay Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "ni Hamdata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "nga Agaginhon"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "kaaway"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "sang mga Yehudi"
+    }
+  ],
+  "timestamp": "2026-09-21T21:29:06.094001211Z",
+  "model": "glm-5.3"
+}

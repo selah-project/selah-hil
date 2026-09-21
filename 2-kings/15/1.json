@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 15:1",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Sa ika-duha ka pulo kag pito nga tuig ni Yarovam nga hari sang Yisrael, naghari si Azaryah nga anak ni Amatsyah nga hari sang Yehudah.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "sa ika-duha ka pulo kag pito nga tuig"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duha ka pulo"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "kag pito"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "ni Yarovam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaryah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Amatsyah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-21T18:45:24.441228882Z",
+  "model": "glm-5.3"
+}

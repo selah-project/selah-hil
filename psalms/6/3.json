@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kaluoyi ako, Yahweh, kay nalogat ako; Pag-ayai ako, Yahweh, kay nabalaka ang akon mga tulang.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Kaluoyi ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "nalogat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "Pag-ayai ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "nabalaka"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ang akon mga tulang"
+    }
+  ],
+  "timestamp": "2026-09-21T20:23:00.552052167Z",
+  "model": "glm-5.3"
+}

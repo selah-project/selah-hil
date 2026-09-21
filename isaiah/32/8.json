@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Kag ang halangdon nagplano sang mga halangdon nga butang, kag siya sa mga halangdon nga butang magatindog.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "kag ang halangdon"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "mga halangdon nga butang"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "nagplano"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kag siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "mga halangdon nga butang"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "magatindog"
+    }
+  ],
+  "timestamp": "2026-09-21T22:31:10.094683871Z",
+  "model": "glm-5.3"
+}

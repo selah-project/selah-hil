@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 83,
+  "translation": "Nga nagsiling: Pangakuaon namon ⟨את⟩ ang mga kauranan sang Elohim.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nagsiling"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "pangakuaon namon"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "namon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kauranan sang Elohim"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "mga kauranan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:51.534890816Z",
+  "model": "glm-5.3"
+}

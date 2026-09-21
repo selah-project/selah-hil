@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Tungon ang nagabalhin sang hustisya sang dayo, sang ulila kag sang balo, kag magahambal ang tanan nga mga tawo: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Tungon"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "nagabalhin"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sang hustisya"
+    },
+    {
+      "surface": "גר",
+      "gloss": "sang dayo"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "sang ulila"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "kag sang balo"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "kag magahambal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nga mga tawo"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-21T17:29:57.416981823Z",
+  "model": "glm-5.3"
+}

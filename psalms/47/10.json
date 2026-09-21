@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 47,
+  "translation": "Ang mga gamhanan sang mga katawhan nagkatipon ⟨kami kag ang⟩ katawhan sang Elohim ni Avraham, kay kay Elohim ang mga pansanggi sang duta — labi gid nga naipataas siya.",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "mga gamhanan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "sang mga katawhan"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "nagkatipon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kay Elohim"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "mga pansanggi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labi gid"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "naipataas siya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:26.538546015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Gindakop ni Hanun ⟨את⟩ ang mga sulugon ni David kag gintugkas niya sila, kag ginputol niya ⟨את⟩ ang ila mga bado sa tunga tubtob sa ila lubot, kag ginpalagdum siya sila.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "gindakop"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga sulugon ni David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga sulugon"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "gintugkas niya sila"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ginputol niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ila mga bado"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "ila mga bado"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "ila lubot"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "ginpalagdum sila"
+    }
+  ],
+  "timestamp": "2026-09-21T21:56:19.630531089Z",
+  "model": "glm-5.3"
+}

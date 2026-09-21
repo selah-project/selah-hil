@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag nakilala ang tawo ⟨את⟩ si Chavvah nga iya asawa, kag nagbusong siya kag natao siya ⟨את⟩ kay Kayin, kag nagsiling siya: Nanghimo ako sang isa ka lalaki ⟨את⟩ kaupod ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "kag ang tawo"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakilala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Chavvah"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "si Chavvah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "nga iya asawa"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "kag nagbusong siya"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "kag natao siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Kayin"
+    },
+    {
+      "surface": "קין",
+      "gloss": "kay Kayin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "kag nagsiling siya"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "nanghimo ako"
+    },
+    {
+      "surface": "איש",
+      "gloss": "isa ka lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ kaupod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T15:55:37.496918298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag gintugo-an niya siya mahitungod sa sini nga butang, nga indi maglakat sunod sa mga elohim nga iban; apang wala niya pagbantayi ⟨את⟩ ang ginsugo ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "Kag gintugo-an niya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "mahitungod sa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sini nga butang"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sini"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "nga indi"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "maglakat"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sunod sa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "nga iban"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apang wala"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "pagbantayi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ginsugo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T18:32:30.584068079Z",
+  "model": "glm-5.3"
+}

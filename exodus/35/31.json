@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Kag ginpunos niya ⟨את⟩ siya sang espiritu sang Elohim, sa kaalam, sa pagsabot, kag sa kahibalo, kag sa tanan nga buluhaton.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "kag ginpunos niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "espiritu sang Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "espiritu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "sa kaalam"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "sa pagsabot"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "kag sa kahibalo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "kag sa tanan"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "nga buluhaton"
+    }
+  ],
+  "timestamp": "2026-09-21T16:38:40.508378825Z",
+  "model": "glm-5.3"
+}

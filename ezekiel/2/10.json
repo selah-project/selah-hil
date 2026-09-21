@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "kag ginpalahubas niya ⟨את⟩ ⟨ini⟩ sa akon nga atubangan, kag ini nakasulat sa atubangan kag sa likod, kag nakasulat sa sini ang mga panaghoy kag pagpanaghoy kag kahimatyon.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "kag ginpalahubas niya"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ini — ang palid"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa akon nga atubangan"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "kag ini"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "nakasulat"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "kag sa likod"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "kag nakasulat"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "sa sini"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "mga panaghoy"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "kag pagpanaghoy"
+    },
+    {
+      "surface": "והי",
+      "gloss": "kag kahimatyon"
+    }
+  ],
+  "timestamp": "2026-09-21T19:40:29.947103537Z",
+  "model": "glm-5.3"
+}

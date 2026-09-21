@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag ginhimo sang mga tawo ang amo ina; kag nagdala sila sang duha ka baka nga nagapasuso, kag gintali sila sa kareta, kag ⟨את⟩ ila mga anak nga baka ginsira sa balay.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Kag ginhimo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "sang mga tawo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ang amo ina"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "kag nagdala sila"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "baka"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "nga nagapasuso"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "kag gintali sila"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "sa kareta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ila mga anak nga baka"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ila mga anak"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ginsira"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    }
+  ],
+  "timestamp": "2026-09-21T18:00:16.376019587Z",
+  "model": "glm-5.3"
+}

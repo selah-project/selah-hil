@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag matabo, kon maghambal sa inyo ang inyo mga anak: Ano ini nga pag-alagad para sa inyo?",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kag matabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "maghambal"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ang inyo mga anak"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ano"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "pag-alagad"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini nga"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para sa inyo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:26:29.762329653Z",
+  "model": "glm-5.3"
+}

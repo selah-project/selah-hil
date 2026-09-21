@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 71,
+  "translation": "nga nagasiling, Ginbayaan siya sang Elohim; pagdunggan kag dakupon ninyo siya, kay wala sing magaligtas.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ginbayaan siya"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "pagdunggan"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "kag dakupon ninyo siya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "sing magaligtas"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:15.841015145Z",
+  "model": "glm-5.3"
+}

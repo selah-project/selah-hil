@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 69,
+  "translation": "Kay ang kasinadyahan sang imo balay nagkaon sa akon, kag ang mga pag-uya sang mga nagauya sa imo nahulog sa akon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "ang kasinadyahan"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "sang imo balay"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "nagkaon sa akon"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "kag ang mga pag-uya"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "sang mga nagauya sa imo"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "nahulog"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:56.545027104Z",
+  "model": "glm-5.3"
+}

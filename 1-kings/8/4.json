@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ginpabayaw ⟨את⟩ ang Arca ni Yahweh kag ⟨את⟩ ang Tolda sang Katipunan kag ⟨את⟩ ang tanan nga mga kagamitan sang balaan nga ara sa sulod sang Tolda; kag ginpabayaw sang mga saserdote kag sang mga Levita ⟨את⟩ sila.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "kag ginpabayaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Arca ni Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ang Arca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Tolda sang Katipunan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ang Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang Katipunan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan nga mga kagamitan sang balaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "nga mga kagamitan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sang balaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "sa sulod sang Tolda"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "kag ginpabayaw"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila (mga saserdote kag mga Levita)"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sang mga saserdote"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "kag sang mga Levita"
+    }
+  ],
+  "timestamp": "2026-09-21T18:30:43.874045957Z",
+  "model": "glm-5.3"
+}

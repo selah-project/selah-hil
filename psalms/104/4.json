@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 104,
+  "translation": "Ang naghimo sang iya mga mensahero nga mga hangin, sang iya mga sulugoon nga mapanaling nga kalayo.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Ang naghimo"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "sang iya mga mensahero"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "nga mga hangin"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "sang iya mga sulugoon"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nga kalayo"
+    },
+    {
+      "surface": "להט",
+      "gloss": "mapanaling"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:38.567975135Z",
+  "model": "glm-5.3"
+}

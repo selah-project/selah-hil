@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "kag ang iya bahin sang pagkaon — bahin nga padayon — ginhatag sa iya gikan ⟨את⟩ ang hari, ang bahin sang isa ka adlaw sa tagsa ka adlaw niya, tanan nga adlaw sang iya kabuhi.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "kag ang iya bahin sang pagkaon"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "bahin"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nga padayon"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ginhatag"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "gikan ⟨את⟩",
+      "marks": "ang hari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang bahin"
+    },
+    {
+      "surface": "יום",
+      "gloss": "sang isa ka adlaw"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "sa tagsa ka adlaw niya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "sang iya kabuhi"
+    }
+  ],
+  "timestamp": "2026-09-21T18:50:43.524852110Z",
+  "model": "glm-5.3"
+}

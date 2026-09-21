@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Gani ang imo sulugoon ginapaandam sang mga ina; sa pagbantay sini may dakung ganti.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "gani"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ang imo sulugoon"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "ginapaandam"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sang mga ina"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "sa pagbantay sini"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ganti"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dakung"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:50.347302456Z",
+  "model": "glm-5.3"
+}

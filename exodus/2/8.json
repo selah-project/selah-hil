@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag nagsiling sa iya ang anak nga babae ni Paro: Kadto ka. Kag nagkadto ang dalaga kag gintawag ⟨את⟩ ang iloy sang bata.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ang anak nga babae"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "kadto ka"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "kag nagkadto"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "ang dalaga"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "kag gintawag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iloy"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ang iloy"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "sang bata"
+    }
+  ],
+  "timestamp": "2026-09-21T16:19:23.368102498Z",
+  "model": "glm-5.3"
+}

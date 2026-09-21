@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 72,
+  "translation": "Hukman niya ang imo katawohan sa pagkamatarong, kag ang imo mga kabos sa paghukom.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "hukman niya"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ang imo katawohan"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "sa pagkamatarong"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "kag ang imo mga kabos"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sa paghukom"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:03.829258344Z",
+  "model": "glm-5.3"
+}

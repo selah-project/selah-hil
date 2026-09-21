@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 94,
+  "translation": "Kay indi pagtalikdan ni Yahweh ang iya katawhan, kag ang iya manogmana indi niya pagbiyaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "pagtalikdan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ang iya katawhan"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "kag ang iya manogmana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "pagbiyaan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:59.410659630Z",
+  "model": "glm-5.3"
+}

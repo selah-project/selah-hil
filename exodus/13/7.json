@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Matzah nga wala sing lebadura ang kaonon sa tanan nga pito ka adlaw ⟨את⟩, kag indi makita sa imo ang may lebadura, kag indi makita sa imo ang lebadura sa tanan nga imo utlanan.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "Matzah nga wala sing lebadura"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ang kaonon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pito ka adlaw"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito ka"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "makita"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ang may lebadura"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "makita"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ang lebadura"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "imo utlanan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:25:13.490544565Z",
+  "model": "glm-5.3"
+}

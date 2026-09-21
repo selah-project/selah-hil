@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "kag ⟨את⟩ ang mga mamaak sang dalan sang duta sang David nakita ninyo, kay madamo sila, kag gintipon ninyo ⟨את⟩ ang tubig sang libaong nga mababa",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga mamaak"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "ang mga mamaak"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "sang dalan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "sang duta sang David"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "nakita ninyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "madamo sila"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "kag gintipon ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tubig"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ang tubig"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "sang libaong"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "nga mababa"
+    }
+  ],
+  "timestamp": "2026-09-21T18:58:05.216778041Z",
+  "model": "glm-5.3"
+}

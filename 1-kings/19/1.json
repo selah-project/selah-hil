@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag ginpahibalo ni Achav kay Izevel ⟨את⟩ tanan nga ginbuhat ni Eliyahu, kag ⟨את⟩ tanan nga ginpatay niya — ⟨את⟩ tanan nga mga manalagna sang sundang.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ginpahibalo"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "kay Izevel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginbuhat"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ni Eliyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ginpatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "mga manalagna"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sang sundang"
+    }
+  ],
+  "timestamp": "2026-09-21T18:38:04.933637223Z",
+  "model": "glm-5.3"
+}

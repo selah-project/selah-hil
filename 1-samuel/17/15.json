@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag si David nagakadto kag nagabalin gikan kay Shaul sa pagbantay ⟨את⟩ sang kopo sang iya amay sa Bet-Lechem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "kag si David"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nagakadto"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "kag nagabalin"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "gikan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kay Shaul"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "sa pagbantay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang kopo"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kopo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sang iya amay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-Lechem"
+    }
+  ],
+  "timestamp": "2026-09-21T18:05:14.261447364Z",
+  "model": "glm-5.3"
+}

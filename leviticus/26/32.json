@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Kag ako mismo ang magabinayahon ⟨את⟩ sang duta, kag magakilalahon sa iya ang inyo mga kaaway, ang mga nagapuyo sa iya.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "Kag magabinayahon"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako mismo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "kag magakilalahon"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ang inyo mga kaaway"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "ang mga nagapuyo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:57:09.933845037Z",
+  "model": "glm-5.3"
+}

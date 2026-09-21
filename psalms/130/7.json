@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 130,
+  "translation": "Maghulat ikaw, O Yisrael, kay Yahweh, kay kay Yahweh ara ang hesed, kag madamo kaayo ka tubos kaupod sa iya.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Maghulat ikaw, O"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "ang hesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "kag madamo kaayo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaupod sa iya"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "ka tubos"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:26.920379188Z",
+  "model": "glm-5.3"
+}

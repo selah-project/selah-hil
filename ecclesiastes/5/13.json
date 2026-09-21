@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "kag nagkadula ang kabakuran sang tawo nga ina sa malain nga kapiguha, kag nagatawo sang anak, kag wala sang bisan ano sa iya kamot.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "kag nagkadula"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "ang kabakuran"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sang tawo nga ina"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "sa kapiguha"
+    },
+    {
+      "surface": "רע",
+      "gloss": "malain"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "kag nagatawo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sang anak"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa iya kamot"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "bisan ano"
+    }
+  ],
+  "timestamp": "2026-09-21T21:26:50.818950780Z",
+  "model": "glm-5.3"
+}

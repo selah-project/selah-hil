@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 1:9",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag gintimo ni Yahweh ⟨את⟩ iya kamot kag gintandog niya ang akon baba; kag nagsiling si Yahweh sa akon: Yari, gintago ko ang akon mga pulong sa imo baba.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "gintimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya kamot"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "iya kamot"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "gintandog"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nagsiling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Yari"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "gintago ko"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "akon mga pulong"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "sa imo baba"
+    }
+  ],
+  "timestamp": "2026-09-21T19:14:45.746016408Z",
+  "model": "glm-5.3"
+}

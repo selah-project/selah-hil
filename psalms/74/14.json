@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 74:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 74,
+  "translation": "Ikaw ang gindurog mo ⟨את⟩ mga ulo sang Livyatan; gintagan mo siya nga pagkaon sa katawhan, sa mga taga-kamingawan.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "רצצת",
+      "gloss": "gindurog mo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mga ulo"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "sang Livyatan"
+    },
+    {
+      "surface": "תתננו",
+      "gloss": "gintagan mo siya"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "nga pagkaon"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "sa katawhan"
+    },
+    {
+      "surface": "לציים",
+      "gloss": "sa mga taga-kamingawan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:32.038683636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 136,
+  "translation": "isa ka pagpanunodon kay Yisrael, iya ka sulugoon, kay tubtob sa dayon ang iya hesed.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "isa ka pagpanunodon"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kay Yisrael"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "iya ka sulugoon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tubtob sa dayon"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iya hesed"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:29.694669202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Indi bala ang adlaw ni Yahweh kadulumduluman kag indi kahayag, kag kangilngil kag indi sinaw?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Indi bala"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kadulumduluman"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "אור",
+      "gloss": "kahayag"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "kag kangilngil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "sinaw"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨sini⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T20:10:41.648665004Z",
+  "model": "glm-5.3"
+}

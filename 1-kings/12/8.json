@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag ginbayaan niya ⟨את⟩ ang tambag sang mga tigulang nga gintambag sa iya, kag nagtambagay siya ⟨את⟩ ang mga batan-on nga nagdako ⟨את⟩ kauban niya, nga ang nagatindog sa iya atubang.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Kag ginbayaan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tambag sang mga tigulang"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "ang tambag"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "sang mga tigulang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "gintambag sa iya"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "kag nagtambagay siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga batan-on"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ang mga batan-on"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "nagdako"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kauban niya",
+      "marks": "kauban niya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ang nagatindog"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa iya atubang"
+    }
+  ],
+  "timestamp": "2026-09-21T18:33:12.686717696Z",
+  "model": "glm-5.3"
+}

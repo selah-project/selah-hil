@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 107,
+  "translation": "Magasalamat sila kay Yahweh sang iya hesed, kag sang iya mga kagila-gilason sa mga anak sang tawo.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Magasalamat sila"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sang iya hesed"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "kag sang iya mga kagila-gilason"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:07.864161311Z",
+  "model": "glm-5.3"
+}

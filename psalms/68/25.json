@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 68,
+  "translation": "Nakita nila ang imo mga paglakat, Elohim, ang mga paglakat sang akon El, akon Hari, sa ⟨balaan⟩.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "nakita nila"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "ang imo mga paglakat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "ang mga paglakat"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "akon El"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "akon Hari"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "sa balaan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:22.860018656Z",
+  "model": "glm-5.3"
+}

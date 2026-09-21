@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Indi ⟨kamo⟩ magpareho sang kabayo, sang mula, nga wala sing pag-intiendehan — sang bit kag sang ulin, ang iya mga ornamento, sa pagpugong ⟨sini⟩, basi magduol sa imo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "magpareho kamo"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "sang kabayo"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "sang mula"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "sing pag-intiendehan"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "sang bit"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "kag sang ulin"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "ang iya mga ornamento"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "sa pagpugong"
+    },
+    {
+      "surface": "בל",
+      "gloss": "basi"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "magduol"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:14.660721601Z",
+  "model": "glm-5.3"
+}

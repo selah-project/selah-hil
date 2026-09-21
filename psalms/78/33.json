@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Gintapos ⟨niya⟩ sa kahuy-an ang ila mga adlaw, kag ang ila mga tuig sa kahadlok.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "gintapos"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "sa kahuy-an"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "ang ila mga adlaw"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "kag ang ila mga tuig"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "sa kahadlok"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:18.052221779Z",
+  "model": "glm-5.3"
+}

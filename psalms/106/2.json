@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 106,
+  "translation": "Sin-o ang makasiling sang mga gahum ni Yahweh, magapahibalo sang tanan nga iya pagdayaw?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "ang makasiling"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "sang mga gahum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "magapahibalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "nga iya pagdayaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:41.814278643Z",
+  "model": "glm-5.3"
+}

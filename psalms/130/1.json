@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 130,
+  "translation": "Kanta sang mga Pagsaka. Gikan sa mga kalawom gintawag ikaw, Yahweh.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kanta"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sang mga Pagsaka"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "Gikan sa mga kalawom"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "gintawag ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T22:40:34.417309308Z",
+  "model": "glm-5.3"
+}

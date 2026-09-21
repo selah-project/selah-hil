@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag naghambal siya sa ila suno sa tambag sang mga batan-on, nga nagsiling: Ginpamug-at sang akon amay ⟨את⟩ ang inyo ugo, kag ako magadugang sa inyo ugo; nagbunal ang akon amay sa inyo ⟨את⟩ gamit sang mga latigo, kag ako magabunal sa inyo ⟨את⟩ gamit sang mga alakdan.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kag naghambal"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "suno sa tambag"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "sang mga batan-on"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagsiling"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ang akon amay"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "ginpamug-at"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang inyo ugo"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "ang inyo ugo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kag ako"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "magadugang"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "inyo ugo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ang akon amay"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "nagbunal"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo",
+      "marks": "gamit sang mga latigo"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "gamit sang mga latigo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kag ako"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "magabunal"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo",
+      "marks": "gamit sang mga alakdan"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "gamit sang mga alakdan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:29:52.449052613Z",
+  "model": "glm-5.3"
+}

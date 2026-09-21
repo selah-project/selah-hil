@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag kuwaon sang saserdote ⟨את⟩ ang isa ka karnero kag ihalad niya ⟨אתו⟩ nga bayad-sala kag ⟨את⟩ ang log sang lana, kag ilaylay niya ⟨אתם⟩ nga ilaylay sa atubang ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "kag kuwaon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang saserdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang karnero"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ang karnero"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "kag ihalad niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "nga bayad-sala"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "nga bayad-sala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang log sang lana"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "sang lana"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "kag ilaylay niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "nga ilaylay"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "nga ilaylay"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:47:46.209226364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 7:6",
+  "book": "micah",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kay ang anak nga lalaki nagapakaulaw sa iya amay, ang anak nga babae nagtindog batok sa iya iloy, ang umagad batok sa iya ugangan; ang mga kaaway sang tawo amo ang mga tawo sang iya balay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ang anak nga lalaki"
+    },
+    {
+      "surface": "מנבל",
+      "gloss": "nagapakaulaw"
+    },
+    {
+      "surface": "אב",
+      "gloss": "iya amay"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ang anak nga babae"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "nagtindog"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "batok sa iya iloy"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ang umagad"
+    },
+    {
+      "surface": "בחמתה",
+      "gloss": "batok sa iya ugangan"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ang mga kaaway"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sang iya balay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:15:14.375122179Z",
+  "model": "glm-5.3"
+}

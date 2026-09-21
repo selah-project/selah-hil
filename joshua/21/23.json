@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag sa tribo sang Dan, ⟨את⟩ si Elteke kag ⟨את⟩ ang mga kapatagan sini, ⟨את⟩ si Givton kag ⟨את⟩ ang mga kapatagan sini.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Kag sa tribo"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Elteke"
+    },
+    {
+      "surface": "אלתקא",
+      "gloss": "Elteke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga kapatagan sini"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mga kapatagan sini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Givton"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "Givton"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga kapatagan sini"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mga kapatagan sini"
+    }
+  ],
+  "timestamp": "2026-09-21T17:43:05.103533234Z",
+  "model": "glm-5.3"
+}

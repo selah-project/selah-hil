@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 9:25",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag ang ila mga utod, sa ila mga kabilutan, nagasulod ⟨sa⟩ kada pito ka adlaw, gikan sa tion pakadto sa tion, kaupod sang sini ⟨nga mga tawo⟩.",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "kag ang ila mga utod"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "sa ila mga kabilutan"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "nagasulod"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "sa kada pito"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ka adlaw"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "gikan sa tion"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pakadto sa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tion"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sang sini"
+    }
+  ],
+  "timestamp": "2026-09-21T21:53:29.643619142Z",
+  "model": "glm-5.3"
+}

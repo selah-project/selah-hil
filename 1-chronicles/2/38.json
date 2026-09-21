@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "kag si Oved natawo-an ⟨את⟩ si Yehu, kag si Yehu natawo-an ⟨את⟩ si Azaryah",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "kag si Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "si Yehu"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "kag si Yehu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Azaryah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "si Azaryah"
+    }
+  ],
+  "timestamp": "2026-09-21T21:49:05.240872002Z",
+  "model": "glm-5.3"
+}

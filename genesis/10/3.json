@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag ang mga anak nga lalaki ni Gomer: Ashkenaz, Rifat, kag Togarma.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "kag ang mga anak nga lalaki sang"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ashkenaz"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "kag Rifat"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "kag Togarma"
+    }
+  ],
+  "timestamp": "2026-09-21T15:58:27.866114453Z",
+  "model": "glm-5.3"
+}

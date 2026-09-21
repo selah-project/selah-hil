@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Kag ginpagwa niya ang iya banwa sama sa karnero, kag gintultol niya sila sama sa pano ka kahayupan sa kawad-an.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "kag ginpagwa"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "sama sa karnero"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ang iya banwa"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "kag gintultol niya sila"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "sama sa pano ka kahayupan"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kawad-an"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:58.969656829Z",
+  "model": "glm-5.3"
+}

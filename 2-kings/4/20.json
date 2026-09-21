@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag gindala niya siya kag gindala niya siya sa iya iloy, kag naglingkod siya sa iya mga tuhod tubtob sa udto, kag namatay.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "kag gindala niya siya"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "kag gindala niya siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "iya iloy"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kag naglingkod"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "iya mga tuhod"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "sa udto"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kag namatay"
+    }
+  ],
+  "timestamp": "2026-09-21T18:40:42.680972673Z",
+  "model": "glm-5.3"
+}

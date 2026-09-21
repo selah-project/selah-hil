@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 60,
+  "translation": "Sin-o ini nga mga nagalayag subong sang panganod, kag subong sang mga salampati padulong sa ila mga bintana?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ini nga mga"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "subong sang panganod"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "nagalayag"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "kag subong sang mga salampati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "padulong sa"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "ila mga bintana"
+    }
+  ],
+  "timestamp": "2026-09-21T19:12:10.420211350Z",
+  "model": "glm-5.3"
+}

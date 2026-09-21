@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 2:12",
+  "book": "ezra",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Ang mga anak ni Azgad, isa ka libo kag duha ka gatos kag duha ka pulo kag duha.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "Azgad"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "isa ka libo"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "duha ka gatos"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duha ka pulo"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "kag duha"
+    }
+  ],
+  "timestamp": "2026-09-21T21:39:00.087445763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 9:9",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Nahulag ang mga laryo, kag sa gitig-ulan nga bato magabutang kita; gintungki ang mga sikomoro, kag mga sedro aton ipulian.",
+  "tokens": [
+    {
+      "surface": "לבנים",
+      "gloss": "mga laryo"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "nahulag"
+    },
+    {
+      "surface": "וגזית",
+      "gloss": "kag gitig-ulan nga bato"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "magabutang kita"
+    },
+    {
+      "surface": "שקמים",
+      "gloss": "mga sikomoro"
+    },
+    {
+      "surface": "גדעו",
+      "gloss": "gintungki"
+    },
+    {
+      "surface": "וארזים",
+      "gloss": "kag mga sedro"
+    },
+    {
+      "surface": "נחליף",
+      "gloss": "aton ipulian"
+    }
+  ],
+  "timestamp": "2026-09-21T18:55:48.347585182Z",
+  "model": "glm-5.3"
+}

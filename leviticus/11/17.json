@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "kag ⟨את⟩ ang kows kag ⟨את⟩ ang shalakh kag ⟨את⟩ ang yanshuf",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang kows"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "ang kows"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang shalakh"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "ang shalakh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang yanshuf"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "ang yanshuf"
+    }
+  ],
+  "timestamp": "2026-09-21T16:46:31.208019419Z",
+  "model": "glm-5.3"
+}

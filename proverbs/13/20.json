@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Ang nagalakat ⟨את⟩ ang mga maalam magamaalam; kag ang kaupod sang mga ulaw magalaut.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "ang nagalakat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga maalam"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ang mga maalam"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "magamaalam"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "kag ang kaupod"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "sang mga ulaw"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "magalaut"
+    }
+  ],
+  "timestamp": "2026-09-21T20:58:28.740765476Z",
+  "model": "glm-5.3"
+}

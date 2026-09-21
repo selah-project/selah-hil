@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 144,
+  "translation": "⟨Siya⟩ ang nagahatag sing kaluwas sa mga hari, ang nagakuha ⟨את⟩ kay David nga iya ulipon sa espada sang kadautan.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "ang nagahatag"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "sing kaluwas"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "sa mga hari"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "ang nagakuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "nga iya ulipon"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "sa espada"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "sang kadautan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:09.080597825Z",
+  "model": "glm-5.3"
+}

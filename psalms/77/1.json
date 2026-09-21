@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 77,
+  "translation": "Sa manugpanguna, sa Yedutun, kay Asaf, isa ka mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa manugpanguna"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedutun"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kay Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "isa ka mizmor"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:39.594083227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kay ⟨ang⟩ ⟨את⟩ yugo sang iya pagdala kag ⟨ang⟩ ⟨את⟩ tungkod sang iya abaga, ang baston sang nagaigo sa iya — ginpangluya mo ini ⟨samtang⟩ sa adlaw sang Midyan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yugo"
+    },
+    {
+      "surface": "על",
+      "gloss": "yugo"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "sang iya pagdala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tungkod"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tungkod"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "sang iya abaga"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ang baston"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "sang nagaigo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "ginpangluya mo"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "samtang sa adlaw"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "sang Midyan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:54:52.021495976Z",
+  "model": "glm-5.3"
+}

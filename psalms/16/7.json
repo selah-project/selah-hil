@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Ginapanubang ko si ⟨את⟩ Yahweh, ang nagahatag sang tambag sa akon; gani sa mga gab-i ang akon mga kilya nagatudlo sa akon.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "ginapanubang ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "nagahatag sang tambag sa akon"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gani"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "sa mga gab-i"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "nagatudlo sa akon"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "ang akon mga kilya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:13.263407397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "kay ako mapatay sa sini nga duta, indi ako magtabok ⟨את⟩ sang Yarden; kamo gid ang magatabok kag magapanag-iya ⟨את⟩ sini nga maayo nga duta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mapatay"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sini nga"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "indi ako"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "magtabok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sang Yarden"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "kag kamo"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "magatabok"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "kag magapanag-iya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sini nga maayo nga duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "maayo nga"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sini nga"
+    }
+  ],
+  "timestamp": "2026-09-21T17:19:59.216625930Z",
+  "model": "glm-5.3"
+}

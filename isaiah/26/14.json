@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 26:14",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Ang mga patay, indi na sila mabuhi; ang mga Rephaim, indi na sila magabangon; bangod sini ginsilot Mo sila kag ginpierdi Mo sila, kag nagpadalagway ang tanan nga handum sa ila.",
+  "tokens": [
+    {
+      "surface": "מתים",
+      "gloss": "mga patay"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "mabuhi"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "mga Rephaim"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "magabangon"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "bangod sini"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "ginsilot Mo"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "kag ginpierdi Mo sila"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "kag nagpadalagway"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "handum"
+    },
+    {
+      "surface": "למו",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T18:59:29.626600077Z",
+  "model": "glm-5.3"
+}

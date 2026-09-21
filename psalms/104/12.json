@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 104,
+  "translation": "Sa ibabaw sini nagapuy-an ang mga sapat nga nagalayog sang langit; sa tunga sang mga sanga nagahatag sila sang tingog.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "sa ibabaw sini"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ang mga sapat nga nagalayog"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sang langit"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "nagapuy-an"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "sang mga sanga"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "nagahatag sila"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sang tingog"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:48.514463691Z",
+  "model": "glm-5.3"
+}

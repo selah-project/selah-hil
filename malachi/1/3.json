@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "kag ⟨את⟩ si Esav ginkadlaw ko, kag ginhimo ko ⟨את⟩ iya mga bukid nga kawad-an, kag ⟨את⟩ iya manunan binunyag ⟨magambo⟩ nga duog sang mga mangingayam sang kamingawan",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "si Esav"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ginkadlaw ko"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "kag ginhimo ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya mga bukid"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "iya mga bukid"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "nga kawad-an"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya manunan binunyag"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "iya manunan binunyag"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "sang mga mangingayam"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sang kamingawan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:37:25.830540632Z",
+  "model": "glm-5.3"
+}

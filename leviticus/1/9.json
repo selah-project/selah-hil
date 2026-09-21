@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ang iya mga sulod kag ang iya mga paa pagahugasan sa tubig; kag sunugon sang padi ⟨את⟩ ang tanan sa halaran — halad nga sinusog, halad sang kalayo, baho nga nakapahulay kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "kag ang iya mga sulod"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "kag ang iya mga paa"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "pagahugasan"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sa tubig"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "kag sunugon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang padi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa halaran"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "halad nga sinusog"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "halad sang kalayo"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "baho"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "nga nakapahulay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T22:20:54.122234342Z",
+  "model": "glm-5.3"
+}

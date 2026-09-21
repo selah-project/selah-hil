@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 10:6",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag ang mga anak sang Yisrael nagpanikad gikan sa Beerot sang mga anak ni Yaakan pakadto sa Moserah; didto nangamatay si Aharon, kag ginalubong didto, kag naging pari si Elazar, iya anak, sa iya lugar.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "nagpanikad"
+    },
+    {
+      "surface": "מבארת",
+      "gloss": "gikan sa Beerot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sang mga anak"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "ni Yaakan"
+    },
+    {
+      "surface": "מוסרה",
+      "gloss": "pakadto sa Moserah"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "מת",
+      "gloss": "nangamatay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "kag ginalubong"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "ויכהן",
+      "gloss": "kag naging pari"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "si Elazar"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iya anak"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sa iya lugar"
+    }
+  ],
+  "timestamp": "2026-09-21T17:21:48.426245915Z",
+  "model": "glm-5.3"
+}

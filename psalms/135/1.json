@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 135,
+  "translation": "Paldayeg-a kamo si Yah, paldayeg-a kamo ⟨את⟩ sang ngalan sang Yahweh, paldayeg-a kamo, kamo nga mga sulugoon sang Yahweh.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "paldayeg-a kamo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "si Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "paldayeg-a kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang ngalan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sang ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sang Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "paldayeg-a kamo"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga sulugoon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sang Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:59.450233980Z",
+  "model": "glm-5.3"
+}

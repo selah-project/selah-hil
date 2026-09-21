@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 108:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 108,
+  "translation": "Agod maluwas ang imo mga palangga: luwasi sila sa imo tuo nga kamot, kag sabti ako.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "agod"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "maluwas"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "imo mga palangga"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "luwasi"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "imo tuo nga kamot"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "kag sabti ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:56.453417707Z",
+  "model": "glm-5.3"
+}

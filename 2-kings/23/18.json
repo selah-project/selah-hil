@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 23:18",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag nagsiling siya, Pabaya-a ninyo siya; indi paggawa sang tawo sang iya mga tul-an. Kag gintalo-i ang iya mga tul-an ⟨kaupod⟩ ⟨sang⟩ ⟨את⟩ mga tul-an sang manalagna nga nagkari sa Shomron.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag nagsiling siya"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "Pabaya-a ninyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ינע",
+      "gloss": "paggawa"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "iya mga tul-an"
+    },
+    {
+      "surface": "וימלטו",
+      "gloss": "Kag gintalo-i"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "iya mga tul-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga tul-an"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mga tul-an"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "sang manalagna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nagkari"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "sa Shomron"
+    }
+  ],
+  "timestamp": "2026-09-21T18:50:56.387806787Z",
+  "model": "glm-5.3"
+}

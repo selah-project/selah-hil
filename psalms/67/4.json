@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 67,
+  "translation": "Magpanagalagalag sa imo ang mga katawohan, Oh Elohim; magpanagalagalag sa imo ang mga katawohan, tanan nila.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "magpanagalagalag sa imo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ang mga katawohan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Oh Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "magpanagalagalag sa imo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ang mga katawohan"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tanan nila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:18.155617069Z",
+  "model": "glm-5.3"
+}

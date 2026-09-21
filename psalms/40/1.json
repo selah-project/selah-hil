@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Sa manugpanguna, isa ka mizmor ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa manugpanguna"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "isa ka mizmor"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:44.972972494Z",
+  "model": "glm-5.3"
+}

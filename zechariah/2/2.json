@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag nagsiling ako sa manoganghel nga nagahambal sa akon, Ano ini? Kag nagsiling siya sa akon, Ini ang mga sungay nga nagwasiwasi ⟨את⟩ kay Yehudah, ⟨את⟩ kay Yisrael kag Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Kag nagsiling ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "manoganghel"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "nga nagahambal"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ano"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag nagsiling siya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "ang mga sungay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "nagwasiwasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "kay Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kay Yisrael"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "kag Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-21T20:19:07.161064963Z",
+  "model": "glm-5.3"
+}

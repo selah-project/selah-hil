@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 108,
+  "translation": "Sang akon ang Gilad, sang akon si Menashsheh; kag ang Efrayim amo ang kusog sang akon ulo, si Yehudah amo ang tagabuto sang akon mga kasuguan.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "sang akon"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ang Gilad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sang akon"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "si Menashsheh"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "kag ang Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "amo ang kusog"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "sang akon ulo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "si Yehudah"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "amo ang tagabuto sang akon mga kasuguan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:35.553093948Z",
+  "model": "glm-5.3"
+}

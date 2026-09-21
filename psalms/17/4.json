@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 17:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Sa mga buhat sang tawo, sa paghambal sang imo mga bibig, ako nagbantay sa mga dalan sang makaguguba.",
+  "tokens": [
+    {
+      "surface": "לפעלות",
+      "gloss": "Sa mga buhat"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sa paghambal"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "sang imo mga bibig"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "nagbantay"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "sa mga dalan"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "sang makaguguba"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:30.157836268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 140,
+  "translation": "Luwasi ako, Yahweh, sa tawo nga malaot; sa tawo sang mga kapintasan ipanagbantay ako.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "luwasi ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "malaot"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "sang mga kapintasan"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "ipanagbantay ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:43.987562361Z",
+  "model": "glm-5.3"
+}

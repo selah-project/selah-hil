@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "kag ⟨את⟩ ang Arvadi kag ⟨את⟩ ang Tsemary kag ⟨את⟩ ang Khamaty.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Arvadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "ang Arvadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Tsemary"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "ang Tsemary"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Khamaty"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "ang Khamaty"
+    }
+  ],
+  "timestamp": "2026-09-21T21:49:16.003337538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Maayo ang puno sang isa ka palad nga kalinong sangsa ang puno sang duha ka kumos — pagpangabudlay kag kaakig sang hangin.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "puno"
+    },
+    {
+      "surface": "כף",
+      "gloss": "isa ka palad"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "kalamong"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "sangsa ang puno sang"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "duha ka kumos"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "pagpangabudlay"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "kag kaakig"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hangin"
+    }
+  ],
+  "timestamp": "2026-09-21T21:25:40.327603054Z",
+  "model": "glm-5.3"
+}

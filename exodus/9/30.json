@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Pero ikaw kag ang imo mga sulugoon — nasayod ako nga indi pa kamo matakot sa atubangan ni Yahweh, sang Elohim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "pero ikaw"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "kag ang imo mga sulugoon"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nasayod ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "indi pa"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "matakot kamo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sa atubangan sang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:22:50.629149971Z",
+  "model": "glm-5.3"
+}

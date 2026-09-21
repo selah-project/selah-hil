@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 135,
+  "translation": "kag ginhatag niya ang ila duta bilang mana, mana kay Yisrael, iya nga katawhan.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "kag ginhatag niya"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ang ila duta"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "bilang mana"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kay Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "iya nga katawhan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:34.340308875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag gintunga niya ang mga lamparahan sa atubangan ni Yahweh, subong sang ginsugo ni Yahweh ⟨את⟩ si Moshe.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "gintunga niya ang"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "mga lamparahan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T16:40:40.598252510Z",
+  "model": "glm-5.3"
+}

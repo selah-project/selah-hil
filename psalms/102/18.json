@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 102,
+  "translation": "Nagbalikid ang iya lalaw sa pangamuyo sang bugtong nga tagipusuon, kag indi niya ginpaglahod ⟨את⟩ ang ila pangamuyo.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "nagbalikid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ang iya lalaw sa"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "pangamuyo"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "sang bugtong nga tagipusuon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ginpaglahod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ila pangamuyo"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ang ila pangamuyo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:06.300574167Z",
+  "model": "glm-5.3"
+}

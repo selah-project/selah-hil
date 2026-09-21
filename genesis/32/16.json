@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 32:16",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "mga kamelyo nga nagapahalad sang gatas kag ang ila mga anak nga lalaki, tatlo ka pulo; apat ka pulo ka baka nga babayi kag napulo ka toro, duha ka pulo ka asnong babayi kag napulo ka anak nga asnong lalaki.",
+  "tokens": [
+    {
+      "surface": "גמלים",
+      "gloss": "mga kamelyo"
+    },
+    {
+      "surface": "מיניקות",
+      "gloss": "nga nagapahalad sang gatas"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "kag ang ila mga anak"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tatlo ka pulo"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "baka nga babayi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "apat ka pulo"
+    },
+    {
+      "surface": "ופרים",
+      "gloss": "kag toro"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "אתנת",
+      "gloss": "asnong babayi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duha ka pulo"
+    },
+    {
+      "surface": "ועירם",
+      "gloss": "kag anak nga asnong lalaki"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "napulo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:08:42.386860995Z",
+  "model": "glm-5.3"
+}

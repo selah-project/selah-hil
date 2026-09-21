@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 115,
+  "translation": "Indi magadayaw ang mga minatay kay Yah, kag indi tanan nga mga panaug sa hilum.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "ang mga minatay"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "magadayaw"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kay Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "nga mga panaug"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "sa hilum"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:36.526370083Z",
+  "model": "glm-5.3"
+}

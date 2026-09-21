@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Indi paghambal sa imo kaabay, 'Lakat kag magbalik, kag ugma ihatsag ko,' kag may ara ⟨את⟩ sa imo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "paghambal"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "sa imo kaabay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Lakat"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "kag magbalik"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "kag ugma"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ihatsag ko"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "kag may ara"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T22:41:03.345217709Z",
+  "model": "glm-5.3"
+}

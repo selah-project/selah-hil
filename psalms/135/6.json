@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 135,
+  "translation": "Ang tanan nga luyag ni Yahweh ginhimo niya sa mga langit kag sa duta, sa mga dagat kag sa tanan nga mga kalaluman.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "luyag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo niya"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sa mga langit"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "kag sa duta"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "sa mga dagat"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag sa tanan"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "nga mga kalaluman"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:07.705612787Z",
+  "model": "glm-5.3"
+}

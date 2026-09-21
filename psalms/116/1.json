@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 116,
+  "translation": "Ginhigugma ko, kay nagabati si Yahweh ⟨את⟩ sang akon tingog, sang akon mga pangadyeon.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "ginhigugma ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "nagabati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang akon tingog"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "akon tingog"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "akon mga pangadyeon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:08.727445617Z",
+  "model": "glm-5.3"
+}

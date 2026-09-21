@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag ginkuha ni Shaul siya sa sadtong adlaw, kag wala niya pagtugutan ⟨siya⟩ nga magbalik sa balay sang iya amay.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "kag ginkuha niya siya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sadtong"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "niya pagtugutan"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "nga magbalik"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sang iya amay"
+    }
+  ],
+  "timestamp": "2026-09-21T18:06:34.357106120Z",
+  "model": "glm-5.3"
+}

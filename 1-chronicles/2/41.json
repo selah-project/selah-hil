@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag si Shallum nagatawo ⟨את⟩ kay Yekamyah, kag si Yekamyah nagatawo ⟨את⟩ kay Elishama.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Kag si Shallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagatawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yekamyah"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Yekamyah"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "kag si Yekamyah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nagatawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Elishama"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    }
+  ],
+  "timestamp": "2026-09-21T21:48:49.107233692Z",
+  "model": "glm-5.3"
+}

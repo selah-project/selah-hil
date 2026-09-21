@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 84,
+  "translation": "Magalakat sila gikan sa kusog pakadto sa kusog, magakit-a sila sa atubangan sang Elohim sa Tsiyon.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "magalakat sila"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "gikan sa kusog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pakadto sa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kusog"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "magakit-a sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa atubangan sang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "sa Tsiyon"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:30.158118019Z",
+  "model": "glm-5.3"
+}

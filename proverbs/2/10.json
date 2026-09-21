@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kay ang kaalam magasulod sa imo tagipusuon, kag ang kahibalo magakalipay sa imo kalag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "magasulod"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ang kaalam"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "sa imo tagipusuon"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "kag ang kahibalo"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "sa imo kalag"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "magakalipay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:55:11.648111500Z",
+  "model": "glm-5.3"
+}

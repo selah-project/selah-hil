@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 62,
+  "translation": "Gid siya ang akon bato kag ang akon kaluwas, ang akon matagal nga kinalig-unan; indi ako gid matumba.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "gid"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ang akon bato"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "kag ang akon kaluwas"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ang akon matagal nga kinalig-unan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "matumba"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "gid"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:34.112544165Z",
+  "model": "glm-5.3"
+}

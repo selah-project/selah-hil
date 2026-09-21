@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "kag ang iya sundalohan kag ang iya mga gin-ihap pito kag lima ka pulo ka libo kag apat ka gatos.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "kag ang iya sundalohan"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "kag ang iya mga gin-ihap"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "pito"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "kag lima ka pulo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ka libo"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "kag apat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    }
+  ],
+  "timestamp": "2026-09-21T16:58:36.544244789Z",
+  "model": "glm-5.3"
+}

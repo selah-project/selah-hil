@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 38,
+  "translation": "Ang akon kasingkasing nagapanikol, ginbayaan ako sang akon gahum, kag ang suga sang akon mga mata — bisan ina wala na ⟨את⟩ sa akon.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "ang akon kasingkasing"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "nagapanikol"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "ginbayaan ako"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ang akon gahum"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "kag ang suga"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sang akon mga mata"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ina"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala na"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ sa akon",
+      "marks": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T22:38:46.270139135Z",
+  "model": "glm-5.3"
+}

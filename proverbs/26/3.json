@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Haslam sa kabayo, pamaton sa buriko, kag sunggod sa likod sang mga tanga.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "haslam"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "sa kabayo"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "pamaton"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "sa buriko"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "kag sunggod"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "sa likod"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "sang mga tanga"
+    }
+  ],
+  "timestamp": "2026-09-21T21:03:25.200447218Z",
+  "model": "glm-5.3"
+}

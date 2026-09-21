@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-kings 17:38",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag ang kasugtanan nga akon gintunga kauban ⟨את⟩ inyo — indi ninyo ini kalakton; kag indi kamo magahadlok sa mga dios nga iban.",
+  "tokens": [
+    {
+      "surface": "והברית",
+      "gloss": "kag ang kasugtanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "gintunga akon"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "kauban ⟨את⟩ inyo",
+      "marks": "inyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תשכחו",
+      "gloss": "kalakton ninyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "magahadlok kamo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga dios"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "nga iban"
+    }
+  ],
+  "timestamp": "2026-09-21T18:46:43.106982253Z",
+  "model": "glm-5.3"
+}

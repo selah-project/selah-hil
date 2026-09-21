@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag ang duta magsimbako ⟨את⟩ sang trigo kag ⟨את⟩ sang bag-ong bino kag ⟨את⟩ sang lana, kag sila magsimbako ⟨את⟩ kay Yizreel.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "kag ang duta"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "magsimbako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang trigo"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "sang trigo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang bag-ong bino"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "sang bag-ong bino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang lana"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "sang lana"
+    },
+    {
+      "surface": "והם",
+      "gloss": "kag sila"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "magsimbako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yizreel"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "kay Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-21T20:03:52.883455634Z",
+  "model": "glm-5.3"
+}

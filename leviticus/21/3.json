@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag sa iya utod nga babae nga dalaga, nga malapit sa iya, nga wala pa natipon sa lalaki — sa iya siya magapamarumi.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "kag sa iya utod nga babae"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "nga dalaga"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "nga malapit"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "natipon"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "sa lalaki"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "magapamarumi siya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:53:01.089536361Z",
+  "model": "glm-5.3"
+}

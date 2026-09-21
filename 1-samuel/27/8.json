@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 27:8",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Kag nagsaka si David kag ang iya mga tawo, kag nagdalagyat sila sa mga Geshuri, kag sa mga Girzi, kag sa mga Amaleki; kay sila ang mga nagainpuy-an sang duta sa sang-una, kon magakadto ka sa Shur kag tubtub sa duta sang Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "kag nagsaka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "kag ang iya mga tawo"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "kag nagdalagyat sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "mga Geshuri"
+    },
+    {
+      "surface": "והגרזי",
+      "gloss": "kag mga Girzi"
+    },
+    {
+      "surface": "והעמלקי",
+      "gloss": "kag mga Amaleki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yari"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "mga nagainpuy-an"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "sa sang-una"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "kon magakadto ka"
+    },
+    {
+      "surface": "שורה",
+      "gloss": "sa Shur"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag tubtub"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T18:10:49.795857937Z",
+  "model": "glm-5.3"
+}

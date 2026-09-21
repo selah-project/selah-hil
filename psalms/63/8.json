@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 63,
+  "translation": "Kay ikaw ang nangin bulig ko; kag sa landom sang imo mga pako magakanta ako sang kalipay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "היית",
+      "gloss": "nangin"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "bulig"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "kag sa landom sang"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "imo mga pako"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "magakanta ako sang kalipay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:40.841139702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 50,
+  "translation": "Kon maggutom ako, indi ako magahambal sa imo, kay akon ang kalibutan kag ang puno sini.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "maggutom ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "magahambal ako"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "akon"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ang kalibutan"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "kag ang puno sini"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:45.074518120Z",
+  "model": "glm-5.3"
+}

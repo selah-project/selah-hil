@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 47,
+  "translation": "Kag ginpanalanginan ni Yaakov ⟨את⟩ si Paro, kag nagguwa siya sa atubangan ni Paro.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "kag ginpanalanginan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "si Paro"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "kag nagguwa siya"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    }
+  ],
+  "timestamp": "2026-09-21T16:17:32.999201404Z",
+  "model": "glm-5.3"
+}

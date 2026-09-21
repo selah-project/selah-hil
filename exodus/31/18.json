@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 31:18",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kag sang natapos na ⟨niya⟩ ang paghambal ⟨את⟩ kaniya sa bukid sang Sinai, ginhatag niya sa iya ang duha ka lutahan sang pagsaksi — mga lutahan sang bato, nga sinulatan sang tumoy sang tudlo sang Elohim.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Kag ginhatag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "sang natapos na niya"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ang paghambal"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kaniya",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "sang Sinai"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "ka lutahan"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "sang pagsaksi"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "mga lutahan"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "sang bato"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "nga sinulatan"
+    },
+    {
+      "surface": "באצבע",
+      "gloss": "sang tumoy sang tudlo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:35:54.684961683Z",
+  "model": "glm-5.3"
+}

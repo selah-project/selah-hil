@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 109,
+  "translation": "Indi magkabuhi sing gumahatag sang hesed sa iya, kag indi magkabuhi sing magatahod sa iya mga iloyon.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "magkabuhi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "משך",
+      "gloss": "sing gumahatag"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "sang hesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "magkabuhi"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "sing magatahod"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "sa iya mga iloyon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:50.978287507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 5:3",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag nagbangon sing mga madali ang mga taga-Ashdod sang masunod nga adlaw, kag yari, si Dagon natumba sa iya pangpang sa duta sa atubang sang kahon ni Yahweh; kag ginkuha nila ⟨את⟩ si Dagon kag ginbalik nila ⟨את⟩ ini sa iya duog.",
+  "tokens": [
+    {
+      "surface": "וישכמו",
+      "gloss": "kag nagbangon sing mga madali"
+    },
+    {
+      "surface": "אשדודים",
+      "gloss": "ang mga taga-Ashdod"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "sang masunod nga adlaw"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kag yari"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "si Dagon"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "natumba"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa iya pangpang"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sang kahon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "kag ginkuha nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Dagon"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "si Dagon"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "kag ginbalik nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ini (si Dagon)"
+    },
+    {
+      "surface": "למקומו",
+      "gloss": "sa iya duog"
+    }
+  ],
+  "timestamp": "2026-09-21T18:00:19.422283546Z",
+  "model": "glm-5.3"
+}

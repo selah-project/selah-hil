@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 7:9",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag ang ulo sang Efrayim amo ang Shomron, kag ang ulo sang Shomron amo ang anak ni Remalyahu; kon indi kamo magtuo, indi kamo magapalig-on.",
+  "tokens": [
+    {
+      "surface": "וראש",
+      "gloss": "kag ang ulo"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "sang Efrayim"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "amo ang Shomron"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "kag ang ulo"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "sang Shomron"
+    },
+    {
+      "surface": "בן",
+      "gloss": "amo ang anak"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "ni Remalyahu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "kamo magtuo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "indi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "תאמנו",
+      "gloss": "magapalig-on"
+    }
+  ],
+  "timestamp": "2026-09-21T18:53:16.236258891Z",
+  "model": "glm-5.3"
+}

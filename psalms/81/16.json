@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 81,
+  "translation": "Ang mga nagadumtan kay Yahweh magpangodla-an sa iya, kag ang ila tion magapabilin sing dayon.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "ang mga nagadumtan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "magpangodla-an"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag magapabilin"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "ang ila tion"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sing dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:51.354202284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag nagpanaw sila gikan sa Sukkot kag nagkampo sila sa Etam, sa gilid sang kamingawan.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "Kag nagpanaw sila"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "gikan sa Sukkot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "kag nagkampo sila"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "sa Etam"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "sa gilid"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "sang kamingawan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:26:39.688781499Z",
+  "model": "glm-5.3"
+}

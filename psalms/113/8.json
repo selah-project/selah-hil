@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 113,
+  "translation": "agod puklon niya ⟨sila⟩ kaupod sang mga datu, kaupod sang mga datu sang iya banwa.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "agod puklon niya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod sang"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "mga datu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod sang"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "mga datu sang"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "iya banwa"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:26.232629200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Nakakita ka sang madamu, apang wala mo ginbantay; may nagabukas sang mga igdula, apang wala magpatalinghug.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "nakakita ka"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "sang madamu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apang wala"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "mo ginbantay"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "may nagabukas"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "sang mga igdula"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apang wala"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "magpatalinghug"
+    }
+  ],
+  "timestamp": "2026-09-21T19:06:30.850520219Z",
+  "model": "glm-5.3"
+}

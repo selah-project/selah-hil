@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 56,
+  "translation": "Ang akon pagpanaw gintalangan ⟨mo⟩; butangi ang akon mga luha sa imo baga; wala bala sila sa imo sulatan?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "ang akon pagpanaw"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "gintalangan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "butangi"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "ang akon mga luha"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "sa imo baga"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "wala bala"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "sa imo sulatan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:22.788859487Z",
+  "model": "glm-5.3"
+}

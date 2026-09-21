@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ginpakita niya sa ila ⟨את⟩ ang sulod sang siyudad, kag ginpatay nila ⟨את⟩ ang siyudad sa baba sang espada, apang ⟨את⟩ ang tawo kag ⟨את⟩ ang tanan niya ka pamilya ginpalakat nila.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "ginpakita niya sa ila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang sulod sang siyudad"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "sulod"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sang siyudad"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ginpatay nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang siyudad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang siyudad"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sa baba"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sang espada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tawo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan niya ka pamilya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "niya ka pamilya"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ginpalakat nila"
+    }
+  ],
+  "timestamp": "2026-09-21T17:46:20.148310763Z",
+  "model": "glm-5.3"
+}

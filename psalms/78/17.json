@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 78:17",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Kag nagdugang pa gid sila sa pagpakasala sa iya, sa pagtumlay batok sa Elyon sa talahiban nga duta.",
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "nagdugang pa gid sila"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "sa pagpakasala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "sa pagtumlay"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "sa talahiban nga duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:36.468525675Z",
+  "model": "glm-5.3"
+}

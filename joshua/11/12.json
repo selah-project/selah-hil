@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 11:12",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag ⟨את⟩ tanan nga mga dakbanwa sang mga hari nga ini kag ⟨את⟩ tanan nga ila mga hari, ginkuha ni Yehoshua kag gintamaan niya sila pinaagi sang espada, ginpaanon niya sila sa lagda, samtang ginsogo ni Moshe, alagad ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga mga dakbanwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "nga mga dakbanwa"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "sang mga hari"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga ila mga hari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "nga ila mga hari"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "ginkuha"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "kag gintamaan niya sila"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "pinaagi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sang espada"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "ginpaanon sa lagda"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila (ang mga hari kag mga dakbanwa)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "samtang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsogo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "alagad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T17:40:04.362745641Z",
+  "model": "glm-5.3"
+}

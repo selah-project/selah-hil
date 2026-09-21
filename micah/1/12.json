@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kay naglaum ⟨sang⟩ maayo ang nagaestar sa Marot, kay nagpanaog ang kalaot gikan kang ⟨את⟩ Yahweh tubtob sa ganghaan sang Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "naglaum"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "sang maayo"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "nagaestar"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "sa Marot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "nagpanaog"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ang kalaot"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "tubtob sa ganghaan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sang Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-21T20:12:44.394219520Z",
+  "model": "glm-5.3"
+}

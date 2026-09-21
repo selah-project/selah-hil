@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Ini amo ang mga anak ni Kham, sumunod sa ila mga banay, sumunod sa ila mga pinulungan, sa ila mga duta, sa ila mga pungsod",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ni Kham"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sumunod sa ila mga banay"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "sumunod sa ila mga pinulungan"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "sa ila mga duta"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "sa ila mga pungsod"
+    }
+  ],
+  "timestamp": "2026-09-21T15:58:50.785627007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Ang nagsasiling sa adlaw kag indi ini mosikat, kag sa mga bitoon iya nagabutang sang tatak.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "ang nagsasiling"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "ini mosikat"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "mga bitoon"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "nagabutang sang tatak"
+    }
+  ],
+  "timestamp": "2026-09-21T21:08:03.244399610Z",
+  "model": "glm-5.3"
+}

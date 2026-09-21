@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Ini ang mga anak ni Esav, kag ini ang ila mga pangulo — siya amo si Edom.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ni Esav"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "kag ini"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "ila mga pangulo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya amo"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "si Edom"
+    }
+  ],
+  "timestamp": "2026-09-21T16:11:23.934285875Z",
+  "model": "glm-5.3"
+}

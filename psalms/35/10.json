@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Ang tanan ko nga mga tulang masiling: Yahweh, sin-o ang pareho sa Imo, nga nagaluwas sa pinakubos gikan sa mas makusog sa iya, sa pinakubos kag sa imol gikan sa nagapanghawad sa iya?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "ko nga mga tulang"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "masiling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ang pareho sa Imo"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "nga nagaluwas"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sa pinakubos"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "gikan sa mas makusog"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "kag sa pinakubos"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "kag sa imol"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "gikan sa nagapanghawad sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:15.630655463Z",
+  "model": "glm-5.3"
+}

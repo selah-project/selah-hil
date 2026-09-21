@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag ginsunog niya ⟨את⟩ ang balay ni Yahweh kag ⟨את⟩ ang balay sang hari, kag ⟨את⟩ ang tanan nga mga balay sang Yerushalayim; kag ang tanan nga balay nga dalagkò ginsunog niya sang kalayo.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "gingsunog niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang balay sang hari"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan nga mga balay sang Yerushalayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "mga balay"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sang Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan nga balay nga dalagkò"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nga dalagkò"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "gingsunog"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sang kalayo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:51:07.349057833Z",
+  "model": "glm-5.3"
+}

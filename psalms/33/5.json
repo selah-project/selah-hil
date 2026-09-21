@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Ginahigugma ni Yahweh ang pagkamatarong kag ang paghukom; sang hesed ni Yahweh puno ang duta.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ginahigugma"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "pagkamatarong"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "kag ang paghukom"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "puno"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T22:38:25.134326696Z",
+  "model": "glm-5.3"
+}

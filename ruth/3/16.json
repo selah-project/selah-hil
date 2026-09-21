@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag nagbalik siya sa iya ugangan, kag nagsiling ini: Ikaw bala, akon anak nga babae? Kag ginpahayag niya sa iya ⟨את⟩ tanan nga ginbuhat sang tawo sa iya.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "kag nagbalik siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "iya ugangan"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "kag nagsiling ini"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "akon anak nga babae"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "kag ginpahayag"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginbuhat"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "sang tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T21:21:44.765573326Z",
+  "model": "glm-5.3"
+}

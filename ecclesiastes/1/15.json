@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Ang nati-bakuko indi mapatindog, kag ang nawala indi mailhan.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "ang nati-bakuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "mapatindog"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "mapatindog"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "kag ang nawala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "mailhan"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "mailhan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:25:23.884982699Z",
+  "model": "glm-5.3"
+}

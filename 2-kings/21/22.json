@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 21:22",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag ginbilin niya ⟨את⟩ si Yahweh, ang Elohim sang iya mga katigulangan, kag wala siya maglakat sa dalan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "kag ginbilin niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sang iya mga katigulangan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "siya maglakat"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T18:48:50.595587960Z",
+  "model": "glm-5.3"
+}

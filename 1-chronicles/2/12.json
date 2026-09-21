@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag si Boaz natawo ⟨את⟩ kay Oved, kag si Oved natawo ⟨את⟩ kay Yishay.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "kag si Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "kay Oved"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "kag si Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yishay"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "kay Yishay"
+    }
+  ],
+  "timestamp": "2026-09-21T21:49:19.036290367Z",
+  "model": "glm-5.3"
+}

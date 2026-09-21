@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 81,
+  "translation": "Sa manugdumala, sa Gittith, kay Asaf.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa manugdumala"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gittith"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kay Asaf"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:53.441387075Z",
+  "model": "glm-5.3"
+}

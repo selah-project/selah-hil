@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag mga Ebreo nagtabok sang ⟨את⟩ ang Yarden padulong sa duta sang Gad kag sang Gilead; kag si Shaul ara pa sa Gilgal, kag ang bug-o nga katawhan nagurog sa pagsunod sa iya.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Kag mga Ebreo"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "nagtabok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ang Yarden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa duta sang"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "kag sang Gilead"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "kag si Shaul"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "ara pa"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "sa Gilgal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang bug-o nga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "nagurog"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sa pagsunod sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T18:01:24.367449926Z",
+  "model": "glm-5.3"
+}

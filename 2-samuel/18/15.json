@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag naglibot ang napulo ka mga batang lalaki nga naghakot sang mga armas ni Yoav, kag ginsilot nila ⟨את⟩ si Avshalom kag ginpamatay nila siya.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "kag naglibot"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ang napulo"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ka mga batang lalaki"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "nga naghakot"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "sang mga armas"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ni Yoav"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "kag ginsilot nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "si Avshalom"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "kag ginpamatay nila siya"
+    }
+  ],
+  "timestamp": "2026-09-21T18:22:24.820611135Z",
+  "model": "glm-5.3"
+}

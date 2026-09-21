@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 75,
+  "translation": "Kag ako magapahibalo sa dayon, magakanta ako sa Elohim ni Yaakov.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kag ako"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "magapahibalo"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "magakanta ako"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:42.183208303Z",
+  "model": "glm-5.3"
+}

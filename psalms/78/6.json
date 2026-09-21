@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Agod makakilala ang ulinhanon nga kaliwatan, ang mga anak nga matawo, nga mobangon kag mag-asoy sa ila mga anak.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "agod"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "makakilala"
+    },
+    {
+      "surface": "דור",
+      "gloss": "kaliwatan"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ulinhanon"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "matawo"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "mobangon"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "kag mag-asoy"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "sa ila mga anak"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:10.743504602Z",
+  "model": "glm-5.3"
+}

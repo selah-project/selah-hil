@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Sa pihak sang Yarden, sa duta sang Moav, nagbuot si Moshe sa pagpasabot ⟨את⟩ sang Torah nga ini, nga nagsiling:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "sa pihak sang"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta sang"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "nagbuot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "באר",
+      "gloss": "sa pagpasabot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang Torah nga ini"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "sang Torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagsiling"
+    }
+  ],
+  "timestamp": "2026-09-21T17:17:31.763604994Z",
+  "model": "glm-5.3"
+}

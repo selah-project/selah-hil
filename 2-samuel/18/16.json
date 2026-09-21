@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 18:16",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag ginminugad ni Yoav ang torotot, kag ang katawhan nagbalik gikan sa pagpanudlay sa likod sang Yisrael, kay ginpungan ni Yoav ⟨את⟩ ang katawhan.",
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "kag ginminugad"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ni Yoav"
+    },
+    {
+      "surface": "בשפר",
+      "gloss": "ang torotot"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kag nagbalik"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "gikan sa pagpanudlay"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sa likod sang"
+    },
+    {
+      "surface": "יואב",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ginpungan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ni Yoav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:22:24.821121647Z",
+  "model": "glm-5.3"
+}

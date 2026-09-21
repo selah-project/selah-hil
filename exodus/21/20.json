@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag kon tampalsan sang isa ka tawo ⟨את⟩ iya ulipon ukon ⟨את⟩ iya ulipon nga babayi sang baston, kag mamatay sa ubos sang iya kamot, pagpanumpo gapanumpoon siya.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Kag kon"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "tampalsan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "isa ka tawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya ulipon"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "iya ulipon"
+    },
+    {
+      "surface": "או",
+      "gloss": "ukon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya ulipon nga babayi"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "iya ulipon nga babayi"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "sang baston"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "kag mamatay"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ubos"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sang iya kamot"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "pagpanumpo"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "gapanumpoon siya"
+    }
+  ],
+  "timestamp": "2026-09-21T22:19:56.697561853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Sa balaan sang mga balaan magakaon ka sini; tanan nga lalaki magakaon ⟨אתו⟩; balaan ina magaaging imo.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "Sa balaan"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "sang mga balaan"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "magakaon ka sini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nga lalaki"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "magakaon"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "sini (ang pinakabalaan nga halad)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magaaging"
+    },
+    {
+      "surface": "לך",
+      "gloss": "imo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:07:50.537266101Z",
+  "model": "glm-5.3"
+}

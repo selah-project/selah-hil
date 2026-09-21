@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 115,
+  "translation": "Kaangay sa ila magaangot ang naghimo sa ila; amo man ang tanan nga nagasalig sa ila.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "kaangay sa ila"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "magaangot"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ang naghimo sa ila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "nagasalig"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:18.734519934Z",
+  "model": "glm-5.3"
+}

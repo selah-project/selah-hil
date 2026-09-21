@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 91,
+  "translation": "Lamang ang imo mga mata ang magabantay, kag ang singabut sang mga malaot imo makita.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ang imo mga mata"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "ang magabantay"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "kag ang singabut"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sang mga malaot"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "imo makita"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:11.937664200Z",
+  "model": "glm-5.3"
+}

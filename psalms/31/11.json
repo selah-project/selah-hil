@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kay nagtapos sa kasakit ang akon kabuhi, kag ang akon mga tuig sa pag-uwang; nagpaot ang akon gahum tungod sa akon sala, kag ang akon mga tul-an nagluya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "nagtapos"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "sa kasakit"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ang akon kabuhi"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "kag ang akon mga tuig"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "sa pag-uwang"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "nagpaot"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "tungod sa akon sala"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ang akon gahum"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "kag ang akon mga tul-an"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "nagluya"
+    }
+  ],
+  "timestamp": "2026-09-21T22:38:59.778531930Z",
+  "model": "glm-5.3"
+}

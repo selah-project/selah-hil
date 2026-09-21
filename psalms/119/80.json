@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Magabut-an nga himpit ang akon kasingkasing sa imo mga bakod ⟨nga kasuguan⟩, agod indi ako magpaubos.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "magabut-an"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang akon kasingkasing"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "himpit"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "sa imo mga bakod"
+    },
+    {
+      "surface": "למען",
+      "gloss": "agod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ako magpaubos"
+    }
+  ],
+  "timestamp": "2026-09-21T20:50:47.235773575Z",
+  "model": "glm-5.3"
+}

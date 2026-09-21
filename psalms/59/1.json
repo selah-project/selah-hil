@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 59,
+  "translation": "Sa Manugpanguna; Al Tashchet; Miktam ni David, sang pagsugo ni Shaul, kag gintan-aw nila ⟨את⟩ ang balay sa pagpatay sa iya.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa Manugpanguna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Al"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "Tashchet"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "sang pagsugo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "kag gintan-aw nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "sa pagpatay sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:10.852947033Z",
+  "model": "glm-5.3"
+}

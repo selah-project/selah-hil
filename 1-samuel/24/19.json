@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 24:19",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag ikaw nagpahibalo subong nga adlaw ⟨את⟩ ang imo ginhimo ⟨את⟩ sa akon nga maayo — ⟨את⟩ nga ginsirad ni Yahweh ako sa imo kamot kag wala mo ako ginpatay.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Kag ikaw"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "nagpahibalo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "subong nga adlaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imo ginhimo sa akon nga maayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "imo ginhimo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ sa akon"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ginsirad ni Yahweh ako sa imo kamot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "סגרני",
+      "gloss": "ginsirad ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "sa imo kamot"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "הרגתני",
+      "gloss": "mo ako ginpatay"
+    }
+  ],
+  "timestamp": "2026-09-21T18:08:07.129244530Z",
+  "model": "glm-5.3"
+}

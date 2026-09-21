@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag nahitabo, sang nahimo nga matinud-anon ang gingharian sa iya kamot, gintama niya ⟨את⟩ iya mga sulugoon, ang mga nagtama ⟨את⟩ sa hari nga iya amay.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag nahitabo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sang"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "nahimo nga matinud-anon"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ang gingharian"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa iya kamot"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "gintama niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya mga sulugoon"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iya mga sulugoon"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "ang mga nagtama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa hari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nga iya amay"
+    }
+  ],
+  "timestamp": "2026-09-21T18:45:47.889632445Z",
+  "model": "glm-5.3"
+}

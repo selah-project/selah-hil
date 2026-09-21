@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 2:14",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Ang maalam, ang iya mga mata yara sa iya ulo, kag ang bangol nagalakat sa kadudulman; kag nakilala ko man, ako, nga isa ka hitabo magaabot ⟨את⟩ sa ila tanan.",
+  "tokens": [
+    {
+      "surface": "החכם",
+      "gloss": "ang maalam"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ang iya mga mata"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "sa iya ulo"
+    },
+    {
+      "surface": "והכסיל",
+      "gloss": "kag ang bangol"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "sa kadudulman"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "nagalakat"
+    },
+    {
+      "surface": "וידעתי",
+      "gloss": "kag nakilala ko"
+    },
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "שמקרה",
+      "gloss": "nga ang hitabo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa ka"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "magaabot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa ila tanan"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sa ila tanan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:43:22.091136053Z",
+  "model": "glm-5.3"
+}

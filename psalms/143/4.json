@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 143,
+  "translation": "Kag nag-uyan-uyan sa akon ang akon espiritu; sa sulod sang akon kasing-kasing nagdaut ini.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "nag-uyan-uyan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ang akon espiritu"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "sa sulod sang akon"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "nagdaut"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kasing-kasing"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:39.200791892Z",
+  "model": "glm-5.3"
+}

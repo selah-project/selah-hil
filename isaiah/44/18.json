@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 44:18",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Wala sila nakakilala kag wala sila nakasabot, kay gintabon ang ila mga mata sa ⟨pagtan-aw⟩, kag ang ila mga kasingkasing sa ⟨paghangop⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "sila nakakilala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "sila nakasabot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "טח",
+      "gloss": "gintabon"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "sa pagtan-aw"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ang ila mga mata"
+    },
+    {
+      "surface": "מהשכיל",
+      "gloss": "sa paghangop"
+    },
+    {
+      "surface": "לבתם",
+      "gloss": "ang ila mga kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-21T19:09:03.381375794Z",
+  "model": "glm-5.3"
+}

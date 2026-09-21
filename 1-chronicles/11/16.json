@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag si David sadto ara sa kuta, kag ang bantay sang mga Pelishtino sadto ara sa Bet-Lechem.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "kag si David"
+    },
+    {
+      "surface": "אז",
+      "gloss": "sadto"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "sa kuta"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "kag ang bantay"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sang mga Pelishtino"
+    },
+    {
+      "surface": "אז",
+      "gloss": "sadto"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-09-21T21:53:20.721444009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 3:15",
+  "book": "esther",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Ang mga dalaganon nagguwa nga ginpaspasan tungod sa pulong sang hari, kag ang kasugoan ginhatag sa Shushan sang kuta; kag ang hari kag si Haman nagpungko sa pag-inom, ⟨apang⟩ ang syudad sang Shushan naglibog.",
+  "tokens": [
+    {
+      "surface": "הרצים",
+      "gloss": "ang mga dalaganon"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "nagguwa"
+    },
+    {
+      "surface": "דחופים",
+      "gloss": "nga ginpaspasan"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "tungod sa pulong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "והדת",
+      "gloss": "kag ang kasugoan"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ginhatag"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "sa Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "sang kuta"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "kag ang hari"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "kag si Haman"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "nagpungko"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "sa pag-inom"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "kag ang syudad"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "sang Shushan"
+    },
+    {
+      "surface": "נבוכה",
+      "gloss": "naglibog"
+    }
+  ],
+  "timestamp": "2026-09-21T21:29:06.259944002Z",
+  "model": "glm-5.3"
+}

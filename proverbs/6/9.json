@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Hangtod san-o, tamad, ikaw magahigda? San-o ikaw magabangon sa imo tulog?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "san-o"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "tamad"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ikaw magahigda"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "san-o"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ikaw magabangon"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "sa imo tulog"
+    }
+  ],
+  "timestamp": "2026-09-21T20:56:42.765052746Z",
+  "model": "glm-5.3"
+}

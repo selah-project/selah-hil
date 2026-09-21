@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag wala ⟨na⟩ sing buhaton ang Mitsrayim, nga mahimo sang ulo ukon ikog, dahon sang palma ukon tikog.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mangin"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buhaton"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "mahimo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sang ulo"
+    },
+    {
+      "surface": "זנב",
+      "gloss": "ukon ikog"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "dahon sang palma"
+    },
+    {
+      "surface": "אגמון",
+      "gloss": "ukon tikog"
+    }
+  ],
+  "timestamp": "2026-09-21T18:58:15.380135302Z",
+  "model": "glm-5.3"
+}

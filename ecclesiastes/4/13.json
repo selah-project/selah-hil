@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Maayo ang bata nga imol kag maalam kaysa ⟨sa⟩ hari nga tigulang kag ulaw, nga wala nakakahibalo magpaandam pa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Maayo"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "nga imol"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "kag maalam"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "kaysa ⟨sa⟩ hari"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "nga tigulang"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "kag ulaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakakahibalo"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "magpaandam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    }
+  ],
+  "timestamp": "2026-09-21T22:42:52.182802520Z",
+  "model": "glm-5.3"
+}

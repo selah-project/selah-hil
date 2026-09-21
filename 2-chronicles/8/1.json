@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag nangin sa katapusan sang duha ka pulo ka tuig, nga gintukod ni Shelomoh ⟨את⟩ ang balay ni Yahweh kag ⟨את⟩ ang iya kaugalingon nga balay.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag nangin"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "sa katapusan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duha ka pulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "gintukod"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya kaugalingon nga balay"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ang iya kaugalingon nga balay"
+    }
+  ],
+  "timestamp": "2026-09-21T22:03:43.373305188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 6:8",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag pagadalaon ko ⟨אתכם⟩ kamo sa duta nga akon ginpanganud ⟨את⟩ sang akon kamot sa paghatag sini ⟨אתה⟩ kay Avraham, kay Yitskhak, kag kay Yaakov, kag ihatag ko ini ⟨אתה⟩ sa inyo subong nga minan-angkon; ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "kag pagadalaon ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ginpanganud ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akon kamot"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kamot"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sa paghatag"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "ini"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kay Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kay Yitskhak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "kag kay Yaakov"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "kag ihatag ko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "ini"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "minan-angkon"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:22:40.482837854Z",
+  "model": "glm-5.3"
+}

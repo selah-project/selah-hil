@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag nangin, sang pataason ni Yahweh ⟨את⟩ si Eliyahu sa bagyo ngadto sa mga langit, kag naglakat si Eliyahu kag si Elisha halin sa Gilgal.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag nangin"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "sa pagpataas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "si Eliyahu"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "sa bagyo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ngadto sa mga langit"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kag naglakat"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "si Eliyahu"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "kag si Elisha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "halin"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "sa Gilgal"
+    }
+  ],
+  "timestamp": "2026-09-21T18:39:50.589444102Z",
+  "model": "glm-5.3"
+}

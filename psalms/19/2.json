@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Ang mga langit nagsasaysay sang himaya sang El, kag ang iya mga kamot nga buhat ginapahibalo sang rakia.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Ang mga langit"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "nagsasaysay"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "sang himaya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sang El"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "kag ang buhat"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "sang iya mga kamot"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "nagapahibalo"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "ang rakia"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:48.190589774Z",
+  "model": "glm-5.3"
+}

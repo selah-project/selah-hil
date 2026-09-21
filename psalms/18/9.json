@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Nagtungtong ang aso sa iya ilong, kag kalayo gikan sa iya baba naglamon; mga baga nagkadimalay gikan sa iya.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "nagtungtong"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "aso"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "sa iya ilong"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "kag kalayo"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "gikan sa iya baba"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "naglamon"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "mga baga"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "nagkadimalay"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "gikan sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:19.671028876Z",
+  "model": "glm-5.3"
+}

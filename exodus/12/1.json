@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag naghambal si Yahweh kay Moshe kag kay Aharon sa duta sang Mitsrayim, nga nagsiling:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag naghambal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag kay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagsiling"
+    }
+  ],
+  "timestamp": "2026-09-21T16:24:27.690058529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Sin-o ang kaangay sang maalam, kag sin-o ang nakakasayod sang pagpaathag sang isa ka butang? Ang kaalam sang tawo nagapasidlak sang iya dagway, kag ang kusog sang iya dagway pagailisanon.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "ang kaangay sang maalam"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "kag sin-o"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "nakakasayod"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "pagpaathag"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sang butang"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ang kaalam"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "nagapasidlak"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sang iya dagway"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "kag ang kusog"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sang iya dagway"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "pagailisanon"
+    }
+  ],
+  "timestamp": "2026-09-21T21:26:57.875591794Z",
+  "model": "glm-5.3"
+}

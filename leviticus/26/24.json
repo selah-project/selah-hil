@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "maglakat ako, bisan ako, upod sa inyo sa keri, kag hampakon ko kamo ⟨את⟩, bisan ako, sing pito ka beses, tungod sa inyo mga sala.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "maglakat ako"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "upod sa inyo"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "sa keri"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "kag hampakon ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito ka beses"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "sa inyo mga sala"
+    }
+  ],
+  "timestamp": "2026-09-21T16:56:44.616523657Z",
+  "model": "glm-5.3"
+}

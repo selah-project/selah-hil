@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "kag ⟨את⟩ ang halaran sang insenso kag ⟨את⟩ iya mga baras kag ⟨את⟩ ang lana sang pagpahid kag ⟨את⟩ ang insenso sang mga pahumot kag ⟨את⟩ ang kurtina sang pultahan, sa pultahan sang Tabernakulo",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang halaran sang insenso"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ang halaran"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "sang insenso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga baras"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "iya mga baras"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang lana sang pagpahid"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ang lana"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "sang pagpahid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang insenso sang mga pahumot"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ang insenso"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "sang mga pahumot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang kurtina sang pultahan"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ang kurtina"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "sang pultahan"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "sa pultahan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "sang Tabernakulo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:36:29.597243588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Paano magadala ako akon lamang sang inyo kabaliskisan, kag sang inyo pagpas-an, kag sang inyo mga away?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Paano"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "magadala ako"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "akon lamang"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "inyo kabaliskisan"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "kag sang inyo pagpas-an"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "kag sang inyo mga away"
+    }
+  ],
+  "timestamp": "2026-09-21T17:17:03.992059995Z",
+  "model": "glm-5.3"
+}

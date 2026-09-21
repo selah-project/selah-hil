@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 114,
+  "translation": "Ang mga bukid, nagsayaw kamo ⟨pareho⟩ sang mga karnero nga lalaki; ang mga bungtod, ⟨pareho⟩ sang mga anak sang kawan?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "ang mga bukid"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "nagsayaw kamo"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "sang mga karnero nga lalaki"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ang mga bungtod"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "sang mga anak"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sang kawan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:41.242628787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 136,
+  "translation": "Kag gintumba niya si Paro kag ang iya kasundalohan sa Yam Suf, kay sa dayon ang iya hesed.",
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "kag gintumba niya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "si Paro"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "kag ang iya kasundalohan"
+    },
+    {
+      "surface": "בים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "sang Suf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iya hesed"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:28.815551953Z",
+  "model": "glm-5.3"
+}

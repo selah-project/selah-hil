@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag si Yoav kag si Avishai nga iya utod amo ang naggipatay ⟨kang⟩ Avner, bangod ginto-o niya ⟨את⟩ si Asahel nga ila utod sa Givon, sa paggubat.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Kag si Yoav"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "kag si Avishai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iya utod"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "naggipatay"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "⟨kang⟩ Avner"
+    },
+    {
+      "surface": "על",
+      "gloss": "bangod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "המית",
+      "gloss": "ginto-o niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Asahel"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "si Asahel"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "ila utod"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "sa Givon"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "sa paggubat"
+    }
+  ],
+  "timestamp": "2026-09-21T18:14:13.646039493Z",
+  "model": "glm-5.3"
+}

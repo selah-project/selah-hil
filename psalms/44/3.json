@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Ikaw — ang imo kamot ang naggwa: ang mga pungsod ginpanaw kag gintanom ⟨sila⟩; ang mga katawhan ginpasakitan kag ginpalapad ⟨sila⟩.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "imo kamot"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga pungsod"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "ginpanaw"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "kag gintanom ⟨sila⟩"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "ginpasakitan"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "mga katawhan"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "kag ginpalapad ⟨sila⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T22:40:02.089462505Z",
+  "model": "glm-5.3"
+}

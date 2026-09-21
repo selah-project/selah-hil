@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Sa manugdumala, sa sulugoon ni Yahweh, kay David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa manugdumala"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "sa sulugoon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kay David"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:34.485266918Z",
+  "model": "glm-5.3"
+}

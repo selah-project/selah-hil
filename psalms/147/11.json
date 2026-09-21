@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 147,
+  "translation": "Nalilipay si Yahweh ⟨את⟩ sa mga nagakahadlok sa iya, ⟨את⟩ sa mga naghahulat sang iya hesed.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "nalilipay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga nagakahadlok sa iya"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "mga nagakahadlok sa iya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga naghahulat sang iya hesed"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "mga naghahulat"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "sang iya hesed"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:07.527055877Z",
+  "model": "glm-5.3"
+}

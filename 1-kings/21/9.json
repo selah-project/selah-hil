@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag ginsulat niya sa mga sulat, nga nagasiling: Ipanawag kamo sang pagpuasa, kag pagpalingkod kamo ⟨את⟩ kay Navot sa ulo sang mga tawo.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "kag ginsulat niya"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "sa mga sulat"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ipanawag kamo"
+    },
+    {
+      "surface": "צום",
+      "gloss": "sang pagpuasa"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "kag pagpalingkod kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Navot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "sa ulo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sang mga tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:37:01.873593126Z",
+  "model": "glm-5.3"
+}

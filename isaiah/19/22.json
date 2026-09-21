@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag tunokon ni Yahweh ⟨את⟩ ang Mitsrayim — tunok kag pag-ayo; kag magabalik sila ngadto kay Yahweh, kag mabati niya sila kag aayahon niya sila.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "kag tunokon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "tunok"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "kag pag-ayo"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "kag magabalik sila"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ngadto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "kag mabati niya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "kag aayahon sila"
+    }
+  ],
+  "timestamp": "2026-09-21T18:57:35.148898668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kay nakita ni Yahweh ⟨את⟩ ang kasakitan sang Yisrael, mapait gid sang madamu, kag wala sing ginsira kag wala sing ginbaya-an, kag wala sing manogbulig sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kasakitan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ang kasakitan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "mapait"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gid sang madamu"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "kag wala sing"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "ginsira"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "kag wala sing"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "ginbaya-an"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala sing"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "manogbulig"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "sa Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T18:45:27.410386198Z",
+  "model": "glm-5.3"
+}

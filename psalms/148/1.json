@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 148,
+  "translation": "Dayawa si Yah; dayawa ninyo ⟨את⟩ si Yahweh gikan sa mga langit; dayawon ninyo siya sa mga kahitas-an.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dayawa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "si Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "dayawa ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "dayawon ninyo siya"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "sa mga kahitas-an"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:30.465697702Z",
+  "model": "glm-5.3"
+}

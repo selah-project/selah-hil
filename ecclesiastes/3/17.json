@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Nagsiling ako sa akon tagipusuon: si Elohim magahukom ⟨את⟩ sang matarong kag ⟨את⟩ sang malain, kay may tion sang tagsa ka gusto kag sa tanan nga buluhaton sadto.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Nagsiling"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "sa akon tagipusuon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang matarong"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "sang matarong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang malain"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "sang malain"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "magahukom"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tion"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sang tagsa"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ka gusto"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "nga buluhaton"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadto"
+    }
+  ],
+  "timestamp": "2026-09-21T22:43:04.875374469Z",
+  "model": "glm-5.3"
+}

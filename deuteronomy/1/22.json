@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 1:22",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nagpalapit kamo sa akon, tanan kamo, kag nagsiling: Magpadala kita sang mga tawo sang-atubang namon, kag usisahon nila para sa aton ⟨את⟩ ang duta, kag ibalik nila ⟨אתנו⟩ sa aton ang pulong — ⟨את⟩ ang dalan nga aton sumulungan sa sini kag ⟨את⟩ ang mga siyudad nga aton suluran sa ila.",
+  "tokens": [
+    {
+      "surface": "ותקרבון",
+      "gloss": "Kag nagpalapit kamo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "tanan kamo"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "נשלחה",
+      "gloss": "Magpadala kita"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "sang mga tawo"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "sang-atubang namon"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "kag usisahon nila"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "para sa aton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "kag ibalik nila"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ang pulong"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sa aton ang pulong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dalan"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ang dalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "aton sumulungan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sa sini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga siyudad"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ang mga siyudad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נבא",
+      "gloss": "aton suluran"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T17:17:19.364047481Z",
+  "model": "glm-5.3"
+}

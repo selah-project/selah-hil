@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 6:9",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag gintubos ko kamo sa kamot sang Mitsrayim kag sa kamot sang tanan ninyo mga manuglutos, kag ginpaguwa ko sila sa inyo atubangan, kag gintagan ko kamo ⟨את⟩ sang ila duta.",
+  "tokens": [
+    {
+      "surface": "ואצל",
+      "gloss": "Kag gintubos ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "kag sa kamot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "לחציכם",
+      "gloss": "ninyo mga manuglutos"
+    },
+    {
+      "surface": "ואגרש",
+      "gloss": "kag ginpaguwa ko"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "sa inyo atubangan"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "kag gintagan ko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "sang ila duta"
+    }
+  ],
+  "timestamp": "2026-09-21T17:47:41.727055934Z",
+  "model": "glm-5.3"
+}

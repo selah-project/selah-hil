@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag gintuga niya ⟨את⟩ ang yadtong edipisyo sa ibabaw sang tanan nga bahin sang balay, lima ka siko ang iya kataas; kag ginkaptan niya ⟨את⟩ ang balay sang mga kahoy sang sedro.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "gintuga niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang yadtong edipisyo"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "ang yadtong edipisyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga bahin"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ka siko"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "ang iya kataas"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "kag ginkaptan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "sang mga kahoy"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sang sedro"
+    }
+  ],
+  "timestamp": "2026-09-21T18:28:27.933509841Z",
+  "model": "glm-5.3"
+}

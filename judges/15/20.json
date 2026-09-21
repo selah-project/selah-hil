@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Kag ginhukman niya ⟨את⟩ si Yisrael sa mga adlaw sang mga Pelishtehanon, duha ka pulo ka tuig.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ginhukman niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "sa mga adlaw"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sang mga Pelishtehanon"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duha ka pulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    }
+  ],
+  "timestamp": "2026-09-21T17:52:38.986314596Z",
+  "model": "glm-5.3"
+}

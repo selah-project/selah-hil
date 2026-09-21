@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 5:26",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag magdakot ang saserdote gikan sa halad ⟨את⟩ ang pahinumdom sini, kag pasonugin niya ini sa halaran, kag pagkatapos ipainum niya ⟨את⟩ ang babae ⟨את⟩ ang tubig.",
+  "tokens": [
+    {
+      "surface": "וקמץ",
+      "gloss": "kag magdakot"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang saserdote"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "halad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pahinumdom sini"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "ang iya pahinumdom"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "kag pasonugin"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa halaran"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "kag pagkatapos"
+    },
+    {
+      "surface": "ישקה",
+      "gloss": "ipainum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang babae"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ang babae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tubig"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang tubig"
+    }
+  ],
+  "timestamp": "2026-09-21T17:01:55.244192387Z",
+  "model": "glm-5.3"
+}

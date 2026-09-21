@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag ⟨את⟩ ang mga paril sang Yerushalayim sa palibot gintumba sang tanan nga hukbo sang Kasdim nga ⟨ara uban⟩ sang pangulo sang mga mananabas.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga paril sang Yerushalayim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "mga paril"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sang Yerushalayim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "gintumba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hukbo"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "sang Kasdim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "רב",
+      "gloss": "sang pangulo"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "sang mga mananabas"
+    }
+  ],
+  "timestamp": "2026-09-21T18:51:07.349494098Z",
+  "model": "glm-5.3"
+}

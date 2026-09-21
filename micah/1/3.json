@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kay tan-awa, si Yahweh magagwa sa iya dungganan, kag maganaog, kag magatapak sa mga kahitaasan sang duta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "magagwa"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "sa iya dungganan"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "kag maganaog"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "kag magatapak"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "mga kahitaasan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:13:44.196738673Z",
+  "model": "glm-5.3"
+}

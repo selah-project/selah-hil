@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 8:1",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag nagsiling si Yahweh kay Moshe: Siling kay Aharon: Ipadangat ang imo kamot gamit ang imo tungkod sa ibabaw sang mga suba, sa ibabaw sang mga sapa kag sa ibabaw sang mga linaw, kag pagpadangata ⟨את⟩ ang mga baki sa duta sang Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Siling"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Ipadangat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imo kamot"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "imo kamot"
+    },
+    {
+      "surface": "במטך",
+      "gloss": "gamit ang imo tungkod"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "הנהרת",
+      "gloss": "mga suba"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "היארים",
+      "gloss": "mga sapa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa ibabaw sang"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "mga linaw"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "kag pagpadangata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga baki"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "mga baki"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:24:24.754640925Z",
+  "model": "glm-5.3"
+}

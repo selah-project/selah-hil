@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kag himuon nila nga magdala ang mga tawo sang ⟨את⟩ sala sang pagkasalaan, sa pagkaon nila sang ⟨את⟩ ila mga balaan, kay ako si Yahweh ang nagabalaan sa ila.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "kag himuon nila nga magdala"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sala"
+    },
+    {
+      "surface": "עון",
+      "gloss": "sala"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "sang pagkasalaan"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "sa pagkaon nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ila mga balaan"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "ila mga balaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "ang nagabalaan sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T16:53:24.020468252Z",
+  "model": "glm-5.3"
+}

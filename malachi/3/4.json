@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 3:4",
+  "book": "malachi",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag magakalipayan sang Yahweh ang halad sang Yehudah kag sang Yerushalayim, pareho sang mga adlaw sang una kag sang mga tuig nga nagligad.",
+  "tokens": [
+    {
+      "surface": "וערבה",
+      "gloss": "kag magakalipayan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sang Yahweh"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ang halad"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "kag sang Yerushalayim"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "pareho sang mga adlaw"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sang una"
+    },
+    {
+      "surface": "וכשנים",
+      "gloss": "kag sang mga tuig"
+    },
+    {
+      "surface": "קדמניות",
+      "gloss": "nga nagligad"
+    }
+  ],
+  "timestamp": "2026-09-21T20:23:49.464108936Z",
+  "model": "glm-5.3"
+}

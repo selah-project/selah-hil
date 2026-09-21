@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 52,
+  "translation": "Mga kaguba nagahunahunaon sang imo dila, pareho sang talam nga ginhamis, naghimo sang pagpandaya.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Mga kaguba"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "nagahunahunaon"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "sang imo dila"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "pareho sang talam"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "nga ginhamis"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "naghimo"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "sang pagpandaya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:57.683303735Z",
+  "model": "glm-5.3"
+}

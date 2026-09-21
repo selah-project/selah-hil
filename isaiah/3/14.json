@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Magakari si Yahweh sa hukum upod sa mga tigulang sang iya katawhan kag sa iya mga magdudumala: kamo amo ang naghurot sang kaparrasan; ang ginkuha sang imol ara sa inyo mga balay.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sa hukum"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "magakari"
+    },
+    {
+      "surface": "עם",
+      "gloss": "upod"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga tigulang"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sang iya katawhan"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "kag iya mga magdudumala"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "naghurot"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "sang kaparrasan"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "ang ginkuha"
+    },
+    {
+      "surface": "העני",
+      "gloss": "sang imol"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "sa inyo mga balay"
+    }
+  ],
+  "timestamp": "2026-09-21T18:54:04.627020829Z",
+  "model": "glm-5.3"
+}

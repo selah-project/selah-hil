@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Tan-awa, ang mata ni Yahweh ⟨yahari⟩ sa mga nagakalil-ad sa iya, sa mga nagahulat sang iya hesed;",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ang mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨yahari⟩ sa"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "sa mga nagakalil-ad sa iya"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "sa mga nagahulat"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "sang iya hesed"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:30.837683196Z",
+  "model": "glm-5.3"
+}

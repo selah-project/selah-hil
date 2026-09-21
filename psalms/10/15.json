@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Guba-a ang bukton sang tamaotao kag sang daotan; pangitaa ang iya kalautan — indi na magakita.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "guba-a"
+    },
+    {
+      "surface": "зרוע",
+      "gloss": "ang bukton"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sang tamaotao"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "kag sang daotan"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "pangitaa"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "ang iya kalautan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indi na"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "magakita"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:41.266635468Z",
+  "model": "glm-5.3"
+}

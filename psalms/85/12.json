@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 85,
+  "translation": "Ang kamatuoran magatubo gikan sa duta, kag ang pagkamatarong magatan-aw pababa sa mga langit.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "ang kamatuoran"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa duta"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "magatubo"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "kag ang pagkamatarong"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "sa mga langit"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "magatan-aw pababa"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:59.858080630Z",
+  "model": "glm-5.3"
+}

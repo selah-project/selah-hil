@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 39,
+  "translation": "Sa tanan nga akon mga sala luwasi ako; indi ako paghimoon ⟨nga⟩ kaulawan sang buang.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "akon mga sala"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "luwasi ako"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "kaulawan"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "sang buang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "paghimoon ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:28.754827311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag ginpanihig niya ⟨את⟩ ang tago kag ⟨את⟩ ang mga tiil, kag ginpahaloy niya sa ibabaw sang halad nga sinusunog, sa halaran.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "ginpanihig niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tago"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ang tago"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga tiil"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "ang mga tiil"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ginpahaloy niya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sang halad nga sinusunog"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa halaran"
+    }
+  ],
+  "timestamp": "2026-09-21T16:45:45.886565427Z",
+  "model": "glm-5.3"
+}

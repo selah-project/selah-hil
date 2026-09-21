@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 46,
+  "translation": "Kag himuon nila ⟨את⟩ ang kordero kag ⟨את⟩ ang halad nga harina kag ⟨את⟩ ang lana sa aga, sa aga — halad nga sinusunog nga padayon.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Kag himuon nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kordero"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ang kordero"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang halad nga harina"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ang halad nga harina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang lana"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ang lana"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa aga"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa aga"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "halad nga sinusunog"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nga padayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:02:01.976707459Z",
+  "model": "glm-5.3"
+}

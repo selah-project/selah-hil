@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag sa ikalima nga tuig kaunon ninyo ⟨את⟩ ang iya bunga, agud madugangan sa inyo ang iya ani; ako si Yahweh ang inyo Elohim.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "kag sa tuig"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "ikalima"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kaunon ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya bunga"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ang iya bunga"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "agud madugangan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "ang iya ani"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ang inyo Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:52:12.656161180Z",
+  "model": "glm-5.3"
+}

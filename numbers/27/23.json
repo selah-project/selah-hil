@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "kag nagbutang siya sang ⟨את⟩ iya mga kamot sa ibabaw sinya kag gintangdo niya siya, suno sa ginhambal ni Yahweh paagi sa kamot ni Moshe.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "kag nagbutang siya sang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya mga kamot"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "iya mga kamot"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa ibabaw sinya"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "kag gintangdo niya siya"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "suno sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ginhambal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "paagi sa kamot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T22:23:26.678240374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag kuhaon mo gikan didto sing gamay sa ihap, kag igapot mo ⟨אתם⟩ sa imo mga pako.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "kag kuhaon mo"
+    },
+    {
+      "surface": "משם",
+      "gloss": "gikan didto"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sing gamay"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "sa ihap"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "kag igapot mo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sa imo mga pako"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "sa imo mga pako"
+    }
+  ],
+  "timestamp": "2026-09-21T19:42:44.618972222Z",
+  "model": "glm-5.3"
+}

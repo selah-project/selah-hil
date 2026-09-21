@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 93,
+  "translation": "Labaw pa sa mga tingog sang madamu nga tubig, sa mga makusog nga pangdasdag sang dagat — labi nga makusog sa kataas-taasan si Yahweh.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "sa mga tingog"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "madamu"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "makusog"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "mga pangdasdag"
+    },
+    {
+      "surface": "ים",
+      "gloss": "sang dagat"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "labi nga makusog"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "sa kataas-taasan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:18.220260890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kon ginpunit gid kag ginlumpo, dalhon niya ⟨ini⟩ bilang saksi; ang ginlumpo indi niya bayaran.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ginpunit gid"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "ginlumpo"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "dalhon niya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bilang saksi"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "ang ginlumpo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "niya bayaran"
+    }
+  ],
+  "timestamp": "2026-09-21T22:19:48.971633446Z",
+  "model": "glm-5.3"
+}

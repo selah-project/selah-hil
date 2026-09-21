@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 141,
+  "translation": "Magkadto sila sa ila mga kaugalingon nga panganod ang mga malain, samtang ako mismo magalaktod ⟨hangtod⟩ magtabok ako.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "Magkadto sila"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "sa ila mga kaugalingon nga panganod"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ang mga malain"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "samatong"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako mismo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "magtabok ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:22.270965433Z",
+  "model": "glm-5.3"
+}

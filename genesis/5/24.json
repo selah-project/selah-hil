@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag naglakat si Khanokh kaupod ⟨את⟩ sang Elohim, kag wala na siya, kay ginkuha sang Elohim ⟨אתו⟩ siya.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "Kag naglakat"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "si Khanokh"
+    },
+    {
+      "surface": "את",
+      "gloss": "kaupod ⟨את⟩",
+      "marks": "sang Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "kag wala na siya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ginkuha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "siya (si Khanokh)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T15:56:51.629883094Z",
+  "model": "glm-5.3"
+}

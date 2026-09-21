@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 129,
+  "translation": "Kag indi magahambal ang mga nagapaligad, 'Ang panalangin ni Yahweh ⟨magakabuhi⟩ sa inyo; ginpanalanginan namon ⟨אתכם⟩ sa ngalan ni Yahweh.'",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "magahambal"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ang mga nagapaligad"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "ang panalangin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "ginpanalanginan namon"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "sa inyo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:50.815116698Z",
+  "model": "glm-5.3"
+}

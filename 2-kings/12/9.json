@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Nagtuok ang mga saserdote sa indi na pagkuha sang salapi gikan ⟨את⟩ mga tawo kag sa indi na pagpalig-on sang ⟨את⟩ gisi sang balay.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "nagtuok"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ang mga saserdote"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "sa indi na pag-"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "kuha"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "salapi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "gikan ⟨את⟩",
+      "marks": "mga tawo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "kag sa indi na pag-"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "palig-on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gisi"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "gisi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sang balay"
+    }
+  ],
+  "timestamp": "2026-09-21T18:46:02.012658810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 2:8",
+  "book": "micah",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag kag-aha-una ang akon katawhan nagatindog bilang kaaway: sa atubang sang bado ginabun-ag ninyo ang matahum nga abay, sa mga nagakadto-ani sa kaligwa, ⟨sa mga⟩ nagabalik halin sa gera.",
+  "tokens": [
+    {
+      "surface": "ואתמול",
+      "gloss": "Kag kag-aha-una"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ang akon katawhan"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "bilang kaaway"
+    },
+    {
+      "surface": "יקומם",
+      "gloss": "nagatindog"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "sang bado"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "matahum nga abay"
+    },
+    {
+      "surface": "תפשטון",
+      "gloss": "ginabun-ag ninyo"
+    },
+    {
+      "surface": "מעברים",
+      "gloss": "sa mga nagakadto-ani"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "sa kaligwa"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "nagabalik"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sa gera"
+    }
+  ],
+  "timestamp": "2026-09-21T20:13:05.286663806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Isa ka pagtulun-an ni Eitan ang Ezrahi.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "pagtulun-an"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "ni Eitan"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "ang Ezrahi"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:28.564620452Z",
+  "model": "glm-5.3"
+}

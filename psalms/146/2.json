@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 146,
+  "translation": "Magadayeg ako kay Yahweh samtang ako buhi; magakanta ako sa akon Elohim samtang may kabuhi ako.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "magadayeg ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "samtang ako buhi"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "magakanta ako"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "sa akon Elohim"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "samtang may kabuhi ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:24.272293114Z",
+  "model": "glm-5.3"
+}

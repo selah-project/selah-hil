@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Maayo ang katapusan sang butang kaysa sa iya ginsuguran; maayo ang may madugay nga espiritu kaysa ang mataas nga espiritu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Maayo"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ang katapusan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sang butang"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "kaysa sa iya ginsuguran"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ang may madugay"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "nga espiritu"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "kaysa ang mataas"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "nga espiritu"
+    }
+  ],
+  "timestamp": "2026-09-21T21:27:07.103266481Z",
+  "model": "glm-5.3"
+}

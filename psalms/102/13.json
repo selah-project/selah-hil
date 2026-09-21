@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 102,
+  "translation": "Kag ikaw, Yahweh, nagalingkod sa dayon, kag ang imo paghandum ⟨sa⟩ kadasan kag kadasan.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kag ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "nagalingkod"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "kag ang imo paghandum"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "sa kadasan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kag kadasan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:15.956634505Z",
+  "model": "glm-5.3"
+}

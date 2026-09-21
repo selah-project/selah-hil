@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag may nakita nga isa ka tawo, kag ginpahibalo niya kay Yoav, kag nagsiling siya: Tan-awa, nakita ko ⟨את⟩ si Avshalom nga nalabit sa ela.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "kag nakita"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "kag ginpahibalo"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "kay Yoav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avshalom"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "nga nalabit"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "sa ela"
+    }
+  ],
+  "timestamp": "2026-09-21T18:21:16.658933255Z",
+  "model": "glm-5.3"
+}

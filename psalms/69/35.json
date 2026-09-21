@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 69,
+  "translation": "Himdayon siya sang mga langit kag sang duta, sang mga dagat kag sang tanan nga nagalagiw sa ila.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "himdayon siya"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sang mga langit"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "kag sang duta"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "sang mga dagat"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag sang tanan"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "nga nagalagiw"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:12.572197443Z",
+  "model": "glm-5.3"
+}

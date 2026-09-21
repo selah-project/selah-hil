@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Magahukom ka bala ⟨את⟩ ⟨ila⟩? Magahukom ka bala, anak sang tawo? Ipaila sa ila ⟨את⟩ ang mga kahalay sang ila mga kagikan.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "Magahukom ka bala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨ila⟩"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "Magahukom ka bala"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kahalay"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "mga kahalay"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "sang ila mga kagikan"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "Ipaila sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T19:48:58.453765028Z",
+  "model": "glm-5.3"
+}

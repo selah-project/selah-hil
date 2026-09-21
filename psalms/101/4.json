@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 101,
+  "translation": "Ang baluktot nga kasingkasing magahalin sa akon; ang kalaot indi ko pagkilalahon.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "baluktot"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "magahalin"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kalaot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "pagkilalahon ko"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:16.534021197Z",
+  "model": "glm-5.3"
+}

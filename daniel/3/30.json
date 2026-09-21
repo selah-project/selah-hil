@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Sa sini nga tion ang hari nagpasanyog kay Shadrakh, Meyshakh kag Abed-Nego sa probinsya sang Bavel.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "sa sini nga tion"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "nagpasanyog"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "kay Shadrakh"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meyshakh"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "kag Abed"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Nego"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "sa probinsya sang"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    }
+  ],
+  "timestamp": "2026-09-21T21:34:14.332135996Z",
+  "model": "glm-5.3"
+}

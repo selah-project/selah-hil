@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 135,
+  "translation": "Kay si Yah nagpili kay Yakov para sa iya kaugalingon, si Yisrael bilang iya sangkad nga bahandi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yakov"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "nagpili"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa iya kaugalingon"
+    },
+    {
+      "surface": "יה",
+      "gloss": "si Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "si Yisrael"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "bilang iya sangkad nga bahandi"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:59.450792407Z",
+  "model": "glm-5.3"
+}

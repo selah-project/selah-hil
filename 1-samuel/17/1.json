@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag nagtipon ang mga Pelishti sang ⟨את⟩ ila mga kampo sa paggubat, kag nagtipon sila sa Sokoh nga ara kang Yehudah, kag nagkampo sila sa pagitan sang Sokoh kag sang Azeqah, sa Efes-Damim.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "kag nagtipon"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ang mga Pelishti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ila mga kampo"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "ila mga kampo"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sa paggubat"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "kag nagtipon sila"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "sa Sokoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ara kang Yehudah"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "kag nagkampo sila"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa pagitan sang"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "kag sang"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeqah"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "sa Efes"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Damim"
+    }
+  ],
+  "timestamp": "2026-09-21T18:05:10.580817467Z",
+  "model": "glm-5.3"
+}

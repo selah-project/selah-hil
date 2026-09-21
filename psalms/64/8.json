@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 64,
+  "translation": "Kag si Elohim magapana sa ila sing pana — bigla maging ang ila mga kadasmag.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "kag magapana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "sing pana"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "bigla"
+    },
+    {
+      "surface": "היו",
+      "gloss": "maging"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "ang ila mga kadasmag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:36.891969418Z",
+  "model": "glm-5.3"
+}

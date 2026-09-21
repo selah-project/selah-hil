@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 11:7",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag ang akon nga banwa nagakabit-kabit sa akon nga pagbalik-balik; kag sa Elyon magatawag sila, dungan nga indi ⟨siya⟩ pagataason.",
+  "tokens": [
+    {
+      "surface": "ועמי",
+      "gloss": "kag ang akon nga banwa"
+    },
+    {
+      "surface": "תלואים",
+      "gloss": "nagakabit-kabit"
+    },
+    {
+      "surface": "למשובתי",
+      "gloss": "sa akon nga pagbalik-balik"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "על",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "magatawag sila"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "dungan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ירומם",
+      "gloss": "pagataason"
+    }
+  ],
+  "timestamp": "2026-09-21T22:37:20.763180657Z",
+  "model": "glm-5.3"
+}

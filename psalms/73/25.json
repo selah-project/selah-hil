@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 73,
+  "translation": "Sin-o ⟨ang akon⟩ sa mga langit? Kag kaimo, wala ako naghandum sang ⟨ibanan⟩ sa duta.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Sin-o"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ang akon"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sa mga langit"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "kag kaimo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "naghandum ako"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:55.417166451Z",
+  "model": "glm-5.3"
+}

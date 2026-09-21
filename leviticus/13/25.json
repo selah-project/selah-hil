@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 13:25",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag tuman-awa sang pari ⟨את⟩⟨niya⟩, kag yari, ang bolbon nagbalhin nga maputi sa mabian nga bahin, kag ang iya hitsura mas malalim kisa sa panit — tsaraat ini, nagpuyod ini sa sunog; kag ginpamara sang pari siya — sara ini ka tsaraat.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "kag tuman-awa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩⟨niya⟩",
+      "marks": "siya (ang nagsunog nga bahin)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang pari"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kag yari"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "nagbalhin"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ang bolbon"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "nga maputi"
+    },
+    {
+      "surface": "בבהרת",
+      "gloss": "sa mabian nga bahin"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "kag ang iya hitsura"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "mas malalim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kisa"
+    },
+    {
+      "surface": "העור",
+      "gloss": "sa panit"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ini"
+    },
+    {
+      "surface": "במכוה",
+      "gloss": "sa sunog"
+    },
+    {
+      "surface": "פרחה",
+      "gloss": "nagpuyod ini"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "kag ginpamara"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (ang tawo)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang pari"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "sara"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ka tsaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-21T16:49:24.757769007Z",
+  "model": "glm-5.3"
+}

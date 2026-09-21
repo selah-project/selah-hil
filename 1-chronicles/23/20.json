@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 23:20",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Ang mga anak ni Uzziel: si Mikha ang nahauna kag si Yishiyah ang ikaduha.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "ni Uzziel"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "si Mikha"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ang nahauna"
+    },
+    {
+      "surface": "וישיה",
+      "gloss": "kag si Yishiyah"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ang ikaduha"
+    }
+  ],
+  "timestamp": "2026-09-21T21:57:42.503508122Z",
+  "model": "glm-5.3"
+}

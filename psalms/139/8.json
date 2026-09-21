@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 139,
+  "translation": "Kon magasaka ako sa ⟨mga⟩ langit, didto ikaw; kag kon magtudluk ako sang higdaanan sa Sheol, yari ikaw.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "magasaka ako"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sa ⟨mga⟩ langit"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "kag kon magtudluk ako sang higdaanan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "sa Sheol"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "yari ikaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:48.367358651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 2:5",
+  "book": "malachi",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Ang akon kasugtanan ⟨kaakip⟩ niya amo ang kabuhi kag ang kalinong, kag gintugyan ko ang mga ina sa iya nga ⟨mga butang⟩ sang kabalaka; kag nagkabalaka siya sa akon, kag tungod sang akon ngalan siya nagduhod nga hadlok.",
+  "tokens": [
+    {
+      "surface": "בריתי",
+      "gloss": "ang akon kasugtanan"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "amo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kaakip",
+      "marks": "niya"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ang kabuhi"
+    },
+    {
+      "surface": "והשלום",
+      "gloss": "kag ang kalinong"
+    },
+    {
+      "surface": "ואתנם",
+      "gloss": "kag gintugyan ko sila"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "מורא",
+      "gloss": "sang kabalaka"
+    },
+    {
+      "surface": "וייראני",
+      "gloss": "kag nagkabalaka siya sa akon"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "kag tungod sang"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "akon ngalan"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "nagduhod nga hadlok"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:21:40.175616984Z",
+  "model": "glm-5.3"
+}

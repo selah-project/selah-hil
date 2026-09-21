@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 3:11",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "si Yoram ang iya anak, si Achazyahu ang iya anak, si Yoash ang iya anak.",
+  "tokens": [
+    {
+      "surface": "יורם",
+      "gloss": "si Yoram"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ang iya anak"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "si Achazyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ang iya anak"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "si Yoash"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ang iya anak"
+    }
+  ],
+  "timestamp": "2026-09-21T21:50:12.565199055Z",
+  "model": "glm-5.3"
+}

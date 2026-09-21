@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 103,
+  "translation": "Suno sa kalayo sang sidlakan sa katundangan, ginalayo Niya gikan sa aton ⟨את⟩ ang aton mga paglapas.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "suno sa kalayo"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "sang sidlakan"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "sa katundangan"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "ginalayo Niya"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "gikan sa aton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang aton mga paglapas"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ang aton mga paglapas"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:54.895205812Z",
+  "model": "glm-5.3"
+}

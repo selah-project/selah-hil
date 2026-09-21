@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 147,
+  "translation": "Ang nagahimo sang kappayapaan sa imo mga utlanan; ginpabusog ka niya sang pinakataba sang trigo.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "ang nagahimo"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "sa imo mga utlanan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kappayapaan"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "pinakataba"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "sang trigo"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "ginpabusog ka niya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:21.630011514Z",
+  "model": "glm-5.3"
+}

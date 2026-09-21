@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag ⟨את⟩ ang tanan nga taba sini itangkaron gikan sini, kag ipasunog sa halaran.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan nga taba sini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "nga taba sini"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "itangkaron"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "gikan sini"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "kag ipasunog"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa halaran"
+    }
+  ],
+  "timestamp": "2026-09-21T16:42:52.657598122Z",
+  "model": "glm-5.3"
+}

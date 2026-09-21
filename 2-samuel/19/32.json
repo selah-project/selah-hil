@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 19:32",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag si Barzilay nga taga-Gilead nagpanaog halin sa Rogelim, kag gin-agi niya ⟨את⟩ ang hari sa Yarden sa pagpadala sa iya ⟨את⟩ sa tabok sang Yarden.",
+  "tokens": [
+    {
+      "surface": "וברזלי",
+      "gloss": "kag si Barzilay"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "nga taga-Gilead"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "nagpanaog"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "halin sa Rogelim"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "kag gin-agi niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sa Yarden"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "sa pagpadala sa iya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa tabok sang Yarden"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "sa tabok sang Yarden"
+    }
+  ],
+  "timestamp": "2026-09-21T18:22:41.286970536Z",
+  "model": "glm-5.3"
+}

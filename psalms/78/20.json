@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Tan-awa, gintama niya ang bato kag nag-agay ang tubig, kag ang mga sapa nag-igso; Makahimo bala siya sa paghatag sang tinapay, ukon mag-andam siya sang unod para sa iya katawhan?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "gintama niya"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ang bato"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "nag-agay"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ang tubig"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "kag ang mga sapa"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "nag-igso"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "Makahimo bala gihapon"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "sang tinapay"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "sa paghatag"
+    },
+    {
+      "surface": "תת",
+      "gloss": "sa paghatag"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukon"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "mag-andam siya"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "sang unod"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "para sa iya katawhan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:36.469048130Z",
+  "model": "glm-5.3"
+}

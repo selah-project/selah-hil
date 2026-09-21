@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag nagtindog siya kag nagpalakat, kag si Yehonatan nagsulod sa ⟨mga⟩ siudad.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nagtindog siya"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kag nagpalakat"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "kag si Yehonatan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nagsulod"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sa ⟨mga⟩ siudad"
+    }
+  ],
+  "timestamp": "2026-09-21T18:08:05.752445524Z",
+  "model": "glm-5.3"
+}

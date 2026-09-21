@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 49,
+  "translation": "Kay amo ini ang ginhambal ni Yahweh: bisan ang bihag sang gamhanan pagakuhaon, kag ang ting-iman sang mapintas maluwas; kag ⟨את⟩ ang imoaway mo — ako ang magaabante, kag ⟨את⟩ ang imo mga anak — ako ang magaluwas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כה",
+      "gloss": "amo ini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ginhambal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "ang bihag"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "sang gamhanan"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "pagakuhaon"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "kag ang ting-iman"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "sang mapintas"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "maluwas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang imoaway mo"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "ang imoaway mo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "anga magaabante"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang imo mga anak"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ang imo mga anak"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "anga magaluwas"
+    }
+  ],
+  "timestamp": "2026-09-21T19:09:29.122351374Z",
+  "model": "glm-5.3"
+}

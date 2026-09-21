@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 6:11",
+  "book": "esther",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag ginkuha ni Haman ⟨את⟩ ang bisti kag ⟨את⟩ ang kabayo, kag ginsul-ob niya ⟨את⟩ kay Mordekhai, kag ginpaiya niya siya sa kabayo sa halapad nga lugar sang dakbanwa, kag nagsinggit siya sa iya atubangan: Amo ini ang himoon sa tawo nga ginakabig sang hari sa iya dungganan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Kag ginkuha"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ni Haman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bisti"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "ang bisti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang kabayo"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ang kabayo"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "kag ginsul-ob niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Mordekhai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "kay Mordekhai"
+    },
+    {
+      "surface": "וירכיבהו",
+      "gloss": "kag ginpaiya niya siya"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "sa halapad nga lugar"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sang dakbanwa"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kag nagsinggit siya"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa iya atubangan"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "Amo ini"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ang himoon"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ginakabig"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "sa iya dungganan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:31:14.085758788Z",
+  "model": "glm-5.3"
+}

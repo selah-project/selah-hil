@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 8:1",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Ang tanan nga sugo nga ginapasogo ko sa imo subong nga adlaw, pagtanan ninyo sa paghimo ⟨ini⟩, agod mabuhi kamo kag madamo kamo kag magkadto kamo kag pamun-on ninyo ⟨את⟩ ang duta nga ginpanumpa ni Yahweh sa inyo mga katay.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "nga sugo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ginapasogo ko sa imo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "subong nga adlaw"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "pagtanan ninyo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa paghimo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "agod"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "mabuhi kamo"
+    },
+    {
+      "surface": "ורביתם",
+      "gloss": "kag madamo kamo"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "kag magkadto kamo"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "kag pamun-on ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ginpanumpa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "sa inyo mga katay"
+    }
+  ],
+  "timestamp": "2026-09-21T17:22:54.735566582Z",
+  "model": "glm-5.3"
+}

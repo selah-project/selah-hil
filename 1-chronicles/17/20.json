@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Yahweh, wala ⟨sing⟩ pareho sa imo, kag wala sing Elohim labot sa imo, sa tanan nga nabatid namon sa amon mga dalunggan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "pareho sa imo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "labot sa imo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "nabatid namon"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "sa amon mga dalunggan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:56:19.836388086Z",
+  "model": "glm-5.3"
+}

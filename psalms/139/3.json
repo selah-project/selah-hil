@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 139,
+  "translation": "Ang akon dalan kag ang akon paghigda, ginbanig Mo; kag sa tanan ko nga mga lakat pamilyar Ka.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "ang akon dalan"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "kag ang akon paghigda"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "ginbanig Mo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag sa tanan"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ko nga mga lakat"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "pamilyar Ka"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:37.719889036Z",
+  "model": "glm-5.3"
+}

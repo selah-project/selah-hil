@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 48,
+  "translation": "Ginahunahuna naton, Elohim, ang imo hesed, sa tunga sang imo palasyo.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "ginahunahuna naton"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "imo hesed"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "sang imo palasyo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:53.547815687Z",
+  "model": "glm-5.3"
+}

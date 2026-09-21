@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 68:24",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 68,
+  "translation": "Agod ang imo tiil makasam-ok sa dugo, ang dila sang imo mga ido makaon gikan sa mga kaaway, gikan sa ila.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "agod"
+    },
+    {
+      "surface": "תמחץ",
+      "gloss": "makasam-ok"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "imo tiil"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "sa dugo"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dila"
+    },
+    {
+      "surface": "כלביך",
+      "gloss": "imo mga ido"
+    },
+    {
+      "surface": "מאיבים",
+      "gloss": "gikan sa mga kaaway"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "gikan sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:01.009272725Z",
+  "model": "glm-5.3"
+}

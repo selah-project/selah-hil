@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 9:25",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag nagtihumba ako sa atubangan ni Yahweh ⟨את⟩ ang apat ka pulo ka adlaw kag ⟨את⟩ ang apat ka pulo ka gab-i nga gintihumba ako, kay nagsiling si Yahweh sa pagpalaglag ⟨את⟩ sa kamo.",
+  "tokens": [
+    {
+      "surface": "ואתנפל",
+      "gloss": "kag nagtihumba ako"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang apat ka pulo ka adlaw"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "apat ka pulo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ka adlaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang apat ka pulo ka gab-i"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "apat ka pulo"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ka gab-i"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "התנפלתי",
+      "gloss": "gintihumba ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nagsiling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "sa pagpalaglag"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa kamo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:22:51.652934497Z",
+  "model": "glm-5.3"
+}

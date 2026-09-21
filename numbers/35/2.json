@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 35:2",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Sugo-an mo ⟨את⟩ ang mga anak sang Yisrael, kag magahatag sila sa mga Levita halin sa ila pamanang tag-iya, mga dakbanwa sa pagpuyo, kag mga pastulan para sa mga dakbanwa sa palibot sini — hatagi ninyo ang mga Levita.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Sugo-an mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga anak sang Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "kag magahatag sila"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "sa mga Levita"
+    },
+    {
+      "surface": "מנחלת",
+      "gloss": "halin sa pamanan"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "ila tag-iya"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mga dakbanwa"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "sa pagpuyo"
+    },
+    {
+      "surface": "ומגרש",
+      "gloss": "kag mga pastulan"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "para sa mga dakbanwa"
+    },
+    {
+      "surface": "סביבתיהם",
+      "gloss": "sa palibot sini"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "hatagi ninyo"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "sa mga Levita"
+    }
+  ],
+  "timestamp": "2026-09-21T17:16:31.219411723Z",
+  "model": "glm-5.3"
+}

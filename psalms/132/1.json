@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 132,
+  "translation": "Kanta sang mga Pag-angsad. Hinumdomi, Yahweh, para kay David ⟨את⟩ tanan nga iya mga pag-antos.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kanta"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sang mga Pag-angsad"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Hinumdomi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "para kay David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga iya mga pag-antos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "nga iya mga pag-antos"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:23.238121342Z",
+  "model": "glm-5.3"
+}

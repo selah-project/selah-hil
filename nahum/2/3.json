@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kay ginpabalik ni Yahweh ⟨את⟩ ang dungog ni Yaakov, subong man sang dungog sang Yisrael, kay ang mga nagpawaa nagpawaa sa ila, kag ang ila mga sanga sang kahoy nga ubas ginguba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ginpabalik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dungog ni Yaakov"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "dungog"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "subong man sang dungog"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "nagpawaa"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "ang mga nagpawaa"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "kag ang ila mga sanga"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "ginguba"
+    }
+  ],
+  "timestamp": "2026-09-21T20:15:41.305022959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag naghambal ang Elohim ⟨את⟩ tanan nga mga pulong ini, nga nagasiling:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Kag naghambal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga pulong ini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "nga mga pulong"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    }
+  ],
+  "timestamp": "2026-09-21T16:28:29.711815566Z",
+  "model": "glm-5.3"
+}

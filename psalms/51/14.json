@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 51,
+  "translation": "Ibalik sa akon ang kalipay sang imo pagluwas, kag espiritu nga andam maghatag magapabakod sa akon.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "ibalik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "kalipay"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "imo pagluwas"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "kag espiritu"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "nga andam maghatag"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "magapabakod sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:09.419136299Z",
+  "model": "glm-5.3"
+}

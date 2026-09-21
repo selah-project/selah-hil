@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Gale kon maglakat ako sa walog sang landong sang kamatayon, indi ako magkabalaka sang malain, kay ikaw ⟨ara⟩ upod sa akon; ang imong baston kag ang imong tungkos—ini sila nagapalig-un sa akon.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "gale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "maglakat ako"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "sa walog sang"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "landong sang kamatayon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "magkabalaka ako"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sang malain"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ara upod sa akon"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "imong baston"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "kag imong tungkos"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ini sila"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "nagapalig-un sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:13.065121690Z",
+  "model": "glm-5.3"
+}

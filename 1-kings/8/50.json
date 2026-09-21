@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-kings 8:50",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "kag pagtaksilan mo ang imo katawhan nga nagpakasala sa imo, kag sa tanan nila nga pagsuhot-suhot nga ginsuhot-suhot nila batok sa imo, kag hatagan mo sila sang kaluoy sa atubangan sang ila mga binihag, kag kaluy-an nila sila",
+  "tokens": [
+    {
+      "surface": "וסלחת",
+      "gloss": "kag pagtaksilan mo"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "ang imo katawhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "nagpakasala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "kag sa tanan"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "nila nga pagsuhot-suhot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "ginsuhot-suhot nila"
+    },
+    {
+      "surface": "בך",
+      "gloss": "batok sa imo"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "kag hatagan mo sila"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "sang kaluoy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "שביהם",
+      "gloss": "sang ila mga binihag"
+    },
+    {
+      "surface": "ורחמום",
+      "gloss": "kag kaluy-an nila sila"
+    }
+  ],
+  "timestamp": "2026-09-21T18:29:48.378246030Z",
+  "model": "glm-5.3"
+}

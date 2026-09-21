@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 53,
+  "translation": "Naghambal ang ulok sa iya tagipusuon, 'Wala sing Elohim.' Nangin grin sila kag naghimo sang kaawa-awang nga kalautan; wala sing nagabuhat sang maayo.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "naghambal"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ang ulok"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "sa iya tagipusuon"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "nangin grin sila"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "kag naghimo sang kaawa-awang"
+    },
+    {
+      "surface": "עול",
+      "gloss": "kalautan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nagabuhat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "sang maayo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:38.554156276Z",
+  "model": "glm-5.3"
+}

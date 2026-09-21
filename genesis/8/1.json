@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag nagdumdum si Elohim ⟨את⟩ kay Noach kag ⟨את⟩ tanan ⟨את⟩ nga mga sapat nga buhi kag ⟨את⟩ tanan ⟨את⟩ nga mga sapat nga atipan nga ara ka iya ⟨את⟩ sa sulod sang balsa, kag nagpahunong si Elohim sang hangin sa ibabaw sang duta, kag nag-untat ang mga tubig.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "nagdumdum"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "kay Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga mga sapat nga buhi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "mga sapat nga buhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga mga sapat nga atipan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "mga sapat nga atipan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ka iya ⟨את⟩"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "sa sulod sang balsa"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "kag nagpahunong"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sang hangin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "kag nag-untat"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang mga tubig"
+    }
+  ],
+  "timestamp": "2026-09-21T15:58:08.096411742Z",
+  "model": "glm-5.3"
+}

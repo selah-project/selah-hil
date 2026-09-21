@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 102,
+  "translation": "Nagsiling ako, El ko, indi ako pagbay-un sa tunga sang akon mga adlaw; sa kaliwatan kag mga kaliwatan ang imo mga tuig.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Nagsiling"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El ko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "pagbay-un ako"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "sang akon mga adlaw"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "sa kaliwatan"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "kag mga kaliwatan"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "ang imo mga tuig"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:32.541629666Z",
+  "model": "glm-5.3"
+}

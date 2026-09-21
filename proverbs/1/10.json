@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Anak ko, kon ginpatalupad ka sang mga salanan, indi pagtugot.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Anak ko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "ginpatalupad ka"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "sang mga salanan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "pagtugot"
+    }
+  ],
+  "timestamp": "2026-09-21T22:40:20.177710749Z",
+  "model": "glm-5.3"
+}

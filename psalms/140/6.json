@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 140,
+  "translation": "Nagtago sang pikas para sa akon ang mga palabi, kag sang mga pisi; naglatag sila sang lambat sa kilid sang dalan; mga timala ila ginbutang para sa akon. Selah.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "Nagtago"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "ang mga palabi"
+    },
+    {
+      "surface": "פח",
+      "gloss": "sang pikas"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para sa akon"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "kag sang mga pisi"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "naglatag sila"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "sang lambat"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "sa kilid"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "sang dalan"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "mga timala"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ginbutang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para sa akon"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:10.687159951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag nahimo ini kahuman sini, kag ginsikad sang tagipusuon ni David ⟨אתו⟩ tungod nga iya nagputol ⟨את⟩ sang pahid nga kay Shaul.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kag nahimo ini"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kahuman"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sini"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "kag ginsikad"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sang tagipusuon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "siya (si David)"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "nagputol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang pahid"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "sang pahid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kay Shaul"
+    }
+  ],
+  "timestamp": "2026-09-21T18:08:37.663224279Z",
+  "model": "glm-5.3"
+}

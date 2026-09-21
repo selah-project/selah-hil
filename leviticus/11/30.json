@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "kag ang anakhah, kag ang koakh, kag ang letaah, kag ang khomet, kag ang tinshemet.",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "kag ang anakhah"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "kag ang koakh"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "kag ang letaah"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "kag ang khomet"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "kag ang tinshemet"
+    }
+  ],
+  "timestamp": "2026-09-21T16:46:38.134032639Z",
+  "model": "glm-5.3"
+}

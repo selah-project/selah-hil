@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Kag si Yaakov naglakat sa iya dalanon, kag nagtigpo sa iya ang mga mensahero sang Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "kag si Yaakov"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "naglakat"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "sa iya dalanon"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "kag nagtigpo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "ang mga mensahero"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:09:08.913652797Z",
+  "model": "glm-5.3"
+}

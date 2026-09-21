@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 138,
+  "translation": "Kay mataas si Yahweh, apang ang ubos makita niya, kag ang dumanggihimo sa layo iya kilalahon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רם",
+      "gloss": "mataas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "kag ang ubos"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "makita niya"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "kag ang dumanggihimo"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "sa layo"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "iya kilalahon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:07.769987152Z",
+  "model": "glm-5.3"
+}

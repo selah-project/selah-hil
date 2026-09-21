@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag nagtindog siya kag ginpanalangin ⟨את⟩ tanan nga katilingban sang Yisrael sang tingog nga dako, nga nagasiling:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Kag nagtindog siya"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "kag ginpanalangin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga katilingban sang Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "nga katilingban"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sang tingog"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nga dako"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    }
+  ],
+  "timestamp": "2026-09-21T18:31:25.289432672Z",
+  "model": "glm-5.3"
+}

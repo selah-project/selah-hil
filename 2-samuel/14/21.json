@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 14:21",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag nagsiling ang hari kay Yoav: Yari na, ginhimo ko ⟨את⟩ ang butang ini; kag lakat ka, pagpakanhain ⟨את⟩ ang batang lalaki, ⟨את⟩ si Avshalom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yari"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ginhimo ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang butang"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang butang"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "kag lakat ka"
+    },
+    {
+      "surface": "השב",
+      "gloss": "pagpakanhain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang batang lalaki"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ang batang lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "si Avshalom"
+    }
+  ],
+  "timestamp": "2026-09-21T18:20:52.752744284Z",
+  "model": "glm-5.3"
+}

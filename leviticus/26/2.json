@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "⟨את⟩ Ang akon mga adlaw sang pagpahuway pagatipigan ninyo, kag ang akon pinakabalaan nga puluy-anan pagatakutan ninyo; ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon mga adlaw sang pagpahuway"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "ang akon mga adlaw sang pagpahuway"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "pagatipigan ninyo"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "kag ang akon pinakabalaan nga puluy-anan"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "pagatakutan ninyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:55:56.239152282Z",
+  "model": "glm-5.3"
+}

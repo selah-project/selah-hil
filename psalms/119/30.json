@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Ang dalan sang pagtuo akon nga ginpili, ang imo mga paghukum akon nga gintipigan sa ⟨atubangan⟩.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ang dalan"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "sang pagtuo"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "akon nga ginpili"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ang imo mga paghukum"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "akon nga gintipigan sa atubangan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:28.821639265Z",
+  "model": "glm-5.3"
+}

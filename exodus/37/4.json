@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kag ginhimo niya ang mga sungkod gikan sa kahoy sang shitim, kag gintabunan niya ⟨אתם⟩ sang bulawan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kag ginhimo"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "ang mga sungkod"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "gikan sa kahoy"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sang shitim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "kag gintabunan niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ang mga sungkod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sang bulawan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:39:36.455946564Z",
+  "model": "glm-5.3"
+}

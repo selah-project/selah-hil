@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 3:15",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ang mga anak nga lalaki ni Yehoshiyahu: ang panganay si Yohanan, ang ikaduha si Yehoyakim, ang ikatlo si Tsidkiyahu, ang ikaapat Shallum.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "kag ang mga anak nga lalaki"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "ni Yehoshiyahu"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ang panganay"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "si Yohanan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ang ikaduha"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "si Yehoyakim"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "ang ikatlo"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "si Tsidkiyahu"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ang ikaapat"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shallum"
+    }
+  ],
+  "timestamp": "2026-09-21T22:44:41.048303291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 63,
+  "translation": "Pag-awit ni David, sang yara siya sa kamingawan sang Yehudah.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Pag-awit"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "sang yara siya"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:30.184789373Z",
+  "model": "glm-5.3"
+}

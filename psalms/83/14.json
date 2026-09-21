@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 83,
+  "translation": "O Elohim ko, butangi sila nga pareho sang gapaligid, nga pareho sang olhab sa atubang sang hangin.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "O Elohim ko"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "butangi sila"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "nga pareho sang gapaligid"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "nga pareho sang olhab"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sang hangin"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:51.535115235Z",
+  "model": "glm-5.3"
+}

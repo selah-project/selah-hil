@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 51,
+  "translation": "Kay ang akon mga pagsukol nahibalo ako, kag ang akon sala ⟨hepera⟩ sa akon padayon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ang akon mga pagsukol"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "nahibalo"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "kag ang akon sala"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "sa akon ⟨hepera⟩"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "padayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:19.988474299Z",
+  "model": "glm-5.3"
+}

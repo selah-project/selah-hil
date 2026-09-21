@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag gintipon niya ⟨את⟩ ang mga batan-on sang mga manugdumala sang mga probinsya, kag sila duha ka gatos kag tatlo ka pulo kag duha; kag pagkatapos sang ila gintipon niya ⟨את⟩ ang tanan nga mga tawo, tanan nga mga anak sang Yisrael, pito ka libo.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "kag gintipon niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga batan-on sang mga manugdumala sang mga probinsya"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "ang mga batan-on"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "sang mga manugdumala"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "sang mga probinsya"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "kag sila"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "duha ka gatos"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kag duha"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "tatlo ka pulo"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "kag pagkatapos sang ila"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "gintipon niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga mga tawo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nga mga tawo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nga mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ka libo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:37:23.791503651Z",
+  "model": "glm-5.3"
+}

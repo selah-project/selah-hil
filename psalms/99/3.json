@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 99,
+  "translation": "Magdayaw sila sang imo ngalan — dako kag makahahadlok; balaan siya.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Magdayaw sila"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sang imo ngalan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dako"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "kag makahahadlok"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:45.337290492Z",
+  "model": "glm-5.3"
+}

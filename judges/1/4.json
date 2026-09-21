@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nagsaka si Yehudah, kag ginhatag ni Yahweh ⟨את⟩ ang mga Kenaanan kag ang mga Perizi sa ila mga kamot, kag ginlutos nila sila sa Bezek — napulo ka libo ka tawo.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "kag nagsaka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "si Yehudah"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kag ginhatag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga Kenaanan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ang mga Kenaanan"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "kag ang mga Perizi"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "sa ila mga kamot"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "kag ginlutos nila sila"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "sa Bezek"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "napulo ka"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "libo ka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:46:03.217160578Z",
+  "model": "glm-5.3"
+}

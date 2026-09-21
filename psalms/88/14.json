@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 88,
+  "translation": "Kag ako, sa imo, Yahweh, nagasinggit ako, kag sa aga ang akon pangamuyo magaatubang sa imo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kag ako"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "nagasinggit ako"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "kag sa aga"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ang akon pangamuyo"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "magaatubang sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:15.300448730Z",
+  "model": "glm-5.3"
+}

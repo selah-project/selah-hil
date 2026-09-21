@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 109,
+  "translation": "Mapahinumdum sa Yahweh ang kalaut sang iya mga amay, kag ang sala sang iya iloy, indi pagpanason.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "Mapahinumdum"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kalaut"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "iya mga amay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "kag ang sala"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "iya iloy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "pagpanason"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:19.277840291Z",
+  "model": "glm-5.3"
+}

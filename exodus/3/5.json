@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 3:5",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag nagsiling ⟨siya⟩: Indi ka magpaduol diri; isulod pagliko ang imo mga sapin halin sa imo mga tiil, kay ang duta nga diin ikaw nagatindog nga ⟨isa ka⟩ balaan nga duta ⟨ini⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "ka magpaduol"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "diri"
+    },
+    {
+      "surface": "של",
+      "gloss": "isulod pagliko"
+    },
+    {
+      "surface": "נעליך",
+      "gloss": "ang imo mga sapin"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "halin"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "sa imo mga tiil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ang duta nga diin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "nagatindog"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "nga duta"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-21T22:19:51.280425512Z",
+  "model": "glm-5.3"
+}

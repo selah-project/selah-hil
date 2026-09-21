@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Si Yahweh nga aton Elohim naghimo sang kasugtanan kaupod naton sa Chorev.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nga aton Elohim"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "naghimo"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "kaupod naton"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sang kasugtanan"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sa Chorev"
+    }
+  ],
+  "timestamp": "2026-09-21T17:19:25.537380400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kay ginakasuklan ni Yahweh ang nagatalikod ⟨sa matarong nga dalan⟩, kag ⟨את⟩ sang mga matarong ⟨yara⟩ ang iya katagoan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ginakasuklan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "ang nagatalikod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang mga matarong"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "sang mga matarong"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "ang iya katagoan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:56:16.611393370Z",
+  "model": "glm-5.3"
+}

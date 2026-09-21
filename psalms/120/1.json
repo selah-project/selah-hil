@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 120,
+  "translation": "Kanta sang mga Pag-angat. Kay Yahweh, sa akon kagul-an, nagtawag ako, kag ginbatopod niya ako.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kanta"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sang mga Pag-angat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "sa akon kagul-an"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "nagtawag"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "kag ginbatopod niya ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:50:47.397051899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag ang pari nga naghahalad ⟨את⟩ sang sinusunog nga halad sang isa ka tawo — ang panit sang sinusunog nga halad nga iya ginhinalad, iya ini.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "kag ang pari"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "nga naghahalad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang sinusunog nga halad"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "sinusunog nga halad"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ang panit"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sang sinusunog nga halad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "ginhinalad"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "sa pari"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "amo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:43:14.458261054Z",
+  "model": "glm-5.3"
+}

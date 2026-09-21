@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag kuhaon sang pinahiran nga pari sang dugo sang baka, kag iya dad-on ⟨את⟩ ngadto sa tolda sang katipon.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Kag kuhaon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang pari"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "pinahiran"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "sang dugo"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sang baka"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "kag iya dad-on"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iya (ang dugo)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang katipon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:43:50.251780181Z",
+  "model": "glm-5.3"
+}

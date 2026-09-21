@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kag tawgon ninyo ako ⟨את⟩, kag maglakat kamo, kag magpangamuyo kamo sa akon, kag magapatiyabot ako sa inyo.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "Kag tawgon ninyo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ako"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "kag maglakat kamo"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "kag magpangamuyo kamo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "kag magapatiyabot ako"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-09-21T19:27:54.246344978Z",
+  "model": "glm-5.3"
+}

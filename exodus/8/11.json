@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag sang makita ni Paro nga may kaginhawa na, ginpagbug-at niya ⟨את⟩ ang iya kasingkasing, kag wala nagpatalingkad sa ila, suno sa ginhambal ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "kag sang makita"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "may"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "kaginhawa"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "ginpagbug-at"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya kasingkasing"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ang iya kasingkasing"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nagpatalingkad"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "suno"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sa ginhambal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:23:05.131778552Z",
+  "model": "glm-5.3"
+}

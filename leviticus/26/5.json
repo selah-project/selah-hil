@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Kag magaabot sa inyo ang paggik ⟨sa⟩ ting-ani sang ubas, kag ang ting-ani sang ubas magaabot ⟨sa⟩ ting-panum sang binhi; kag kumaon kamo sang inyo pagkaon sa kabusug, kag magapuyo kamo sa kalig-onan sa inyo duta.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "magaabot"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "ang paggik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ting-ani sang ubas"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "ting-ani sang ubas"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "kag ang ting-ani sang ubas"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "magaabot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ting-panum sang binhi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "binhi"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "kag kumaon kamo"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "inyo pagkaon"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "sa kabusug"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "kag magapuyo kamo"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "sa kalig-onan"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "sa inyo duta"
+    }
+  ],
+  "timestamp": "2026-09-21T16:56:04.056832035Z",
+  "model": "glm-5.3"
+}

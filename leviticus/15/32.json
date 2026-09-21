@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 15:32",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Ini ang Torah sang tawo nga may agos, kag sang tawo nga may nagaguwa sa iya nga tokar sang binhi, nga nagahimo sang kahugawan tungod sini.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "sang may agos"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kag sang"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "nagaguwa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "tokar"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "binhi"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "para sa kahugawan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tungod sini"
+    }
+  ],
+  "timestamp": "2026-09-21T16:50:54.523002944Z",
+  "model": "glm-5.3"
+}

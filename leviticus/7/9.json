@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 7:9",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag ang tanan nga mincha nga ginluto sa hurno, kag ang tanan nga ginahimo sa kalaha kag sa pahaangan, sa kohen nga naghahalad ⟨את⟩ sini, iya ina magakabuhi.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "ginluto"
+    },
+    {
+      "surface": "בתנור",
+      "gloss": "sa hurno"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ginahimo"
+    },
+    {
+      "surface": "במרחשת",
+      "gloss": "sa kalaha"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "pahaangan"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "sa kohen"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "naghahalad"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ini (ang mincha)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iya"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "magakabuhi"
+    }
+  ],
+  "timestamp": "2026-09-21T16:43:15.581042081Z",
+  "model": "glm-5.3"
+}

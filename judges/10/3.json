@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag nagtindog kahimo niya si Yair nga taga-Giliad, kag naghukom siya ⟨את⟩ sang Yisrael duha ka pulo kag duha ka tuig.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nagtindog"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "kahimo niya"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "si Yair"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "nga taga-Giliad"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "naghukom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duha ka pulo"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "kag duha"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    }
+  ],
+  "timestamp": "2026-09-21T22:25:55.602583859Z",
+  "model": "glm-5.3"
+}

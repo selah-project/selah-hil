@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Sa ibabaw sang matin-aw nga_sanga-sanga_sg_lampo nga dalisay pagaayuhan niya ⟨את⟩ ang mga lampa sa atubangan ni Yahweh sing padayon.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "sang sanga-sanga_sg_lampo"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "nga dalisay"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "pagaayuhan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga lampa"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "ang mga lampa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sing padayon"
+    }
+  ],
+  "timestamp": "2026-09-21T22:21:26.495888280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 25:55",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kay <para> sa akon ang mga anak nga lalaki sang Yisrael <mga> ulipon; mga ulipon ko sila, nga akon ginaluwas ⟨את⟩ sila sa duta sang Mitsrayim; ako si Yahweh ang inyo Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para sa akon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "mga ulipon"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga ulipon ko"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "akon ginaluwas"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang mga anak sang Yisrael)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ang inyo Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:55:22.725704061Z",
+  "model": "glm-5.3"
+}

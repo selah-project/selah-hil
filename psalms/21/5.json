@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kabuhi ang iya ginpangaho sa imo, kag imo nga ginhatag ina sa iya — taas nga mga adlaw, sa walay katapusan kag dayon.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "kabuhi"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ginpangaho"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "imo nga ginhatag"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "taas"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga adlaw"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sa walay katapusan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:09.728604821Z",
+  "model": "glm-5.3"
+}

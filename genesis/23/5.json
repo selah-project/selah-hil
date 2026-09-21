@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag nagsabat ang mga anak ni Het ⟨kay⟩ ⟨את⟩ Avraham, nga nagsiling sa iya,",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "kag nagsabat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ni Het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagsiling"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:03:48.605702402Z",
+  "model": "glm-5.3"
+}

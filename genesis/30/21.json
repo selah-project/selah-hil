@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kag pagkatapos nagsulod siya sang isa ka babae nga anak, kag gintawag niya ⟨את⟩ iya ngalan nga Dinah.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "kag pagkatapos"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "nagsulod siya sang anak"
+    },
+    {
+      "surface": "בת",
+      "gloss": "babae nga anak"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "kag gintawag niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya ngalan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "iya ngalan"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    }
+  ],
+  "timestamp": "2026-09-21T22:17:33.456639234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Yahweh, Adonay naton, ano ka maathom ang imo ngalan sa tanan nga duta!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonay naton"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano ka"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "maathom"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ang imo ngalan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nga duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:14.942675320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag ang imo nga mata indi magkaluoy: kalag sa ⟨iba nga⟩ kalag, mata sa mata, ngipon sa ngipon, kamot sa kamot, tiil sa tiil.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "magkaluoy"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "imo nga mata"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kalag"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "sa ⟨iba nga⟩ kalag"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "sa mata"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ngipon"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "sa ngipon"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamot"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "tiil"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "sa tiil"
+    }
+  ],
+  "timestamp": "2026-09-21T17:25:20.861198436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 93,
+  "translation": "Nagbangon ang mga suba, O Yahweh; nagbangon ang mga suba sang ila tingog; magabangon ang mga suba sang ila mga balod nga nagadasmag.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "nagbangon"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ang mga suba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "O Yahweh"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "nagbangon"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ang mga suba"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "sang ila tingog"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "magabangon"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ang mga suba"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "mga balod nga nagadasmag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:18.220136352Z",
+  "model": "glm-5.3"
+}

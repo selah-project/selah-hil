@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag nangyari sa kasirungan, kag nagtunga ang mga pugo kag ginsakupan ⟨את⟩ ang kampo; kag sa kaagahon nangyari ang paglatag sang hamog sa palibot sang kampo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kag nangyari"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "sa kasirungan"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "kag nagtunga"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "ang mga pugo"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "kag ginsakupan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kampo"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ang kampo"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "kag sa kaagahon"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "nangyari"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "ang paglatag"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "sang hamog"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "sang kampo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:28:59.601378863Z",
+  "model": "glm-5.3"
+}

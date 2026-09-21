@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Mizmor ni David: Yahweh, sin-o ang magapuyo sa imo tolda? sin-o ang magapabilin sa imo balaan nga bukid?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "ang magapuyo"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "sa imo tolda"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ang magapabilin"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa imo bukid"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "balaan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:54.910771542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 97,
+  "translation": "Panganod kag kangitngit ang palibot niya; katarungan kag hukum ang pagpatindog sang iya lingkoranan.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "Panganod"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "kag kangitngit"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "ang palibot niya"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "katarungan"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "kag hukum"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "pagpatindog"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "sang iya lingkoranan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:10.644023501Z",
+  "model": "glm-5.3"
+}

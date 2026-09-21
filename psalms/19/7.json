@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Sa kabit-unan sang mga langit ang iya paggua, kag ang iya paglibot tubtob sa ila mga kabit-unan; kag wala sing natago sa iya kainit.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "sa kabit-unan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sang mga langit"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "ang iya paggua"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "kag ang iya paglibot"
+    },
+    {
+      "surface": "על",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "sa ila mga kabit-unan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala sing"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "natago"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "sa iya kainit"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:01.457861172Z",
+  "model": "glm-5.3"
+}

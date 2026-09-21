@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag gindala nila siya ⟨אתו⟩ sa mga kabayo kag ginlubong siya sa Yerushalayim kaupod sang iya mga kag-anak, sa siyudad ni David.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "kag gindala nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "mga kabayo"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "kag ginlubong"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sang iya mga kag-anak"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa siyudad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-21T18:45:04.459917791Z",
+  "model": "glm-5.3"
+}

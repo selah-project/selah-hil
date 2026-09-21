@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 149,
+  "translation": "Magakalipay si Yisrael sa iya Nagbuhat; magakalipay ang mga anak sang Tsiyon sa ila hari.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "Magakalipay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "si Yisrael"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "sa iya Nagbuhat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "magakalipay"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "sa ila hari"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:00.853218913Z",
+  "model": "glm-5.3"
+}

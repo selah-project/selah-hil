@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "⟨את⟩ ang tolda sang pagtigum, kag ⟨את⟩ ang kaban sang pagsaksi, kag ⟨את⟩ ang kapporet nga ara sa ibabaw sini, kag ⟨את⟩ ang tanan nga kagamitan sang tolda;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tolda"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang pagtigum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang kaban"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "kaban"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "sang pagsaksi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang kapporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapporet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ara sa ibabaw sini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "nga kagamitan"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "sang tolda"
+    }
+  ],
+  "timestamp": "2026-09-21T16:35:19.555170878Z",
+  "model": "glm-5.3"
+}

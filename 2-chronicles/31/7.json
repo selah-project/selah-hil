@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 31:7",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Sa ikatlo ka bulan ginsuguran ang pagpatindog sang mga tambobo, kag sa ikapito ka bulan natapos.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Sa bulan"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "ikatlo"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "ginsuguran"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "ang mga tambobo"
+    },
+    {
+      "surface": "ליסוד",
+      "gloss": "sa pagpatindog"
+    },
+    {
+      "surface": "ובחדש",
+      "gloss": "kag sa bulan"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ikapito"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "natapos"
+    }
+  ],
+  "timestamp": "2026-09-21T22:11:46.184043746Z",
+  "model": "glm-5.3"
+}

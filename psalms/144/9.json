@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 144,
+  "translation": "Elohim, isa ka bag-o nga kanta akon magakanta sa imo, sa nebel sang napulo ka kuwerdas akon magatukar sa imo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kanta"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bag-o"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "akon magakanta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "sa nebel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "napulo ka kuwerdas"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "akon magatukar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:09.080292734Z",
+  "model": "glm-5.3"
+}

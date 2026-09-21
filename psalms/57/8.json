@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 57,
+  "translation": "Andam ang akon kasing-kasing, O Elohim; andam ang akon kasing-kasing; magakanta ako kag magadayeg.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "Andam"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang akon kasing-kasing"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "andam"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang akon kasing-kasing"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "magakanta ako"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "kag magadayeg"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:21.857145571Z",
+  "model": "glm-5.3"
+}

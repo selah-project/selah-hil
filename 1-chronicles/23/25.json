@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 23:25",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kay nagsiling si David: Nagpahulay si Yahweh, ang Elohim sang Yisrael, sa iya katawhan, kag nagpuyo sia sa Yerushalayim tubtob sa dayon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nagsiling"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "nagpahulay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "sa iya katawhan"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "kag nagpuyo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T21:57:59.955222040Z",
+  "model": "glm-5.3"
+}

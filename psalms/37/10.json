@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kag pa ⟨gamay⟩, kag wala na ang rikaw; kag pagtan-awon mo sa iya duog, kag wala na siya.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "kag pa"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "gamay"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala na"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ang rikaw"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "kag pagtan-awon mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "iya duog"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "kag wala na siya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:40.460240907Z",
+  "model": "glm-5.3"
+}

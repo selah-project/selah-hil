@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 17:5",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag nagtungtong ang hari sang Ashur sa bug-os ⟨nga⟩ duta, kag nagtungtong sa Shomron, kag nagputos sa iya sing tatlo ka tuig.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "nagtungtong"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sang Ashur"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa bug-os"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nga duta"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "kag nagtungtong"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "sa Shomron"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "kag nagputos"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "sing tatlo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ka tuig"
+    }
+  ],
+  "timestamp": "2026-09-21T18:46:56.721475239Z",
+  "model": "glm-5.3"
+}

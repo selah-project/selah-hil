@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kay ang tawo wala sing matarung sa duta nga nagahimo sang maayo kag indi gid nagasala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala sing"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matarung"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "nagahimo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "sang maayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "nagasala"
+    }
+  ],
+  "timestamp": "2026-09-21T21:27:26.185831680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 104,
+  "translation": "Magakatapusan ang mga manugsala sa duta, kag sang mga dautan wala na ⟨sila⟩. Palanggaon ta ⟨ka⟩, akon kalag, ⟨את⟩ si Yahweh. Daydayi ninyo si Yah!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "magakatapusan"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ang mga manugsala"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "kag sang mga dautan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "wala na ⟨sila⟩"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "palanggaon ta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akon kalag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "daydayi ninyo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "si Yah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:58.315164024Z",
+  "model": "glm-5.3"
+}

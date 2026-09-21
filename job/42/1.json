@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Kag nagsabat si Iyov ⟨את⟩ Yahweh kag nagsiling:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Kag nagsabat"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "si Iyov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    }
+  ],
+  "timestamp": "2026-09-21T21:18:57.081421019Z",
+  "model": "glm-5.3"
+}

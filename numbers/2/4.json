@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag ang iya mga kasoldadosan, kag ang ila gin-ilhanon, apat kag pito ka pulo ka libo kag anom ka gatos.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "kag ang iya mga kasoldadosan"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "kag ang ila gin-ilhanon"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "apat"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "kag pito ka pulo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ka libo"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "kag anom"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    }
+  ],
+  "timestamp": "2026-09-21T16:57:55.889809986Z",
+  "model": "glm-5.3"
+}

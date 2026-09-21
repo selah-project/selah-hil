@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 27:5",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Kag si Rivkah nakabati sang paghambal ni Yitschak kay Esav iya anak; kag nagpanaw si Esav padulong sa sawang sa pagpangayop sang ayop, sa pagdala ⟨sini⟩.",
+  "tokens": [
+    {
+      "surface": "ורבקה",
+      "gloss": "Kag si Rivkah"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "nakabati"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sang paghambal"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ni Yitschak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "si Esav"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iya anak"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kag nagpanaw"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "si Esav"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sa sawang"
+    },
+    {
+      "surface": "לצוד",
+      "gloss": "sa pagpangayop"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "sang ayop"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "sa pagdala"
+    }
+  ],
+  "timestamp": "2026-09-21T16:06:21.014762451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Sa sadto nga adlaw ipatindog ko kay Eli ⟨את⟩ ang tanan nga akon ginhambal sa iya balay — maggikan kag magtapos.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Sa adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sadto"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ipatindog ko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "akon ginhambal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "iya balay"
+    },
+    {
+      "surface": "החל",
+      "gloss": "maggikan"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "kag magtapos"
+    }
+  ],
+  "timestamp": "2026-09-21T17:58:50.918308800Z",
+  "model": "glm-5.3"
+}

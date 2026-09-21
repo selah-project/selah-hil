@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag naghukom si Yiftah sang ⟨את⟩ Yisrael anom ka tuig; dayon namatay si Yiftah nga taga-Gilad kag gintanom sa isa ka siudad sang Gilad.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "naghukom"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שש",
+      "gloss": "anom"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dayon namatay"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftah"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "nga taga-Gilad"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "kag gintanom"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "sa isa ka siudad"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-09-21T17:52:49.002507041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Sa Gat indi ninyo ihambal; maghilak kamo, indi gid paghilaka; sa Beit le-Afrah, sa abug ako nagbalinting.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "sa Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "ninyo ihambal"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "maghilak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "paghilaka"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa Beit"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "le-Afrah"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "sa abug"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "ako nagbalinting"
+    }
+  ],
+  "timestamp": "2026-09-21T20:12:44.393729684Z",
+  "model": "glm-5.3"
+}

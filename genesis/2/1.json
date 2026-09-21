@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag nahanaw na ang mga langit kag ang duta kag ang tanan nga ila Tsevaot.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "nahanaw na"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "kag ang duta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "nga ila Tsevaot"
+    }
+  ],
+  "timestamp": "2026-09-21T15:56:12.938194084Z",
+  "model": "glm-5.3"
+}

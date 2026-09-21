@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 8:5",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ang mga tubig nagakadto kag nagapa-ubos hasta sa ang ikapulo nga bulan; sa ikapulo ⟨nga bulan⟩, sa nahauna ⟨nga adlaw⟩ sang bulan, napakita ang mga ulo sang mga bukid.",
+  "tokens": [
+    {
+      "surface": "והמים",
+      "gloss": "Kag ang mga tubig"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nagatabo"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "nagakadto"
+    },
+    {
+      "surface": "וחסור",
+      "gloss": "kag nagapa-ubos"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta sa"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ang bulan"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "ikapulo"
+    },
+    {
+      "surface": "בעשירי",
+      "gloss": "sa ikapulo"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "sa nahauna"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sang bulan"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "napakita"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ang mga ulo"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "sang mga bukid"
+    }
+  ],
+  "timestamp": "2026-09-21T15:57:46.197963847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag magat-anod siya ⟨את⟩ sang anak sang baka sa atubangan ni Yahweh; kag magadala ang mga anak ni Aharon, ang mga saserdote, ⟨את⟩ sang dugo, kag itatanyag nila ⟨את⟩ sang dugo sa ibabaw sang halaran sa palibot, nga ara sa pungsaran sang tolda sang katigom.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "kag magat-anod siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang anak sang baka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sang baka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "kag magadala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ang mga saserdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang dugo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sang dugo"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "kag itatanyag nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang dugo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sang dugo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sang halaran"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sa pungsaran"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sang tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang katigom"
+    }
+  ],
+  "timestamp": "2026-09-21T16:41:19.074857950Z",
+  "model": "glm-5.3"
+}

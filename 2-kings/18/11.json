@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag ginbinaliwas sang hari sang Ashur ⟨את⟩ ang Yisrael sa Ashur, kag ginpahamtang niya sila sa Halakh kag sa Khavor, suba sang Gozan, kag sa mga minuro sang Maday.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "kag ginbinaliwas"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "sa Ashur"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "kag ginpahamtang niya sila"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "sa Halakh"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "kag sa Khavor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "suba"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "sang Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "kag sa mga minuro"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "sang Maday"
+    }
+  ],
+  "timestamp": "2026-09-21T18:46:44.482841726Z",
+  "model": "glm-5.3"
+}

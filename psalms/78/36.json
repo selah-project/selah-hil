@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 78:36",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Kag ginpatalimbon nila siya sang ila baba, kag sang ila dila nagbakak sila sa iya.",
+  "tokens": [
+    {
+      "surface": "ויפתוהו",
+      "gloss": "ginpatalimbon nila siya"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "sang ila baba"
+    },
+    {
+      "surface": "ובלשונם",
+      "gloss": "kag sang ila dila"
+    },
+    {
+      "surface": "יכזבו",
+      "gloss": "nagbakak sila"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:18.052851100Z",
+  "model": "glm-5.3"
+}

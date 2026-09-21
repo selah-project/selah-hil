@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Wala sing kaalam kag wala sing pagsabat kag wala sing tambag sa atubang ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sing kaalam"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "sing pagsabat"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "sing tambag"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T21:01:22.262450354Z",
+  "model": "glm-5.3"
+}

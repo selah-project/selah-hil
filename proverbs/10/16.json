@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Ang sulay sang matarong ⟨para⟩ sa kabuhi; ang ani sang malaut ⟨para⟩ sa sala.",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "ang sulay"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sang matarong"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "para sa kabuhi"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ang ani"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sang malaut"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "para sa sala"
+    }
+  ],
+  "timestamp": "2026-09-21T20:58:00.333812140Z",
+  "model": "glm-5.3"
+}

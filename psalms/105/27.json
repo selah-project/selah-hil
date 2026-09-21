@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Ginbutang nila sa ila ang mga pulong sang iya mga timailhan kag mga katingalahan sa duta sang Kham.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "ginbutang"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ang mga pulong"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "sang iya mga timailhan"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "kag mga katingalahan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "חם",
+      "gloss": "sang Kham"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:46.703923797Z",
+  "model": "glm-5.3"
+}

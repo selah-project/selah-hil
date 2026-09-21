@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Kumanta kamo sa iya; tumugtog kamo sa iya; hagipi ninyo ang tanan niya nga mga katingalahan.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Kumanta kamo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "tumugtog kamo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "hagipi ninyo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "niya nga mga katingalahan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:41.524719722Z",
+  "model": "glm-5.3"
+}

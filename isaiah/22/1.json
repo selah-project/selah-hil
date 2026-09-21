@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Pas-an sang sanga sang pangita. Ano ⟨ang nahiagad⟩ sa imo subong, kay nagsaka ang imo tanan sa mga atipan?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Pas-an"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "sanga"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "pangita"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ano"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "subong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "nagsaka"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "imo tanan"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "sa mga atipan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:58:59.539684928Z",
+  "model": "glm-5.3"
+}

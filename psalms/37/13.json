@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Magatawa si Adonay sa iya, kay nakita niya nga magaabot ang iya adlaw.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "magatawa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "magaabot"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "iya adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:30:05.176752411Z",
+  "model": "glm-5.3"
+}

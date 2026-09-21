@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kag si Yisrael naghigugma ⟨את⟩ kay Yosef labaw sa tanan niya mga anak, kay anak sang iya katigulangon siya sa iya; kag ginhimo niya para sa iya isa ka kasuotan nga pasim.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "Kag si Yisrael"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "naghigugma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "labaw sa tanan"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "niya mga anak"
+    },
+    {
+      "surface": "kilabaw sa tanan niya mga anak, kay anak sang iya katigulangon siya sa iya; kag ginhimo niya para sa iya isa ka kasuotan nga pasim",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "katigulangon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "kag ginhimo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa iya"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "isa ka kasuotan"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "pasim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:12:23.683005010Z",
+  "model": "glm-5.3"
+}

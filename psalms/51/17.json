@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 51,
+  "translation": "Adonay, siradlan mo ang akon mga ngabil sa pag-abli, kag ang akon baba magapahibalo sang imo pagdayaw.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ang akon mga ngabil"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "siradlan mo sa pag-abli"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "kag ang akon baba"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "magapahibalo"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "sang imo pagdayaw"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:08.614463294Z",
+  "model": "glm-5.3"
+}

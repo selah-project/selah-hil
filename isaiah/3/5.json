@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag magapamatyag ang katawhan, ang tawo sa iya kapareho kag ang tawo sa iya kaabay; magahambog ang bata sa tigulang, kag ang ubos sa dalagku.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "Kag magapamatyag"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "sa iya kapareho"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kag ang tawo"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "sa iya kaabay"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "magahambog"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "sa tigulang"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "kag ang ubos"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "sa dalagku"
+    }
+  ],
+  "timestamp": "2026-09-21T18:52:54.542677462Z",
+  "model": "glm-5.3"
+}

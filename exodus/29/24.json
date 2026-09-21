@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 29:24",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kag ibutang ang tanan sa mga palad ni Aharon kag sa mga palad sang iya mga anak, kag iuyog ⟨אתם⟩ ini nga halad nga inuyog sa atubang ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "kag ibutang"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mga palad"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mga palad"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sang iya mga anak"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "kag iuyog"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ini"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "nga halad nga inuyog"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:34:54.615604289Z",
+  "model": "glm-5.3"
+}

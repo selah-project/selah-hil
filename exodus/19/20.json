@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag si Yahweh nagpanaog sa bukid Sinai, sa iya ulo sang bukid; kang tinawag ni Yahweh si Moshe sa ulo sang bukid, kag nagpanaogit si Moshe.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "kag nagpanaog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "sang bukid"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kag gintawag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "sang bukid"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "kag nagpanaogit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T16:27:54.613281532Z",
+  "model": "glm-5.3"
+}

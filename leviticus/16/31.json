@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Sabbath sang pagpahuway ini sa inyo, kag panubuon ninyo ⟨את⟩ ang inyo mga kalag — isa ka kasugoan sing dayon.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Sabbath"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "sang pagpahuway"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "kag panubuon ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga kalag ninyo"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "ang inyo mga kalag"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "isa ka kasugoan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sing dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:51:34.666034441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Si Aram sa una kag ang mga Pilistinhon sa likod, kag ginkaun nila ⟨את⟩ si Yisrael sa bug-os nga baba. Sa tanan nga ini wala mag-uli ang iya kaakig, kag bisan pa ang iya kamot nagapahalab-a.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "si Aram"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "sa una"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "kag ang mga Pilistinhon"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "sa likod"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "kag ginkaun nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "si Yisrael"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa bug-os nga"
+    },
+    {
+      "surface": "פה",
+      "gloss": "baba"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שב",
+      "gloss": "mag-uli"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "iya kaakig"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "kag bisan pa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "iya kamot"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "nagapahalab-a"
+    }
+  ],
+  "timestamp": "2026-09-21T18:55:48.349727879Z",
+  "model": "glm-5.3"
+}

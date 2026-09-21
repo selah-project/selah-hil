@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 39:31",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 39,
+  "translation": "Kag ginpahanilay nila sa iya ang pisi nga bughaw, sa pagbutang sini sa mitra sa itaas, suno sa ginsogo ni Yahweh ⟨את⟩ si Moshe.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "kag ginpahanilay nila"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "pisi"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "bughaw"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sa pagbutang"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "mitra"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "sa itaas"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "suno sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsogo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T16:42:13.642107525Z",
+  "model": "glm-5.3"
+}

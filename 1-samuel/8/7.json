@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag nagsiling si Yahweh kay Shemuel: Magbati ka sa tingog sang katawhan, sa tanan nga ila hambalon sa imo; kay wala nila ⟨את⟩ ginpaas ikaw — kundi ⟨את⟩ ako ginpaas nila sa paghari sa ila.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "magbati"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sa tingog"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sang katawhan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ila hambalon"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ikaw"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "nila ginpaas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kundi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ako"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "ginpaas nila"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "sa paghari"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T17:59:46.389933077Z",
+  "model": "glm-5.3"
+}

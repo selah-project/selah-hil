@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kag ikaw magabalik kag magapatiig ikaw sa tingog ni Yahweh, kag himoon mo ⟨את⟩ tanan niya nga mga kasuguan nga ginapasugo ko sa imo subong nga adlaw.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kag ikaw"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "magabalik"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "kag magapatiig ikaw"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sa tingog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "kag himoon mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan niya nga mga kasuguan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "niya nga mga kasuguan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ginapasugo ko sa imo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "subong nga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T17:31:44.803433567Z",
+  "model": "glm-5.3"
+}

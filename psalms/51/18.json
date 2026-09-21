@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 51,
+  "translation": "Kay indi ka gusto sang halad, bisan iono ko ini; kag sang halad nga sinusunog indi ka malipay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "ka gusto"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sang halad"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "bisan iono ko ini"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "halad nga sinusunog"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "ka malipay"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:08.614706571Z",
+  "model": "glm-5.3"
+}

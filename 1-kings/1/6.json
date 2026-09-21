@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ang iya amay wala sia pagbadbad-og saiya sa tanan nga iya mga adlaw, sa paghambal: Ngaa ginhimo mo sina? Kag sia man matahum gid ang dagway; kag ⟨את⟩ sia gipakatawo sang iya iloy pagkatapos ni Avshalom.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kag wala"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "pagbadbad-og"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ang iya amay"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "sa tanan nga iya mga adlaw"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sa paghambal"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Ngaa"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ginhimo mo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "Kag man"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sia"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "matahum"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "ang dagway"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gid"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sia (si Adonijah)"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "gipakatawo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pagkatapos"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ni Avshalom"
+    }
+  ],
+  "timestamp": "2026-09-21T18:25:32.902689822Z",
+  "model": "glm-5.3"
+}

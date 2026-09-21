@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 130,
+  "translation": "Kay sa imo ⟨ang⟩ pagpatawad, agod ikaw pagahadlukan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "⟨ang⟩ pagpatawad"
+    },
+    {
+      "surface": "למען",
+      "gloss": "agod"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "pagahadlukan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:40:19.811311926Z",
+  "model": "glm-5.3"
+}

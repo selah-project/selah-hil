@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Magasalamat ako kay Yahweh sumo sa iya pagkamatarong, kag magakanta ako sa ngalan ni Yahweh nga Elyon.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "magasalamat ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "sumo sa iya pagkamatarong"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "kag magakanta ako"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:20.899576409Z",
+  "model": "glm-5.3"
+}

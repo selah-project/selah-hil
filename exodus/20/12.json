@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Tahura ⟨את⟩ ang imo amay kag ⟨את⟩ ang imo iloy, agod magamulong ang imo mga adlaw sa duta nga ginahatag sa imo ni Yahweh nga Elohim mo.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Tahura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imo amay"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ang imo amay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang imo iloy"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ang imo iloy"
+    },
+    {
+      "surface": "למען",
+      "gloss": "agod"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "magamulong"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ang imo mga adlaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "duta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga Elohim mo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ginahatag"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:28:51.514394029Z",
+  "model": "glm-5.3"
+}

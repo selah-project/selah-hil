@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 139,
+  "translation": "Indi nagakubli ang akon ⟨mga tul-an⟩ sa imo, sa diin ako ginhimo sa tago, kag ginpanahi ako sa kadam-an sang duta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "nagakubli"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "akon mga tul-an"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa diin"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ako ginhimo"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sa tago"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "ginpanahi ako"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "sa kadam-an"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:03.605517470Z",
+  "model": "glm-5.3"
+}

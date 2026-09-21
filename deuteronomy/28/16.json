@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Ginsumpa ikaw sa dakbanwa, kag ginsumpa ikaw sa uma.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ginsumpa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa dakbanwa"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "kag ginsumpa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa uma"
+    }
+  ],
+  "timestamp": "2026-09-21T17:30:26.881887950Z",
+  "model": "glm-5.3"
+}

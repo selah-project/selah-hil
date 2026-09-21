@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Kag ang akon dila magahambal sang imo katarungan, sa tanan nga adlaw sang imo pagdayaw.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "Kag ang akon dila"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "magahambal"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "sang imo katarungan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nga adlaw"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "sang imo pagdayaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:52.125387441Z",
+  "model": "glm-5.3"
+}

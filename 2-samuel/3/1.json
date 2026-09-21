@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 3:1",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag nangin madugay ang gubat sa tunga sang balay ni Shaul kag sa tunga sang balay ni David, kag si David nagakusog kag nagakusog, kag ang balay ni Shaul nagakinuykuy kag nagakinuykuy.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "kag nangin"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ang gubat"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "madugay"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "kag sa tunga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "kag si David"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nagakusog"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "kag nagakusog"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "kag ang balay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "nagakinuykuy"
+    },
+    {
+      "surface": "ודלים",
+      "gloss": "kag nagakinuykuy"
+    }
+  ],
+  "timestamp": "2026-09-21T18:13:02.312754089Z",
+  "model": "glm-5.3"
+}

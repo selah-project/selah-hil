@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "⟨את⟩ ang imo mga kahitulongan bantayan ko; indi ako pagbaya-i nga hingpit.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imo mga kahitulongan"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "imo mga kahitulongan"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "bantayan ko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "ako pagbaya-i"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hingpit"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:58.476512906Z",
+  "model": "glm-5.3"
+}

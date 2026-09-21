@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag subong, tan-awa, ang singgit sang mga anak sang Yisrael nagaabot sa akon, kag nakita ko man ⟨את⟩ ang pagpilit nga ang mga taga-Mitsrayim nagapilit ⟨אתם⟩ sa ila.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kag subong"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "ang singgit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "באה",
+      "gloss": "nagaabot"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kag man"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pagpilit"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "ang pagpilit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "mga taga-Mitsrayim"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "nagapilit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T16:21:17.001346387Z",
+  "model": "glm-5.3"
+}

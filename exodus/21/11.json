@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag kon ini nga tatlo indi niya ihimo sa iya, magaguwa siya nga waya sing bayad, waya sing pilak.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tatlo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ihimo niya"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "magaguwa siya"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "nga waya sing bayad"
+    },
+    {
+      "surface": "אין",
+      "gloss": "waya"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sang pilak"
+    }
+  ],
+  "timestamp": "2026-09-21T16:29:37.236306316Z",
+  "model": "glm-5.3"
+}

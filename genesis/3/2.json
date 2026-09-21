@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ang babae nagsiling sa man-og: Sa bunga sang mga kahoy sang tanaman kita nagakaon.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ang babae"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "man-og"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "sa bunga"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "sang mga kahoy"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "sang tanaman"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "kita nagakaon"
+    }
+  ],
+  "timestamp": "2026-09-21T15:56:20.984891983Z",
+  "model": "glm-5.3"
+}

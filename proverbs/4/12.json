@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kon magalakat ka, indi magakitid ang imo nga tikang, kag kon magadagan ka, indi ka matumba.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "Kon magalakat ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "magakitid"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "imo nga tikang"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "magadagan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "matumba"
+    }
+  ],
+  "timestamp": "2026-09-21T20:55:46.801490679Z",
+  "model": "glm-5.3"
+}

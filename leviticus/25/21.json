@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag magasogo Ako sang akon pagpakamaayo ⟨את⟩ sa inyo sa ikan-om nga tuig, kag magahimo sini ⟨את⟩ ang ani sa tatlo ka tuig.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "magasogo Ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akon pagpakamaayo"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "akon pagpakamaayo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "sa tuig"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "ikan-om"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "magahimo sini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ani"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "ang ani"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "sa tatlo ka"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "tuig"
+    }
+  ],
+  "timestamp": "2026-09-21T16:54:23.040146209Z",
+  "model": "glm-5.3"
+}

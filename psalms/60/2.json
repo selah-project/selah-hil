@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 60,
+  "translation": "Sa iya pagpakig-away sa ⟨את⟩ Aram-Naharayim kag ⟨את⟩ Aram-Tsova, kag nagbalik si Yoav kag ginpatalbug niya ⟨את⟩ ang Edom sa walog sang asin — napulo kag duha ka libo.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "sa iya pagpakig-away"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram-Naharayim"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Aram-Tsova"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsova"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kag nagbalik"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "si Yoav"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "kag ginpatalbug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "sa walog"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "sang asin"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duha"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "napulo kag"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ka libo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:49.053465815Z",
+  "model": "glm-5.3"
+}

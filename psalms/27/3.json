@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Bisan magkampo sang suldado batok sa akon, indi magakulba ang akon tagipusuon; bisan magbangon sang gera batok sa akon, sa ini ako nagasalig.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "magkampo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "batok sa akon"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "sang suldado"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "magakulba"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang akon tagipusuon"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "magbangon"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "batok sa akon"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sang gera"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "sa ini"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "nagasalig"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:44.612616054Z",
+  "model": "glm-5.3"
+}

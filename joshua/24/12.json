@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag ginsugo ko sa atubangan ninyo ⟨את⟩ ang panganod, kag nagpalagyo ini sang duha ka hari sang mga Emori gikan sa atubangan ninyo — indi sang imo espada kag indi sang imo pana.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "kag ginsugo ko"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "sa atubangan ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang panganod"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "ang panganod"
+    },
+    {
+      "surface": "ותגרש",
+      "gloss": "kag nagpalagyo ini"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "ang duha ka hari sang mga Emori"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "gikan sa atubangan ninyo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "hari"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "sang mga Emori"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "sang imo espada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "sang imo pana"
+    }
+  ],
+  "timestamp": "2026-09-21T22:25:12.401100584Z",
+  "model": "glm-5.3"
+}

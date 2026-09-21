@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag si Binyamin nagkatawo ⟨את⟩ kay Bela, ang iya panganay; si Ashbel ang ikaduha, kag si Ajarakh ang ikatlo.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "kag si Binyamin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkatawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ang iya panganay"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ashbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ang ikaduha"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "kag si Ajarakh"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ang ikatlo"
+    }
+  ],
+  "timestamp": "2026-09-21T21:51:57.557169843Z",
+  "model": "glm-5.3"
+}

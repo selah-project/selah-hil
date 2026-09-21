@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 6:4",
+  "book": "amos",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Ang mga nagahigda sa mga higrasan sang garing kag nagalawig sa ila mga katre, kag nagakaon sang mga kordero gikan sa kawan kag sang mga utan nga baka gikan sa tunga sang pinaka-an;",
+  "tokens": [
+    {
+      "surface": "השכבים",
+      "gloss": "Ang mga nagahigda"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "mga higrasan"
+    },
+    {
+      "surface": "שן",
+      "gloss": "sang garing"
+    },
+    {
+      "surface": "וסרחים",
+      "gloss": "kag nagalawig"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ערשותם",
+      "gloss": "ila mga katre"
+    },
+    {
+      "surface": "ואכלים",
+      "gloss": "kag nagakaon"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "mga kordero"
+    },
+    {
+      "surface": "מצאן",
+      "gloss": "gikan sa kawan"
+    },
+    {
+      "surface": "ועגלים",
+      "gloss": "kag mga utan nga baka"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "gikan sa tunga"
+    },
+    {
+      "surface": "מרבק",
+      "gloss": "sang pinaka-an"
+    }
+  ],
+  "timestamp": "2026-09-21T20:11:07.130528958Z",
+  "model": "glm-5.3"
+}

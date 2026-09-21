@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kay sin-o ang magakaon, kag sin-o ang magadali ⟨sa⟩ pagpangita sang mga butang sa guwa, gawas sa akon?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ang magakaon"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "kag sin-o"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "ang magadali"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "sa guwa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "gawas sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T21:25:10.452235343Z",
+  "model": "glm-5.3"
+}

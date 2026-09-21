@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Damo ⟨ka⟩ mga kasakit sa maraot, apang ang nagatuo kay Yahweh — hesed ang magalibut sa iya.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Damo"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "mga kasakit"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "sa maraot"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "apang ang nagatuo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "ang magalibut sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:14.661042478Z",
+  "model": "glm-5.3"
+}

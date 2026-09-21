@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag nagpatalingnat ang hari sang Ashur sa iya, kag nagsakat ang hari sang Ashur sa Damasek, kag gindakop niya ini, kag ginpahalin niya ini sa Kir, kag ⟨את⟩ si Retsin ginpamatay niya.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nagpatalingnat"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sang Ashur"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "kag nagsakat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sang Ashur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasek"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "kag gindakop niya ini"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "kag ginpahalin niya ini"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "sa Kir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Retsin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "si Retsin"
+    },
+    {
+      "surface": "המית",
+      "gloss": "ginpamatay niya"
+    }
+  ],
+  "timestamp": "2026-09-21T18:46:57.317283973Z",
+  "model": "glm-5.3"
+}

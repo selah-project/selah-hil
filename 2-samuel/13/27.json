@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag ginpugusan ni Avshalom siya, kag ginpakadto niya ⟨את⟩ upod sa iya ⟨את⟩ si Amnon kag ⟨את⟩ tanan nga mga anak sang hari.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "Kag ginpugusan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ni Avshalom"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "kag ginpakadto niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ upod sa iya",
+      "marks": "si Amnon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Amnon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "si Amnon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga mga anak sang hari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nga mga anak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    }
+  ],
+  "timestamp": "2026-09-21T18:18:24.112915110Z",
+  "model": "glm-5.3"
+}

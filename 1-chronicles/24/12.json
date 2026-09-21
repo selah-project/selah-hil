@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Ang ikapulo kag isa kay Elyashiv, ang ikapulo kag duha kay Yakim.",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "kay Elyashiv"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "⟨ikapulo kag⟩ isa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ikapulo kag isa"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "kay Yakim"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duha"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ikapulo kag duha"
+    }
+  ],
+  "timestamp": "2026-09-21T21:57:19.878856731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kag ginpakwa niya ⟨את⟩ ako sa malapad nga lugar, gindalusan niya ako, kay naluluyag siya sa akon.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Kag ginpakwa niya"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "sa malapad nga lugar"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ako"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "gindalusan niya ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "naluluyag siya"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T18:24:13.520864061Z",
+  "model": "glm-5.3"
+}

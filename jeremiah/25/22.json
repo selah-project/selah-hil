@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "kag ⟨את⟩ tanan nga mga hari sang Tsor, kag ⟨את⟩ tanan nga mga hari sang Tsidon, kag ⟨את⟩ ang mga hari sang puro nga ara sa pihak sang dagat",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga mga hari sang Tsor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga mga hari sang Tsidon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "mga hari sang puro"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "האי",
+      "gloss": "puro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "sa pihak"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sang dagat"
+    }
+  ],
+  "timestamp": "2026-09-21T19:25:23.634626057Z",
+  "model": "glm-5.3"
+}

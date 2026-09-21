@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 145,
+  "translation": "Ang mga mata sang tanan nagahulat sa imo, kag ikaw nagahatag sa ila sang ⟨את⟩ ila pagkaon sa iya tion.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ang mga mata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "nagahulat"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kag ikaw"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "nagahatag"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ila pagkaon"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ila pagkaon"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "sa iya tion"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:24.454095268Z",
+  "model": "glm-5.3"
+}

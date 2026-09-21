@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ginpadian niya ⟨את⟩ ang uwak, kag ini naggwa — paggwa kag pagbalik — hasta mag-uga ang mga tubig gikan sa ibabaw sang duta.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Kag ginpadian niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang uwak"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ang uwak"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "kag naggwa"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "paggwa"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "kag pagbalik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "mag-uga"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang mga tubig"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "gikan sa ibabaw"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T15:57:46.198376854Z",
+  "model": "glm-5.3"
+}

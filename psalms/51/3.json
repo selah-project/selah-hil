@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 51,
+  "translation": "Kaloy-i ako, Elohim, suno sa imo hesed, suno sa kadamuon sang imo mga kaluoy; panason ang akon mga paglapas.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Kaloy-i ako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "suno sa imo hesed"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "suno sa kadamuon"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "sang imo mga kaluoy"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "panason"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ang akon mga paglapas"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:09.457341482Z",
+  "model": "glm-5.3"
+}

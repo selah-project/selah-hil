@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 30:14",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kag nagtindog sila kag ginhalin ⟨את⟩ ang mga halaran nga ara sa Yerushalayim, kag ⟨את⟩ tanan nga mga halaran sang insenso ginhalin nila kag ginsulgol sa walog sang Kidron.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "nagtindog sila"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "kag ginhalin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga halaran nga ara sa Yerushalayim"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "ang mga halaran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga ara"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga mga halaran sang insenso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "המקטרות",
+      "gloss": "nga mga halaran sang insenso"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "ginhalin nila"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "kag ginsulgol"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "sa walog"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "sang Kidron"
+    }
+  ],
+  "timestamp": "2026-09-21T22:12:27.135909869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Kag ginpauran sa ila ang man nga pagkaon, kag ang bugas sang langit ginhatag sa ila.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "ginpauran"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ang man"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "nga pagkaon"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "kag ang bugas"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sang langit"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ginhatag"
+    },
+    {
+      "surface": "למו",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:42.910021349Z",
+  "model": "glm-5.3"
+}

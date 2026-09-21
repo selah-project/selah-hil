@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 34:12",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "kag magapanaog ang utlanan sa Yarden, kag ang iya mga pagguwa ⟨mga⟩ sa dagat sang asin; ini ang mahimo nga inyo nga duta subong sang iya mga utlian sa palibot.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "kag magapanaog"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "ang utlanan"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "sa Yarden"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kag ang iya mga pagguwa"
+    },
+    {
+      "surface": "תוצאתיו",
+      "gloss": "mga pagguwa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "sang asin"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ang mahimo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nga inyo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nga duta"
+    },
+    {
+      "surface": "לגבלתיה",
+      "gloss": "subong sang iya mga utlian"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    }
+  ],
+  "timestamp": "2026-09-21T17:15:52.915721470Z",
+  "model": "glm-5.3"
+}

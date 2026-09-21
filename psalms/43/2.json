@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 43,
+  "translation": "Kay ikaw ang akon Elohim, ang akon kabalakan — ngaa ginpabayaan mo ako? Ngaa malungkot ako sa paglakat sa pagpanglupig sang kaaway?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang akon Elohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "ang akon kabalakan"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "ginpabayaan mo ako"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "malungkot"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "ako sa paglakat"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "sa pagpanglupig"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "sang kaaway"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:11.748829894Z",
+  "model": "glm-5.3"
+}

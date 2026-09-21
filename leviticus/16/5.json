@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag gikan sa ⟨את⟩ ang katilingban sang mga anak nga lalaki sang Yisrael magakuha siya sang duha ka lalaking kanding para sa handog sang sala, kag sang isa ka karnero para sa sinunog nga handog.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "kag gikan sa ⟨את⟩",
+      "marks": "ang katilingban sang mga anak nga lalaki sang Yisrael"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ang katilingban"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "magakuha siya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "lalaking kanding"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "sang mga kanding"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "para sa handog sang sala"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "kag isa ka karnero"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "para sa sinunog nga handog"
+    }
+  ],
+  "timestamp": "2026-09-21T16:50:50.074610878Z",
+  "model": "glm-5.3"
+}

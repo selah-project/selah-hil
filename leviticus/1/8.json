@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag magahan-ay ang mga anak ni Aharon, ang mga saserdote, ⟨את⟩ sang mga pedaso, ⟨את⟩ sang ulo kag ⟨את⟩ sang taba, sa ibabaw sang mga kahoy nga ara sa ibabaw sang kalayo nga ara sa ibabaw sang halaran.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "kag magahan-ay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ang mga saserdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang mga pedaso"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "sang mga pedaso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang ulo"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "sang ulo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang taba"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "sang taba"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "sang mga kahoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "האש",
+      "gloss": "sang kalayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sang halaran"
+    }
+  ],
+  "timestamp": "2026-09-21T16:41:19.075880368Z",
+  "model": "glm-5.3"
+}

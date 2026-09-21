@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Ngani, wala gid sila magbuhat sang kalautan; sa iya mga dalan sila naglakat.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ngani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala gid"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "sila magbuhat"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "sang kalautan"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "sa iya mga dalan"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "sila naglakat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:15.486596187Z",
+  "model": "glm-5.3"
+}

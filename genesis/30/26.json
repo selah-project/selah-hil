@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 30:26",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Ihatag ⟨את⟩ ang akon mga asawa kag ⟨את⟩ ang akon mga anak, nga akon ginalagad sa imo paagi sini, kag magakadto ako, kay ikaw nakahibalo ⟨את⟩ sang akon pag-alagad nga akon ginalagad sa imo.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "ihatag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon mga asawa"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "ang akon mga asawa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang akon mga anak"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "ang akon mga anak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "akon ginalagad"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "sa imo"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "paagi sini"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "kag magakadto ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nakahibalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang akon pag-alagad"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "sang akon pag-alagad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "akon ginalagad sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:08:04.489350059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ang bata nga si Shemuël nagaalagad ⟨kang⟩ Yahweh sa atubangan ni Eli, kag ang pulong ni Yahweh bilidhon sa mga adlaw nga ina — wala sing panan-aw nga nagabuto.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "kag ang bata"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shemuël"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "nagaalagad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ni Eli"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "kag ang pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "היה",
+      "gloss": "amo"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "bilidhon"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "sa mga adlaw"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "nga ina"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala sing"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "panan-aw"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "nagabuto"
+    }
+  ],
+  "timestamp": "2026-09-21T17:58:48.563117566Z",
+  "model": "glm-5.3"
+}

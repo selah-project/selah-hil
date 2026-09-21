@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "tungod kay nagbati si Avraham sa akon tingog kag gintipigan niya ang akon bantay sang akon mga mando, akon mga kagang-anunan, kag akon mga pagtulun-an.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "tungod kay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nagbati"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "sa akon tingog"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "kag gintipigan niya"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "ang akon bantay"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "akon mga mando"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "akon mga kagang-anunan"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "kag akon mga pagtulun-an"
+    }
+  ],
+  "timestamp": "2026-09-21T16:05:58.888019744Z",
+  "model": "glm-5.3"
+}

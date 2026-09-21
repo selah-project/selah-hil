@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 99,
+  "translation": "Kag ang kusog sang hari nagahigugma sang hustisya — ikaw ang nagpatindog sing matarong nga pagdumalahanon; hustisya kag pagkamatarong sa Yakob ikaw ang nagbuhat.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "Kag ang kusog"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sang hustisya"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "nagahigugma"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "ang nagpatindog"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "sing matarong nga pagdumalahanon"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hustisya"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "kag pagkamatarong"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "sa Yakob"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ang nagbuhat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:45.337472374Z",
+  "model": "glm-5.3"
+}

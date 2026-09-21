@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag ang duha sila ⟨ay⟩ hubas, ang tawo kag ang iya asawa, kag wala sila magpaila.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "kag sila"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ang duha sila"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "hubas"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "kag ang iya asawa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "sila magpaila"
+    }
+  ],
+  "timestamp": "2026-09-21T15:54:16.255288128Z",
+  "model": "glm-5.3"
+}

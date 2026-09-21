@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag amo sina ginhimo niya sa tanan niya nga mga langyaw nga asawa, nga nagaaso kag naghahalad sa ila mga dios.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "Kag amo sina"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "niya nga mga asawa"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "nga langyaw"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "nga nagaaso"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "kag naghahalad"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "sa ila mga dios"
+    }
+  ],
+  "timestamp": "2026-09-21T18:32:33.458699111Z",
+  "model": "glm-5.3"
+}

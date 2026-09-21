@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 39,
+  "translation": "Kag nangin si Yahweh kaupod ⟨את⟩ kay Yosef, kag gintugyan niya ang hesed sa iya, kag ginbutang niya ang iya palangga sa mga mata sang tagapangulo sang balay sang bilanggoan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag nangin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "kag gintugyan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kag ginbutang"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "iya nga palangga"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "שר",
+      "gloss": "tagapangulo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "bilanggoan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:12:52.417333577Z",
+  "model": "glm-5.3"
+}

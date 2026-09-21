@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 5:2",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag sa pagpatay ang mga manugtalikod nagpalalim, kag ako ⟨amo⟩ ang pagbatad sa tanan nila.",
+  "tokens": [
+    {
+      "surface": "ושחטה",
+      "gloss": "kag sa pagpatay"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "mga manugtalikod"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "nagpalalim"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kag ako"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "pagbatad"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "sa tanan nila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:05:08.727617520Z",
+  "model": "glm-5.3"
+}

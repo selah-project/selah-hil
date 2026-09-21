@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Isa ka himno ni David. Ihatag ninyo kay Yahweh, kamo mga anak sang mga El, ihatag ninyo kay Yahweh himaya kag kusog.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "himno"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ihatag ninyo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "mga El"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ihatag ninyo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "himaya"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "kag kusog"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:53.233983878Z",
+  "model": "glm-5.3"
+}

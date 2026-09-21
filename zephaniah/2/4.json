@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 2:4",
+  "book": "zephaniah",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kay ang Aza biyaanon, kag ang Ashkelon maging talawan; ang Ashdod sa odto pagaikuhaon nila ⟨siya⟩, kag ang Ekron gab-oton sa gamot.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "ang Aza"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "biyaanon"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "maging"
+    },
+    {
+      "surface": "ואשקלון",
+      "gloss": "kag ang Ashkelon"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "talawan"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "ang Ashdod"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "sa odto"
+    },
+    {
+      "surface": "יגרשוה",
+      "gloss": "pagaikuhaon nila siya"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "kag ang Ekron"
+    },
+    {
+      "surface": "תעקר",
+      "gloss": "gab-oton sa gamot"
+    }
+  ],
+  "timestamp": "2026-09-21T20:17:31.631145478Z",
+  "model": "glm-5.3"
+}

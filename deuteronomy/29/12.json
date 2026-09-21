@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 29:12",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "agod patindugon ka niya ⟨את⟩ subong nga adlaw para sa iya nga isa ka pungsod, kag magaadi siya sa imo nga Elohim, subong sang iya ginhambal sa imo kag subong sang iya panumpa sa imo mga katigulangan, kay Avraham, kay Yitskhak kag kay Yaakov.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "agod"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "patindugon"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ka (ikaw)"
+    },
+    {
+      "surface": "היום",
+      "gloss": "subong nga adlaw"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa iya"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "nga isa ka pungsod"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kag siya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magaadi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "nga Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "iya ginhambal"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "kag subong sang"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "iya panumpa"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "sa imo mga katigulangan"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kay Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kay Yitskhak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "kag kay Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-21T17:30:26.663991985Z",
+  "model": "glm-5.3"
+}

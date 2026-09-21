@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag gintuyar sang hari ⟨את⟩ iya dagway, kag ginpakamaayo niya ⟨את⟩ tanan nga katipunan sang Yisrael, kag ang tanan nga katipunan sang Yisrael nagatindog.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "kag gintuyar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya dagway"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "iya dagway"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "kag ginpakamaayo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga katipunan sang Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "nga katipunan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "nga katipunan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nagatindog"
+    }
+  ],
+  "timestamp": "2026-09-21T18:30:42.956785755Z",
+  "model": "glm-5.3"
+}

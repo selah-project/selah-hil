@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag nagdugang pa si Avraham kag nagkuha ⟨sang⟩ asawa, kag ang iya ngalan amo si Ketura.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "nagdugang pa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "kag nagkuha"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "kag ang iya ngalan"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "si Ketura"
+    }
+  ],
+  "timestamp": "2026-09-21T16:05:39.654724943Z",
+  "model": "glm-5.3"
+}

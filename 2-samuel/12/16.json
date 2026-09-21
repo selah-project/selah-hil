@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag nangamuyo si David ⟨את⟩ sang Elohim alang sa bata; kag nagsugid sang puasa si David — puasa; kag sulod kag nagtuler kag naghigda sa duta.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "kag nangamuyo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "alang sa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "bata"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "kag nagsugid sang puasa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "צום",
+      "gloss": "puasa"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "kag sulod"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "kag nagtuler"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "kag naghigda"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sa duta"
+    }
+  ],
+  "timestamp": "2026-09-21T18:17:46.145986351Z",
+  "model": "glm-5.3"
+}

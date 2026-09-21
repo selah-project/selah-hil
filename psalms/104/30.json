@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 104,
+  "translation": "Ginapadala mo ang imo ginhawa, sila gintuga; kag ginapabag-o mo ang panyo sang duta.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "ginapadala mo"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ang imo ginhawa"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "sila gintuga"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "kag ginapabag-o mo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ang panyo"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:03.901829784Z",
+  "model": "glm-5.3"
+}

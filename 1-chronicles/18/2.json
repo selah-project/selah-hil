@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag gintama niya ⟨את⟩ ang Moab, kag ang mga taga-Moab nangin mga ulipon kay Daud, nga nagadala sang handog.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "gintama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ang Moab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "kag nangin"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ang mga taga-Moab"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "mga ulipon"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "kay Daud"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "nga nagadala"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "sang handog"
+    }
+  ],
+  "timestamp": "2026-09-21T21:56:05.765000317Z",
+  "model": "glm-5.3"
+}

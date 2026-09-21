@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Sang tion sa pagkatawo kag sang tion sa pagpatay; sang tion sa pagtanom kag sang tion sa pagpanoot sang gintanom.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "sang tion"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "sa pagkatawo"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "kag sang tion"
+    },
+    {
+      "surface": "למות",
+      "gloss": "sa pagpatay"
+    },
+    {
+      "surface": "עת",
+      "gloss": "sang tion"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "sa pagtanom"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "kag sang tion"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "sa pagpanoot"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "sang gintanom"
+    }
+  ],
+  "timestamp": "2026-09-21T21:25:27.473340820Z",
+  "model": "glm-5.3"
+}

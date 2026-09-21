@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 72,
+  "translation": "Gikan sa pagpailim kag gikan sa kalaut, igtubos niya ang ila kalag; kag mapahalaga ang ila dugo sa iya mga mata.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "gikan sa pagpailim"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "kag gikan sa kalaut"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "igtubos niya"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ang ila kalag"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "kag mapahalaga"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "ang ila dugo"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "sa iya mga mata"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:00.678933724Z",
+  "model": "glm-5.3"
+}

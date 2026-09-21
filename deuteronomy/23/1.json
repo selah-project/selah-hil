@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Indi pagkuhaon sang tawo ⟨את⟩ ang asawa sang iya amay, kag indi paghayagni ang layog sang iya amay.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "pagkuhaon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang asawa sang iya amay"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ang asawa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sang iya amay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "paghayagni"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ang layog"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sang iya amay"
+    }
+  ],
+  "timestamp": "2026-09-21T17:28:48.134266699Z",
+  "model": "glm-5.3"
+}

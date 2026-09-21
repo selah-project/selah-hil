@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Kay kasugoan sa kasugoan, kasugoan sa kasugoan, linya sa linya, linya sa linya, gamay didto, gamay didto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "צו",
+      "gloss": "kasugoan"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "sa kasugoan"
+    },
+    {
+      "surface": "צו",
+      "gloss": "kasugoan"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "sa kasugoan"
+    },
+    {
+      "surface": "קו",
+      "gloss": "linya"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "sa linya"
+    },
+    {
+      "surface": "קו",
+      "gloss": "linya"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "sa linya"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "gamay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "gamay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    }
+  ],
+  "timestamp": "2026-09-21T19:00:09.606646652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Nagpanguta ang akon ginoo ⟨את⟩ sang iya mga ulipon nga nagsiling: May ara kamo amay ukon utod?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ang akon ginoo"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "nagpanguta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang iya mga ulipon"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sang iya mga ulipon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagsiling"
+    },
+    {
+      "surface": "היש",
+      "gloss": "May ara"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "אב",
+      "gloss": "amay"
+    },
+    {
+      "surface": "או",
+      "gloss": "ukon"
+    },
+    {
+      "surface": "אח",
+      "gloss": "utod"
+    }
+  ],
+  "timestamp": "2026-09-21T16:16:37.323524549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kag ikaw balaan, nagaestar ⟨sa⟩ mga pagdayaw sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kag ikaw"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "nagaestar"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "mga pagdayaw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:37.678327275Z",
+  "model": "glm-5.3"
+}

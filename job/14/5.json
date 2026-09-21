@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kon ginpainda ang iya mga adlaw, ang ihap sang iya mga bulan ⟨את⟩ yara sa imo, ang iya sangpit imo ginhimo, kag indi na siya magalabang.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "ginpainda"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "iya mga adlaw"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ang ihap"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "iya mga bulan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sa imo",
+      "marks": "sa imo"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "iya sangpit"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "imo ginhimo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "magalabang"
+    }
+  ],
+  "timestamp": "2026-09-21T21:09:50.955784027Z",
+  "model": "glm-5.3"
+}

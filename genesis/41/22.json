@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 41:22",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 41,
+  "translation": "Kag nakita ko sa akon damgo, kag yari, pito ka mga uyok nga nagtungtong sa isa ka tunod, puno kag maayo.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "kag nakita ko"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "sa akon damgo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kag yari"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "ka mga uyok"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "nagtungtong"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "sa tunod"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "puno"
+    },
+    {
+      "surface": "וטבות",
+      "gloss": "kag maayo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:14:31.156354367Z",
+  "model": "glm-5.3"
+}

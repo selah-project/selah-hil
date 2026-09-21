@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Wala sing balaan pareho kay Yahweh, kay wala sing ⟨iba⟩ gawas sa imo, kag wala sing bato pareho sa aton Elohim.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Wala sing"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "pareho kay Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala sing"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "⟨iba⟩ gawas sa imo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala sing"
+    },
+    {
+      "surface": "צור",
+      "gloss": "bato"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "pareho sa aton Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T17:58:21.985223954Z",
+  "model": "glm-5.3"
+}

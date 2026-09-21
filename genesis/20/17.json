@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Ginpangamuyo si Avraham sa Elohim, kag gin-ayo sang Elohim ⟨את⟩ si Avimelekh kag ⟨את⟩ ang iya asawa kag ang iya mga sulugoon nga babae, kag natawo sila sang mga anak.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "ginpangamuyo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "kag gin-ayo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avimelekh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "si Avimelekh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya asawa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ang iya asawa"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "kag ang iya mga sulugoon nga babae"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "kag natawo sila sang mga anak"
+    }
+  ],
+  "timestamp": "2026-09-21T16:02:32.955313980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 1:8",
+  "book": "ezra",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ginpaguwa ni Koresh, hari sang Paras, ang mga ini pinaagi sa kamot ni Mitredat ang tagbantay sang mga sulundon, kag ginbilang niya ang mga ini kay Sheshbatsar, ang prinsipe sang Yehudah.",
+  "tokens": [
+    {
+      "surface": "ויוציאם",
+      "gloss": "kag ginpaguwa niya ang mga ini"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "ni Koresh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "sang Paras"
+    },
+    {
+      "surface": "על",
+      "gloss": "pinaagi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "מתרדת",
+      "gloss": "ni Mitredat"
+    },
+    {
+      "surface": "הגזבר",
+      "gloss": "ang tagbantay sang mga sulundon"
+    },
+    {
+      "surface": "ויספרם",
+      "gloss": "kag ginbilang niya ang mga ini"
+    },
+    {
+      "surface": "לששבצר",
+      "gloss": "kay Sheshbatsar"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "ang prinsipe"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "sang Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-21T21:39:44.863645639Z",
+  "model": "glm-5.3"
+}

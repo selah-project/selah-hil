@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kay siya sa ibabaw sang mga dagat nagtindog sini, kag sa ibabaw sang mga suba ginpamatok sini.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga dagat"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "nagtindog sini"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa ibabaw sang"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mga suba"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "ginpamatok sini"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:27.145757909Z",
+  "model": "glm-5.3"
+}

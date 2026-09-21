@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 95,
+  "translation": "Kay El nga dako si Yahweh, kag hari nga dako siya sa tanan nga mga dios.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nga dako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "kag hari"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nga dako"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga dios"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:01.446467280Z",
+  "model": "glm-5.3"
+}

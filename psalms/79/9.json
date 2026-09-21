@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 79:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 79,
+  "translation": "Buligi kami, Elohim sang aton pagluwas, tungod sa dunggan sang himaya sang imo ngalan, kag luwason kami, kag bayari ⟨ang⟩ aton mga sala tungod sang imo ngalan.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Buligi kami"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "sang aton pagluwas"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dunggan"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "himaya"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sang imo ngalan"
+    },
+    {
+      "surface": "והצילנו",
+      "gloss": "kag luwason kami"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "kag magbayad"
+    },
+    {
+      "surface": "על",
+      "gloss": "sang"
+    },
+    {
+      "surface": "חטאתינו",
+      "gloss": "aton mga sala"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tungod sang"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imo ngalan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:11.518928471Z",
+  "model": "glm-5.3"
+}

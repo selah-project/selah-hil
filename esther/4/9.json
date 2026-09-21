@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag nagsulod si Hathakh kag nagpahibalo kay Ester ⟨את⟩ ang mga pulong ni Mordekhay.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "Kag nagsulod"
+    },
+    {
+      "surface": "התך",
+      "gloss": "si Hathakh"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "kag nagpahibalo"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "kay Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pulong ni Mordekhay"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ang mga pulong"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ni Mordekhay"
+    }
+  ],
+  "timestamp": "2026-09-21T21:28:39.545626549Z",
+  "model": "glm-5.3"
+}

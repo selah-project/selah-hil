@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag ang bentaha sang duta sa tanan ⟨amo⟩ ang hari, ginaserbisan sang uma.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "Kag ang bentaha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "amo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "sang uma"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "ginaserbisan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:27:44.490029939Z",
+  "model": "glm-5.3"
+}

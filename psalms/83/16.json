@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 83,
+  "translation": "Sa sini nga paagi pagpanginhasa sila sa imo bagyo, kag sa imo dalogdog pagpahadlok sila.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "sa sini nga paagi"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "pagpanginhasa sila"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "sa imo bagyo"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "kag sa imo dalogdog"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "pagpahadlok sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:51.535383308Z",
+  "model": "glm-5.3"
+}

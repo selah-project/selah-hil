@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 38,
+  "translation": "Kag ginhimo niya ⟨את⟩ ang halaran sang sinog-halad, sa kahoy sang shitim; lima ka soko ang iya kadugayan, kag lima ka soko ang iya kalapad — kuwadrado — kag tatlo ka soko ang iya kataas-taasan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kag ginhimo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang halaran"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sang sinog-halad"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "sa kahoy"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sang shitim"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ka soko"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ang iya kadugayan"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "kag lima"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ka soko"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ang iya kalapad"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "kuwadrado"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "kag tatlo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ka soko"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ang iya kataas-taasan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:39:04.455307840Z",
+  "model": "glm-5.3"
+}

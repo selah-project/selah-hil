@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag natawanan ni Naarah siya ⟨את⟩ kang Akhuzam kag ⟨את⟩ kang Khefer kag ⟨את⟩ kang Temeni kag ⟨את⟩ kang Akhahashtari; ini ang mga anak ni Naarah.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "natawanan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "ni Naarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Akhuzam"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Akhuzam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "kang Khefer"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Khefer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "kang Temeni"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "kang Akhahashtari"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Akhahashtari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "ni Naarah"
+    }
+  ],
+  "timestamp": "2026-09-21T21:50:17.179505404Z",
+  "model": "glm-5.3"
+}

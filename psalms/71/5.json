@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 71,
+  "translation": "Kay ikaw ang akon tinlaum, Adonay Yahweh, ang akon pagkasalig tikang sa akon pagkabata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "ang akon tinlaum"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "ang akon pagkasalig"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "tikang sa akon pagkabata"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:01.099682654Z",
+  "model": "glm-5.3"
+}

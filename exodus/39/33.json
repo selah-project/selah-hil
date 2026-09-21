@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 39,
+  "translation": "Gindala nila ⟨את⟩ ang balay-kasilungan sa Moshe, ⟨את⟩ ang tolda kag ⟨את⟩ tanan nga iya mga galamiton, iya mga kandado, iya mga tabla, iya mga barahan, iya mga haligi, kag iya mga pagtindungan.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "gindala nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay-kasilungan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ang balay-kasilungan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tolda"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ang tolda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga iya mga galamiton"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "iya mga galamiton"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "iya mga kandado"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "iya mga tabla"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "iya mga barahan"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "kag iya mga haligi"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "kag iya mga pagtindungan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:40:51.762727256Z",
+  "model": "glm-5.3"
+}

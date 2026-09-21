@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "kag gintagan sila ⟨את⟩ sang Khebron sa duta sang Yehudah kag ⟨את⟩ sang iya mga parolanan sa iya palibot.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "kag gintagan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang Khebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "sang Khebron"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang iya mga parolanan"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "sang iya mga parolanan"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "sa iya palibot"
+    }
+  ],
+  "timestamp": "2026-09-21T21:51:47.113739808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 40:9",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag ginsugidan sang sar sang mga manog-inom ⟨את⟩ sang iya damgo kay Yosef, kag nagsiling siya sa iya: Sa akon damgo, kag yari kuno, isa ka puno sang ubas sa akon atubangan.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "ginsugidan"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sar"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "sang mga manog-inom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang iya damgo"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "iya ka damgo"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "kay Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "בחלומי",
+      "gloss": "sa akon damgo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kag yari kuno"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "puno sang ubas"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa akon atubangan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:18:20.941242824Z",
+  "model": "glm-5.3"
+}

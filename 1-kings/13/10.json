@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag nagkadto siya sa iban nga dalan, kag wala siya nagbalik sa dalan nga iya ginsulod paingtod sa Beyt-El.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kag nagkadto siya"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "iban"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "שב",
+      "gloss": "nagbalik"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ginsulod"
+    },
+    {
+      "surface": "בה",
+      "gloss": "iya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "paingtod"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-21T18:32:33.482175739Z",
+  "model": "glm-5.3"
+}

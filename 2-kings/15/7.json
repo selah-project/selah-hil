@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 15:7",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Kag nagtugyan si Azaryahu kaupod sang iya mga kag-anak, kag ginlubong nila ⟨את⟩ siya kaupod sang iya mga kag-anak sa duta ni David; kag naghari si Yotam nga iya anak singlipat sa iya.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "kag nagtugyan"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "si Azaryahu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sang iya mga kag-anak"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "kag ginlubong nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "si Azaryahu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sang iya mga kag-anak"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "kag naghari"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "si Yotam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nga iya anak"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "singlipat sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T18:45:34.544399514Z",
+  "model": "glm-5.3"
+}

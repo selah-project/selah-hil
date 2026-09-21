@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 76,
+  "translation": "Kay ang kaligutgut sang tawo magapakilala sang pagdayaw sa imo; ang salabtanan sang kaligutgut imo nga bugkosanon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ang kaligutgut"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "magapakilala sang pagdayaw sa imo"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "ang salabtanan"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "sang kaligutgut"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "imo nga bugkosanon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:57.642960471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag ang mga anak ni Nadav: Seled kag Appayim; kag namatay si Seled nga wala ⟨sing⟩ mga anak.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "kag ang mga anak"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ni Nadav"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "Seled"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "kag Appayim"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kag namatay"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "si Seled"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nga wala"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak"
+    }
+  ],
+  "timestamp": "2026-09-21T21:49:33.530139769Z",
+  "model": "glm-5.3"
+}

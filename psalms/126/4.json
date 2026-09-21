@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 126,
+  "translation": "Balik-a, O Yahweh, ⟨את⟩ ang amon pagkabihag, kaangay sang mga sapa sa Negheb.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Balik-a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "O Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang amon pagkabihag"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "ang amon pagkabihag"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "kaangay sang mga sapa"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "sa Negheb"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:56.526460559Z",
+  "model": "glm-5.3"
+}

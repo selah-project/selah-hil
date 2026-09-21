@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 73,
+  "translation": "Kag nangin gibudlayan ako sa tanan nga adlaw, kag ang akon pagtulod-tulod sa tagsa ka agahon.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "kag nangin"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "gibudlayan ako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nga adlaw"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "kag ang akon pagtulod-tulod"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "sa tagsa ka agahon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:45.864970091Z",
+  "model": "glm-5.3"
+}

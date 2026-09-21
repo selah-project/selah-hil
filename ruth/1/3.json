@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag napatay si Elimelekh, ang bana ni Noemi, kag nabilin siya kag ang iya duha ka anak nga lalaki.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "kag napatay"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "si Elimelekh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang bana"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "ni Noemi"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "kag nabilin"
+    },
+    {
+      "surface": "היא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "kag ang iya duha"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ka anak nga lalaki"
+    }
+  ],
+  "timestamp": "2026-09-21T21:22:17.256536964Z",
+  "model": "glm-5.3"
+}

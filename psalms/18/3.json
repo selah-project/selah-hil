@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Yahweh ang akon bato sang kuta kag ang akon kuta kag ang akon manlualang; ang akon El, ang akon bato, sa iya ako nagasalig; ang akon panalipod kag ang sungay sang akon kaluwasan, ang akon mataas nga kuta.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "akon bato sang kuta"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "kag ang akon kuta"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "kag ang akon manlualang"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ang akon El"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ang akon bato"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "nagasalig"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "ang akon panalipod"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "kag ang sungay"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "sang akon kaluwasan"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ang akon mataas nga kuta"
+    }
+  ],
+  "timestamp": "2026-09-21T22:38:53.906179746Z",
+  "model": "glm-5.3"
+}

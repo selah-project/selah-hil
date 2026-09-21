@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag nabatian sang hari nga si David ⟨את⟩ ang tanan nga mga pulong nga ina, kag nagakig siya sing labi.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Kag ang hari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nabatian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga mga pulong nga ina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "nga mga pulong"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nga ina"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "kag nagakig"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sing labi"
+    }
+  ],
+  "timestamp": "2026-09-21T18:17:14.403606668Z",
+  "model": "glm-5.3"
+}

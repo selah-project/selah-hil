@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Wala niya pagtugutan ang tawo sa pagpanglupad sa ila, kag gintagdisan niya tungod sa ila ang mga hari.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "niya pagtugutan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "sa pagpanglupad sa ila"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "kag gintagdisan niya"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "tungod sa ila"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ang mga hari"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:26.234431819Z",
+  "model": "glm-5.3"
+}

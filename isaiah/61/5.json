@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 61:5",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 61,
+  "translation": "Kag magatindog ang mga taga-lain kag magapakaon sang inyo mga karnero, kag ang mga anak sang taga-lain amo ang inyo mga mag-uuma kag inyo mga magbantay sang ubasan.",
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "kag magatindog"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "mga taga-lain"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "kag magapakaon"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "inyo mga karnero"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "kag mga anak"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "sang taga-lain"
+    },
+    {
+      "surface": "אכריכם",
+      "gloss": "inyo mga mag-uuma"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "kag inyo mga magbantay sang ubasan"
+    }
+  ],
+  "timestamp": "2026-09-21T19:13:43.438011379Z",
+  "model": "glm-5.3"
+}

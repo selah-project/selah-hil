@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Si Yahweh lamang ang nanguna sa iya, kag wala sing dios sang iban nga pungsod kaupod niya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "nanguna sa iya"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala sing"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaupod niya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dios"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "sang iban nga pungsod"
+    }
+  ],
+  "timestamp": "2026-09-21T17:32:35.792829715Z",
+  "model": "glm-5.3"
+}

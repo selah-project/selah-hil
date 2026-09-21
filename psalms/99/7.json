@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 99:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 99,
+  "translation": "Sa haligi sang panganod nagahambal siya sa ila; gintipigan nila ang iya mga pagsaksi, kag ang katungdanan nga iya gintanao sa ila.",
+  "tokens": [
+    {
+      "surface": "בעמוד",
+      "gloss": "Sa haligi"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "sang panganod"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "nagahambal siya"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "gintipigan nila"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "ang iya mga pagsaksi"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "kag ang katungdanan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gintanao"
+    },
+    {
+      "surface": "למו",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:02.550969996Z",
+  "model": "glm-5.3"
+}

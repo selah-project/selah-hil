@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 22:3",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kag nagbangon si Avraham sa kaagahon, kag ginsakyan niya ⟨את⟩ ang iya abo, kag nagkuha sia ⟨את⟩ sang iya duha ka katabang kaupod niya, kag ⟨את⟩ si Yitskhak nga iya anak, kag nagputol sia sang kahoy para sa halad nga sinusunog, kag nagtindog kag naglakat sia sa duta nga ginsiling sang Elohim sa iya.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "nagbangon sa kaagahon"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa kaagahon"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "ginsakyan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya abo"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "iya abo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "nagkuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang iya duha ka katabang"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "ka katabang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kaupod niya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Yitskhak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iya anak"
+    },
+    {
+      "surface": "ויבקע",
+      "gloss": "nagputol"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "sang kahoy"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "halad nga sinusunog"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "nagtindog"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "naglakat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "duta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ginsiling"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sang Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:04:01.903359495Z",
+  "model": "glm-5.3"
+}

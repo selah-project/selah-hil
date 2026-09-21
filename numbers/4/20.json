@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "kag indi sila magasulod sa pagtan-aw bisan sa makitlo ⟨את⟩ ang balaan, kag mamatay sila.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "magasulod sila"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "sa pagtan-aw"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "bisan sa makitlo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balaan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ang balaan"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "kag mamatay sila"
+    }
+  ],
+  "timestamp": "2026-09-21T16:59:14.817331506Z",
+  "model": "glm-5.3"
+}

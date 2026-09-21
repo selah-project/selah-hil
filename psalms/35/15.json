@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Kag kon ako nagpalagyo, nagkalipay sila kag nagkatipon; nagtipon batok sa akon ang mga mananakit nga indi ko nakilala; ginpunit nila ako kag wala sila maguntat.",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "kon ako nagpalagyo"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "nagkalipay sila"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "kag nagkatipon"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "nagtipon"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "batok sa akon"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "mga mananakit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nga indi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nakilala ko"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "ginpunit nila ako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "maguntat sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:40.551947642Z",
+  "model": "glm-5.3"
+}

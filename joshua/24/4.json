@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag gintagan ko si Yitskhak ⟨את⟩ ni Yaakov kag ⟨את⟩ ni Esav; kag gintagan ko si Esav ⟨את⟩ sang Bukid sang Seir sa pag-iya ⟨את⟩ sini; apang si Yaakov kag ang iya mga anak nagpanaw sila pa-Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Kag gintagan ko"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "si Yitskhak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ni Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ni Esav"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "kag gintagan ko"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "si Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang Bukid sang Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Bukid"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "sang Seir"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "sa pag-iya"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ sini",
+      "marks": "sang Bukid sang Seir"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "apang si Yaakov"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "kag ang iya mga anak"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "nagpanaw sila pa-"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T17:45:43.719295749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 144,
+  "translation": "Pagbalhag sing kidlat kag paglat-ira sila; ipadala ang imo mga pana kag paglabilabi sila.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "Pagbalhag"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "sing kidlat"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "kag paglat-ira sila"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ipadala"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "ang imo mga pana"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "kag paglabilabi sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:56.429661842Z",
+  "model": "glm-5.3"
+}

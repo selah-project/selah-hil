@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 107,
+  "translation": "Kag nagsinggit sila kay Yahweh sa ila kalisod, kag sa ila mga kasakitan ginaluwas ⟨niya⟩ sila.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "kag nagsinggit sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "sa kalisod"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ila"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "sa ila mga kasakitan"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "ginaluwas ⟨niya⟩ sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:07.863933679Z",
+  "model": "glm-5.3"
+}

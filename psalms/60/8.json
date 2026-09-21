@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 60,
+  "translation": "Naghambal si Elohim sa iya kabalaan: magakalipay ako, isapaid ko ang Shekhem, kag sukton ko ang walog sang Sukot.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "naghambal"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "sa iya kabalaan"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "magakalipay ako"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "isapaid ko"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ang Shekhem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "kag ang walog"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "sang Sukot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "sukton ko"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:03.891094420Z",
+  "model": "glm-5.3"
+}

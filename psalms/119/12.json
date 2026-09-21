@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Bulahan ikaw, Yahweh; itudlo sa akon ang imo mga giho.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Bulahan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "itudlo sa akon"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ang imo mga giho"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:36.326832057Z",
+  "model": "glm-5.3"
+}

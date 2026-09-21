@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 77:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 77,
+  "translation": "Nakalimtan na bala ni El ⟨ang paghimo sang kaayo⟩, ukon ginsira na bala sa iya kaakig ang iya mga kaluoy? Selah.",
+  "tokens": [
+    {
+      "surface": "השכח",
+      "gloss": "Nakalimtan na bala"
+    },
+    {
+      "surface": "חנות",
+      "gloss": "ang paghimo sang kaayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ni El"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukon"
+    },
+    {
+      "surface": "קפץ",
+      "gloss": "ginsira"
+    },
+    {
+      "surface": "באף",
+      "gloss": "sa iya kaakig"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "ang iya mga kaluoy"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:12.114442398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 92,
+  "translation": "Sa pagpahayag nga matarong si Yahweh, Bato ko, kag wala sing kalainan sa iya.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "sa pagpahayag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "Bato ko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "sing kalainan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:33.440997059Z",
+  "model": "glm-5.3"
+}

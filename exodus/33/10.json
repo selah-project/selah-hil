@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Kag nakita sang tanan nga mga tawo ⟨את⟩ ang haligi sang panganod nga nagatindog sa ganghaan sang tolda, kag nagbangon ang tanan nga mga tawo kag nagpanimalday, tagsa ka tawo sa ganghaan sang iya tolda.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Kag nakita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nga mga tawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang haligi"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "ang haligi"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "sang panganod"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nagatindog"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sa ganghaan"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "sang tolda"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "kag nagbangon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nga mga tawo"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "kag nagpanimalday"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tagsa ka tawo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sa ganghaan"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "sang iya tolda"
+    }
+  ],
+  "timestamp": "2026-09-21T16:37:53.812883786Z",
+  "model": "glm-5.3"
+}

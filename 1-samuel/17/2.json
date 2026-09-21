@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 17:2",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag si Shaul kag ang mga tawo sang Yisrael nagkatipon, kag nagkampo sa walog sang Elah, kag naghanda sila sang paggubat sa pag-atubang sang mga Pelishti.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "kag si Shaul"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kag ang mga tawo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "nagkatipon"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "kag nagkampo"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "sa walog"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sang Elah"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "kag naghanda sila"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sang paggubat"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "sa pag-atubang"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sang mga Pelishti"
+    }
+  ],
+  "timestamp": "2026-09-21T18:05:10.581051314Z",
+  "model": "glm-5.3"
+}

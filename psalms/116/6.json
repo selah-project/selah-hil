@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 116,
+  "translation": "Nagabantay si Yahweh sang mga patingala; nagpinakubos ako, kag ⟨siya⟩ nagluhas sa akon.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Nagabantay"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "mga patingala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "nagpinakubos ako"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "kag sa akon"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "nagluhas"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:04.345889806Z",
+  "model": "glm-5.3"
+}

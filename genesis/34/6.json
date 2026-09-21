@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Kag nagguwa si Khamor, amay ni Shekhem, pakadto kay Yaakov sa paghambal ⟨Аת⟩ ⟨את⟩ iya.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Kag nagguwa"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "si Khamor"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "amay"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ni Shekhem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pakadto kay"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "sa paghambal"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iya",
+      "marks": "iya (prepositional את, object of speech)"
+    }
+  ],
+  "timestamp": "2026-09-21T16:11:12.275778249Z",
+  "model": "glm-5.3"
+}

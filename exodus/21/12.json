@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Ang namuko sang tawo kag namatay, ingod mapatay siya.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "ang namuko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "kag namatay"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ingod nga kamatayon"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "mapatay siya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:29:37.236623769Z",
+  "model": "glm-5.3"
+}

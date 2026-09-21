@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 115,
+  "translation": "Mga kamot ang ila ⟨ara⟩ kag indi sila makahikap; mga tiil ang ila ⟨ara⟩ kag indi sila makalakat; indi sila makagunit sang tingog sa ila mga tutunhan.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "mga kamot"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "makahikap"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "mga tiil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "makalakat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "makagunit sang tingog"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "sa ila mga tutunhan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:18.734387295Z",
+  "model": "glm-5.3"
+}

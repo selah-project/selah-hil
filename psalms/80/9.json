@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 80,
+  "translation": "Isa ka gefen gikan sa Mitsrayim ginpanggunita mo; ang mga pungsod ginpaguha mo kag gintanum ini.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "gefen"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "gikan sa Mitsrayim"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "ginpanggunita mo"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "ginpaguha mo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ang mga pungsod"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "kag gintanum ini"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:36.343153530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kon sa iya kaugalingon siya magasulod, sa iya kaugalingon siya magaguwa; kon may bala sang babayi siya, kag magaguwa ang iya asawa kaupod niya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "sa iya kaugalingon"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "magasulod siya"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "sa iya kaugalingon"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "magaguwa siya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "may bala"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sang babayi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "kag magaguwa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ang iya asawa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaupod niya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:30:49.091389015Z",
+  "model": "glm-5.3"
+}

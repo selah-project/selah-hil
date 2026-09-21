@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 47,
+  "translation": "Kay ⟨ang⟩ hari sang tanan nga duta ⟨si⟩ Elohim; kumanta kamo sing may kaalam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nga duta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "kumanta kamo"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "sing may kaalam"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:20.573586507Z",
+  "model": "glm-5.3"
+}

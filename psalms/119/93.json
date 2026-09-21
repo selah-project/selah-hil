@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Sa dayon indi ko pagkalimtan ang imo mga pikudim, kay sa ila ginpabuhi mo ako.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "pagkalimtan ko"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "imo mga pikudim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "ginpabuhi mo ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:50:10.371265612Z",
+  "model": "glm-5.3"
+}

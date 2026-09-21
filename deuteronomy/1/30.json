@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Si Yahweh nga inyo Elohim, ang nagalakat sa atubangan ninyo, amo siya ang magapakig-away para sa inyo, suno sa tanan nga iya ginhimo kauban ⟨אתכם⟩ sa Mitsrayim sa atubangan sang inyo mga mata.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "inyo Elohim"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ang nagalakat"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "sa atubangan ninyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "amo siya"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "magapakig-away"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para sa inyo"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "suno sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "kauban ⟨אתכם⟩"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "sa atubangan sang inyo mga mata"
+    }
+  ],
+  "timestamp": "2026-09-21T17:17:43.984517777Z",
+  "model": "glm-5.3"
+}

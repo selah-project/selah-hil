@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag nagsiling si Yahweh kay Kayin: Ngaa ikaw gid kaakigon, kag ngaa nagpanginlubog ang imo dagway?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ikaakig"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "kag ngaa"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "nagpanginlubog"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "imo dagway"
+    }
+  ],
+  "timestamp": "2026-09-21T22:16:23.094781978Z",
+  "model": "glm-5.3"
+}

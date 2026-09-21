@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Kay natalumdum niya ⟨את⟩ ang iya balaan nga pulong, ⟨את⟩ si Avraham nga iya sulugoon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "natalumdum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya balaan nga pulong"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "iya balaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "iya sulugoon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:03.007001892Z",
+  "model": "glm-5.3"
+}

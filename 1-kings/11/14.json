@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag gintindog ni Yahweh ang isa ka kontra kay Shlomo — si ⟨את⟩ Hadad nga Edomnonhon, nga tumandok sa banay sang hari sa Edom.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "gintindog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "kontra"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "kay Shlomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Hadad"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "nga Edomnonhon"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "tumandok sa banay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "sa Edom"
+    }
+  ],
+  "timestamp": "2026-09-21T18:32:40.678965245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 3:2",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag nagsugod siya magtindog sa ikaduha nga bulan, sa ikaduha ⟨nga adlaw⟩, sa ikaapat ka tuig sang iya paghari.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "nagsugod"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "magtindog"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "sa bulan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikaduha"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "sa ikaduha"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "sa tuig"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ikaapat"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "sang iya paghari"
+    }
+  ],
+  "timestamp": "2026-09-21T22:01:42.363785672Z",
+  "model": "glm-5.3"
+}

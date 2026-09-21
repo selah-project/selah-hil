@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Ginpadian ni Yahweh ⟨את⟩ si Natan ngadto kay David, kag nagkari siya sa iya, kag nagsiling siya sa iya: Duha ka tawo ⟨ang⟩ nagaestar sa isa ka ciudad, ang isa mapinarangkay kag ang isa imol.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ginpadian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "si Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kag nagkari"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nagaestar ⟨ang⟩"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa isa ka ciudad"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "isa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "mapinarangkay"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "kag ang isa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "imol"
+    }
+  ],
+  "timestamp": "2026-09-21T18:18:16.769949681Z",
+  "model": "glm-5.3"
+}

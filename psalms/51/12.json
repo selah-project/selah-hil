@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 51,
+  "translation": "Lalangon mo sa akon ang dalagtahong kasingkasing, Elohim, kag ang matarong nga espiritu pagbag-oon mo sa akon sulud.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "dalagtahong"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "lalangon mo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "kag ang espiritu"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "pagbag-oon mo"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "sa akon sulud"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:12.105467525Z",
+  "model": "glm-5.3"
+}

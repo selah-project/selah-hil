@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 1:15",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ginkuha ko ⟨את⟩ ang mga ulo sang inyo mga tribo, mga tawo nga maalam kag kilala, kag ginhimo ko ⟨את⟩ sila nga mga ulo sa ibabaw ninyo — mga pangulo sang isa ka libo kag mga pangulo sang isa ka gatos kag mga pangulo sang lima ka pulo kag mga pangulo sang napulo, kag mga opisyal para sa inyo mga tribo.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "kag ginkuha ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga ulo sang inyo mga tribo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ang mga ulo"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "sang inyo mga tribo"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "nga maalam"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "kag kilala"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "kag ginhimo ko"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mga ulo"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "nga mga ulo"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sa ibabaw ninyo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mga pangulo sang"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "isa ka libo"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "kag mga pangulo sang"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "isa ka gatos"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "kag mga pangulo sang"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima ka pulo"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "kag mga pangulo sang"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "kag mga opisyal"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "para sa inyo mga tribo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:18:33.331710718Z",
+  "model": "glm-5.3"
+}

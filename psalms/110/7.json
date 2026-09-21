@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 110,
+  "translation": "Sa sapa sa dalan magainom siya; bangod sini, itimaw niya ang iya ulo.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "Sa sapa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "magainom siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "bangod"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sini"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "itimaw"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:55.596398550Z",
+  "model": "glm-5.3"
+}

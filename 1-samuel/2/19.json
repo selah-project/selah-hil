@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 2:19",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag ang iya iloy naghimo sang gagmay nga bado sa iya, kag gindala niya ini sa iya sa mga tuig kada tuig, sang mag-angat siya kag ⟨את⟩ ang iya bana sa paghalad sang ⟨את⟩ halad sang tuig.",
+  "tokens": [
+    {
+      "surface": "ומעיל",
+      "gloss": "kag bado"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "gagmay"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "naghimo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "iya iloy"
+    },
+    {
+      "surface": "והעלתה",
+      "gloss": "kag gindala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "sa mga tuig"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "kada tuig"
+    },
+    {
+      "surface": "בעלותה",
+      "gloss": "sang mag-angat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya bana"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "iya bana"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "sa paghalad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halad sang tuig"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "halad"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "sang tuig"
+    }
+  ],
+  "timestamp": "2026-09-21T22:27:13.028293224Z",
+  "model": "glm-5.3"
+}

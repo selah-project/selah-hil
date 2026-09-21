@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 95,
+  "translation": "Sang inyo mga amay nagsulay sa akon, ginsulayan nila gid ako, bisan nakita nila ⟨ang⟩ akon buhat.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sang"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "nagsulay sa akon"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "inyo mga amay"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "ginsulayan nila gid ako"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nakita nila"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "akon buhat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:25.029009868Z",
+  "model": "glm-5.3"
+}

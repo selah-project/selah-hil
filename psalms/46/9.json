@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 46,
+  "translation": "Magkari kamo, tan-awa ninyo ang mga binuhat ni Yahweh, nga nagbutang ⟨sang⟩ mga kaguba sa duta.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "magkari kamo"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "tan-awa ninyo"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "mga binuhat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nagbutang"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mga kaguba"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:48.483346590Z",
+  "model": "glm-5.3"
+}

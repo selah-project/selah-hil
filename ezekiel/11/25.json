@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag naghambal ako sa ⟨ang⟩ pagkabihag ⟨את⟩ ang tanan nga mga pulong ni Yahweh nga iya ginpakita sa akon.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "Kag naghambal ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "⟨ang⟩ pagkabihag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nga mga pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "iya ginpakita sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T19:42:51.525265364Z",
+  "model": "glm-5.3"
+}

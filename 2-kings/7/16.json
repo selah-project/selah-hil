@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag nagwa ang banwa kag ginpanubra ⟨את⟩ ang kampo sang Aram, kag nangyari: isa ka seah sang harina sa isa ka shekel, kag duha ka seah sang dawa sa isa ka shekel, suno sa ginhambal ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "kag nagwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang banwa"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "kag ginpanubra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kampo sang Aram"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ang kampo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "sang Aram"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag nangyari"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "isa ka seah"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "sang harina"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "sa isa ka shekel"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "kag duha ka seah"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "sang dawa"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "sa isa ka shekel"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "suno sa ginhambal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T18:43:17.905428418Z",
+  "model": "glm-5.3"
+}

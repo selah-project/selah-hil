@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 50,
+  "translation": "Indi ako magakuha sang baka sa imo balay, kag sang mga kanding nga lalaki sa imo mga kural.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "magakuha ako"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "sa imo balay"
+    },
+    {
+      "surface": "פר",
+      "gloss": "baka"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "sa imo mga kural"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "mga kanding nga lalaki"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:45.073969751Z",
+  "model": "glm-5.3"
+}

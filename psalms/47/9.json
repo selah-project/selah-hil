@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 47,
+  "translation": "Naghari ang Elohim sa ibabaw sang mga pungsod, naglingkod ang Elohim sa balaan nga lingkoranan nga iya.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "Naghari"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga pungsod"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "naglingkod"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "lingkoranan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "balaan nga … iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:26.538192031Z",
+  "model": "glm-5.3"
+}

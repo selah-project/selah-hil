@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag gintukod niya ⟨את⟩ ang Tadmor sa kamingawan, kag ⟨את⟩ tanan nga mga ciudad sang mga tinig-aman nga iya gintukod sa Hamat.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "kag gintukod niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Tadmor"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "ang Tadmor"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga mga ciudad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "nga mga ciudad"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "sang mga tinig-aman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "iya gintukod"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "sa Hamat"
+    }
+  ],
+  "timestamp": "2026-09-21T22:03:43.373916559Z",
+  "model": "glm-5.3"
+}

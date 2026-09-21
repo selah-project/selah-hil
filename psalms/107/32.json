@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 107,
+  "translation": "Kag ila nga siya ipadunggahan sa katipunan sang banwa, kag sa lingkoranan sang mga magulangan ila siya pagdayawon.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "Kag ila nga siya ipadunggahan"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "sa katipunan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sang banwa"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "kag sa lingkoranan"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "sang mga magulangan"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "ila siya pagdayawon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:23.450543982Z",
+  "model": "glm-5.3"
+}

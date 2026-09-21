@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "pangulo sang Kenaz, pangulo sang Teman, pangulo sang Mivtsar.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "pangulo"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Kenaz"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "pangulo"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Teman"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "pangulo"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "Mivtsar"
+    }
+  ],
+  "timestamp": "2026-09-21T16:10:32.368604906Z",
+  "model": "glm-5.3"
+}

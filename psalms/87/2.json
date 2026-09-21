@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 87,
+  "translation": "Ginahigugma ni Yahweh ang mga ganghaan sang Tsiyon labaw sa tanan nga mga puluy-an ni Yaakov.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ginahigugma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "ang mga ganghaan"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "labaw sa tanan"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "mga puluy-an"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:07.499011528Z",
+  "model": "glm-5.3"
+}

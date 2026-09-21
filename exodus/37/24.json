@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Sang isa ka kikar nga bolawan nga malinis ginhimo niya ⟨את⟩ ini kag ⟨את⟩ tanan nga iya mga kagamitan.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "Sang isa ka kikar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "nga bolawan"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nga malinis"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo niya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ini (ang menorah)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga iya mga kagamitan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "nga iya mga kagamitan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:38:39.650190913Z",
+  "model": "glm-5.3"
+}

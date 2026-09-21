@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Kag nagsiling si Shekhem kay Hamor nga iya amay, nga nagasiling: Kuhaa para sa akon ⟨את⟩ ining dalaga subong asawa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nagsiling"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "si Shekhem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nga iya amay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Kuhaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para sa akon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ining dalaga"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "dalaga"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ining"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "subong asawa"
+    }
+  ],
+  "timestamp": "2026-09-21T16:11:38.091832430Z",
+  "model": "glm-5.3"
+}

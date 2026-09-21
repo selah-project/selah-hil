@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 103,
+  "translation": "Indi suno sa aton mga sala iya ginhimo sa aton, kag indi suno sa aton mga kalaut iya ginbalus sa aton.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "suno sa aton mga sala"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa aton"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "suno sa aton mga kalaut"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "ginbalus"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sa aton"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:54.894871454Z",
+  "model": "glm-5.3"
+}

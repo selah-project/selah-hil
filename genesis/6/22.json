@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag ginhimo ni Noach sang tanan nga ginsugo ni Elohim ⟨את⟩ ⟨sa iya⟩; nga amo sina ginhimo niya.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kag ginhimo"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ni Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨sa iya⟩",
+      "marks": "si Noach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nga amo sina"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    }
+  ],
+  "timestamp": "2026-09-21T15:56:36.558134331Z",
+  "model": "glm-5.3"
+}

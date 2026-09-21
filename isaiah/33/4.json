@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 33:4",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Kag ang inyo sinamad gintipon, tipon nga pareho sang alibangbang; pareho sa paglumpat sang mga balang, ang tawo nagadalagan ⟨sa iya⟩.",
+  "tokens": [
+    {
+      "surface": "ואסף",
+      "gloss": "kag gintipon"
+    },
+    {
+      "surface": "שללכם",
+      "gloss": "ang inyo sinamad"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "tipon"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "sang alibangbang"
+    },
+    {
+      "surface": "כמשק",
+      "gloss": "pareho sa paglumpat"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "sang mga balang"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "nagadalagan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T22:31:59.682422252Z",
+  "model": "glm-5.3"
+}

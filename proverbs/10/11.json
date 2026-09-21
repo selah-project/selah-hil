@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 10:11",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Ang baba sang matarong amo ang tubod sang kabuhi, kag ang baba sang mga maladwat magatabon sang kapintas.",
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "tubod"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sang kabuhi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ang baba"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sang matarong"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "kag ang baba"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sang mga maladwat"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "magatabon"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "sang kapintas"
+    }
+  ],
+  "timestamp": "2026-09-21T20:57:33.007629741Z",
+  "model": "glm-5.3"
+}

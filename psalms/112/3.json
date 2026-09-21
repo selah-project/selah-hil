@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 112,
+  "translation": "Kayamanan kag kadungganan yara sa iya balay; kag ang iya pagkamatarong nagatindog ⟨hasta⟩ sa dayon.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Kayamanan"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "kag kadungganan"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "sa iya balay"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "kag ang iya pagkamatarong"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "nagatindog"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "sa dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:49.342324552Z",
+  "model": "glm-5.3"
+}

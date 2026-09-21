@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 22:16",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Ano ang imo diri, kag sin-o ang imo diri, kay nangotad ka diri sang lubnganan? Nangotad sa kataasan sang iya lubnganan, nag-ukit sa bato sang Mishkan para sa iya.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ano"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ang imo"
+    },
+    {
+      "surface": "פה",
+      "gloss": "diri"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "kag sin-o"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ang imo"
+    },
+    {
+      "surface": "פה",
+      "gloss": "diri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חצבת",
+      "gloss": "nangotad ka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "imo"
+    },
+    {
+      "surface": "פה",
+      "gloss": "diri"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "lubnganan"
+    },
+    {
+      "surface": "חצבי",
+      "gloss": "Nangotad"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "sa kataasan"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "iya lubnganan"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "nag-ukit"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "sa bato"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T22:30:43.061953494Z",
+  "model": "glm-5.3"
+}

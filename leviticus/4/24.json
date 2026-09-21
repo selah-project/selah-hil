@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag itungtong niya ang iya kamot sa ulo sang kanding kag patyon niya ⟨את⟩ ini sa duog diin ginpapatay ang ⟨את⟩ halad nga sinunog sa atubang ni Yahweh; halad sang sala ini.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "kag itungtong niya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang iya kamot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "sang kanding"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "kag patyon niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ini",
+      "marks": "ang kanding"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sa duog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ginpapatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halad nga sinunog"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "halad nga sinunog"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "halad sang sala"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-21T16:43:06.366291851Z",
+  "model": "glm-5.3"
+}

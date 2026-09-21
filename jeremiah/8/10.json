@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 8:10",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Tungod sina igahatag ko ⟨את⟩ ang mga asawa nila sa mga iban, kag ang mga uma nila sa mga magapanubli; kay gikan sa gamay tubtob sa dako, tanan sila nagapangita sang inyo nga kuarta, gikan sa manalagna tubtob sa pari, tanan sila nagabuhat sing bakak.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "tungod sina"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "igahatag ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga asawa nila"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "mga asawa nila"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "sa mga iban"
+    },
+    {
+      "surface": "שדותיהם",
+      "gloss": "mga uma nila"
+    },
+    {
+      "surface": "ליורשים",
+      "gloss": "sa mga magapanubli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "gikan sa gamay"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "sa dako"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tanan sila"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "nagapangita sang inyo nga kuarta"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "sang inyo nga kuarta"
+    },
+    {
+      "surface": "מנביא",
+      "gloss": "gikan sa manalagna"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "sa pari"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tanan sila"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nagabuhat"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sing bakak"
+    }
+  ],
+  "timestamp": "2026-09-21T19:18:42.625665730Z",
+  "model": "glm-5.3"
+}

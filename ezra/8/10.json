@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 8:10",
+  "book": "ezra",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag sang mga anak ni Shelomit: ang anak ni Yosifyah, kag upod niya ang isa ka gatos kag anom ka pulo ka mga lalaki.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "kag sang mga anak"
+    },
+    {
+      "surface": "שלומית",
+      "gloss": "ni Shelomit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ang anak"
+    },
+    {
+      "surface": "יוספיה",
+      "gloss": "ni Yosifyah"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "kag upod niya"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ang isa ka gatos"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "kag anom ka pulo"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "ka mga lalaki"
+    }
+  ],
+  "timestamp": "2026-09-21T21:41:58.451614227Z",
+  "model": "glm-5.3"
+}

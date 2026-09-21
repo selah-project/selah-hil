@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag nahitabo, sang nangin tigulang na si Shemuel, ginpabutang niya ⟨את⟩ ang iya mga anak nga mga manughukom para sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sang"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "nangin tigulang na"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shemuel"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ginpabutang niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ang iya mga anak"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "nga mga manughukom"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "para sa Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T17:59:02.440182204Z",
+  "model": "glm-5.3"
+}

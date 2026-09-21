@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag nagpadala sang mga mensahero kay Ahab nga hari sang Yisrael pakadto sa siyudad.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Kag nagpadala"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "mga mensahero"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "pakadto sa siyudad"
+    }
+  ],
+  "timestamp": "2026-09-21T18:37:20.935048235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Dayahan si Yahweh, kay nadunggan niya ang tingog sang akon mga pangadyeon.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Dayahan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nadunggan"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "akon mga pangadyeon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:08.358822945Z",
+  "model": "glm-5.3"
+}

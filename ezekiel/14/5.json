@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "agod madakop ang ⟨את⟩ balay sang Yisrael sa ila kaugalingon nga kasingkasing, nga nagbulag sila tanan sa akon pinaagi sa ila mga dios-dios.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "agod"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "madakop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balay sang Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "sa ila kasingkasing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "nagbulag sila"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "pinaagi sa ila mga dios-dios"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tanan sila"
+    }
+  ],
+  "timestamp": "2026-09-21T19:47:09.153603064Z",
+  "model": "glm-5.3"
+}

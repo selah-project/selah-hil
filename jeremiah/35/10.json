@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 35:10",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "kag nagpuyo kami sa mga tolda, kag nagpatalinghug kami kag ginhimo namon ang tanan nga ginmanduan sa amon ni Yonadav, amay namon.",
+  "tokens": [
+    {
+      "surface": "ונשב",
+      "gloss": "kag nagpuyo kami"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "sa mga tolda"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "kag nagpatalinghug kami"
+    },
+    {
+      "surface": "ונעש",
+      "gloss": "kag ginhimo namon"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צונו",
+      "gloss": "ginmanduan sa amon"
+    },
+    {
+      "surface": "יונדב",
+      "gloss": "ni Yonadav"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "amay namon"
+    }
+  ],
+  "timestamp": "2026-09-21T19:29:50.245231769Z",
+  "model": "glm-5.3"
+}

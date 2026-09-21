@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 50:8",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 50,
+  "translation": "Malapit ang nagapangatarong sa akon; sin-o ang magabalhas kang ⟨את⟩ ako? Magatindog kita duha; sin-o ang kaaway sang akon kasohanan? Paduol siya sa akon.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "malapit"
+    },
+    {
+      "surface": "מצדיקי",
+      "gloss": "ang nagapangatarong sa akon"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ang magabalhas"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "kang ⟨את⟩ ako",
+      "marks": "ako"
+    },
+    {
+      "surface": "נעמדה",
+      "gloss": "magatindog"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "kita duha"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ang kaaway"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "sang akon kasohanan"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "paduol siya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T19:10:45.806699924Z",
+  "model": "glm-5.3"
+}

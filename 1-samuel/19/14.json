@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag ginpadian ni Shaul sang mga mensahero sa kuhaon ⟨את⟩ si David, kag nagsiling siya: Masakit siya.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kag ginpadian"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "sang mga mensahero"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "sa kuhaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "masakit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-09-21T18:06:02.068894253Z",
+  "model": "glm-5.3"
+}

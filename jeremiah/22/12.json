@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kay sa duog diin nila siya ginbiya nga bihag, dido siya magakapatay, kag ⟨את⟩ ang duta ini indi na niya makita pa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sa duog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "ginbiya nila nga bihag"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "si Shallum"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dido"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "siya magakapatay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi na"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "niya makita"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    }
+  ],
+  "timestamp": "2026-09-21T19:24:28.521679965Z",
+  "model": "glm-5.3"
+}

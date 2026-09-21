@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 69,
+  "translation": "Ang mga nagaestar sa ganghaan nagahambal parte sa akon, kag ako amo ang kanta sang mga mainum sang makahalungkog nga ilimnon.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "nagahambal"
+    },
+    {
+      "surface": "בי",
+      "gloss": "parte sa akon"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ang mga nagaestar"
+    },
+    {
+      "surface": "שער",
+      "gloss": "sa ganghaan"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "kag mga kanta"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "sang mga mainum"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "sang makahalungkog nga ilimnon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:20.344112368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 26:1",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Kag ⟨ang⟩ Mishkan himoon mo sang napulo ka kurtina sang binutil nga lino, kag azul, kag purpura, kag duha ka beses nga tinina nga bughaw-pula nga ulod — mga kerub, obra sang mahilig nga nagabuburda, himoon mo ⟨sila⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ang Mishkan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "himoon mo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "ka kurtina"
+    },
+    {
+      "surface": "שש",
+      "gloss": "binutil nga lino"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "binutil"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "kag azul"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "kag purpura"
+    },
+    {
+      "surface": "ותלעת",
+      "gloss": "kag ulod nga"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tinina"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "mga kerub"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "obra"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "sang mahilig nga nagabuburda"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "himoon mo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila (ang mga kurtina)"
+    }
+  ],
+  "timestamp": "2026-09-21T22:19:16.126007105Z",
+  "model": "glm-5.3"
+}

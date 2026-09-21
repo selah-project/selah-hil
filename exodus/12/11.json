@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag amo sini ang pagkaon ninyo ⟨אתו⟩ sini: ang inyo mga hawak higot sang pano, ang inyo mga sapin sa inyo mga tiil, kag ang inyo tungkod sa inyo kamot; kag kaonon ninyo ⟨אתו⟩ sini sa hinanali — Pesach ini sang Yahweh.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "kag amo sini"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ang pagkaon ninyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sini (ang karon)"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "ang inyo mga hawak"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "higot sang pano"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "ang inyo mga sapin"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "sa inyo mga tiil"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "kag ang inyo tungkod"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "sa inyo kamot"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "kag kaonon ninyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sini (ang karon)"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "sa hinanali"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sang Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:24:52.127933062Z",
+  "model": "glm-5.3"
+}

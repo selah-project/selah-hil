@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 69,
+  "translation": "Luwasi ako, O Elohim, kay nagsulod ang mga tubig tubang sa akon kalag.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Luwasi ako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nagsulod"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ang mga tubig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubang sa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "akon kalag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:45.811211984Z",
+  "model": "glm-5.3"
+}

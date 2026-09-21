@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kag ang iya piligesh, ang iya ngalan Reumah, gatawo man siya ⟨את⟩ kang Tevakh kag ⟨את⟩ kang Gakham kag ⟨את⟩ kang Takhash kag ⟨את⟩ kang Maakhah.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "kag ang iya piligesh"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ang iya ngalan"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Reumah"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "gatawo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Tevakh"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Tevakh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "kang Gakham"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gakham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "kang Takhash"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Takhash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "kang Maakhah"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakhah"
+    }
+  ],
+  "timestamp": "2026-09-21T22:16:55.799047222Z",
+  "model": "glm-5.3"
+}

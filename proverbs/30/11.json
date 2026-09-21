@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "May ⟨dun⟩ ka henerasyon nga nagasumpa sang iya amay, kag ⟨את⟩ sang iya iloy indi niya pagpanalanginan.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "henerasyon"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iya amay"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "nagasumpa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang iya iloy"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "iya iloy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "pagpanalanginan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:04:10.364748676Z",
+  "model": "glm-5.3"
+}

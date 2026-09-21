@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "kag ⟨את⟩ iya mga timailhan kag ⟨את⟩ iya mga binuhat nga ginhimo niya sa tunga sang Mitsrayim, kay Paro nga hari sang Mitsrayim kag sa tanan nga iya duta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga timailhan"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "iya mga timailhan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga binuhat"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "iya mga binuhat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo niya"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kay Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nga hari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "kag sa tanan"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "nga iya duta"
+    }
+  ],
+  "timestamp": "2026-09-21T17:22:40.940341055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kay hangtod sa dayon indi magakalimtan ang kabos; ang paglaum sang mga mapaubsanon indi magakadula sa dayon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "hangtod sa dayon"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "magakalimtan"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ang kabos"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "ang paglaum"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "sang mga mapaubsanon"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "magakadula"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "sa dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:50.359051265Z",
+  "model": "glm-5.3"
+}

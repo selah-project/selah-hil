@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nagsiling ako sa inyo: indi kamo pagkabalaka kag indi kamo pagkahadlok sa ila.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "kamo pagkabalaka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "kamo pagkahadlok"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T17:17:43.983912553Z",
+  "model": "glm-5.3"
+}

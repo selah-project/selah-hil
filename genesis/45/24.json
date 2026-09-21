@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 45,
+  "translation": "Ginpahanaw niya ⟨את⟩ iya mga utod kag naglakat sila; kag nagsiling siya sa ila: indi kamo mag-akig sa dalanon.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ginpahanaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya mga utod"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iya mga utod"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "kag naglakat sila"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "kamo mag-akig"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalanon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:16:50.336958052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Ang pagpangandoy sang tapulo magapamatay sa iya, kay ang iya mga kamot nagliso na sa paghimo.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "pagpangandoy"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "tapulo"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "magapamatay sa iya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "nagliso na"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "iya mga kamot"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa paghimo"
+    }
+  ],
+  "timestamp": "2026-09-21T21:01:16.275961241Z",
+  "model": "glm-5.3"
+}

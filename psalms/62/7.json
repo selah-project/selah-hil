@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 62,
+  "translation": "Bug-os lamang siya ang akon bato kag ang akon kaluwasan, ang akon hataas nga kagaangan; indi ako matumba.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Bug-os lamang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ang akon bato"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "kag ang akon kaluwasan"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ang akon hataas nga kagaangan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ako matumba"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:06.576663319Z",
+  "model": "glm-5.3"
+}

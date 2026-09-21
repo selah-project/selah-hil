@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag kay Channah nagahatod siya sang isa ka bahin nga apayim ⟨doble⟩, kay ⟨את⟩ si Channah iya palangga, kag si Yahweh nagsira sang iya matris.",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "kay Channah"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "nagahatod"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "sang bahin"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "isa"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "apayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Channah"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Channah"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "palangga"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "kag si Yahweh"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "nagsira"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "iya matris"
+    }
+  ],
+  "timestamp": "2026-09-21T17:57:38.956302791Z",
+  "model": "glm-5.3"
+}

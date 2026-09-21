@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag nagbutang si Yahweh sang takdang tion, nga nagsiling: Magaabot ang pag-aga, himoon ni Yahweh ang hambal nga ini sa duta.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Kag nagbutang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang takdang tion"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagsiling"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "Magaabot ang pag-aga"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "himon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang hambal"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    }
+  ],
+  "timestamp": "2026-09-21T16:23:43.261119459Z",
+  "model": "glm-5.3"
+}

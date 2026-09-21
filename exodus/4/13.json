@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag nagsiling siya: Gatolo ko, Adonay, ipadala na ⟨nga⟩ sa kamot sang imo ipadala.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag nagsiling siya"
+    },
+    {
+      "surface": "בי",
+      "gloss": "gatolo ko"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ipadala"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "imo ipadala"
+    }
+  ],
+  "timestamp": "2026-09-21T16:21:33.548385581Z",
+  "model": "glm-5.3"
+}

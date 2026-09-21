@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kay ⟨ang⟩ Elohim magadala ⟨את⟩ sang tanan nga binuhat sa hukman, upod ang tanan nga tago, kon maayo ukon kon malaín.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang tanan nga binuhat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "nga binuhat"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "magadala"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sa hukman"
+    },
+    {
+      "surface": "על",
+      "gloss": "upod \/ parte sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "nga tago"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ukon kon"
+    },
+    {
+      "surface": "רע",
+      "gloss": "malaín"
+    }
+  ],
+  "timestamp": "2026-09-21T21:28:03.844075135Z",
+  "model": "glm-5.3"
+}

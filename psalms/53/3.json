@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 53,
+  "translation": "Naglingkod sa dungawan si Elohim gikan sa mga langit sa ibabaw sang mga anak sang tawo, aron makita kon may ara nga may sabat, nga nagapangita ⟨את⟩ sang Elohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "gikan sa mga langit"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "naglingkod sa dungawan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "aron makita"
+    },
+    {
+      "surface": "היש",
+      "gloss": "kon may ara"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "nga may sabat"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "nga nagapangita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:38.554778962Z",
+  "model": "glm-5.3"
+}

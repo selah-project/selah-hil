@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Ini amo ang libro sang kaliwatan ni Adam; sa adlaw nga gintuga ni Elohim si Adam, sa kaanggid sang Elohim gintuga niya ⟨את⟩ iya.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "libro"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "kaliwatan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "gintuga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "si Adam"
+    },
+    {
+      "surface": "בדמות",
+      "gloss": "sa kaanggid"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gintuga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iya (si Adam)"
+    }
+  ],
+  "timestamp": "2026-09-21T15:56:07.502424166Z",
+  "model": "glm-5.3"
+}

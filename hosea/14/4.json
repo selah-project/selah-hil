@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 14:4",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Ang Ashur indi magaluwas sa amon, sa kabayo indi kami magasakay, kag indi na kami magahambal: 'Mga Elohim kami sang amon mga kamot,' kay sa imo makakapangita sing kaluoy ang ilo.",
+  "tokens": [
+    {
+      "surface": "אשור",
+      "gloss": "ang Ashur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יושיענו",
+      "gloss": "magaluwas sa amon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "kabayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "נרכב",
+      "gloss": "magasakay kami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "magahambal kami"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Mga Elohim kami"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "sang amon"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "mga kamot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "makakapangita sing kaluoy"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ang ilo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:06:41.037474218Z",
+  "model": "glm-5.3"
+}

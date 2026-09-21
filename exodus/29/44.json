@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kag pagapakabalaanon ko ⟨את⟩ ang Kaban sang Katigymon kag ⟨את⟩ ang halaran; kag ⟨את⟩ si Aharon kag ⟨את⟩ iya mga anak pagapakabalaanon ko sa pag-alagad nga pari sa akon.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "kag pagapakabalaanon ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Kaban sang Katigymon"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ang Kaban"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang Katigymon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang halaran"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ang halaran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iya mga anak"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "pagapakabalaanon ko"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "sa pag-alagad nga pari"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:34:26.263879069Z",
+  "model": "glm-5.3"
+}

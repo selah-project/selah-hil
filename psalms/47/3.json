@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 47,
+  "translation": "Kay si Yahweh, ang Elyon, makahahadlok ⟨nga⟩ hari — isa ka dunggan nga hari sa ibabaw sang tanan nga duta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ang Elyon"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "makahahadlok"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dunggan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nga duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:30.190659989Z",
+  "model": "glm-5.3"
+}

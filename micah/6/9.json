@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 6:9",
+  "book": "micah",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Ang tingog ni Yahweh magatawag sa siyudad, kag katuohan ⟨nga⟩ kaalam magatahod sa imo ngalan — dumangog kamo sa sungkod, kag sin-o ang nagtakda sini.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "sa siyudad"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "magatawag"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "kag katuohan"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "magatahod"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imo ngalan"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dumangog kamo"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "sungkod"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "kag sin-o"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "nagtakda sini"
+    }
+  ],
+  "timestamp": "2026-09-21T20:14:19.061068455Z",
+  "model": "glm-5.3"
+}

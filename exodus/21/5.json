@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag kon magginala maghambal ang ulipon, 'Ginhigugma ko ⟨את⟩ ang akon agalon, ⟨את⟩ ang akon asawa kag ⟨את⟩ ang akon mga anak; indi ako magaguwa nga gawasnon'",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kag kon"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "maghambal"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "magginala"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "ang ulipon"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ginhigugma ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon agalon"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ang akon agalon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon asawa"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "ang akon asawa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang akon mga anak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang akon mga anak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ako magaguwa"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "nga gawasnon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:30:47.518789756Z",
+  "model": "glm-5.3"
+}

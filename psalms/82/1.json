@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 82,
+  "translation": "Psalmo ni Asaf. Si Elohim nagatindog sa katipunan sang El; sa tunga sang mga elohim nagahukom Siya.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalmo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ni Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Si Elohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "nagatindog"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "sa katipunan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sang El"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang mga elohim"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "nagahukom"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:38.523271334Z",
+  "model": "glm-5.3"
+}

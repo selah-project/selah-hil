@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Sa tuig sang pag-abot ni Tartan sa Ashdod, sang pagpadala ⟨אתו⟩ ni Sargon nga hari sang Ashur sa iya, kag nag-away siya sa Ashdod kag ginkuha niya ini:",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Sa tuig sang"
+    },
+    {
+      "surface": "בא",
+      "gloss": "pag-abot"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "ni Tartan"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "sa Ashdod"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "sang pagpadala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ni Sargon"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "ni Sargon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sang Ashur"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "kag nag-away"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "sa Ashdod"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "kag ginkuha niya ini"
+    }
+  ],
+  "timestamp": "2026-09-21T18:58:45.607047552Z",
+  "model": "glm-5.3"
+}

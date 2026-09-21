@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Ginbutang mo sa akon atubangan ang lamesa, atubang sang akon mga kaaway; ginpahamot mo sang lana ang akon ulo; ang akon kopa ⟨amo⟩ mapunos.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "ginbutang mo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa akon atubangan"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "ang lamesa"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "atubang"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "sang akon mga kaaway"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "ginpahamot mo"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "sang lana"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ang akon ulo"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "ang akon kopa"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "mapunos"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:20.401632339Z",
+  "model": "glm-5.3"
+}

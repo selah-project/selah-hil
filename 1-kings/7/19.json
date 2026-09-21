@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 7:19",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag ang mga korona nga ara sa ulo sang mga haligi, sa ululan, ⟨mga⟩ buhat sang liryo, upat ka siko.",
+  "tokens": [
+    {
+      "surface": "וכתרת",
+      "gloss": "kag ang mga korona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ulo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "sang mga haligi"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buhat"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "liryo"
+    },
+    {
+      "surface": "באולם",
+      "gloss": "sa ululan"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "upat"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ka siko"
+    }
+  ],
+  "timestamp": "2026-09-21T18:28:55.433253177Z",
+  "model": "glm-5.3"
+}

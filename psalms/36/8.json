@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Gidamo nga mahal ang imo hesed, Elohim; gani ang mga anak sang tawo nagapangabod sa ilalum sang anino sang imo mga pako.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "gidamo"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "nga mahal"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ang imo hesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "gani ang mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "sa ilalum sang anino"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "sang imo mga pako"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "nagapangabod"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:39.427804483Z",
+  "model": "glm-5.3"
+}

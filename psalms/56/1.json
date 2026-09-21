@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 56,
+  "translation": "Sa manugdumala — sa Yonat-elem-rechokim — ni David, isa ka Mikhtam, sang gidakop sang mga Pelishteo ⟨את⟩ sa iya sa Gat.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa manugdumala"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "Yonat"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "elem"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "rechokim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Mikhtam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "sang gidakop"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sa iya (si David)"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Pelishteo"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "sa Gat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:58.835808354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Indi paghuluyaon ⟨את⟩ ang imo anak nga babae sa pagpahalon sa iya, kag indi magpakababae ang duta, kag mapunu sang kahalay-halay ang duta.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "paghuluyaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imo anak nga babae"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "ang imo anak nga babae"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "sa pagpahalon sa iya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "magpakababae"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "kag mapunu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "sang kahalay-halay"
+    }
+  ],
+  "timestamp": "2026-09-21T16:52:14.469719190Z",
+  "model": "glm-5.3"
+}

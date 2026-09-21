@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 8:5",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ako, kag tanan nga katawhan nga ⟨את⟩ kaakko, magapalapit sa dakbanwa; kag matabo nga kon maggwa sila sa pagtapak sa aton, subong sang nahauna, magapalagiw kami sa ila atubanga.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kag ako"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag tanan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kaakko",
+      "marks": "ako"
+    },
+    {
+      "surface": "נקרב",
+      "gloss": "magapalapit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dakbanwa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kag matabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga kon"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "maggwa sila"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "sa pagtapak sa aton"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "nahauna"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "magapalagiw kami"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "sa ila atubanga"
+    }
+  ],
+  "timestamp": "2026-09-21T17:37:51.819773526Z",
+  "model": "glm-5.3"
+}

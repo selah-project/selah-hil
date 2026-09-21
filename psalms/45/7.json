@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 45,
+  "translation": "Ang imo trono, O Elohim, ⟨magauntat⟩ sa dayon kag sa wala sing katapusan; ang setro sang pagkamatarong amo ang setro sang imo ginharian.",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "ang imo trono"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag sa wala sing katapusan"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ang setro"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "sang pagkamatarong"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ang setro"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "sang imo ginharian"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:46.086646203Z",
+  "model": "glm-5.3"
+}

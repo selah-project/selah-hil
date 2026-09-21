@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Ang imo pagkamatarong ⟨⟨is⟩⟩ matarong sa dayon dayon, kag ang imo Torah ⟨⟨is⟩⟩ kamatuoran.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "ang imo pagkamatarong"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon dayon"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "kag ang imo Torah"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kamatuoran"
+    }
+  ],
+  "timestamp": "2026-09-21T22:40:41.543678974Z",
+  "model": "glm-5.3"
+}

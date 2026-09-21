@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Kag isulat mo sa mga bato ⟨את⟩ tanan nga mga pulong sang ini nga Torah, iga nga maayo.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "kag isulat mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga pulong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nga mga pulong"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "sang Torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "באר",
+      "gloss": "iga"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "nga maayo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:28:53.422443492Z",
+  "model": "glm-5.3"
+}

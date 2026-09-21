@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Kag gintama niya ang tanan nga panganay sa Mitsrayim, ang nahauna sang ila kusog sa mga tolda ni Kham.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "kag gintama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "panganay"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ang nahauna"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "sang ila kusog"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "sa mga tolda"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ni Kham"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:58.969517904Z",
+  "model": "glm-5.3"
+}

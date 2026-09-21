@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Korban sang mga nahauna nga bunga — idadala ninyo ⟨ang⟩ mga ini kay Yahweh, apang sa halaran indi sila magasaka nga ⟨maging⟩ baho nga matam-is.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "mga nahauna nga bunga"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "idadala ninyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga ini"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "apang sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "magasaka sila"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "nga baho"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "nga matam-is"
+    }
+  ],
+  "timestamp": "2026-09-21T16:41:38.271313967Z",
+  "model": "glm-5.3"
+}

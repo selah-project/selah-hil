@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Nagsiling siya sa iya kasing-kasing, \"Indi ako magakuyap; sa kaliwatan kag kaliwatan ⟨siya⟩ nga indi ⟨madto⟩ sa kalisod.\"",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "nagsiling"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "sa iya kasing-kasing"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "magakuyap"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "sa kaliwatan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kag kaliwatan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨siya⟩ nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "sa kalisod"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:13.116410148Z",
+  "model": "glm-5.3"
+}

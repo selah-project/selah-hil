@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag gintalina ⟨את⟩ sila ni Elohim, nga nagaingod: Magpuno kamo kag madamo kamo, kag pun-a ninyo ⟨את⟩ ang mga tubig sa mga dagat; kag ang mga sapat madamo sa duta.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "kag gintalina"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingod"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "magpuno kamo"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "kag madamo kamo"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "kag pun-a ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tubig sa mga dagat"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang mga tubig"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "sa mga dagat"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "kag ang mga sapat"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "madamo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    }
+  ],
+  "timestamp": "2026-09-21T15:54:35.125014757Z",
+  "model": "glm-5.3"
+}

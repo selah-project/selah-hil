@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Ang kabudlayan sang mga buang magapoyan sa ila, kay wala sila makahibalo sa paglakat pa-id sa duta ⟨nga lungsod⟩.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "ang kabudlayan"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "sang mga buang"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "magapoyan sa ila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sila makahibalo"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "sa paglakat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa-id"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "sa lungsod"
+    }
+  ],
+  "timestamp": "2026-09-21T21:26:34.067021382Z",
+  "model": "glm-5.3"
+}

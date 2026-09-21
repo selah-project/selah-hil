@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 34:11",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Pagkatapos nagbalik sila kag ginbalik nila ⟨את⟩ ang mga ulipon kag ⟨את⟩ ang mga ulipon nga babae nga ila ginpalagyo nga mga gawasnon, kag ginpailalom nila sila nga mga ulipon kag nga mga ulipon nga babae.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "nagbalik sila"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "Pagkatapos"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sini"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "kag ginbalik nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga ulipon"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "ang mga ulipon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga ulipon nga babae"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "ang mga ulipon nga babae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ila ginpalagyo"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "nga mga gawasnon"
+    },
+    {
+      "surface": "ויכבישום",
+      "gloss": "kag ginpailalom nila sila"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "nga mga ulipon"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "kag nga mga ulipon nga babae"
+    }
+  ],
+  "timestamp": "2026-09-21T19:31:05.934003539Z",
+  "model": "glm-5.3"
+}

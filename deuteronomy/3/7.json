@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Apang ang tanan sang mga sapat kag ang sinamsam sang mga dakbanwa, ginsamsam naton para sa aton.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "apang ang tanan"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "sang mga sapat"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "kag ang sinamsam"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "sang mga dakbanwa"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "ginsamsam naton"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "para sa aton"
+    }
+  ],
+  "timestamp": "2026-09-21T17:17:44.353738167Z",
+  "model": "glm-5.3"
+}

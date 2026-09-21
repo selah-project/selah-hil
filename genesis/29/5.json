@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kag naghambal siya sa ila, Nakahibalo kamo ⟨kay⟩ ⟨את⟩ Lavan, anak ni Nakhor? Kag nagsiling sila, Nakahibalo kami.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "naghambal"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Nakahibalo kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lavan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ni Nakhor"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nagsiling sila"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "Nakahibalo kami"
+    }
+  ],
+  "timestamp": "2026-09-21T16:06:51.045772298Z",
+  "model": "glm-5.3"
+}

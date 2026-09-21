@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 33:42",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Kag nagpanaw sila sa Tsalmonah, kag nagtundo sila sa Punon.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "nagpanaw sila"
+    },
+    {
+      "surface": "מצלמנה",
+      "gloss": "sa Tsalmonah"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "nagtundo sila"
+    },
+    {
+      "surface": "בפונן",
+      "gloss": "sa Punon"
+    }
+  ],
+  "timestamp": "2026-09-21T17:15:20.869790600Z",
+  "model": "glm-5.3"
+}

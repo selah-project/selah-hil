@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "nga nagasiling: Sa imo ihatag ko ⟨את⟩ ang duta sang Kenaan, ang pisi sang inyo manunun.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ihatag ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta sang Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "sang Kenaan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ang pisi"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "sang inyo manunun"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:05.791595204Z",
+  "model": "glm-5.3"
+}

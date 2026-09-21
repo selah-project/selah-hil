@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 120,
+  "translation": "Ako ⟨ang⟩ kappahublag; apang kon maghambal ako, sila ⟨gapanukad⟩ sa gera.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kappahublag"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "apang kon"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "maghambal ako"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sa gera"
+    }
+  ],
+  "timestamp": "2026-09-21T20:50:41.294987566Z",
+  "model": "glm-5.3"
+}

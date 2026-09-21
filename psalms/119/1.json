@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Malipayon gid ang mga tibook sa ila dalan, ang mga nagalakat sa Torah ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Malipayon gid"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "ang mga tibook"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sa ila dalan"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "ang mga nagalakat"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "sa Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:15.486257219Z",
+  "model": "glm-5.3"
+}

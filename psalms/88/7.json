@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 88,
+  "translation": "Ginbutang mo ako sa godlo sang mga pinakaubos, sa mga kadudulman, sa mga lawom.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "ginbutang mo ako"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "sa godlo"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "mga pinakaubos"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "sa mga kadudulman"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "sa mga lawom"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:53.405020359Z",
+  "model": "glm-5.3"
+}

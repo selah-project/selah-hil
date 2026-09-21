@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 68,
+  "translation": "Ulan sang mga kaloyan nga handog ang imo ginpapalnwang, O Elohim; ang imo mana, kag sang pagkapoy sini, ikaw ang nangin pamatuod sini.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "ulan"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "sang mga kaloyan nga handog"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "ginpapalnwang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "ang imo mana"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "kag sang pagkapoy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "ang nangin pamatuod sini"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:04.677284015Z",
+  "model": "glm-5.3"
+}

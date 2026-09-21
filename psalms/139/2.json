@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 139,
+  "translation": "Ikaw, nabatid Mo ang akon pagpungko kag ang akon pagtindog; gintig-an Mo ang akon hunahuna sa malayo.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nabatid Mo"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "ang akon pagpungko"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "kag ang akon pagtindog"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "gintig-an Mo"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "ang akon hunahuna"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "sa malayo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:37.719750739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Ngaa, Yahweh, ikaw nagatindog sa malayo, kag nagapaktagà ikaw sa mga tion sang kalisod?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ikaw nagatindog"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "sa malayo"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "nagapaktagà ikaw"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "sa mga tion"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "sang kalisod"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:02.956341388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "kag pagabatian mo gikan sa mga langit ⟨את⟩ ang ila pangamuyo kag ⟨את⟩ ang ila pagpangayo, kag himoun mo ang ila paghukum.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "kag pagabatian mo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ila pangamuyo"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ila pangamuyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang ila pagpangayo"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "ila pagpangayo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "kag himoun mo"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ang ila paghukum"
+    }
+  ],
+  "timestamp": "2026-09-21T22:01:51.706150458Z",
+  "model": "glm-5.3"
+}

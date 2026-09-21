@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kay akon mga sulugoon sila, nga akon ginpaguwa ⟨את⟩ sila sa duta sang Mitsrayim; indi sila pagabaligya sa pagbaligya sang isa ka sulugoon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "akon mga sulugoon"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "akon ginpaguwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "pagabaligya sila"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "sa pagbaligya"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sang isa ka sulugoon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:55:22.799317223Z",
+  "model": "glm-5.3"
+}

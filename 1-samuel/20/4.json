@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag nagsiling si Yehonatan kay David: Ano ang ginasiling sang imo kalag, kag himoon ko ⟨ini⟩ sa imo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "si Yehonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ang ginasiling"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "sang imo kalag"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "kag himoon ko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:07:13.895450856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 5:24",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag sang nakaabot siya sa Ophel, ginkuha niya ang mga butang sa ila mga kamot kag ginbutang niya sa balay, kag ginpapauli niya ⟨את⟩ ang mga tawo, kag naglakat sila.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "kag sang nakaabot siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "Ophel"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "kag ginkuha niya"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "sa ila mga kamot"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "kag ginbutang niya"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "kag ginpapauli niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tawo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "kag naglakat sila"
+    }
+  ],
+  "timestamp": "2026-09-21T18:40:15.589426287Z",
+  "model": "glm-5.3"
+}

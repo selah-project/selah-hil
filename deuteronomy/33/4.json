@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Isa ka Torah ang ginsugo ni Moshe ⟨sa aton⟩, isa ka mana sang katipunan ni Yaakov.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Isa ka Torah"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ang ginsugo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa aton"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "isa ka mana"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "sang katipunan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-21T17:33:18.472078165Z",
+  "model": "glm-5.3"
+}

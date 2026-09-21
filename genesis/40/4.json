@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag ginpabutyag sang mangod sang mga manog-ihaw si ⟨את⟩ Yosef nga kaupod nila, kag nag-alagad siya ⟨את⟩ sa ila; kag nagligad sila sang mga adlaw sa pagbantay.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Kag ginpabutyag"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sang mangod"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "mga manog-ihaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kaupod ⟨את⟩ nila"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "kag nag-alagad"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sa ila"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "kag nagligad"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga adlaw"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "sa pagbantay"
+    }
+  ],
+  "timestamp": "2026-09-21T16:14:31.769419304Z",
+  "model": "glm-5.3"
+}

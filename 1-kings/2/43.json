@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag ngaa indi gintipigan mo ⟨את⟩ ang panumpa sang Yahweh kag ⟨את⟩ ang sugo nga akon ginsogo sa imo?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "Kag ngaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "gintipigan mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang panumpa sang Yahweh"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ang panumpa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sang Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang sugo"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ang sugo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "akon ginsogo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:27:07.543584917Z",
+  "model": "glm-5.3"
+}

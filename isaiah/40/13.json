@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Sin-o ang nagsukod ⟨את⟩ sang espiritu ni Yahweh, kag sin-o nga tawo sang iya tambag ang nagpaathag sa iya?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "nagsukod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "espiritu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "espiritu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kag ⟨isa ka⟩ tawo"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "sang iya tambag"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "nagpaathag sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T19:06:04.584125316Z",
+  "model": "glm-5.3"
+}

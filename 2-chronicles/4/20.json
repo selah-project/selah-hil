@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "kag ⟨את⟩ ang mga kandelabro kag ang ila mga lamparan sa pagsindi sini suno sa kasugo-an sa atubangan sang Debir, bulawan nga pino.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga kandelabro"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "ang mga kandelabro"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "kag ang ila mga lamparan"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "sa pagsindi sini"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "suno sa kasugo-an"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "sang Debir"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "nga pino"
+    }
+  ],
+  "timestamp": "2026-09-21T22:01:11.929028980Z",
+  "model": "glm-5.3"
+}

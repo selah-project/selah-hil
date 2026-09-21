@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 50,
+  "translation": "Kag subong, indi kamo magkadula; akon kamo pagapakabuhi ⟨את⟩ kag ⟨את⟩ ang inyo mga gumaran. Kag ginalinakop niya sila ⟨את⟩ kag naghambal siya sa ila kasingkasing.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kag subong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kamo magkadula"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "akon"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "pagapakabuhi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang inyo mga gumaran"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "inyo mga gumaran"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "kag ginalinakop"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "kag naghambal"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ila kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-21T16:20:16.070382632Z",
+  "model": "glm-5.3"
+}

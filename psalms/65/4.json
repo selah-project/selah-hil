@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 65,
+  "translation": "Mga buhat sang kalaut nangin mangin gahom sa akon; ang aton mga paglapas — ikaw ang magatabon ⟨sang mga aria⟩.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "mga buhat"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "sang kalaut"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "nangin mangin gahom"
+    },
+    {
+      "surface": "מני",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "aton mga paglapas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "magatabon sang mga aria"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:10.146258147Z",
+  "model": "glm-5.3"
+}

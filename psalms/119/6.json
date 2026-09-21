@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Sa sini indi ako mahuya kon magtan-aw ako sa tanan nga imo mga kasogoan.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "sa sini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "mahuya ako"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "kon magtan-aw ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "imo mga kasogoan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:58.476231911Z",
+  "model": "glm-5.3"
+}

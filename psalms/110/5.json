@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 110,
+  "translation": "Si Adonay sa imo nga too, nagdasma sang mga hari sa adlaw sang iya kaakig.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Si Adonay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "imo nga too"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "nagdasma"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "sang iya kaakig"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mga hari"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:55.595987850Z",
+  "model": "glm-5.3"
+}

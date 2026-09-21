@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ginpahal-in ni Ehud ⟨את⟩ iya nga walang kamot, kag ginkuha niya ⟨את⟩ ang espada halin sa iya nga too nga hit, kag gintusok niya ini sa iya tiyan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ginpahal-in"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "si Ehud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya nga kamot"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamot"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ginkuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang espada"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "ang espada"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "halin sa"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "hit"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "too"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "gintusok niya ini"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "sa iya tiyan"
+    }
+  ],
+  "timestamp": "2026-09-21T17:46:55.689467062Z",
+  "model": "glm-5.3"
+}

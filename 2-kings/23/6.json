@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 23:6",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag ginpakwa niya ⟨את⟩ ang Ashera gikan sa balay ni Yahweh, sa guwa sang Yerushalayim, pakadto sa sapa sang Kidron, kag ginsunog niya ⟨את⟩ ini sa sapa sang Kidron, kag gindurog niya nga nagin yutang-namo, kag gintambog niya ⟨את⟩ ang iya yutang-namo sa ibabaw sang lubnganan sang mga anak sang mga tawo.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ginpakwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Ashera"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "ang Ashera"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "gikan sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "sa guwa"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "sang Yerushalayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pakadto sa"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "sang Kidron"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "kag ginsunog"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ini (ang Ashera)"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "sa sapa"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "sang Kidron"
+    },
+    {
+      "surface": "וידק",
+      "gloss": "kag gindurog"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "nga nagin yutang-namo"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "kag gintambog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya yutang-namo"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "ang iya yutang-namo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "sang lubnganan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sang mga anak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sang mga tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:50:51.876009205Z",
+  "model": "glm-5.3"
+}

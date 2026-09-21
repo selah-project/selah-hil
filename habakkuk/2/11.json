@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kay ang bato sa pader magasinggit, kag ang kaha nga kahoy sa balangay magasabat sa iya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ang bato"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "sa pader"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "magsinggit"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "kag ang kaha nga kahoy"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "sa balangay"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "magasabat sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:15:22.556288749Z",
+  "model": "glm-5.3"
+}

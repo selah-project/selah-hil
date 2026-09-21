@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 1:5",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Sa ano pa gid kamo ginapatuko? Magadugang kamo sing pagtalikod! Ang tagsa ka ulo may sakit, kag ang tagsa ka kasingkasing masakiton.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Sa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "kamo ginapatuko"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa gid"
+    },
+    {
+      "surface": "תוסיפו",
+      "gloss": "magadugang kamo"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "sing pagtalikod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tagsa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ka ulo"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "may sakit"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tagsa"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ka kasingkasing"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "masakiton"
+    }
+  ],
+  "timestamp": "2026-09-21T18:52:30.444671650Z",
+  "model": "glm-5.3"
+}

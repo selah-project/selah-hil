@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ⟨את⟩ sang ganghaan sang mga isda nagtukod ang mga anak sang Hasnea; sila ang nagbalangkas sini kag nagpatindog sang iya mga pultahan, sang iya mga kandado kag sang iya mga baras.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang ganghaan sang mga isda"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ganghaan"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "sang mga isda"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nagtukod"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "sang Hasnea"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "nagbalangkas sini"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "nagpatindog"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "sang iya mga pultahan"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "sang iya mga kandado"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "kag sang iya mga baras"
+    }
+  ],
+  "timestamp": "2026-09-21T21:45:12.807839976Z",
+  "model": "glm-5.3"
+}

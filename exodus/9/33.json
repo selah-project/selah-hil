@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 9:33",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag naggwa si Moshe sa kang Paro, gikan sa ⟨את⟩ siyudad, kag ginpatindog niya ang iya duha ka palad pakangadto kay Yahweh, kag naguntat ang mga dagundong kag ang batu-ulan, kag ang ulan wala na mag-agos padulong sa duta.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "kag naggwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "sa kang"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siyudad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "siyudad"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "kag ginpatindog niya palad"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "iya duha ka palad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pakangadto sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "kag naguntat"
+    },
+    {
+      "surface": "הקלות",
+      "gloss": "mga dagundong"
+    },
+    {
+      "surface": "והברד",
+      "gloss": "kag ang batu-ulan"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "kag ang ulan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala na"
+    },
+    {
+      "surface": "נתך",
+      "gloss": "mag-agos"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "padulong sa duta"
+    }
+  ],
+  "timestamp": "2026-09-21T16:22:43.349874178Z",
+  "model": "glm-5.3"
+}

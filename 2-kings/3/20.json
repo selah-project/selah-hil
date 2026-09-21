@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag natabo sang aga, sang pag-alsa sang halad sang aga, kag yari — nagakari ang tubig sa dalan sang Edom, kag napun-an sang duta ⟨את⟩ ang tubig.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kag natabo"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sang aga"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "sang pag-alsa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "sang halad"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kag yari —"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ang tubig"
+    },
+    {
+      "surface": "באים",
+      "gloss": "nagakari"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "sang Edom"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "kag napun-an"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tubig"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang tubig"
+    }
+  ],
+  "timestamp": "2026-09-21T18:40:12.352937338Z",
+  "model": "glm-5.3"
+}

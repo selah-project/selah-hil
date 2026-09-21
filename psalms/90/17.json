@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 90:17",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 90,
+  "translation": "Kag magaabot ang kaanyag ni Adonay Elohim namon sa ibabaw namon, kag ang buluhaton sang amon mga kamot ipatindog sa amon, kag ang buluhaton sang amon mga kamot ipatindog ⟨ini⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag magaabot"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "ang kaanyag"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "sang Adonay"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim namon"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sa ibabaw namon"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "kag ang buluhaton"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "sang amon mga kamot"
+    },
+    {
+      "surface": "כוננה",
+      "gloss": "ipatindog"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "kag ang buluhaton"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "sang amon mga kamot"
+    },
+    {
+      "surface": "כוננהו",
+      "gloss": "ipatindog ini"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:14.087566988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 11:1",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag nagsiling si Yahweh kay Moshe: Magadala pa ako sang isa ka hampak kay Paro kag kay Mitsrayim; pagkatapos sini pagpagulton niya ⟨את⟩ kamo gikan diri — kon pagpagulton na niya ⟨את⟩ kamo, paguahon gid niya ⟨את⟩ kamo gikan diri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag nagsiling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "hampak"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "magadala ako"
+    },
+    {
+      "surface": "על",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag kay"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pagkatapos"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sini"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "pagpagulton"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩kamo",
+      "marks": "kamo"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "gikan diri"
+    },
+    {
+      "surface": "כשלחו",
+      "gloss": "kon pagpagulton na niya"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "bug-os nga"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "paguahon"
+    },
+    {
+      "surface": "יגרש",
+      "gloss": "sa pagguha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩kamo",
+      "marks": "kamo"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "gikan diri"
+    }
+  ],
+  "timestamp": "2026-09-21T16:23:13.334891678Z",
+  "model": "glm-5.3"
+}

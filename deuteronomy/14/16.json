@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "⟨את⟩ ang kos, kag ⟨את⟩ ang yanshuf, kag ang tinshemet",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kos"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "ang kos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang yanshuf"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "ang yanshuf"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "kag ang tinshemet"
+    }
+  ],
+  "timestamp": "2026-09-21T17:23:18.408126827Z",
+  "model": "glm-5.3"
+}

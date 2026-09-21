@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 72,
+  "translation": "Magapanaw ⟨siya⟩ kag ulan sa ibabaw sang gin-ani nga dutanon, kag sing mga ambit nga nagabudbod sa duta.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "magapanaw"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "kag ulan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "גז",
+      "gloss": "gin-ani nga dutanon"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "kag sing mga ambit"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "nagabudbod"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:01.099371037Z",
+  "model": "glm-5.3"
+}

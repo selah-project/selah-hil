@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 115,
+  "translation": "Ngaa hambalon sang mga pungsod: Diin ⟨ba⟩ ang ila mga dios?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "hambalon"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "sang mga pungsod"
+    },
+    {
+      "surface": "איה",
+      "gloss": "diin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "palihog"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ang ila mga dios"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:19.469576295Z",
+  "model": "glm-5.3"
+}

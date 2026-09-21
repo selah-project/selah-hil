@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 103,
+  "translation": "⟨Siya⟩ nga nagapatawad sang tanan mo nga mga sala, nga nagapang-ayo sang tanan mo nga mga balatian.",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "nagapatawad"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "mo nga mga sala"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "nagapang-ayo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "mo nga mga balatian"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:25.472126336Z",
+  "model": "glm-5.3"
+}

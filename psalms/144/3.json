@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 144,
+  "translation": "Yahweh, ano ang tawo, nga imo sia ginkilala? Ukon anak sang tao, nga imo sia gin-isip?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "nga imo sia ginkilala"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "sang tao"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "nga imo sia gin-isip"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:39.742164342Z",
+  "model": "glm-5.3"
+}

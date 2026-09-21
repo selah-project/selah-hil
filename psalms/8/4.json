@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kay tan-awon ko ang imo mga langit, buhat sang imo mga tudlo, ang bulan kag ang mga bitoon, nga imo gintindug.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "tan-awon ko"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "ang imo mga langit"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "buhat"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "sang imo mga tudlo"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ang bulan"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "kag ang mga bitoon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "imo gintindug"
+    }
+  ],
+  "timestamp": "2026-09-21T22:38:19.090306615Z",
+  "model": "glm-5.3"
+}

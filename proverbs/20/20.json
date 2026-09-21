@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Ang nagatala sa iya amay kag sa iya iloy, malapa ang iya suga sa kadulum sang kadulum.",
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "ang nagatala"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sa iya amay"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "kag sa iya iloy"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "malapa"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "ang iya suga"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "sa kadulum"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sang kadulum"
+    }
+  ],
+  "timestamp": "2026-09-21T21:01:13.847051092Z",
+  "model": "glm-5.3"
+}

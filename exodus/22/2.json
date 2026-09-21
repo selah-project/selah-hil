@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kon may sinag na ang adlaw sa iya, mga dugo sa iya; bayad gid ang iya ibayad; kon wala sia, ibaligya sia sang iya pagpanakaw.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "may sinag na"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "mga dugo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "bayad gid"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ibayad"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sia"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "ibaligya"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "sang iya pagpanakaw"
+    }
+  ],
+  "timestamp": "2026-09-21T16:30:57.547912978Z",
+  "model": "glm-5.3"
+}

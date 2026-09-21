@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag gintukod ni Shelomah ⟨את⟩ ang Gaẓer kag ⟨את⟩ ang Beit-Kharon nga ubus.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "gintukod"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "si Shelomah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Gaẓer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gaẓer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Beit-Kharon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Kharon"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "nga ubus"
+    }
+  ],
+  "timestamp": "2026-09-21T18:30:48.736445644Z",
+  "model": "glm-5.3"
+}

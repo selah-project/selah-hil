@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 13:19",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag ang Bavel, dayaw sang mga gingharian, madunggay nga gara sang mga Kesdi, magakabay sa pagbalik sang Elohim ⟨את⟩ Sodom kag ⟨את⟩ Amorah.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "Kag magakabay"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ang Bavel"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "dayaw"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "sang mga gingharian"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "madunggay"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "gara"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "sang mga Kesdi"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "sa pagbalik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sodom"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Amorah"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorah"
+    }
+  ],
+  "timestamp": "2026-09-21T18:55:59.346022741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag ⟨את⟩ ang napulo kag duha ka bato nga ini, nga ginkuha nila gikan sa Yarden, gintindog ni Yehoshua sa Gilgal.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang napulo kag duha ka bato"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "duha"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "napulo kag"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ka bato"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ginkuha nila"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "gintindog"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "sa Gilgal"
+    }
+  ],
+  "timestamp": "2026-09-21T17:35:01.888023576Z",
+  "model": "glm-5.3"
+}

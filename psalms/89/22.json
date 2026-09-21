@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Nga ang akon kamot magatindog kaupod niya, kag ang akon bukton magapalig-on ⟨sa iya⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ang akon kamot"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "magatindog"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaupod niya"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kag"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "ang akon bukton"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "magapalig-on sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:55.669444646Z",
+  "model": "glm-5.3"
+}

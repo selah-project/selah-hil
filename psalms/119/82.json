@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Nagtapos ang akon mga mata sa imo ginpakigsiling, nga nagasiling: San-o mo ako pagalipayon?",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "nagtapos"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang akon mga mata"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "sa imo ginpakigsiling"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "san-o"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "mo ako pagalipayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:50:09.249789295Z",
+  "model": "glm-5.3"
+}

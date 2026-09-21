@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Sa gamay kag gamay ko sila pagapaguathon sa imo atubangan, hangtod nga magdamo ikaw kag mapanubli ka ⟨את⟩ sang duta.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "sa gamay"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kag gamay"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "pagapaguathon"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "sa imo atubangan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "magdamo"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "kag mapanubli ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T16:31:07.636101923Z",
+  "model": "glm-5.3"
+}

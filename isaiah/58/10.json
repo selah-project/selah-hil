@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 58:10",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 58,
+  "translation": "kag ipagwa mo ang imo kalag sa ginagutom, kag busugon mo ang kalag nga ginlutos; gani magasidlak ang imo suga sa kadulumduluman, kag ang imo madulmok magaangnid sa udto.",
+  "tokens": [
+    {
+      "surface": "ותפק",
+      "gloss": "kag ipagwa mo"
+    },
+    {
+      "surface": "לרעב",
+      "gloss": "sa ginagutom"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ang imo kalag"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "kag ang kalag"
+    },
+    {
+      "surface": "נענה",
+      "gloss": "nga ginlutos"
+    },
+    {
+      "surface": "תשביע",
+      "gloss": "busugon mo"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "gani magasidlak"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "sa kadulumduluman"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ang imo suga"
+    },
+    {
+      "surface": "ואפלתך",
+      "gloss": "kag ang imo madulmok"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "magaangnid sa udto"
+    }
+  ],
+  "timestamp": "2026-09-21T19:12:55.194866455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag magadala niya ⟨את⟩ ang iya asham kay Yahweh, tubtob sa ganghaan sang tolda sang pagtig-ub, isa ka karnero nga asham.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "magadala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya asham"
+    },
+    {
+      "surface": "אשמowo",
+      "gloss": "iya asham"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tubtob sa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ganghaan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang pagtig-ub"
+    },
+    {
+      "surface": "איל",
+      "gloss": "karnero"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "asham"
+    }
+  ],
+  "timestamp": "2026-09-21T16:52:25.004162626Z",
+  "model": "glm-5.3"
+}

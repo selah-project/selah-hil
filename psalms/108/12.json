@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 108,
+  "translation": "Indi bala ikaw, Elohim, ang nagbaya sa amon? Kag indi ka magagwa kaupod sang amon mga kasundalohan, O Elohim?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "indi bala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "ang nagbaya sa amon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ka magagwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "kaupod sang amon mga kasundalohan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:35.553604460Z",
+  "model": "glm-5.3"
+}

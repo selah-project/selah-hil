@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 106,
+  "translation": "Kag ginpakapungot nila ⟨kaniya⟩ sa mga tubig sang Meriba, kag nagmalaot kay Moshe tungod sa ila.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "ginpakapungot nila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mga tubig"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriba"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "nagmalaot"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kay Moshe"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "tungod sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:08.868335044Z",
+  "model": "glm-5.3"
+}

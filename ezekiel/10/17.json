@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 10:17",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Sa ila pagtindog nagtindog sila, kag sa ila pag-angat nag-angat ⟨sila⟩ ⟨upod⟩ ⟨sa ila⟩; kay ang espiritu sang binuhi ara sa ila.",
+  "tokens": [
+    {
+      "surface": "בעמדם",
+      "gloss": "sa ila pagtindog"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "nagtindog sila"
+    },
+    {
+      "surface": "וברומם",
+      "gloss": "kag sa ila pag-angat"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "nag-angat sila"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ila (ang mga ligid)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ang espiritu"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "sang binuhi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T19:43:48.025508613Z",
+  "model": "glm-5.3"
+}

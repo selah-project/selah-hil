@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Kag ginpakadto sang hari kag gintipon ⟨את⟩ tanan nga mga gulang sang Yehudah kag sang Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ginpakadto"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "kag gintipon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga gulang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "nga mga gulang"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "kag sang Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-21T22:14:56.683644619Z",
+  "model": "glm-5.3"
+}

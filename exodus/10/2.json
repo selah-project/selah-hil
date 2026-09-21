@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag agod masugid mo sa mga dalunggan sang imo anak kag sang anak sang imo anak ⟨את⟩ sang akon ginpangbudlay sa Mitsrayim kag ⟨את⟩ ang akon mga timailhan nga ginpabutang ko sa ila, kag makahibalo kamo nga ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "Kag agod"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "masugid mo"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "sa mga dalunggan"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sang imo anak"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "kag sang anak"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sang imo anak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang akon ginpangbudlay sa Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sang"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "ginpangbudlay ko"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang akon mga timailhan"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "ang akon mga timailhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "ginpabutang ko"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "kag makahibalo kamo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:24:24.101512323Z",
+  "model": "glm-5.3"
+}

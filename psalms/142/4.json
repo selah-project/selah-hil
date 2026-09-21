@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 142,
+  "translation": "Sang nagluya ang akon espiritu sa akon, ikaw nahibalo sang akon dalanon; sa dalan nga iya ako nagalakat, nagtago sila sang litag para sa akon.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "sang nagluya"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ang akon espiritu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nahibalo"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "sang akon dalanon"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "זו",
+      "gloss": "nga iya"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ako nagalakat"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "nagtago sila"
+    },
+    {
+      "surface": "פח",
+      "gloss": "sang litag"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:42.175820687Z",
+  "model": "glm-5.3"
+}

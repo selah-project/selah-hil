@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 18:23",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag ang Levita amo ang magaalagad ⟨את⟩ sang pag-alagad sang tolda sang katipunan, kag sila ang magadala sang ila kasilag; ḥukat nga dayon sa inyo mga kaliwatan sila, kag sa tunga sang mga anak sang Yisrael indi sila magapanunumbong sang manunumbong.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "kag magaalagad"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "ang Levita"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "amo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang pag-alagad"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "sang pag-alagad"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sang tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang katipunan"
+    },
+    {
+      "surface": "והם",
+      "gloss": "kag sila"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "magadala"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "sang ila kasilag"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "ḥukat"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nga dayon"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "sa inyo mga kaliwatan"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "kag sa tunga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "magapanunumbong"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "manunumbong"
+    }
+  ],
+  "timestamp": "2026-09-21T17:08:39.640214476Z",
+  "model": "glm-5.3"
+}

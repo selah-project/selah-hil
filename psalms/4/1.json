@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Sa manugpanguna, sa mga panugtog sang kwerdas, mizmor ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa manugpanguna"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "sa mga panugtog sang kwerdas"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-21T20:23:08.425376382Z",
+  "model": "glm-5.3"
+}

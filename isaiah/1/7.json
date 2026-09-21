@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Ang inyo duta kagub-atan, ang inyo mga dakbanwa gintungtong sang kalayo; ang inyo duta sa atubang ninyo ginakaon sang mga dayuhon ⟨את⟩ ina, kag kagub-atan subong sang pagtalikod sang mga dayuhon.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "Ang inyo duta"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "kagub-atan"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "ang inyo mga dakbanwa"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "gintungtong sang"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kalayo"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "ang inyo duta"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "sa atubang ninyo"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "mga dayuhon"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "ginakaon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ina (ang inyo duta)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "kag kagub-atan"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "subong sang pagtalikod"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "sang mga dayuhon"
+    }
+  ],
+  "timestamp": "2026-09-21T18:52:30.446657401Z",
+  "model": "glm-5.3"
+}

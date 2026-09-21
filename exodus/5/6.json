@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 5:6",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag nagmando si Paro sadto nga adlaw ⟨את⟩ sa mga nagapugas sa katawhan kag ⟨את⟩ sa iya mga opisyal, nga nagasiling:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Kag nagmando"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "si Paro"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sadto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga nagapugas"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "sa mga nagapugas"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "sa katawhan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sa iya mga opisyal"
+    },
+    {
+      "surface": "שטריו",
+      "gloss": "sa iya mga opisyal"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    }
+  ],
+  "timestamp": "2026-09-21T16:22:12.830989199Z",
+  "model": "glm-5.3"
+}

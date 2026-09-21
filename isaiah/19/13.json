@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 19:13",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Nangin mga buang ang mga pangulo sang Tsoan, naloko ang mga pangulo sang Nof; sila ang nagsala ⟨kay⟩ Mitsrayim ⟨את⟩ — ⟨ang mga⟩ sulog sang iya mga tribo.",
+  "tokens": [
+    {
+      "surface": "נואלו",
+      "gloss": "nangin mga buang"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ang mga pangulo"
+    },
+    {
+      "surface": "צען",
+      "gloss": "sang Tsoan"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "naloko"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ang mga pangulo"
+    },
+    {
+      "surface": "נף",
+      "gloss": "sang Nof"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "nagsala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "sulog"
+    },
+    {
+      "surface": "שבטיה",
+      "gloss": "sang iya mga tribo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:58:15.379718385Z",
+  "model": "glm-5.3"
+}

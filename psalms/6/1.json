@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Sa ⟨manugdumala⟩, sa Neginot, sa ikawalo — isa ka mizmor ni Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa ⟨manugdumala⟩"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "sa Neginot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "ikawalo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni Dawid"
+    }
+  ],
+  "timestamp": "2026-09-21T20:23:00.551665565Z",
+  "model": "glm-5.3"
+}

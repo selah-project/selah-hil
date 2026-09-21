@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag nagpanaw si Avram, nagapadayon kag nagapanaw, paadto sa habagat.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "nagpanaw"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "si Avram"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "nagapadayon"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "kag nagapanaw"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "sa habagat"
+    }
+  ],
+  "timestamp": "2026-09-21T15:59:36.978125620Z",
+  "model": "glm-5.3"
+}

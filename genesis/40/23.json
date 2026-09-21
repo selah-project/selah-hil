@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Apang wala magdumdom ang sar sang mga manog-inom ⟨את⟩ kay Yosef, kag nalimtan niya siya.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "apang wala"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "magdumdom"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sar"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "sang mga manog-inom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "kag nalimtan niya siya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:12:46.332826167Z",
+  "model": "glm-5.3"
+}

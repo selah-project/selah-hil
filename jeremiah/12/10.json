@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Damo nga mga manugal ang naglaglag sang akon ubasan, gintapakan nila ⟨את⟩ ang akon porsyon; gintugyan nila ⟨את⟩ ang porsyon nga akon kagustuhan nga maga kagulangan nga bin-i-an.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "mga manugal"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "damo"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "naglaglag"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "akon ubasan"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "gintapakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon porsyon"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "akon porsyon"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "gintugyan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang porsyon nga akon kagustuhan"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "porsyon"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "nga akon kagustuhan"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "nga maga kagulangan"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "bin-i-an"
+    }
+  ],
+  "timestamp": "2026-09-21T19:21:07.169180413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kon pag-abusohon gid ninyo siya ⟨את⟩ — kay kon magapananggay gid siya sa akon, magabati gid ako sang iya pananggay.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "gid pag-abusohon"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ninyo pag-abusohon"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya (ang balo kag ang ulila)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "gid magapananggay"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "siya magapananggay"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gid magabati"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ako magabati"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "sang iya pananggay"
+    }
+  ],
+  "timestamp": "2026-09-21T16:29:59.563116890Z",
+  "model": "glm-5.3"
+}

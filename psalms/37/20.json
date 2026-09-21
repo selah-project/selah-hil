@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kay ang mga daotan magapierdi, kag ang mga kaaway ni Yahweh — subong sang katabo sang mga karnero magadula; sa aso magadula sila.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ang mga daotan"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "magapierdi"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "kag ang mga kaaway"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "subong sang katabo"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "sang mga karnero"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "magadula"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "sa aso"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "magadula"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:00.995120344Z",
+  "model": "glm-5.3"
+}

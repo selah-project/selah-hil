@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 74,
+  "translation": "Ginakilala ⟨siya⟩ subong sang isa ka tawo nga nagataas ⟨sang iya kaugalingon⟩, sa guko sang mga kahoy — mga palakol.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "ginakilala"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "subong sang nagataas"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "paibabaw"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "sa guko"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mga kahoy"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "mga palakol"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:11.155017009Z",
+  "model": "glm-5.3"
+}

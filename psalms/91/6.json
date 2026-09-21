@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 91,
+  "translation": "ukon sang sakit sa kadulumduluman nga nagalakat, ukon sang katalagman nga nagalaglag sa odto.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "ukon sang sakit"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "sa kadulumduluman"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "nga nagalakat"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "ukon sang katalagman"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "nga nagalaglag"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "sa odto"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:11.937250566Z",
+  "model": "glm-5.3"
+}

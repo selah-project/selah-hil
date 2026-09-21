@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "kag ⟨את⟩ mga bado sang pag-alagad, kag ⟨את⟩ mga bado sang balaan alang kay Aharon nga pari, kag ⟨את⟩ mga bado sang iya mga anak sa pag-alagad nga pari",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "mga bado sang pag-alagad"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mga bado"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "sang pag-alagad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "mga bado sang balaan"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mga bado"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sang balaan"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "alang kay Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "nga pari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "mga bado sang iya mga anak"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mga bado"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sang iya mga anak"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "sa pag-alagad nga pari"
+    }
+  ],
+  "timestamp": "2026-09-21T16:34:11.832362497Z",
+  "model": "glm-5.3"
+}

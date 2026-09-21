@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "⟨את⟩ ina nga mga butang sa ila makakaon kamo: ⟨ang⟩ balang suno sa iya matang, kag ⟨את⟩ ang sol'am suno sa iya matang, kag ⟨את⟩ ang hargol suno sa iya matang, kag ⟨את⟩ ang khagav suno sa iya matang.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ina nga mga butang"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ina nga mga butang"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "makakaon kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balang"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "balang"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "suno sa iya matang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang sol'am"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "sol'am"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "suno sa iya matang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang hargol"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "hargol"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "suno sa iya matang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang khagav"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "khagav"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "suno sa iya matang"
+    }
+  ],
+  "timestamp": "2026-09-21T16:45:24.450880721Z",
+  "model": "glm-5.3"
+}

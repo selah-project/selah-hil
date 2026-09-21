@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag ang ngalan sang ikaduha nga suba amo ang Gichon; amo ini ang nagalibot ⟨את⟩ sang tanan nga duta sang Kush.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "kag ang ngalan"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "sang suba"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikaduha"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gichon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "amo ini"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "nagalibot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang tanan nga duta sang Kush"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-09-21T15:54:58.577449539Z",
+  "model": "glm-5.3"
+}

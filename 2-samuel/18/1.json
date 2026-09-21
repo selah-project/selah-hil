@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Ginihap ni David ⟨את⟩ ang mga tawo nga ⟨אתו⟩ sa iya, kag ginpabutang niya sa ila ang mga pangulo sang isa ka libo kag ang mga pangulo sang gatos.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "ginihap"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tawo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩ sa iya"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "kag ginpabutang"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ang mga pangulo"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "sang isa ka libo"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "kag ang mga pangulo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sang gatos"
+    }
+  ],
+  "timestamp": "2026-09-21T18:21:18.591020864Z",
+  "model": "glm-5.3"
+}

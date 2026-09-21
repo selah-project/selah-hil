@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 11:35",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag kuha-on ko ang ginhari sa kamot sang iya anak, kag ihatag ko ini sa imo — ⟨את⟩ ang napulo ka tribo.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "kag kuha-on ko"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ang ginhari"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sang iya anak"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "kag ihatag ko ini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang napulo ka tribo"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ang napulo ka"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "tribo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:33:34.340395327Z",
+  "model": "glm-5.3"
+}

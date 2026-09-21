@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 9:28",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Pangamuyo kamo kang Yahweh, kag igo na ⟨ang⟩ kadamo sang mga tingog sang Elohim kag sang yelo; kag pagapadian ko ⟨אתכם⟩, kag indi ⟨na⟩ kamo magdugang sa pagpabilin.",
+  "tokens": [
+    {
+      "surface": "העתירו",
+      "gloss": "Pangamuyo kamo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "kag igo na"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "⟨ang⟩ kadamo"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "sang mga tingog"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "kag sang yelo"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "kag pagapadian ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "magdugang"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "sa pagpabilin"
+    }
+  ],
+  "timestamp": "2026-09-21T16:23:04.404808289Z",
+  "model": "glm-5.3"
+}

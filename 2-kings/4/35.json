@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 4:35",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag nagbalik siya kag naglakat sa balay, minsan ⟨diri⟩ kag minsan ⟨didto⟩, kag nagsaka kag nagbayhay sa iya, kag nagbahin-bahin ang bata hasta pito ka beses, kag ginbukas sang bata ⟨את⟩ ang iya mga mata.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "nagbalik"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "naglakat"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "minsan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨diri⟩"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "kag minsan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨didto⟩"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "nagsaka"
+    },
+    {
+      "surface": "ויגהר",
+      "gloss": "nagbayhay"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ויזורר",
+      "gloss": "nagbahin-bahin"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ka beses"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "ginbukas"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya mga mata"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ang iya mga mata"
+    }
+  ],
+  "timestamp": "2026-09-21T22:30:09.478297713Z",
+  "model": "glm-5.3"
+}

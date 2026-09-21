@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag nag-agik-ik ang tubig palibot sang halaran, kag ginpun-an man niya ⟨את⟩ ang kanal sing tubig.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "Kag nag-agik-ik"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang tubig"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "palibot"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "sang halaran"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kag man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanal"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "ang kanal"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ginpun-an niya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sing tubig"
+    }
+  ],
+  "timestamp": "2026-09-21T18:36:52.334922732Z",
+  "model": "glm-5.3"
+}

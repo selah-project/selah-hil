@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Kag ibutang Ko ang Akon puluy-anan sa tunga ninyo, kag indi pagatuyaan sang Akon kalag ⟨את⟩ kamo.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "kag ibutang Ko"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "ang Akon puluy-anan"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "sa tunga ninyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "pagatuyaan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sang Akon kalag"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:55:33.181964944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 103,
+  "translation": "Ginpahibalo niya ang iya mga dalan kay Moshe, ang iya mga binuhaton sa mga anak nga lalaki sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "ginpahibalo"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "iya mga dalan"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kay Moshe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "iya mga binuhaton"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:56.593125862Z",
+  "model": "glm-5.3"
+}

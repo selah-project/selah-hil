@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Ikaw amo ang akon tago-an gikan sa kagul-o; bantayan mo ako; sang mga pag-awit sang pagluwas libutan mo ako. Selah.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "tago-an"
+    },
+    {
+      "surface": "לי",
+      "gloss": "akon"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "gikan sa kagul-o"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "bantayan mo ako"
+    },
+    {
+      "surface": "רני",
+      "gloss": "mga pag-awit"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "sang pagluwas"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "libutan mo ako"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T22:38:37.130777866Z",
+  "model": "glm-5.3"
+}

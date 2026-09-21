@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 55,
+  "translation": "Madungog sang El kag tumbason niya sila, kag ang Nagapuyo sa sinauna. Selah. Sila nga wala sing pag-ilisan sa ila kaugalingon, kag wala sila magakahadlok sa Elohim.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "Madungog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sang El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "kag tumbason niya sila"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kag ang Nagapuyo"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "sa sinauna"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Sila nga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala sing"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "pag-ilisan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "sa ila kaugalingon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "sila magakahadlok"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sa Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:49.034771954Z",
+  "model": "glm-5.3"
+}

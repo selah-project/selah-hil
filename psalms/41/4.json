@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 41,
+  "translation": "Si Yahweh magasandig kaniya sa higdaanan sang balatian; ang tanan nga iya paghigda ginbalik mo sa iya sakit.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "magasandig kaniya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "higdaanan"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "sang balatian"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "nga iya paghigda"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "ginbalik mo"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "sa iya sakit"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:48.535911719Z",
+  "model": "glm-5.3"
+}

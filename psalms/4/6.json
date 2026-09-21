@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Maghalad kamo sang mga halad sang katarungan, kag salig kamo kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "Maghalad kamo"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "sang mga halad"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sang katarungan"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "kag salig kamo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:53.347315814Z",
+  "model": "glm-5.3"
+}

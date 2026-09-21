@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 102,
+  "translation": "Tungod sa tingog sang akon pag-uya, nagadikit ang akon tul-an sa akon unod.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Tungod sa tingog"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "sang akon pag-uya"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "nagadikit"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ang akon tul-an"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "sa akon unod"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:42.742853567Z",
+  "model": "glm-5.3"
+}

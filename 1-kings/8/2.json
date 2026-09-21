@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 8:2",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag nagtipon sa hari nga si Shelomoh ang tanan nga mga tawo sang Yisrael, sa bulan sang ha-Eitanim, sa pista — amo ina ang ikapito nga bulan.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "kag nagtipon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "si Shelomoh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nga mga tawo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "sa bulan"
+    },
+    {
+      "surface": "האתנים",
+      "gloss": "sang ha-Eitanim"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "sa pista"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "amo ina"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ang bulan"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ikapito"
+    }
+  ],
+  "timestamp": "2026-09-21T18:30:43.873706221Z",
+  "model": "glm-5.3"
+}

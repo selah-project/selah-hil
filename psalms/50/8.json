@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 50,
+  "translation": "Indi ako magasaway sa imo tungod sang imo mga halad; kag ang imo mga sinunog nga halad ara sa atubangan ko sing dayon.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod sang"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "imo mga halad"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "ako magasaway sa imo"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "kag imo mga sinunog nga halad"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "sa atubangan ko"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sing dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:57.662261735Z",
+  "model": "glm-5.3"
+}

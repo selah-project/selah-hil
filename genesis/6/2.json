@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "kag nakita sang mga anak sang Elohim ⟨את⟩ ang mga anak nga babae sang mga tawo nga nindot sila, kag nagkuha sila sang mga asawa sa tanan nga ila ginpilian.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "kag nakita"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sang mga anak"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga anak nga babae sang mga tawo"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "mga anak nga babae"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sang mga tawo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "nindot"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "kag nagkuha sila"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sang ila kaugalingon"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "mga asawa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "ginpilian nila"
+    }
+  ],
+  "timestamp": "2026-09-21T15:58:19.574821014Z",
+  "model": "glm-5.3"
+}

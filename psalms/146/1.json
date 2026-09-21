@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 146,
+  "translation": "Magdayeg kamo kay Yah; magdayeg, akon kalag, ⟨kay⟩ Yahweh ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "magdayeg kamo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kay Yah"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "magdayeg"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akon kalag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:24.272034471Z",
+  "model": "glm-5.3"
+}

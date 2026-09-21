@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Ang dalan sang imo mga kasuguan dalaganon ko, kay imo ginpalambo ang akon kasingkasing.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ang dalan"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "sang imo mga kasuguan"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "dalagonon ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "imo ginpalambo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang akon kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:28.821909992Z",
+  "model": "glm-5.3"
+}

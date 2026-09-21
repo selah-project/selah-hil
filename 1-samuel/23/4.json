@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag nagdugang pa si David sang ussa ka pagpanginano sa kay Yahweh, kag ginsabat siya ni Yahweh kag nagsiling: Tindog ka, magpanaw kag pauntaton mo sa Kelilah, kay ako magahatag ⟨את⟩ sang mga Pelishteho sa imo nga kamot.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "kag nagdugang pa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "sang pagpanginano"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "sa kay Yahweh"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "kag ginsabat siya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "קום",
+      "gloss": "tindog ka"
+    },
+    {
+      "surface": "רד",
+      "gloss": "magpanaw kag pauntaton mo"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "sa Kelilah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "magahatag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang mga Pelishteho"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sang mga Pelishteho"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "sa imo nga kamot"
+    }
+  ],
+  "timestamp": "2026-09-21T18:08:24.173845863Z",
+  "model": "glm-5.3"
+}

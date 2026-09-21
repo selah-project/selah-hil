@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Kag si Aholibamah nata-an ⟨את⟩ si Yeish kag ⟨את⟩ si Yealam kag ⟨את⟩ si Korach; ini ang mga anak nga lalaki ni Esav nga nata-an sa iya sa duta sang Kenaan.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "kag si Aholibamah"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "nata-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yeish"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "si Yeish"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Yealam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "si Yealam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Korach"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "si Korach"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ni Esav"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "nata-an"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "sang Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:10:51.716217032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 32:36",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Kag ⟨את⟩ Beit-Nimrah kag ⟨את⟩ Beit-Haran, mga siyudad nga pinatibay, kag mga kuralsang sang mga karnero.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Beit-Nimrah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "נמרה",
+      "gloss": "Nimrah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Beit-Haran"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga siyudad"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "nga pinatibay"
+    },
+    {
+      "surface": "וגדרת",
+      "gloss": "kag mga kuralsang"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sang mga karnero"
+    }
+  ],
+  "timestamp": "2026-09-21T17:14:34.908448466Z",
+  "model": "glm-5.3"
+}

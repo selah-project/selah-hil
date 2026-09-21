@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 116,
+  "translation": "Mahal sa mga mata ni Yahweh ang kamatayon sang iya mga matutom.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "Mahal"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "ang kamatayon"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "sang iya mga matutom"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:00.894246696Z",
+  "model": "glm-5.3"
+}

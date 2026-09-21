@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 15:16",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Kag nagsiling si Kalev: \"Ang maglatay sang Kiryat-Sefer kag madakop sini, sa iya ihatag ko ⟨את⟩ si Akhsa nga akon anak nga babayi subong asawa.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "si Kalev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "maglatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat-Sefer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "kag madakop sini"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ihatag ko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Akhsa"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Akhsa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "akon anak nga babayi"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "subong asawa"
+    }
+  ],
+  "timestamp": "2026-09-21T17:41:51.225562016Z",
+  "model": "glm-5.3"
+}

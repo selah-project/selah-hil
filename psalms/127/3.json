@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 127,
+  "translation": "Tan-awa, ang mga anak amo ang sanad ni Yahweh, ang ganti amo ang bunga sang tiyan.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "sanad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ang ganti"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "bunga"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "sang tiyan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:45.486815695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Kwadrado ⟨maga⟩ ini kag doble; isa ka dangaw ang iya kadugayan kag isa ka dangaw ang iya kalapad.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "kwadrado"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨maga⟩ ini"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "kag doble"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "isa ka dangaw"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ang iya kadugayan"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "kag isa ka dangaw"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ang iya kalapad"
+    }
+  ],
+  "timestamp": "2026-09-21T16:33:38.236925359Z",
+  "model": "glm-5.3"
+}

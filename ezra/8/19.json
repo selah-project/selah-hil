@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 8:19",
+  "book": "ezra",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ⟨את⟩ si Ḥashavyah kag ⟨את⟩ kaupod niya si Yeshayah, taga mga anak ni Merari, iya mga utod kag ila mga anak, duha ka pulo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Ḥashavyah"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "si Ḥashavyah"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "kag ⟨את⟩ kaupod niya",
+      "marks": "si Yeshayah"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "si Yeshayah"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "taga mga anak ni"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iya mga utod"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "kag ila mga anak"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duha ka pulo"
+    }
+  ],
+  "timestamp": "2026-09-21T21:43:23.459114658Z",
+  "model": "glm-5.3"
+}

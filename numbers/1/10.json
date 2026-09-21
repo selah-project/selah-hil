@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Tungod sa mga anak ni Yosef: tungod kay Efrayim, Elishama nga anak ni Amihud; tungod kay Menashe, Gamliel nga anak ni Pedahsur.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Tungod sa mga anak"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "tungod kay Efrayim"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "ni Amihud"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "tungod kay Menashe"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "ni Pedahsur"
+    }
+  ],
+  "timestamp": "2026-09-21T16:56:28.494122909Z",
+  "model": "glm-5.3"
+}

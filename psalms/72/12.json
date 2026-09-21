@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 72,
+  "translation": "Kay pagaluwason niya ang pangod nga nagasinggit, kag ang kabos, kag wala sing bulig sa iya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "pagaluwason niya"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ang pangod"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "nga nagasinggit"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "kag ang kabos"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala sing"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "bulig"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:04.358660119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Sang pagpamalhas sa akon mga tulang ginpakaulaw ako sang akon mga manulud, sa ila paghambal sa akon sa tanan nga adlaw: Diin ang imo Elohim?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "sang pagpamalhas"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "sa akon mga tulang"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "ginpakaulaw ako"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "sang akon mga manulud"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "sa ila paghambal"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nga adlaw"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Diin"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ang imo Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:58.335819869Z",
+  "model": "glm-5.3"
+}

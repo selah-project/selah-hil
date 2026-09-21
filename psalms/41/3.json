@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 41,
+  "translation": "Si Yahweh magabantay kaniya kag magabuhi ⟨siya⟩; malipayon ⟨siya⟩ sa duta; kag indi ⟨mo⟩ paghatag ⟨sang⟩ siya sa kagustuhan sang iya mga kaaway.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "magabantay kaniya"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "kag magabuhi siya"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "malipayon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "paghatag"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "sa kagustuhan"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "sang iya mga kaaway"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:48.535775029Z",
+  "model": "glm-5.3"
+}

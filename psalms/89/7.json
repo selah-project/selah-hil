@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Kay sin-o sa mga panganod ang magakaangay kay Yahweh? Sin-o ang magapareho kay Yahweh sa tunga sang mga anak sang mga gamhanan?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "sa mga panganod"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "magakaangay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "magapareho"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "sang mga gamhanan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:25.698258093Z",
+  "model": "glm-5.3"
+}

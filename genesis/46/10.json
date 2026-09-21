@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 46:10",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 46,
+  "translation": "Kag ang mga anak ni Shimon: Yemuel, kag Yamin, kag Ohad, kag Yakhin, kag Tsokhar, kag Shaul nga anak sang babaing Kenaanan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "kag ang mga anak"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ni Shimon"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "Yemuel"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "kag Yamin"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "kag Ohad"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "kag Yakhin"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "kag Tsokhar"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "kag Shaul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "sang babaing Kenaanan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:16:46.586849986Z",
+  "model": "glm-5.3"
+}

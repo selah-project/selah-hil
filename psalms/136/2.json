@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 136,
+  "translation": "Magpasalamat kamo sa Elohim sang ⟨mga⟩ dios, kay sa dayon ang iya hesed.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Magpasalamat kamo"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "sa Elohim sang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "mga dios"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iya hesed"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:39.961392461Z",
+  "model": "glm-5.3"
+}

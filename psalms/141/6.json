@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 141,
+  "translation": "Sa mga kilid sang bato mahuyog ang ila mga manughukom; kag mamati sila sang akon mga pulong, kay malamyos ini.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "mahuyog"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "sa mga kilid"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "bato"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "ang ila mga manughukom"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "kag mamati sila"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "sang akon mga pulong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "malamyos"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:27.357873951Z",
+  "model": "glm-5.3"
+}

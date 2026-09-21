@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag ibutang mo sa Kaban ⟨את⟩ ang Pagsaksi nga ihatag ko sa imo.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "kag ibutang mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Kaban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Pagsaksi"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ang Pagsaksi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ihaton ko"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:31:58.993553481Z",
+  "model": "glm-5.3"
+}

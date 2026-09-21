@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag nagsiling si Yahweh kay Moshe: Isa ka pangulo sa isa ka adlaw, isa ka pangulo sa isa ka adlaw, magahalad ⟨את⟩ sang ila halad para sa pag-alay sang halaran.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nagsiling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "isa ka pangulo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "sa isa ka adlaw"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "isa ka pangulo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "sa isa ka adlaw"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "magahalad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang ila halad"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "sang ila halad"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "para sa pag-alay"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sang halaran"
+    }
+  ],
+  "timestamp": "2026-09-21T17:01:38.515249825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 81,
+  "translation": "Kag ginpakakaon niya siya sang taba sang trigo, kag sang bitog gikan sa bato busuron tika.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "kag ginpakakaon niya siya"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "sang taba"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "sang trigo"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "kag gikan sa bato"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "sang bitog"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "busuron tika"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:29.168508495Z",
+  "model": "glm-5.3"
+}

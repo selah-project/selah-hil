@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 4:5",
+  "book": "micah",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kay magalakat ang tanan nga mga pungsod, tagsa ka tawo sa ngalan sang iya Elohim; kag kami magalakat sa ngalan ni Yahweh, Elohim namon, sa dayon kag magpadayon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ang mga pungsod"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "magalakat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tagsa ka tawo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa ngalan"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "sang iya Elohim"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "kag kami"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "magalakat"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim namon"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag magpadayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:13:14.575637108Z",
+  "model": "glm-5.3"
+}

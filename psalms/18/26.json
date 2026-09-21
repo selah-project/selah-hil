@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Sa mapinalangga ginapakita mo ang imo hesed; sa tawo nga himos, himos ka man.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "Sa"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "mapinalangga"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "ginapakita mo ang imo hesed"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "nga himos"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "himos ka man"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:26.924630108Z",
+  "model": "glm-5.3"
+}

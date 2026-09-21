@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 9:15",
+  "book": "esther",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag nagtigom ang mga Yehudi nga sa Shushan man sa ikanapulo kag apat nga adlaw sang bulan Adar, kag nagpamatay sa Shushan sang tatlo ka gatos ka tawo; kag sa pagpanguha wala nila ginpadala ⟨את⟩ ila kamot.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "Kag nagtigom"
+    },
+    {
+      "surface": "היהודיים",
+      "gloss": "ang mga Yehudi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "sa Shushan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ikatlo… apat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sang bulan"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Adar"
+    },
+    {
+      "surface": "ויהרגו",
+      "gloss": "kag nagpamatay"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "sa Shushan"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tatlo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ka tawo"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "kag sa pagpanguha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ginpadala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ila kamot"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ila kamot"
+    }
+  ],
+  "timestamp": "2026-09-21T21:32:04.994358774Z",
+  "model": "glm-5.3"
+}

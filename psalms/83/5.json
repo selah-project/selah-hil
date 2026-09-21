@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 83,
+  "translation": "Nagsiling sila: Dali, kag pagpatyon ta sila agod indi na sila magtinipon nga pungsod, kag indi na mabilin sa handumana ang ngalan sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "nagsiling sila"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "dali"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "kag pagpatyon ta sila"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "agod indi na sila magtinipon nga pungsod"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi na"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "mabilin sa handumana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "angkan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:54.118954334Z",
+  "model": "glm-5.3"
+}

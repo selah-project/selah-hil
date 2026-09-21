@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 1:25",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ibalik ko ang akon kamot sa imo, kag pagalutuon ko nga malinis ang imo mga dumi sang puthaw, kag pagakuhaon ko ang tanan mo nga tingga.",
+  "tokens": [
+    {
+      "surface": "ואשיבה",
+      "gloss": "kag ibalik ko"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ang akon kamot"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "ואצרף",
+      "gloss": "kag pagalutuon ko"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "nga malinis"
+    },
+    {
+      "surface": "סיגיך",
+      "gloss": "ang imo mga dumi sang puthaw"
+    },
+    {
+      "surface": "ואסירה",
+      "gloss": "kag pagakuhaon ko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "בדיליך",
+      "gloss": "mo nga tingga"
+    }
+  ],
+  "timestamp": "2026-09-21T18:51:58.848317834Z",
+  "model": "glm-5.3"
+}

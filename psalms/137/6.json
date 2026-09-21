@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 137,
+  "translation": "Magadikit ang akon dila sa akon ngala-ngala kon indi ko ikaw malipatan, kon indi ko ipatindog ang ⟨את⟩ Yerushalayim sa ibabaw sang ulo sang akon kalipay.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "Magadikit"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ang akon dila"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "sa akon ngala-ngala"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "ko ikaw malipatan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ko ipatindog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "sang akon kalipay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:29.673218744Z",
+  "model": "glm-5.3"
+}

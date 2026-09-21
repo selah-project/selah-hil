@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 25:1",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag natabo sa ikasiyam nga tuig sang paghari niya, sa ikanapulo nga bulan, sa ikanapulo sang bulan, nakaabot si Nevukhadnetstsar, hari sang Bavel, siya kag ang tanan nga iya kusog, batok sa Yerushalayim, kag nagkampi siya batok sini, kag nagtindog ⟨sila⟩ sang mga kuta palibot sini.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kag natabo"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "sa tuig sang"
+    },
+    {
+      "surface": "התשיעית",
+      "gloss": "ikasiyam"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "paghari niya"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "sa bulan"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "ikanapulo"
+    },
+    {
+      "surface": "בעשור",
+      "gloss": "sa ikanapulo (nga adlaw)"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sang bulan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nakaabot"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevukhadnetstsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "sang Bavel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "iya kusog"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "kag nagkampi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "batok sini"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "kag nagtindog"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "batok sini"
+    },
+    {
+      "surface": "דיק",
+      "gloss": "kuta"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "palibot"
+    }
+  ],
+  "timestamp": "2026-09-21T18:52:42.565965751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 122,
+  "translation": "Yerushalayim, ang ginpatindog subong sang isa ka duta nga gintagalpaid sa iya kaugalingon, magkahiusa.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "ang ginpatindog"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "subong sang isa ka duta"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "nga gintagalpaid"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magkahiusa"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:45.787634498Z",
+  "model": "glm-5.3"
+}

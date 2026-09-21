@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 17:18",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag ang ⟨את⟩ ngalan ni Aharon isulat mo sa sanga ni Levi, kay isa ka sanga para sa pangulo sang balay sang ila mga amay.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang ngalan ni Aharon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngalan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "תכתב",
+      "gloss": "isulat mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "sanga"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ni Levi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "sanga"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa ka"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "para sa pangulo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "sang ila mga amay"
+    }
+  ],
+  "timestamp": "2026-09-21T17:07:10.595630294Z",
+  "model": "glm-5.3"
+}

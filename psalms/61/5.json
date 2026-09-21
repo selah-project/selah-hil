@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 61,
+  "translation": "Magapuyo ako sa imo tolda dayon, magapanikasag ako sa tagong duog sang imo mga pako. Selah.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "magapuyo ako"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "sa imo tolda"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "dayon"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "magapanikasag ako"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sa tagong duog"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "sang imo mga pako"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:30.037106526Z",
+  "model": "glm-5.3"
+}

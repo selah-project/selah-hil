@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag gintama ni Yonatan ⟨את⟩ ang guwardiya sang mga Pelishteo nga ⟨yara⟩ sa Geba, kag nakabati ang mga Pelishteo; kag si Shaul nagtunok sang sungi sa bug-os nga duta, nga nagasiling: Magbati ⟨kamo⟩, mga Ebreo.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Kag gintama"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "ni Yonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang guwardiya sang mga Pelishteo"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "ang guwardiya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sang mga Pelishteo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "sa Geba"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "kag nakabati"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ang mga Pelishteo"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "kag si Shaul"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "nagtunok"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "sang sungi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa bug-os"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nga duta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "Magbati"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "mga Ebreo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:02:59.532580317Z",
+  "model": "glm-5.3"
+}

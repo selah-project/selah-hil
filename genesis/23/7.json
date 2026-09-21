@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag nagbangon si Avraham kag nagluhod sa katawhan sang duta, sa mga anak ni Het.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kag nagbangon"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "kag nagluhod"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "sa katawhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ni Het"
+    }
+  ],
+  "timestamp": "2026-09-21T16:03:48.606145792Z",
+  "model": "glm-5.3"
+}

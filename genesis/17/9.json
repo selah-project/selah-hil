@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag naghambal si Elohim kay Avraham: Kag ikaw, ⟨את⟩ ang akon kasugtanan imo pagbantayan, ikaw kag ang imo binhi pagkatapos mo, sa ila mga kaliwatan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag naghambal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "Kag ikaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon kasugtanan"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ang akon kasugtanan"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "imo pagbantayan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "kag ang imo binhi"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "pagkatapos mo"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "sa ila mga kaliwatan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:00:33.453029081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag nagkuha siya sing mga lima ka libo ka tawo, kag ginbutang niya ⟨את⟩ sila sa pagpanikas sa tunga sang Bet-El kag sang Ai, sa katundan sang dakbanwa.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kag nagkuha siya"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "sing mga lima"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ka libo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ka tawo"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "kag ginbutang niya"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "sa pagpanikas"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa tunga sang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "kag sang"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ai"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sa katundan"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "sang dakbanwa"
+    }
+  ],
+  "timestamp": "2026-09-21T17:37:16.091070028Z",
+  "model": "glm-5.3"
+}

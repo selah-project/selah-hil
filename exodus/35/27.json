@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 35:27",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Kag ang mga mangungulo nagdala ⟨את⟩ sang mga bato sang hashoham kag ⟨את⟩ sang mga bato sang mga pagapunuan, para sa ephod kag para sa khoshen.",
+  "tokens": [
+    {
+      "surface": "והנשאם",
+      "gloss": "kag ang mga mangungulo"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "nagdala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang mga bato sang hashoham"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "sang mga bato"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "sang hashoham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang mga bato sang mga pagapunuan"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "sang mga bato"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "sang mga pagapunuan"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "para sa ephod"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "kag para sa khoshen"
+    }
+  ],
+  "timestamp": "2026-09-21T16:38:08.169393774Z",
+  "model": "glm-5.3"
+}

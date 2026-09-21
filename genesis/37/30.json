@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kag nagbalik siya sa iya mga bugto kag naghambal: Wala na ang bata, kag ako — diin ako makakadto?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "nagbalik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iya mga bugto"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "naghambal"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "wala na"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kag ako"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "diin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "בא",
+      "gloss": "makakadto"
+    }
+  ],
+  "timestamp": "2026-09-21T16:12:48.116003712Z",
+  "model": "glm-5.3"
+}

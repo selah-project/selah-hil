@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 98,
+  "translation": "Mizmor. Magkanta kamo kay Yahweh sing bag-o nga kanta, kay naghimo siya sang mga kagila-gilalon; nagluwas ang iya too nga kamot kag ang iya balaan nga brazo para sa iya.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "magkanta kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kanta"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bag-o"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "mga kagila-gilalon"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "naghimo"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "nagluwas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa iya"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "iya too nga kamot"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "kag brazo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "iya balaan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:19.597986761Z",
+  "model": "glm-5.3"
+}

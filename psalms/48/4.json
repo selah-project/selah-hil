@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 48,
+  "translation": "Ginkilala si Elohim sa iya mga palasyo isip usa ka kuta.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "sa iya mga palasyo"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "Ginkilala"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "isip kuta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:40.323260536Z",
+  "model": "glm-5.3"
+}

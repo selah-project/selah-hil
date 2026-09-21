@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "kay kamo nakahibalo kon ano ang ⟨את⟩ nga nagpuyo kami sa duta sang Mitsrayim, kag ang ⟨את⟩ nga naglabay kami sa tunga sang mga pungsod nga ginlabayan ninyo;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "nakahibalo kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang nagpuyo kami sa Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "nagpuyo kami"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang naglabay kami sa mga pungsod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "naglabay kami"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa tunga sang"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mga pungsod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "ginlabayan ninyo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:30:40.410140323Z",
+  "model": "glm-5.3"
+}

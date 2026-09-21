@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 34:5",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Kag ang mga tul-an sang mga pari ginsunog niya sa ila nga mga halaran, kag gintinlo niya ⟨את⟩ ang Yehudah kag ⟨את⟩ ang Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ועצמות",
+      "gloss": "kag ang mga tul-an"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "sang mga pari"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ginsunog"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "מזבחותים",
+      "gloss": "ila nga mga halaran"
+    },
+    {
+      "surface": "ויטהר",
+      "gloss": "kag gintinlo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ang Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ang Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-21T22:46:15.486790700Z",
+  "model": "glm-5.3"
+}

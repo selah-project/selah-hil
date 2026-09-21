@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag nagsiling si Shemuel sa katawhan: Si Yahweh, ang nagtuga ⟨את⟩ kay Moshe kag ⟨את⟩ kay Aharon, kag ang nag-alsa ⟨את⟩ sang inyo mga katigulangan gikan sa duta sang Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nagtuga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kag ang"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nag-alsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang inyo mga katigulangan"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "ang inyo mga katigulangan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T18:02:44.093235954Z",
+  "model": "glm-5.3"
+}

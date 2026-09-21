@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ang hari nga si David tigulang na, nag-abot sa mga adlaw, kag ginsulobhan nila sia sang mga bado, apang wala sing init nga nagsini sa iya.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "kag ang hari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "tigulang"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nag-abot"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "sa mga adlaw"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "kag ginsulobhan nila sia"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "sang mga bado"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apang wala"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "sing init"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T18:25:34.875149060Z",
+  "model": "glm-5.3"
+}

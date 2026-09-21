@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 11:2",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Magbati kamo ⟨את⟩ sang mga pulong sini nga kasugtanan, kag hambalon ninyo ini sa mga tawo sang Yehudah kag sa mga pumoluyo sang Yerushalayim,",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Magbati kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang mga pulong sini nga kasugtanan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "sang kasugtanan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sini"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "kag hambalon ninyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mga pumoluyo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-21T19:20:24.154751874Z",
+  "model": "glm-5.3"
+}

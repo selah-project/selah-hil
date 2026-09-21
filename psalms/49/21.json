@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 49,
+  "translation": "Ang tawo ⟨sa⟩ iya kadungganan kag wala makasabuti, gintul-id nga pareho sang ⟨mga⟩ sapat — napatay sila.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Ang tawo"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "sa iya kadungganan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "makasabuti"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "gintul-id nga pareho"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "sang ⟨mga⟩ sapat"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "napatay sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:22.641124185Z",
+  "model": "glm-5.3"
+}

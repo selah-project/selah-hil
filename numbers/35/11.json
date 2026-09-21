@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 35:11",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "magapili kamo sang mga ciudad para sa inyo, nga maga mga ciudad sang pagpanikasalod para sa inyo, agod magpanikasalod didto ang tawo nga nakapatay sang kalag sang tawo sang wala niya tinuyo.",
+  "tokens": [
+    {
+      "surface": "והקריתם",
+      "gloss": "magapili kamo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para sa inyo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mga ciudad"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga ciudad"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "sang pagpanikasalod"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "maga"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para sa inyo"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "agod magpanikasalod"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "didto"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "ang tawo nga nakapatay"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "nakapatay"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kalag"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "sang wala niya tinuyo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:16:22.896845121Z",
+  "model": "glm-5.3"
+}

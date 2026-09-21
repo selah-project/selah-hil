@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag ibutang mo ⟨את⟩ ang naga palibot nga nakurongan, kag ibutang mo ⟨את⟩ ang tabon sang ganghaan sang nakurongan.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "kag ibutang mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang nakurongan"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ang nakurongan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "kag ibutang mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tabon sang ganghaan"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "tabon"
+    },
+    {
+      "surface": "שער",
+      "gloss": "sang ganghaan"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "sang nakurongan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:41:00.285785240Z",
+  "model": "glm-5.3"
+}

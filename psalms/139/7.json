@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 139,
+  "translation": "Diin ako makakadto malayo sa imo Espiritu? Kag diin ako makapanikas sa imo atubang?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "diin"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ako makakadto"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "malayo sa imo Espiritu"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "kag diin"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "sa imo atubang"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "ako makapanikas"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:48.367216373Z",
+  "model": "glm-5.3"
+}

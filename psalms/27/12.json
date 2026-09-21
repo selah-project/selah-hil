@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Indi ako paghatag sa kabuhi sang akon mga kaaway; kay nagtindog laban sa akon ang mga saksi sang bakak kag nagayabut sang kapintas.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "ako paghatag"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "sa kabuhi"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "akon mga kaaway"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "nagtindog"
+    },
+    {
+      "surface": "בי",
+      "gloss": "laban sa akon"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "mga saksi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sang bakak"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "kag nagayabut"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "sang kapintas"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:44.285262741Z",
+  "model": "glm-5.3"
+}

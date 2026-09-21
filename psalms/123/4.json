@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 123,
+  "translation": "Labi sang pagkabusog sang amon kalag sang pagtuya sang mga malinipayon, kag sang kaabalwan sang mga garigodon.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Labi"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sang pagkabusog"
+    },
+    {
+      "surface": "לה",
+      "gloss": "—"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "sang amon kalag"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "sang pagtuya"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "sang mga malinipayon"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "kag sang kaabalwan"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "sang mga garigodon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:11.012240270Z",
+  "model": "glm-5.3"
+}

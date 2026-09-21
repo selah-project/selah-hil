@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kay sa niebe nagasiling siya: Maging yara sa duta; kag sa ulan sang tag-ulan, kag sa mga ulan sang iya kusug.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "sa niebe"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "nagasiling"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "maging"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "kag sa ulan"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "sang tag-ulan"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "kag sa mga ulan"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "sang mga ulan"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "sang iya kusug"
+    }
+  ],
+  "timestamp": "2026-09-21T21:17:04.123869798Z",
+  "model": "glm-5.3"
+}

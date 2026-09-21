@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Subong, kadto, isulat ini sa tableta ⟨את⟩ kauban nila, kag sa tulun-an ibilityan ini, agod magin sang pamanid sa adlaw sang katapusan, hasta sa dayon.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "subong"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "kadto"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "isulat ini"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tableta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ kauban nila",
+      "marks": "kauban nila"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "tulun-an"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "ibilityan"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "agod magin"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "sang katapusan"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "sang pamanid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta sa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T19:03:16.331057268Z",
+  "model": "glm-5.3"
+}

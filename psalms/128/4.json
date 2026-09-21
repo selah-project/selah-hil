@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 128,
+  "translation": "Tan-awa, kay amo ini ang pagpakamaayo sa tawo nga nagaikog kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כן",
+      "gloss": "amo ini"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ang pagpakamaayo"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nga nagaikog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:01.064078342Z",
+  "model": "glm-5.3"
+}

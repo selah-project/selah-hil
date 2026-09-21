@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ginhimo sang mga manoghilot sang sinaad sing pareho gamit ang ila mga lihim, kag nagpatungas sila sang ⟨את⟩ mga baki sa duta sang Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "kag ginhimo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sing pareho"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "sang mga manoghilot sang sinaad"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "gamit ang ila mga lihim"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "kag nagpatungas sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga baki"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "mga baki"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:24:24.755027109Z",
+  "model": "glm-5.3"
+}

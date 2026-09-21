@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 2:20",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag nagdako ang akig ni Yahweh batok sa Yisrael, kag nagsiling siya: Bangod nga ini nga pungsod naglapas ⟨את⟩ sang akon kasugtanan nga ginsogo ko ⟨את⟩ sang ila mga kag-anak, kag wala sila magpatuman sa akon tingog.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "kag nagdako ang akig"
+    },
+    {
+      "surface": "אף",
+      "gloss": "akig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "batok sa Yisrael"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling siya"
+    },
+    {
+      "surface": "יען",
+      "gloss": "bangod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "naglapas"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ang pungsod"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini nga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akon kasugtanan"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "akon kasugtanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ginsogo ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ila mga kag-anak"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ila mga kag-anak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "magpatuman"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "sa akon tingog"
+    }
+  ],
+  "timestamp": "2026-09-21T17:46:38.858411013Z",
+  "model": "glm-5.3"
+}

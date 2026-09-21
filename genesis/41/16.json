@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 41,
+  "translation": "Kag nasabat si Yosef ⟨את⟩ kay Paro, nga nagaingon: Kon indi ako ⟨⟩, si Elohim ang magasabat ⟨את⟩ sang kappay ni Paro.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "kag nasabat"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "kon indi ako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ang magasabat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang kappay ni Paro"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sang kappay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    }
+  ],
+  "timestamp": "2026-09-21T16:14:39.477940664Z",
+  "model": "glm-5.3"
+}

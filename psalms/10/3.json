@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kay ang madauton nagapadayaw sang handom sang iya kaugalingon, kag ang makinabuhi sa pangawat nagapakamaayo bisan nga iya gintuya si Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "nagapadayaw"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ang madauton"
+    },
+    {
+      "surface": "על",
+      "gloss": "sang"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "handom"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "iya kaugalingon"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "ang makinabuhi sa pangawat"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "nagapakamaayo"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "gintuya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:02.956891015Z",
+  "model": "glm-5.3"
+}

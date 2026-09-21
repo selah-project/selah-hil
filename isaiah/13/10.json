@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 13:10",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kay ang mga bitoon sang mga langit kag ang ila mga pundok sang mga bitoon indi magasiga sang ila suga; nagkadulom ang adlaw sa iya paggwa, kag ang bulan indi magapasiga sang iya suga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "ang mga bitoon"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sang mga langit"
+    },
+    {
+      "surface": "וכסיליהם",
+      "gloss": "kag ang ila mga pundok sang mga bitoon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יהלו",
+      "gloss": "magasiga"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "sang ila suga"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "nagkadulom"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "sa iya paggwa"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "kag ang bulan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "magapasiga"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "sang iya suga"
+    }
+  ],
+  "timestamp": "2026-09-21T22:30:36.192807605Z",
+  "model": "glm-5.3"
+}

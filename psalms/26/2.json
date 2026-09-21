@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Sulayi ako, Yahweh, kag timbangi ako; linawi ang akon mga lapay kag ang akon kasingkasing.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "sulayi ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "kag timbangi ako"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "linawi"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "ang akon mga lapay"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "kag ang akon kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:35.271564683Z",
+  "model": "glm-5.3"
+}

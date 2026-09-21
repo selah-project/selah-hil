@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 68,
+  "translation": "Ang Elohim nagapapuyo sang mga solo sa balay, nagaguwa sang mga preso sa kaayuan; apang lamang ang mga rebolto nagapuyo sa malang nga duta.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Ang Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "nagapapuyo"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "sang mga solo"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "nagaguwa"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "sang mga preso"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "sa kaayuan"
+    },
+    {
+      "surface": "אך",
+      "gloss": "apang lamang"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "ang mga rebolto"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "nagapuyo"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "sa malang nga duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:04.875721027Z",
+  "model": "glm-5.3"
+}

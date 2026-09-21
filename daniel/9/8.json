@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Yahweh, sa amon ang kaulaw sang dagway, sa amon mga hari, sa amon mga pangulo kag sa amon mga kag-anak, kay nagpakasala kami sa imo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "ang kaulaw"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "sang dagway"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "sa amon mga hari"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "sa amon mga pangulo"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "kag sa amon mga kag-anak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "nagpakasala kami"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T21:37:45.408293814Z",
+  "model": "glm-5.3"
+}

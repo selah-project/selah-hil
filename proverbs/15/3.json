@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Sa tanan nga duog ara ang mga mata ni Yahweh, nga nagatamod sa mga malain kag sa mga maayo.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Sa tanan"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nga duog"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang mga mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "nga nagatamod"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "sa mga malain"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "kag sa mga maayo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:59:55.134827445Z",
+  "model": "glm-5.3"
+}

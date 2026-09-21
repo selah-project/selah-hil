@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 54,
+  "translation": "Kay mga taga-layo nagtindog laban sa akon, kag mga mapintas nagpangita sang akon kalag; wala nila ginbutang ang Elohim sa ila atubangan. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "mga taga-layo"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "nagtindog"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "laban sa akon"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "kag mga mapintas"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "nagpangita"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sang akon kalag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nila ginbutang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "sa ila atubangan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:42.563208767Z",
+  "model": "glm-5.3"
+}

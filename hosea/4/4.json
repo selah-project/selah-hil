@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Bisan pa, ang tawo — indi maglalis, kag indi magtudlo ⟨sa⟩ tawo; kag ang imo nga katawhan ⟨pareho⟩ sang mga nagalabilis sa pari.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "bisan pa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "maglalis"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "magtudlo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "kag ang imo nga katawhan"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "sang mga nagalabilis"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "sa pari"
+    }
+  ],
+  "timestamp": "2026-09-21T20:04:37.181256262Z",
+  "model": "glm-5.3"
+}

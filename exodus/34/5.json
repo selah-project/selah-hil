@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Kag nagpanaog si Yahweh sa panganod kag nagtindog upod sa iya didto kag nagtawag sa ngalan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Kag nagpanaog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "sa panganod"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "kag nagtindog"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "upod sa iya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kag nagtawag"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:36:49.625939400Z",
+  "model": "glm-5.3"
+}

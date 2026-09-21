@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag naghambal ang hari sa ila: Damgo ang akon ginpanaginip, kag nagkabalaka ang akon espiritu sa pagkahibalo ⟨את⟩ sang damgo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag naghambal"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "Damgo"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ang akon ginpanaginip"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "kag nagkabalaka"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ang akon espiritu"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "sa pagkahibalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang damgo"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "sang damgo"
+    }
+  ],
+  "timestamp": "2026-09-21T22:43:44.053579173Z",
+  "model": "glm-5.3"
+}

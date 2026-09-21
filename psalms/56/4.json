@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 56,
+  "translation": "Sa adlaw nga magakahadlok ako, ako magasalig sa imo.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "magakahadlok ako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "magasalig"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:58.836642956Z",
+  "model": "glm-5.3"
+}

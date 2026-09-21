@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag ginkuha ni Nevuzaradan, puno sang mga manugpamatay, ⟨אתם⟩, kag ginpadala niya ⟨אתם⟩ sa hari sang Bavel, sa Rivla.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kag ginkuha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sila (ang mga gidakop)"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "ni Nevuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "puno"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "sang mga manugpamatay"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kag ginpadala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "sang Bavel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "sa Rivla"
+    }
+  ],
+  "timestamp": "2026-09-21T18:52:42.127591868Z",
+  "model": "glm-5.3"
+}

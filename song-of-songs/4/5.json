@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 4:5",
+  "book": "song-of-songs",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Ang imo duha ka suso pareho sang duha ka batang kanding, kaluha sang usa ka gazela, nga nagakagaa sa mga liryo.",
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "duha"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "imo ka suso"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "pareho sang duha"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "batang kanding"
+    },
+    {
+      "surface": "תאומי",
+      "gloss": "kaluha"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "gazela"
+    },
+    {
+      "surface": "הרועים",
+      "gloss": "nagakagaa"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "sa mga liryo"
+    }
+  ],
+  "timestamp": "2026-09-21T21:20:01.150837284Z",
+  "model": "glm-5.3"
+}

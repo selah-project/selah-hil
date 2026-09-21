@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag ginpadasgan sang mga Pelishteo si Shaul kag ang iya mga anak nga lalaki, kag gintama sang mga Pelishteo ⟨את⟩ si Yonatan kag ⟨את⟩ si Avinadav kag ⟨את⟩ si Malki-Shua, mga anak nga lalaki ni Shaul.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "kag ginpadasgan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sang mga Pelishteo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sunod kay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "kag sunod sa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iya mga anak nga lalaki"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "kag gintama"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sang mga Pelishteo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "si Yonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "si Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Malki-Shua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "si Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Shua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    }
+  ],
+  "timestamp": "2026-09-21T21:53:41.951031621Z",
+  "model": "glm-5.3"
+}

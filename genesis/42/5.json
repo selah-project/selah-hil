@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Kag nagsulod ang mga anak nga lalaki sang Yisrel sa pagbakal ⟨sa⟩ tunga sang mga nagasulod, kay may ⟨kagutomon⟩ sa duta sang Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "kag nagsulod"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrel"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "sa pagbakal"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "sang mga nagasulod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "היה",
+      "gloss": "may"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "kagutomon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "sang Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:18:39.149594741Z",
+  "model": "glm-5.3"
+}

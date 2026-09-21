@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 111,
+  "translation": "Ang gahum sang iya mga binuhat ginpahibalo niya sa iya katawhan, sa paghatag sa ila sang minahan sang mga pungsod.",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "Ang gahum"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "sang iya mga binuhat"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ginpahibalo niya"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "sa iya katawhan"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sa paghatag"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "sang minahan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "sang mga pungsod"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:56.260814971Z",
+  "model": "glm-5.3"
+}

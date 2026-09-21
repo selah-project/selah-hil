@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 21:13",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag ginbutang ni David ⟨את⟩ ang mga pulong nga ini sa iya tagipusu-on, kag nahadlok siya sing mabaskog sa atubangan ni Akish, hari sang Gath.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "kag ginbutang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pulong"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ang mga pulong"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "sa iya tagipusu-on"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "kag nahadlok"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sing mabaskog"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sa atubangan sang"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "גת",
+      "gloss": "sang Gath"
+    }
+  ],
+  "timestamp": "2026-09-21T18:07:46.629681634Z",
+  "model": "glm-5.3"
+}

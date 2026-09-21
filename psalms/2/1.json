@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Ngaa nagkagubot ang mga pungsod, kag ang mga katawhan nagahunahuna sang ulaw?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "nagkagubot"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ang mga pungsod"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "kag ang mga katawhan"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "nagahunahuna"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "sang ulaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:23:22.720585184Z",
+  "model": "glm-5.3"
+}

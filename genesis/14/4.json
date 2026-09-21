@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Dose ka tuig sila nagsunod ⟨kay⟩ ⟨את⟩ Khedarlaomer, kag sa ikatlo kag napulo nga tuig sila nanginlagyo.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "duha"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ka napulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sila nagsunod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khedarlaomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Khedarlaomer"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "kag sa ikatlo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kag napulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "nga tuig"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "sila nanginlagyo"
+    }
+  ],
+  "timestamp": "2026-09-21T15:59:49.676028716Z",
+  "model": "glm-5.3"
+}

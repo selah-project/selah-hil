@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag nagbutang si Yahweh sang isa ka dako nga isda sa pagtulon ⟨את⟩ kay Yonah, kag nabuhi si Yonah sa tiyan sang isda tatlo ka adlaw kag tatlo ka gab-i.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "nagbutang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דג",
+      "gloss": "isda"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dako"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "sa pagtulon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag nabuhi"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "si Yonah"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "sa tiyan"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "sang isda"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatlo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ka adlaw"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "kag tatlo"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "ka gab-i"
+    }
+  ],
+  "timestamp": "2026-09-21T20:12:36.602697666Z",
+  "model": "glm-5.3"
+}

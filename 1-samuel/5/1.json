@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag ang mga Pelishteo nagkuha ⟨את⟩ sang kahon sang Elohim kag gindala nila ini halin sa Even ha-Ezer pakadto sa Ashdod.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "kag ang mga Pelishteo"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "nagkuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang kahon"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kahon"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "kag gindala nila ini"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "halin sa Even"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "pakadto sa Ashdod"
+    }
+  ],
+  "timestamp": "2026-09-21T18:00:19.421839180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 12:21",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag gintawag ni Moshe ang tanan nga mga tigulang sang Yisrael kag nagsiling siya sa ila: Gumd-a kamo kag kuhaa ang inyo kaugalingon sang kaban sang karnero tungod sa inyo mga pamilya, kag ihawon ninyo ang Pesach.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "gintawag"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga tigulang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "משכו",
+      "gloss": "Gumd-a kamo"
+    },
+    {
+      "surface": "וקחו",
+      "gloss": "kag kuhaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ang inyo kaugalingon"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sang kaban sang karnero"
+    },
+    {
+      "surface": "למשפחתיכם",
+      "gloss": "tungod sa inyo mga pamilya"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "kag ihawon ninyo"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ang Pesach"
+    }
+  ],
+  "timestamp": "2026-09-21T16:25:44.560343103Z",
+  "model": "glm-5.3"
+}

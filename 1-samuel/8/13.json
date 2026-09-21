@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 8:13",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ⟨את⟩ inyo mga anak nga babae kuwaon niya sa pagpanhugas, kag sa pagpuasa, kag sa pagpadaloya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "inyo mga anak nga babae"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "inyo mga anak nga babae"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "kuwaon niya"
+    },
+    {
+      "surface": "לרקחות",
+      "gloss": "sa pagpanhugas"
+    },
+    {
+      "surface": "ולטבחות",
+      "gloss": "kag sa pagpuasa"
+    },
+    {
+      "surface": "ולאפות",
+      "gloss": "kag sa pagpadaloya"
+    }
+  ],
+  "timestamp": "2026-09-21T17:58:48.849457996Z",
+  "model": "glm-5.3"
+}

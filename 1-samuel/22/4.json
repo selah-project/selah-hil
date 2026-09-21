@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kag ginpahulay niya sila ⟨sa atubangan⟩ sang hari sang Moav ⟨את⟩ ⟨ang nawong⟩, kag nag-estar sila kauban niya sa tanan nga mga adlaw sang pagkabuhi ni Dovid sa kuta.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "Kag ginpahulay niya sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang nawong sang hari sang Moav"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ang nawong"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "sang Moav"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "kag nag-estar sila"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kauban niya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nga mga adlaw"
+    },
+    {
+      "surface": "היות",
+      "gloss": "sang pagkabuhi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni Dovid"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "sa kuta"
+    }
+  ],
+  "timestamp": "2026-09-21T18:09:05.852798045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 104,
+  "translation": "Ginapainum nila ang tanan nga sapat sang kapatagan; ang mga ihalas nga kabayo ginabali ang ila kaguhum.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "ginapainum nila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "nga sapat"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "sang kapatagan"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "ginabali"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "ang mga ihalas nga kabayo"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "ang ila kaguhum"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:48.514323997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Kag indi mangin pareho sang ila mga amay — isa ka kaliwatan nga masukihon kag mapalagiton, isa ka kaliwatan nga wala nakaandam ang iya kasingkasing, kag wala mapigar sa ⟨את⟩ El ang iya espiritu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "mangin"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "pareho sang ila mga amay"
+    },
+    {
+      "surface": "דור",
+      "gloss": "kaliwatan"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "masukihon"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "kag mapalagiton"
+    },
+    {
+      "surface": "דור",
+      "gloss": "kaliwatan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "nakaandam"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "iya kasingkasing"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "mapigar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "iya espiritu"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:10.743816050Z",
+  "model": "glm-5.3"
+}

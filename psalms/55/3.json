@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 55,
+  "translation": "Pamati sa akon kag sabti ako; nagalagaw-lagaw ako sa akon pagpanulsul kag magahuni ako.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Pamati"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "kag sabti ako"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "nagalagaw-lagaw ako"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "sa akon pagpanulsul"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "kag magahuni ako"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:32.082541774Z",
+  "model": "glm-5.3"
+}

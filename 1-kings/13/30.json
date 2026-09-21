@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag ginpahigda niya ⟨את⟩ ang iya minatay sa iya lolotchanan, kag nangpanaghoy sila sa iya: Hoy, akon utod!",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "Kag ginpahigda niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya minatay"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "ang iya minatay"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "sa iya lolotchanan"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "kag nangpanaghoy sila"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Hoy"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "akon utod"
+    }
+  ],
+  "timestamp": "2026-09-21T18:33:59.504767124Z",
+  "model": "glm-5.3"
+}

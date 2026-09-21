@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Nagapakadto sa habagatan kag nagalibot sa amihan; nagalibot, nagalibot nga nagalakat ang hangin, kag sa iya mga palibot nagablik ang hangin.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "nagapakadto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "habagatan"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "kag nagalibot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "amihan"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "nagalibot"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "nagalibot"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "nagalakat"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ang hangin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "iya mga palibot"
+    },
+    {
+      "surface": "שב",
+      "gloss": "nagablik"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ang hangin"
+    }
+  ],
+  "timestamp": "2026-09-21T21:25:59.109041228Z",
+  "model": "glm-5.3"
+}

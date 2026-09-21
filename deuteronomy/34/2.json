@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Kag ⟨את⟩ ang tanan ⟨nga teritoryo⟩ sang Naftali, kag ⟨את⟩ ang duta sang Efraim kag sang Menashe, kag ⟨את⟩ ang tanan nga duta sang Yehudah, tubtob sa dagat sa katapusan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan sang Naftali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "sang Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang duta sang Efraim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "sang Efraim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "kag sang Menashe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan nga duta sang Yehudah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nga duta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob sa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "sa katapusan"
+    }
+  ],
+  "timestamp": "2026-09-21T17:33:30.846611332Z",
+  "model": "glm-5.3"
+}

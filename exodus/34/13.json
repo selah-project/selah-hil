@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "kay ⟨את⟩ ila mga halaran pagpagun-obon ninyo, kag ⟨את⟩ ila mga haligi pagpangutyaron ninyo, kag ⟨את⟩ iya mga Asherah pagputolon ninyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ila mga halaran"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "ila mga halaran"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "pagpagun-obon ninyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ila mga haligi"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "ila mga haligi"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "pagpangutyaron ninyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga Asherah"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "iya mga Asherah"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "pagputolon ninyo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:35:53.067640091Z",
+  "model": "glm-5.3"
+}

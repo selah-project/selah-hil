@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 64,
+  "translation": "nga gintalim nila nga pareho sang espada ang ila dila, gintuyang nila ang ila palaso — ⟨isa ka⟩ mapait nga pulong;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "gintalim nila"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "nga pareho sang espada"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ang ila dila"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "gintuyang nila"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "ang ila palaso"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "מר",
+      "gloss": "mapait"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:15.654928979Z",
+  "model": "glm-5.3"
+}

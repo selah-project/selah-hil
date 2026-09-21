@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 131,
+  "translation": "Magapaabot ang Yisrael kay Yahweh, subong kag hangtod sa dayon.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Magapaabot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "subong"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag hangtod sa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:10.905384256Z",
+  "model": "glm-5.3"
+}

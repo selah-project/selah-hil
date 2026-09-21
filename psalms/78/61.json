@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 78:61",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "kag gintugyan sa pagkabihag ⟨את⟩ iya kusog, kag ⟨את⟩ iya himaya sa kamot sang kaaway",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "gintugyan"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "sa pagkabihag"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "iya kusog"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "kag iya himaya"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sang kaaway"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:25.101166799Z",
+  "model": "glm-5.3"
+}

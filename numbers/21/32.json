@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag ginpakadto ni Moshe ⟨mga tawo⟩ sa pagpanimodmod ⟨את⟩ ang Yaezer, kag ginkuha nila ang iya mga baryo, kag ginpalayas nila ⟨את⟩ ang Emori nga didto sa sina.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Kag ginpakadto"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "sa pagpanimodmod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yaezer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "ang Yaezer"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "kag ginkuha nila"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "ang iya mga baryo"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "kag ginpalayas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ang Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto sa sina"
+    }
+  ],
+  "timestamp": "2026-09-21T17:09:43.310766323Z",
+  "model": "glm-5.3"
+}

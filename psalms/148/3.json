@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 148,
+  "translation": "Dayawon ninyo siya, adlaw kag bulan; dayawon ninyo siya, tanan nga mga bituon sang sanag.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Dayawon ninyo siya"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "kag bulan"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "dayawon ninyo siya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "mga bituon"
+    },
+    {
+      "surface": "אור",
+      "gloss": "sang sanag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:30.466074945Z",
+  "model": "glm-5.3"
+}

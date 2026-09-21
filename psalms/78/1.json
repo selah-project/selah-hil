@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Pagtulun-an ni Asaf: Pamatia, akon katawhan, ang akon Torah; ibangga kamo ang inyo mga igpon-pamati sa mga pulong sang akon baba.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Pagtulun-an"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ni Asaf"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "Pamatia"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "akon katawhan"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "ang akon Torah"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "ibangga kamo"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "ang inyo mga igpon-pamati"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "sa mga pulong"
+    },
+    {
+      "surface": "פי",
+      "gloss": "sang akon baba"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:47.921236972Z",
+  "model": "glm-5.3"
+}

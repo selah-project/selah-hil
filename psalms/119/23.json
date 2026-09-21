@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Bisan ang mga pangulo naglingkod kag naghambal ⟨sing malain⟩ batok sa akon, ang imo sulogon nagahunahuna sa imo mga pagtultad.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Bisan"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "naglingkod"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "mga pangulo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "naghambal"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ang imo sulogon"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "nagahunahuna"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "sa imo mga pagtultad"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:36.638475117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 147:19",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 147,
+  "translation": "Ginapahibalo niya ang iya pulong kay Yaakov, ang iya mga kasuguan kag ang iya mga paghukom kay Yisrael.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "Ginapahibalo niya"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ang iya pulong"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kay Yaakov"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "ang iya mga kasuguan"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "kag ang iya mga paghukom"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kay Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:22.773204631Z",
+  "model": "glm-5.3"
+}

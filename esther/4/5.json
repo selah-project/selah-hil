@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 4:5",
+  "book": "esther",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag gintawag ni Ester si Hatakh, isa sa mga sarilyado sang hari, nga iya ginpatindog sa iya atubangan, kag gintugoan niya siya parte kay Mordekhai, agod masayud ano ini kag ano ang kabangdanan sini.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "kag gintawag"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "si Ester"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "kay Hatakh"
+    },
+    {
+      "surface": "מסריסי",
+      "gloss": "sa mga sarilyado"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "ginpatindog"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "sa iya atubangan"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "kag gintugoan siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "parte kay"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "agod masayud"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag parte sa ano"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-21T21:30:04.935387136Z",
+  "model": "glm-5.3"
+}

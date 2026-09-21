@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag ginkuha ni Yitro, ugangan ni Moshe, ⟨את⟩ si Tzipora, asawa ni Moshe, human nga ginpadala siya guli.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ginkuha"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "ni Yitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ugangan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Tzipora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "si Tzipora"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "human"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "nga ginpadala siya guli"
+    }
+  ],
+  "timestamp": "2026-09-21T16:28:54.885355109Z",
+  "model": "glm-5.3"
+}

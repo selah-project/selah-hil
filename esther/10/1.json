@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag ginpatabug sang hari nga si Achashverosh ang buhis ⟨sa⟩ duta kag ⟨sa⟩ mga isla sang dagat.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ginpatabug"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "nga si Achashverosh"
+    },
+    {
+      "surface": "מס",
+      "gloss": "buhis"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "kag mga isla"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sang dagat"
+    }
+  ],
+  "timestamp": "2026-09-21T21:30:40.702426001Z",
+  "model": "glm-5.3"
+}

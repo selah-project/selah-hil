@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Kag himoon mo ang mga bisti nga balaan kay Ahron, imo utod, para sa himaya kag para sa katahum.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "kag himoon mo"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ang mga bisti"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nga balaan"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kay Ahron"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "imo utod"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "para sa himaya"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "kag para sa katahum"
+    }
+  ],
+  "timestamp": "2026-09-21T16:33:25.884269548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 59,
+  "translation": "Kag magabalik sila sa kagabhion, magahuni sila subong sang iro, kag magalibot-libot sila sa palibot sang dakbanwa.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "kag magabalik sila"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "sa kagabhion"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "magahuni sila"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "subong sang iro"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "kag magalibot-libot sila"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "sa palibot sang dakbanwa"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:39.971333974Z",
+  "model": "glm-5.3"
+}

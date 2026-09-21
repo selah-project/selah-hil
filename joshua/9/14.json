@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag ginkuha sang mga tawo sang ila pagkaon, kag ⟨את⟩ baba ni Yahweh wala nila ginpangayo.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "kag ginkuha"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "sang mga tawo"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "sang ila pagkaon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "baba ni Yahweh"
+    },
+    {
+      "surface": "פי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "nila ginpangayo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:36:48.813619853Z",
+  "model": "glm-5.3"
+}

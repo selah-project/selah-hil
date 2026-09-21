@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 49,
+  "translation": "Magakadto siya sa duty sang iya mga amay; hasta sa dayon indi gid nila makita ang suga.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "magakadto"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "דור",
+      "gloss": "duty"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "iya mga amay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta sa"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "dayon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "makita"
+    },
+    {
+      "surface": "אור",
+      "gloss": "suga"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:02.672978027Z",
+  "model": "glm-5.3"
+}

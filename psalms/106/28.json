@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 106:28",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 106,
+  "translation": "Kag nagdungan sila kay Baal-Peor, kag nangaon sang mga halad sang mga minatay.",
+  "tokens": [
+    {
+      "surface": "ויצמדו",
+      "gloss": "kag nagdungan sila"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "kay Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "kag nangaon sila"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "sang mga halad"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "sang mga minatay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:57.286715605Z",
+  "model": "glm-5.3"
+}

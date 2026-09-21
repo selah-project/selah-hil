@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "mga bato sang shoham kag mga bato nga paglatagon para sa ephod kag para sa khoshen",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "sang shoham"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "kag mga bato"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "nga paglatagon"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "para sa ephod"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "kag para sa khoshen"
+    }
+  ],
+  "timestamp": "2026-09-21T16:31:35.298664087Z",
+  "model": "glm-5.3"
+}

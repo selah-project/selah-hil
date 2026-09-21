@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag magaalagad kamo ⟨kang⟩ ⟨את⟩ Yahweh nga Elohim ninyo, kag iya pag pakamaayo ang ⟨את⟩ imo tinapay kag ang ⟨את⟩ imo tubig, kag kuhaon ko ang sakit tungod sa tunga ninyo.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "magaalagad kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "nga Elohim ninyo"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "kag iya pag pakamaayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imo tinapay"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "imo tinapay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "imo tubig"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "imo tubig"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "kag kuhaon ko"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "ang sakit"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "tungod sa tunga ninyo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:30:13.249253099Z",
+  "model": "glm-5.3"
+}

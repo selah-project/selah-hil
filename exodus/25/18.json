@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag himoa mo ang duha ka kerubim nga bulawan, hinarasan nga buhat himuon mo ang ⟨אתם⟩ sa duha ka katapusan sang takop.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "kag himoa mo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "hinarasan nga buhat"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "himuon mo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ang duha ka kerubim"
+    },
+    {
+      "surface": "משני",
+      "gloss": "sa duha ka"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "katapusan"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "sang takop"
+    }
+  ],
+  "timestamp": "2026-09-21T16:32:37.370111416Z",
+  "model": "glm-5.3"
+}

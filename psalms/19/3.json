@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Ang adlaw sa adlaw nagabuhos sang pulong, kag ang gab-i sa gab-i nagapakita sang kaalaman.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Ang adlaw"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "nagabuhos"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sang pulong"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "kag ang gab-i"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "sa gab-i"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "nagapakita"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "sang kaalaman"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:48.190830397Z",
+  "model": "glm-5.3"
+}

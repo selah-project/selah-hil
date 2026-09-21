@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 1:26",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nagsiling ang Elohim: Maghimo kita sang tawo sa aton hulagway, sunô sa aton kaanggid; kag magahari sila sa mga isda sang dagat kag sa mga pispis sang langit kag sa mga sapat nga atipan kag sa tanan nga duta kag sa tanan nga nagakamang nga nagakamang sa ibabaw sang duta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "maghimo kita"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "בצלמנו",
+      "gloss": "sa aton hulagway"
+    },
+    {
+      "surface": "כדמותנו",
+      "gloss": "sunô sa aton kaanggid"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "kag magahari sila"
+    },
+    {
+      "surface": "בדגת",
+      "gloss": "sa mga isda"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sang dagat"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "kag sa mga pispis"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sang langit"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "kag sa mga sapat nga atipan"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "kag sa tanan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nga duta"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "kag sa tanan"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "nga nagakamang"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "nga nagakamang"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T15:55:58.734767058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 99,
+  "translation": "Naghari si Yahweh — magakurog ang mga pungsod; ang nagaatungod sa mga kerub, magayugo ang duta.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "magakurog"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ang mga pungsod"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ang nagaatungod"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "sa mga kerub"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "magayugo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:45.336845916Z",
+  "model": "glm-5.3"
+}

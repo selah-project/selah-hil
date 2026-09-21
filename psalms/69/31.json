@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 69,
+  "translation": "Pagadayawon ko ang ngalan sang Elohim sa pag-amba, kag dadalagkuon ko siya sa pagpasalamat.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "pagadayawon ko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang ngalan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "sa pag-amba"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "kag dadalagkuon ko siya"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "sa pagpasalamat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:48.667658328Z",
+  "model": "glm-5.3"
+}

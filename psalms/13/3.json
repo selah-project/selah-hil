@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Tubtob kanus-a ibutang ko ang mga huna-huna sa akon kalag, kag kadunguan sa akon kasingkasing adlaw-adlaw? Tubtob kanus-a magataas ang akon manugdumput sa akon?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kanus-a"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ibutang ko"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "mga huna-huna"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "sa akon kalag"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "kadunguan"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "sa akon kasingkasing"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "adlaw-adlaw"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kanus-a"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "magataas"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "akon manugdumput"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:05.131983264Z",
+  "model": "glm-5.3"
+}

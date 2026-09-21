@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 18:30",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "kag indi ninyo pagtugutan nga pagtuoan kamo ni Khizkiyahu kay Yahweh, sa pagsiling nga, Luwason gayod nga luwason kami ni Yahweh, kag indi mahatag ⟨את⟩ ang ina nga lungsod sa kamot sang hari sang Ashur.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "kag indi ninyo pagtugutan"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "pagtuoan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ni Khizkiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sa pagsiling nga"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "Luwason gayod"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "nga luwason kami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "mahatag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ina nga lungsod"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang lungsod"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ina"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sang Ashur"
+    }
+  ],
+  "timestamp": "2026-09-21T18:49:06.678633334Z",
+  "model": "glm-5.3"
+}

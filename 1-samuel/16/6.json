@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag sang dumating sila, nakita niya ⟨את⟩ si Eliav kag nagsiling: Siguro sa atubangan ni Yahweh ang iya Mesiyas.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kag sang"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "dumating sila"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nakita niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Eliav"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Siguro"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "iya Mesiyas"
+    }
+  ],
+  "timestamp": "2026-09-21T18:03:36.716664653Z",
+  "model": "glm-5.3"
+}

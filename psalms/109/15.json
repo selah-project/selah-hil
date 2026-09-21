@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 109,
+  "translation": "Magpabilin sila sa atubang ni Yahweh sing padayon, agod putlon niya gikan sa duta ang ila handumandan.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Magpabilin sila"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "sa atubang sang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "padayon"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "kag putlon"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa duta"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ila handumandan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:19.277950300Z",
+  "model": "glm-5.3"
+}

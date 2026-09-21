@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 75,
+  "translation": "Indi kamo magpatindog sa kaitaas ang inyo mga sungay; indi kamo maghambal sing kapalubogan sa liog.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "magpatindog"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "sa kaitaas"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "ang inyo mga sungay"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "maghambal"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "sa liog"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "sing kapalubogan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:41.324112749Z",
+  "model": "glm-5.3"
+}

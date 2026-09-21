@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 77,
+  "translation": "Ginkaptan mo ang mga talukhaban sang akon mga mata; nagakurog ako kag indi ako makahambal.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "ginkaptan mo"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "ang mga talukhaban"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sang akon mga mata"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "nagakurog ako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "akahambal"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:56.351209942Z",
+  "model": "glm-5.3"
+}

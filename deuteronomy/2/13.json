@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Subong, tumindog kamo kag tabuki ninyo ⟨את⟩ sang suba sang Zered; kag gintabuk namon ⟨את⟩ ang suba sang Zered.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "subong"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "tumindog kamo"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "kag tabuki ninyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang suba sang Zered"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "sang suba"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "sang Zered"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "kag gintabuk namon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang suba sang Zered"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ang suba"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "sang Zered"
+    }
+  ],
+  "timestamp": "2026-09-21T17:17:09.767854018Z",
+  "model": "glm-5.3"
+}

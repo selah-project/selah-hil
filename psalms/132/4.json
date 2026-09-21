@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 132,
+  "translation": "kon magahatag ako sang tulog sa akon mga mata, sa akon mga pilik-mata — katorog;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "magahatag ako"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "sang tulog"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "sa akon mga mata"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "sa akon mga pilik-mata"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "katorog"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:23.238755273Z",
+  "model": "glm-5.3"
+}

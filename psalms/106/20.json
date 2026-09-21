@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 106,
+  "translation": "Kag gin-ilisan nila ⟨את⟩ ang ila himaya sang porma sang isa ka baka nga nangaon sang balili.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "kag gin-ilisan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ila himaya"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "ang ila himaya"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "sang porma sang"
+    },
+    {
+      "surface": "שור",
+      "gloss": "isa ka baka"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nga nangaon"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "sang balili"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:45.723038578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Magbalik sa akon ang mga nagahadlok sa imo, kag makibalo sila sang imo mga pagsaksi.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "magbalik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "ang mga nagahadlok sa imo"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "kag makibalo sila"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "imo mga pagsaksi"
+    }
+  ],
+  "timestamp": "2026-09-21T20:50:47.235651972Z",
+  "model": "glm-5.3"
+}

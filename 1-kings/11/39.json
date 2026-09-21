@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag pagapasakiton ko ⟨את⟩ ang kaliwat ni David tungod sini, apang indi sa tanan nga mga adlaw.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "Kag pagapasakiton ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kaliwat ni David"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kaliwat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sini"
+    },
+    {
+      "surface": "אך",
+      "gloss": "apang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "nga mga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T18:32:35.975123379Z",
+  "model": "glm-5.3"
+}

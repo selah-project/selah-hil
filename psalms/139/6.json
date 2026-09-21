@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 139,
+  "translation": "Pinalangiton ang imo kahibalo, labaw pa sa akon; mataas ini, indi ko ini makaya.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "pinalangiton"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ang imo kahibalo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "labaw pa sa akon"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "mataas ini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ko ini makaya"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:48.367081079Z",
+  "model": "glm-5.3"
+}

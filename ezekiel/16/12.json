@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 16:12",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "kag gintimo ko singsing sa imo ilong kag mga arkohas sa imo mga dunggan kag putong sang katahum sa imo ulo",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "kag gintimo ko"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "singsing"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "imo ilong"
+    },
+    {
+      "surface": "ועגילים",
+      "gloss": "kag mga arkohas"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "imo mga dunggan"
+    },
+    {
+      "surface": "ועטרת",
+      "gloss": "kag putong"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "sang katahum"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "sa imo ulo"
+    }
+  ],
+  "timestamp": "2026-09-21T22:34:55.414594527Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Sa imo kamot ginsaligay ko ang akon espiritu; ginpangbayad mo ako, Yahweh, El sang kamatuoran.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "sa imo kamot"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "ginsaligay ko"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ang akon espiritu"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "ginpangbayad mo"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sang kamatuoran"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:26.891262737Z",
+  "model": "glm-5.3"
+}

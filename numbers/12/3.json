@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag ang tawo nga si Moshe mapainubuson gid sang madamo, labaw sa tanan nga tawo nga ⟨yara⟩ sa ibabaw sang nawong sang duta.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "Kag ang tawo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "mapainubuson"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gid sang madamo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "labaw sa tanan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "nga tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nawong"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T17:05:55.388222978Z",
+  "model": "glm-5.3"
+}

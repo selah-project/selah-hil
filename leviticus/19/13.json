@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Indi ⟨mo⟩ pagpanikason ⟨את⟩ ang imo kaabay, kag indi ⟨mo⟩ paggakodon; ang bayad sang sinulugoon indi pagpatilipoton ⟨sa imo⟩ tubtub ka aga.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "pagpanikason"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imo kaabay"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "imo kaabay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "paggakodon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "pagpatilipoton"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "bayad"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "sang sinulugoon"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "sa imo ⟨את⟩",
+      "marks": "ang bayad sang sinulugoon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtub"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ka aga"
+    }
+  ],
+  "timestamp": "2026-09-21T16:52:22.553390982Z",
+  "model": "glm-5.3"
+}

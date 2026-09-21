@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Kag nagpangita si Shaul kay Yahweh, kag wala siya simbahan ni Yahweh — bisan sa mga damgo, bisan sa mga Urim, bisan sa mga manalagna.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Kag nagpangita"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "simbahan siya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bisan sa"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "mga damgo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bisan sa"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "mga Urim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bisan sa"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "mga manalagna"
+    }
+  ],
+  "timestamp": "2026-09-21T18:11:58.389356766Z",
+  "model": "glm-5.3"
+}

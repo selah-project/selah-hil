@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Isugid ko ang imo Ngalan sa akon mga utod; sa tunga sang katipunan pagadayawon ikaw.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "isugid ko"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ang imo Ngalan"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "sa akon mga utod"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "sang katipunan"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "pagadayawon ikaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:02.044229672Z",
+  "model": "glm-5.3"
+}

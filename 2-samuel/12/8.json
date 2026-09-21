@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "kag gintugyan ko sa imo ⟨את⟩ ang balay sang imo agalon, kag ⟨את⟩ ang mga asawa sang imo agalon sa imo dughan, kag gintugyan ko sa imo ⟨את⟩ ang balay sang Yisrael kag sang Yehudah; kag kon madti, magdugang pa ako sa imo sini kag sini.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "kag gintugyan ko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay sang imo agalon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "sang imo agalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga asawa sang imo agalon"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "ang mga asawa"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "sang imo agalon"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "sa imo dughan"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "kag gintugyan ko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay sang Yisrael kag Yehudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "kag sang Yehudah"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "madti"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "magdugang"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "sini"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "kag sini"
+    }
+  ],
+  "timestamp": "2026-09-21T18:17:56.019399982Z",
+  "model": "glm-5.3"
+}

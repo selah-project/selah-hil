@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 10:11",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag ang barko man ni Hiram, nga nagdala sang bulawan gikan sa Ofir, nagdala gikan sa Ofir sang mga kahoy sang almug nga madamo sing labi, kag sang bato nga bilog.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kag man"
+    },
+    {
+      "surface": "אני",
+      "gloss": "barko"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ni Hiram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nagdala"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "מאופיר",
+      "gloss": "gikan sa Ofir"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "nagdala"
+    },
+    {
+      "surface": "מאפיר",
+      "gloss": "gikan sa Ofir"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mga kahoy"
+    },
+    {
+      "surface": "אלמגים",
+      "gloss": "almug"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "nga madamo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sing labi"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "kag bato"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "nga bilog"
+    }
+  ],
+  "timestamp": "2026-09-21T18:30:36.609164693Z",
+  "model": "glm-5.3"
+}

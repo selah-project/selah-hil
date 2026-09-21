@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "kag ⟨את⟩ Tsorah kag ⟨את⟩ Ayalon kag ⟨את⟩ Khevron, nga ara sa Yehudah kag sa Binyamin, mga siyudad nga pinatig-ong.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Tsorah"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsorah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Khevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khevron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "kag sa Binyamin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga siyudad"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "nga pinatig-ong"
+    }
+  ],
+  "timestamp": "2026-09-21T22:02:58.096848008Z",
+  "model": "glm-5.3"
+}

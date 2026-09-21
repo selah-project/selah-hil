@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag ⟨את⟩ iya halad sang sala idadala kay Yahweh — isa ka carnero nga taman-anan halin sa mga karnero, suno sa imo pagbana-bana, bilang halad sang sala — sa saserdote.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya halad sang sala"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "iya halad sang sala"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "idadala"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "איל",
+      "gloss": "isa ka carnero"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "nga taman-anan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "halin"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "sa mga karnero"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "suno sa imo pagbana-bana"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "bilang halad sang sala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "saserdote"
+    }
+  ],
+  "timestamp": "2026-09-21T16:42:37.130927641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Sin-o ang tawo nga gapahuwo sang kabuhi, gapalangga sang mga adlaw, agod makakita sang maayo?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "nga gapahuwo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kabuhi"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "gapalangga"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga adlaw"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "agod makakita"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:17.818352145Z",
+  "model": "glm-5.3"
+}

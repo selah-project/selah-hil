@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag ibutang ko ang akon dagway batok sa tawo nga ina kag sa iya banwa, kag putlon ko siya, kag ⟨את⟩ tanan nga nagapangabaybay suno sa iya, sa pagpangabaybay suno sa Molekh, tunga sang ila katawhan.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "kag ibutang"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon dagway"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ang akon dagway"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nga ina"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "kag sa iya banwa"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "kag putlon ko"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga nagapangabaybay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "nga nagapangabaybay"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "suno sa iya"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "sa pagpangabaybay"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "suno sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Molekh"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "tunga sang"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ila katawhan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:53:00.316838450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag gintbutang nila ⟨את⟩ ang mga taba sa mga dughan, kag ginpainit niya ang mga taba sa halaran.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "kag gintbutang nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga taba"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "ang mga taba"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "mga dughan"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "kag ginpainit niya"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "ang mga taba"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa halaran"
+    }
+  ],
+  "timestamp": "2026-09-21T16:45:51.443266670Z",
+  "model": "glm-5.3"
+}

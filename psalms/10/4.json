@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Ang madauton, tungod sa kahambugan sang iya nawong, wala nagapangita; 'Wala sing Elohim' — amo ini ang tanan niya nga mga plano.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "ang madauton"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "tungod sa kahambugan"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "sang iya nawong"
+    },
+    {
+      "surface": "בל",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "nagapangita"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala sing"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "niya nga mga plano"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:02.957128006Z",
+  "model": "glm-5.3"
+}

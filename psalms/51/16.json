@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 51,
+  "translation": "Luwasi ako sa mga dugo, Elohim, Elohim sang akon kaluwasan, kag magakanta ang akon dila sang imo pagkamatarong.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "luwasi ako"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "sa mga dugo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim sang"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "akon kaluwasan"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "magakanta"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "akon dila"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "imo pagkamatarong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:09.419592260Z",
+  "model": "glm-5.3"
+}

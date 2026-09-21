@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag naglakat siya kag ginhimo niya suno sa pulong ni Eliyahu, kag nangaon siya kag siya kag ang iya balay, ⟨mga⟩ adlaw.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "kag naglakat siya"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "kag ginhimo"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "suno sa pulong"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ni Eliyahu"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "kag nangaon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya (si Eliyahu)"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "kag siya (ang babae)"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "kag ang iya balay"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T18:35:26.123230687Z",
+  "model": "glm-5.3"
+}

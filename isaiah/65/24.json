@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 65:24",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 65,
+  "translation": "Kag matabo ini: samtang wala pa sila magpanawag, ako ang magasabat; samtang ginahambal pa nila, ako ang makabati.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kag matabo ini"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "samtang wala pa"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "magpanawag sila"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ang magasabat"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "ginahambal"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ang makabati"
+    }
+  ],
+  "timestamp": "2026-09-21T19:14:07.989384006Z",
+  "model": "glm-5.3"
+}

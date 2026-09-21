@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Ang kasing-kasing sang maalam ⟨ara⟩ sa iya tuo, kag ang kasing-kasing sang buang sa iya wala.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "kasing-kasing"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "maalam"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "sa iya tuo"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "kag ang kasing-kasing"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "buang"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "sa iya wala"
+    }
+  ],
+  "timestamp": "2026-09-21T21:27:03.124937320Z",
+  "model": "glm-5.3"
+}

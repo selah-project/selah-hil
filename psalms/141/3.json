@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 141,
+  "translation": "Ibutang mo, Yahweh, sang bantay sa akon baba; bantayi ang ganghaan sang akon bibig.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Ibutang mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "sang bantay"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sa akon baba"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "bantayi"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ang ganghaan"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "sang akon bibig"
+    }
+  ],
+  "timestamp": "2026-09-21T22:40:22.831031996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag natabo, sang madamo na ang pagpangamuyo sa atubang sang Yahweh, nga si Eli nagbantay ⟨את⟩ sang iya baba.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kag natabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sang"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "madamo na"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "ang pagpangamuyo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubang sang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "nga si Eli"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nagbantay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang iya baba"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "iya baba"
+    }
+  ],
+  "timestamp": "2026-09-21T17:57:01.342228222Z",
+  "model": "glm-5.3"
+}

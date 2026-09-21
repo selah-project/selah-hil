@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Indi pagdali-a ang imo espiritu sa pagkadumdog, kay ang kaakgol sa dughan sang mga ulol amo ang nagapahuway.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "pagdali-a"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "ang imo espiritu"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "sa pagkadumdog"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ang kaakgol"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "sa dughan"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "sang mga ulol"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "amo ang nagapahuway"
+    }
+  ],
+  "timestamp": "2026-09-21T21:26:41.817405408Z",
+  "model": "glm-5.3"
+}

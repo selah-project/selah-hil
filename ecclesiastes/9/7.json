@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kadto, kaon sang imo tinapay sing kalipay, kag inom sang imo bino sing maayo nga kasingkasing, kay ang Elohim naka-igo na ⟨את⟩ sang imo mga binuhat.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "kadto"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kaon"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "sing kalipay"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "imo tinapay"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "kag inom"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sing kasingkasing"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "imo bino"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "na"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "naka-igo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imo mga binuhat"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "imo mga binuhat"
+    }
+  ],
+  "timestamp": "2026-09-21T22:43:02.279054498Z",
+  "model": "glm-5.3"
+}

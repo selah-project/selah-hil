@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 4:21",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag nag-akyat siya kag ginpahiga niya siya sa higtanan sang tawo sang Elohim, kag ginsara niya ⟨ang pultahan⟩ sa iya, kag nagguwa siya.",
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "nag-akyat siya"
+    },
+    {
+      "surface": "ותשכבהו",
+      "gloss": "ginpahiga niya siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מטת",
+      "gloss": "higtanan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "ginsara niya"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "nagguwa siya"
+    }
+  ],
+  "timestamp": "2026-09-21T18:40:33.474936428Z",
+  "model": "glm-5.3"
+}

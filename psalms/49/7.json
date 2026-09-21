@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 49,
+  "translation": "Ang mga nagasalig sa ila kabakod, kag sa kadamo sang ila kabtangan nagapadayaw",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "ang mga nagasalig"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "ila kabakod"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "kag sa kadamo"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "sang ila kabtangan"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "nagapadayaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:40.299680218Z",
+  "model": "glm-5.3"
+}

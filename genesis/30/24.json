@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kag gintawag niya ⟨את⟩ ang iya ngalan nga Yosef, nga nagsiling: Magdugang si Yahweh sa akon sing isa pa ka anak nga lalaki.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "kag gintawag niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya ngalan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang iya ngalan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagsiling"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "magdugang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak nga lalaki"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "isa pa"
+    }
+  ],
+  "timestamp": "2026-09-21T22:17:19.603033569Z",
+  "model": "glm-5.3"
+}

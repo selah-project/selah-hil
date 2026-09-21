@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Ginpanikway mo ang kasugtanan sang imo sulugoon; ginpakatanaog mo sa duta ang iya korona.",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "ginpanikway"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ang kasugtanan"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sang imo sulugoon"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "ginpakatanaog \/ ginpanaw-an"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "ang iya korona"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:13.448909294Z",
+  "model": "glm-5.3"
+}

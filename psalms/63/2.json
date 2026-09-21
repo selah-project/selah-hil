@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 63,
+  "translation": "Elohim, El ako ikaw, gapaaga nagapangita ako sa imo; nag-uhaw ang akon kalag sa imo, nagapangandoy ang akon unod sa imo, sa duta nga mamara kag kapoy, nga wala sing tubig.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El ako"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "gapaaga nagapangita ako sa imo"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "nag-uhaw"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "nagapangandoy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ang akon unod"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "nga mamara"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "kag kapoy"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "nga wala sing"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:30.185375110Z",
+  "model": "glm-5.3"
+}

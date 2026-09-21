@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 21:10",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag ang pari nga labaw sa iya mga utod, nga gintakos sa iya ulo ang lana sang paghaplas kag ginpunu ⟨את⟩ ang iya kamot sa pagbakos sang ⟨את⟩ mga bado, ⟨את⟩ ang iya ulo indi niya pagpahuya kag ang iya mga bado indi niya paggisi.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "kag ang pari"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "nga labaw"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "sa iya mga utod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יוצק",
+      "gloss": "gintakos"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "iya ulo"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "sang paghaplas"
+    },
+    {
+      "surface": "ומלא",
+      "gloss": "kag ginpunu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya kamot"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang iya kamot"
+    },
+    {
+      "surface": "ללבש",
+      "gloss": "sa pagbakos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga bado"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "mga bado"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya ulo"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ang iya ulo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יפרע",
+      "gloss": "pagpahuya"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "kag ang iya mga bado"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יפרם",
+      "gloss": "paggisi"
+    }
+  ],
+  "timestamp": "2026-09-21T16:53:01.048312138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 95,
+  "translation": "Dali kamo, magpalangkod kag magduko kamo, magluhod kamo sa atubang ni Yahweh, sang naghimo sa aton.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Dali kamo"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "magpalangkod kag magduko"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "kag magduko"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "magluhod kamo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "naghimo sa aton"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:15.304366891Z",
+  "model": "glm-5.3"
+}

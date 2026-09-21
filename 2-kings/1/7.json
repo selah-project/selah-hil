@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nagpano-ano siya sa ila: Ano ang dagway sang tawo nga nagtungas sa pagtapak sa inyo kag nagpano-ano sa inyo ⟨את⟩ ini nga mga pulong?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kag nagpano-ano siya"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ang dagway"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "nagtungas"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "sa pagtapak sa inyo"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "kag nagpano-ano"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ini nga mga pulong"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ini nga mga pulong"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-21T18:39:33.462012721Z",
+  "model": "glm-5.3"
+}

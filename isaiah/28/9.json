@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "⟨את⟩ Sin-o ang tudluanan sang kahibalo, kag ⟨את⟩ sin-o ang paathagan sang nadunggan? Ang mga ginpahuway gikan sa gatas, ang mga ginkuha gikan sa mga suso.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin-o"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "ang tudluanan"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "sang kahibalo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sin-o"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ang paathagan"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "sang nadunggan"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "ang mga ginpahuway"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "gikan sa gatas"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "ang mga ginkuha"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "gikan sa mga suso"
+    }
+  ],
+  "timestamp": "2026-09-21T19:00:09.606302795Z",
+  "model": "glm-5.3"
+}

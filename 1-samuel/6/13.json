@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 6:13",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag sa Beit-Shemesh nag-ani sila sang ani sang trigo sa kapatagan, kag ginbayaw nila ⟨את⟩ ang ila mga mata kag nakita nila ⟨את⟩ ang arka, kag nagkalipay sila sa pagtan-aw.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Beit-Shemesh"
+    },
+    {
+      "surface": "קצרים",
+      "gloss": "nag-ani"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ani"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "trigo"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "sa kapatagan"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ginbayaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ila mga mata"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ang ila mga mata"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "kag nakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang arka"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ang arka"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "kag nagkalipay"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "sa pagtan-aw"
+    }
+  ],
+  "timestamp": "2026-09-21T17:59:59.306151584Z",
+  "model": "glm-5.3"
+}

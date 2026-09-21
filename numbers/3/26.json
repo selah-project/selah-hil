@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 3:26",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "kag ang mga kurtina sang nataran, kag ⟨את⟩ ang kurtina sang pultahan sang nataran nga ara sa mishkan kag sa halaran sa palibot, kag ⟨את⟩ ang iya mga lubid, para sa tanan nga iya pag-alagad.",
+  "tokens": [
+    {
+      "surface": "וקלעי",
+      "gloss": "kag ang mga kurtina"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "sang nataran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang kurtina"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ang kurtina"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sang pultahan"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "sang nataran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mishkan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya mga lubid"
+    },
+    {
+      "surface": "מיתריו",
+      "gloss": "ang iya mga lubid"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "para sa tanan"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "nga iya pag-alagad"
+    }
+  ],
+  "timestamp": "2026-09-21T16:59:24.170009981Z",
+  "model": "glm-5.3"
+}

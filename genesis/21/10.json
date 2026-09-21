@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag nagsiling siya kay Avraham: Palakwa ining ulipon nga babae kag ⟨את⟩ iya anak, kay indi magapanun-an ang anak sang ulipon nga babae ini kaupod sa akon anak, kaupod kay Yitskhak.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kay Avraham"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "Palakwa"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ulipon nga babae"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya anak"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "iya anak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "magapanun-an"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "sang ulipon nga babae"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod"
+    },
+    {
+      "surface": "בני",
+      "gloss": "akon anak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "kay Yitskhak"
+    }
+  ],
+  "timestamp": "2026-09-21T16:03:19.269383910Z",
+  "model": "glm-5.3"
+}

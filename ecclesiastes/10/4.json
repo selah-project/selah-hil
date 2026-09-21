@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kon ang espiritu sang nagadumala magabayaw sa imo, indi pagbaya sang imo duog; kay ang pagkamalumo magapahunod sang mga dako nga sala.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "espiritu"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "sang nagadumala"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "magabayaw"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "imong duog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "pagbaya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ang pagkamalumo"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "magapahunod"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "mga sala"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "dako"
+    }
+  ],
+  "timestamp": "2026-09-21T21:27:03.125238011Z",
+  "model": "glm-5.3"
+}

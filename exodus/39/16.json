@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 39:16",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 39,
+  "translation": "Kag ginhimo nila ang duha ka inalagyan nga bulawan kag duha ka singsing nga bulawan, kag ginbutang nila ⟨את⟩ ang duha ka mga singsing sa duha ka kanto sang Hoshen.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "kag ginhimo nila"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "inalagyan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "kag duha ka"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "singsing"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "kag ginbutang nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duha ka mga singsing"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "mga singsing"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "kanton"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "sang Hoshen"
+    }
+  ],
+  "timestamp": "2026-09-21T16:40:15.108175768Z",
+  "model": "glm-5.3"
+}

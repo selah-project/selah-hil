@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Kag ang mga anak ni Reuven naghimo ⟨את⟩ sang Kheshbon kag ⟨את⟩ sang Elale kag ⟨את⟩ sang Kiryataim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "kag ang mga anak"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ni Reuven"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "naghimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang Kheshbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "sang Kheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang Elale"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "sang Elale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang Kiryataim"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "sang Kiryataim"
+    }
+  ],
+  "timestamp": "2026-09-21T17:14:22.980649448Z",
+  "model": "glm-5.3"
+}

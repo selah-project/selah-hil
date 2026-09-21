@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Ginadayaw ang tawo nga nagbutang kay Yahweh sang iya pagtoo, kag wala nagliso sa mga mapintas kag sa mga nagapanaog sa bakak.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ginadayaw"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nagbutang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "sang iya pagtoo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "nagliso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "mga mapintas"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "kag sa mga nagapanaog"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "sa bakak"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:45.689924263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 89:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Sadto nga tion naghambal ikaw sa pangita-ita sa imo mga matinud-anon, kag nagsiling: Nagbutang ako sang bulig sa ibabaw sang isa ka makusog, ginpatimwak ko ang isa ka batan-on nga pinili sa mga tawo.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "sadto nga tion"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "naghambal ikaw"
+    },
+    {
+      "surface": "בחזון",
+      "gloss": "sa pangita-ita"
+    },
+    {
+      "surface": "לחסידיך",
+      "gloss": "sa imo mga matinud-anon"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "nagbutang ako"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "sang bulig"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "isa ka makusog"
+    },
+    {
+      "surface": "הרימותי",
+      "gloss": "ginpatimwak ko"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "isa ka batan-on nga pinili"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "sa mga tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:39.900589303Z",
+  "model": "glm-5.3"
+}

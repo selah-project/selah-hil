@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 13:12",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Nagpuyo si Avram sa duta sang Kenaan, kag si Lot nagpuyo sa mga dako sang kapatagan, kag nagtolda tubtob sa Sedom.",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "si Avram"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nagpuyo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "sang Kenaan"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "kag si Lot"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nagpuyo"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "sa mga dako"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "sang kapatagan"
+    },
+    {
+      "surface": "ויאהל",
+      "gloss": "kag nagtolda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "sa Sedom"
+    }
+  ],
+  "timestamp": "2026-09-21T15:59:34.249496170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Ginkuha ni Khanun ⟨את⟩ ang mga sulugoon ni David kag ginahit niya ⟨את⟩ ang katunga sang ila mga barba, kag ginputol niya ⟨את⟩ ila mga bado sa katunga, tubtob sa ila mga lubot, kag ginpadala niya sila magbalik.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ginkuha"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "ni Khanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga sulugoon ni David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga sulugoon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "ginahit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katunga sang ila mga barba"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "katunga"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "ila mga barba"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ginputol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ila mga bado"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "ila mga bado"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "sa katunga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "sa ila mga lubot"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "ginpadala niya sila"
+    }
+  ],
+  "timestamp": "2026-09-21T18:16:05.317471342Z",
+  "model": "glm-5.3"
+}

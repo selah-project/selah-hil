@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 72,
+  "translation": "Magabuhat ang mga bukid sang paghidait sa katawohan, kag ang mga bungtod sang pagkamatarong.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "magabuhat"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ang mga bukid"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sang paghidait"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "sa katawohan"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "kag ang mga bungtod"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "sang pagkamatarong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:03.829410052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 97,
+  "translation": "Magkalipay kamo, mga matarong, kay Yahweh, kag magpasalamat sa handum sang iya pagkabalaan.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "magkalipay kamo"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "mga matarong"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "kag magpasalamat"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "sa handum"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sang iya pagkabalaan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:46.244175589Z",
+  "model": "glm-5.3"
+}

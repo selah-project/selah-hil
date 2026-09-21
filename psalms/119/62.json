@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Sa tungatunga sang gab-i magatindog ako sa pagpasalamat sa imo, tungod sang imo mga matuod nga paghukom.",
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "Sa tungatunga"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "sang gab-i"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "magatindog ako"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "sa pagpasalamat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod sang"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mga ... paghukom"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "imo ... matuod"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:40.649447701Z",
+  "model": "glm-5.3"
+}

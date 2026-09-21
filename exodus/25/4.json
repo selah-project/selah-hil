@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag bughaw, kag purpura, kag ulat nga scarlet, kag malino nga lino, kag buhok sang mga kanding.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "Kag bughaw"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "kag purpura"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "kag ulat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "nga scarlet"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "kag malino nga lino"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "kag buhok sang mga kanding"
+    }
+  ],
+  "timestamp": "2026-09-21T16:32:16.537437820Z",
+  "model": "glm-5.3"
+}

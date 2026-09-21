@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Maayo ang ngalan kaysa sa maayo nga lana, kag ang adlaw sang kamatayon kaysa sa adlaw sang pagkatawo.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "angkan"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "kaysa sa lana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "kag ang adlaw"
+    },
+    {
+      "surface": "המות",
+      "gloss": "sang kamatayon"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "kaysa sa adlaw"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "sang pagkatawo"
+    }
+  ],
+  "timestamp": "2026-09-21T21:27:33.816694037Z",
+  "model": "glm-5.3"
+}

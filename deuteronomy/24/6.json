@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Indi pagkuhaon bilin pagad ang galingan ukon ang ibabaw nga bato sini, kay ang kabuhi ini ang ginakuha bilin pagad.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "pagkuhaon bilin pagad"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "galingan"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "kag ang ibabaw nga bato"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kabuhi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ini"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ginakuha bilin pagad"
+    }
+  ],
+  "timestamp": "2026-09-21T17:28:25.638330466Z",
+  "model": "glm-5.3"
+}

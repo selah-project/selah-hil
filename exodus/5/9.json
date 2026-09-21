@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Magpangbug-at ang pagpangabudlay sa mga tawo, kag himuon nila ini, kag indi sila magpatalabdog sa mga pulong sang bakak.",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "Magpangbug-at"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "ang pagpangabudlay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "kag himuon nila"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "magpatalabdog sila"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "sa mga pulong"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sang bakak"
+    }
+  ],
+  "timestamp": "2026-09-21T16:20:48.658683075Z",
+  "model": "glm-5.3"
+}

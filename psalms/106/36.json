@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 106,
+  "translation": "Kag nag-alagad sila ⟨את⟩ sang ila mga dios-dios, kag nangin isa ka lit-ag ini sa ila.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "kag nag-alagad sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang ila mga dios-dios"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "ila mga dios-dios"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "kag nangin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "isa ka lit-ag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:28.244946857Z",
+  "model": "glm-5.3"
+}

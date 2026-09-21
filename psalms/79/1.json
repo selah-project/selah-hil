@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 79,
+  "translation": "Salmo ni Asaph. Elohim, nagsulod ang mga pungsod sa imo panulundan, ginmarumi nila ⟨את⟩ ang templo sang imo kasantosanan, kag ginhimo nila ⟨את⟩ si Yerushalayim nga mga bun-od.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Salmo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ni Asaph"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nagsulod"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ang mga pungsod"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "sa imo panulundan"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "ginmarumi nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang templo sang imo kasantosanan"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ang templo"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "sang imo kasantosanan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ginhimo nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "si Yerushalayim"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "nga mga bun-od"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:20.930303926Z",
+  "model": "glm-5.3"
+}

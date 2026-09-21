@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 11:9",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "⟨את⟩ Ina ang kaonon ninyo sa tanan nga ara sa tubig: tanan nga may palapa kag kaliskis sa tubig, sa mga dagat kag sa mga suba, ⟨את⟩ sila kaonon ninyo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ina"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ina"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kaonon ninyo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sa tubig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "palapa"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "kag kaliskis"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sa tubig"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "sa mga dagat"
+    },
+    {
+      "surface": "ובנחלים",
+      "gloss": "kag sa mga suba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kaonon ninyo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:45:23.578574672Z",
+  "model": "glm-5.3"
+}

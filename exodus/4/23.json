@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag nagsiling ako sa imo: Palakton mo ⟨את⟩ akon anak nga lalaki agod mag-alagad siya sa akon, kag nagbalibad ikaw sa pagpakaton sa iya — tan-awa, ako magapatay ⟨את⟩ imo anak nga lalaki, imo panganay.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "kag nagsiling ako"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "palakton mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akon anak nga lalaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "akon anak nga lalaki"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "agod mag-alagad siya sa akon"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "kag nagbalibad ikaw"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "sa pagpakaton sa iya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "magapatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imo anak nga lalaki"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "imo anak nga lalaki"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "imo panganay"
+    }
+  ],
+  "timestamp": "2026-09-21T22:19:16.408493219Z",
+  "model": "glm-5.3"
+}

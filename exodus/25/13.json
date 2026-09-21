@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag himoon mo ang mga badbad ⟨אתם⟩ sang kahoy sang sitim, kag bulosan mo ⟨אתם⟩ sang bulawan.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "kag himoon mo"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "ang mga badbad"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "sang kahoy"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sang sitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "kag bulosan mo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sang bulawan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sang bulawan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:31:58.992984999Z",
+  "model": "glm-5.3"
+}

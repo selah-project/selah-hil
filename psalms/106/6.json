@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 106,
+  "translation": "Nagpakasala kami kaupod sang aton mga katigulangan, nagbuhat kami sing kalainan, nagbuhat kami sing kadaotan.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "nagpakasala kami"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "sang aton mga katigulangan"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "nagbuhat kami sing kalainan"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "nagbuhat kami sing kadaotan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:34.941538344Z",
+  "model": "glm-5.3"
+}

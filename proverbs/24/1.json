@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Indi magkadula sa mga tawo sang kadautan, kag indi paghandum nga mag-upod ⟨את⟩ ila.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "magkadula"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "sa mga tawo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "sang kadautan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "paghandum"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "nga mag-upod"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ila (kaupod sa ila)"
+    }
+  ],
+  "timestamp": "2026-09-21T21:02:41.964697977Z",
+  "model": "glm-5.3"
+}

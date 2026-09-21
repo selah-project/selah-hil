@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Ang El nga nagahatag sang mga balos sa akon, kag nagapailalom sang mga pungsod sa akon.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "ang El"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "nga nagahatag"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "sang mga balos"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "kag nagapailalom"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "sang mga pungsod"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "sa akon ilalom"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:21.538155672Z",
+  "model": "glm-5.3"
+}

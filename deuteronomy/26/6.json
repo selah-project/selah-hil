@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Kag gintiayapan sang mga Mitsrihi ⟨את⟩ kita, kag ginpaluyahon nila kita, kag ginbutang nila sa aton sing mabug-at nga buluhaton.",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "gintiayapan"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kita",
+      "marks": "kita"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "ang mga Mitsrihi"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "ginpaluyahon nila kita"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ginbutang nila"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sa aton"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "buluhaton"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "mabug-at"
+    }
+  ],
+  "timestamp": "2026-09-21T17:29:00.259373162Z",
+  "model": "glm-5.3"
+}

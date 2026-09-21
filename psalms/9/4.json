@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Sa pagbalik sang akon mga kaaway paurong, sila magakapus kag magapierdi sa imo nga atubangan.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "sa pagbalik"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mga kaaway"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "paurong"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "magakapus"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "kag magapierdi"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "sa imo nga atubangan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:12.031903607Z",
+  "model": "glm-5.3"
+}

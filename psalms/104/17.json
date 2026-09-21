@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 104,
+  "translation": "Diin ang mga sapat nagapugad; ang hasidah — ang mga berush ⟨amo⟩ ang iya balay.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "diin"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "mga sapat"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "nagapugad"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "ang hasidah"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "ang mga berush"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "iya nga balay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:49.861070208Z",
+  "model": "glm-5.3"
+}

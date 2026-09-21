@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 7:12",
+  "book": "micah",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Sadto nga adlaw magaabot ⟨sila⟩ sa imo, gikan sa Ashur kag sa mga dakbalan sang Matsor, kag gikan sa Matsor hasta sa Suba, kag sa dagat gikan sa dagat, kag sa bukid, ang bukid.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sadto nga"
+    },
+    {
+      "surface": "ועדיך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "magaabot"
+    },
+    {
+      "surface": "למני",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "kag sa mga dakbalan"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "sang Matsor"
+    },
+    {
+      "surface": "ולמני",
+      "gloss": "kag gikan sa"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Matsor"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hasta sa"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "Suba"
+    },
+    {
+      "surface": "וים",
+      "gloss": "kag sa dagat"
+    },
+    {
+      "surface": "מים",
+      "gloss": "gikan sa dagat"
+    },
+    {
+      "surface": "והר",
+      "gloss": "kag sa bukid"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ang bukid"
+    }
+  ],
+  "timestamp": "2026-09-21T20:14:50.339170249Z",
+  "model": "glm-5.3"
+}

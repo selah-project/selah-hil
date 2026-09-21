@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Nagatipon sang mga tubig sang dagat subong sang isa ka tampok; nagabutang sini sang mga kalalawman sa iya mga bodega.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "Nagatipon"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "tampok"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mga tubig"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sang dagat"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nagabutang"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "mga bodega"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "mga kalalawman"
+    }
+  ],
+  "timestamp": "2026-09-21T22:38:18.873622295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 83,
+  "translation": "Gevul, kag Amon, kag Amalek, Peleshet kaupod ang mga pumalayo sa Tsor.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gevul"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "kag Amon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "kag Amalek"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ang mga pumalayo"
+    },
+    {
+      "surface": "צור",
+      "gloss": "sa Tsor"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:54.119465125Z",
+  "model": "glm-5.3"
+}

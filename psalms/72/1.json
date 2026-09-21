@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 72,
+  "translation": "Kay Shelomoh. O Elohim, ang imo mga paghukom iteg sa hari, kag ang imo pagkamatarong sa anak sang hari.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Kay Shelomoh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ang imo mga paghukom"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "תן",
+      "gloss": "iteg"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "kag ang imo pagkamatarong"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "sa anak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sang hari"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:03.828975883Z",
+  "model": "glm-5.3"
+}

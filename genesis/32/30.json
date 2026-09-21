@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Kag nagpangutana si Yaakov, kag nagsiling: Ipanahi, palihog, ang imo ngalan. Kag nagsiling siya: Ngaa nga ina ikaw nagapangutana sang akon ngalan? Kag ginpakamaayo niya ⟨את⟩ si Yaakov didto.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Kag nagpangutana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Ipanahi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "palihog"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ang imo ngalan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag nagsiling"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Ngaa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ina"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "ikaw nagapangutana"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "sang akon ngalan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "Kag ginpakamaayo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "si Yaakov"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    }
+  ],
+  "timestamp": "2026-09-21T16:09:37.033219610Z",
+  "model": "glm-5.3"
+}

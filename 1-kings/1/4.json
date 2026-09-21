@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 1:4",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ang batang babae matahom gid sang labi, kag nangin sia sa hari nga nag-aatipan, kag nag-alagad sia sa iya, apang wala makilala sang hari ang iya lawas.",
+  "tokens": [
+    {
+      "surface": "והנערה",
+      "gloss": "kag ang batang babae"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "matahom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gid"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sang labi"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "kag nangin sia"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "סכנת",
+      "gloss": "nga nag-aatipan"
+    },
+    {
+      "surface": "ותשרתהו",
+      "gloss": "kag nag-alagad sia sa iya"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "apang ang hari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "makilala ang iya lawas"
+    }
+  ],
+  "timestamp": "2026-09-21T18:25:34.876398903Z",
+  "model": "glm-5.3"
+}

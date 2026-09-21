@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Kag gintigo ni Yahweh ⟨את⟩ ang katawhan tungod kay naghimo sila sang ⟨את⟩ sagrado nga estado-baka, nga baka nga gintimo ni Aharon.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "gintigo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "naghimo sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang baka"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "ang baka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gintimo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    }
+  ],
+  "timestamp": "2026-09-21T22:20:04.263276170Z",
+  "model": "glm-5.3"
+}

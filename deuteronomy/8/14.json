@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "kag ang imo kasing-kasing magataas, kag makalimutan mo ⟨את⟩ si Yahweh nga imo Elohim, ang nagakuha sa imo sa duta sang Mitsrayim, sa balay sang mga ulipon;",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "kag magataas"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ang imo kasing-kasing"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "kag makalimutan mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga imo Elohim"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "ang nagakuha sa imo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "sa duta sang"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "sa balay sang"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "mga ulipon"
+    }
+  ],
+  "timestamp": "2026-09-21T17:21:09.710547843Z",
+  "model": "glm-5.3"
+}

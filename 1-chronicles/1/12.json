@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ⟨את⟩ mga Pathrusim kag ⟨את⟩ mga Kasluchim — gikan sa ila nagguwa ang mga Pelishteh kag ⟨את⟩ mga Kaftorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "mga Pathrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "mga Pathrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "mga Kasluchim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "mga Kasluchim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "— nga"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "nagguwa"
+    },
+    {
+      "surface": "משם",
+      "gloss": "gikan sa ila"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ang mga Pelishteh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "mga Kaftorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "mga Kaftorim"
+    }
+  ],
+  "timestamp": "2026-09-21T21:49:13.428248809Z",
+  "model": "glm-5.3"
+}

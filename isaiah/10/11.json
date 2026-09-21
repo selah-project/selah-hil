@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Indi bala, samtang ginbuhat ko sa Shomron kag sa iya mga dios-dios, sa amo man ang buhaton ko sa Yerushalayim kag sa iya mga larawan?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Indi bala"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "samtang"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ginbuhat ko"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "sa Shomron"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "kag sa iya mga dios-dios"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa amo man"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ang buhaton ko"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "kag sa iya mga larawan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:30:41.169832027Z",
+  "model": "glm-5.3"
+}

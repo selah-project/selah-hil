@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 17:19",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Bisan si Yehudah wala magbantay sang ⟨את⟩ sang mga kasuguan ni Yahweh nga ila Elohim, kag naglakat sila sa mga ordenansa sang Yisrael nga ginbuhat sang mga nahauna.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "si Yehudah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "magbantay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang mga kasuguan"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mga kasuguan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "nga ila Elohim"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "kag naglakat sila"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "sa mga ordenansa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginbuhat sang mga nahauna"
+    }
+  ],
+  "timestamp": "2026-09-21T18:47:29.069741312Z",
+  "model": "glm-5.3"
+}

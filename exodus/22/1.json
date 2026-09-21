@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kon sa pagbung-ag makit-an ang magnanakaw kag hampaton kag mamatay, wala sing mga dugo sa iya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "sa pagbung-ag"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "makit-an"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "ang magnanakaw"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "kag hampaton"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "kag mamatay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "mga dugo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:30:57.547650006Z",
+  "model": "glm-5.3"
+}

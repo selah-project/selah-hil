@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kag ginhimo niya ⟨את⟩ ang lamesa gikan sa kahoy sang shitim — duha ka soko ang iya kahabaan, kag isa ka soko ang iya kalapad, kag isa ka soko kag tunga ang iya kataason.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kag ginhimo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lamesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ang lamesa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sang shitim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "duha ka soko"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ang iya kahabaan"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "kag isa ka soko"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ang iya kalapad"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "kag isa ka soko"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "kag tunga"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ang iya kataason"
+    }
+  ],
+  "timestamp": "2026-09-21T16:39:02.517727045Z",
+  "model": "glm-5.3"
+}

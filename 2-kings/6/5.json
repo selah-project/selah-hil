@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag nangyari, sang ang isa nagapahulga sang baras, kag ⟨את⟩ ang puthaw nagkahulog sa tubig; kag nagpaningala siya kag nagsiling: Aha! Adonay ko, kag ini hulam!",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kag nangyari"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "nagapahulga"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "sang baras"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang puthaw"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ang puthaw"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "nagkahulog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "kag nagpaningala"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kag ini"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "hulam"
+    }
+  ],
+  "timestamp": "2026-09-21T18:40:37.547568026Z",
+  "model": "glm-5.3"
+}

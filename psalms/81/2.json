@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 81,
+  "translation": "Magkanta kamo nga makusog kay Elohim, ang aton kusog; magpatingog kamo sa Elohim ni Yaakov.",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "Magkanta kamo nga makusog"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kay Elohim"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "ang aton kusog"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "magpatingog kamo"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:53.441609957Z",
+  "model": "glm-5.3"
+}

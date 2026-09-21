@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Ginpaubos mo sia sing gamay sa Elohim, kag sang himaya kag dunggan imo sia ginkoronahan.",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "ginpaubos mo sia"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sing gamay"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "kag himaya"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "dunggan"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "imong ginkoronahan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:25.804790316Z",
+  "model": "glm-5.3"
+}

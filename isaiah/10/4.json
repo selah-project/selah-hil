@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 10:4",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Gawas sa pagduko sa ilalom sang bilanggo, kag sa ilalom sang mga ginpatay mahulog sila. Sa tanan nga ini wala nagbalik ang iya kaakig, kag padayon ang iya kamot nga bayaw.",
+  "tokens": [
+    {
+      "surface": "בלתי",
+      "gloss": "Gawas"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "sa pagduko"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalom"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "bilanggo"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "kag sa ilalom"
+    },
+    {
+      "surface": "הרוגים",
+      "gloss": "mga ginpatay"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "mahulog sila"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "Sa tanan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שב",
+      "gloss": "nagbalik"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ang iya kaakig"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "kag padayon"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang iya kamot"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "nga bayaw"
+    }
+  ],
+  "timestamp": "2026-09-21T18:56:19.463152561Z",
+  "model": "glm-5.3"
+}

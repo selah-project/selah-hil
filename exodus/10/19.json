@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 10:19",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag ginpabalik ni Yahweh ang isa ka hangsod nga hangin halin sa dagat, makusog sing labi, kag ginputak niya ⟨את⟩ ang mga balang kag ginsikway niya sinda sa dagat sang mga lunod; wala nagpabilin bisan isa ka balang sa tanan nga duta-lain sang Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "kag ginpabalik niya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hangin"
+    },
+    {
+      "surface": "ים",
+      "gloss": "halin sa dagat"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "makusog"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sing labi"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "kag ginputak niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga balang"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "ang mga balang"
+    },
+    {
+      "surface": "ויתקעהו",
+      "gloss": "kag ginsikway niya sinda"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "sang mga lunod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "nagpabilin"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "balang"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bisan isa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "duta-lain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:24:03.755829682Z",
+  "model": "glm-5.3"
+}

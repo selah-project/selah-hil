@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 95,
+  "translation": "Sang iya amo ang dagat, kag siya ang naghimo sini, kag ang mga kamot niya ang naghulma sang mamulublubong.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sang iya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iya"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ang dagat"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kag siya"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "naghimo sini"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "kag ang mamulublubong"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ang mga kamot niya"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "naghulma"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:15.304119214Z",
+  "model": "glm-5.3"
+}

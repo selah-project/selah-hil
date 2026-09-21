@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 6:13",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Nagakibit sang matya sa iya mga mata, nagahambal sa iya mga tiil, nagatudlo sa iya mga tudlo.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "nagakibit sang matya"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "sa iya mga mata"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "nagahambal"
+    },
+    {
+      "surface": "ברגלו",
+      "gloss": "sa iya mga tiil"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "nagatudlo"
+    },
+    {
+      "surface": "באצבעתיו",
+      "gloss": "sa iya mga tudlo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:56:49.379695124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 145,
+  "translation": "Kag ang kusog sang imo mga makahadlok nga binuhatanon hisgoton sang ⟨mga tawo⟩, kag ang imo kadako-isip igsasaysay ko",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "Kag ang kusog"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "sang imo mga makahadlok"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "hisgoton sang"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "kag ang imo kadako-isip"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "igsasaysay ko"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:15.056701033Z",
+  "model": "glm-5.3"
+}

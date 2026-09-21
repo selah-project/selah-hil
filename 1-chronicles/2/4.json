@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag si Tamar, iya umagad, natawo sa iya ⟨את⟩ si Perets kag ⟨את⟩ si Zerach — tanan nga mga anak nga lalaki ni Yehudah lima.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "kag si Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "iya umagad"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Perets"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "si Perets"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Zerach"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "si Zerach"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    }
+  ],
+  "timestamp": "2026-09-21T21:49:43.980310151Z",
+  "model": "glm-5.3"
+}

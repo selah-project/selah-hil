@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Ang iya hitsura pareho sang leon nga gahandum sa pagpunit, kag pareho sang batang leon nga nagapuyo sa mga taguang-taguangan.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "iya hitsura"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "pareho sang leon"
+    },
+    {
+      "surface": "יככוף",
+      "gloss": "gahandum"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "sa pagpunit"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "kag pareho sang batang leon"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nagapuyo"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "sa mga taguang-taguangan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:49.672846643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag gintandog ang bato sa akon baba, kag nagsiling siya, Tan-awa, ini gintandog sa imo mga bibig, kag gintangtang ang imo kalautan kag gintakpan ang imo sala.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "Kag gintandog"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "akon baba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "gintandog"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "imo mga bibig"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "kag gintangtang"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "ang imo kalautan"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "kag ang imo sala"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "gintakpan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:54:08.914709345Z",
+  "model": "glm-5.3"
+}

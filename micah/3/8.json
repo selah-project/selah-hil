@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Apang ako, puno ako sang gahum, ⟨את⟩ sang espiritu ni Yahweh, kag sang paghukom kag kusog, agod ipahibalo ko kay Yaakov ang iya pagtalang kag sa Yisrael ang iya sala.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Apang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "puno ako"
+    },
+    {
+      "surface": "כח",
+      "gloss": "sang gahum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "espiritu ni Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "espiritu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "kag sang paghukom"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "kusog"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "agod ipahibalo ko"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kay Yaakov"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "ang iya pagtalang"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "kag sa Yisrael"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "iya sala"
+    }
+  ],
+  "timestamp": "2026-09-21T20:13:12.921642322Z",
+  "model": "glm-5.3"
+}

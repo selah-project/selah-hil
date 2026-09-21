@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 63,
+  "translation": "Kon namalandad ko ikaw sa akon higaan, sa mga bantay sang gab-i nagahunahuna ⟨pa⟩ ako sa imo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "namalandad ko ikaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "akon higaan"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "sa mga bantay sang gab-i"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "nagahunahuna"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:40.840811631Z",
+  "model": "glm-5.3"
+}

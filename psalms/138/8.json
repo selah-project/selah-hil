@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 138,
+  "translation": "Si Yahweh magatapos sang <sa akon pulong>, si Yahweh, ang imo hesed tubtob sa dayon; ang mga buhat sang imo mga kamot indi pagbul-iogi mahulog.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "magatapos"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "<sa akon pulong>"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ang imo hesed"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tubtob sa dayon"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ang mga buhat"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "sang imo mga kamot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "pagbul-iogi mahulag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:07.770290218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Ginapahamo mo ang mga naghambal sing bakak; si Yahweh nagasilag sa tawo sang dugo kag sa tawo sang panginadlawad.",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "ginapahamo mo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga naghambal"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "bakak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "panginadlawad"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "nagasilag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:38.478273538Z",
+  "model": "glm-5.3"
+}

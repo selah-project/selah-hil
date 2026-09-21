@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag manog ang tanan nga tawo nga magkaon kag mag-inom kag makakita sang maayo sa tanan sang iya ka pangabudlay — isa ini ka regalo sang Elohim.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kag manog"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "nga tawo"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "nga magkaon"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "kag mag-inom"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "kag makakita"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "sang iya ka pangabudlay"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "regalo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-21T21:25:35.258097514Z",
+  "model": "glm-5.3"
+}

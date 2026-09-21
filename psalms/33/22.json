@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Magakabugtong ang imo hesed, o Yahweh, sa amon, suno sa paghulat namon sa imo.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "magakabugtong"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ang imo hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "suno sa"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "paghulat namon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:53.255233494Z",
+  "model": "glm-5.3"
+}

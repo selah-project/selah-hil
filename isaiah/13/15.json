@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Ang tanan nga maduta pagatudlayan, kag ang tanan nga madakop matumba sa tabak.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ang tanan"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "nga maduta"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "pagatudlayan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "nga madakop"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "matumba"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sa tabak"
+    }
+  ],
+  "timestamp": "2026-09-21T18:55:36.439676971Z",
+  "model": "glm-5.3"
+}

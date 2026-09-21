@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 39,
+  "translation": "Nagpailing ako, wala ako magbukas sang akon baba, kay ikaw ang naghimo ⟨sini⟩.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "nagpailing ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "magbukas"
+    },
+    {
+      "surface": "פי",
+      "gloss": "akon baba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "naghimo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:28.755138689Z",
+  "model": "glm-5.3"
+}

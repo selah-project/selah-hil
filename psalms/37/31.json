@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Ang Torah sang iya Elohim ⟨⟨ yara ⟩⟩ sa iya kasingkasing; ang iya mga tikmad indi magakuyab.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "sang iya Elohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "sa iya kasingkasing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "magakuyab"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "mga tikmad"
+    }
+  ],
+  "timestamp": "2026-09-21T20:30:51.518430883Z",
+  "model": "glm-5.3"
+}

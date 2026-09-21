@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 55,
+  "translation": "Ang akon kasing-kasing nagakurog sa sulod ⟨ko⟩, kag ang mga kahadlok sang kamatayon nahulog sa akon.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "ang akon kasing-kasing"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "nagakurog"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "sa sulod"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "kag ang mga kahadlok"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sang kamatayon"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "nahulog"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:08.530246881Z",
+  "model": "glm-5.3"
+}

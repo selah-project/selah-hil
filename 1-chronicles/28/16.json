@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 28:16",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "kag ⟨את⟩ ang bulawan — timbang para sa mga lamesa sang pagbutang-butang, lamesa kag lamesa; kag plata para sa mga lamesa sang plata.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang bulawan"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ang bulawan"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "timbang"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "para sa mga lamesa"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "sang pagbutang-butang"
+    },
+    {
+      "surface": "לשלחן",
+      "gloss": "lamesa"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "kag lamesa"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "kag plata"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "para sa mga lamesa"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sang plata"
+    }
+  ],
+  "timestamp": "2026-09-21T21:59:37.555205423Z",
+  "model": "glm-5.3"
+}

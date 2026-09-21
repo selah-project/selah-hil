@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "esther 9:32",
+  "book": "esther",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag ang sugo ni Ester nagpatindog sang mga butang sang ini nga Purim, kag nasulat ini sa sulat.",
+  "tokens": [
+    {
+      "surface": "ומאמר",
+      "gloss": "kag ang sugo"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ni Ester"
+    },
+    {
+      "surface": "קים",
+      "gloss": "nagpatindog"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga butang"
+    },
+    {
+      "surface": "הפורים",
+      "gloss": "sang Purim"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ונכתב",
+      "gloss": "kag nasulat"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "sa sulat"
+    }
+  ],
+  "timestamp": "2026-09-21T21:31:46.744456081Z",
+  "model": "glm-5.3"
+}

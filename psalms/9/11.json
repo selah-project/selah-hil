@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag magasalig sa imo ang mga nakakilala sang imo ngalan, kay indi ka nagpabayi sang mga nagapangita sa imo, Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "kag magasalig"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "ang mga nakakilala"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sang imo ngalan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "ka nagpabayi"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "sang mga nagapangita sa imo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:23.218589488Z",
+  "model": "glm-5.3"
+}

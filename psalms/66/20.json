@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 66,
+  "translation": "Dalayawon si Elohim, nga wala nagbalhin sang akon pangamuyo, kag sang iya hesed, gikan ⟨את⟩ sa akon.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "dalayawon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "nagbalhin"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "sang akon pangamuyo"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "kag sang iya hesed"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "gikan ⟨את⟩ sa akon",
+      "marks": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:03.960850879Z",
+  "model": "glm-5.3"
+}

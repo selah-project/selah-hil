@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 59,
+  "translation": "Ang sala sang ila baba, ang pulong sang ila mga labi — madakop sila sa ila kaakuhan; kag sang tungod sang pangauba kag bakak, ila ina ginasaysay.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "sala"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "sang ila baba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "sang ila mga labi"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "madakop sila"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "sa ila kaakuhan"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "kag sang tungod sang pangauba"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "kag bakak"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "ila ginasaysay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:39.970560209Z",
+  "model": "glm-5.3"
+}

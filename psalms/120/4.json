@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 120,
+  "translation": "Mga matin-ason nga pana sang gamhanan, kaupod sang mga baga sang retama.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "Mga pana"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "sang gamhanan"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "matin-ason"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod sang"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "mga baga"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "sang retama"
+    }
+  ],
+  "timestamp": "2026-09-21T20:50:47.397661104Z",
+  "model": "glm-5.3"
+}

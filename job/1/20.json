@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nagtindog si Iyov kag ginsikad niya ⟨את⟩ iya bado, kag ginahid niya ⟨את⟩ iya ulo, kag nagtumba siya sa duta kag nagluhod siya sa pagsimba.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kag nagtindog"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "si Iyov"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "kag ginsikad niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya bado"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "iya bado"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "kag ginahid niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya ulo"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "iya ulo"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "kag nagtumba siya"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "kag nagluhod siya sa pagsimba"
+    }
+  ],
+  "timestamp": "2026-09-21T21:06:12.761784122Z",
+  "model": "glm-5.3"
+}

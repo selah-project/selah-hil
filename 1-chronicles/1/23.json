@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "kag ⟨את⟩ Ofir kag ⟨את⟩ Chavilah kag ⟨את⟩ Yovav; tanan nga ina ⟨mga anak⟩ ni Yoktan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Ofir"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Chavilah"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Chavilah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Yovav"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yovav"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨mga anak⟩"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "ni Yoktan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:48:48.009901786Z",
+  "model": "glm-5.3"
+}

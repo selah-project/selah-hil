@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Ginoo ko, pamatii ako: isa ka duta nga bilang sang apat ka gatos ka shekel nga pilak — taliwala sa akon kag sa imo, ano ina? Kag ⟨ang⟩ imo napatay ilubong ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Ginoo ko"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "pamatii ako"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "apat"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "ka shekel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "nga pilak"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "taliwala sa akon"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "kag sa imo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "imo napatay"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "imo napatay"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "ilubong"
+    }
+  ],
+  "timestamp": "2026-09-21T22:16:57.706854774Z",
+  "model": "glm-5.3"
+}

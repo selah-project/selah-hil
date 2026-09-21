@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 9:20",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Ginakaon ni Menashe ⟨את⟩ si Efraim, kag si Efraim ginakaon ⟨את⟩ si Menashe; magkahipulos sila laban kay Yehudah. Sa tanan nga ina wala magpauli ang iya kaakig, kag ang iya kamot gapaunat pa gihapon.",
+  "tokens": [
+    {
+      "surface": "מנשה",
+      "gloss": "ni Menashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Efraim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "si Efraim"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "kag si Efraim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Menashe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "si Menashe"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magkahipulos"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "laban"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "kay Yehudah"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nga ina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שב",
+      "gloss": "magpauli"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ang iya kaakig"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "kag gihapon"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang iya kamot"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "gapaunat"
+    }
+  ],
+  "timestamp": "2026-09-21T18:55:28.206046540Z",
+  "model": "glm-5.3"
+}

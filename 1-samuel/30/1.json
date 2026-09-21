@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kag natabo, sang umabot si David kag ang iya mga tawo sa Tsiklag sa ikatlo nga adlaw, nga ang mga Amalekita nanglusob sa Negev kag sa Tsiklag, kag gintama nila ⟨את⟩ ang Tsiklag kag ginsunog nila ⟨אתה⟩ sa kalayo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag natabo"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "sang umabot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "kag ang iya mga tawo"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "sa Tsiklag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ikatlo"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "kag ang mga Amalekita"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "nanglusob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "kag gintama nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "ang Tsiklag"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "kag ginsunog nila"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "ini (ang Tsiklag)"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:11:43.003527998Z",
+  "model": "glm-5.3"
+}

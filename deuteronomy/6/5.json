@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag higugmaon mo si Yahweh nga Elohim mo ⟨את⟩ sang tanan mong tagipusuon, kag sang tanan mong kabuhi, kag sang tanan mong kusog.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "kag higugmaon mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh nga Elohim mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga Elohim mo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "mong tagipusuon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "kag sang tanan"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "mong kabuhi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "kag sang tanan"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "mong kusog"
+    }
+  ],
+  "timestamp": "2026-09-21T17:18:55.820197323Z",
+  "model": "glm-5.3"
+}

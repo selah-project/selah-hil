@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kalaut nga kalaut ang ginhimo namon sa imo, kag wala namon gintipigan ⟨את⟩ ang mga kasuguan kag ⟨את⟩ ang mga batas kag ⟨את⟩ ang mga paghukom nga imo ginsugo ⟨את⟩ Moshe imo ulipon.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "kalaut"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "ginhimo namon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "namon gintipigan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kasuguan"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ang mga kasuguan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga batas"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ang mga batas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga paghukom"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ang mga paghukom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "imo ginsugo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "imo ulipon"
+    }
+  ],
+  "timestamp": "2026-09-21T21:43:55.566702274Z",
+  "model": "glm-5.3"
+}

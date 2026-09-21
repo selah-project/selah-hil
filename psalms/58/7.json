@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 58,
+  "translation": "Elohim, pagguba sang ila mga ngipon sa ila baba; Yahweh, pagpangalaglag sang mga bagang sang mga batang leon.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "pagguba"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "ila mga ngipon"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "sa ila baba"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "mga bagang"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "mga batang leon"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "pagpangalaglag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:17.393668487Z",
+  "model": "glm-5.3"
+}

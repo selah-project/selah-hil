@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag pahalayon ni Yahweh ⟨את⟩ ang tawo, kag madamo ang pagpabay-an sa tunga sang duta.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "Kag pahalayon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tawo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "kag madamo"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "ang pagpabay-an"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T18:53:57.804177473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 48,
+  "translation": "Sang hangin nga taga-sidlangan ginpangguba ⟨mo⟩ ang mga sakayan sang Tarshish.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "sang hangin"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "taga-sidlangan"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "ginpangguba"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "ang mga sakayan"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "sang Tarshish"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:05.641914881Z",
+  "model": "glm-5.3"
+}

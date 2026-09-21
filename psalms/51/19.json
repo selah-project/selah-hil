@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 51,
+  "translation": "Ang mga halad sang Elohim ⟨ang⟩ espiritu nga nabali; ⟨ang⟩ tagipusuon nga nabali kag nadaka, Elohim, indi mo pagtam-ayan.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "mga halad"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "espiritu"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "nabali"
+    },
+    {
+      "surface": "לב",
+      "gloss": "tagipusuon"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "nabali"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "kag nadaka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "mo pagtam-ayan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:29.971429152Z",
+  "model": "glm-5.3"
+}

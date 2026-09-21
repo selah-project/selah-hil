@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kay sa kadamo sang mga damgo kag mga kahaw-ang kag madamo nga mga pulong; kay ⟨את⟩ ang Elohim kahadluki ⟨ikaw⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "sa kadamo"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "mga damgo"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "kag mga kahaw-ang"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "kag mga pulong"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "madamo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kahadluki"
+    }
+  ],
+  "timestamp": "2026-09-21T21:27:44.489736372Z",
+  "model": "glm-5.3"
+}

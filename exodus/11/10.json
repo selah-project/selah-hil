@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag si Moshe kag si Aharon nagbuhat sang ⟨את⟩ tanan nga mga tanda ini nga mga butang sa atubang ni Paro; kag ginpamarig-on ni Yahweh ⟨את⟩ ang tagipusuon ni Paro, kag wala niya pagpadalon-a ⟨את⟩ ang mga anak nga lalaki sang Yisrael sa iya duta.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "kag si Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "kag si Aharon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nagbuhat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga tanda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "nga mga tanda"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini nga mga butang"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "kag ginpamarig-on"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tagipusuon"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ang tagipusuon"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "pagpadalon-a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga anak nga lalaki sang Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "sa iya duta"
+    }
+  ],
+  "timestamp": "2026-09-21T16:22:35.721922063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 106,
+  "translation": "Kag nagtindog si Pinchas kag nagpangamuyo, kag napugngan ang magahip.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "nagtindog"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "nagpangamuyo"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "napugngan"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "ang magahip"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:08.868088624Z",
+  "model": "glm-5.3"
+}

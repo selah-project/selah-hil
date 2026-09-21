@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 73,
+  "translation": "Gani ang iya mga tawo nagapabalik diri, kag tubig sang puno nga kopa ginguga para sa ila.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "gani"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "nagapabalik"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ang iya mga tawo"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "diri"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "kag tubig"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "sang puno"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "ginguga"
+    },
+    {
+      "surface": "למו",
+      "gloss": "para sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:42.214306481Z",
+  "model": "glm-5.3"
+}

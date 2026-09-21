@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 45,
+  "translation": "Mira, aloe, kag kasya ⟨ang⟩ tanan nga imo mga bayo; gikan sa mga palasyo sang garing ang mga hibit ang nagsadya sa imo.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "Mira"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "kag aloe"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "kag kasya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "imo mga bayo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "sa mga palasyo"
+    },
+    {
+      "surface": "שן",
+      "gloss": "garing"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ang mga hibit"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "nagsadya sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:57.923688323Z",
+  "model": "glm-5.3"
+}

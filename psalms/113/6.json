@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 113,
+  "translation": "Ang nagapaubos sang iya kaugalingon agod tan-awon ⟨ang⟩ sa mga langit kag sa duta?",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "ang nagapaubos sang iya kaugalingon"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "agod tan-awon"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sa mga langit"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "kag sa duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:26.232318451Z",
+  "model": "glm-5.3"
+}

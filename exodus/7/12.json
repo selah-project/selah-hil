@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag ginpahulid nila, ang tagsa ka tawo ang iya baston, kag nangin mga dalagta ini; kag ginluta sang baston ni Aharon ⟨את⟩ ang ila mga baston.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "Kag ginpahulid nila"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tagsa ka tawo"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "iya baston"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "kag nangin"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "mga dalagta"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "kag ginluta"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "sang baston"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ila mga baston"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "ila mga baston"
+    }
+  ],
+  "timestamp": "2026-09-21T16:21:09.433728398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 3:12",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag kon ang iya halad ⟨is⟩ kanding, ipahalad niya ini sa atubangan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kanding"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ang iya halad"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "ipahalad niya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:41:27.916311666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 49,
+  "translation": "Ang akon baba magahambal sang kaalam, kag ang panabid sang akon kasingkasing, sang pagsabot.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Ang akon baba"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "magahambal"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "sang kaalam"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "kag ang panabid"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sang akon kasingkasing"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "sang pagsabot"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:26.503294402Z",
+  "model": "glm-5.3"
+}

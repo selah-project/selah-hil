@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Nangayo sila kag gindala niya ang pugo, kag tinapay sang langit ang ginpabusog niya sa ila.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "nangayo sila"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kag gindala niya"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "ang pugo"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "kag tinapay"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sang langit"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "ginpabusog niya sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:03.392426967Z",
+  "model": "glm-5.3"
+}

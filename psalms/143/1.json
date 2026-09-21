@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 143,
+  "translation": "Mizmor ni David. Yahweh, pamatii ang akon pangamuyo, ipangingadlaw sa akon mga pangadyeon; sa imong pagkamatinud-anon tubga ako, sa imong pagkamatarong.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "pamatii"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ang akon pangamuyo"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ipangingadlaw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "akon mga pangadyeon"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "sa imong pagkamatinud-anon"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "tubga ako"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "sa imong pagkamatarong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:39.200104458Z",
+  "model": "glm-5.3"
+}

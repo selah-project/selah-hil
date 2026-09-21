@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 9:22",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag gintindog ni Aharon ⟨את⟩ iya kamot pakadto sa mga tawo, kag ginpakamaayo niya sila, kag nagpanaog siya halin sa paghimo sang handog sang sala kag sang handog nga sinusunog kag sang mga handog sang kalinong.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "kag gintindog"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya kamot"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "iya kamot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pakadto sa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "ויברכם",
+      "gloss": "kag ginpakamaayo niya sila"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "kag nagpanaog"
+    },
+    {
+      "surface": "מעשת",
+      "gloss": "halin sa paghimo"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "sang handog sang sala"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "kag sang handog nga sinusunog"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "kag sang mga handog sang kalinong"
+    }
+  ],
+  "timestamp": "2026-09-21T16:46:02.858140715Z",
+  "model": "glm-5.3"
+}

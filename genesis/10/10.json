@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag ang nahauna sang iya gingharian ⟨mga⟩ Bavel, kag Erekh, kag Akhad, kag Kalneh, sa duta sang Shinar.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Kag ang … ⟨mga⟩"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "nahauna"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "sang iya gingharian"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "kag Erekh"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "kag Akhad"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "kag Kalneh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "sang Shinar"
+    }
+  ],
+  "timestamp": "2026-09-21T22:16:15.433949476Z",
+  "model": "glm-5.3"
+}

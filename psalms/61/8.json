@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 61:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 61,
+  "translation": "Magapungko siya dayon sa atubangan sang Elohim; hesed kag kamatuoran ang magabantay sa iya.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Magapungko siya"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dayon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan sang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "kag kamatuoran"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨ang⟩"
+    },
+    {
+      "surface": "ינצרהו",
+      "gloss": "magabantay sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:30.038633870Z",
+  "model": "glm-5.3"
+}

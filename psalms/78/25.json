@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Tinapay sang mga abirim ang ginkaon sang tagsa ka tawo; pagkaon ang ginpadala niya sa ila hasta sila mapuno.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "sang mga abirim"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ang ginkaon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sang tagsa ka tawo"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "pagkaon"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ang ginpadala"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "hasta sila mapunu"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:54.834282680Z",
+  "model": "glm-5.3"
+}

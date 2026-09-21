@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 2:3",
+  "book": "malachi",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Yari ako nga nagsasaway sa inyo ⟨את⟩ sang binhi, kag ikakayko ko ang tae sa inyo mga pangpang, ang tae sang inyo mga fiesta, kag dad-on kaniya kamo ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Yari ako"
+    },
+    {
+      "surface": "גער",
+      "gloss": "nga nagsasaway"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang binhi"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "sang binhi"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "kag ikakayko ko"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "ang tae"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "inyo mga pangpang"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "ang tae"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "sang inyo mga fiesta"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "kag dad-on"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩ kamo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:21:55.733166935Z",
+  "model": "glm-5.3"
+}

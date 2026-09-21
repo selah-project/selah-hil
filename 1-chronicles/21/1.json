@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag nagtindog si Satanas batok sa Yisrael, kag ginpukaw ⟨niya⟩ ⟨את⟩ si David sa pag-ihap ⟨את⟩ sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Kag nagtindog"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "si Satanas"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "kag ginpukaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si David"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "sa pag-ihap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T22:46:19.701917986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Sa subong nga adlaw si Yahweh nga Elohim mo nagasugo sa imo sa paghimo ⟨את⟩ sang mga lagda ini kag ⟨את⟩ sang mga hudisyo — kag tumanon mo kag himoon mo ⟨את⟩ sila sang bug-os mo nga kasingkasing kag sang bug-os mo nga kalag.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Sa subong nga adlaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga Elohim mo"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "nagasugo sa imo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa paghimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang mga lagda"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "sang mga lagda"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang mga hudisyo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "sang mga hudisyo"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "kag tumanon mo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "kag himoon mo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sang bug-os"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "mo nga kasingkasing"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "kag sang bug-os"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "mo nga kalag"
+    }
+  ],
+  "timestamp": "2026-09-21T17:29:55.564742264Z",
+  "model": "glm-5.3"
+}

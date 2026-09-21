@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 39:26",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 39,
+  "translation": "Kag magadala sila ⟨את⟩ ila kaulawan kag ⟨את⟩ tanan nga ila pagkasala nga ila ginhimo batok sa akon, sang nagapuyo sila sa ila duta nga walay kahadlok, kag wala sing magapahadlok.",
+  "tokens": [
+    {
+      "surface": "ונשו",
+      "gloss": "kag magadala sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ila kaulawan"
+    },
+    {
+      "surface": "כלמתם",
+      "gloss": "ila kaulawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga ila pagkasala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "מעלם",
+      "gloss": "ila pagkasala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "ginhimo nila"
+    },
+    {
+      "surface": "בי",
+      "gloss": "batok sa akon"
+    },
+    {
+      "surface": "בשבתם",
+      "gloss": "sang nagapuyo sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "ila duta"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "nga walay kahadlok"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala sing"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "magapahadlok"
+    }
+  ],
+  "timestamp": "2026-09-21T19:59:08.460112995Z",
+  "model": "glm-5.3"
+}

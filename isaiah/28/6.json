@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "kag espiritu sang paghukom para sa nagatindog ⟨sa⟩ hukoman, kag kusog para sa mga nagapabalik sang gubat tubtob sa ganghaan.",
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "kag espiritu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sang paghukom"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "para sa nagatindog"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sa⟩"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "hukoman"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "kag kusog"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "para sa mga nagapabalik"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sang gubat"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "tubtob sa ganghaan"
+    }
+  ],
+  "timestamp": "2026-09-21T19:00:48.291366268Z",
+  "model": "glm-5.3"
+}

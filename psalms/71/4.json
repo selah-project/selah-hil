@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 71,
+  "translation": "O akon Elohim, palagton mo ako sa kamot sang malaot, sa palad sang sawi-sala kag mapintas.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "O akon Elohim"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "palagton mo ako"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sang malaot"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "sa palad"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "sang sawi-sala"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "kag mapintas"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:47.004380520Z",
+  "model": "glm-5.3"
+}

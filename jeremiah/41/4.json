@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 41,
+  "translation": "Kag nahitabo sa ikaduha nga adlaw sang pagpatay ⟨את⟩ kang Gedalyahu — kag wala sing tawo nga nakahibalo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikaduha"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "sang pagpatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Gedalyahu"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "kang Gedalyahu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kag wala sing tawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakahibalo"
+    }
+  ],
+  "timestamp": "2026-09-21T19:33:59.969856500Z",
+  "model": "glm-5.3"
+}

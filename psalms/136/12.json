@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 136,
+  "translation": "Pinaagi sa kusog nga kamot kag sa braso nga gintuyang; kay sa dayon nga tion ang iya hesed.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "kusog nga"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "kag sa braso"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "nga gintuyang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon nga tion"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iya hesed"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:22.489839634Z",
+  "model": "glm-5.3"
+}

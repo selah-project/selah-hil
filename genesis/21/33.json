@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 21:33",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag nagtanum si Avraham sang isa ka eshel sa Be'er-Sheva, kag nagtawag didto sa ngalan ni Yahweh, El Olam.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "nagtanum"
+    },
+    {
+      "surface": "אשל",
+      "gloss": "eshel"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "sa Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kag nagtawag"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "Olam"
+    }
+  ],
+  "timestamp": "2026-09-21T16:02:29.907854889Z",
+  "model": "glm-5.3"
+}

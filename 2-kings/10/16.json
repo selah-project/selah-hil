@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag nagsiling siya: Kadto ka ⟨ka⟩ ako, kag tan-awa ang akon pagkamainiton kay Yahweh. Kag ginpakakabayo nila siya ⟨אתו⟩ sa iya karwahe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag nagsiling siya"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Kadto ka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ka ako"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "kag tan-awa"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "ang akon pagkamainiton"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "Kag ginpakakabayo nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "sa iya karwahe"
+    }
+  ],
+  "timestamp": "2026-09-21T18:43:50.988725422Z",
+  "model": "glm-5.3"
+}

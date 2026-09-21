@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 119:55",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Sa gab-i ginumdom ko ang imong Ngalan, Yahweh, kag ginsunod ko ang imong Torah.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "ginumdom ko"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "sa gab-i"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ang imong Ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "kag ginsunod ko"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ang imong Torah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:23.996725365Z",
+  "model": "glm-5.3"
+}

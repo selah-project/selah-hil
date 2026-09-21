@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 111,
+  "translation": "Ang nahauna sang kaalam ⟨amo⟩ ang pagkakahadlok kay Yahweh; mainay nga pag-intendi sang tanan nga nagatuman sini; ang iya pagdayaw nagatindog sa dayon.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "nahauna"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kaalam"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "pagkakahadlok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "pag-intindi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mainay"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "nagatuman sini"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "iya pagdayaw"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "nagatindog"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "sa dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:19.921618097Z",
+  "model": "glm-5.3"
+}

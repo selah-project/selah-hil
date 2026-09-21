@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 17:12",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kalagno sa kaguluhan sang madamo nga mga pungsod — subong sa singgit sang mga dagat nagasinggit sila — kag sa dagayday sang mga nasod — subong sa dagayday sang makusog nga mga tubig nagadagan sila.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "kalagno"
+    },
+    {
+      "surface": "המון",
+      "gloss": "kaguluhan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mga pungsod"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "madamo"
+    },
+    {
+      "surface": "כהמות",
+      "gloss": "subong sa singgit"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "sang mga dagat"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "nagasinggit sila"
+    },
+    {
+      "surface": "ושאון",
+      "gloss": "kag dagayday"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "sang mga nasod"
+    },
+    {
+      "surface": "כשאון",
+      "gloss": "subong sa dagayday"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mga tubig"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "makusog"
+    },
+    {
+      "surface": "ישאון",
+      "gloss": "nagadagan sila"
+    }
+  ],
+  "timestamp": "2026-09-21T18:57:25.205770611Z",
+  "model": "glm-5.3"
+}

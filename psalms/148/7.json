@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 148,
+  "translation": "Magdayaw kamo ⟨את⟩ kay Yahweh gikan sa duta, mga dagkung pasyak sang dagat kag tanan nga mga kalalawyan",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Magdayaw kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "mga dagkung pasyak sang dagat"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag tanan nga"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "mga kalalawyan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:37.427412139Z",
+  "model": "glm-5.3"
+}

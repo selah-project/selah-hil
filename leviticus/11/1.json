@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag naghambal si Yahweh kay Moshe kag kay Aharon, nga nagsiling sa ila:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kag naghambal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag kay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagsiling"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T16:46:18.176148212Z",
+  "model": "glm-5.3"
+}

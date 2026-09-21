@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "psalms 119:74",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Ang mga nagaikog sa imo makakita sa akon kag magakalipay, kay sa imo pulong ako naglaom.",
+  "tokens": [
+    {
+      "surface": "יראיך",
+      "gloss": "mga nagaikog sa imo"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "makakita sa akon"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "kag magakalipay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "sa imo pulong"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "ako naglaom"
+    }
+  ],
+  "timestamp": "2026-09-21T20:50:30.485417919Z",
+  "model": "glm-5.3"
+}

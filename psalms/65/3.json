@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 65,
+  "translation": "⟨Ikaw⟩ nga nagabati sang pangamuyo, sa imo magakari ang tanan nga unod.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "nagabati"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "pangamuyo"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "unod"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "magakari"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:10.145983648Z",
+  "model": "glm-5.3"
+}

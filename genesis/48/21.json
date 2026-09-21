@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 48,
+  "translation": "Kag nagsiling si Yisrael kay Yosef: Tan-awa, ako malapit na mamatay, kag si Elohim magakauban sa inyo, kag ibalik niya ⟨אתכם⟩ sa duta sang inyo mga amay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מת",
+      "gloss": "malapit na mamatay"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kag magaabot"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "magakauban sa inyo"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "kag ibalik niya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kamo (ang inyo)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "mga amay ninyo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:18:17.958128892Z",
+  "model": "glm-5.3"
+}

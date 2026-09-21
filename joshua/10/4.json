@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Umangat kamo sa akon kag buligi ninyo ako, kag hisgunton naton ⟨את⟩ ang Givon, kay naghimo ini sang kappayapaan ⟨את⟩ sa Yehoshua kag ⟨את⟩ sa mga anak sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Umangat kamo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "kag buligi ninyo ako"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "kag hisgunton naton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Givon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "ang Givon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "naghimo sang kappayapaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sa mga anak sang Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T17:38:48.700391429Z",
+  "model": "glm-5.3"
+}

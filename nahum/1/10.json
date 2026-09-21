@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kay samtang sila nalilit-ag subong sang mga tunok, kag samtang nagahubog sila sa ila ilimnon, magakaton sila subong sang uga kag hamtin nga dagmay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "samtang"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "mga tunok"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "nalilit-ag"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "sa ila ilimnon"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "nagahubog"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "magakaton sila"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "subong sang dagmay"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "uga"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "hamtin"
+    }
+  ],
+  "timestamp": "2026-09-21T20:14:16.762179488Z",
+  "model": "glm-5.3"
+}

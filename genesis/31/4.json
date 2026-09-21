@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kag nagsugo si Yaakov kag gintawag si Rachel kag si Lea sa uma sa iya kawan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "nagsugo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kag gintawag"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "si Rachel"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "kag si Lea"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sa uma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "iya kawan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:09:36.061223008Z",
+  "model": "glm-5.3"
+}

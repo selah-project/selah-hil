@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Ginapanalangin ⟨ikaw⟩ sa duta nga pinuyanan, kag ginapanalangin ⟨ikaw⟩ sa kapatagan.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ginapanalangin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ikaw⟩"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa duta nga pinuyanan"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "kag ginapanalangin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ikaw⟩"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa kapatagan"
+    }
+  ],
+  "timestamp": "2026-09-21T17:30:39.199903062Z",
+  "model": "glm-5.3"
+}

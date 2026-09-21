@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag nakita ni Elohim ⟨את⟩ ang duta, kag yari — naguba ini, kay ginpangguba sang tanan nga unod ⟨את⟩ ang iya nga dalan sa ibabaw sang duta.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "kag nakita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kag yari"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "naguba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "ginpangguba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tanan nga"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "unod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya nga dalan"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ang iya nga dalan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duta"
+    }
+  ],
+  "timestamp": "2026-09-21T15:57:05.498814023Z",
+  "model": "glm-5.3"
+}

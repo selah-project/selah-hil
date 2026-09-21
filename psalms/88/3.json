@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 88,
+  "translation": "Mag-abot sa imo ⟨mga⟩ panyan ang akon pangamuyo; itilang ang imo dunggan sa akon pagtilawg.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Mag-abot"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa imo ⟨mga⟩ panyan"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ang akon pangamuyo"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "itilang"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "imo dunggan"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "sa akon pagtilawg"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:30.440107490Z",
+  "model": "glm-5.3"
+}

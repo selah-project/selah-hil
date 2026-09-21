@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag nangin si Shaul nga nagabantod ⟨sang iya mata⟩ ⟨את⟩ kay David, sadto nga adlaw kag padayon.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag nangin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "עון",
+      "gloss": "nagabantod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kay David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "sadto nga adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sadto"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "kag padayon"
+    }
+  ],
+  "timestamp": "2026-09-21T18:05:50.981791946Z",
+  "model": "glm-5.3"
+}

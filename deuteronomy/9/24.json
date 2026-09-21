@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Mga rebelde kamo upod kay Yahweh, gikan sa adlaw nga nakilala ko ⟨את⟩ kamo.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "Mga rebelde"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "upod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "gikan sa adlaw"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "nga nakilala ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo",
+      "marks": "kamo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:21:20.066137769Z",
+  "model": "glm-5.3"
+}

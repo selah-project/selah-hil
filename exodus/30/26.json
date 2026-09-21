@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kag pahiran mo sang iya ⟨את⟩ ang tolda sang pagtipon kag ⟨את⟩ ang kahon sang pagsaksi.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "kag pahiran mo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sang iya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tolda"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ang tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang pagtipon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang kahon"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ang kahon"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "sang pagsaksi"
+    }
+  ],
+  "timestamp": "2026-09-21T16:34:15.831830560Z",
+  "model": "glm-5.3"
+}

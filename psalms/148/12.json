@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 148,
+  "translation": "Mga batan-on nga lalaki kag pati mga dalaga, mga tigulang kaupod sang mga bata:",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "mga batan-on nga lalaki"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kag pati"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "mga dalaga"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "mga tigulang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod sang"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "mga bata"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:09.212349669Z",
+  "model": "glm-5.3"
+}

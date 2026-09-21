@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag nagbalik si Ravshakeh, kag nakita niya ⟨את⟩ ang hari sang Ashur nga nagaaway sa Libnah, kay nabatian niya nga naghalin ⟨siya⟩ sa Lakish.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "kag nagbalik"
+    },
+    {
+      "surface": "רב",
+      "gloss": "sang pangulo"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Ravshakeh"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "kag nakita niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hari sang Ashur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sang Ashur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "nagaaway"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libnah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nabatian niya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "naghalin"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "sa Lakish"
+    }
+  ],
+  "timestamp": "2026-09-21T18:47:10.990885003Z",
+  "model": "glm-5.3"
+}

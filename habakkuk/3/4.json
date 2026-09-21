@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 3:4",
+  "book": "habakkuk",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ang iya sinaw ⟨abi⟩ pareho sang kahayag ⟨maga⟩; mga sungay halin sa iya kamot, kag didto ang tago sang iya kusog.",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "Kag ang iya sinaw"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "pareho sang kahayag"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨maga⟩"
+    },
+    {
+      "surface": "קרנים",
+      "gloss": "mga sungay"
+    },
+    {
+      "surface": "mידו",
+      "gloss": "halin sa iya kamot"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨abi⟩"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "kag didto"
+    },
+    {
+      "surface": "חביון",
+      "gloss": "ang tago"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "sang iya kusog"
+    }
+  ],
+  "timestamp": "2026-09-21T20:16:04.892365970Z",
+  "model": "glm-5.3"
+}

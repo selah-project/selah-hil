@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Magahambal ako sa El, sa akon bato: Ngaa nakalimtan mo ako? Ngaa magalakat ako nga nagalidum sa pag-abuso sang akon kaaway?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "magahambal ako"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "sa El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "sa akon bato"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Ngaa"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "nakalimtan mo ako"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Ngaa"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "nagalidum"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "magalakat ako"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "sa pag-abuso"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "akon kaaway"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:58.335658173Z",
+  "model": "glm-5.3"
+}

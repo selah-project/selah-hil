@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 4:22",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "agud ipahibalo ninyo ⟨את⟩ sa inyo mga anak, nga nagaingon: Sa mamal-agon nga duta nagtabok ang Yisrael ⟨את⟩ sa Yarden ini.",
+  "tokens": [
+    {
+      "surface": "והודעתם",
+      "gloss": "agud ipahibalo ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa inyo mga anak"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "sa inyo mga anak"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "Sa mamal-agon nga duta"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "nagtabok"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Yarden ini"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sa Yarden"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-21T17:35:38.482162707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 40:3",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag isulod mo didto ⟨את⟩ ang kaha sang pagsaksi, kag tabtabunan mo sa ibabaw sang kaha sang ⟨את⟩ ang kurtina.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "Kag isulod mo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kaha sang pagsaksi"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kaha"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "sang pagsaksi"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "kag tabtabunan mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "kaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kurtina"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "kurtina"
+    }
+  ],
+  "timestamp": "2026-09-21T16:41:51.674455196Z",
+  "model": "glm-5.3"
+}

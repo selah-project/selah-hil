@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag nakita sang mga punoan ni Paro ⟨את⟩ iya, kag gindayaw nila ⟨את⟩ iya sa atubang ni Paro, kag gindala ang babae sa balay ni Paro.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Kag nakita"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iya (si Sarai)"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "sang mga punoan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "kag gindayaw nila"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iya (si Sarai)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "kag gindala"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ang babae"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    }
+  ],
+  "timestamp": "2026-09-21T15:59:18.677818435Z",
+  "model": "glm-5.3"
+}

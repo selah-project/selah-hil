@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 30:22",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kag gintandum ni Elohim ⟨את⟩ si Rachel, kag gintuytoy ni Elohim sa iya, kag ginbukas niya ⟨את⟩ iya tagipusuon.",
+  "tokens": [
+    {
+      "surface": "וגזכר",
+      "gloss": "kag gintandum"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Rachel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "si Rachel"
+    },
+    {
+      "surface": "וגשמע",
+      "gloss": "kag gintuytoy"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "וגפתח",
+      "gloss": "kag ginbukas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya tagipusuon"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "iya tagipusuon"
+    }
+  ],
+  "timestamp": "2026-09-21T22:17:33.456892639Z",
+  "model": "glm-5.3"
+}

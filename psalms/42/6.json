@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Ngaa ikaw nagaluya, akon kalag, kag ngaa ikaw nagakabudlay sa akon? Maglaom ka sa Elohim, kay paidi pa ako magapasalamat sa iya, ⟨sa⟩ mga pagluwas sang iya dagway.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "ikalaw ngaa ikaw nagaluya"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akon kalag"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "kag ngaa ikaw nagakabudlay"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "maglaom ka"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "paidi pa"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "ako magapasalamat sa iya"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "mga pagluwas"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sang iya dagway"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:03.040427531Z",
+  "model": "glm-5.3"
+}

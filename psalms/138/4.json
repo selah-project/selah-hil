@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 138,
+  "translation": "Magapasalamat sa imo, Yahweh, tanan nga mga hari sang duta, kay nabatian nila ang mga pulong sang imo baba.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "magapasalamat sa imo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "nga mga hari"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nabatian nila"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ang mga pulong"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "sang imo baba"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:06.812358072Z",
+  "model": "glm-5.3"
+}

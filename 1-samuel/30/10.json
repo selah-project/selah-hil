@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kag nagsunod si David, siya kag apat ka gatos ka tawo; kag nagtindog ang duha ka gatos ka tawo nga nagluya sa pagtabok ⟨את⟩ sang sapa sang Besor.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "nagsunod"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "kag apat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ka tawo"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "kag nagtindog"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ang duha ka gatos"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ka tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "nagluya"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "sa pagtabok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sapa"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "sang sapa"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "sang Besor"
+    }
+  ],
+  "timestamp": "2026-09-21T18:10:22.562896667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag subong, ang akon amay nagkarga sa inyo sang bug-at nga kabig-atan, kag ako magadugang sa ibabaw sang inyo kabig-atan; ang akon amay nagpanudyo ⟨את⟩ sa inyo sang gamot, kag ako magapanudyo ⟨את⟩ sa inyo sang alakdan.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kag subong"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ang akon amay"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "nagkarga"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sang kabig-atan"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "bug-at"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kag ako"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "magadugang"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "sang inyo kabig-atan"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ang akon amay"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "nagpanudyo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamo (sang gamot)"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "sang gamot"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kag ako"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "magapanudyo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamo (sang alakdan)"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "sang alakdan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:33:19.772420404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag gintuga niya ⟨את⟩ ang balay kag ginhimo niya ini tubtob katumanan; kag gintabon niya ⟨את⟩ ang balay sang mga balabag kag mga laray sang sedro.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "gintuga niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "ginhimo niya ini tubtob katumanan"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "kag gintabon niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "mga balabag"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "kag mga laray"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "sang sedro"
+    }
+  ],
+  "timestamp": "2026-09-21T18:28:27.933223538Z",
+  "model": "glm-5.3"
+}

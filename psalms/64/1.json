@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 64,
+  "translation": "Sa manunubod. Isa ka mizmor ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa manunubod"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "isa ka mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:29.064995360Z",
+  "model": "glm-5.3"
+}

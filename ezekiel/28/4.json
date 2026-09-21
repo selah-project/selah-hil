@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 28:4",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Sa imo kaalam kag sa imo pagtuki naghimo ka sang kadungganan para sa imo, kag naghimo ka sang bulawan kag pilak sa imo mga tinagoan.",
+  "tokens": [
+    {
+      "surface": "בחכמתך",
+      "gloss": "sa imo kaalam"
+    },
+    {
+      "surface": "ובתבונתך",
+      "gloss": "kag sa imo pagtuki"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "naghimo ka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa imo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kadungganan"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "kag naghimo ka"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "kag pilak"
+    },
+    {
+      "surface": "באוצרותיך",
+      "gloss": "sa imo mga tinagoan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:35:07.991953104Z",
+  "model": "glm-5.3"
+}

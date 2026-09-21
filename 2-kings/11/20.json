@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag nalipay ang tanan nga katawhan sang duta, kag ang ciudad nagpahuway; kag ⟨את⟩ si Atalyahu ginpatay nila sang espada sa balay sang hari.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "Kag nalipay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nga katawhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "kag ang ciudad"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "nagpahuway"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Atalyahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "si Atalyahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ginpatay nila"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sang espada"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sang hari"
+    }
+  ],
+  "timestamp": "2026-09-21T18:45:54.680833916Z",
+  "model": "glm-5.3"
+}

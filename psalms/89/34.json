@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Kag ang akon hesed indi ko pagabawi-on sa iya, kag indi ko pagabulus-an ang akon pagkamatinud-anon.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "kag ang akon hesed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "pagabawi-on"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "pagabulus-an"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "ang akon pagkamatinud-anon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:36.006726031Z",
+  "model": "glm-5.3"
+}

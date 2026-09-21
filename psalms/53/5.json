@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 53,
+  "translation": "Wala bala makahibalo ang mga nagakabuhat sang kaanggutan, ang mga nagakaon sang akon nga banwa nagakaon sang tinapay — si Elohim wala nila gintawag.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "wala bala"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "makahibalo"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ang mga nagakabuhat"
+    },
+    {
+      "surface": "און",
+      "gloss": "kaanggutan"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "ang mga nagakaon"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sang akon nga banwa"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "nagakaon"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "sang tinapay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "gintawag nila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:50.808869256Z",
+  "model": "glm-5.3"
+}

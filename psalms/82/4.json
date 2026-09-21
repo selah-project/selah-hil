@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 82,
+  "translation": "Luwagi ang mahuyang kag ang pulo-an; gikan sa kamot sang mga mananglalaum iligtad ninyo sila.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "Luwagi"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ang mahuyang"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "kag ang pulo-an"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gikan sa kamot"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sang mga mananglalaum"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "iligtad ninyo sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:38.523910155Z",
+  "model": "glm-5.3"
+}

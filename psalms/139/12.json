@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 139,
+  "translation": "Kay bisan ang kangitngit, wala gid magakangitngit sa Imo, kag ang gab-i magasidlak subong sang adlaw; ang kangitngit pareho sang kasanag.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kay bisan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ang kangitngit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala gid"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "magakangitngit"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sa Imo"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "kag ang gab-i"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "subong sang adlaw"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "magasidlak"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "ang kangitngit"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "pareho sang kasanag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:46.978014830Z",
+  "model": "glm-5.3"
+}

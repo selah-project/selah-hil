@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag nagtipon sila ⟨את⟩ sini buntag kag buntag, tagsa ka tawo suno sa iya pagkaon; kag sang nag-init ang adlaw, natunaw ini.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "nagtipon sila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sini"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "buntag"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "kag buntag"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tagsa ka tawo"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "suno sa iya"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "pagkaon"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "kag sang nag-init"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "kag natunaw"
+    }
+  ],
+  "timestamp": "2026-09-21T16:27:29.612917904Z",
+  "model": "glm-5.3"
+}

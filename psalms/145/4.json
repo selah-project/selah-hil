@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 145,
+  "translation": "Isa ka panunga sa isa ka panunga magadayaw sang imo mga binuhaton, kag ang imo mga gahum pagasugilon nila.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Isa ka panunga"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "sa isa ka panunga"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "magadayaw"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "sang imo mga binuhaton"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "kag ang imo mga gahum"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "pagasugilon nila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:36.138423958Z",
+  "model": "glm-5.3"
+}

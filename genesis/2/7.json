@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag ginporma ni Yahweh Elohim ⟨את⟩ ang tawo nga abog gikan sa duta, kag ginpahangos niya sa iya ilong sang ginhawa sang kabuhi, kag ang tawo nangin buhi nga kalag.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "ginporma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tawo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "abog"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "duta"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "kag ginpahangos"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "sa iya ilong"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "ginhawa"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sang kabuhi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag nangin"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "kalag"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "buhi"
+    }
+  ],
+  "timestamp": "2026-09-21T15:54:55.058036440Z",
+  "model": "glm-5.3"
+}

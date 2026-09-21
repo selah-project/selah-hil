@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Kag nangadiot kita kay Yahweh, sa Elohim sang aton mga amay, kag nagdungog si Yahweh ⟨את⟩ sang aton tingog, kag nakita niya ⟨את⟩ ang aton kadul-an kag ⟨את⟩ ang aton kapianghid kag ⟨את⟩ ang aton paglutos.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "Kag nangadiot kita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "sang aton mga amay"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "kag nagdungog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang aton tingog"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "sang aton tingog"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "kag nakita niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang aton kadul-an"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "ang aton kadul-an"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang aton kapianghid"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "ang aton kapianghid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang aton paglutos"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "ang aton paglutos"
+    }
+  ],
+  "timestamp": "2026-09-21T17:29:00.259621329Z",
+  "model": "glm-5.3"
+}

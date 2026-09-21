@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 25:10",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kay magapahuway ang kamot ni Yahweh sa ini nga bundok, kag ang Moab dut-on sa ilalom sini, nga pareho sang pagduso sang olol sa tubig sang gamol sa Madmenah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תנוח",
+      "gloss": "magapahuway"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ang kamot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bundok"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini nga"
+    },
+    {
+      "surface": "ונדוש",
+      "gloss": "kag dut-on"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ang Moab"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sa ilalom sini"
+    },
+    {
+      "surface": "כהדוש",
+      "gloss": "nga pareho sang pagduso"
+    },
+    {
+      "surface": "מתבן",
+      "gloss": "sang olol"
+    },
+    {
+      "surface": "במי",
+      "gloss": "sa tubig"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "sang gamol sa Madmenah"
+    }
+  ],
+  "timestamp": "2026-09-21T18:59:29.423129677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 20:1",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag si Ben-Hadad nga hari sang Aram nagtipon ⟨sa⟩ tanan niya nga kusog, kag tatlo ka pulo kag duha ka hari kaupod ⟨sa iya⟩, kag mga kabayo kag mga karosa; kag nag-akat kag nagpalibot sa Shomron kag nakig-away sa sini.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Kag si Ben-Hadad"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "nagtipon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan niya nga kusog"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "niya nga kusog"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "kag tatlo ka pulo"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "kag duha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ka hari"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kaupod sa iya"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "kag mga kabayo"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "kag mga karosa"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "kag nag-akat"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "kag nagpalibot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "kag nakig-away"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sa sini"
+    }
+  ],
+  "timestamp": "2026-09-21T18:37:20.934824236Z",
+  "model": "glm-5.3"
+}

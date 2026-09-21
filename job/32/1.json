@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 32:1",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Gin-untat sang tatlo ka mga tawo nga ina ang pagsabat ⟨את⟩ kay Iyob, kay siya ⟨matarong⟩ sa iya kaugalingon nga mga mata.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "gin-untat"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tatlo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nga ina"
+    },
+    {
+      "surface": "מענות",
+      "gloss": "ang pagsabat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Iyob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "si Iyob"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "sa iya kaugalingon nga mga mata"
+    }
+  ],
+  "timestamp": "2026-09-21T22:42:29.004936001Z",
+  "model": "glm-5.3"
+}

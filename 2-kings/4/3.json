@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag nagsiling siya: Lakat, pangayo sang imo kaugalingon sang mga sudlanan sa gwa, gikan ⟨את⟩ tanan nga imo mga silingan — mga sudlanan nga wala sing sulod; indi paghul-i.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "lakat"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "pangayo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sang imo kaugalingon"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "mga sudlanan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "gwa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "gikan ⟨את⟩",
+      "marks": "tanan nga imo mga silingan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "imo mga silingan"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "mga sudlanan"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "nga wala sing sulod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "paghul-i"
+    }
+  ],
+  "timestamp": "2026-09-21T18:41:10.875446625Z",
+  "model": "glm-5.3"
+}

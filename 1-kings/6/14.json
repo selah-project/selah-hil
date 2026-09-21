@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag gintukod ni Shelomoh ⟨את⟩ ang balay, kag ginpatapos niya ini.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "kag gintukod"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "kag ginpatapos niya ini"
+    }
+  ],
+  "timestamp": "2026-09-21T18:29:20.632796488Z",
+  "model": "glm-5.3"
+}

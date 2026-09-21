@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "ang iya mga padi nahulog sa espada, kag ang iya mga balo wala nagpanaghoy",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "iya mga padi"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sa espada"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "nahulog"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "kag iya mga balo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "nagpanaghoy"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:25.101728858Z",
+  "model": "glm-5.3"
+}

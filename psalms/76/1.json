@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 76,
+  "translation": "Sa manugdumala, upod sang mga panugtog nga may hudot; mizmor ni Asap, usa ka kanta.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa manugdumala"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "upod sang mga panugtog nga may hudot"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ni Asap"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kanta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:15.213749594Z",
+  "model": "glm-5.3"
+}

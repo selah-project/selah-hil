@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 89:21",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Nakita ko si David, ang akon sulugoon; sang akon lana nga balaan ginpahid ko ⟨sa iya⟩.",
+  "tokens": [
+    {
+      "surface": "מצאתי",
+      "gloss": "nakita ko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ang akon sulugoon"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "sang lana"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "nga balaan"
+    },
+    {
+      "surface": "משחתיו",
+      "gloss": "ginpahid ko sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:55.669193895Z",
+  "model": "glm-5.3"
+}

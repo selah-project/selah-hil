@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 120,
+  "translation": "Yahweh, iligtas mo ang akon kalag gikan sa mga bibig sang bakak, gikan sa dila sang pagpanglimbong.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "iligtas mo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "gikan sa mga bibig"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sang bakak"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "gikan sa dila"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "sang pagpanglimbong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:50:47.397339109Z",
+  "model": "glm-5.3"
+}

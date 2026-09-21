@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kag buligan sila ni Yahweh kag palagason sila — palagason niya sila sa mga malaot kag luwason niya sila — kay nagpanalipod sila sa iya.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "Kag buligan sila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "kag palagason sila"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "palagason niya sila"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "sa mga malaot"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "kag luwason niya sila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "nagpanalipod sila"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:02.102066602Z",
+  "model": "glm-5.3"
+}

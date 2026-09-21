@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 73,
+  "translation": "Ginbutang nila ang ila baba sa ⟨mga⟩ langit, kag ang ila dila nagalakat sa duta.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "ginbutang"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sa langit"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ang ila baba"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "kag ang ila dila"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "nagalakat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:42.214066417Z",
+  "model": "glm-5.3"
+}

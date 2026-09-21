@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 27:10",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "kay bakak ang ila ginapanalagna sa inyo, agod palayuon kamo ⟨את⟩ halin sa ibabaw sang inyo duta, kag itapok ko kamo ⟨את⟩ kag mangadin kamo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "bakak"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ang ila"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "ginapanalagna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "agod"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "palayuon"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "halin sa ibabaw"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "sang inyo duta"
+    },
+    {
+      "surface": "והדחתי",
+      "gloss": "kag itapok ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "kag mangadin kamo"
+    }
+  ],
+  "timestamp": "2026-09-21T19:27:32.236407813Z",
+  "model": "glm-5.3"
+}

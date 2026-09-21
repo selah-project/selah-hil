@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Kay ang aton kalag nagaturog-turog sa yabyab⟨ean⟩; ang aton tiyan nagadikit sa duta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "nagaturog-turog"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "sa yabyab"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "aton kalag"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "nagadikit"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "aton tiyan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:09.054250877Z",
+  "model": "glm-5.3"
+}

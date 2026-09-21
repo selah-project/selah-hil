@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag nagsaka si David sa sadto ⟨gikan⟩ didto, kag nagpuyo siya sa mga kuta sang Ein Gedi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "kag nagsaka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "משם",
+      "gloss": "sa sadto didto"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kag nagpuyo"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "sa mga kuta"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ein"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-09-21T22:27:49.513337330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 11:3",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag ⟨siya⟩ nagtago kaupod ⟨sa iya⟩ sa balay ni Yahweh sing anom ka tuig, kag si Athalya naghari sa duta.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kag natabo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "siya (kaupod sa iya)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "nagtago"
+    },
+    {
+      "surface": "שש",
+      "gloss": "anom"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "kag si Athalya"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duta"
+    }
+  ],
+  "timestamp": "2026-09-21T22:30:43.086940496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 40:30",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "kag ang mga arko palibot kag palibot: lima kag duha ka pulo ka soko ang laba, kag lima ka soko ang lapad.",
+  "tokens": [
+    {
+      "surface": "ואלמות",
+      "gloss": "kag ang mga arko"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "palibot"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kag palibot"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ang laba"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "kag duha ka pulo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ka soko"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "kag ang lapad"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ka soko"
+    }
+  ],
+  "timestamp": "2026-09-21T19:59:05.229645324Z",
+  "model": "glm-5.3"
+}

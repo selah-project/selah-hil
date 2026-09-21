@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 63:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 63,
+  "translation": "Kag ang hari magakalipay kay Elohim; magapahimaya ang tanan nga nanumpa sa iya, kay ang baba sang mga naghambal sing bakak magasira.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "kag ang hari"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "magakalipay"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "kay Elohim"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "magapahimaya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "nga nanumpa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יסכר",
+      "gloss": "magasira"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ang baba"
+    },
+    {
+      "surface": "דוברי",
+      "gloss": "sang mga naghambal"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sing bakak"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:43.751679386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 48,
+  "translation": "Isa ka kanta, isa ka mizmor, sang mga anak ni Korach.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "kanta"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sang mga anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:40.322640364Z",
+  "model": "glm-5.3"
+}

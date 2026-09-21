@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Ang bakak ginadumtan ko kag ginasuklan ko gid ⟨ini⟩; ang imo Torah ginhigugma ko.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "ang bakak"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ginadumtan ko"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "kag ginasuklan ko gid ⟨ini⟩"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "imo Torah"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ginhigugma ko"
+    }
+  ],
+  "timestamp": "2026-09-21T22:41:03.791447268Z",
+  "model": "glm-5.3"
+}

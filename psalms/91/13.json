@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 91,
+  "translation": "Sa leon kag bitin magatapak ka; madamlagon mo ang batang leon kag ang dako nga bitin.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "leon"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "kag bitin"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "magatapak ka"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "madamlagon mo"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "batang leon"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "kag ang dako nga bitin"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:58.759545542Z",
+  "model": "glm-5.3"
+}

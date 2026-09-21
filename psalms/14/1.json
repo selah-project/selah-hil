@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Sa manugdumala. Ni David. Nagsiling ang ulok sa iya tagipusuon, \"Wala sing Elohim.\" Ginpahubag sila, ginpalain sila sa ila binuhaton; wala sing naghimo sang maayo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa manugdumala"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nagsiling"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ang ulok"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "sa iya tagipusuon"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala sing"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "ginpahubag sila"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "ginpalain sila"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "sa ila binuhaton"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala sing"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "naghimo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "sang maayo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:55.755719306Z",
+  "model": "glm-5.3"
+}

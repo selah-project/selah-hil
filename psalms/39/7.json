@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 39,
+  "translation": "Ti, ingon sa anino nagalakat ang tawo; ti, ginhawa lang ang ila kagul-ananon — nagatumung siya ⟨sang kabtangan⟩ kag wala niya masayud kon sin-o ang magginalkad sini.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "sa anino"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "nagalakat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ginhawa"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "nagakalatuyo sila"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "nagatumung siya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "masayud niya"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kon sin-o"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "magginalkad sini"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:08.264348735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Ang tanan nagpalayo, magkaupod sila nagkahubag; wala sing naghimo sang maayo, wala sing bisan isa.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "סר",
+      "gloss": "nagpalayo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magkaupod"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "nagkahubag"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala sing"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "naghimo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "sang maayo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala sing"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:55.756167374Z",
+  "model": "glm-5.3"
+}

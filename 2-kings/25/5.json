@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag ginpangligad sang hukbo sang mga Kasdi ang hari, kag naabtan nila ⟨אתו⟩ sa mga kapatagan sang Yericho, kag ang iya bugal nga hukbo nagkalat gikan sa iya.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "kag ginpangligad"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hukbo"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "sang mga Kasdi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sa likod"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "kag naabtan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya (ang hari)"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "sa mga kapatagan"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "sang Yericho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "iya hukbo"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "nagkalat"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "gikan sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T18:51:36.943554726Z",
+  "model": "glm-5.3"
+}

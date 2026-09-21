@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Isa ka dayo ako sa duta; indi pagtagoon sa akon ang imo mga kasuguan.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Isa ka dayo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "pagtagoon"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "imo mga kasuguan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:13.514118310Z",
+  "model": "glm-5.3"
+}

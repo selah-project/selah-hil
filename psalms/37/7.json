@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Maghilum kay Yahweh kag maghulat ⟨kaniya⟩; indi paghubad tungod sa makamaminion sa iya dalanon, sa tawo nga nagahimo sang mga malain nga plano.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Maghilum"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "kag maghulat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨kaniya⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "paghubad"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "sa makamaminion"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "iya dalanon"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nagahimo"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "mga malain nga plano"
+    }
+  ],
+  "timestamp": "2026-09-21T22:38:35.037765900Z",
+  "model": "glm-5.3"
+}

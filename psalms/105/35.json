@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Kag ginkaun ang tanan nga banwa sa ila duta, kag ginkaun ang bunga sang ila duta nga lungag.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "kag ginkaun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "banwa"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "sa ila duta"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "kag ginkaun"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ang bunga"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "sang ila duta nga lungag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:16.313908534Z",
+  "model": "glm-5.3"
+}

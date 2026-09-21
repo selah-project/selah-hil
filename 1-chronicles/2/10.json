@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag si Ram natawo ⟨את⟩ kay Aminadav, kag si Aminadav natawo ⟨את⟩ kay Nakhshon, dalogdog sang mga anak nga lalaki ni Yehudah.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "kag si Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Aminadav"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "kay Aminadav"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "kag si Aminadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Nakhshon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "kay Nakhshon"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "dalogdog"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sang mga anak nga lalaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-21T21:49:19.035981154Z",
+  "model": "glm-5.3"
+}

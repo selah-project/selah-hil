@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 23:1",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Pas-anan sang Tsor. Magpanangis kamo, mga sakayan sang Tarshish, kay ginwasak ⟨ini⟩ — wala sing balay, wala sing pagpasulod; gikan sa duta sang Kittim narevelar sa ila.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Pas-anan"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sang Tsor"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "Magpanangis kamo"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "mga sakayan"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "sang Tarshish"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ginwasak"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "pagpasulod"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa duta"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "sang Kittim"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "narevelar"
+    },
+    {
+      "surface": "למו",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T19:00:28.142871487Z",
+  "model": "glm-5.3"
+}

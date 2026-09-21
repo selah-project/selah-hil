@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 102,
+  "translation": "Tungod sa imo kaligutgut kag sa imo kapungot, kay gintuboy mo ako kag ginsikway mo ako.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "imo kaligutgut"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "imo kapungot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "gintuboy mo ako"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "ginsikway mo ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:49.873044322Z",
+  "model": "glm-5.3"
+}

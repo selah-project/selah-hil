@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 34:8",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Kag naghambal si Khamor ⟨Аת⟩ ila nga nagasiling: Si Shekhem akon anak, ang iya kalag nagkaduhoy sa inyo anak nga babae; ihalad ⟨g⟩ kamo ⟨את⟩ siya sa iya nga asawa.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Kag naghambal"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "si Khamor"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ila",
+      "marks": "ila (prepositional את, 'with them')"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Si Shekhem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "akon anak"
+    },
+    {
+      "surface": "חשקה",
+      "gloss": "nagkaduhoy"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ang iya kalag"
+    },
+    {
+      "surface": "בבתכם",
+      "gloss": "sa inyo anak nga babae"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ihalad"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨g⟩ kamo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "nga asawa"
+    }
+  ],
+  "timestamp": "2026-09-21T16:11:12.276220171Z",
+  "model": "glm-5.3"
+}

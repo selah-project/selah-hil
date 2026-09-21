@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Ginabaligya mo ang imo nga katawhan nga wala sing kabtang, kag wala ka nakadugang sa ila nga balor.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "ginabaligya"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "imo nga katawhan"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "nga wala sing"
+    },
+    {
+      "surface": "הון",
+      "gloss": "kabtang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "nakadugang"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "sa ila nga balor"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:34.128871585Z",
+  "model": "glm-5.3"
+}

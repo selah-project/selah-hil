@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ginpapuli siya ni Yahweh Elohim sa tanaman sang Eden sa pag-atipan ⟨את⟩ sang duta nga ginhalin niya.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "ginpapuli siya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "sa tanaman"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "sang Eden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "sa pag-atipan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang duta"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ginhalin"
+    },
+    {
+      "surface": "משם",
+      "gloss": "niya"
+    }
+  ],
+  "timestamp": "2026-09-21T15:56:12.017525246Z",
+  "model": "glm-5.3"
+}

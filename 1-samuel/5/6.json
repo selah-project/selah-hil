@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag nagmabug-at ang kamot ni Yahweh sa mga taga-Ashdod, kag ginlaglag sila, kag gintama niya ⟨אתם⟩ sing mga bukol — ⟨את⟩ Ashdod kag ⟨את⟩ iya mga utlanan.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "nagmabug-at"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "mga taga-Ashdod"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "ginlaglag sila"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "gintama niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "sing mga bukol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashdod"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga utlanan"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "iya mga utlanan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:00:39.807865859Z",
+  "model": "glm-5.3"
+}

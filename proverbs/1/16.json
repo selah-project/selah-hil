@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kay ang ila mga tiil nagadalagan padulong sa kalaot, kag nagapadali sa pagbus-ak sang dugo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ang ila mga tiil"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "padulong sa kalaot"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "nagadalagan"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "kag nagapadali"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "sa pagbus-ak"
+    },
+    {
+      "surface": "דם",
+      "gloss": "sang dugo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:59.254767746Z",
+  "model": "glm-5.3"
+}

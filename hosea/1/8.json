@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ginit-oy niya ⟨si⟩ Lo-Ruhamah, kag nagdugangan siya kag natawo sang anak nga lalaki.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "kag ginit-oy niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Lo-Ruhamah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamah"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "kag nagdugangan siya"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "kag natawo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sang anak nga lalaki"
+    }
+  ],
+  "timestamp": "2026-09-21T20:04:42.191604576Z",
+  "model": "glm-5.3"
+}

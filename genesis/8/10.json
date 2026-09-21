@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag naghulat pa siya sing pito ka adlaw nga iban, kag gintambal niya ang pagpadala ⟨את⟩ sang salampati gikan sa ⟨ang⟩ sakayan.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "kag naghulat"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito ka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "nga iban"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "kag gintambal niya"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ang pagpadala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang salampati"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "sang salampati"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "sa sakayan"
+    }
+  ],
+  "timestamp": "2026-09-21T15:57:09.019755351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ipatindog ko nga mga testigo sa akon sang mga matinud-anon: ⟨את⟩ si Uriyah nga pari kag ⟨את⟩ si Zekharyahu nga anak ni Yeverekhyahu.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "Kag ipatindog ko nga mga testigo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "mga testigo"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "matinud-anon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Uriyah nga pari"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "nga pari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Zekharyahu anak ni Yeverekhyahu"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekharyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "ni Yeverekhyahu"
+    }
+  ],
+  "timestamp": "2026-09-21T18:54:44.117223985Z",
+  "model": "glm-5.3"
+}

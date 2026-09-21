@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag ako amo ang Yahweh, ang imo Elohim, gikan sa duta sang Mitsrayim; kag Elohim nga iba pa gawas sa akon, indi mo ikilala, kag Manluluwas wala sing iba kundi ako.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "kag ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ang imo Elohim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "kag Elohim"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "gawas sa akon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "mo ikilala"
+    },
+    {
+      "surface": "ומושיע",
+      "gloss": "kag Manluluwas"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "kundi ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:07:23.409155866Z",
+  "model": "glm-5.3"
+}

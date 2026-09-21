@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Indi sila maghambal sa ila tagipusuon, Aha, ang aton kalag! Indi sila maghambal, Ginalamon namon siya!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "maghambal sila"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "sa ila tagipusuon"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ang aton kalag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "maghambal sila"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "Ginalamon namon siya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:52.124852902Z",
+  "model": "glm-5.3"
+}

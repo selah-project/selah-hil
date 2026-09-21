@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag ginpakadto ni Yehoshua ⟨את⟩ ang katawhan, tagsa ka tawo sa iya mana.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ginpakadto"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tagsa ka tawo"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "sa iya mana"
+    }
+  ],
+  "timestamp": "2026-09-21T17:45:07.216804753Z",
+  "model": "glm-5.3"
+}

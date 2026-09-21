@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 116,
+  "translation": "Ano ang isabat ko kay Yahweh tungod sa tanan niya nga mga pag-ayo sa akon?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ang isabat ko"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "nga mga pag-ayo niya"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:32.727703828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 7:40",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag ginhimo ni Khiram ⟨את⟩ ang mga basin, kag ⟨את⟩ ang mga pala, kag ⟨את⟩ ang mga mangko; kag natapos si Khiram sa paghimo sang tanan nga buluhaton nga iya ginhimo para kay hari Shelomoh sa balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kag ginhimo"
+    },
+    {
+      "surface": "חירום",
+      "gloss": "si Khiram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga basin"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "mga basin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga pala"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "mga pala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga mangko"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "mga mangko"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "kag natapos"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "si Khiram"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa paghimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga buluhaton"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "nga buluhaton"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "iya ginhimo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "para kay hari"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T18:28:38.288005027Z",
+  "model": "glm-5.3"
+}

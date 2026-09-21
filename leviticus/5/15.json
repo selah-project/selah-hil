@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 5:15",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kon ang isa ka kalag magpangita sang kalapasan kag magkasala sing wala sing tuyo sa mga butang nga balaan kay Yahweh, magdala siya sang ⟨את⟩ iya asham kay Yahweh: isa ka lalaki nga karnero nga walay depekto gikan sa mga carabao ukon kordero, sumo sa imo pagtagad sa plata, mga shekel sa shekel sang santuaryo, para sa asham.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "ang isa ka kalag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "תמעל",
+      "gloss": "magpangita sang kalapasan"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kalapasan"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "kag magkasala"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "sing wala sing tuyo"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "sa mga butang nga balaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "magdala siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya asham"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "iya asham"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "איל",
+      "gloss": "lalaki nga karnero"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "nga walay depekto"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ang mga carabao ukon kordero"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "sumo sa imo pagtagad"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sa plata"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "mga shekel"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "sa shekel"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sang santuaryo"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "para sa asham"
+    }
+  ],
+  "timestamp": "2026-09-21T16:44:16.097642681Z",
+  "model": "glm-5.3"
+}

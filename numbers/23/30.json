@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 23:30",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag ginhimo ni Balak samtong ginsiling ni Bilam, kag ginpatindog niya ang ⟨את⟩ baka kag ⟨את⟩ karnero sa ⟨tanan⟩ halaran.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kag ginhimo"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ni Balak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "samtong"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ginsiling"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ni Bilam"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "kag ginpatindog niya"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ang baka",
+      "marks": null
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "kag karnero",
+      "marks": null
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "sa halaran"
+    }
+  ],
+  "timestamp": "2026-09-21T17:10:05.251663914Z",
+  "model": "glm-5.3"
+}

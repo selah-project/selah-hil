@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 136,
+  "translation": "Sa naglatag sang duta sa ibabaw sang mga tubig, kay tubtob sa dayon ang iya hesed.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "sa naglatag"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sang mga tubig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tubtob sa dayon"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iya hesed"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:22.527311973Z",
+  "model": "glm-5.3"
+}

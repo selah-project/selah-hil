@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "⟨את⟩ Ang imo pilak indi nimo ihatag sa iya sa tubos, kag sang dako nga tubos indi nimo ihatag ang imo kaon.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imo pilak"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "imo pilak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nimo ihatag"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "sa tubos"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "kag sang dako nga tubos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nimo ihatag"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "imo kaon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:55:10.513461904Z",
+  "model": "glm-5.3"
+}

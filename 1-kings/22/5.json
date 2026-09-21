@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kag nagsiling si Yehoshafat sa hari sang Yisrael: Pangitaa, palihog, sa subong nga adlaw ⟨את⟩ ang pulong sang Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag nagsiling"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "si Yehoshafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "Pangitaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "palihog"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "sa subong nga adlaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pulong"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sang Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T18:39:15.684403840Z",
+  "model": "glm-5.3"
+}

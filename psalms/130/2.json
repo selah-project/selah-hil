@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 130,
+  "translation": "Adonay, magpatalinghug sa akon tingog; maging ang imo mga dalunggan nga mapamatok sa tingog sang akon mga pangamuyo.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "magpatalinghug"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "sa akon tingog"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "maging"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "ang imo mga dalunggan"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "nga mapamatok"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "sa tingog"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "sang akon mga pangamuyo"
+    }
+  ],
+  "timestamp": "2026-09-21T22:40:34.417625158Z",
+  "model": "glm-5.3"
+}

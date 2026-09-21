@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "kag kon indi, maggwa sing kalayo kay Avimelekh kag magkaon ⟨את⟩ sang mga ginoo sang Shekhem kag ⟨את⟩ sang balay sang Millo; kag maggwa sing kalayo sa mga ginoo sang Shekhem kag sa balay sang Millo, kag magkaon ⟨את⟩ kay Avimelekh",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "אין",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "maggwa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kalayo"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "kay Avimelekh"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "kag magkaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga ginoo sang Shekhem"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "mga ginoo"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "sang Shekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "balay sang Millo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "sang Millo"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "kag maggwa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kalayo"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "sa mga ginoo"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "sang Shekhem"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "kag sa balay"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "sang Millo"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "kag magkaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avimelekh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "kay Avimelekh"
+    }
+  ],
+  "timestamp": "2026-09-21T17:50:50.567388652Z",
+  "model": "glm-5.3"
+}

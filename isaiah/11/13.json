@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag mamat-ad ang kabigut sang Efrayim, kag ang mga manuglutos kay Yehudah magaputol; si Efrayim indi na magakabigut ⟨את⟩ kay Yehudah, kag si Yehudah indi na magalutos ⟨את⟩ kay Efrayim.",
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "kag mamat-ad"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "ang kabigut"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "sang Efrayim"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "kag ang mga manuglutos"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "kay Yehudah"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "magaputol"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "si Efrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "magakabigut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "kag si Yehudah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "magalutos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T18:56:46.041698937Z",
+  "model": "glm-5.3"
+}

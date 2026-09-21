@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 48:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 48,
+  "translation": "Libot-i ninyo ang Tsiyon kag i-libot ninyo ⟨siya⟩, ihap ninyo ang iya mga torre.",
+  "tokens": [
+    {
+      "surface": "סבו",
+      "gloss": "libot-i ninyo"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ang Tsiyon"
+    },
+    {
+      "surface": "והקיפוה",
+      "gloss": "kag i-libot ninyo ⟨siya⟩"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ihap ninyo"
+    },
+    {
+      "surface": "מגדליה",
+      "gloss": "ang iya mga torre"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:24.997746791Z",
+  "model": "glm-5.3"
+}

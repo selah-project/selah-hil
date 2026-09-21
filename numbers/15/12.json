@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Suno sa ihap nga himoon ninyo, suno sina himoon ninyo sa tagsa, suno sa ila ihap.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "suno sa ihap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "himonoon ninyo"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "suno sina"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "himonoon ninyo"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "sa tagsa"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "suno sa ila ihap"
+    }
+  ],
+  "timestamp": "2026-09-21T17:06:57.865117142Z",
+  "model": "glm-5.3"
+}

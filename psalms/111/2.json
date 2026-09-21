@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 111,
+  "translation": "Dako ang mga buhat ni Yahweh, ginapangita sang tanan nga nagakalipayan sa sini.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "Dako"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ang mga buhat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "ginapangita"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "nga nagakalipayan sa sini"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:20.128086385Z",
+  "model": "glm-5.3"
+}

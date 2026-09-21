@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 59,
+  "translation": "Apang ikaw, Yahweh, magakatawa sa ila; magalaag sa tanan nga mga pungsod.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Apang ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "magakatawa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "magalaag"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga pungsod"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:25.271636437Z",
+  "model": "glm-5.3"
+}

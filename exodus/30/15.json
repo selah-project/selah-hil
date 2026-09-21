@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 30:15",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Ang madato indi magdugang, kag ang kabulu indi magkulang sa katunga sang shekel, sa paghatag ⟨את⟩ sang halad ni Yahweh, sa pagtubos sa inyo mga kalag.",
+  "tokens": [
+    {
+      "surface": "העשיר",
+      "gloss": "ang madato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "magdugang"
+    },
+    {
+      "surface": "והדל",
+      "gloss": "kag ang kabulu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "magkulang"
+    },
+    {
+      "surface": "ממחצית",
+      "gloss": "sa katunga"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "sang shekel"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sa paghatag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang halad ni Yahweh"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "sang halad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "sa pagtubos"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "inyo mga kalag"
+    }
+  ],
+  "timestamp": "2026-09-21T16:35:12.958530799Z",
+  "model": "glm-5.3"
+}

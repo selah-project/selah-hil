@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Ang tanan nga ginlahi alang sa laglag, bisan ano nga ginlahi gikan sa tawo, indi mabawi; mamatay gid — patyon gid.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ginlahi alang sa laglag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bisan ano nga"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "ginlahi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "mabawi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mamatay gid"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "patyon gid"
+    }
+  ],
+  "timestamp": "2026-09-21T16:57:27.809276971Z",
+  "model": "glm-5.3"
+}

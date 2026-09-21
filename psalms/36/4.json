@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Ang mga pulong sang iya baba amo ang kalaotan kag pagpanginadlawan; nagpabilin siya sa pagtamod kag paghimo sang maayo.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ang mga pulong"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "sang iya baba"
+    },
+    {
+      "surface": "און",
+      "gloss": "kalaotan"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "kag pagpanginadlawan"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "nagpabilin"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "sa pagtamod"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "paghimo sang maayo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:34.485881711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 106,
+  "translation": "Kag nakita niya ang ila kalisod, sang madungog niya ⟨את⟩ ang ila paninghalad.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "kag nakita niya"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ang kalisod"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ila"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "sang madungog niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ila paninghalad"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "ang ila paninghalad"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:25.436963620Z",
+  "model": "glm-5.3"
+}

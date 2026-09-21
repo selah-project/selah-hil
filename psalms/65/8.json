@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 65,
+  "translation": "Nagapahunong sang kahuong sang mga dagat, sang kahuong sang ila mga balud, kag sang kahuongan sang mga pungsod.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "nagapahunong"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "sang kahuong"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "sang mga dagat"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "sang kahuong"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "sang ila mga balud"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "kag sang kahuongan"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "sang mga pungsod"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:32.424054132Z",
+  "model": "glm-5.3"
+}

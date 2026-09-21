@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "⟨ang⟩ isa ka Dagat, kag ⟨את⟩ ang napulo kag duha ka baka sa idalom sini",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Dagat"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Dagat"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang napulo kag duha ka baka"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "mga baka"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duha"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "napulo kag"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sa idalom sini"
+    }
+  ],
+  "timestamp": "2026-09-21T22:01:21.898153910Z",
+  "model": "glm-5.3"
+}

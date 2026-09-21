@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Nga sa iya kamot ang kalag sang tanan nga buhi, kag ang espiritu sang tanan nga unod sang tawo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa iya kamot"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kalag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nga buhi"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "kag ang espiritu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "unod"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sang tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T21:08:36.785771279Z",
+  "model": "glm-5.3"
+}

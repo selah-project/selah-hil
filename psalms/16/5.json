@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Si Yahweh ang akon bahin kag ang akon kopa; ikaw ang nagapalig-on sang akon palad.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "ang bahin"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "sang akon parte"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "kag ang akon kopa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "nagapalig-on"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "sang akon palad"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:13.262953321Z",
+  "model": "glm-5.3"
+}

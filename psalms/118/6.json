@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 118,
+  "translation": "Si Yahweh ⟨para⟩ sa akon — indi ako magahadlok; ano ang mahimo sang tawo sa akon?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨para⟩ sa akon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ako magahadlok"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ang mahimo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:45.645562758Z",
+  "model": "glm-5.3"
+}

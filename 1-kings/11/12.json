@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Apang sa imo mga adlaw indi ko ini himoon, tungod kay David imo amay; sa kamot sang imo anak magakablit ako sini.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Apang"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "sa imo mga adlaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "ko ini himoon"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tungod kay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "imo amay"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sang imo anak"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "magakablit ako sini"
+    }
+  ],
+  "timestamp": "2026-09-21T18:32:30.584409352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Kon siya nagbutang sang iya mga timailhan sa Mitsrayim kag sang iya mga katuohan sa mga uma sang Tsoan.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nagbutang"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "iya mga timailhan"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "kag sang iya mga katuohan"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa mga uma"
+    },
+    {
+      "surface": "צען",
+      "gloss": "sang Tsoan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:09.774015050Z",
+  "model": "glm-5.3"
+}

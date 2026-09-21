@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Kag ginganlan ni Yaakov ⟨את⟩ ang ngalan sang duog nga diin nakighambal ⟨את⟩ iya didto si Elohim — Bet-El.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Kag ginganlan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ngalan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang ngalan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "sang duog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga diin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nakighambal"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iya",
+      "marks": "iya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-21T16:11:38.834084681Z",
+  "model": "glm-5.3"
+}

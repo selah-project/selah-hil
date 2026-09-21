@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag si Shaharayim nagkatawo ⟨mga anak⟩ sa kapatagan sang Moab sang iya pagpapagawas sa ila — ⟨kanay⟩ si Hushim kag ⟨kanay⟩ si Baara, iya mga asawa.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "kag si Shaharayim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkatawo ⟨mga anak⟩"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa kapatagan sang"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sang"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "iya pagpapagawas sa ila"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "si Hushim kag si Baara"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "si Hushim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Baara"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "si Baara"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "iya mga asawa"
+    }
+  ],
+  "timestamp": "2026-09-21T21:51:53.459290460Z",
+  "model": "glm-5.3"
+}

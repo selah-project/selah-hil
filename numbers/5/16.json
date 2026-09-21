@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag ginpatalaot sang pari ⟨את⟩ siya, kag gintindog niya siya sa atubangan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "kag ginpatalaot"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ siya",
+      "marks": "ang babae"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang pari"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "kag gintindog"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T22:23:02.449074297Z",
+  "model": "glm-5.3"
+}

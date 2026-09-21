@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag nangin ara sa iya ang mga asawa nga prinsesa, pito ka gatos, kag mga kabit, tatlo ka gatos; kag ang iya mga asawa nagbalikad ⟨את⟩ sang iya kasingkasing.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kag nangin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "mga asawa"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "nga prinsesa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "kag mga kabit"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tatlo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "kag nagbalikad"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ang iya mga asawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya kasingkasing"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ang iya kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-21T18:34:07.165566234Z",
+  "model": "glm-5.3"
+}

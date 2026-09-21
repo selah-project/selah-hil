@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 96,
+  "translation": "Sa atubangan ni Yahweh, kay nagakari ⟨siya⟩, kay nagakari ⟨siya⟩ sa paghukom sang duta; hukman niya ang kalibutan ⟨sang⟩ katarungan kag ang mga pungsod sang iya pagkamatinud-anon.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nagakari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nagakari"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "sa paghukom"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "hukman niya"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ang kalibutan"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "katarungan"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "kag ang mga pungsod"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "iya pagkamatinud-anon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:09.139069027Z",
+  "model": "glm-5.3"
+}

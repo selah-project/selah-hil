@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 73,
+  "translation": "Kon nagsiling ako, 'Isaysay ko ini nga siling,' tan-awa, naglimod ako sa kaliwatan sang imo mga anak.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nagsiling ako"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "isasaysay ko"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "nga siling"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "דור",
+      "gloss": "kaliwatan"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "sang imo mga anak"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "naglimod ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:45.865166151Z",
+  "model": "glm-5.3"
+}

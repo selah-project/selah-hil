@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag nagsiling ang uyo ni Shaul, Ihambal ⟨man⟩ sa akon, ano ang ginsiling sa inyo ni Shemuel?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ihambal"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨man⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ginsiling"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuel"
+    }
+  ],
+  "timestamp": "2026-09-21T18:02:16.518860541Z",
+  "model": "glm-5.3"
+}

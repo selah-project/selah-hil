@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 39:38",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 39,
+  "translation": "kag ⟨את⟩ ang halaran sang bulawan, kag ⟨את⟩ lana sang pagpahid, kag ⟨את⟩ insenso sang mga pahumot, kag ⟨את⟩ ang tabon sang ganghaan sang tolda",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang halaran sang bulawan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ang halaran"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "sang bulawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "lana sang pagpahid"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "sang pagpahid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "insenso sang mga pahumot"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "insenso"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "sang mga pahumot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tabon sang ganghaan sang tolda"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ang tabon"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sang ganghaan"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "sang tolda"
+    }
+  ],
+  "timestamp": "2026-09-21T16:41:00.265161134Z",
+  "model": "glm-5.3"
+}

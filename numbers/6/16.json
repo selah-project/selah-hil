@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag padu-on sang pari ⟨sa⟩ atubangan ni Yahweh, kag himoon niya ⟨את⟩ ang iya halad sang sala kag ⟨את⟩ ang iya halad nga sinusunog.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "kag padu-on"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang pari"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "kag himoon niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya halad sang sala"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "ang iya halad sang sala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya halad nga sinusunog"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "ang iya halad nga sinusunog"
+    }
+  ],
+  "timestamp": "2026-09-21T17:00:45.196420871Z",
+  "model": "glm-5.3"
+}

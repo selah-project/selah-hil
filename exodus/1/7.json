@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ang mga anak nga lalaki sang Yisrael nagdamo, kag nagpanag-abaw sila, kag dumangog sila, kag nagkamaligyo sila sing labi kaayo, kag napuno sang duta ⟨את⟩ sang ila.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Kag ang mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "nagdamo (nagbunga)"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "kag nagpanag-abaw"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "kag dumangog"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "kag nagkamaligyo"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "sing labi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "kag napuno"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sang ila"
+    }
+  ],
+  "timestamp": "2026-09-21T16:18:37.469024755Z",
+  "model": "glm-5.3"
+}

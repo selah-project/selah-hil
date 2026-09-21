@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 99,
+  "translation": "Si Moshe kag si Aharon sa iya mga saserdote, kag si Shemuel sa mga naga-invitar sang iya ngalan; nagatawag sila kay Yahweh, kag siya nagasabat sa ila.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "kag si Aharon"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "sa iya mga saserdote"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "kag si Shemuel"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "sa mga naga-invitar"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sang iya ngalan"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "nagatawag sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kag siya"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "nagasabat sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:02.550845110Z",
+  "model": "glm-5.3"
+}

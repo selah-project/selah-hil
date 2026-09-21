@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Kag ipapabalik ko ⟨את⟩ ang pagkabihag sang Yehudah kag ⟨את⟩ ang pagkabihag sang Yisrael, kag ipatindog ko sila subong sang sa nahauna.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "Kag ipapabalik ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pagkabihag sang Yehudah"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ang pagkabihag"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang pagkabihag sang Yisrael"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ang pagkabihag"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "kag ipatindog ko sila"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "subong sang sa nahauna"
+    }
+  ],
+  "timestamp": "2026-09-21T19:30:15.487541507Z",
+  "model": "glm-5.3"
+}

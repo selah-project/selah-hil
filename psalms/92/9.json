@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 92,
+  "translation": "Kag ikaw, Yahweh, ⟨sa⟩ kataas-taas ⟨nga duog⟩ sa dayon.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kag ikaw"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "kataas-taas"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:27.313396404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 57,
+  "translation": "Ang akon kalag yara sa tunga sang mga leon; maghigda ako upod sa mga nagadabadaba — mga anak sang tawo, ang ila mga ngipon sibat kag mga pana, kag ang ila dila matalom nga espada.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "sang mga leon"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "maghigda ako"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "sa mga nagadabadaba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ang ila mga ngipon"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "sibat"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "kag mga pana"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "kag ang ila dila"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "espada"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "matalom"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:21.856461489Z",
+  "model": "glm-5.3"
+}

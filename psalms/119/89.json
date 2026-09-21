@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Sa dayon, Yahweh, ang imo pulong nagatindog sa mga langit.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ang imo pulong"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "nagatindog"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sa mga langit"
+    }
+  ],
+  "timestamp": "2026-09-21T20:50:17.092172694Z",
+  "model": "glm-5.3"
+}

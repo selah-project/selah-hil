@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Tanan nga mga pulong kapoy ⟨gid⟩; indi makasiling ang tawo ⟨sini⟩; indi mabusog ang mata sa pagtan-aw, kag indi mapun-i ang dunggan sa pagpatalinghug.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "kapoy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "makasiling"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "sini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "mabusog"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ang mata"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "sa pagtan-aw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "mapun-i"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ang dunggan"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "sa pagpatalinghug"
+    }
+  ],
+  "timestamp": "2026-09-21T21:25:59.109330884Z",
+  "model": "glm-5.3"
+}

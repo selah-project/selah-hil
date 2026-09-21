@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kag ginkuha namon ⟨את⟩ ang ila duta kag ginhatag namon ini nga panubli kay Reuven kag kay Gad kag sa katunga sang tribo sang Menasheh.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "kag ginkuha namon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ila duta"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ang ila duta"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "kag ginhatag namon ⟨ini⟩"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "nga panubli"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "kay Reuven"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "kag kay Gad"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "kag sa katunga"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "sang tribo"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "sang Menasheh"
+    }
+  ],
+  "timestamp": "2026-09-21T17:30:46.526611776Z",
+  "model": "glm-5.3"
+}

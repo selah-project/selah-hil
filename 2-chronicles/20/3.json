@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 20:3",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag nahadlok si Yehoshaphat, kag gintipigan niya ⟨את⟩ ang iya dagway sa pagpangita kay Yahweh, kag gintawag niya ang pagpuasa sa tanan nga Yehudah.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "kag nahadlok"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kag gintipigan niya"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "si Yehoshaphat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya dagway"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ang iya dagway"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "sa pagpangita"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kag gintawag niya"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ang pagpuasa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-21T22:07:49.211235175Z",
+  "model": "glm-5.3"
+}

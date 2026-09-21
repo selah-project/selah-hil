@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 65:25",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 65,
+  "translation": "Ang lobo kag ang nating kabalaka magapakain nga magkahipos, kag ang leon subong sa baka magakaon sang dagami, kag ang ulod magakaon sang abog; indi na sila magamala kag indi na magalaglag sa tanan ko nga balaan nga bukid, nagsiling si Yahweh.",
+  "tokens": [
+    {
+      "surface": "זאב",
+      "gloss": "ang lobo"
+    },
+    {
+      "surface": "וטלה",
+      "gloss": "kag ang nating kabalaka"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "magapakain"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "nga magkahipos"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "kag ang leon"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "subong sa baka"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "magakaon"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "sang dagami"
+    },
+    {
+      "surface": "ונחש",
+      "gloss": "kag ang ulod"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "sang abog"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "magakaon (iya kaon)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "magamala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "magalaglag"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "nga bukid"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ko nga balaan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nagsiling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T19:13:50.322737984Z",
+  "model": "glm-5.3"
+}

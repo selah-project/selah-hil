@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Kay indi sila maghambal sing paghidaet, kag batok sa mga malinong sa duta nagaisip sila sang mga pulong nga panginadlaw-an.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paghidaet"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "sila maghambal"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag batok sa"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "ang mga malinong"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sang mga pulong"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "nga panginadlaw-an"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "nagaisip sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:58.495041567Z",
+  "model": "glm-5.3"
+}

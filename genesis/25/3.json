@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag si Yakshan natawo ⟨את⟩ si Sheva kag ⟨את⟩ si Dedan; kag ang mga anak ni Dedan amo ang mga Ashurim, kag ang mga Letushim, kag ang mga Leummim.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "kag si Yakshan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Sheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "si Sheva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "si Dedan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "kag ang mga anak"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "ni Dedan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "amo ang"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "mga Ashurim"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "kag ang mga Letushim"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "kag ang mga Leummim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:05:39.655250822Z",
+  "model": "glm-5.3"
+}

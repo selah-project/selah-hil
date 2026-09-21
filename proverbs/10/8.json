@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Ang maalam sa kasingkasing magabaton sang mga kasuguan, kag ang buang nga pangngabil matumba.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "maalam"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sa kasingkasing"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "magabaton"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "sang mga kasuguan"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "kag ang buang"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "nga pangngabil"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "matumba"
+    }
+  ],
+  "timestamp": "2026-09-21T20:57:36.844862633Z",
+  "model": "glm-5.3"
+}

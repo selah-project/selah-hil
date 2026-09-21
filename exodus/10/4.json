@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kay kon nagadumili ikaw sa pagpalagwa ⟨את⟩ sang akon katawhan — yari ako, magadala ugma sang balang sa imo utlanan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "nagadumili"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "sa pagpalagwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang akon katawhan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sang akon katawhan"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "yari ako"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "magadala"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ugma"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "sang balang"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "sa imo utlanan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:24:24.102041344Z",
+  "model": "glm-5.3"
+}

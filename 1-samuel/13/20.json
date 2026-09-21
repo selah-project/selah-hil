@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "kag ang tanan nga Yisrael nagpanaw paingon sa mga Pelishteo sa pagpahait, ang tagsa ⟨את⟩ iya arado, kag ⟨את⟩ iya kalabasa, kag ⟨את⟩ iya palakol, kag ⟨את⟩ iya tagadtad.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "nagpanaw paingon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "sa mga Pelishteo"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "sa pagpahait"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tagsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya arado"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "arado"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya kalabasa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "kalabasa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya palakol"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "palakol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya tagadtad"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "tagadtad"
+    }
+  ],
+  "timestamp": "2026-09-21T18:02:20.283898678Z",
+  "model": "glm-5.3"
+}

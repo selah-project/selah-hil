@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Ini sila ang nagtabok sang ⟨את⟩ Yarden sa nahauna nga bulan, sang ang tubig nagapuno sa tanan nga iya mga pangpang, kag nagpalagyo sila sang ⟨את⟩ tanan nga mga kapatagan pakadto sa sidlangan kag pakadto sa katungdan.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "nagtabok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sang Yarden"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "sa nahauna nga bulan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "nahauna"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "sang ang tubig"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "nagapuno"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "iya mga pangpang"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "kag nagpalagyo sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga kapatagan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "mga kapatagan"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "pakadto sa sidlangan"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "kag pakadto sa katungdan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:54:39.848988484Z",
+  "model": "glm-5.3"
+}

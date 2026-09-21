@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 109,
+  "translation": "Magin mga iloyon ang iya mga anak, kag ang iya asawa magin balo.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "magin"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ang iya mga anak"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "mga iloyon"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "kag ang iya asawa"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "balo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:50.977849426Z",
+  "model": "glm-5.3"
+}

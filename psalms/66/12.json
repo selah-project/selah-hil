@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 66,
+  "translation": "Ginpalangkoba mo ang mga tawo sa ulo namon; nagsulod kami sa kalayo kag sa tubig, kag ginpagwa mo kami sa kaabus.",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "ginpalangkoba mo"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "sa ulo namon"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "nagsulod kami"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "kag sa tubig"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "kag ginpagwa mo kami"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "sa kaabus"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:45.594699056Z",
+  "model": "glm-5.3"
+}

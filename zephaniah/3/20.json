@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zephaniah 3:20",
+  "book": "zephaniah",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Sa tion nga ina, ipabalik ko kamo ⟨את⟩, kag sa tion nga pagtipon ko sa inyo ⟨את⟩; kay itugyan ko kamo nga ngalan kag pangdayaway sa tanan nga mga pumuloyo sang duta, kon ipabalik ko ⟨את⟩ ang inyo pagkabihag sa inyo ⟨mga⟩ mata, nagsiling si Yahweh.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "sa tion"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "nga ina"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ipabalik ko sa sulod"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "kag sa tion"
+    },
+    {
+      "surface": "קבצי",
+      "gloss": "pagtipon ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "itugyan ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "nga ngalan"
+    },
+    {
+      "surface": "ולתהלה",
+      "gloss": "kag pangdayaway"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mga pumuloyo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "בשובי",
+      "gloss": "kon ipabalik ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang inyo pagkabihag"
+    },
+    {
+      "surface": "שבותיכם",
+      "gloss": "inyo pagkabihag"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "sa inyo mga mata"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nagsiling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:17:10.943523876Z",
+  "model": "glm-5.3"
+}

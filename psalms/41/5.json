@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 41,
+  "translation": "Ako naghambal: Yahweh, kaluy-i ako, pag-ayui ang akon kalag, kay nakasala ako sa imo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "naghambal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "kaluy-i ako"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "pag-ayui"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nakasala ako"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:40.687051592Z",
+  "model": "glm-5.3"
+}

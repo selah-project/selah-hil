@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Sa Giv'on nagpakita si Yahweh kay Shelomoh sa damgo sang gab-i, kag nagsiling ang Elohim: Pangayoa ⟨kon⟩ ano ang iban ko sa imo.",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "Sa Giv'on"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "nagpakita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "sa damgo"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "sang gab-i"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Pangayoa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "iban ko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:27:11.069793810Z",
+  "model": "glm-5.3"
+}

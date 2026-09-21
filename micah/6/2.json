@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Paminawi, mga bukid, ⟨את⟩ ang pagtuok ni Yahweh, kag kamo mga malig-on, mga katungdan sang duta; kay may pagtuok ang ginahimbon si Yahweh ⟨sa⟩ iya katawhan, kag sa Yisrael pagatuokon niya.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "paminawi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mga bukid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pagtuok"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "pagtuok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "kag kamo mga malig-on"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "mga katungdan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "pagtuok"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "iya katawhan"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "pagatuokon niya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:15:41.131420274Z",
+  "model": "glm-5.3"
+}

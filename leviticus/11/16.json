@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "kag ⟨את⟩ ang bat-hayaanah, kag ⟨את⟩ ang tachmas, kag ⟨את⟩ ang shachaf, kag ⟨את⟩ ang nets suno sa iya klase;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang bat-hayaanah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ang bat"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "hayaanah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tachmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "ang tachmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang shachaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "ang shachaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang nets"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "ang nets"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "suno sa iya klase"
+    }
+  ],
+  "timestamp": "2026-09-21T22:21:56.521709156Z",
+  "model": "glm-5.3"
+}

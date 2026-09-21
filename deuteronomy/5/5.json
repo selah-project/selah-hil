@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 5:5",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Ako nagatindog sa tunga ni Yahweh kag sa tunga ninyo sa tion nga ina, sa paghambal sa inyo sang ⟨את⟩ pulong ni Yahweh, kay nagkahadlok kamo sa atubangan sang kalayo, kag indi kamo nagsaka sa bukid sa paghambal ⟨sini⟩",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nagatindog"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "kag sa tunga ninyo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "sa tion"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nga ina"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "sa paghambal"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pulong ni Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "nagkahadlok kamo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sa atubangan sang"
+    },
+    {
+      "surface": "האש",
+      "gloss": "kalayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "עליתם",
+      "gloss": "kamo nagsaka"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sa paghambal"
+    }
+  ],
+  "timestamp": "2026-09-21T17:19:06.248666318Z",
+  "model": "glm-5.3"
+}

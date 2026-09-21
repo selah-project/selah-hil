@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 72,
+  "translation": "Natanod ang mga pangamuyo ni David, anak ni Yishay.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "natanod"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "ang mga pangamuyo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ni Yishay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:58.995305517Z",
+  "model": "glm-5.3"
+}

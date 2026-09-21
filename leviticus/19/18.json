@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 19:18",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Indi ka magbalos kag indi ka magtipig sang kaakig ⟨את⟩ ang mga anak sang imo katawhan; kag higugmaa ang imo kaabay nga pareho sang imo kaugalingon — ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תקם",
+      "gloss": "magbalos"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תטר",
+      "gloss": "magtipig sang kaakig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga anak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sang imo katawhan"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "kag higugmaa"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "ang imo kaabay"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "nga pareho sang imo kaugalingon"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T22:21:25.677603973Z",
+  "model": "glm-5.3"
+}

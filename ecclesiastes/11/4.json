@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Ang nagatantiya sang hangin indi magatanom, kag ang nagaatinod sang mga panganod indi magaani.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Ang nagatantiya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sang hangin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "magatanom"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "kag ang nagaatinod"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "sang mga panganod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "magaani"
+    }
+  ],
+  "timestamp": "2026-09-21T21:27:39.748960162Z",
+  "model": "glm-5.3"
+}

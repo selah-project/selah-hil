@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag ang tawo nga magkuha ⟨את⟩ sang babae kag ⟨את⟩ sang iya iloy, kalapasan ina; sa kalayo pagasunogon sila ⟨אתו⟩ kag ⟨אתהן⟩, agud indi magpakalapasan sa tunga sang inyo.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "kag ang tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "magkuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang babae"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sang babae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang iya iloy"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "sang iya iloy"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "kalapasan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ina"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "pagasunogon sila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "sia"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "kag ⟨אתהן⟩",
+      "marks": "sila (ang babae kag ang iya iloy)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "agud indi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "magpakalapasan"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "kalapasan"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "sa tunga sang inyo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:53:34.045369531Z",
+  "model": "glm-5.3"
+}

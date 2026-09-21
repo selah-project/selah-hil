@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Si Elohim nasabtan ang dalan sini, kag siya nakakilala sang ⟨את⟩ iya duog.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Si Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "nasabtan"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "ang dalan sini"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kag siya"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakakilala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya duog"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "iya duog"
+    }
+  ],
+  "timestamp": "2026-09-21T22:42:11.259804965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Indi ninyo himuon ini sa Yahweh, nga inyo Elohim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ninyo himuon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sa Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "nga inyo Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T17:24:15.940030014Z",
+  "model": "glm-5.3"
+}

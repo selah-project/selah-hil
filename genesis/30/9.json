@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 30:9",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kag nakita ni Lea nga naguntad na siya sa pagpanganak, gani ginkuha niya si ⟨את⟩ Zilpah nga iya sulugoon, kag ginhatag niya si ⟨את⟩ iya kay Yaakov nga ⟨panya⟩.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ni Lea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "naguntad"
+    },
+    {
+      "surface": "מלדת",
+      "gloss": "sa pagpanganak"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ginkuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Zilpah"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpah"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "nga iya sulugoon"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "ginhatag"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "si ⟨את⟩",
+      "marks": "iya"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kay Yaakov"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "nga ⟨panya⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T16:06:25.687855878Z",
+  "model": "glm-5.3"
+}

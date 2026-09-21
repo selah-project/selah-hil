@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag si Kenaan natawo ni ⟨את⟩ si Tsidon ang iya panganay kag ⟨את⟩ si Khet.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Kag si Kenaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "natawo ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Tsidon"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "si Tsidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ang iya panganay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Khet"
+    },
+    {
+      "surface": "חת",
+      "gloss": "si Khet"
+    }
+  ],
+  "timestamp": "2026-09-21T21:49:16.002788261Z",
+  "model": "glm-5.3"
+}

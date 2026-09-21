@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 98,
+  "translation": "Atubang kay Yahweh, kay nagaari sia sa pagahukuman ang duta; iya nga hukumanon ang kalibutan sa katarungan, kag ang mga pungsod sa matarong.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "atubang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nagaari"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "sa pagahukuman"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "iya nga hukumanon"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ang kalibutan"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "sa katarungan"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "kag ang mga pungsod"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "sa matarong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:28.393202853Z",
+  "model": "glm-5.3"
+}

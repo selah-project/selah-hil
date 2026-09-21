@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Mata bayad sang mata, ngipon bayad sang ngipon, kamot bayad sang kamot, tiil bayad sang tiil.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bayad sang"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ngipon"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bayad sang"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ngipon"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamot"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bayad sang"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamot"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "tiil"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bayad sang"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "tiil"
+    }
+  ],
+  "timestamp": "2026-09-21T16:29:47.236254849Z",
+  "model": "glm-5.3"
+}

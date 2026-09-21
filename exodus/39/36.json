@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 39,
+  "translation": "⟨את⟩ ang lamesa, ⟨את⟩ tanan nga iya mga galamiton, kag ⟨את⟩ ang tinapay sang atubangan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lamesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ang lamesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga iya mga galamiton"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "iya mga galamiton"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tinapay sang atubangan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ang tinapay"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "sang atubangan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:40:51.763267102Z",
+  "model": "glm-5.3"
+}

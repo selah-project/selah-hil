@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 144:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 144,
+  "translation": "Ang aton mga kamalig malubog, nagahatod sang binuhat magkaduhá magkaduhá ka klase; ang aton mga karnero nagadaghan sa libo, sa napulo ka libo sa aton mga karsada.",
+  "tokens": [
+    {
+      "surface": "מזוינו",
+      "gloss": "aton mga kamalig"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "malubog"
+    },
+    {
+      "surface": "מפיקים",
+      "gloss": "nagahatod"
+    },
+    {
+      "surface": "מזן",
+      "gloss": "sa isa ka klase"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "זן",
+      "gloss": "klase"
+    },
+    {
+      "surface": "צאוננו",
+      "gloss": "aton mga karnero"
+    },
+    {
+      "surface": "מאליפות",
+      "gloss": "nagadaghan sa libo"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "napulo ka libo"
+    },
+    {
+      "surface": "בחוצותינו",
+      "gloss": "sa aton mga karsada"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:02.902614323Z",
+  "model": "glm-5.3"
+}

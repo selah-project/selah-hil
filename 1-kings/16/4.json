@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Ang manogpatay kay Baasha sa dakbanwa igakaon sang mga iro, kag ang manogpatay sa iya sa uma igakaon sang mga langgam sang langit.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Ang manogpatay"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "kay Baasha"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa dakbanwa"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "igakaon"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "sang mga iro"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "kag ang manogpatay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa uma"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "igakaon"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "sang mga langgam"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sang langit"
+    }
+  ],
+  "timestamp": "2026-09-21T18:35:22.956710183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Pagapalanggaon ko si Yahweh ⟨את⟩ sa tanan nga tion; padayon ang iya pagdayaw sa akon baba.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Pagapalanggaon ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nga tion"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "padayon"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ang iya pagdayaw"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "sa akon baba"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:40.258716391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag nagsulod si Rechavam sa Shekem, kay sa Shekem nangabuhi ang tanan nga Yisrael sa paghimo sa iya nga hari.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nagsulod"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "si Rechavam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "sa Shekem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "sa Shekem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nangabuhi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "sa paghimo nga hari"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "si Rechavam — sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T18:33:29.474523420Z",
+  "model": "glm-5.3"
+}

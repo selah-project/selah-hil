@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 1:7",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Liko kag pagpanaw kamo ⟨⟨⟩⟩, kag sumba kamo sa bukid sang Emori kag sa tanan nga iya mga kaingod, sa Arabah, sa bukid, sa kapatagan, sa Negev, kag sa baybayon sang dagat, sa duta sang Kenanan kag sang Levanon, tubtob sa dako nga suba, ang suba Perat.",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "liko"
+    },
+    {
+      "surface": "וסעו",
+      "gloss": "kag pagpanaw kamo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨sa inyo⟩"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "kag sumba kamo"
+    },
+    {
+      "surface": "הר",
+      "gloss": "sa bukid sang"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "שכניו",
+      "gloss": "iya mga kaingod"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "sa Arabah"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "sa kapatagan"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "sa Negev"
+    },
+    {
+      "surface": "ובחוף",
+      "gloss": "sa baybayon sang"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa duta sang"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenanan"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "kag sang Levanon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob sa"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "suba"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "dako nga"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "ang suba"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    }
+  ],
+  "timestamp": "2026-09-21T17:17:31.765688740Z",
+  "model": "glm-5.3"
+}

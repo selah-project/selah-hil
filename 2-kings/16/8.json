@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag ginkuha ni Ajaz ⟨את⟩ ang pilak kag ⟨את⟩ ang bulawan nga ara sa balay ni Yahweh kag sa mga kamalig sang balay sang hari, kag gintuboy niya ini sa hari sang Ashur subong suhol.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kag ginkuha"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ni Ajaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pilak"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ang pilak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang bulawan"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ang bulawan"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "nga ara"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "kag sa mga kamalig"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "kag gintuboy niya"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "suhol"
+    }
+  ],
+  "timestamp": "2026-09-21T18:47:59.924173287Z",
+  "model": "glm-5.3"
+}

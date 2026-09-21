@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 1:9",
+  "book": "ezra",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ina ang ila numero: mga plato sang bulawan, tatlo ka pulo; mga plato sang pilak, isa ka libo; mga sundang, siyam kag duha ka pulo.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "kag ina"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "ang ila numero"
+    },
+    {
+      "surface": "אגרטלי",
+      "gloss": "mga plato"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sang bulawan"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tatlo ka pulo"
+    },
+    {
+      "surface": "אגרטלי",
+      "gloss": "mga plato"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sang pilak"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "isa ka libo"
+    },
+    {
+      "surface": "מחלפים",
+      "gloss": "mga sundang"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "siyam"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "kag duha ka pulo"
+    }
+  ],
+  "timestamp": "2026-09-21T21:38:47.411559667Z",
+  "model": "glm-5.3"
+}

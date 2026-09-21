@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag ginpakamaayo ni Elohim ⟨את⟩ si Noach kag ⟨את⟩ ang iya mga anak, kag nagsiling siya sa ila: Magpamunga kamo kag dumamo kamo, kag pun-a ninyo ⟨את⟩ ang duta.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "ginpakamaayo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ang iya mga anak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "magpamunga kamo"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "kag dumamo kamo"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "kag pun-a ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T15:57:47.388393965Z",
+  "model": "glm-5.3"
+}

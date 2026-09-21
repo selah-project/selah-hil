@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kon ang mga sadsaran pagalaglagon — ano ang ginhimo sang matarong?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "ang mga sadsaran"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "pagalaglagon"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sang matarong"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ang ginhimo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:36.424955609Z",
+  "model": "glm-5.3"
+}

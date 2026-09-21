@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag nagsiling sila: Wala mo kami pinangluhoan, kag wala mo kami pinugosan, kag wala ka nagkuha sa kamot sang isa ka tawo sang bisan ano.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Kag nagsiling sila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Wala"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "mo kami pinangluhoan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "mo kami pinugosan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ka nagkuha"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sang isa ka tawo"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "sang bisan ano"
+    }
+  ],
+  "timestamp": "2026-09-21T18:02:50.599045954Z",
+  "model": "glm-5.3"
+}

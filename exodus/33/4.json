@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Kag nakadungog ang katawhan sang ⟨את⟩ ang malaot nga pulong ini, kag sila nagsubo, kag wala sing bisan isa nagsul-ob sang iya mga adorno sa iya.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "kag nakadungog"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang malaot nga pulong ini"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "malaot"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "kag sila nagsubo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "nagsul-ob"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bisan isa"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "iya mga adorno"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T22:20:27.219022027Z",
+  "model": "glm-5.3"
+}

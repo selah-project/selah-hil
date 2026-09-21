@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag mga bintana sa tatlo ka laray, kag bentana batok sa bentana, tatlo ka higayon.",
+  "tokens": [
+    {
+      "surface": "ושקפים",
+      "gloss": "Kag mga bintana"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatlo"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "ka laray"
+    },
+    {
+      "surface": "ומחזה",
+      "gloss": "kag bentana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "bentana"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tatlo"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ka higayon"
+    }
+  ],
+  "timestamp": "2026-09-21T18:28:53.318891284Z",
+  "model": "glm-5.3"
+}

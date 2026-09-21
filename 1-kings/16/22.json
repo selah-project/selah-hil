@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag ginpangusog sang katawhan nga sunod kay Omri ⟨את⟩ ang katawhan nga sunod kay Tivni nga anak ni Ginath; kag nangamatay si Tivni, kag naghari si Omri.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Kag ginpangusog"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sunod kay"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sunod kay"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tivni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "ni Ginath"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kag nangamatay"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "si Tivni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "kag naghari"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "si Omri"
+    }
+  ],
+  "timestamp": "2026-09-21T18:35:29.782637328Z",
+  "model": "glm-5.3"
+}

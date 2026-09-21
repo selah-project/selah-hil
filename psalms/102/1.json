@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 102,
+  "translation": "Pangamuyo sang abi-abi kon siya magkalumos, kag sa atubangan ni Yahweh ibubunag niya ang iya panghuna-huna.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "pangamuyo"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "sang abi-abi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "magkalumos"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "kag sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "ibubunag"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "ang iya panghuna-huna"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:14.738352135Z",
+  "model": "glm-5.3"
+}

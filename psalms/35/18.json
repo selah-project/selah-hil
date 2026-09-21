@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 35:18",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Isasalamatan ko ikaw sa dakung katilingban, kag sa katawhan nga kusgan dayawon ko ikaw.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "isasalamatan ko ikaw"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "sa katilingban"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dakung"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "sa katawhan"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "nga kusgan"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "dayawon ko ikaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:58.494709375Z",
+  "model": "glm-5.3"
+}

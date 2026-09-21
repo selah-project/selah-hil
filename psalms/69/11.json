@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 69,
+  "translation": "Kag naghibi ako sa pagpuasa sang akon kalag, kag ini naging ⟨pag-uya⟩ sa akon.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "kag naghibi ako"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "sa pagpuasa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sang akon kalag"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "kag naging"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "⟨pag-uya⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:56.545178602Z",
+  "model": "glm-5.3"
+}

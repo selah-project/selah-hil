@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Sa palibot ang mga malaot nagalakat-lakat, kon ang kahalayhon ginapataas sang mga anak ⟨sang⟩ tawo.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga malaot"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "nagalakat-lakat"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "ang kahalayhon"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sang mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:09.240439407Z",
+  "model": "glm-5.3"
+}

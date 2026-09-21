@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Ano bala ang himuin ninyo sa adlaw sang tinalagahan, kag sa adlaw sang pista ni Yahweh?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ano bala"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ang himuin ninyo"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang tinalagahan"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "kag sa adlaw"
+    },
+    {
+      "surface": "חג",
+      "gloss": "sang pista"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:07:27.011386251Z",
+  "model": "glm-5.3"
+}

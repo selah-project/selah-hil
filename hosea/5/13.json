@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 5:13",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag nakita ni Efrayim ⟨את⟩ ang iya sakit, kag si Yehudah ⟨את⟩ ang iya samad; kag nagkadto si Efrayim sa Ashur kag nagpadala sa hari nga si Yarev; apang indi siya makahimo mag-ayo sa inyo, kag indi niya makakuha sa inyo sang samad.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "kag nakita"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "si Efrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya sakit"
+    },
+    {
+      "surface": "חליו",
+      "gloss": "iya sakit"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "kag si Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya samad"
+    },
+    {
+      "surface": "מזרו",
+      "gloss": "iya samad"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kag nagkadto"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "si Efrayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "kag nagpadala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Yarev"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kag siya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "makahimo"
+    },
+    {
+      "surface": "לרפא",
+      "gloss": "mag-ayo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יגהה",
+      "gloss": "makakuha"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "מזור",
+      "gloss": "samad"
+    }
+  ],
+  "timestamp": "2026-09-21T20:03:23.761602361Z",
+  "model": "glm-5.3"
+}

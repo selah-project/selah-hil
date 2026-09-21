@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag nagguwa ang hari Yehoram sa sadto nga adlaw sa Shomron, kag gin-ihap niya ⟨את⟩ ang tanan nga Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Kag nagguwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "si Yehoram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nga sadto"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "sa Shomron"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "kag gin-ihap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nga Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T18:39:57.747497871Z",
+  "model": "glm-5.3"
+}

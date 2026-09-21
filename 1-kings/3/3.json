@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ginpalangga ni Shelomoh ⟨את⟩ si Yahweh, sa paglakat sa mga kasuguan ni David iya amay; rako lamang sa mga mataas nga mga duog siya nagahalad kag nagsusunog ⟨sing insenso⟩.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "ginpalangga"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "sa paglakat"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "sa mga kasuguan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iya amay"
+    },
+    {
+      "surface": "רק",
+      "gloss": "rako lamang"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "sa mataas nga mga duog"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "nagahalad"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "nagsusunog"
+    }
+  ],
+  "timestamp": "2026-09-21T18:27:28.336858917Z",
+  "model": "glm-5.3"
+}

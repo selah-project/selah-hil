@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Malinis ang mga palad kag malinis ang kasingkasing, ang wala magbugtak sa wala sing pulos ang iya kalag kag wala manumpa sa pagpanglimbahug.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "malinis"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "ang mga palad"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "kag malinis"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ang kasingkasing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "magbugtak"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "sa wala sing pulos"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang iya kalag"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "manumpa"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "sa pagpanglimbahug"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:27.146031220Z",
+  "model": "glm-5.3"
+}

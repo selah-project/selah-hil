@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "kon ang akon mga pagtakda pagtaphawan nila, kag ang akon mga kasogoan indi ampoan,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ang akon mga pagtakda"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "pagtaphawan nila"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "kag ang akon mga kasogoan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ampoan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:44.375889637Z",
+  "model": "glm-5.3"
+}

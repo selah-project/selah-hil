@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 6:22",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag ang mga anak nga lalaki ni Uzziel: Mishael, kag Eltsafan, kag Sitri.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "kag ang mga anak nga lalaki"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "ni Uzziel"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Mishael"
+    },
+    {
+      "surface": "ואלצפן",
+      "gloss": "kag Eltsafan"
+    },
+    {
+      "surface": "וסתרי",
+      "gloss": "kag Sitri"
+    }
+  ],
+  "timestamp": "2026-09-21T16:20:31.270913169Z",
+  "model": "glm-5.3"
+}

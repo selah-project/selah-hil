@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Sin-o ini, ang Hari sang himaya? Si Yahweh, makusog kag gamhanan, si Yahweh nga gamhanan sa pagpakigaway.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang Hari"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "sang himaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "makusog"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "kag gamhanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "gamhanan"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sa pagpakigaway"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:14.180953581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 8:16",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ginkuha niya ⟨את⟩ ang mga gulang sang syudad kag ⟨את⟩ ang mga tunok sang kamingawan kag ⟨את⟩ ang mga balikan, kag gintudlo niya sa ila ⟨את⟩ ang mga tawo sang Sukkot.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ginkuha niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga gulang sang syudad"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga gulang"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sang syudad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga tunok sang kamingawan"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "mga tunok"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "sang kamingawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga balikan"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "mga balikan"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "gintudlo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tawo sang Sukkot"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mga tawo sang"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    }
+  ],
+  "timestamp": "2026-09-21T17:50:08.958970589Z",
+  "model": "glm-5.3"
+}

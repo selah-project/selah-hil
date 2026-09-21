@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Ang malumoy nga sabat nagapabawi sang akig, kag ang pakahakog nga pulong nagapataas sang init sang ilong.",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "sabat"
+    },
+    {
+      "surface": "רך",
+      "gloss": "malumoy"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "nagapabawi"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "sang akig"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "kag ang pulong"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "pakahakog"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "nagapataas"
+    },
+    {
+      "surface": "אף",
+      "gloss": "init sang ilong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:59:55.134396069Z",
+  "model": "glm-5.3"
+}

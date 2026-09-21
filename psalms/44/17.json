@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Tungod sa tingog sang nangakastigo kag nangaginlalait, tungod sa kaaway kag sa manimalo.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Tungod sa tingog"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "sang nangakastigo"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "kag nangaginlalait"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "kaaway"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "kag sa manimalo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:30.949609320Z",
+  "model": "glm-5.3"
+}

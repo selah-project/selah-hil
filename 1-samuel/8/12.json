@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 8:12",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag sa pagbutang para sa iya sang mga pangulo sang isa ka libo kag sang mga pangulo sang lima ka pulo, kag sa pag-arado sang iya pag-araro kag sa pag-ani sang iya ani, kag sa paghimo sang mga galamiton sang iya gera kag sang mga galamiton sang iya karwahe.",
+  "tokens": [
+    {
+      "surface": "ולשום",
+      "gloss": "Kag sa pagbutang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa iya"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "sang mga pangulo"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "sang isa ka libo"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "kag sang mga pangulo"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "sang lima ka pulo"
+    },
+    {
+      "surface": "ולחרש",
+      "gloss": "kag sa pag-arado"
+    },
+    {
+      "surface": "חרישו",
+      "gloss": "sang iya pag-araro"
+    },
+    {
+      "surface": "ולקצר",
+      "gloss": "kag sa pag-ani"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "sang iya ani"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "kag sa paghimo"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "sang mga galamiton"
+    },
+    {
+      "surface": "מלחמתו",
+      "gloss": "sang iya gera"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "kag sang mga galamiton"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "sang iya karwahe"
+    }
+  ],
+  "timestamp": "2026-09-21T17:59:29.843952228Z",
+  "model": "glm-5.3"
+}

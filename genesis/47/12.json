@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 47,
+  "translation": "Kag ginpakaon ni Yosef ⟨את⟩ iya amay kag ⟨את⟩ iya mga utod kag ⟨את⟩ tanan nga balay sang iya amay, sing tinapay, suno sa bibig sang mga bata.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "kag ginpakaon"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya amay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iya amay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga utod"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iya mga utod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga balay sang iya amay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nga balay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sang iya amay"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "sing tinapay"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "suno sa bibig"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "sang mga bata"
+    }
+  ],
+  "timestamp": "2026-09-21T16:17:32.999532130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 9:5",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Ang nagakuha sang ⟨mga⟩ bukid, kag wala sila makahibalo — sila nga ginbaliktad niya sa iya kaakig.",
+  "tokens": [
+    {
+      "surface": "המעתיק",
+      "gloss": "ang nagakuha"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mga bukid"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "sila nakahibalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הפכם",
+      "gloss": "ginbaliktad niya sila"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "sa iya kaakig"
+    }
+  ],
+  "timestamp": "2026-09-21T21:08:03.243983321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 25:24",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag sa tanan nga duta sang inyo pagpanag-iya, paghatag kamo sang katubus sa duta.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "Kag sa tanan nga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "אחזתכם",
+      "gloss": "inyo pagpanag-iya"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "katubus"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "paghatag kamo"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "sa duta"
+    }
+  ],
+  "timestamp": "2026-09-21T16:54:23.040783772Z",
+  "model": "glm-5.3"
+}

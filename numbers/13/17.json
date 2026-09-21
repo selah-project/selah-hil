@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 13:17",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag ginpakadto ni Moshe ⟨את⟩ sila sa pagpanimdot ⟨את⟩ sang duta sang Kenaan, kag nagsiling siya sa ila: Umangat kamo dinhi sa Negev, kag umangat kamo sa ⟨את⟩ ang bukid.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Kag ginpakadto"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "sa pagpanimdot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang duta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "sang Kenaan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Umangat kamo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dinhi"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "sa Negev"
+    },
+    {
+      "surface": "ועליתם",
+      "gloss": "kag umangat kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bukid"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ang bukid"
+    }
+  ],
+  "timestamp": "2026-09-21T17:05:30.009125873Z",
+  "model": "glm-5.3"
+}

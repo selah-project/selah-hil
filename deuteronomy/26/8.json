@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 26:8",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Kag gwa ni Yahweh kita sa Mitsrayim paagi sa makusog nga kamot kag sa ginpahalin nga braso kag sa dako nga katalagman kag sa mga timailhan kag sa mga katingala.",
+  "tokens": [
+    {
+      "surface": "ויוצאנו",
+      "gloss": "Kag ginpagwa niya kita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "makusog"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "kag sa braso"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "ginpahalin"
+    },
+    {
+      "surface": "ובמרא",
+      "gloss": "kag sa katalagman"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "dako"
+    },
+    {
+      "surface": "ובאתות",
+      "gloss": "kag sa mga timailhan"
+    },
+    {
+      "surface": "ובמפתים",
+      "gloss": "kag sa mga katingala"
+    }
+  ],
+  "timestamp": "2026-09-21T17:29:00.259786308Z",
+  "model": "glm-5.3"
+}

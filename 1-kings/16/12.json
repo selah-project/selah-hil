@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag ginpierdi ni Zimri ⟨את⟩ ang tibook nga balay ni Baasha, suno sa pulong ni Yahweh nga iya ginhambal kay Baasha paagi sa kamot ni Yehu nga manalagna.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "ginpierdi"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "ni Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tibook nga balay ni Baasha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibook"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nga balay"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ni Baasha"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "suno sa pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "iya ginhambal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "paagi sa kamot"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ni Yehu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nga manalagna"
+    }
+  ],
+  "timestamp": "2026-09-21T18:34:42.086701642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Ang karga sang Moav: kay sa isa ka gab-i ginlaglag ang Ar sang Moav, nadaut; kay sa isa ka gab-i ginlaglag ang Kir sang Moav, nadaut.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "karga"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "sa isa ka gab-i"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ginlaglag"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "sang Moav"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "nadaut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "sa isa ka gab-i"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ginlaglag"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "sang Moav"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "nadaut"
+    }
+  ],
+  "timestamp": "2026-09-21T18:57:43.357893678Z",
+  "model": "glm-5.3"
+}

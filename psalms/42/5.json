@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Ang mga ina ginadumduman ko kag ginaula ko sa akon ang akon kalag, sadtong magaabot ako sa kadaghanan kag magalakat ako upod sa ila ngadto sa balay sang Elohim, nga may tingog sang kalipay kag pasalamat, kadaghanan nga nagafiesta.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ang mga ina"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "ginadumduman ko"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "kag ginaula ko"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sadtong"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "magaabot ako"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "sa kadaghanan"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "magalakat ako upod sa ila"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ngadto"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "nga may tingog"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "sang kalipay"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "kag pasalamat"
+    },
+    {
+      "surface": "המון",
+      "gloss": "kadaghanan"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "nga nagafiesta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:03.040183765Z",
+  "model": "glm-5.3"
+}

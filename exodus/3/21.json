@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag igahatag ko ⟨את⟩ ang kahoy-an sang katawhan nga ini sa mga mata sang Mitsrayim, kag matabo nga kon magakadto kamo, indi kamo magakadto nga wala sing sulod.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Kag igahatag ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kahoy-an"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kahoy-an"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kag matabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "kon magakadto kamo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "magakadto kamo"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "nga wala sing sulod"
+    }
+  ],
+  "timestamp": "2026-09-21T16:20:33.744998773Z",
+  "model": "glm-5.3"
+}

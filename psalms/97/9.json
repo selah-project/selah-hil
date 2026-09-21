@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 97,
+  "translation": "Kay ikaw, Yahweh, amo ang Elyon sa ibabaw sang tanan nga duta, labaw gid ikaw nga nangin sa ibabaw sang tanan nga mga dios.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nga duta"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labaw gid"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "ikaw nga nangin sa ibabaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "nga mga dios"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:46.243438563Z",
+  "model": "glm-5.3"
+}

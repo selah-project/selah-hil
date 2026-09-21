@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 104,
+  "translation": "Kon magbanag ang adlaw, magatipon ⟨sila⟩ kag sa ila mga kuweba magahigda sila.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "kon magbanag"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "magatipon sila"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "ila mga kuweba"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "magahigda sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:06.876170193Z",
+  "model": "glm-5.3"
+}

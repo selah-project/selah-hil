@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 25:14",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag isulod mo ⟨את⟩ ang mga badbad sa mga singsing sa mga kilid sang Kaban, agod magdala sang ⟨את⟩ ang Kaban sa mga ini.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "kag isulod mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga badbad"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ang mga badbad"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "sa mga singsing"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "mga kilid"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sang Kaban"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "agod magdala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Kaban"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ang Kaban"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa mga ini"
+    }
+  ],
+  "timestamp": "2026-09-21T16:31:58.993264316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag naggwa si Hiram sa Tsor sa pagtan-aw ⟨את⟩ sang mga siyudad nga ginhatag ni Shelomoh sa iya, kag wala sila nat-unran sa iya mga mata.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "kag naggwa"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "si Hiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "sa Tsor"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "sa pagtan-aw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang mga siyudad"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "sang mga siyudad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ginhatag"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "sila nat-unran"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "sa iya mga mata"
+    }
+  ],
+  "timestamp": "2026-09-21T18:29:57.343526955Z",
+  "model": "glm-5.3"
+}

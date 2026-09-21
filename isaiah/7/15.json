@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 7:15",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Gatas nga ginhil-o kag dugay ang iya kaonon, sa iya pagkamaathid magasilak sang daotan kag magapili sang maayo.",
+  "tokens": [
+    {
+      "surface": "חמאה",
+      "gloss": "gatas nga ginhil-o"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "kag dugay"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ang iya kaonon"
+    },
+    {
+      "surface": "לדעתו",
+      "gloss": "sa iya pagkamaathid"
+    },
+    {
+      "surface": "מאוס",
+      "gloss": "magasilak"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "sang daotan"
+    },
+    {
+      "surface": "ובחור",
+      "gloss": "kag magapili"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "sang maayo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:53:19.361536554Z",
+  "model": "glm-5.3"
+}

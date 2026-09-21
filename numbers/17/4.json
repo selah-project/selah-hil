@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 17:4",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag ginkuha ni Elazar nga pari ⟨את⟩ ang mga panalabding kalayo sang tumbaga nga gindala sang mga nasunog, kag ginpukpok nila nga mga pinatpat nga pagtabon sa halaran.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Kag ginkuha"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ni Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "nga pari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga panalabding kalayo sang tumbaga"
+    },
+    {
+      "surface": "מחתות",
+      "gloss": "ang mga panalabding kalayo"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "sang tumbaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "gindala"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "sang mga nasunog"
+    },
+    {
+      "surface": "וירקעום",
+      "gloss": "kag ginpukpok nila"
+    },
+    {
+      "surface": "צפוי",
+      "gloss": "nga pagtabon"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "sa halaran"
+    }
+  ],
+  "timestamp": "2026-09-21T17:07:52.215408995Z",
+  "model": "glm-5.3"
+}

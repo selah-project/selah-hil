@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 4:4",
+  "book": "zechariah",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag nagtubod ako kag nagsiling sa anghel nga nagahambal sa akon, nga nagsiling: Ano ini, akon nga Adonay?",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "Kag nagtubod ako"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ang anghel"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "nga nagahambal"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagsiling"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ano"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "akon nga Adonay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:18:41.378930192Z",
+  "model": "glm-5.3"
+}

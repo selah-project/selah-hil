@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 2:9",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "kag ginpahari niya siya sa Gilad kag sa Ashuri kag sa Yizreel, kag sa Efraim kag sa Benjamin kag sa Yisrael nga tanan.",
+  "tokens": [
+    {
+      "surface": "וימלכהו",
+      "gloss": "ginpahari niya siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "וואל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "האשורי",
+      "gloss": "Ashuri"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjamin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "nga tanan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:12:46.367518441Z",
+  "model": "glm-5.3"
+}

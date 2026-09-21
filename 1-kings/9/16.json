@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Si Paro, ang hari sang Mitsrayim, nagtungas kag ginkuha niya ⟨את⟩ Gezer kag ginpasunog niya ini sa kalayo, kag ginpatay niya ⟨את⟩ ang Kenaaninhon nga nagaistar sa siyudad, kag ginhatag niya ini bilang gasa sa iya anak nga babae, nga asawa ni Shelomoh.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Si Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "nagtungas"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "kag ginkuha niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "kag ginpasunog niya ini"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Kenaaninhon"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ang Kenaaninhon"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "nga nagaistar"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa siyudad"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ginpatay niya"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "kag ginhatag niya ini"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "bilang gasa"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "sa iya anak nga babae"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    }
+  ],
+  "timestamp": "2026-09-21T18:31:45.018302023Z",
+  "model": "glm-5.3"
+}

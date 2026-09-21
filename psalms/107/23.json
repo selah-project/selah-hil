@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 107,
+  "translation": "Ang mga nangaon sa dagat sa mga sakayan, ang mga nagakabuhat sang buluhaton sa madamu nga tubig.",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "Ang mga nangaon"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "sa mga sakayan"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ang mga nagakabuhat"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "sang buluhaton"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sa tubig"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nga madamu"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:51.894676437Z",
+  "model": "glm-5.3"
+}

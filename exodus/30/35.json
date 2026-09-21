@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kag himomon mo ⟨את⟩ ina nga insenso — halo sang nagahalo, binahin kag asinan, dalisay, balaan.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Kag himomon mo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "insenso"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "insenso"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "halo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "binahin"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "sang nagahalo"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "asinan"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "dalisay"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:34:15.973464869Z",
+  "model": "glm-5.3"
+}

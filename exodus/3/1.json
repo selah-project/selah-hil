@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag si Moshe naga nga nagapalagya ⟨את⟩ sang kawan ni Yitro, nga iya amay sang asawa, padi sang Midyan; kag gidala niya ⟨את⟩ ang kawan sa likod sang kamingawan, kag nagkadto siya sa bukid sang Elohim, sa Khoreb.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Kag si Moshe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "naga"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "nagapalagya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang kawan"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kawan"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "iya amay sang asawa"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "padi"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "kag gidala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kawan"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ang kawan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sa likod"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "sang kamingawan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kag nagkadto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "sa Khoreb"
+    }
+  ],
+  "timestamp": "2026-09-21T16:20:11.014405036Z",
+  "model": "glm-5.3"
+}

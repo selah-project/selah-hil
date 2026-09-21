@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 28:24",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Kag ibutang mo ⟨את⟩ ang duha ka mga higot sang bolawan sa duha ka mga singsing, sa mga katapusan sang choshen.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Kag ibutang mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duha ka mga higot sang bolawan"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "עבתת",
+      "gloss": "mga higot"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "sang bolawan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "mga singsing"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "mga katapusan"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "sang choshen"
+    }
+  ],
+  "timestamp": "2026-09-21T16:33:22.365799670Z",
+  "model": "glm-5.3"
+}

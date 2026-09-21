@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 92,
+  "translation": "Kay tan-awa, ang imo mga kaaway, Yahweh; kay tan-awa, ang imo mga kaaway mangamatay, kag ang tanan nga mga nagakabuhat sang kalaut magakabahin-bahin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "imo mga kaaway"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "imo mga kaaway"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "mangamatay"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "magakabahin-bahin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "mga nagakabuhat"
+    },
+    {
+      "surface": "און",
+      "gloss": "kalaut"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:27.313804730Z",
+  "model": "glm-5.3"
+}

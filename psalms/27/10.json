@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Kay ang akon amay kag ang akon iloy nagbiya sa akon, kag si Yahweh magatigum sa akon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "akon amay"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "kag akon iloy"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "nagbiya sa akon"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "kag si Yahweh"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "magatigum sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:44.284984750Z",
+  "model": "glm-5.3"
+}

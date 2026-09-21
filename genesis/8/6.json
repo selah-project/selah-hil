@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag natabo, sa katapusan sang apat ka pulo ka adlaw, ginbukahan ni Noach ⟨את⟩ ang bintana sang arka nga iya ginhimo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kag natabo"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "sa katapusan"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "apat ka pulo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ka adlaw"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "kag ginbukahan"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ni Noach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bintana"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "bintana"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "sang arka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    }
+  ],
+  "timestamp": "2026-09-21T15:57:46.198221933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 145,
+  "translation": "Sa tagsa ka adlaw pagapakamaayanan tikaw, kag dayawon ko ang imo ngalan sa gakan kag sa dayon.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Sa tagsa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ka adlaw"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "pagapakamaayanan tikaw"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "kag dayawon ko"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imo ngalan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa gakan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag sa dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:36.138149111Z",
+  "model": "glm-5.3"
+}

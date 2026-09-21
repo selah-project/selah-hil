@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 52,
+  "translation": "Ngaa ikaw nga gamhanan nagapahambug sa kadaot? Ang hesed sang El nagatindog bug-os nga adlaw.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ngaa"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "nagapahambug ka"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "sa kadaot"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "ikaw nga gamhanan"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Ang hesed"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sang El"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bug-os"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:57.683156637Z",
+  "model": "glm-5.3"
+}

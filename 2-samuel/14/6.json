@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag ang imo sulugoon nga babae may duha ka anak nga lalaki, kag nag-ilog ang duha sa uma, kag wala sing nagaligot sa ila nga duha, kag ginhampak sang isa ⟨את⟩ ang isa, kag ginpapatay niya ⟨את⟩ siya.",
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "kag ang imo sulugoon nga babae"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "kag nag-ilog"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ang duha"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa uma"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "sing nagaligot"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "sa ila nga duha"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "kag ginhampak"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "sang isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang isa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kag ginpapatay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (ang isa nga ginhampan)"
+    }
+  ],
+  "timestamp": "2026-09-21T18:18:32.453593863Z",
+  "model": "glm-5.3"
+}

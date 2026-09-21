@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag subong, panumpa sa akon paagi sang Yahweh, nga indi ka magaputol ⟨את⟩ sang akon kaliwat human sa akon, kag indi ka magapawan ⟨את⟩ sang akon ngalan sa balay sang akon amay.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kag subong"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "panumpa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "paagi sang Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "magaputol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang akon kaliwat"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "sang akon kaliwat"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "human sa akon"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kag nga"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "magapawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang akon ngalan"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "sang akon ngalan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "sang akon amay"
+    }
+  ],
+  "timestamp": "2026-09-21T22:27:48.886116663Z",
+  "model": "glm-5.3"
+}

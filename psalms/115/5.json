@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 115:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 115,
+  "translation": "Baba ang ila ⟨ara⟩ kag indi sila magahambal; mga mata ang ila ⟨ara⟩ kag indi sila makakita.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "baba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "magahambal"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mga mata"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "makakita"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:18.734012287Z",
+  "model": "glm-5.3"
+}

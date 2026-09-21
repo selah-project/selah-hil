@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Kag pagbalo-on ko ⟨את⟩ ang kahambugan sang inyo kusog, kag himoon ko ⟨את⟩ ang inyo langit subong sang puthaw kag ⟨את⟩ ang inyo duta subong sang tumbaga.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "kag pagbalo-on ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kahambugan"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ang kahambugan"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "sang inyo kusog"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "kag himoon ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang inyo langit"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "ang inyo langit"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "subong sang puthaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ang inyo duta"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "subong sang tumbaga"
+    }
+  ],
+  "timestamp": "2026-09-21T16:56:39.358886320Z",
+  "model": "glm-5.3"
+}

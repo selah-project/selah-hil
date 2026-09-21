@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Nagkalot sing mga lit-ag sa akon ang mga palabiloghon, nga indi ⟨suno⟩ sa imo Torah.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "nagkalot"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "ang mga palabiloghon"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "mga lit-ag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "suno sa imo Torah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:50:04.218476227Z",
+  "model": "glm-5.3"
+}

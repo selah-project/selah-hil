@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag sang matabo na ang pagbalik sang tuig, ginpanihap ni Ben-Hadad ⟨את⟩ ang Aram, kag nagsaka siya sa Apek para sa pakigaway laban sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag sang matabo"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "ang pagbalik"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "sang tuig"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "kag ginpanihap"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ang Aram"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "kag nagsaka"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "sa Apek"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "para sa pakigaway"
+    },
+    {
+      "surface": "עם",
+      "gloss": "laban sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T18:38:08.292630868Z",
+  "model": "glm-5.3"
+}

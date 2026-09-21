@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag nagsiling siya: Indi ako makasulog sa pagbalik ⟨את⟩ ikaw kag sa pagpakon ⟨את⟩ ikaw, kag indi ako makakaon sang tinapay kag indi makainom ⟨את⟩ ikaw sang tubig sa sini nga duog.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ako makasulog"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "sa pagbalik"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ikaw",
+      "marks": "kaupod ikaw"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "kag sa pagpakon"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ikaw",
+      "marks": "kaupod ikaw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makakaon"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "sang tinapay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "makainom"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ikaw",
+      "marks": "kaupod ikaw"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sang tubig"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sa duog"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sini"
+    }
+  ],
+  "timestamp": "2026-09-21T18:32:51.966984429Z",
+  "model": "glm-5.3"
+}

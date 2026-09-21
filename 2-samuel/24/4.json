@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Apang nagpanimo ang pulong sang hari kay Yoav kag sa mga pangulo sang kasoldadosan, kag nagguwa si Yoav kag ang mga pangulo sang kasoldadosan sa atubangan sang hari, sa pagihap ⟨את⟩ sang mga tawo, ⟨את⟩ sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Apang nagpanimo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mga pangulo"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "sang kasoldadosan"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "kag nagguwa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "si Yoav"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "kag ang mga pangulo"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "sang kasoldadosan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "sa pagihap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tawo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T18:25:31.601092515Z",
+  "model": "glm-5.3"
+}

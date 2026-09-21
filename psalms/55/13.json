@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 55:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 55,
+  "translation": "Kay indi kaaway ang naga-ulaw sa akon — kag ⟨madala ko⟩ ini; indi man ang nagakadumalumal sa akon ang nagdako ⟨sa iya kaugalingon⟩ batok sa akon — kag ⟨magatago ako⟩ sa iya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "kaaway"
+    },
+    {
+      "surface": "יחרפני",
+      "gloss": "naga-ulaw sa akon"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "kag madala ko ini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "ang nagakadumalumal sa akon"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "batok sa akon"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "nagdako"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "kag magatago ako"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:36.021900690Z",
+  "model": "glm-5.3"
+}

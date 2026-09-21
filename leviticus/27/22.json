@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Kag kon ang isa ka tawo maghinalad ⟨את⟩ ⟨ang⟩ uma nga iya ginbakal — nga wala sa mga uma sang iya panagiyang duta — kay Yahweh,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kag kon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uma"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "uma"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "iya ginbakal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "sa mga uma"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "iya panagiyang duta"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "maghinalad"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T22:21:44.784910554Z",
+  "model": "glm-5.3"
+}

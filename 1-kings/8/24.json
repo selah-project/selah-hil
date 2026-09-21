@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 8:24",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "nga gintipig Mo sa imo sulugoon nga si David, akon amay, ⟨את⟩ ang ginsiling Mo sa iya; ginsiling Mo ini sang imo baba kag ginhimo Mo ini sang imo kamot subong nga adlaw.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "gintipig Mo"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "sa imo sulugoon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "akon amay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ginsiling Mo sa iya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang ginsiling Mo"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ginsiling"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "ginsiling Mo ini"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "sang imo baba"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "kag sang imo kamot"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "ginhimo Mo ini"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "subong nga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T18:31:07.695370482Z",
+  "model": "glm-5.3"
+}

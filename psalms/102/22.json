@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 102,
+  "translation": "Sa paghambal sa Tsiyon sang Ngalan ni Yahweh, kag sang iya pagdayaw sa Yerushalayim",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "sa paghambal"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "sa Tsiyon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "kag sang iya pagdayaw"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:42.167821902Z",
+  "model": "glm-5.3"
+}

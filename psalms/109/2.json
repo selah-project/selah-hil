@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 109,
+  "translation": "Kay ang baba sang madauton kag ang baba sang panginadlaw nagabukas batok sa akon; naghambal sila ⟨את⟩ kanako sing dila sang kabakukan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ang baba"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sang madauton"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "kag ang baba"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "sang panginadlaw"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "batok sa akon"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "nagabukas"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "naghambal sila"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "kanako"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "sing dila"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sang kabakukan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:21.134393585Z",
+  "model": "glm-5.3"
+}

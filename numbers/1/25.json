@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Ang ila nga ginbilang, sa tribo ni Gad, ⟨amo⟩ lima kag apat ka pulo ka libo kag anom ka gatos kag lima ka pulo.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ang ila nga ginbilang"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "sa tribo"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ni Gad"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "kag apat ka pulo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ka libo"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "kag anom"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "kag lima ka pulo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:56:28.700468043Z",
+  "model": "glm-5.3"
+}

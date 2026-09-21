@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Kay Dawid, pagtulun-an. Bulahan ang ⟨tawo⟩ nga gintimbay-an ⟨ang iya⟩ pagrebeldi, ang sala nga ginkatabungan.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Kay Dawid"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "pagtulun-an"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Bulahan"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "gintimbay-an"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "pagrebeldi"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "ginkatabungan"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "sala"
+    }
+  ],
+  "timestamp": "2026-09-21T20:30:11.373179483Z",
+  "model": "glm-5.3"
+}

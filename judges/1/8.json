@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nanginlaban ang mga anak ni Yehudah sa Yerushalayim, kag gidakop nila ini kag ginslag nila ⟨את⟩ ini paaging sang espada, kag ⟨את⟩ ang ciudad ginpadala nila sa kalayo.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "Kag nanginlaban"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "kag gidakop nila"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ ini",
+      "marks": "ini (ang Yerushalayim)"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "kag ginslag nila"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "paaging"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sang espada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang ciudad"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ginpadala nila"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:46:08.771472079Z",
+  "model": "glm-5.3"
+}

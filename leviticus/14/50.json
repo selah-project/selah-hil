@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "kag patyon niya ⟨את⟩ ang isa ka sapat sa sulod sang sudlan nga dalangpan, sa ibabaw sang buhi nga tubig;",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "kag patyon niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang isa ka sapat"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "ang sapat"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa sulod"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "sang sudlan"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "dalangpan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "buhi"
+    }
+  ],
+  "timestamp": "2026-09-21T16:47:31.591347436Z",
+  "model": "glm-5.3"
+}

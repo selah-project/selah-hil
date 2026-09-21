@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Bug-os nga adlaw ang akon nga kaulawan ⟨ya⟩ atubang ko, kag ang huya sang akon nga nawong nagtabon sa akon.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bug-os nga"
+    },
+    {
+      "surface": "היום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "ang akon nga kaulawan"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "atubang ko"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "kag ang huya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sang akon nga nawong"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "nagtabon sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:34.129375880Z",
+  "model": "glm-5.3"
+}

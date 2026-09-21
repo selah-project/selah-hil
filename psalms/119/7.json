@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Indugayan ko ikaw sa tul-id nga kasingkasing sa pagtoon ko sa imo mga hatol sang imo pagkamatarong.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "indugayan ko ikaw"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "sa tul-id nga"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "sa pagtoon ko"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "imo mga hatol"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "sang imo pagkamatarong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:58.476361547Z",
+  "model": "glm-5.3"
+}

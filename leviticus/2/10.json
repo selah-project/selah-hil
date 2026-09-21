@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag ang natipan gikan sa halad para kay Aharon kag sa iya mga anak — balaan sang mga balaan ini, gikan sa mga halad sa kalayo ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "kag ang natipan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "halad"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kay Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "kag sa iya mga anak"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "sang mga balaan"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "gikan sa mga halad sa kalayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:41:38.270911300Z",
+  "model": "glm-5.3"
+}

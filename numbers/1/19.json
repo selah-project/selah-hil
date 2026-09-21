@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Suno sa ginsugo ni Yahweh ⟨kay⟩ ⟨את⟩ Moshe, kag ginpangihap niya sila sa kamingawan sang Sinai.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "suno sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "kag ginpangihap niya sila"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "sang Sinai"
+    }
+  ],
+  "timestamp": "2026-09-21T16:57:36.851447415Z",
+  "model": "glm-5.3"
+}

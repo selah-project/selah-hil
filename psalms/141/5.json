@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 141,
+  "translation": "Tama-a ako sang matarong — hesed ina; kag tultola ako — lana iton sa ulo; indi pagbal-iya sang akon ulo, kay bisan pa, kag ang akon pangamuyo ⟨ya⟩ sa ila mga kalautan.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "tama-a ako"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "kag tultola ako"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יני",
+      "gloss": "pagbal-iya"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "akon ulo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bisang pa"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "kag ang akon pangamuyo"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "sa ila mga kalautan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:27.357599802Z",
+  "model": "glm-5.3"
+}

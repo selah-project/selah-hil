@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 4:25",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag magadala sila sang ⟨את⟩ mga kurtina sang balay-kasingkasan kag ⟨את⟩ sang tolda sang pagkitan, ang iya tabhub kag ang tabhub sang panit sang takhash nga ara sa iya sa babaw, kag ⟨את⟩ sang tabhub sang pultahan sang tolda sang pagkitan.",
+  "tokens": [
+    {
+      "surface": "ונשאו",
+      "gloss": "magadala sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga kurtina"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "mga kurtina"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "sang balay-kasingkasan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang tolda"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang pagkitan"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "ang iya tabhub"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "kag ang tabhub"
+    },
+    {
+      "surface": "התחש",
+      "gloss": "sang panit sang takhash"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ara sa iya"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "sa babaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang tabhub"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "tabhub"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sang pultahan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sang tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang pagkitan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:59:27.444659183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 6:44",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag ⟨את⟩ ang Ashan kag ⟨את⟩ ang iya mga kapatagan, kag ⟨את⟩ ang Bet-Shemesh kag ⟨את⟩ ang iya mga kapatagan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Ashan"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya mga kapatagan"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "iya mga kapatagan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Bet-Shemesh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya mga kapatagan"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "iya mga kapatagan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:51:34.898005995Z",
+  "model": "glm-5.3"
+}

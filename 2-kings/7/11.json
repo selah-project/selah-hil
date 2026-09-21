@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 7:11",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag nagtawag ang mga bantay sang ganghaan, kag ginpahibalo nila sa sulod sang balay sang hari.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "kag nagtawag"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ang mga bantay sang ganghaan"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "kag ginpahibalo nila"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "sa sulod"
+    }
+  ],
+  "timestamp": "2026-09-21T18:42:51.829681240Z",
+  "model": "glm-5.3"
+}

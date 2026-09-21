@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 8:33",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag si Ner nagkatawo ⟨את⟩ ki Kish, kag si Kish nagkatawo ⟨את⟩ ki Shaul, kag si Shaul nagkatawo ⟨את⟩ ki Yehonatan kag ⟨את⟩ ki Malkishua kag ⟨את⟩ ki Avinadav kag ⟨את⟩ ki Eshbaal.",
+  "tokens": [
+    {
+      "surface": "ונר",
+      "gloss": "kag si Ner"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkatawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ki Kish"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "ki Kish"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "kag si Kish"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkatawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ki Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ki Shaul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "kag si Shaul"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkatawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ki Yehonatan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ki Yehonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ki Malkishua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "-shua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ki Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "ki Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ki Eshbaal"
+    },
+    {
+      "surface": "אשבעל",
+      "gloss": "ki Eshbaal"
+    }
+  ],
+  "timestamp": "2026-09-21T21:52:48.028839313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 39,
+  "translation": "Suno sa ila kahaw-as kag suno sa ila mga kalapasan ginpangbuhat ko ⟨את⟩ sila, kag nagtago ako sang akon dagway sa ila.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "suno sa ila kahaw-as"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "kag suno sa ila mga kalapasan"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ginpangbuhat ko"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "kag nagtago ako"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ang akon dagway"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T19:58:27.219222357Z",
+  "model": "glm-5.3"
+}

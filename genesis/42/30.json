@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Naghambal ang tawo, ang adon sang duta, ⟨את⟩ sa amon sing mga mabug-at nga pulong, kag ginhimo niya ⟨את⟩ kami nga mga manan-aw sang duta.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "naghambal"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ang adon"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ sa amon"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "mga mabug-at nga pulong"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kag ginhimo niya"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kami"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "nga mga manan-aw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T16:16:37.487291278Z",
+  "model": "glm-5.3"
+}

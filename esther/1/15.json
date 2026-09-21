@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "suno sa kasogban, ano ang himoon sa reyna nga Vashti, kay wala niya himo ⟨את⟩ ang sugo sang hari nga Achashverosh paagi sa kamot sang mga selyado?",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "suno sa kasogban"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ang himoon"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "sa reyna"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "nga Vashti"
+    },
+    {
+      "surface": "על",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "niya himo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang sugo"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "ang sugo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "nga Achashverosh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "paagi sa kamot"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "sang mga selyado"
+    }
+  ],
+  "timestamp": "2026-09-21T21:29:01.125405240Z",
+  "model": "glm-5.3"
+}

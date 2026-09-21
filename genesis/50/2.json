@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 50,
+  "translation": "Kag ginsugo ni Yosef ⟨את⟩ ang iya mga sulugoon, ⟨את⟩ ang mga manug-ayo, sa pagpahumot sang ⟨את⟩ iya amay, kag ginpahumutan sang mga manug-ayo ⟨את⟩ si Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya mga sulugoon"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ang iya mga sulugoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga manug-ayo"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "ang mga manug-ayo"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "sa pagpahumot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya amay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iya amay"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "ginpahumutan"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "sang mga manug-ayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "si Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T16:20:07.099896725Z",
+  "model": "glm-5.3"
+}

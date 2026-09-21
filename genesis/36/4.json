@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Kag natawo kay Esav si Elifaz gikan kang Adah, kag si Basemat natawo ⟨את⟩ si Reuel.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "kag natawo gikan kang"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "kay Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Elifaz"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifaz"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "kag si Basemat"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "natawo gikan kang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Reuel"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    }
+  ],
+  "timestamp": "2026-09-21T16:11:20.676330511Z",
+  "model": "glm-5.3"
+}

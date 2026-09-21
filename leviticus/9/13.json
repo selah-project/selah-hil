@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 9:13",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag ⟨את⟩ ang halad nga sinusunog gindala sa iya, sa iya mga parte, kag ⟨את⟩ ang ulo, kag ginpahaloy niya sa ibabaw sang halaran.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang halad nga sinusunog"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ang halad nga sinusunog"
+    },
+    {
+      "surface": "המציאו",
+      "gloss": "gindala"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "sa iya mga parte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang ulo"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ang ulo"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ginpahaloy niya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sang halaran"
+    }
+  ],
+  "timestamp": "2026-09-21T16:45:45.886320125Z",
+  "model": "glm-5.3"
+}

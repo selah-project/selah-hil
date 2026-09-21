@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag magahulag ang pinuti sa iya mga dakbanwa, kag ubuson sini ang iya mga sara, kag kaonon sini sila tungod sa ila mga plano.",
+  "tokens": [
+    {
+      "surface": "וחלה",
+      "gloss": "Kag magahulag"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pinuti"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "sa iya mga dakbanwa"
+    },
+    {
+      "surface": "וכלתה",
+      "gloss": "kag uboson sini"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ang iya mga sara"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "kag kaonon sini"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "tungod sa ila mga plano"
+    }
+  ],
+  "timestamp": "2026-09-21T22:36:55.004224235Z",
+  "model": "glm-5.3"
+}

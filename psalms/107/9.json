@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 107,
+  "translation": "Kay ginpabusog niya ang kalag nga nagapangandoy, kag ang kalag nga gin-gutum ginpuno sang maayo ⟨nga mga butang⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "ginpabusog niya"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ang kalag"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "nga nagapangandoy"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "kag ang kalag"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "nga gin-gutum"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ginpuno"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "sang maayo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:14.534470596Z",
+  "model": "glm-5.3"
+}

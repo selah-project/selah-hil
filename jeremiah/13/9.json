@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Siling ni Yahweh: Amo sini pagalaglagon ko ⟨את⟩ ang garbo ni Yehudah kag ⟨את⟩ ang dako nga garbo sang Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Siling"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "naga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "amo sini"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "pagalaglagon ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang garbo"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "garbo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang garbo"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "garbo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "dako"
+    }
+  ],
+  "timestamp": "2026-09-21T19:21:49.947514564Z",
+  "model": "glm-5.3"
+}

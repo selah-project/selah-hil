@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "kag ⟨את⟩ ang halaran sang halad nga sinunog kag ⟨את⟩ ang tanan nga iya mga kagamitan, kag ⟨את⟩ ang labahan kag ⟨את⟩ ang iya tungtungan",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang halaran sang halad nga sinunog"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ang halaran"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sang halad nga sinunog"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan nga iya mga kagamitan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "nga iya mga kagamitan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang labahan"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "ang labahan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya tungtungan"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ang iya tungtungan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:34:11.832085205Z",
+  "model": "glm-5.3"
+}

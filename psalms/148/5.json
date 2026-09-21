@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 148,
+  "translation": "Magadayaw sila sang ⟨את⟩ ngalan ni Yahweh, kay siya ang nagautos kag gintuga sila",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Magadayaw sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang ngalan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nagautos"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "kag gintuga sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:37.426988657Z",
+  "model": "glm-5.3"
+}

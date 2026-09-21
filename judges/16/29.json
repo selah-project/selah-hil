@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 16:29",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag ginsikad ni Shimshon ⟨את⟩ ang duha ka haligi sa tunga, nga ang balay nagatindog sa ila, kag ginsandig niya ang iya kaugalingon sa ila — isa sa iya tuo nga kamot kag isa sa iya wala nga kamot.",
+  "tokens": [
+    {
+      "surface": "וילפת",
+      "gloss": "kag ginsikad"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "si Shimshon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duha ka haligi sa tunga"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "haligi"
+    },
+    {
+      "surface": "התוך",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "nagatindog"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "kag ginsandig"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "sa iya tuo"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "kag isa"
+    },
+    {
+      "surface": "בשמאלו",
+      "gloss": "sa iya wala"
+    }
+  ],
+  "timestamp": "2026-09-21T17:56:19.094335288Z",
+  "model": "glm-5.3"
+}

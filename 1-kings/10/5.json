@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 10:5",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "kag ang pagkaon sang iya lamesa, kag ang pagpungko sang iya mga sulugoon, kag ang pagtindog sang iya mga nagaalagad, kag ang ila mga bado, kag ang iya mga ilimnon, kag ang iya mga sinunog nga halad nga ginapasaka niya sa balay ni Yahweh, kag wala na sing espiritu sa iya.",
+  "tokens": [
+    {
+      "surface": "ומאכל",
+      "gloss": "kag ang pagkaon"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "sang iya lamesa"
+    },
+    {
+      "surface": "ומושב",
+      "gloss": "kag ang pagpungko"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sang iya mga sulugoon"
+    },
+    {
+      "surface": "ומעמד",
+      "gloss": "kag ang pagtindog"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "sang iya mga nagaalagad"
+    },
+    {
+      "surface": "ומלבשיהם",
+      "gloss": "kag ang ila mga bado"
+    },
+    {
+      "surface": "ומשקיו",
+      "gloss": "kag ang iya mga ilimnon"
+    },
+    {
+      "surface": "ועלתו",
+      "gloss": "kag ang iya mga sinunog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ginapasaka niya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "היה",
+      "gloss": "na"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "espiritu"
+    }
+  ],
+  "timestamp": "2026-09-21T18:30:11.520295977Z",
+  "model": "glm-5.3"
+}

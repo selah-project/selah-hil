@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Tindog, lakat sa Ninwe, ⟨ang⟩ dako nga ciudad, kag ipahibalo sa sini ⟨את⟩ ang pagpanawag nga akon ginahambal sa imo",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Tindog"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lakat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninwe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨ang⟩ ciudad"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "dako nga"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "kag ipahibalo"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "sa sini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pagpanawag"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "ang pagpanawag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "akon"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ginahambal"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T22:37:27.630268854Z",
+  "model": "glm-5.3"
+}

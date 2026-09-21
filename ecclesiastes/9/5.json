@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kay ang mga buhi kabalo nga mamatay sila, kag ang mga patay wala na ⟨sila⟩ kabalo sang bisan ano, kag wala na sila sing balus, kay ang ila handumma nalingi na.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ang mga buhi"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "kabalo"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "nga mamatay sila"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "kag ang mga patay"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "wala na"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "kabalo"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "sang bisan ano"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "balus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "nalingi na"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ang ila handumma"
+    }
+  ],
+  "timestamp": "2026-09-21T22:43:08.491911231Z",
+  "model": "glm-5.3"
+}

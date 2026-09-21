@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 107,
+  "translation": "Mga nagaestar sa kadudulman kag sa landong sang kamatayon, mga bilanggo sa kabudlayan kag sa puthaw.",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "mga nagaestar"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sa kadudulman"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "kag sa landong sang kamatayon"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "mga bilanggo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sa kabudlayan"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "kag sa puthaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:14.534763743Z",
+  "model": "glm-5.3"
+}

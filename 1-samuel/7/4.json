@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag gintangtang sang mga anak sang Yisrael ⟨את⟩ ang mga Baal kag ⟨את⟩ ang mga Ashtarot, kag nag-alagad sila ⟨את⟩ kay Yahweh bug-os lamang.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "Kag gintangtang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sang mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga Baal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "ang mga Baal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga Ashtarot"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "ang mga Ashtarot"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "kag nag-alagad sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "bug-os lamang"
+    }
+  ],
+  "timestamp": "2026-09-21T18:00:32.066053343Z",
+  "model": "glm-5.3"
+}

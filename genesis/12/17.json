@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag gintama ni Yahweh si Paro kag ⟨את⟩ ang iya balay sang malalap nga tama tungod kay Saray, nga asawa ni Avram.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "gintama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "sang malalap nga tama"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "malalap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya balay"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "iya balay"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sang sanggilapunon"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "kay Saray"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ni Avram"
+    }
+  ],
+  "timestamp": "2026-09-21T15:59:15.988959901Z",
+  "model": "glm-5.3"
+}

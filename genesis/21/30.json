@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag nagsiling siya: Bangod ⟨ang⟩ ⟨את⟩ pito ka karnero nga babae imo kuhaon sa akon kamot, agod mangin testigo sa akon, nga ako ang nagkalot ⟨את⟩ sang sini nga bubon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bangod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pito ka karnero nga babae"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "ka karnero nga babae"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "imo kuhaon"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "sa akon kamot"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "agod"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "mangin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "testigo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "ako ang nagkalot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sini nga bubon"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "bubon"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sini nga"
+    }
+  ],
+  "timestamp": "2026-09-21T22:16:44.642652437Z",
+  "model": "glm-5.3"
+}

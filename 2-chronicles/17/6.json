@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag nagbanwang ang iya kasingkasing sa mga dalan ni Yahweh, kag gindala pa niya palayo ⟨את⟩ ang mga hataas nga duog kag ⟨את⟩ ang mga Ashera halin sa Yehudah.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "kag nagbanwang"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ang iya kasingkasing"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "sa mga dalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "kag gindala pa"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "palayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga hataas nga duog"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ang mga hataas nga duog"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga Ashera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "ang mga Ashera"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "halin sa Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-21T22:06:03.589621424Z",
+  "model": "glm-5.3"
+}

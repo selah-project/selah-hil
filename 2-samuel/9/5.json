@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Ginpadala ni Dawid ang hari, kag ginkuha niya siya sa balay ni Makhir nga anak ni Ammiel, sa Lo Devar.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ginpadala"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "kag ginkuha siya"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makhir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammiel"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Lo Devar"
+    }
+  ],
+  "timestamp": "2026-09-21T18:15:55.497552853Z",
+  "model": "glm-5.3"
+}

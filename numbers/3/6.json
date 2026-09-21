@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Palapita ang tribo ni Levi, kag ipatindog mo ⟨את⟩ ina sa atubangan ni Aharon nga saserdote, kag magaalagad sila ⟨אתו⟩ sa iya.",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "Palapita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tribo ni Levi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ang tribo"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ni Levi"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "kag ipatindog mo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ina (ang tribo ni Levi)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "nga saserdote"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "kag magaalagad sila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "sa iya (kay Aharon)"
+    }
+  ],
+  "timestamp": "2026-09-21T16:59:17.671288649Z",
+  "model": "glm-5.3"
+}

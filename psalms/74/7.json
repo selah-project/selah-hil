@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 74,
+  "translation": "Ginpahanas nila sing kalayo ang imo balaan nga puluy-an; ginpahuya nila sa duta ang Mishkan sang imo Ngalan.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "ginpahanas nila"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sing kalayo"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "ang imo balaan nga puluy-an"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "ginpahuya nila"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "ang Mishkan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sang imo Ngalan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:11.155375255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 17:14",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "agod ang gingharian magaubos, agod indi ini magpataas sang iya kaugalingon, kondi magbantay sang ⟨את⟩ iya kasugtanan agod magtindog.",
+  "tokens": [
+    {
+      "surface": "להיות",
+      "gloss": "agod"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "ang gingharian"
+    },
+    {
+      "surface": "שפלה",
+      "gloss": "magaubos"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "agod indi"
+    },
+    {
+      "surface": "התנשא",
+      "gloss": "magpataas"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "magbantay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya kasugtanan"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "iya kasugtanan"
+    },
+    {
+      "surface": "לעמדה",
+      "gloss": "agod magtindog"
+    }
+  ],
+  "timestamp": "2026-09-21T19:47:35.907867955Z",
+  "model": "glm-5.3"
+}

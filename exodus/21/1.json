@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag ina amo ang mga paghukum nga ibutang mo sa ila ⟨atubangan⟩.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Kag ina"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ang mga paghukum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ibutang mo"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "sa ila atubangan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:30:49.090955966Z",
+  "model": "glm-5.3"
+}

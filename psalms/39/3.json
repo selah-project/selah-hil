@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 39,
+  "translation": "Natahi ang akon dila, naghilum ako; nagpaningilin ako bisan sa maayo, kag ang akon kasakitan nagbukal.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Natahi ang akon dila"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "naghilum ako"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "nagpaningilin ako"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "bisan sa maayo"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "kag ang akon kasakitan"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "nagbukal"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:39.693451738Z",
+  "model": "glm-5.3"
+}

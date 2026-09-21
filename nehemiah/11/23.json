@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 11:23",
+  "book": "nehemiah",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kay ang kasugoan sang hari ⟨amo⟩ sa ila, kag ang kasiguruhan sa mga mag-aawit: butang sang adlaw sa iya ka adlaw.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ang kasugoan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "ואמנה",
+      "gloss": "kag ang kasiguruhan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "mga mag-aawit"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "butang"
+    },
+    {
+      "surface": "יום",
+      "gloss": "sang adlaw"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "sa iya ka adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T21:47:56.128837680Z",
+  "model": "glm-5.3"
+}

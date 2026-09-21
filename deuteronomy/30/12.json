@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Indi ini sa mga langit, ⟨agi⟩ sa paghambal: Sin-o ang magaambit paingon sa langit sa aton kag magakuha sini sa aton kag magapamati sa aton ⟨את⟩ sini, agod mahimo naton ini?",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sa mga langit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sa paghambal"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Sin-o"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "magaambit"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa aton"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "paingon sa langit"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "kag magakuha sini"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa aton"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "kag magapamati sa aton"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sini"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "agod mahimo naton ini"
+    }
+  ],
+  "timestamp": "2026-09-21T17:31:08.014273329Z",
+  "model": "glm-5.3"
+}

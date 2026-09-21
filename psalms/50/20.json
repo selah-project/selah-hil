@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 50,
+  "translation": "Nagapungko ka kag naghambal batok sa imo utod; sa anak sang imo iloy ginahatag mo ang malain nga pakiphamba.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "nagapungko ka"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "batok sa imo utod"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "naghambal"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "sa anak"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "sang imo iloy"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ginahatag mo"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "ang malain nga pakiphamba"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:18.399721981Z",
+  "model": "glm-5.3"
+}

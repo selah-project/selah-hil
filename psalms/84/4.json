@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 84,
+  "translation": "Bisan ang maya nakapangita sang balay, kag ang layang-layang sang salag para sa iya, nga diin niya ginpahaluna ⟨את⟩ ang iya mga inanon — ang imo mga halaran, Yahweh Tsevaot, akon hari kag akon Elohim.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Bisan"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ang maya"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "nakapangita sang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "kag ang layang-layang"
+    },
+    {
+      "surface": "קן",
+      "gloss": "sang salag"
+    },
+    {
+      "surface": "לה",
+      "gloss": "para sa iya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga diin"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "ginpahaluna"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "ang iya mga inanon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imo mga halaran"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "imo mga halaran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "akon hari"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "kag akon Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:00.107213743Z",
+  "model": "glm-5.3"
+}

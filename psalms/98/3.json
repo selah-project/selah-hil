@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 98,
+  "translation": "Nadumduman niya ang iya hesed kag ang iya pagkamatinud-anon para sa balay sang Yisrael; nakita sang tanan nga mga katapusan sang duta ⟨את⟩ ang kaluwasan sang aton Elohim.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "nadumduman"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "iya hesed"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "kag iya pagkamatinud-anon"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "para sa balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "mga katapusan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kaluwasan sang aton Elohim"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "kaluwasan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "aton Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:19.598367986Z",
+  "model": "glm-5.3"
+}

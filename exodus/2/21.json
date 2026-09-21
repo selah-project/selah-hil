@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 2:21",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag nagpasulod si Moshe sa pagpuyo kaupod sang ⟨את⟩ tawo, kag gintagan niya si Moshe sing ⟨את⟩ Tsipora iya anak nga babae nga asawa.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "nagpasulod"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "sa pagpuyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tawo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "gintanan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsipora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsipora"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "iya anak nga babae"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kay Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T16:19:31.614866837Z",
+  "model": "glm-5.3"
+}

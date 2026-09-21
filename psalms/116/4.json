@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 116,
+  "translation": "Kag sa Ngalan sang Yahweh nagatawag ako: Maluyag, Yahweh, luwason ang akon kalag.",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "kag sa Ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sang Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nagatawag ako"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Maluyag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "luwason"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:08.727952636Z",
+  "model": "glm-5.3"
+}

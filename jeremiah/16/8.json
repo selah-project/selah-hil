@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag indi ka mag-sulod sa balay sang banguagan sa pagpungko ⟨kaupod⟩ sa pagkaon kag sa pag-inom.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "sang banguagan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "mag-sulod"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "sa pagpungko"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sa pagkaon kag sa pag-inom"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "sa pagkaon"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "kag sa pag-inom"
+    }
+  ],
+  "timestamp": "2026-09-21T19:21:15.915281702Z",
+  "model": "glm-5.3"
+}

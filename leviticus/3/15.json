@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ⟨את⟩ ang duha ka bató sa hawak, kag ⟨את⟩ ang taba nga ara sa ila, nga ara sa kilid, kag ⟨את⟩ ang lapyahan sa ibabaw sang atay — kaupod ang mga bató sa hawak, kuhaon niya ina.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "duha ka bató sa hawak"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duha"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ka bató sa hawak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang taba"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ang taba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "ara sa ila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "kilid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang lapyahan"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "ang lapyahan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "sang atay"
+    },
+    {
+      "surface": "על",
+      "gloss": "kaupod ang"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "mga bató sa hawak"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "kuhaon niya ina"
+    }
+  ],
+  "timestamp": "2026-09-21T16:41:40.177356039Z",
+  "model": "glm-5.3"
+}

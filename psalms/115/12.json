@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 115,
+  "translation": "Gin-umdom kita ni Yahweh; magpanalangin siya, magpanalangin siya sang ⟨את⟩ balay ni Yisrael, magpanalangin siya sang ⟨את⟩ balay ni Aharon.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "Gin-umdom kita"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "magpanalangin siya"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "magpanalangin siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balay ni Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "magpanalangin siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balay ni Aharon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:42.232573094Z",
+  "model": "glm-5.3"
+}

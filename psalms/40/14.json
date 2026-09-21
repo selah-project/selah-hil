@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Pahimuota, Yahweh, sa pagluwas sa akon; Yahweh, sa bulig sa akon, pagdali-dali.",
+  "tokens": [
+    {
+      "surface": "רצה",
+      "gloss": "Pahimuota"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "sa pagluwas sa akon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "sa bulig sa akon"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "pagdali-dali"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:38.471379230Z",
+  "model": "glm-5.3"
+}

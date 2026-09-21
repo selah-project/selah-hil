@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 31:21",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kag nagpalagyo siya kag tanan nga iya; kag nagbangon siya kag nagtabok sang ⟨את⟩ suba, kag ginpwesto niya ⟨את⟩ ang iya nawong pakadto sa bukid sang Gilad.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "nagpalagyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iya"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "nagbangon"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "nagtabok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang suba"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "suba"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ginpwesto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya nawong"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "nawong"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-09-21T16:09:28.010731334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kay sa adlaw nga ini magahimo siya sang pag-inay sa inyo, sa paghinlo ⟨את⟩ sang inyo halin sa tanan ninyo mga sala; sa atubang ni Yahweh magakaayo kamo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "magahimo sang pag-inay"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "sa paghinlo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (kamo)"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "halin sa tanan"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "ninyo mga sala"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "magakaayo kamo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:51:34.665899357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 63,
+  "translation": "Kay maayo ang imo hesed sangsa kabuhi, ang akon mga bibig magapadayaw sa imo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ang imo hesed"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "sangsa kabuhi"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ang akon mga bibig"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "magapadayaw sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:30.186147547Z",
+  "model": "glm-5.3"
+}

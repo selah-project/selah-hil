@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kag umabot si David kag ang iya mga tawo sa duta ⟨ang siyudad⟩, kag yari, nasunog ⟨ini⟩ sa kalayo, kag ang ila mga asawa kag ang ila mga anak nga lalaki kag ang ila mga anak nga babayi ginbiag.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "kag umabot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "kag ang iya mga tawo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang siyudad"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kag yari"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "nasunog"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "kag ang ila mga asawa"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "kag ang ila mga anak nga lalaki"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "kag ang ila mga anak nga babayi"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "ginbiag"
+    }
+  ],
+  "timestamp": "2026-09-21T18:11:43.003933951Z",
+  "model": "glm-5.3"
+}

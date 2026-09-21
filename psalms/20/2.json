@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Sabton ka ni Yahweh sa adlaw sang kagul-an; itindog ka sang ngalan sang Elohim ni Yaakov.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "Sabton ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "sang kagul-an"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "itindog ka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sang ngalan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:52.269620078Z",
+  "model": "glm-5.3"
+}

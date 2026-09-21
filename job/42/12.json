@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Kag ginpakamaayo ni Yahweh ⟨את⟩ ang urhi nga bahin sang kabuhi ni Iyob labaw sa iya ginsuguran, kag nangyari nga may ara siya sang napulo kag apat ka libo nga karnero, kag anom ka libo nga kamelyo, kag isa ka libo ka paris sang baka, kag isa ka libo nga bordanay.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "kag si Yahweh"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ginpakamaayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang urhi nga bahin"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ang urhi nga bahin"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ni Iyob"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "labaw sa iya ginsuguran"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag nangyari"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nga may ara siya"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "apat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ka libo"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nga karnero"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "kag anom"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ka libo"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "nga kamelyo"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "kag isa ka libo"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "ka paris"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sang baka"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "kag isa ka libo"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "nga bordanay"
+    }
+  ],
+  "timestamp": "2026-09-21T21:19:32.488291919Z",
+  "model": "glm-5.3"
+}

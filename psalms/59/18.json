@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 59,
+  "translation": "Akon gikusgon, sa imo magaambahan ako, kay Elohim amo ang akon pinakataas nga ampungan, ang Elohim sang akon hesed.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Akon gikusgon"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "magaambahan ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "akon pinakataas nga ampungan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim sang"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "akon hesed"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:17.324322796Z",
+  "model": "glm-5.3"
+}

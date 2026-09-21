@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 144,
+  "translation": "Sang ni David. Ginpapadayaw si Yahweh, ang akon bato, ang nagatudlo sang akon mga kamot sa pakig-away, kag sang akon mga tudlo sa gera.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Sang ni David"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ginpapadayaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ang akon bato"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "ang nagatudlo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "sang akon mga kamot"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "sa pakig-away"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "kag sang akon mga tudlo"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sa gera"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:39.741651456Z",
+  "model": "glm-5.3"
+}

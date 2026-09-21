@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "kag ⟨את⟩ ang hasidah, ang anafah suno sa iya minira, kag ⟨את⟩ ang dukhipat kag ⟨את⟩ ang paniki",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang hasidah"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "ang hasidah"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "ang anafah"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "suno sa iya minira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang dukhipat"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "ang dukhipat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang paniki"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "ang paniki"
+    }
+  ],
+  "timestamp": "2026-09-21T16:46:31.208468116Z",
+  "model": "glm-5.3"
+}

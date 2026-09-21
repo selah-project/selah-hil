@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "⟨את⟩ si Yahweh nga imo nga Elohim pagatakrunan mo, kag ⟨את⟩ iya pagaalagaran mo, kag sa iya ngalan magapanumpa ka.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh nga imo nga Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "imo nga Elohim"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "pagatakrunan mo"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "kag ⟨את⟩ iya",
+      "marks": "iya (si Yahweh)"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "pagaalagaran mo"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "kag sa iya ngalan"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "magapanumpa ka"
+    }
+  ],
+  "timestamp": "2026-09-21T17:19:08.185052474Z",
+  "model": "glm-5.3"
+}

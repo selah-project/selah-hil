@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nakita niya nga ginpakusog niya ang iya kaugalingon sa paglakat ⟨את⟩ iya, kag naguntat siya sa paghambal sa iya.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "kag nakita niya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "ginpakusog ang iya kaugalingon"
+    },
+    {
+      "surface": "היא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "sa paglakat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iya"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "kag naguntat"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "sa paghambal"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T21:22:28.040044399Z",
+  "model": "glm-5.3"
+}

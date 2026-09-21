@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag si Arpakshad nabuhi lima kag tatlo ka pulo ka tuig, kag ginatawo niya ⟨את⟩ si Shelakh.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "kag si Arpakshad"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nabuhi"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "kag tatlo ka pulo ka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "kag ginatawo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shelakh"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "si Shelakh"
+    }
+  ],
+  "timestamp": "2026-09-21T15:58:47.866329328Z",
+  "model": "glm-5.3"
+}

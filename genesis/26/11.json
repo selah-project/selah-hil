@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Kag ginsogo ni Avimelekh ⟨את⟩ tanan nga mga tawo, nga nagsiling: Ang magtandog sa tawo ini kag sa iya asawa, mamatay nga mamatay.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "kag ginsogo"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga tawo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagsiling"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ang magtandog"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "kag sa iya asawa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mamatay"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "mamatay"
+    }
+  ],
+  "timestamp": "2026-09-21T16:05:52.321668333Z",
+  "model": "glm-5.3"
+}

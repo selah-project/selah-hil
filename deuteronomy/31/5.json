@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kag itugyan sila ni Yahweh sa atubang ninyo, kag himoon ninyo sa ila suno sa tanan nga kasoguan nga akon ginsogo ⟨את⟩ sa inyo.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "kag itugyan sila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "sa atubang ninyo"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "kag himoon ninyo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "suno sa tanan"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "nga kasoguan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "akon ginsogo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:33:52.666176186Z",
+  "model": "glm-5.3"
+}

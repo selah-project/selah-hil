@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Ang mga anak nga lalaki ni Yefet: Gomer, Magog, Maday, Yavan, Tuval, Meshekh, kag Tiras.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki sang"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefet"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "kag Magog"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "kag Maday"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "kag Yavan"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "kag Tuval"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "kag Meshekh"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "kag Tiras"
+    }
+  ],
+  "timestamp": "2026-09-21T15:58:27.865959671Z",
+  "model": "glm-5.3"
+}

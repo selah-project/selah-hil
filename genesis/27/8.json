@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Kag subong, akon anak, magpatalingkad ikaw sa akon tingog, sa sina nga ginasingko sa imo ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kag subong"
+    },
+    {
+      "surface": "בני",
+      "gloss": "akon anak"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "magpatalingkad"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "sa akon tingog"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "sa sina nga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ginasingko"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ikaw"
+    }
+  ],
+  "timestamp": "2026-09-21T22:16:56.126076536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 34:2",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Kag nakita ni Shekhem nga anak ni Hamor nga Hitibo, manugdumala sang duta, ⟨את⟩ iya; kag ginkuha niya ⟨את⟩ iya kag ginhigharan ⟨את⟩ iya kag ginpahiya iya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iya (si Dinah)"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ni Shekhem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ni Hamor"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "nga Hitibo"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "manugdumala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ginkuha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iya (si Dinah)"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "ginhigharan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iya (si Dinah)"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "ginpahiya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:11:38.091463916Z",
+  "model": "glm-5.3"
+}

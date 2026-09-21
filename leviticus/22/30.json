@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Sa sadto nga adlaw kaunon ini; indi ninyo pag-butangi sang bilin nga tubtob sa kaagahon; ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sadto"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kaunon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "ninyo pag-butangi sang bilin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nga tubtob sa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nga tubtob"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sa kaagahon"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:52:42.615128675Z",
+  "model": "glm-5.3"
+}

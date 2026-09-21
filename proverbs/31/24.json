@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 31:24",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Nagahimo siya sang mga <bado nga lino> kag nagabaligya, kag nagahatag sang <paha> sa <Kenaaninhon>.",
+  "tokens": [
+    {
+      "surface": "סדין",
+      "gloss": "mga bado nga lino"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "nagahimo"
+    },
+    {
+      "surface": "ותמכר",
+      "gloss": "kag nagabaligya"
+    },
+    {
+      "surface": "וחגור",
+      "gloss": "kag sang paha"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "nagahatag"
+    },
+    {
+      "surface": "לכנעני",
+      "gloss": "sa Kenaaninhon"
+    }
+  ],
+  "timestamp": "2026-09-21T21:05:08.179604846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag nagtala si Sarah nga nagasiling: Wala ako nagkatwa, kay nagkahadlok ako. Kag nagsiling ⟨siya⟩: Indi, kay nagkatwa ikaw.",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "Kag nagtala"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "si Sarah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Wala"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "ako nagkatwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "nagkahadlok ako"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag nagsiling"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "nagkatwa ikaw"
+    }
+  ],
+  "timestamp": "2026-09-21T22:16:08.591130810Z",
+  "model": "glm-5.3"
+}

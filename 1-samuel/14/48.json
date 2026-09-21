@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag naghimo siya sang kusog, kag gintama niya ⟨את⟩ si Amalek, kag ginluwas niya ⟨את⟩ ang Yisrael sa kamot sang nagpanghared sa ila.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kag naghimo siya"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sang kusog"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "kag gintama niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "si Amalek"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "kag ginluwas niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "sang nagpanghared sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T22:27:44.801943071Z",
+  "model": "glm-5.3"
+}

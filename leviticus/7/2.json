@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Sa duog nga diin gin-ihaw nila ⟨את⟩ ang halad nga ginasunog, didto ihawon nila ⟨את⟩ ang asham, kag ⟨את⟩ ang iya dugo isabog niya sa halaran sa palibot.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "Sa duog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga diin"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "gin-ihaw nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang halad nga ginasunog"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ang halad nga ginasunog"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "ihawon nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang asham"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ang asham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya dugo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ang iya dugo"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "isabog niya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    }
+  ],
+  "timestamp": "2026-09-21T16:44:11.413189506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag si Khetsron nagkatawo ⟨את⟩ kay Ram, kag si Ram nagkatawo ⟨את⟩ kay Aminadav.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "kag si Khetsron"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkatawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "kag si Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkatawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Aminadav"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadav"
+    }
+  ],
+  "timestamp": "2026-09-21T21:21:25.781457218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 7:10",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag nagdala ang mga pangulo sang pag-alay sang halaran sa adlaw nga ini ginputos ⟨אתו⟩; kag gindala sang mga pangulo ⟨את⟩ ang ila halad sa atubang sang halaran.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "nagdala"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "ang mga pangulo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pag-alay"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "pag-alay"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sang halaran"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "ginputos"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "halaran"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "gindala"
+    },
+    {
+      "surface": "הנשיאם",
+      "gloss": "sang mga pangulo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ila halad"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "ang ila halad"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sang halaran"
+    }
+  ],
+  "timestamp": "2026-09-21T17:01:38.515070248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kag gintum-an ni Tsefanyah ang pari ⟨את⟩ ang sulat nga ini sa mga dalunggan ni Yirmeyahu, ang manalagna.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "kag gintum-an"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "si Tsefanyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang pari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang sulat"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ang sulat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "sa mga dalunggan"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ni Yirmeyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ang manalagna"
+    }
+  ],
+  "timestamp": "2026-09-21T19:29:32.099593798Z",
+  "model": "glm-5.3"
+}

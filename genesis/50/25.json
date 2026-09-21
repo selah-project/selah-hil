@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 50,
+  "translation": "Kag ginpanumpa ni Yosef ⟨את⟩ ang mga anak sang Yisrael, nga nagsiling: Sigurado nga paduawon sang Elohim ⟨אתכם⟩, kag dad-on ninyo paingon ⟨את⟩ ang akon mga bukog gikan diri.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "ginpanumpa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga anak sang Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagsiling"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "paduawon"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "sigurado nga paduawon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "והעלתם",
+      "gloss": "kag dad-on ninyo paingon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon mga bukog"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "akon mga bukog"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "gikan diri"
+    }
+  ],
+  "timestamp": "2026-09-21T16:18:35.066813498Z",
+  "model": "glm-5.3"
+}

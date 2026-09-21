@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Kag ginsugoan man niya ⟨את⟩ ang ikaduha, man ⟨את⟩ ang ikatlo, man ⟨את⟩ tanan sang nagaabay sa mga panon, nga nagasiling: Suno sa sining hambal hambalon ninyo sa kay Esav kon makita ninyo ⟨אתו⟩ siya.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ginsugoan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ikaduha"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ang ikaduha"
+    },
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ikatlo"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ang ikatlo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "sang nagaabay"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sa likod sang"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "mga panon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "suno sa hambal"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sining"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "hambalon ninyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kay Esav"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "kon makita ninyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "siya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:09:23.264637822Z",
+  "model": "glm-5.3"
+}

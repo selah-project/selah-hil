@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag naghukom si Shemuel ⟨sa⟩ ⟨את⟩ Yisrael sa tanan nga adlaw sang iya kabuhi.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Kag naghukom"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nga adlaw"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "sang iya kabuhi"
+    }
+  ],
+  "timestamp": "2026-09-21T17:59:49.781143878Z",
+  "model": "glm-5.3"
+}

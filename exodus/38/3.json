@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 38:3",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 38,
+  "translation": "Kag ginhimo niya ⟨את⟩ tanan nga mga galamiton sang halaran: ⟨את⟩ ang mga kaldero, kag ⟨את⟩ ang mga pala, kag ⟨את⟩ ang mga planggana, ⟨את⟩ ang mga kaw-it, kag ⟨את⟩ ang mga pang-alayab; tanan nga iya mga galamiton ginhimo niya sa tumbaga.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kag ginhimo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga galamiton"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mga galamiton"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sang halaran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kaldero"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "ang mga kaldero"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga pala"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "ang mga pala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga planggana"
+    },
+    {
+      "surface": "המזרקת",
+      "gloss": "ang mga planggana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kaw-it"
+    },
+    {
+      "surface": "המזלגת",
+      "gloss": "ang mga kaw-it"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga pang-alayab"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "ang mga pang-alayab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "iya mga galamiton"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo niya"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "sa tumbaga"
+    }
+  ],
+  "timestamp": "2026-09-21T16:39:04.455787548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 68,
+  "translation": "Siguro nga si Elohim magasam-ok sang ulo sang iya mga kaaway, ang buhokon nga korona sang ulo sang tawo nga nagalakat sa iya mga sala.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "siguro"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "magasam-ok"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "iya mga kaaway"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "korona sang ulo"
+    },
+    {
+      "surface": "שער",
+      "gloss": "buhok"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "nagalakat"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "sa iya mga sala"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:01.008921744Z",
+  "model": "glm-5.3"
+}

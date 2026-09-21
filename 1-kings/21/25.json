@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 21:25",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Wala gid sing nagin pareho kay Ahab, nga nagbaligya sang iya kaugalingon sa paghimo sang kagubtan sa mga mata ni Yahweh — ⟨siya⟩ nga ginpukaw ni Izebel nga iya asawa.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "gid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nagin"
+    },
+    {
+      "surface": "כאחאב",
+      "gloss": "pareho kay Ahab"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "התמכר",
+      "gloss": "nagbaligya sang iya kaugalingon"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa paghimo"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "sang kagubtan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הסתה",
+      "gloss": "ginpukaw"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "si Ahab"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "ni Izebel"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "nga iya asawa"
+    }
+  ],
+  "timestamp": "2026-09-21T18:38:40.447959561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 2:44",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag si Shama nagatawo ⟨את⟩ kay Racham, ang amay sang Yorkeam; kag si Rekem nagatawo ⟨את⟩ kay Shammay.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "Kag si Shama"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagatawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Racham"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "Racham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ang amay"
+    },
+    {
+      "surface": "ירקעם",
+      "gloss": "sang Yorkeam"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "kag si Rekem"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagatawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Shammay"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Shammay"
+    }
+  ],
+  "timestamp": "2026-09-21T21:48:49.107744414Z",
+  "model": "glm-5.3"
+}

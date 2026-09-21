@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag indi kamo magsumpa sa akon nga ngalan sa butig, kag indi mo pagasipalahon ⟨את⟩ ang ngalan sang imo nga Elohim; ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "magsumpa kamo"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "sa akon nga ngalan"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "sa butig"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "kag pagasipalahon mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ngalan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang ngalan"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sang imo nga Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:50:07.021206791Z",
+  "model": "glm-5.3"
+}

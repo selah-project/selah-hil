@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 143,
+  "translation": "Kay ang akon kaaway nagpanawas sa akon kalag; ginlutos niya sa duta ang akon kabuhi; ginpaestar niya ako sa mga kadulumduluman, subong sang mga patay sang umaaging panahon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "nagpanawas"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ang akon kaaway"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sa akon kalag"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "ginlutos"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "ang akon kabuhi"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "ginpaestar niya ako"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "sa mga kadulumduluman"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "subong sang mga patay"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sang umaaging panahon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:39.200661837Z",
+  "model": "glm-5.3"
+}

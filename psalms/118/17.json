@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 118,
+  "translation": "Indi ako pagapatyon, kay mabuhi ako, kag isugid ko ang mga binuhat ni Yah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "magakamatay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "mabuhi ako"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "kag isugid ko"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ang mga binuhat"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ni Yah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:45.750548828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Ginhatag siya ni Yahweh nga amon Elohim sa amon atubangan, kag gintama namon ⟨אתו⟩ kag ⟨את⟩ iya mga anak kag ⟨את⟩ tanan niya nga banwa.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "ginhatag siya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "amon Elohim"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "sa amon atubangan"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "gintama namon"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya (Siḥon)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga anak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iya mga anak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan niya nga banwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "niya nga banwa"
+    }
+  ],
+  "timestamp": "2026-09-21T17:18:09.566101123Z",
+  "model": "glm-5.3"
+}

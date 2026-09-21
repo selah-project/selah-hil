@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "1-chronicles 6:59",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "kag gikan sa tribo ni Asher ⟨את⟩ ang Mashal kag ⟨את⟩ ang iya mga kasilinganan, kag ⟨את⟩ ang Avdon kag ⟨את⟩ ang iya mga kasilinganan",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "kag gikan sa tribo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Mashal"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ang Mashal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya mga kasilinganan"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ang iya mga kasilinganan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Avdon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "ang Avdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya mga kasilinganan"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ang iya mga kasilinganan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:51:41.968412449Z",
+  "model": "glm-5.3"
+}

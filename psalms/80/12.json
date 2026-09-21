@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 80,
+  "translation": "Ginpadala niya ang iya mga sanga tubtob sa dagat, kag sa suba ang iya mga usbong.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "ginpadala niya"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "ang iya mga sanga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "ים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "suba"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "ang iya mga usbong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:36.343715868Z",
+  "model": "glm-5.3"
+}

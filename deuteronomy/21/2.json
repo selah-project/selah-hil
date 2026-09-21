@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "magaguwa ang imo mga magulang kag ang imo mga manuklad, kag pagasukson nila padulong sa mga dako nga banwa nga palibut sang ginpatay.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "magaguwa"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "imo mga magulang"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "imo mga manuklad"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "pagasukson nila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "padulong sa"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "mga dako nga banwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "palibut sang"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "ginpatay"
+    }
+  ],
+  "timestamp": "2026-09-21T17:26:42.468137114Z",
+  "model": "glm-5.3"
+}

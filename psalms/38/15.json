@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 38,
+  "translation": "Kag ako nangin pareho sang tawo nga wala nakabati, kag wala sing mga pagbatok sa iya baba.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "kag ako nangin"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "pareho sang tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nakabati"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala sing"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "sa iya baba"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "mga pagbatok"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:22.447577984Z",
+  "model": "glm-5.3"
+}

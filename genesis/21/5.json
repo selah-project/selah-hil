@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag si Avraham anak sang isa ka gatos ka tuig sang matawo ⟨את⟩ si Yitskhak nga iya anak sa iya.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Kag si Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "sang isa ka gatos"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "sang matawo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yitskhak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "si Yitskhak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nga iya anak"
+    }
+  ],
+  "timestamp": "2026-09-21T22:16:28.711237482Z",
+  "model": "glm-5.3"
+}

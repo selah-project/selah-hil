@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 31:3",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kag ang Mitsrayim tawo kag indi El, kag ang ila mga kabayo laman kag indi espiritu; kag si Yahweh magapaduyog sang iya kamot, kag matumba ang nagabulig kag magatumba ang ginbulig-an, kag dung-an tanan sila magalapas.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Kag ang Mitsrayim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "וסוסיהם",
+      "gloss": "kag ang ila mga kabayo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "laman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "espiritu"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "kag si Yahweh"
+    },
+    {
+      "surface": "יטה",
+      "gloss": "magapaduyog"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "iya kamot"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "kag matumba"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "ang nagabulig"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "kag magatumba"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ang ginbulig-an"
+    },
+    {
+      "surface": "ויחדו",
+      "gloss": "kag dung-an"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tanan sila"
+    },
+    {
+      "surface": "יכליון",
+      "gloss": "magalapas"
+    }
+  ],
+  "timestamp": "2026-09-21T22:32:12.483163052Z",
+  "model": "glm-5.3"
+}

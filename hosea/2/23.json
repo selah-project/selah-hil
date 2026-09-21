@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "hosea 2:23",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag matabo sa ina nga adlaw — simbako ko, pagtinagna sang Yahweh — simbako ko ⟨את⟩ ang mga langit, kag sila magsimbako ⟨את⟩ sang duta.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kag matabo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ina nga"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "simbako ko"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "pagtinagna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sang Yahweh"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "simbako ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "והם",
+      "gloss": "kag sila"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "magsimbako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:03:52.881352893Z",
+  "model": "glm-5.3"
+}

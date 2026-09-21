@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag nahitabo tungod sa kabug-at ⟨sang⟩ kahubas sang iya panagwayas, nga ginpanaug niya ⟨את⟩ ang duta kag nagpanagwayas siya sang bato kag sang kahoy.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kag nahitabo"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "tungod sa kabug-at ⟨sang⟩ kahubas"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "sang iya panagwayas"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "nga ginpanaug niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "kag nagpanagwayas siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bato"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "ang bato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang kahoy"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ang kahoy"
+    }
+  ],
+  "timestamp": "2026-09-21T22:32:06.865344601Z",
+  "model": "glm-5.3"
+}

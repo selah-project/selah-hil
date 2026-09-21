@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 16:5",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag sa hesed ⟨matindog⟩ ang lingkoranan, kag magalingkod sa iya sa kamatuoran, sa tolda ni Dawid, nga naghuhukom kag nangita sang hustisya, kag napaspas sa pagbuhat sang kaangayan.",
+  "tokens": [
+    {
+      "surface": "והוכן",
+      "gloss": "kag gintindog"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "sa hesed"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "lingkoranan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kag magalingkod"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "sa kamatuoran"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "sa tolda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni Dawid"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "naghuhukom"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "kag nangita"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sang hustisya"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "kag napaspas"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kaangayan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:58:16.048948455Z",
+  "model": "glm-5.3"
+}

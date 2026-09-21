@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Sa tanan may sang takna, kag sang tion sa tanan nga handum sa idalom sang mga langit.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "takna"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "kag sang tion"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "handum"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa idalom"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sang mga langit"
+    }
+  ],
+  "timestamp": "2026-09-21T21:25:27.473087974Z",
+  "model": "glm-5.3"
+}

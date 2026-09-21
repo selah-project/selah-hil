@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 106,
+  "translation": "Kag nagkadako ang akig ni Yahweh sa iya katawhan, kag ginbinuyaan niya ⟨את⟩ ang iya panubli",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "kag nagkadako ang akig"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ang akig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "sa iya katawhan"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "kag ginbinuyaan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya panubli"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ang iya panubli"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:23.141358119Z",
+  "model": "glm-5.3"
+}

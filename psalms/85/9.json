@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 85:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 85,
+  "translation": "Magapamat-i ako kon ano ang ipanghambal sang El Yahweh, kay magahambal sia sang kappahusan sa iya katawhan kag sa iya mga banal, kag indi na sila magbalik sa kasilag.",
+  "tokens": [
+    {
+      "surface": "אשמעה",
+      "gloss": "magapamat-i ako"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kon ano"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ang ipanghambal"
+    },
+    {
+      "surface": "האל",
+      "gloss": "sang El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "magahambal"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kappahusan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "iya katawhan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "iya mga banal"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "mabalin sila magbalik"
+    },
+    {
+      "surface": "לכסלה",
+      "gloss": "sa kasilag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:59.857581224Z",
+  "model": "glm-5.3"
+}

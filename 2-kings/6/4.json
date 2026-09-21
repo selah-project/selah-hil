@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag nagkadto siya uban ⟨את⟩ sila, kag nagsulod sila sa Yarden, kag nagputol sila sang mga kahoy.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Kag nagkadto siya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "kag nagsulod sila"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "sa Yarden"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "kag nagputol sila"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "sang mga kahoy"
+    }
+  ],
+  "timestamp": "2026-09-21T18:41:06.448985538Z",
+  "model": "glm-5.3"
+}

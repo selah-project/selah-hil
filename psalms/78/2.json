@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Abrihan ko ang akon baba sa sambitayon; igwaos ko ang mga humlad gikan sa mga nahauna nga tion.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "Abrihan ko"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "sa sambitayon"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ang akon baba"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "igwaos ko"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "ang mga humlad"
+    },
+    {
+      "surface": "מני",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "mga nahauna nga tion"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:47.921530958Z",
+  "model": "glm-5.3"
+}

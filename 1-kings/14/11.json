@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Ang mapatay kay Yarovam sa ciudad pagakaon sang mga ido, kag ang mapatay sa uma pagakaon sang mga sapat sang langit, kay si Yahweh amo ang naghambal",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "ang mapatay"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "kay Yarovam"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa ciudad"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "pagakaon sang"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "mga ido"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "kag ang mapatay"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa uma"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "pagakaon sang"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "mga sapat"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sang langit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "naghambal"
+    }
+  ],
+  "timestamp": "2026-09-21T18:33:45.294151614Z",
+  "model": "glm-5.3"
+}

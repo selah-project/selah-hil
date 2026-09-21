@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 4:11",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag sa ibabaw sang tinaklapan nga bulawan iabot nila ang isa ka bisti sang tekhelet kag tuktukon nila ⟨את⟩ ini sang isa ka tabtab sang panit sang takash, kag isulod nila ⟨את⟩ ang iya mga badbaran.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "kag sa ibabaw sang"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "tinaklapan"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "יפרשו",
+      "gloss": "iabot nila"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "bisti"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "kag tuktukon nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ini",
+      "marks": "ini (ang tinaklapan)"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "sang isa ka tabtab"
+    },
+    {
+      "surface": "עור",
+      "gloss": "panit"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "takash"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "kag isulod nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya mga badbaran"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "iya mga badbaran"
+    }
+  ],
+  "timestamp": "2026-09-21T16:59:44.171347521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 27:9",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Kag nagturog si Yotam kaupod sang iya mga amay, kag ginlubong siya ⟨siya⟩ sa duta ni David; kag naghari si Achatz, iya anak, sa iya ⟨duog⟩.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "kag nagturog"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "si Yotam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sang iya mga amay"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "kag ginlubong"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya (Yotam)"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "kag naghari"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "si Achatz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iya anak"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sa iya duog"
+    }
+  ],
+  "timestamp": "2026-09-21T22:08:59.360393791Z",
+  "model": "glm-5.3"
+}

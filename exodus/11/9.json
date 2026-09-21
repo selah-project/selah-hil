@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag nagsiling si Yahweh kay Moshe: indi magpatalinghaga ⟨kamo⟩ si Paro sa inyo, agod madamo ang akon mga tanda sa duta sang Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "magpatalinghaga"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "⟨kamo⟩ sa inyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "si Paro"
+    },
+    {
+      "surface": "למען",
+      "gloss": "agod"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "madamo"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "ang akon mga tanda"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:22:35.721427197Z",
+  "model": "glm-5.3"
+}

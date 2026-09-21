@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Kag ibutang ko ⟨את⟩ ang bukid sang Seir nga kagul kag kawalay sing tawo, kag papawayon ko sa sini ang magalabay kag ang magabalik.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ibutang ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bukid sang Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "nga kagul"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "kag kawalay sing tawo"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "kag papawayon ko"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "sa sini"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ang magalabay"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "kag ang magabalik"
+    }
+  ],
+  "timestamp": "2026-09-21T19:56:40.345598820Z",
+  "model": "glm-5.3"
+}

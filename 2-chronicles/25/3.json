@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag sang nahi-ugyon na ang paghari sa iya, ginpatay niya ⟨את⟩ ang iya mga sulugoon nga naghalad sang hinampak sa hari nga iya amay.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag sang"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sang"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "nahi-ugyon na"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ang paghari"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ginpatay niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya mga sulugoon"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ang iya mga sulugoon"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "nga naghampak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iya amay"
+    }
+  ],
+  "timestamp": "2026-09-21T22:10:37.363451997Z",
+  "model": "glm-5.3"
+}

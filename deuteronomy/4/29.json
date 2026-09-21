@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 4:29",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag didto ninyo pangotonon ⟨את⟩ si Yahweh nga Elohim ninyo, kag imo makita ⟨siya⟩, kon pangitaon mo siya sang tanan mo nga kasingkasing kag sang tanan mo nga kalag.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "kag didto ninyo pangotonon"
+    },
+    {
+      "surface": "משם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga Elohim ninyo"
+    },
+    {
+      "surface": "ומצאת",
+      "gloss": "kag imo makita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "pangitaon mo siya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "mo nga kasingkasing"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "kag sang tanan"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "mo nga kalag"
+    }
+  ],
+  "timestamp": "2026-09-21T17:20:24.970707366Z",
+  "model": "glm-5.3"
+}

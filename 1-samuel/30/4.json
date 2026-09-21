@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kag ginpataas ni David kag sang katawhan nga kaupod ⟨אתו⟩ niya ⟨את⟩ ang ila tingog kag naghibi sila, tubtob wala na sa ila sing kusog sa paghibi.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "kag ginpataas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "kag sang katawhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "kaupod ⟨אתו⟩ niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ila tingog"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ang ila tingog"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "kag naghibi sila"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala na"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "כח",
+      "gloss": "sing kusog"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "sa paghibi"
+    }
+  ],
+  "timestamp": "2026-09-21T18:11:43.004079582Z",
+  "model": "glm-5.3"
+}

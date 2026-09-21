@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 149,
+  "translation": "Dayawa si Yah; kanta kamo kay Yahweh sing bag-o nga kanta, ⟨ang⟩ iya pagdayaw sa katilingban sang mga maka-Dios.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dayawa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "si Yah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "kanta kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kanta"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bag-o"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "iya pagdayaw"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "sa katilingban"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "mga maka-Dios"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:00.852940084Z",
+  "model": "glm-5.3"
+}

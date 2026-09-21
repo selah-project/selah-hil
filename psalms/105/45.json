@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Agod nga magatipigan nila ang iya mga giho kag ang iya mga pagtulun-an pagabantayan nila. Dayeg ninyo si Yah!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "Agod nga"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "magatipigan nila"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "iya mga giho"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "kag ang iya mga pagtulun-an"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "pagabantayan nila"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Dayeg ninyo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "si Yah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:55.212398486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 51,
+  "translation": "Yari, ang kamatuoran ginpagustohan mo sa mga sulod nga bahin, kag sa tago nga bahin ang kaalam ginaathag mo sa akon.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "yari"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ang kamatuoran"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "ginpagustohan mo"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "sa mga sulod nga bahin"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "kag sa tago nga bahin"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ang kaalam"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "ginaathag mo sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:19.989147693Z",
+  "model": "glm-5.3"
+}

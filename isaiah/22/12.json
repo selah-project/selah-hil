@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 22:12",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "kag gintawag ni Adonay Yahweh Tsevaot sa ina nga adlaw sa paghibi kag sa pagpanamilit kag sa paghubs sang buhok kag sa pagputos sang sako",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "kag gintawag"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ina nga"
+    },
+    {
+      "surface": "לבכי",
+      "gloss": "sa paghibi"
+    },
+    {
+      "surface": "ולמספד",
+      "gloss": "kag sa pagpanamilit"
+    },
+    {
+      "surface": "ולקרחה",
+      "gloss": "kag sa paghubs sang buhok"
+    },
+    {
+      "surface": "ולחגר",
+      "gloss": "kag sa pagputos"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sang sako"
+    }
+  ],
+  "timestamp": "2026-09-21T18:58:05.217328855Z",
+  "model": "glm-5.3"
+}

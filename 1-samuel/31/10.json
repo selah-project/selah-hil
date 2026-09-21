@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kag ginbutang nila ⟨את⟩ ang iya mga armas sa balay sang Ashtarot, kag ⟨את⟩ ang iya lawas ginpako nila sa paril sang Beit-Shan.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "ginbutang nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya mga armas"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "iya mga armas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "sang Ashtarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya lawas"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "iya lawas"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "ginpako nila"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "sa paril"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Shan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:12:35.208246576Z",
+  "model": "glm-5.3"
+}

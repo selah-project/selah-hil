@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 103,
+  "translation": "Nagahimo sang mga pagkamatarong si Yahweh, kag sang mga paghukom para sa tanan nga gin-aapi.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "nagahimo"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "mga pagkamatarong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "kag mga paghukom"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "para sa tanan"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "nga gin-aapi"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:56.593014176Z",
+  "model": "glm-5.3"
+}

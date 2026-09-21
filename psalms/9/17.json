@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Nakilala si Yahweh, hukom iya ginhimo; sa buluhaton sang iya mga palad naligsan ang malaot. Higayon. Selah.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "Nakilala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukom"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "sa buluhaton"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "sang iya mga palad"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "naligsan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ang malaot"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higayon"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:50.358724241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 118,
+  "translation": "Ginlibot ako, oo, ginlibot ako; kay sa ngalan ni Yahweh gintangtang ko sila.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "ginlibot ako"
+    },
+    {
+      "surface": "גם",
+      "gloss": "oo"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ginlibot ako"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "gintangtang ko sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:49.715637771Z",
+  "model": "glm-5.3"
+}

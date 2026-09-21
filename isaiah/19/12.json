@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 19:12",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Diin subong ang imo mga maalam? Kag ipaathag nila na sa imo, kag kilalahon nila ang gintambag ni Yahweh Tsevaot laban sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "diin"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "subong"
+    },
+    {
+      "surface": "חכמיך",
+      "gloss": "ang imo mga maalam"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "kag ipaathag nila"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "kag kilalahon nila"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ang"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "gintambag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "על",
+      "gloss": "laban sa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T18:57:41.108093131Z",
+  "model": "glm-5.3"
+}

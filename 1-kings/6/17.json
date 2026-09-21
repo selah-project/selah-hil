@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag apat ka pulo ka siko ang kadugay sang bayay — amo ini ang tempro sa iya atubang.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "kag apat ka pulo"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ka siko"
+    },
+    {
+      "surface": "היה",
+      "gloss": "amo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang bayay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ang tempro"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa iya atubang"
+    }
+  ],
+  "timestamp": "2026-09-21T18:28:27.168868493Z",
+  "model": "glm-5.3"
+}

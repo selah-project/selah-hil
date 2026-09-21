@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 28:37",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Kag ibutang mo ⟨אתו⟩ sa hilit sang tekhelet, kag magaara ini sa ibabaw sang mitsnefet; sa atubangan sang nawong sang mitsnefet magaara ini.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "kag ibutang mo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ini (ang plataporma sang purong bulawan)"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "hilit"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kag magaara ini"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "sang mitsnefet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מול",
+      "gloss": "atubangan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sang nawong"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "sang mitsnefet"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magaara ini"
+    }
+  ],
+  "timestamp": "2026-09-21T16:33:51.609210199Z",
+  "model": "glm-5.3"
+}

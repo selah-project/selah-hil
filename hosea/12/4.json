@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Sa tiyan iya ginkuha ang tikod ⟨את⟩ sang iya utod, kag sa iya kusog iya nakig-away ⟨את⟩ kaupod sang Elohim.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "sa tiyan"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "iya ginkuha ang tikod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang iya utod"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sang iya utod"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "kag sa iya kusog"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "iya nakig-away"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kaupod sang Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T20:06:42.231273836Z",
+  "model": "glm-5.3"
+}

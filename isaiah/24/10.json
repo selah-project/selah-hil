@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Naguba ang dakongdalang sang kahalawan; ginasirhan ang tanan nga balay sa ⟨tungod sang⟩ pag-asod.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "naguba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "dakongdalang"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "kahalawan"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ginasirhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "sa ⟨tungod sang⟩ pag-asod"
+    }
+  ],
+  "timestamp": "2026-09-21T18:59:43.744977157Z",
+  "model": "glm-5.3"
+}

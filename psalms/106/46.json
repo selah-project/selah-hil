@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 106,
+  "translation": "Kag naghatag siya ⟨את⟩ ⟨sa ila⟩ nga mga kaluoy sa atubangan sang tanan nga nangbihag sa ila.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "naghatag siya"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mga kaluoy"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "nga mga kaluoy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "nga nangbihag sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:48.227681590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 62,
+  "translation": "Gid sa Elohim nagapabilin nga hilom ang akon kalag; halin sa iya ang akon kaluwas.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "gid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "nagapabilin nga hilom"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "halin sa iya"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ang akon kaluwas"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:34.112279724Z",
+  "model": "glm-5.3"
+}

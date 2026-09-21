@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 17:23",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag gindala ni Eliyahu ⟨את⟩ ang bata, kag ginpanaog niya ⟨siya⟩ sa ibabaw nga kwarto ngadto sa balay, kag gintugyan niya ⟨siya⟩ sa iya iloy, kag nagsiling si Eliyahu: Tan-awa, buhi ang imo anak.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kag gindala"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "si Eliyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bata"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "וירדהו",
+      "gloss": "kag ginpanaog"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "ibabaw nga kwarto"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ngadto sa balay"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "kag gintugyan"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "sa iya iloy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "si Eliyahu"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "חי",
+      "gloss": "buhi"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ang imo anak"
+    }
+  ],
+  "timestamp": "2026-09-21T18:34:50.456687625Z",
+  "model": "glm-5.3"
+}

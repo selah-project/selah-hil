@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Sa ⟨manugdumala⟩, isa ka tulun-an sang mga anak ni Korach.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa ⟨manugdumala⟩"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "isa ka tulun-an"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sang mga anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:02.301403210Z",
+  "model": "glm-5.3"
+}

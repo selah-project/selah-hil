@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 85,
+  "translation": "Ipaduli kami, Elohim sang amon pagluwas, kag pangganasi mo ang imo kaakig nga ⟨diri⟩ sa amon.",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Ipaduli kami"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "sang amon pagluwas"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "kag pangganasi mo"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "ang imo kaakig"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "sa amon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:00.318205033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kag nabatian sang mga pumoluyo sang Yavesh sa Gilad ⟨את⟩ ang ginhimo sang mga Peleshtim kay Shaul.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "nabatian"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tungod sa iya"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mga pumoluyo"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ginhimo sang mga Peleshtim kay Shaul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sang mga Peleshtim"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kay Shaul"
+    }
+  ],
+  "timestamp": "2026-09-21T18:12:35.208386619Z",
+  "model": "glm-5.3"
+}

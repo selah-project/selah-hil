@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag maghalin ang mga baki gindi sa imo, kag sa imo mga balay, kag sa imo mga sulugoon, kag sa imo bangud; lamang sa suba sila mabilin.",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "kag maghalin"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "ang mga baki"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "gindi sa imo"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "kag sa imo mga balay"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "kag sa imo mga sulugoon"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "kag sa imo bangud"
+    },
+    {
+      "surface": "רק",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "sa suba"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "sila mabilin"
+    }
+  ],
+  "timestamp": "2026-09-21T16:22:47.454535804Z",
+  "model": "glm-5.3"
+}

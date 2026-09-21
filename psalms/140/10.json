@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 140,
+  "translation": "Ang ulo sang mga nagapalibot sa akon — ang kapisan sang ila mga bibig amo ang magatabun sa ila.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Ang ulo"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "sang mga nagapalibot sa akon"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ang kapisan"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "sang ila mga bibig"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "amo ang magatabun sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:35.608724801Z",
+  "model": "glm-5.3"
+}

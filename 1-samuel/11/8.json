@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag gintangkad niya sila sa Bezek; kag ang mga anak sang Yisrael tatlo ka gatos ka libo, kag ang mga tawo sang Yehudah tatlo ka pulo ka libo.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "kag gintangkad niya sila"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "sa Bezek"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "kag ang mga anak sang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tatlo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ka libo"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kag ang mga tawo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tatlo ka pulo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ka libo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:02:38.381271800Z",
+  "model": "glm-5.3"
+}

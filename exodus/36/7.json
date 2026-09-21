@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Kag ang materyal ara na sing igo sa tanan nga buluhaton sa paghimo sang ⟨את⟩⟨ina⟩, kag sobra pa.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "kag ang materyal"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ara na"
+    },
+    {
+      "surface": "דים",
+      "gloss": "sing igo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "nga buluhaton"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa paghimo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ina (ang buluhaton)"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "kag sobra pa"
+    }
+  ],
+  "timestamp": "2026-09-21T16:39:57.692753955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Indi pagpalayo sa akon, kay ang kalisod duol na, kay wala sing nagabulig.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "pagpalayo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ang kalisod"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "duol na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "sing nagabulig"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:17.768738224Z",
+  "model": "glm-5.3"
+}

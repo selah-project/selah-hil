@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kag himoon mo ⟨את⟩ ang mga bad, kahoy sang shitim, kag takpan mo sila sang bulawan.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Kag himoon mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga bad"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ang mga bad"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy sang"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "kag takpan mo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sila (ang mga bad)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:33:54.024033236Z",
+  "model": "glm-5.3"
+}

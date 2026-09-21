@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-kings 22:54",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kag nag-alagad siya sa ⟨את⟩ Baal kag nagdukdaw siya sa iya, kag ginpaakig niya ⟨את⟩ si Yahweh, ang Elohim sang Yisrael, suno sa tanan nga ginhimo sang iya amay.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "kag nag-alagad siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישתחוה",
+      "gloss": "kag nagdukdaw siya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "kag ginpaakig niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "suno sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sang iya amay"
+    }
+  ],
+  "timestamp": "2026-09-21T18:38:17.443859156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 56,
+  "translation": "Ginpanginhawa ako sang akon mga kaaway sa bug-os nga adlaw, kay madamo ang nagapanggubat sa akon ⟨sa⟩ kataas-taasan.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "ginpanginhawa ako"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "akon mga kaaway"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bug-os"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nga adlaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "madamo"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "nagapanggubat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "kataas-taasan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:58.836498652Z",
+  "model": "glm-5.3"
+}

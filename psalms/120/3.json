@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 120,
+  "translation": "Ano ang ihatod sa imo, kag ano ang idugang pa sa imo, O dila sang pagpanglimbong?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ano"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ang ihatod"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "kag ano"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ang idugang pa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "O dila"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "sang pagpanglimbong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:50:47.397513657Z",
+  "model": "glm-5.3"
+}

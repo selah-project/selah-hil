@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nagbalik sila kag nagsaka sa kabukiran, kag nagsulod sila tubtob sa walog sang Eshkol, kag ginausisa nila ⟨את⟩ ini.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "Kag nagbalik sila"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "kag nagsaka"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "sa kabukiran"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "kag nagsulod sila"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "sa walog"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "sang Eshkol"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "kag ginausisa nila"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ini (ang duta)"
+    }
+  ],
+  "timestamp": "2026-09-21T17:17:19.365333434Z",
+  "model": "glm-5.3"
+}

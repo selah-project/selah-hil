@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 16:11",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag sang naghari na siya, sa pagligid niya sa iya trono, gintama niya ⟨את⟩ ang tibook nga balay ni Baasha: wala niya pagpabilin sa iya bisan isa ka maga-ihi sa dingding, kag ang iya mga goel kag ang iya kaabay.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag sang"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "sang naghari na siya"
+    },
+    {
+      "surface": "כשבתו",
+      "gloss": "sa pagligid niya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "iya trono"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "gintama niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tibook nga balay ni Baasha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibook"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nga balay"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ni Baasha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "niya pagpabilin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "maga-ihi"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "sa dingding"
+    },
+    {
+      "surface": "וגאליו",
+      "gloss": "kag ang iya mga goel"
+    },
+    {
+      "surface": "ורעהו",
+      "gloss": "kag ang iya kaabay"
+    }
+  ],
+  "timestamp": "2026-09-21T18:34:42.086532472Z",
+  "model": "glm-5.3"
+}

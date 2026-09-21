@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Ginpauri ni David ⟨את⟩ iya mga tawo paagi sa mga pulong, kag wala niya sila pagtugutan sa pagbangon batok kay Shaul; kag si Shaul nagtindog gikan sa lungag kag naglakat sa dalan.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "Ginpauri"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya mga tawo"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "iya mga tawo"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "paagi sa mga pulong"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "niya sila pagtugutan"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "sa pagbangon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "batok"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kay Shaul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "kag si Shaul"
+    },
+    {
+      "surface": "קם",
+      "gloss": "nagtindog"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "gikan sa lungag"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kag naglakat"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:08:37.663627228Z",
+  "model": "glm-5.3"
+}

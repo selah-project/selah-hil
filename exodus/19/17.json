@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag ginpagwa ni Moshe ⟨את⟩ ang banwa sa pagtilapit sa Elohim, halin sa kampo; kag nagtindog sila sa tiilan sang bukid.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "ginpagwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang banwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang banwa"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "sa pagtilapit"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "halin sa"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "kag nagtindog sila"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "sa tiilan"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "sang bukid"
+    }
+  ],
+  "timestamp": "2026-09-21T16:27:54.612757543Z",
+  "model": "glm-5.3"
+}

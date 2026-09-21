@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 77,
+  "translation": "Ipanumdum ko ang mga binuhat ni Yah, kay matalamdum ko sang una ang imo mga katingalah-an.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "Ipanumdum ko"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "ang mga binuhat"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ni Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "matalamdum ko"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "sang una"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "ang imo mga katingalah-an"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:12.114883621Z",
+  "model": "glm-5.3"
+}

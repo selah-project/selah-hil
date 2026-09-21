@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 88,
+  "translation": "Sa ibabaw ko nagtabok ang imo mga kaakig; ang imo mga katalagman naglaglag sa akon.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "sa ibabaw ko"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "nagtabok"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "ang imo mga kaakig"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "ang imo mga katalagman"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "naglaglag sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:45.198218586Z",
+  "model": "glm-5.3"
+}

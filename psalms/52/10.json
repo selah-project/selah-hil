@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 52,
+  "translation": "Apang ako, subong sang isa ka malunhaw nga olibo sa balay sang Elohim, nagatiwala ako sa hesed sang Elohim sa dayon kag sa gihapon.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Apang ako"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "subong sang olibo"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "malunhaw"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nagatiwala ako"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "sa hesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag sa gihapon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:07.381826952Z",
+  "model": "glm-5.3"
+}

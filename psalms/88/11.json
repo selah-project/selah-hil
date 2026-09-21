@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 88,
+  "translation": "Sa mga minatay bala magabuhat ka sang katingalahan? kon magtindog ang mga Refaim, magadayaw bala sila sa imo? Selah.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "sa mga minatay bala"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "magabuhat ka"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "sang katingalahan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "ang mga Refaim"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "magtindog"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "magadayaw bala sila sa imo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:41.971920547Z",
+  "model": "glm-5.3"
+}

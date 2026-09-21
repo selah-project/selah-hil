@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Sang bug-os ko nga kasingkasing ginpangita ko ikaw; indi pagpaligyo sa akon sa imo mga kasuguan.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "sang bug-os"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ko nga kasingkasing"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "ginpangita ko ikaw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "pagpaligyo sa akon"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "sa imo mga kasuguan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:36.326469132Z",
+  "model": "glm-5.3"
+}

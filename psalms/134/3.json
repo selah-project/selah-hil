@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 134,
+  "translation": "Panalanginan ka ni Yahweh gikan sa Tsiyon, ang naghimo sang mga langit kag sang duta.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "Panalanginan ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "gikan sa Tsiyon"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ang naghimo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sang mga langit"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "kag sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:02.387995262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Puno sang tunglo ang iya baba, kag panglimod kag pandara; sa idalom sang iya dila kabalaklan kag kalaut.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "tunglo"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "iya baba"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "puno"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "kag panglimod"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "kag pandara"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa idalom"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "iya dila"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kabalaklan"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "kag kalaut"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:13.116598386Z",
+  "model": "glm-5.3"
+}

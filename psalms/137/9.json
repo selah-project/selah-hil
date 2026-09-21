@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 137,
+  "translation": "Malipayon siya nga magakapot kag magsampol ⟨את⟩ ang imo mga gusi sa bato.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Malipayon"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "siya nga magakapot"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "kag magsampol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imo mga gusi"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "ang imo mga gusi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "bato"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:20.264503195Z",
+  "model": "glm-5.3"
+}

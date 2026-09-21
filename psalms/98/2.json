@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 98,
+  "translation": "Ginpahibalo ni Yahweh ang iya kaluwasan; sa atubang sang mga pungsod ginpakita niya ang iya pagkamatarong.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "ginpahibalo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "iya kaluwasan"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mga pungsod"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ginpakita"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "iya pagkamatarong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:19.598201121Z",
+  "model": "glm-5.3"
+}

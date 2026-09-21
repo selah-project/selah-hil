@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag ang tawo nga maghigda ⟨את⟩ sa iya tiya, ang kahubaran sang iya tio iya nga ginhubaran; ang ila sala ila nga dad-on; nga wala sing anak sila mangamatay.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "kag ang tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "maghigda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iya tiya"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "iya tiya"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ang kahubaran"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "sang iya tio"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "iya nga ginhubaran"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "ang ila sala"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ila nga dad-on"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "nga wala sing anak"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "sila mangamatay"
+    }
+  ],
+  "timestamp": "2026-09-21T16:53:41.184301184Z",
+  "model": "glm-5.3"
+}

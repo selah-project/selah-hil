@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 51,
+  "translation": "Panginlahian mo ako sang ezob kag maghaw ako; labhan mo ako kag magmaputi ako sing labaw pa sa nyebe.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "panginlahian mo ako"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "sang ezob"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "kag maghaw ako"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "labhan mo ako"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "kag sang nyebe"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "magmaputi ako sing labaw pa"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:12.104794061Z",
+  "model": "glm-5.3"
+}

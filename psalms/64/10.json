@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 64,
+  "translation": "Kag magakulba ang tanan nga tawo, kag isugid nila ang buhat sang Elohim, kag ang iya ginhimo pagatuonan nila sing mainalamon.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "kag magakulba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nga tawo"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "kag isugid nila"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ang buhat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "kag ang iya ginhimo"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "pagatuonan nila sing mainalamon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:36.898828132Z",
+  "model": "glm-5.3"
+}

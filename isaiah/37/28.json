@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kag ang imo pagpungko, kag ang imo paggwa kag ang imo pagpasulod, kilala ko; kag ⟨את⟩ ang imo kaakig nga paakon.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "kag ang imo pagpungko"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "kag ang imo paggwa"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "kag ang imo pagpasulod"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "kilala ko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang imo kaakig"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "ang imo kaakig"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nga paakon"
+    }
+  ],
+  "timestamp": "2026-09-21T19:04:11.062965123Z",
+  "model": "glm-5.3"
+}

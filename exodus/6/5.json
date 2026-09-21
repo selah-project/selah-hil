@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag ako man nakabati sang ⟨את⟩ pag-ungol sang mga anak sang Yisrael, nga ginapakabudlay sang Mitsrayim ⟨אתם⟩, kag natalumduman ko ang ⟨את⟩ akon kasugtanan.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kag man"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nakabati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pag-ungol"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "pag-ungol"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "ginapakabudlay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "kag natalumduman ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akon kasugtanan"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "akon kasugtanan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:22:40.481954009Z",
+  "model": "glm-5.3"
+}

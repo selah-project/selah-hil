@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 70,
+  "translation": "Apang ako kabos kag ginapobrehan; O Elohim, magdali ka sa akon; ikaw ang akon bulig kag akon manlalabas, O Yahweh; indi pagpaulihi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Apang ako"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kabos"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "kag ginapobrehan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "magdali ka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "akon bulig"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "kag akon manlalabas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "pagpaulihi"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:48.768498666Z",
+  "model": "glm-5.3"
+}

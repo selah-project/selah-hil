@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 1:15",
+  "book": "lamentations",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Ginwaya sang Adonay ang tanan ko nga mga makusog sa tunga ko; nagtawag siya sing katipunan batok sa akon sa pagbungguon sang akon mga batan-on; gintungtong sang Adonay ang pison para sa ulay nga anak nga babae sang Yehudah.",
+  "tokens": [
+    {
+      "surface": "סלה",
+      "gloss": "Ginwaya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "ko nga mga makusog"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "sang Adonay"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "sa tunga ko"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nagtawag siya"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "batok sa akon"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sing katipunan"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "sa pagbungguon"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "sang akon mga batan-on"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ang pison"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "gintungtong"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "sang Adonay"
+    },
+    {
+      "surface": "לבתולת",
+      "gloss": "para sa ulay"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nga anak nga babae"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-21T21:24:07.921113144Z",
+  "model": "glm-5.3"
+}

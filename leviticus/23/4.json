@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Ina ang mga takna nga gintudlo ni Yahweh, mga pagtigumba nga balaan, nga inyo tawagon ⟨את⟩ nga sila sa ila kaugalingon nga takna.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ina"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "mga takna nga gintudlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "mga pagtigumba"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "inyo tawagon"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "sa ila kaugalingon nga takna"
+    }
+  ],
+  "timestamp": "2026-09-21T16:53:18.090615852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Kag ginpahuwa sia sang hari sang Mitsrayim sa Yerushalayim, kag ginsirotan niya ⟨את⟩ ang duta sang isa ka gatos ka talento sang pilak kag isa ka talento sang bulawan.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "kag ginpahuwa sia"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "kag ginsirotan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "isa ka gatos"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ka talento"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sang pilak"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "kag isa ka talento"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sang bulawan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:14:59.137622900Z",
+  "model": "glm-5.3"
+}

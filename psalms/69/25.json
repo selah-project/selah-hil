@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 69:25",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 69,
+  "translation": "Itagak sa ila ang imo kaakig, kag ang pagkadolo sang imo ilong magaabot sa ila.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Itagak"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "ang imo kaakig"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "kag ang pagkadolo"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "sang imo ilong"
+    },
+    {
+      "surface": "ישיגם",
+      "gloss": "magaabot sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:32.918145946Z",
+  "model": "glm-5.3"
+}

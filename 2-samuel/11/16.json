@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag nangyari, sang nagbantay si Yoav sa syudad, nga ginpahamtang niya ⟨את⟩ si Uriya sa duog nga iya nakilala nga sang mga tawo nga makusog didto.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kag nangyari"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "sang nagbantay"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "si Yoav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "syudad"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nga ginpahamtang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Uriya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "si Uriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "duog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "iya nakilala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "sang mga tawo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "nga makusog"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    }
+  ],
+  "timestamp": "2026-09-21T18:17:35.791460598Z",
+  "model": "glm-5.3"
+}

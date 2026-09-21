@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Tungod sini, ang tanan nga imo mga lagda akon nga ginakabig husto sa tanan ⟨nga butang⟩; kag ang tanan nga dalan sang bakak gingadlawan ko.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "nga imo mga lagda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "akon nga ginakabig husto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "nga dalan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sang bakak"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "gingadlawan ko"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:47.889449081Z",
+  "model": "glm-5.3"
+}

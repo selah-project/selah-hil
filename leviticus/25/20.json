@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag kon maghambal kamo, Ano ang amon kaonon sa ikapito nga tuig? Tan-awa, indi kami magatanom kag indi kami magatipon ⟨את⟩ sang amon ani.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "maghambal kamo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "kaonon"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "sa tuig"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "ang ikapito"
+    },
+    {
+      "surface": "הן",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "magatanom kami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "magatipon kami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang amon ani"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "sang amon ani"
+    }
+  ],
+  "timestamp": "2026-09-21T16:55:32.311250895Z",
+  "model": "glm-5.3"
+}

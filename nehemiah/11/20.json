@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 11:20",
+  "book": "nehemiah",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag ang nabilin sang Yisrael, ang mga pari kag ang mga Levita, ⟨ara⟩ sa tanan nga mga siudad sang Yehudah, tagsa ka tawo sa iya mana.",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "ang nabilin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mga pari"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "mga Levita"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga siudad"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tagsa ka tawo"
+    },
+    {
+      "surface": "בנחלתו",
+      "gloss": "sa iya mana"
+    }
+  ],
+  "timestamp": "2026-09-21T21:48:00.180518229Z",
+  "model": "glm-5.3"
+}

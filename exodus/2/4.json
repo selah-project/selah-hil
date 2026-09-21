@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag nagtindog ang iya igsoon nga babae sa halipad nga distansya, sa paghibalo kon ano ang mabuhat ⟨sa iya⟩.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "kag nagtindog"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "ang iya igsoon nga babae"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "sa halipad nga distansya"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "sa paghibalo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kon ano"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ang mabuhat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨sa iya⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T16:20:05.111227615Z",
+  "model": "glm-5.3"
+}

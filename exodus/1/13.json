@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ginpabuot sang Mitsrayim ⟨את⟩ ang mga anak sang Yisrael sa kahaisal.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "ginpabuot"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga anak sang Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "sa kahaisal"
+    }
+  ],
+  "timestamp": "2026-09-21T16:19:01.232226482Z",
+  "model": "glm-5.3"
+}

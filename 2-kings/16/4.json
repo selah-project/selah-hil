@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 16:4",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag naghimok sang halad siya kag nagsunog sang insenso sa mga hataas nga duug kag sa mga bungtod, kag sa idalom sang tagsa ka malunhaw nga kahoy.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "kag naghimok sang halad siya"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "kag nagsunog sang insenso"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "sa mga hataas nga duug"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "mga bungtod"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "kag sa idalom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tagsa ka"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "malunhaw"
+    }
+  ],
+  "timestamp": "2026-09-21T18:47:22.437830155Z",
+  "model": "glm-5.3"
+}

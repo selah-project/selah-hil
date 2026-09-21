@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Siya magatawag sa akon: Ikaw ang akon Amay, ang akon El, kag ang bato sang akon kaluwas.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "magatawag sa akon"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "akon Amay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "akon El"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "kag ang bato"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "sang akon kaluwas"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:57.113388465Z",
+  "model": "glm-5.3"
+}

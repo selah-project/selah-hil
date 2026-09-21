@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "nga among nabatidan kag namatud-an, kag ang amon mga katalinan nagsugid sa amon.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "among nabatidan"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "kag namatud-an"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "kag ang amon mga katalinan"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "nagsugid"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:47.921672817Z",
+  "model": "glm-5.3"
+}

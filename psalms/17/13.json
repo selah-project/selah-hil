@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Tumindog ka, Yahweh, sugiri ang iya panagway, paluhodon mo siya; paluwaon mo ang akon kalag gikan sa malain, ⟨paagi⟩ sa imong espada.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Tumindog ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "sugiri"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ang iya panagway"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "paluhodon mo siya"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "paluwaon mo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "gikan sa malain"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "sa imong espada"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:31.264254066Z",
+  "model": "glm-5.3"
+}

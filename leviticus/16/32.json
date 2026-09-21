@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 16:32",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag ang saserdote nga hinaplasan ⟨את⟩ kag ang ginpano ⟨את⟩ sang iya kamot sa pagin saserdote sa bayad sang iya amay, magahimo sang pag-inay kag magasul-ob ⟨את⟩ sang mga bayu sang lino, ang mga bayu sang balaan.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "magahimo sang pag-inay"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang saserdote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ימשח",
+      "gloss": "hinaplasan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "saserdote"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kag ang"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ginpano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya kamot"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sang iya kamot"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "sa pagin saserdote"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa bayad"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sang iya amay"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "kag magasul-ob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga bayu sang lino"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "sang mga bayu"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "sang lino"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ang mga bayu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sang balaan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:51:34.666247893Z",
+  "model": "glm-5.3"
+}

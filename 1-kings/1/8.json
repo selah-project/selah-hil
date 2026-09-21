@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 1:8",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Apang si Tsadok nga pari, kag si Benayahu anak ni Yehoyada, kag si Natan nga manalagna, kag si Shimi kag si Re'i, kag ang mga gamhanan nga sakop ni David — wala sila kaupod kay Adonijah.",
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "Apang si Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "nga pari"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "kag si Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "ni Yehoyada"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "kag si Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nga manalagna"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "kag si Shimi"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "kag si Re'i"
+    },
+    {
+      "surface": "והגבורים",
+      "gloss": "kag ang mga gamhanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "sakop ni David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "היו",
+      "gloss": "sila"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "kay Adonijah"
+    }
+  ],
+  "timestamp": "2026-09-21T18:25:32.903071745Z",
+  "model": "glm-5.3"
+}

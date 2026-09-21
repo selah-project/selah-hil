@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 118:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 118,
+  "translation": "Maayo ang magpanikupod sa kay Yahweh kaysa magbutang sang salig sa mga dungganon.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Maayo"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "ang magpanikupod"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "sa kay Yahweh"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "kaysa magbutang sang salig"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "sa mga dungganon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:49.715216385Z",
+  "model": "glm-5.3"
+}

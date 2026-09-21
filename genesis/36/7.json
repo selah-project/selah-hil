@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 36:7",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Kay ang ila pagpanag-iya madamo nga sobra sa pagpuyo nila magkahiusa, kag ang duta sang ila pagpangbiyahee indi makahimo sa pagdala sa ila ⟨אתם⟩ tungod sang kadamo sang ila mga sapat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨amo⟩"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "ila pagpanag-iya"
+    },
+    {
+      "surface": "רב",
+      "gloss": "madamo nga sobra"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "sa pagpuyo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magkahiusa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "makahimo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "מגוריהם",
+      "gloss": "ila pagpangbiyahee"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "sa pagdala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sa ila"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tungod sang"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "kadamo sang ila mga sapat"
+    }
+  ],
+  "timestamp": "2026-09-21T16:10:51.716759395Z",
+  "model": "glm-5.3"
+}

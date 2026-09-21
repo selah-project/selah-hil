@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 14:4",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag nagsiling ang babae taga-Tekoa sa hari, kag naghulag siya sa iya nawong sa duta kag nagdangop siya, kag nagsiling: Tabangi, ⟨O⟩ hari.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ang babae"
+    },
+    {
+      "surface": "התקעית",
+      "gloss": "taga-Tekoa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "kag naghulag siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אפיה",
+      "gloss": "iya nawong"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "kag nagdangop siya"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "הושעה",
+      "gloss": "Tabangi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-09-21T18:18:50.684292082Z",
+  "model": "glm-5.3"
+}

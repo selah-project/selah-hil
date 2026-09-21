@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag magabutang si Aharon sang mga golor sa duha ka lalaking kanding: isa ka golor para kang Yahweh, kag isa ka golor para kay Azazel.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "kag magabutang"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "lalaking kanding"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "mga golor"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "golor"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para kang Yahweh"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "kag golor"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "para kay Azazel"
+    }
+  ],
+  "timestamp": "2026-09-21T16:50:50.075099248Z",
+  "model": "glm-5.3"
+}

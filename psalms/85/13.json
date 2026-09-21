@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 85,
+  "translation": "Magahatag man si Yahweh sang maayo, kag ang aton duta magahatag sang iya ani.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "magahatag"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "sang maayo"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "kag ang aton duta"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "magahatag"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "sang iya ani"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:24.920331184Z",
+  "model": "glm-5.3"
+}

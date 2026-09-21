@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 41:19",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 41,
+  "translation": "Igahatag ko sa kawadian ang sedro, ang akasya, kag ang murta, kag ang kahoy sang lana; ibutang ko sa kapatagan ang sipres, ang tidhar, kag ang teashur kaupod.",
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "igahatag ko"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kawadian"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "ang sedro"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "ang akasya"
+    },
+    {
+      "surface": "והדס",
+      "gloss": "kag ang murta"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "kag ang kahoy"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "sang lana"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ibutang ko"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "sa kapatagan"
+    },
+    {
+      "surface": "ברוש",
+      "gloss": "ang sipres"
+    },
+    {
+      "surface": "תדהר",
+      "gloss": "ang tidhar"
+    },
+    {
+      "surface": "ותאשור",
+      "gloss": "kag ang teashur"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kaupod"
+    }
+  ],
+  "timestamp": "2026-09-21T19:07:06.231050647Z",
+  "model": "glm-5.3"
+}

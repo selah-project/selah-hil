@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 58,
+  "translation": "Gui, sa inyo tagipusuon ginahimo ninyo ang kadaotan; sa duta ginpamat-od ninyo ang kapintas sang inyo mga kamot.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Gui"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sa tagipusuon"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "kadaotan"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "ginahimo ninyo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kapintas"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "sang inyo mga kamot"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "ginpamat-od ninyo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:14.758025309Z",
+  "model": "glm-5.3"
+}

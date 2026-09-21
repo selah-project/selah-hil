@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Magkanta kamo sang kalipay, kamo nga mga matarong, sa Yahweh; sa mga tin-aran nagakaigo ang pagdayég.",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "magkanta kamo sang kalipay"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "mga matarong"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "sa Yahweh"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "sa mga tin-aran"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "nagakaigo"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ang pagdayég"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:56.315126905Z",
+  "model": "glm-5.3"
+}

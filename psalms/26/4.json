@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Indi ako naglingkod kaupod sang mga tawo sang kawalay-sulod, kag kaupod sang mga nagatatago indi ako magasulod.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "ako naglingkod"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "sang mga tawo"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "sang kawalay-sulod"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kag kaupod"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "sang mga nagatatago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "magasulod ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:35.271920903Z",
+  "model": "glm-5.3"
+}

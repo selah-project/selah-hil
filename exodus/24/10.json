@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag nakita nila ⟨את⟩ ang Elohim sang Yisrael, kag sa idalom sang iya mga tikod ⟨may⟩ sama sa buhat sang linaw nga sapiro, kag daw sa dayag sang mga langit sa katin-awan.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "kag nakita nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Elohim sang Yisrael"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "kag sa idalom"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "sang iya mga tikod"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "sama sa buhat"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "linaw"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "nga sapiro"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "kag daw sa dayag"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sang mga langit"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "sa katin-awan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:31:24.336375637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Tan-awa, ginbutang ko sa imo atubang subong nga adlaw ⟨את⟩ ang kabuhi kag ⟨את⟩ ang maayo, kag ⟨את⟩ ang kamatayon kag ⟨את⟩ ang malaot.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ginbutang ko"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa imo atubang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "subong nga adlaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kabuhi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ang kabuhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang maayo"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ang maayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang kamatayon"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ang kamatayon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang malaot"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ang malaot"
+    }
+  ],
+  "timestamp": "2026-09-21T17:31:16.793863829Z",
+  "model": "glm-5.3"
+}

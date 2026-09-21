@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 10:18",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Tan-awa, wala ginsulod ⟨את⟩ ang iya dugo sa sulod sang balaan; kaona ninyo ⟨את⟩ ina sa balaan, subong sang akon ginsogo.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הובא",
+      "gloss": "ginsulod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya dugo"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "ang iya dugo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sang balaan"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "sa sulod"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "kaona"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ninyo kaonon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ina",
+      "marks": "ina (ang halad sang sala)"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "sa balaan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "akon ginsogo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:46:56.825633011Z",
+  "model": "glm-5.3"
+}

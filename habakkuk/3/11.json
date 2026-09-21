@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 3:11",
+  "book": "habakkuk",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Ang adlaw kag ang bulan nagtindog sa ila puluy-an; sa kahayag sang imo mga pana naglakat ⟨sila⟩, sa sinag sang imo kilat nga bangkaw.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nagtindog"
+    },
+    {
+      "surface": "זבלה",
+      "gloss": "puluy-an"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "kahayag"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "imo mga pana"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "naglakat"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "sinag"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "kilat"
+    },
+    {
+      "surface": "חניתך",
+      "gloss": "imo bangkaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:16:18.214690194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 34:3",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Kag nagdikit ang iya kalag kay Dinah, anak nga babae ni Yaakov, kag ginhigugma niya ⟨את⟩ nga dalaga, kag naghambal siya sa tagipusuon sang dalaga.",
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "nagdikit"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ang iya kalag"
+    },
+    {
+      "surface": "בדינה",
+      "gloss": "kay Dinah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babae"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "ginhigugma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nga dalaga"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "nga dalaga"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "naghambal"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "tagipusuon"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "sang dalaga"
+    }
+  ],
+  "timestamp": "2026-09-21T16:11:38.091668708Z",
+  "model": "glm-5.3"
+}

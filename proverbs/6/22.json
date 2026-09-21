@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Sa imo paglakat, ini magagya ⟨את⟩ ikaw; sa imo paghigda, ini magabantay sa imo; kag kon magmata ka, ini magahambal sa imo.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "Sa imo paglakat"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "magagya"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ikaw",
+      "marks": "ikaw"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "sa imo paghigda"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "magabantay"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "kag kon magmata ka"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ini"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "magahambal sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:56:47.317553288Z",
+  "model": "glm-5.3"
+}

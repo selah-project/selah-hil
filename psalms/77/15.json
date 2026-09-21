@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 77,
+  "translation": "Ikaw ang El nga nagahimo sang mga katingalahan; ginpakilala mo sa mga pungsod ang imo kusog.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ang El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nga nagahimo"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "mga katingalahan"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "ginpakilala mo"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "sa mga pungsod"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "imo kusog"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:17.963593721Z",
+  "model": "glm-5.3"
+}

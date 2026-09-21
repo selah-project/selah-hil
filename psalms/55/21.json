@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 55,
+  "translation": "Gintuyang niya ang iya mga kamot sa mga nakighusa sa iya; ginpierde niya ang iya kasugtanan.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Gintuyang"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "iya mga kamot"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "sa mga nakighusa sa iya"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ginpierde"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "iya kasugtanan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:57.815857243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ang anak ni Yehonatan amo si Meriv-Baal, kag si Meriv-Baal nagkatawo ⟨את⟩ ki Mikhah.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "kag ang anak"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ni Yehonatan"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Meriv-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "-Baal"
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "kag si Meriv-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "-Baal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkatawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ki Mikhah"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ki Mikhah"
+    }
+  ],
+  "timestamp": "2026-09-21T21:52:48.029113114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 77,
+  "translation": "O Elohim, sa kasantosahan ⟨ang⟩ imo dalan; sin-o ang El nga dako sama sa Elohim?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "sa kasantosahan"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "imo dalan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dako"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "sama sa Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:17.963369233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag ⟨את⟩ ang shafan, kay nagabalik-balik sang pagkaon ⟨sia⟩, apang sang bahin sang tiil indi ⟨sia⟩ nagabahin; marigtonon ⟨sia⟩ sa inyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang shafan"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "ang shafan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "nagabalik-balik"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "sang pagkaon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sia"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "apang sang bahin sang tiil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "nagabahin"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "marigtonon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sia"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:45:48.583033914Z",
+  "model": "glm-5.3"
+}

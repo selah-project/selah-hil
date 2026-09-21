@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "kag napulo ka soko ang ikaduha nga kerub; isa ka sukog kag isa ka porma ⟨para sa⟩ duha ka kerub.",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "kag napulo"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ka soko"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "ang kerub"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ang ikaduha"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "sukog"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "isa"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "kag porma"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "para sa duha"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "ka kerub"
+    }
+  ],
+  "timestamp": "2026-09-21T18:29:18.499925951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Ang mga makasasala ginasundan sang kalaot, kag ⟨את⟩ ang mga matarong bayaran sang maayo.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "mga makasasala"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "ginasundan"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kalaot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "mga matarong"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "mga matarong"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "bayaran"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:58:02.164833646Z",
+  "model": "glm-5.3"
+}

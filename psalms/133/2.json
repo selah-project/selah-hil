@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 133,
+  "translation": "Subong sang lana nga maayo sa ulo, nga nagadahun sa baruhaboe, sa baruhaboe ni Aharon, nga nagadahun sa pungko sang iya mga sul-ob.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "Subong sang lana"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "nga maayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "nagadahun"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "baruhaboe"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "baruhaboe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "nga nagadahun"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "pungko"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "sang iya mga sul-ob"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:18.854443980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Ti panahon sa paghigugma, kag ti panahon sa pagkadudlam; ti panahon sang gera, kag ti panahon sang kalinong.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ti panahon"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "sa paghigugma"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "kag ti panahon"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "sa pagkadudlam"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ti panahon"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sang gera"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "kag ti panahon"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sang kalinong"
+    }
+  ],
+  "timestamp": "2026-09-21T21:25:11.450118816Z",
+  "model": "glm-5.3"
+}

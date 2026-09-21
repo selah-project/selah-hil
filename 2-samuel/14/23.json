@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag nagtindog si Yoav kag naglakat sa Geshur, kag nagdala ⟨את⟩ kay Avshalom sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kag nagtindog"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "si Yoav"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kag naglakat"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "sa Geshur"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kag nagdala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "kay Avshalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-21T18:20:52.753247043Z",
+  "model": "glm-5.3"
+}

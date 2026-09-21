@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Dalan ⟨nga⟩ igbutang ⟨sa⟩ pag-abot sang espada: ⟨את⟩ sang Rabah sang mga anak sang Ammon, kag ⟨את⟩ sang Yehudah sa Yerushalayim ⟨nga kuta⟩.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "Dalan"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "igbutang"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "sa pag-abot"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "espada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang Rabah sang mga anak sang Ammon"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "nga kuta"
+    }
+  ],
+  "timestamp": "2026-09-21T19:48:31.040031740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag nakita ko ⟨את⟩ tanan nga kapoy kag ⟨את⟩ tanan nga kahanasan sang buhat, kay ini ⟨is⟩ ang pagpanibug sang tawo sa iya isigkatanaw; ini man ay hebel kag kabudlayan sang espiritu.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "Kag nakita"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga kapoy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "nga kapoy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga kahanasan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "nga kahanasan"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "sang buhat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ini"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "ang pagpanibug"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "sa iya isigkatanaw"
+    },
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ay hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "kag kabudlayan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sang espiritu"
+    }
+  ],
+  "timestamp": "2026-09-21T21:26:22.987264767Z",
+  "model": "glm-5.3"
+}

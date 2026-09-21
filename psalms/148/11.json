@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 148,
+  "translation": "Mga hari sang duta kag tanan nga mga pungsod, mga prinsipe kag tanan nga mga maghuhukom sang duta:",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag tanan nga"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "mga pungsod"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "mga prinsipe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag tanan nga"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "mga maghuhukom"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:09.212204387Z",
+  "model": "glm-5.3"
+}

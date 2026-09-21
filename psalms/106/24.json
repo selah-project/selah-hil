@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 106,
+  "translation": "Kag ginkadlaw nila ang mainam nga duta, wala sila pagpati sa iya pulong;",
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "gloss": "Kag ginkadlaw nila"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "mainam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "sila pagpati"
+    },
+    {
+      "surface": "לדברו",
+      "gloss": "sa iya pulong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:22.129415232Z",
+  "model": "glm-5.3"
+}

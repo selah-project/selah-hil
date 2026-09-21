@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Kag himomon mo ⟨את⟩ ang bado sang ephod, bug-os nga asul.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Kag himomon mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bado"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "ang bado"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "sang ephod"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "bug-os"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "nga asul"
+    }
+  ],
+  "timestamp": "2026-09-21T16:34:58.017989897Z",
+  "model": "glm-5.3"
+}

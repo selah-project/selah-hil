@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ginpahamtang niya sa iya ⟨את⟩ ang panalipod sa dughan, kag ginpahamtang niya sa ⟨ang⟩ panalipod sa dughan ⟨את⟩ ang Urim kag ⟨את⟩ ang Tummim.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Kag ginpahamtang niya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang panalipod sa dughan"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ang panalipod sa dughan"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kag ginpahamtang niya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "⟨ang⟩ panalipod sa dughan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "ang Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Tummim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "ang Tummim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:46:45.244033456Z",
+  "model": "glm-5.3"
+}

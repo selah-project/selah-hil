@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag gintumba ni David ⟨את⟩ si Hadadezer nga anak ni Rehob, hari sang Tsova, sang iya pagpanaw sa pagbalik sang iya kamot sa suba ⟨sang Eufrates⟩.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Kag gintumba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "si Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ni Rehob"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "sang Tsova"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "sang iya pagpanaw"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "sa pagbalik"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sang iya kamot"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "sa suba"
+    }
+  ],
+  "timestamp": "2026-09-21T18:15:54.715316241Z",
+  "model": "glm-5.3"
+}

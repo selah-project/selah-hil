@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 64,
+  "translation": "Magbati ka, Elohim, sang akon tingog sa akon pag-antus; gikan sa kahadlok sang kaaway imo nga bantayan ang akon kabuhi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "magbati ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sang akon tingog"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "sa akon pag-antus"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "gikan sa kahadlok"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "sang kaaway"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "imo nga bantayan"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ang akon kabuhi"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:29.065240314Z",
+  "model": "glm-5.3"
+}

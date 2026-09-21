@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Kag pagalaglagon ko ang iya mga kaaway sa iya atubang, kag ang iya mga ginakagaw pagabalasan ko.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "pagalaglagon ko"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "sa iya atubang"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "ang iya mga kaaway"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "kag ang iya mga ginakagaw"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "pagabalasan ko"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:55.669708877Z",
+  "model": "glm-5.3"
+}

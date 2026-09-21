@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 30:3",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kag ang kusog sang Paro mahimo ⟨nga⟩ kahalad-an ninyo, kag ang pagpanghihinangupop sa iya sang Mitsrayim mahimo ⟨nga⟩ katalawan.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Kag ang ... mahimo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ninyo"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "kusog"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "sang Paro"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "kahalad-an"
+    },
+    {
+      "surface": "והחסות",
+      "gloss": "kag ang pagpanghihinangupop"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "katalawan"
+    }
+  ],
+  "timestamp": "2026-09-21T19:02:21.656731594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 106,
+  "translation": "Ginbitad niya ang iya kamot sa ila, sa pagpatumba ⟨sila⟩ ⟨את⟩ sa kamingawan.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "kag ginbitad niya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang iya kamot"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "sa pagpatumba"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sa kamingawan"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:57.286378453Z",
+  "model": "glm-5.3"
+}

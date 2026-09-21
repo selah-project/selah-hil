@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 19:8",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag ang nagsunog ⟨את⟩ sa iya magalabhan sang iya mga bado sa tubig, kag magapaliguan sang iya unod sa tubig, kag mahinaw-an hasta sang kagabhian.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "ang nagsunog"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ sa iya",
+      "marks": "ang baka (iya)"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "magalabhan"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sang iya mga bado"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sa tubig"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "magapaliguan"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sang iya unod"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sa tubig"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "mahinaw-an"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta sang"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kagabhian"
+    }
+  ],
+  "timestamp": "2026-09-21T17:08:44.912941257Z",
+  "model": "glm-5.3"
+}

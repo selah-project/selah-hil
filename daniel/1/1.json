@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 1:1",
+  "book": "daniel",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Sa ikatlo ka tuig sang paghari ni Yehoyakim, hari sang Yehudah, nagkari si Nevukhadnetstsar, hari sang Bavel, sa Yerushalayim kag ginputosan niya ini.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "sa … ka tuig"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ikatlo"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "sang paghari"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nagkari"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevukhadnetstsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "kag ginputosan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "niya ini"
+    }
+  ],
+  "timestamp": "2026-09-21T21:31:48.441002543Z",
+  "model": "glm-5.3"
+}

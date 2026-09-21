@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Pinaagi sa pulong ni Yahweh gingimo ang mga langit, kag pinaagi sa ginhawa sang iya baba ang tanan nila ka Tsevaot.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "pinaagi sa pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "gingimo"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "kag pinaagi sa ginhawa"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "sang iya baba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "nila ka Tsevaot"
+    }
+  ],
+  "timestamp": "2026-09-21T22:38:25.134604338Z",
+  "model": "glm-5.3"
+}

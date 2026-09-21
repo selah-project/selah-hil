@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kon magagua ang kalayo kag makit-an sini ang mga tunok, kag magkaan ang tinipon nga unus ukon ang natindog nga tanom ukon ang kapatagan, bayadon gid pagabayaran sang nagpadalag ⟨את⟩ sang pagadalag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "magagua"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ang kalayo"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "kag makit-an sini"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "ang mga tunok"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "kag magkaan"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "ang tinipon nga unus"
+    },
+    {
+      "surface": "או",
+      "gloss": "ukon"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "ang natindog nga tanom"
+    },
+    {
+      "surface": "או",
+      "gloss": "ukon"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ang kapatagan"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "bayadon"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "gid pagabayaran"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "sang nagpadalag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang pagadalag"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "sang pagadalag"
+    }
+  ],
+  "timestamp": "2026-09-21T16:31:18.679081236Z",
+  "model": "glm-5.3"
+}

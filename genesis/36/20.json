@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Ini ang mga anak ni Seir sang Hori, ang nagaestar sang duta: Lotan, kag Shoval, kag Tsivon, kag Anah.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ni Seir"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "sang Hori"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ang nagaestar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Lotan"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "kag Shoval"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "kag Tsivon"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "kag Anah"
+    }
+  ],
+  "timestamp": "2026-09-21T16:11:23.934446244Z",
+  "model": "glm-5.3"
+}

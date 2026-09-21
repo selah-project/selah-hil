@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Itudlo ko sa inyo ⟨אתכם⟩ ang bahin sa kamot sang El; ang ara kauban sang Shadday indi ko itago.",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "itudlo ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (kamo)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bahin sa kamot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sang El"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kauban"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "sang Shadday"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "ko itago"
+    }
+  ],
+  "timestamp": "2026-09-21T21:13:20.338983354Z",
+  "model": "glm-5.3"
+}

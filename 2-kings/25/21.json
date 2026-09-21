@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag gintumba sang hari sang Bavel ⟨אתם⟩ kag gintapatay sila sa Rivlah, sa duta sang Khamat; kag ginpahalin ang Yehudah halin sa iya duta.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "kag gintumba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sila (ang gintumba sang hari sang Bavel)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "sang Bavel"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "kag gintapatay sila"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "sa Rivlah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "sang Khamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "kag ginpahalin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ang Yehudah"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "halin sa"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "iya duta"
+    }
+  ],
+  "timestamp": "2026-09-21T18:52:14.504922370Z",
+  "model": "glm-5.3"
+}

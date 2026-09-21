@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag si Uzzi natawo-an ⟨את⟩ si Zerachyah, kag si Zerachyah natawo-an ⟨את⟩ si Merayot.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "Kag si Uzzi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Zerachyah"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "si Zerachyah"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "kag si Zerachyah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "natawo-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Merayot"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "si Merayot"
+    }
+  ],
+  "timestamp": "2026-09-21T21:50:38.799663209Z",
+  "model": "glm-5.3"
+}

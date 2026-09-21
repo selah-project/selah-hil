@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag nagsiling si David: Yahweh, Elohim sang Yisrael, nabatid nga gayod ang imo sulugoon nga nangita si Shaul magkadto sa Keilah sa paglaglag sang siyudad tungod sa akon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim sang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nabatid"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nga gayod"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ang imo sulugoon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "nangita"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "magkadto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilah"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "sa paglaglag"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "sang siyudad"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "tungod sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T18:07:54.728748600Z",
+  "model": "glm-5.3"
+}

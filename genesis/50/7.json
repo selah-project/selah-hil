@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 50:7",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 50,
+  "translation": "Kag nagsaka si Yosef sa paglubong ⟨את⟩ sang iya amay, kag nagsaka ⟨את⟩ kaupod sa iya ang tanan nga mga sulugoon ni Paro, ang mga tigulang sang iya balay, kag ang tanan nga mga tigulang sang duta sang Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "kag nagsaka"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "sa paglubong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang iya amay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sang iya amay"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "kag nagsaka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kaupod sa iya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga sulugoon"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ang mga tigulang"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sang iya balay"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan nga"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga tigulang"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T22:18:21.207761134Z",
+  "model": "glm-5.3"
+}

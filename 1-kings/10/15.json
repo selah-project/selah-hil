@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Labot sa mga tawo sang mga tarim kag sa pamaligya sang mga rokel, kag sang tanan nga mga hari sang Arabo kag sang mga pangulo sang duta.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "Labot"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "sa mga tawo"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "sang mga tarim"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "kag sa pamaligya"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "sang mga rokel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag sang tanan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "nga mga hari"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "sang Arabo"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "kag sang mga pangulo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T18:30:04.529791569Z",
+  "model": "glm-5.3"
+}

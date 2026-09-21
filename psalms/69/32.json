@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 69,
+  "translation": "Kag main amo sang magakalipay kay Yahweh sangsa bakah nga may sungay kag may tikang.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "kag magakalipay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "משור",
+      "gloss": "sangsa bakah"
+    },
+    {
+      "surface": "פר",
+      "gloss": "nga bakah"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "may sungay"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "may tikang"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:48.667790478Z",
+  "model": "glm-5.3"
+}

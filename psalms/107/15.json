@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 107:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 107,
+  "translation": "Magpasalamat sila kay Yahweh sang iya hesed kag sang iya mga kagila-ila sa mga anak sang tawo.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "magpasalamat sila"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iya hesed"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "kag ang iya mga kagila-ila"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:00.406856807Z",
+  "model": "glm-5.3"
+}

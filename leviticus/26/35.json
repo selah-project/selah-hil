@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Sa tanan nga mga adlaw sang pagkatalaw magapahuway ini — ⟨את⟩ ang wala niya pagpahuwayan sa inyo mga adlaw sang pagpahuway, samtang kamo nagapuyo sa iya.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mga adlaw"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "sang pagkatalaw"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "magapahuway"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang wala niya pagpahuwayan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "niya pagpahuwayan"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "sa inyo mga adlaw sang pagpahuway"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "samtang kamo nagapuyo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:57:09.988929065Z",
+  "model": "glm-5.3"
+}

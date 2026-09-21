@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag magabantay ikaw ⟨את⟩ ang kasuguan nga ini sa iya gintakna nga tion, magadto sa mga adlaw sa mga adlaw.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Kag magabantay ikaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kasuguan nga ini"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "ang kasuguan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "sa iya gintakna nga tion"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "magadto sa mga adlaw"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "sa mga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T16:26:09.188986551Z",
+  "model": "glm-5.3"
+}

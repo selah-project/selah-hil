@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Apang tungod sini gintindog ta ikaw, agod ipakita sa imo ⟨את⟩ ang akon gahum, kag agod isaysay ang akon Ngalan sa tanan nga duta.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "apang"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sini"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "gintindog ta ikaw"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "agod"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "ipakita sa imo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon gahum"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ang akon gahum"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "kag agod"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "isaysay"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ang akon Ngalan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nga duta"
+    }
+  ],
+  "timestamp": "2026-09-21T16:23:09.779422982Z",
+  "model": "glm-5.3"
+}

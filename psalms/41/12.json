@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 41,
+  "translation": "Pinaagi sini nahibal-an ko nga gusto mo ako, kay ang akon kaaway indi magasinggit sang kaligusan sa akon.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "pinaagi sini"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nahibal-an ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "gusto mo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "magasinggit"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "akon kaaway"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:30.206653406Z",
+  "model": "glm-5.3"
+}

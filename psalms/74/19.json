@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 74,
+  "translation": "Indi paghatag sa sapat ang kalag sang imo turtledove; ang mga sapat sang imo mga kabos indi pagkalimti sa wala sing katapusan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "paghatag"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "sa sapat"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ang kalag"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "sang imo turtledove"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ang mga sapat"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "sang imo mga kabos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "pagkalimti"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sa wala sing katapusan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:29.355506363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Sa pagsulod nila sa payag sang katigulangan kag sa pagpalapit nila sa halaran, nanghugas sila, suno sa ginsugo ni Yahweh ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "Sa pagsulod nila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "payag"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang katigulangan"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "kag sa pagpalapit nila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "nanghugas sila"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "suno sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T16:41:02.973440027Z",
+  "model": "glm-5.3"
+}

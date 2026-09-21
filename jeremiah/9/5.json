@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Ang imo pagpuyo yara sa tunga sang daya; paagi sa daya nagpang-indi sila makakilala ⟨את⟩ ⟨אותי⟩, nagaingon si Yahweh.",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "ang imo pagpuyo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "sang daya"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "paagi sa daya"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "nagpang-indi sila"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "makakilala"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ⟨אותי⟩",
+      "marks": "sa akon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nagaingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T19:19:51.061689283Z",
+  "model": "glm-5.3"
+}

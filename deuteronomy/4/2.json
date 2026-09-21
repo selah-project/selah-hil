@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 4:2",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Indi kamo magdugang sa ang pulong nga akon ginasugo sa inyo, kag indi kamo magkuldon sini, sa pagbantay sang ⟨את⟩ mga sugo ni Yahweh nga inyo Elohim, nga akon ginasugo sa inyo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "תספו",
+      "gloss": "magdugang kamo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "akon"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ginasugo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תגרעו",
+      "gloss": "magkuldon kamo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "sini"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "sa pagbantay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga sugo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mga sugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "nga inyo Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "akon"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ginasugo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:19:58.368100736Z",
+  "model": "glm-5.3"
+}

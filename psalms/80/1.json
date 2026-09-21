@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 80,
+  "translation": "Sa manugdumala, sa Shoshannim, isa ka pamatuod, kang Asaf, isa ka kanta.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa manugdumala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "isa ka pamatuod"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kang Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "isa ka kanta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:30.017333976Z",
+  "model": "glm-5.3"
+}

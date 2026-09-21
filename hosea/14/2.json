@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 14:2",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Magbalik ka, Yisrael, tubtob kay Yahweh nga imo Elohim, kay nagkadun ka sa imo kalaut.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "magbalik ka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga imo Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כשלת",
+      "gloss": "nagkadun ka"
+    },
+    {
+      "surface": "בעונך",
+      "gloss": "sa imo kalaut"
+    }
+  ],
+  "timestamp": "2026-09-21T20:06:41.025821518Z",
+  "model": "glm-5.3"
+}

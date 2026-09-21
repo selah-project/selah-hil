@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 31:52",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kag nangin ang tanan nga bulawan sang halad nga ginpahalat-on nila kay Yahweh — anom kag napulo ka libo kag pito ka gatos kag lima ka pulo ka shekel — gikan ⟨את⟩ mga pangulo sang mga libo kag gikan ⟨את⟩ mga pangulo sang mga gatos.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kag nangin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "nga bulawan"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "sang halad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הרימו",
+      "gloss": "ginpahalat-on nila"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "anom kag"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "napulo ka libo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "libo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "kag lima ka pulo"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "ka shekel"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "gikan ⟨את⟩"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mga pangulo"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "sang mga libo"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "kag gikan ⟨את⟩"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mga pangulo"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "sang mga gatos"
+    }
+  ],
+  "timestamp": "2026-09-21T22:23:59.634557619Z",
+  "model": "glm-5.3"
+}

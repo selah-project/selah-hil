@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Lalaki kag babae gintuga niya sila, kag ginpakamaayo niya ⟨את⟩ sila, kag gintawag niya ⟨את⟩ ila ngalan nga Adam, sa adlaw sang pagtuga sa ila.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "kag babae"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "gintuga niya sila"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "kag ginpakamaayo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kag gintawag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ila ngalan"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ila ngalan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "sang pagtuga sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T15:56:07.502669959Z",
+  "model": "glm-5.3"
+}

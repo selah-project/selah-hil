@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Kag nakita ni Yaakov nga may ara bugas sa Mitsrayim, kag nagsiling si Yaakov sa iya mga anak: Ngaa kamo nagapangtulok ⟨sa isa kag isa⟩?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יש",
+      "gloss": "may ara"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "bugas"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "sa iya mga anak"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "nagapangtulok kamo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:16:01.158768898Z",
+  "model": "glm-5.3"
+}

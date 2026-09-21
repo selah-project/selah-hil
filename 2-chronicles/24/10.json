@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 24:10",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag nagkalipay tanan nga mga prinsipe kag tanan nga mga tawo, kag nagdala sila kag nagtambog sa kahon, tubtub matapos.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "nagkalipay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "mga prinsipe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag tanan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "nagdala"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "nagtambog"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "sa kahon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtub"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "matapos"
+    }
+  ],
+  "timestamp": "2026-09-21T22:09:04.152568318Z",
+  "model": "glm-5.3"
+}

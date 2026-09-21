@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 144,
+  "translation": "Ang ila baba nagahambal sing kahaw-asan, kag ang ilo gamot nga tuo amo ang gamot nga bakak.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ang"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ila baba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagahambal"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "sing kahaw-asan"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "kag ang ilo gamot nga tuo"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "gamot"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "nga bakak"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:56.429906446Z",
+  "model": "glm-5.3"
+}

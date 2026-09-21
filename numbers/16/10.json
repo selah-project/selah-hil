@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag ginpaiduol ⟨niya⟩ ⟨את⟩ ikaw kag ⟨את⟩ tanan nga imo mga utod, nga mga anak ni Levi, ⟨את⟩ kaupod sa imo — kag nagapangita kamo man sang pagkapari?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "kag ginpaiduol"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ikaw",
+      "marks": "ikaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga imo mga utod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "imo mga utod"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kaupod sa imo"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "kag nagapangita kamo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "pagkapari"
+    }
+  ],
+  "timestamp": "2026-09-21T17:07:39.013672049Z",
+  "model": "glm-5.3"
+}

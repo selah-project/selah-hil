@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Kag magatubo sila sa tunga sang balili, subong sang mga kahoy nga arabo tupad sang mga sapa sang tubig.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "kag magatubo sila"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "balili"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "subong sang mga arabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "tupad"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "mga sapa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    }
+  ],
+  "timestamp": "2026-09-21T19:07:14.363135641Z",
+  "model": "glm-5.3"
+}

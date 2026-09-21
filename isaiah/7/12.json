@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag nagsiling si Ajaz: Indi ako magg ⟨pangayo⟩, kag indi ako magasulay ⟨kang⟩ ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag nagsiling"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "si Ajaz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Indi ako"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "magg pangayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi ako"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "magasulay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T18:53:16.237708915Z",
+  "model": "glm-5.3"
+}

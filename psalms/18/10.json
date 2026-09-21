@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag ginpayong niya ang mga langit kag nagpanaug, kag mabug-at nga kadulumdulunan sa idalom sang iya mga tiil.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "ginpayong"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "nagpanaug"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "kag mabug-at nga kadulumdulunan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa idalom"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "sang iya mga tiil"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:19.671289056Z",
+  "model": "glm-5.3"
+}

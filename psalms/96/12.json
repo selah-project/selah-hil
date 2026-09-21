@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 96,
+  "translation": "Magasadya ang kapatagan kag ang tanan nga ara sa sini; sa gintungda magakanta sang kalipay ang tanan nga mga kahoy sang kagulangan.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "Magasadya"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ang kapatagan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan nga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ara sa sini"
+    },
+    {
+      "surface": "אז",
+      "gloss": "sa gintungda"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "magakanta sang kalipay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga mga"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "יער",
+      "gloss": "sang kagulangan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:39.877042070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 28:18",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Kag ang inyo kasugtanan kaupod ⟨את⟩ sang kamatayon mabawi, kag ang inyo pangita upod ⟨את⟩ sang Sheol indi magatindog; latigo nga nagaalog, kon magalabot ini, kamo magapangin mason-ason sini.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "mabawi"
+    },
+    {
+      "surface": "בריתכם",
+      "gloss": "inyo kasugtanan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang kamatayon"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayon"
+    },
+    {
+      "surface": "וחזותכם",
+      "gloss": "inyo pangita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang Sheol"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "magatindog"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "latigo"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "nagaalog"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "magalabot"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "magapangin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sini"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "mason-ason"
+    }
+  ],
+  "timestamp": "2026-09-21T19:00:47.009369013Z",
+  "model": "glm-5.3"
+}

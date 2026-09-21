@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 72,
+  "translation": "Magaabunda ang kadiwa sang bugas sa duta; sa ibabaw sang mga bukid magakalog ang iya bunga paraho sang Lebanon; kag mamurak sila gikan sa ciudad, paraho sang tanom sang duta.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "magaabunda"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "ang kadiwa"
+    },
+    {
+      "surface": "בר",
+      "gloss": "sang bugas"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "sang mga bukid"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "magakalog"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "paraho sang Lebanon"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ang iya bunga"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "kag mamurak sila"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "gikan sa ciudad"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "paraho sang tanom"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:00.679401070Z",
+  "model": "glm-5.3"
+}

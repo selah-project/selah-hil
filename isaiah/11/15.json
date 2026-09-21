@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 11:15",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag pagaunahunon sang Yahweh ⟨את⟩ ang dila sang dagat sang Mitsrayim, kag ibaybay niya ang iya kamot sa ibabaw sang suba, sa kahadlok sang iya hangin, kag hampakon niya ini sa pito ka sapa, kag pagatumaron niya ang mga tawo ⟨nga may⟩ mga sapatos.",
+  "tokens": [
+    {
+      "surface": "והחרים",
+      "gloss": "kag pagaunahunon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sang Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dila sang dagat sang Mitsrayim"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ang dila"
+    },
+    {
+      "surface": "ים",
+      "gloss": "sang dagat"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "kag ibaybay niya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang iya kamot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "sang suba"
+    },
+    {
+      "surface": "בעים",
+      "gloss": "sa kahadlok"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "sang iya hangin"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "kag hampakon niya ini"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "sa pito ka"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "והדריך",
+      "gloss": "kag pagatumaron niya"
+    },
+    {
+      "surface": "בנעלים",
+      "gloss": "sa mga sapatos"
+    }
+  ],
+  "timestamp": "2026-09-21T18:56:46.042163420Z",
+  "model": "glm-5.3"
+}

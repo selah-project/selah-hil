@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag isulod nila ini kag ⟨את⟩ tanan nga iya mga kagamitan sa sulod sang isa ka tabtab sang panit sang takash, kag ibutang nila ini sa badbaran.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "kag isulod nila"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ini",
+      "marks": "ini (ang kandelabro)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga iya mga kagamitan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "iya mga kagamitan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa sulod sang"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "tabtab"
+    },
+    {
+      "surface": "עור",
+      "gloss": "panit"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "takash"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "kag ibutang nila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "badbaran"
+    }
+  ],
+  "timestamp": "2026-09-21T16:59:44.170874376Z",
+  "model": "glm-5.3"
+}

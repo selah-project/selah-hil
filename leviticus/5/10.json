@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag ⟨את⟩ ang ikaduha ihimo niya nga halad nga sinusunog sumo sa kasoguan, kag magbayad ang pari parte sa iya sala nga iya ginakasala, kag mapatawad siya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang ikaduha"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ang ikaduha"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ihimo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "halad nga sinusunog"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "sumo sa kasoguan"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "kag magbayad"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "parte sa iya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang pari"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "sang iya sala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ginakasala"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "kag mapatawad"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:43:35.923177380Z",
+  "model": "glm-5.3"
+}

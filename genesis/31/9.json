@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kag ginkuha ni Elohim ⟨את⟩ ang mga kahayupan sang inyo amay kag ginhatag sa akon.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "ginkuha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kahayupan"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "mga kahayupan"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "sang inyo amay"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ginhatag"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:09:17.064743789Z",
+  "model": "glm-5.3"
+}

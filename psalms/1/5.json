@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Tungod sini ang mga balasubas indi magatindog sa paghukom, kag ang mga makasasala ⟨indi magatindog⟩ sa katipunan sang mga matarong.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "magatindog"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga balasubas"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sa paghukom"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "kag ang mga makasasala"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "sa katipunan"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sang mga matarong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:26.376279997Z",
+  "model": "glm-5.3"
+}

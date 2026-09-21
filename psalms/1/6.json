@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kay nakikilala ni Yahweh ang dalan sang mga matarong, apang ang dalan sang mga balasubas magakalag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "nakikilala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ang dalan"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sang mga matarong"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "apang ang dalan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sang mga balasubas"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "magakalag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:26.376600524Z",
+  "model": "glm-5.3"
+}

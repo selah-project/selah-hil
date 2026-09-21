@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kag imo nga pagpatye ⟨את⟩ ang baka sa atubangan ni Yahweh, sa ganghaan sang Tolda sang Katipunan.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "imo nga pagpatye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang baka"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ang baka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sa ganghaan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang Katipunan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:20:19.291918092Z",
+  "model": "glm-5.3"
+}

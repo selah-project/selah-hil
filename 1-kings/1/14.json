@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 1:14",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Tan-awa, samtang ikaw gani nagahambal didto sa hari, magasulod ako pagkatapos mo, kag himpoon ko nga bug-os ⟨את⟩ ang imo mga pulong.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "samtang ikaw gani"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "nagahambal"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kag ako"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "magasulod"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "pagkatapos mo"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "kag himpoon ko nga bug-os"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imo mga pulong"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "imo mga pulong"
+    }
+  ],
+  "timestamp": "2026-09-21T18:25:27.136848926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Ang malaot nagabuhat sang bakak nga buluhaton, kag ang nagatanom sang pagkamatarong may balos nga matuod.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "malaot"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nagabuhat"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "buluhaton"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "bakak"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "kag ang nagatanom"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "pagkamatarong"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "balos"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "matuod"
+    }
+  ],
+  "timestamp": "2026-09-21T20:58:28.394815144Z",
+  "model": "glm-5.3"
+}

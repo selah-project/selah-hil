@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Gin-sira nila ang ila tambok; ang ila baba naghambal sang kahambugan.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "ila tambok"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "gin-sira nila"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "ila baba"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "naghambal"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "sang kahambugan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:49.672459271Z",
+  "model": "glm-5.3"
+}

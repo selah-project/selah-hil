@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Indi kamo magkaon sa ibabaw sang dugo; indi kamo magpanagna kag indi kamo magsunod sa mga tanda.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamo magkaon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sang dugo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "kamo magpanagna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "kamo magsunod sa mga tanda"
+    }
+  ],
+  "timestamp": "2026-09-21T16:52:12.656382734Z",
+  "model": "glm-5.3"
+}

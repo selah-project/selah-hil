@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag ginpangita ni Yahweh ⟨את⟩ si Sarah, suno sa iya ginhambal, kag ginhimo ni Yahweh kay Sarah suno sa iya ginpanugilon.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "kag ginpangita ni Yahweh"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ginpangita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "si Sarah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "suno sa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "iya ginhambal"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "kag ginhimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "kay Sarah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "suno sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "iya ginpanugilon"
+    }
+  ],
+  "timestamp": "2026-09-21T22:16:12.363248853Z",
+  "model": "glm-5.3"
+}

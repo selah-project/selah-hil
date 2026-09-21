@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag ginpahayag ni Shelomoh sa iya ⟨את⟩ tanan nga iya mga pulong; wala sing bisan isa ka pulong nga tinago sa hari nga indi niya ginpahayag sa iya.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "kag ginpahayag"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga iya mga pulong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "nga iya mga pulong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨may⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bisan isa ka pulong"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "nga tinago"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ginpahayag"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T22:28:58.794972370Z",
+  "model": "glm-5.3"
+}

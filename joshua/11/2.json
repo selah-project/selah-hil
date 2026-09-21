@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 11:2",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "kag sa mga hari nga ara sa amihan, sa bukid kag sa Araba, sa salatan sang Kinerot kag sa kapatagan, kag sa mga lasang sang Dor sa dapit sang dagat,",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "sa amihan"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "kag sa Araba"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "sa salatan"
+    },
+    {
+      "surface": "כנרות",
+      "gloss": "Kinerot"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "kag sa kapatagan"
+    },
+    {
+      "surface": "ובנפות",
+      "gloss": "kag sa mga lasang"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sa dapit sang dagat"
+    }
+  ],
+  "timestamp": "2026-09-21T17:40:00.441914661Z",
+  "model": "glm-5.3"
+}

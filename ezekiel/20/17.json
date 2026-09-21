@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 20:17",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Ginluyot ko ang akon mata sa ila sa paglaglag sa ila, kag wala ako maghimo ⟨את⟩ sing katapusan sa ila sa kamingawan.",
+  "tokens": [
+    {
+      "surface": "ותחס",
+      "gloss": "ginluyot ko"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang akon mata"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "sa paglaglag sa ila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ako maghimo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "katapusan"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "sing katapusan"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    }
+  ],
+  "timestamp": "2026-09-21T19:48:52.902730318Z",
+  "model": "glm-5.3"
+}

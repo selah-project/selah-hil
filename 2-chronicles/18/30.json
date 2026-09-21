@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 18:30",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag ang hari sang Aram nagsugo ⟨kang⟩ ⟨את⟩ mga sarì sang mga karwahe nga ara sa iya, nga nagasiling: Indi kamo maggubat ⟨את⟩ ang gamay ukon ⟨את⟩ ang dako, kondi ⟨את⟩ ang hari sang Yisrael lamang.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "kag ang hari"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "sang Aram"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nagsugo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga sarì sang mga karwahe"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mga sarì"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "sang mga karwahe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "kamo maggubat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang gamay"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ang gamay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dako"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ang dako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kondi"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hari sang Yisrael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "lamang"
+    }
+  ],
+  "timestamp": "2026-09-21T22:07:19.094474517Z",
+  "model": "glm-5.3"
+}

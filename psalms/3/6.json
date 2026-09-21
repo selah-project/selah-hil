@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Ako nakaturog kag nakatulog, ako nagmata, kay si Yahweh ang nagasandig sa akon.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "nakaturog ako"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "kag nakatulog"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "ako nagmata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "nagasandig sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:46.768695414Z",
+  "model": "glm-5.3"
+}

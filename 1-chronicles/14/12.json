@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag ginbay-an nila didto ⟨את⟩ ang ila mga dios, kag nagsiling si David, kag ginsunog sila sa kalayo.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Kag ginbay-an nila"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ila mga dios"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ang ila mga dios"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "kag ginsunog sila"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    }
+  ],
+  "timestamp": "2026-09-21T21:54:32.644400245Z",
+  "model": "glm-5.3"
+}

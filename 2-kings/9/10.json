@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag ⟨את⟩ si Izebel magakaon ang mga ido sa porsyon sang Yizreel, kag wala sing mag-ilob ⟨sa iya⟩. Kag gintukab niya ang pultahan kag nagpalagyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Izebel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "magakaon"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "ang mga ido"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "sa porsyon"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "mag-ilob"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "kag gintukab"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ang pultahan"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "nagpalagyo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:42:51.103331398Z",
+  "model": "glm-5.3"
+}

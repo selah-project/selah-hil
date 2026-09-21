@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Maayo pa ang tan-aw sang mga mata kagsa pagpanaw sang kabuhi; ini man amo hebel kag kalaay sang espiritu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "maayo pa"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "tan-aw"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mga mata"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "pagpanaw"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kabuhi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "kag kalaay"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "espiritu"
+    }
+  ],
+  "timestamp": "2026-09-21T21:27:31.421850278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 7:11",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag ang Efrayim nagkahimo nga pariho sang isa ka salampati, malinugaron, wala sing kasingkasing; kay Mitsrayim sila nangtawag, kay Ashur sila nanglakat.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag nagkahimo"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "pariho sang salampati"
+    },
+    {
+      "surface": "פותה",
+      "gloss": "malinugaron"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sing kasingkasing"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "kay Mitsrayim"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "sila nangtawag"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "kay Ashur"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "sila nanglakat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:06:40.080915719Z",
+  "model": "glm-5.3"
+}

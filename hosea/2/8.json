@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Gani, yari ako, pagatakpan ko ⟨את⟩ imo dalan sang mga tunok, kag patindugan ko ⟨את⟩ bakod, kag iya mga agianan indi makita.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Gani"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "yari ako"
+    },
+    {
+      "surface": "שך",
+      "gloss": "pagatakpan ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imo dalan"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "imo dalan"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "sang mga tunok"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "kag patindugan ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakod"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "bakod"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "kag iya mga agianan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "makita"
+    }
+  ],
+  "timestamp": "2026-09-21T20:03:53.265140425Z",
+  "model": "glm-5.3"
+}

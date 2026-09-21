@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 72,
+  "translation": "Magakaluyahan siya sa maluya kag sa kabos, kag kalag sang mga kabos maluwas niya.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "magakaluyahan siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "דל",
+      "gloss": "maluya"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "kag sa kabos"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "kag kalag"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "sang mga kabos"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "maluwas niya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:00.678664254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 47,
+  "translation": "Kag ⟨את⟩ ang katawhan ginpag-agi niya ⟨אתו⟩ sa mga ciudad, gikan sa katapusan sang utlanan sang Mitsrayim tubtob sa iya katapusan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "ginpag-agi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "sa mga ciudad"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "sa mga ciudad"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "gikan sa katapusan"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "utlanan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "iya katapusan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:18:31.701795370Z",
+  "model": "glm-5.3"
+}

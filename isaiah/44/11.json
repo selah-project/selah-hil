@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 44:11",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Tan-awa, ang tanan nga iya mga kaupod mahuya sila; kag ang mga panday sila mga tawo; magkatipon sila tanan, magatindog sila, magakuyapan sila, mahuya sila magkadto.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "חבריו",
+      "gloss": "iya mga kaupod"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "mahuya sila"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "kag ang mga panday"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "יתקבצו",
+      "gloss": "magkatipon"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sila tanan"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "magatindog"
+    },
+    {
+      "surface": "יפחדו",
+      "gloss": "magakuyapan"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "mahuya"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "magkadto"
+    }
+  ],
+  "timestamp": "2026-09-21T19:07:55.950000963Z",
+  "model": "glm-5.3"
+}

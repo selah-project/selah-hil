@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 104,
+  "translation": "Ang nagatindog sang mga balabag sang iya mga dungawan sa taas sa mga tubig, ang nagabutang sang mga panganod subong sang iya karwahe, ang nagalakat sa ibabaw sang mga pako sang hangin.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "Ang nagatindog sang mga balabag"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sa mga tubig"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "sang iya mga dungawan sa taas"
+    },
+    {
+      "surface": "השם",
+      "gloss": "ang nagabutang"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "sang mga panganod"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "sang iya karwahe"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "ang nagalakat"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "sang mga pako"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sang hangin"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:38.567872041Z",
+  "model": "glm-5.3"
+}

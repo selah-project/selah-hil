@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 109,
+  "translation": "Nagpalayo ako subong sang anino kon nagabanat ini; ginuyang ako subong sang duhang.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "subong sang anino"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "kon nagabanat ini"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "nagpalayo ako"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "ginuyang ako"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "subong sang duhang"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:35.106437672Z",
+  "model": "glm-5.3"
+}

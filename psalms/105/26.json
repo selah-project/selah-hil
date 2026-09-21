@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Ginsugo niya si Moshe, iya sulugoon, kag si Aharon nga iya ginpili.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "iya sulugoon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "kag si Aharon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "ginpili"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:46.703808620Z",
+  "model": "glm-5.3"
+}

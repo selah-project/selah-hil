@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 15:16",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Matumba sa ila ang kalisang kag kahadlok; sa kadako sang imo brazo magahilum sila pareho sang bato, hasta magtabok ang imo katawhan, Yahweh, hasta magtabok ang katawhan nga ini nga imo ginsadang.",
+  "tokens": [
+    {
+      "surface": "תפל",
+      "gloss": "matumba"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "אימתה",
+      "gloss": "ang kalisang"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "kag kahadlok"
+    },
+    {
+      "surface": "בגדל",
+      "gloss": "sa kadako"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "sang imo brazo"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "magahilum sila"
+    },
+    {
+      "surface": "כאבן",
+      "gloss": "pareho sang bato"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "magtabok"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ang imo katawhan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "magtabok"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "זו",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "imo ginsadang"
+    }
+  ],
+  "timestamp": "2026-09-21T16:25:41.000538566Z",
+  "model": "glm-5.3"
+}

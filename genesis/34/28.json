@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "⟨את⟩ Ang ila mga karnero kag ⟨את⟩ ang ila mga baka kag ⟨את⟩ ang ila mga buriko, kag ⟨את⟩ ang tanan nga yara sa banwa kag ⟨את⟩ ang tanan nga yara sa kapatagon, ginkuha nila.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ila mga karnero"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "ang ila mga karnero"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang ila mga baka"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "ang ila mga baka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang ila mga buriko"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "ang ila mga buriko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan nga yara sa banwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "yara sa banwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan nga yara sa kapatagon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "yara sa kapatagon"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ginkuha nila"
+    }
+  ],
+  "timestamp": "2026-09-21T22:18:32.714387708Z",
+  "model": "glm-5.3"
+}

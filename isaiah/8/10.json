@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Naghimo kamo sang plano kag pagalaglagonon ini; maghambal kamo sang pulong kag indi ini magatindog, kay kaupod naton ⟨si⟩ El.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "naghimo kamo sang plano"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "plano"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "kag pagalaglagonon ini"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "maghambal kamo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sang pulong"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ini magatindog"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "kaupod naton"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-21T18:53:24.933874047Z",
+  "model": "glm-5.3"
+}

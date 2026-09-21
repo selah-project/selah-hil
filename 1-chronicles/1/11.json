@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag si Mitsrayim natawan ⟨את⟩ mga Ludim kag ⟨את⟩ mga Anamim kag ⟨את⟩ mga Lehavim kag ⟨את⟩ mga Naftuchim.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Kag si Mitsrayim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "natawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga Ludim"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "mga Ludim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "mga Anamim"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "mga Anamim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "mga Lehavim"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "mga Lehavim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "mga Naftuchim"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "mga Naftuchim"
+    }
+  ],
+  "timestamp": "2026-09-21T21:49:13.428050024Z",
+  "model": "glm-5.3"
+}

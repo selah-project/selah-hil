@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 67,
+  "translation": "Magmalolon si Elohim sa aton kag magbadya ako sa aton; magpasanag ang iya kadlaw ⟨sing⟩ aton. Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "magmalolon sa aton"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "kag magbadya ako sa aton"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "magpasanag"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ang iya kadlaw"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "aton"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:18.154919088Z",
+  "model": "glm-5.3"
+}

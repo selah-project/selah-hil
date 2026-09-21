@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 37:3",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kag ginpadala sang hari nga si Tsidkiyahu si ⟨את⟩ Yehukal nga anak ni Shelemyah kag si ⟨את⟩ Tsefanyahu nga anak ni Maaseyah nga pari kay Yirmiyahu ang manalagna, nga nagasiling: Magpangadi ka gani alang sa amon kay Yahweh sang amon Elohim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kag ginpadala"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "si Tsidkiyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yehukal"
+    },
+    {
+      "surface": "יהוכל",
+      "gloss": "si Yehukal"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak nga lalaki"
+    },
+    {
+      "surface": "שלמיה",
+      "gloss": "ni Shelemyah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Tsefanyahu"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "si Tsefanyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak nga lalaki"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "ni Maaseyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "nga pari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ang manalagna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    },
+    {
+      "surface": "התפלל",
+      "gloss": "magpangadi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ka gani"
+    },
+    {
+      "surface": "בעדנו",
+      "gloss": "alang sa amon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "sang amon Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T19:32:24.478988287Z",
+  "model": "glm-5.3"
+}

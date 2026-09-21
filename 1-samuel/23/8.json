@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag gintawag ni Shaul ⟨את⟩ ang tanan nga banwa sa pag-away, sa pagpanaug sa Keilah, sa pagpalibot kay David kag sa iya mga tawo.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "kag gintawag"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga banwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nga banwa"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sa pag-away"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "sa pagpanaug"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "sa Keilah"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "sa pagpalibot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "iya mga tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:08:00.069439848Z",
+  "model": "glm-5.3"
+}

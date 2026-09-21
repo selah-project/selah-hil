@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 6:14",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag ginlibot nila ⟨את⟩ ang siyudad sa ikaduha nga adlaw sing isa ka higayon, kag nagbalik sila sa kampo; amo sina ginhimo nila sing anom ka adlaw.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "kag ginlibot nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang siyudad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang siyudad"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikaduha nga adlaw"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "higayon"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "isa"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "kag nagbalik sila"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "sa kampo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "amo sina"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginhimo nila"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "anom ka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T17:35:49.293655452Z",
+  "model": "glm-5.3"
+}

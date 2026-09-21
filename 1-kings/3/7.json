@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag subong, Yahweh nga akon Elohim, ikaw ang nagpaihari ⟨את⟩ sang imo suluganon sa dunggan ni David nga akon amay, kag ako ⟨isa ka⟩ bata nga gamay, indi ako makahibalo maggwa kag magpasulud.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kag subong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "nga akon Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "ang nagpaihari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imo suluganon"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "imo suluganon"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa dunggan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "akon amay"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "kag ako"
+    },
+    {
+      "surface": "נער",
+      "gloss": "bata"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "nga gamay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ako makahibalo"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "maggwa"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "kag magpasulud"
+    }
+  ],
+  "timestamp": "2026-09-21T18:27:11.072272820Z",
+  "model": "glm-5.3"
+}

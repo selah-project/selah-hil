@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 126,
+  "translation": "Sa paglakat magalakat kag magahibi, nga nagadala sang binhi sa pagtanum; sa pag-abot magaabot gid sa pag-awit, nga nagadala sang iya mga alumpo.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "sa paglakat"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "magalakat"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "kag magahibi"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nga nagadala"
+    },
+    {
+      "surface": "משך",
+      "gloss": "sang binhi"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "sa pagtanum"
+    },
+    {
+      "surface": "בא",
+      "gloss": "sa pag-abot"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "magaabot"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "sa pag-awit"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nga nagadala"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "iya mga alumpo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:19.778659954Z",
+  "model": "glm-5.3"
+}

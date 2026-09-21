@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Kag himoon mo ang mga bad para sa halaran, mga bad nga kahoy sang shitim, kag takpan mo ⟨את⟩ sang tanso.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Kag himoon mo"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "ang mga bad"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "para sa halaran"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "mga bad"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "nga kahoy"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sang shitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "kag takpan mo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sang tanso (ang mga bad)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "sang tanso"
+    }
+  ],
+  "timestamp": "2026-09-21T16:31:59.385853921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag ang reyna sang Sheba nakabati ⟨את⟩ sang kabantug ni Shelomoh tungod sang Ngalan ni Yahweh, kag nagpakari siya sa pagtilaw sa iya paagi sang mga panglingkit.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "kag ang reyna"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "sang Sheba"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "nakabati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang kabantug"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kabantug"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "tungod sang Ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "kag nagpakari siya"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "sa pagtilaw sa iya"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "paagi sang mga panglingkit"
+    }
+  ],
+  "timestamp": "2026-09-21T22:29:22.985465036Z",
+  "model": "glm-5.3"
+}

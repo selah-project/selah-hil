@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Indi pagkuha gikan ⟨את⟩ sa iya neshek kag tarbit, kag ikaw magakalag-an sa imo Elohim, kag mabuhi ang imo utod kaupod sa imo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "pagkuha"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "gikan ⟨את⟩ sa iya",
+      "marks": "neshek kag tarbit"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "neshek"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "kag tarbit"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "kag ikaw magakalag-an"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "sa imo Elohim"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "kag mabuhi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ang imo utod"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kaupod sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:55:02.661664684Z",
+  "model": "glm-5.3"
+}

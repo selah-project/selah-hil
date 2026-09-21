@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Kag ⟨ang⟩ Binyamin, utod ni Yosef, wala ginsugo ni Yaakov ⟨את⟩ sa iya mga utod, kay nagsiling siya: Bantangi madunggan siya sang kadaotan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Binyamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "utod"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya mga utod"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iya mga utod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nagsiling siya"
+    },
+    {
+      "surface": "פן",
+      "gloss": "bantangi"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "madunggan siya"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "sang kadaotan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:16:01.159299108Z",
+  "model": "glm-5.3"
+}

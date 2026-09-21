@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 145,
+  "translation": "Maluluy-on kag mabalasion si Yahweh, hinaya magakig-akig, kag dako ang hesed",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Maluluy-on"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "kag mabalasion"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "hinaya"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "magakig-akig"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "kag dako"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:15.056944729Z",
+  "model": "glm-5.3"
+}

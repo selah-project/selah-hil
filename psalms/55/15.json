@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 55,
+  "translation": "nga kag-abtik nagpahamot kami sang isa ka sod, kag nagkadto kami nga kaupod sa balay sang Elohim kaupod sa kadamo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kag-abtik"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "nagpahamot kami"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "sod"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "nagkadto kami"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "kaupod sa kadamo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:36.022305034Z",
+  "model": "glm-5.3"
+}

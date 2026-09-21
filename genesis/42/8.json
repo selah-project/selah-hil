@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Kag nakilala ni Yosef ⟨את⟩ ang iya mga utod, apang sila wala makilala siya.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "nakilala"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya mga utod"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ang iya mga utod"
+    },
+    {
+      "surface": "והם",
+      "gloss": "apang sila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "makilala siya"
+    }
+  ],
+  "timestamp": "2026-09-21T22:18:36.987891292Z",
+  "model": "glm-5.3"
+}

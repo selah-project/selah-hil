@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 59,
+  "translation": "Sila ina nagalaglag sa pagpangita sang pagkaon; kon indi sila mabuskog, magapabilin sila sa kagabhion.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "sila ina"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "nagalaglag"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "sa pagpangita sang pagkaon"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "sila mabuskog"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "magapabilin sila sa kagabhion"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:39.971651010Z",
+  "model": "glm-5.3"
+}

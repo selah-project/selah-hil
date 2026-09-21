@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag napatay si Yosef kag ang tanan nga iya mga utod kag ang tanan sang sina nga kaliwatan.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Kag napatay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "nga iya mga utod"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "sang kaliwatan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sina"
+    }
+  ],
+  "timestamp": "2026-09-21T16:18:37.468843083Z",
+  "model": "glm-5.3"
+}

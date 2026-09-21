@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 12:8",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "sa bukid kag sa kapatagan kag sa Araba kag sa mga palanas kag sa kamingaw kag sa Negev — ang mga Heti, ang mga Amori, kag ang mga Kanaani, ang mga Perisi, ang mga Hivi, kag ang mga Yevusi.",
+  "tokens": [
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "kag sa kapatagan"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "kag sa Araba"
+    },
+    {
+      "surface": "ובאשדות",
+      "gloss": "kag sa mga palanas"
+    },
+    {
+      "surface": "ובמדבר",
+      "gloss": "kag sa kamingaw"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "kag sa Negev"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ang mga Heti"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ang mga Amori"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "kag ang mga Kanaani"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "ang mga Perisi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ang mga Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "kag ang mga Yevusi"
+    }
+  ],
+  "timestamp": "2026-09-21T17:40:00.648354217Z",
+  "model": "glm-5.3"
+}

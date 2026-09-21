@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 65,
+  "translation": "Ginkoronahan mo ang tuig sang imo kaayo, kag ang imo mga agianan nagatuhop sang kadungganan.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "ginkoronahan mo"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ang tuig"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "sang imo kaayo"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "kag ang imo mga agianan"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "nagatuhop"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "sang kadungganan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:00.077567607Z",
+  "model": "glm-5.3"
+}

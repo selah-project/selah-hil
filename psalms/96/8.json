@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 96,
+  "translation": "Ihatag kanda Yahweh ang kadungganan sang iya ngalan; magdala kamo sang halad kag magdayon kamo sa iya mga kadiumahan.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "ihatag"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kanda Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ang kadungganan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sang iya ngalan"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "magdala kamo"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "sang halad"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "kag magdayon kamo"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "sa iya mga kadiumahan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:46.759880962Z",
+  "model": "glm-5.3"
+}

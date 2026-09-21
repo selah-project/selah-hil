@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 40:3",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag gindala niya ⟨את⟩ sila sa pagbantay, sa balay sang mangod sang mga manog-ihaw, sa balay sang bilanggoan, sa duog diin si Yosef gapos didto.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Kag gindala niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "sa pagbantay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sang mangod"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "mga manog-ihaw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "bilanggoan"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "duog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "gapos"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    }
+  ],
+  "timestamp": "2026-09-21T16:14:31.769229389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Kag nagsiling siya sa ila: Indi, kundi ang kahubadan sang duta nagkari kamo sa pagtan-aw.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kundi"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "kahubadan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "nagkari kamo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "sa pagtan-aw"
+    }
+  ],
+  "timestamp": "2026-09-21T16:15:01.969120801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 32:28",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Kag nagasugo si Moshe sa ila ⟨tuhon⟩ ⟨את⟩ si Elazar ang pari kag ⟨את⟩ si Yehoshua anak ni Nun kag ⟨את⟩ ang mga pangulo sang mga amay sang mga tribo sang mga anak ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "kag nagasugo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Elazar ang pari"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "si Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang pari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Yehoshua anak ni Nun"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "si Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נון",
+      "gloss": "ni Nun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga pangulo sang mga amay sang mga tribo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ang mga pangulo"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "sang mga amay"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "sang mga tribo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sang mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T17:14:50.566267748Z",
+  "model": "glm-5.3"
+}

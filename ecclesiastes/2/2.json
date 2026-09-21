@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Sa kadtulaan nagsiling ako, ⟨Buang⟩ ini; kag sa kalipayan, Ano ini nga ginahimo sini?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "sa kadtulaan"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nagsiling ako"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "buang"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "kag sa kalipayan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginahimo"
+    }
+  ],
+  "timestamp": "2026-09-21T21:26:12.590814480Z",
+  "model": "glm-5.3"
+}

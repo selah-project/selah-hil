@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 146,
+  "translation": "Si Yahweh nagatipig ⟨את⟩ sang mga tagadayon; ang ilo kag ang balo iya ginatindog; kag ang dalan sang mga manager nagapasipiling niya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nagatipig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang mga tagadayon"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "mga tagadayon"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ang ilo"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "kag ang balo"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "iya ginatindog"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "kag ang dalan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sang mga manager"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "nagapasipiling"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:42.504413422Z",
+  "model": "glm-5.3"
+}

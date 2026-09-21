@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Ginakatuwaan ko nga maglatigid ang akon mga dalan sa pagbantay sang imo mga kahitulongan.",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "ginakatuwaan ko nga"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "maglatigid"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ang akon mga dalan"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "sa pagbantay"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "sang imo mga kahitulongan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:58.475975433Z",
+  "model": "glm-5.3"
+}

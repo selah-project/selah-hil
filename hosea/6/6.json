@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 6:6",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kay hesed ang akon ginpalangkuban, kag indi halad; kag ang pagkamaathid sa Elohim, labaw sa mga sinunog nga halad.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ang akon ginpalangkuban"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "halad"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "kag ang pagkamaathid"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "labaw sa mga sinunog nga halad"
+    }
+  ],
+  "timestamp": "2026-09-21T20:03:26.304086677Z",
+  "model": "glm-5.3"
+}

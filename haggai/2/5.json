@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 2:5",
+  "book": "haggai",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "⟨את⟩ ang pulong nga gintipon ko ⟨את⟩ sa inyo sang naggwa kamo sa Mitsrayim, kag ang akon espiritu nagatindog sa tunga ninyo — indi kamo magkabalaka.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pulong"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "gintipon ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "sang naggwa kamo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "ורוחי",
+      "gloss": "kag ang akon espiritu"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "nagatindog"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "sa tunga ninyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kamo magkabalaka"
+    }
+  ],
+  "timestamp": "2026-09-21T20:16:16.033700091Z",
+  "model": "glm-5.3"
+}

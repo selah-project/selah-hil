@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag ginpatay niya ⟨את⟩ ang halad nga sinunog, kag gindala sang mga anak ni Aharon sa iya ⟨את⟩ ang dugo, kag ginwisik niya ⟨ito⟩ sa halaran sa palibot.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "ginpatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang halad nga sinunog"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ang halad nga sinunog"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "gindala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dugo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ang dugo"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "ginwisik niya ini"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    }
+  ],
+  "timestamp": "2026-09-21T16:45:41.995258233Z",
+  "model": "glm-5.3"
+}

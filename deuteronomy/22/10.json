@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Indi ka mag-arado sang baka kag sang borhi magdungan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ka mag-arado"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "sang baka"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "kag sang borhi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magdungan"
+    }
+  ],
+  "timestamp": "2026-09-21T17:25:41.385672086Z",
+  "model": "glm-5.3"
+}

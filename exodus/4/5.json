@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 4:5",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Agos magtuo sila nga nagpakita ang Yahweh, ang Elohim sang ila mga amay, ang Elohim ni Avraham, ang Elohim ni Yitskhak kag ang Elohim ni Yaakov, sa imo.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Agos"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "magtuo sila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "nagpakita"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "sang ila mga amay"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "kag ang Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-21T16:21:24.977116845Z",
+  "model": "glm-5.3"
+}

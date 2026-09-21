@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag ginhimo ni Yahweh ⟨את⟩ ang hambal nga ini sa pag-aga, kag nangamatay ang tanan nga kahayupan sang Mitsrayim; ⟨apang⟩ sa kahayupan sang mga anak sang Yisrael wala nakamatay bisan isa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kag ginhimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hambal nga ini"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang hambal"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "sa pag-aga"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kag nangamatay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "nga kahayupan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "sa kahayupan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sang mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "מת",
+      "gloss": "nakamatay"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bisan isa"
+    }
+  ],
+  "timestamp": "2026-09-21T16:23:43.261372096Z",
+  "model": "glm-5.3"
+}

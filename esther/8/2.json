@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ginkuha sang hari ⟨את⟩ iya singsing nga iya gintanghal gikan kay Haman, kag ginhatag ini kay Mordekai; kag ginpabutang ni Ester ⟨את⟩ si Mordekai sa ibabaw sang balay ni Haman.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "kag ginkuha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya singsing"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "iya singsing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "gintanghal"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "gikan kay Haman"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "kag ginhatag ini"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "kay Mordekai"
+    },
+    {
+      "surface": "וותשם",
+      "gloss": "kag ginpabutang"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ni Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Mordekai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "si Mordekai"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ni Haman"
+    }
+  ],
+  "timestamp": "2026-09-21T21:31:18.871294213Z",
+  "model": "glm-5.3"
+}

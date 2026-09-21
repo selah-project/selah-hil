@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 85,
+  "translation": "Ipakita sa amon, Yahweh, ang imo hesed, kag ang imo pagluwas ihatag mo sa amon.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Ipakita sa amon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ang imo hesed"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "kag ang imo pagluwas"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ihatod mo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:00.318823319Z",
+  "model": "glm-5.3"
+}

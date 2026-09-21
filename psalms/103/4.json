@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 103,
+  "translation": "⟨Siya⟩ nga nagabawi sang imo kabuhi sa kalaglagan, nga nagakoronar sa imo sang hesed kag mga maloy.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "nagabawi"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "sa kalaglagan"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "imo kabuhi"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "nagakoronar sa imo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "kag mga maloy"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:25.472248847Z",
+  "model": "glm-5.3"
+}

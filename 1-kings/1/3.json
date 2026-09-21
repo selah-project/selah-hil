@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 1:3",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag gintimbaytan nila ang isa ka batang babae nga matahom sa tanan nga utlanan sang Yisrael, kag nakita nila ⟨את⟩ si Avishag nga taga-Shunem, kag gindala nila ⟨את⟩ sia sa hari.",
+  "tokens": [
+    {
+      "surface": "ויבקשו",
+      "gloss": "kag gintimbaytan nila"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "ang batang babae"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "nga matahom"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "nga utlanan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "kag nakita nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avishag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "si Avishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "nga taga-Shunem"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "kag gindala nila"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sia (si Avishag)"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sa hari"
+    }
+  ],
+  "timestamp": "2026-09-21T18:25:34.876114555Z",
+  "model": "glm-5.3"
+}

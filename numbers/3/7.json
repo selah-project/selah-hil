@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag magabantay sila ⟨את⟩ sang iya pagbantay kag ⟨את⟩ sang pagbantay sang tanan nga katilingban sa atubangan sang tolda sang pagtig-ub, sa pagahimuon sang ⟨את⟩ sang pag-alagad sang tolda.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Kag magabantay sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang iya pagbantay"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "sang iya pagbantay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang pagbantay sang tanan nga katilingban"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "sang pagbantay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tanan nga"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "katilingban"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sang tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang pagtig-ub"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "sa pagahimuon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang pag-alagad sang tolda"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "sang pag-alagad"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "sang tolda"
+    }
+  ],
+  "timestamp": "2026-09-21T16:59:17.671591506Z",
+  "model": "glm-5.3"
+}

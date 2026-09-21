@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag ikaw, tumindog ka, kadto ka sa imo balay; sa pag-sulod sang imo mga tiil sa ciudad, ang bata magakalag",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Kag ikaw"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "tumindog ka"
+    },
+    {
+      "surface": "لכי",
+      "gloss": "kadto ka"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "sa imo balay"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "sa pag-sulod"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "im mga tiil"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "sa ciudad"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "magakalag"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ang bata"
+    }
+  ],
+  "timestamp": "2026-09-21T18:33:45.294302833Z",
+  "model": "glm-5.3"
+}

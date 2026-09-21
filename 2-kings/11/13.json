@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag nabatian ni Athalyah ⟨את⟩ ang tingog sang mga manugdagan kag sang katawhan, kag nagkadto ⟨siya⟩ sa katawhan sa balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "nabatian"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "ni Athalyah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tingog"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "sang mga manugdagan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kag sang katawhan"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "kag nagkadto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T18:45:17.554697429Z",
+  "model": "glm-5.3"
+}

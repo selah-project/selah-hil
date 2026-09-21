@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 32:5",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Kag padad-on ni Bavel ⟨את⟩ si Tsidkiyahu, kag didto siya magapabilin tubtob bisitahon ko siya, giila ni Yahweh; kay bisan makig-away kamo ⟨את⟩ sa mga Kasdeanhon, indi kamo magakabulus.",
+  "tokens": [
+    {
+      "surface": "ובבל",
+      "gloss": "kag Bavel"
+    },
+    {
+      "surface": "יולך",
+      "gloss": "magadala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Tsidkiyahu"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "si Tsidkiyahu"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "kag didto"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magapabilin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "פקדי",
+      "gloss": "bisitahon ko"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "giila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay bisan"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "makig-away kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga Kasdeanhon"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "mga Kasdeanhon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תצליחו",
+      "gloss": "magakabulus"
+    }
+  ],
+  "timestamp": "2026-09-21T19:31:14.159227020Z",
+  "model": "glm-5.3"
+}

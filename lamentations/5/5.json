@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Sa ibabaw sang aton mga liog kami ginpanglagari; nagpanikasog kami, kag wala gintugyan sang pahulay ⟨sa aton⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "aton mga liog"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "ginpanglagari kami"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "nagpanikasog kami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "gintugyan sang pahulay"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa aton"
+    }
+  ],
+  "timestamp": "2026-09-21T22:42:46.157852585Z",
+  "model": "glm-5.3"
+}

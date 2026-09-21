@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 1:30",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Wala nanda ginbaton ang akon tambag, gintamay nanda ang tanan sang akon pagtul-i.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Wala"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "nanda ginbaton"
+    },
+    {
+      "surface": "לעצתי",
+      "gloss": "ang akon tambag"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "gintamay nanda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "sang akon pagtul-i"
+    }
+  ],
+  "timestamp": "2026-09-21T20:55:11.113337006Z",
+  "model": "glm-5.3"
+}

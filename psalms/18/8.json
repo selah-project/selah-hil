@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag nag-ugyok kag naglinog ang duta, kag ang mga pundasyon sang mga bukid nanginurok kag nag-ugyok, kay nagdilaab ang iya kaakig.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "kag nag-ugyok"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "kag naglinog"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "kag ang mga pundasyon"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "sang mga bukid"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "nanginurok"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "kag nag-ugyok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "nagdilaab ang kaakig"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:17.573174963Z",
+  "model": "glm-5.3"
+}

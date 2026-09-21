@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Apang ikaw, Yahweh, amo ang akon taming kag ang nagapalig-on sa akon; amo ang akon himaya kag ang nagapatindog sang akon ulo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Apang ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ang akon taming"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "nagapalig-on sa akon"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ang akon himaya"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "kag ang nagapatindog"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "sang akon ulo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:44.315329429Z",
+  "model": "glm-5.3"
+}

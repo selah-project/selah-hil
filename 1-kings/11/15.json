@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag nabuhi ini sang si David yara sa Edom, kag sang maggaktod si Yoav, ang mangungulo sang Tsevaot, sa paglubong ⟨את⟩ sa mga ginpatay, ginpamatay niya ang tanan nga lalaki sa Edom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag nabuhi ini"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "sang yara"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "sang maggaktod"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "si Yoav"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mangungulo"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "sang Tsevaot"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "sa paglubong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga ginpatay"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "mga ginpatay"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ginpamatay niya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "sa Edom"
+    }
+  ],
+  "timestamp": "2026-09-21T18:32:40.679194064Z",
+  "model": "glm-5.3"
+}

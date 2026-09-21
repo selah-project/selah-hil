@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 86,
+  "translation": "Sa adlaw sang akon kalisod magatawag ako sa imo, kay ikaw ang magatubong sa akon.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Sa adlaw"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "sang akon kalisod"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "magatawag ako sa imo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "ikaw ang magatubong sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:32.581510371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 116,
+  "translation": "Madani nga buot si Yahweh kag matarong, kag ang aton Elohim maluluyanon.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Madani nga buot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "kag matarong"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "kag ang aton Elohim"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "maluluyanon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:04.345666016Z",
+  "model": "glm-5.3"
+}

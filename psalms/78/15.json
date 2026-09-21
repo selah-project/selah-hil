@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Gintunga niya ang mga bato sa kawadyan kag ginpainom sila sing dagaya subong sa mga madalomon.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "gintunga niya"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "ang mga bato"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kawadyan"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "kag ginpainom sila"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "subong sa mga madalomon"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "sing dagaya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:46.963232142Z",
+  "model": "glm-5.3"
+}

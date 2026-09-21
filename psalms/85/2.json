@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 85,
+  "translation": "Ginpahamut-an mo, Yahweh, ang imo duta; ginbalik mo ang pagkabihag ni Yaakov ⟨sa iya nga kahimtangan⟩.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "Ginpahamut-an"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "imo duta"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ginbalik"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "pagkabihag"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:57.837955671Z",
+  "model": "glm-5.3"
+}

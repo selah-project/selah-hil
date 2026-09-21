@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 53,
+  "translation": "Sin-o ang nagtuo sa aton pagdungog? kag ang zangad ni Yahweh — kang sin-o ini nagdayaw?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "nagtuo"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "sa aton pagdungog"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "kag ang zangad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "kang"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "nagdayaw"
+    }
+  ],
+  "timestamp": "2026-09-21T22:31:56.078025274Z",
+  "model": "glm-5.3"
+}

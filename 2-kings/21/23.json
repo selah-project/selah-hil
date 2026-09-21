@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag nagtinaro ang mga sulugoon ni Amon batok sa iya, kag gintanan nila ⟨את⟩ ang hari sa iya kaugalingon nga balay.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "kag nagtinaro"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ang mga sulugoon"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "ni Amon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "batok sa iya"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "kag gintanan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "sa iya kaugalingon nga balay"
+    }
+  ],
+  "timestamp": "2026-09-21T18:48:50.595834590Z",
+  "model": "glm-5.3"
+}

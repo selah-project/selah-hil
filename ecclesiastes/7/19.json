@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Ang kinaadman nagahatag kusog sa maalam, labaw sa napulo ka manugdumala nga ⟨ara⟩ sa ciudad.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "ang kinaadman"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "nagahatag kusog"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "sa maalam"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "labaw sa napulo"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "ka manugdumala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨ara⟩"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa ciudad"
+    }
+  ],
+  "timestamp": "2026-09-21T21:27:26.185718388Z",
+  "model": "glm-5.3"
+}

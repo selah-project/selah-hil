@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 35:24",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Ang tanan nga nagbayaw sang terumah sang pilak kag tumbaga nagdala ⟨את⟩ sang terumah sang Yahweh; kag ang tanan nga nakita ⟨את⟩ sa iya mga kahoy sang akasya para sa tanan nga buluhaton sang pag-alagad, nagdala.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ang tanan"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "nga nagbayaw"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "sang terumah"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sang pilak"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "kag tumbaga"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "nagdala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang terumah sang Yahweh"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "sang terumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sang Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sa iya",
+      "marks": "mga kahoy sang akasya"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mga kahoy"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sang akasya"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "para sa tanan"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "nga buluhaton"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "sang pag-alagad"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "nagdala"
+    }
+  ],
+  "timestamp": "2026-09-21T16:37:45.280754848Z",
+  "model": "glm-5.3"
+}

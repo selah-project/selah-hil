@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag nagpadala si Ahab sa tanan nga mga anak sang Yisrael, kag gintipon niya ⟨את⟩ ang mga manalagna sa bundok sang Karmel.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Kag nagpadala"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "si Ahab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nga mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "kag gintipon niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga manalagna"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ang mga manalagna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bundok"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "sang Karmel"
+    }
+  ],
+  "timestamp": "2026-09-21T18:36:31.502783336Z",
+  "model": "glm-5.3"
+}

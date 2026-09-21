@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 46,
+  "translation": "Nagakanyag ang mga pungsod, nagkuyab ang mga ginhari-an; naghatag siya sang iya tingog, natunaw ang duta.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "nagakanyag"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ang mga pungsod"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "nagkuyab"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ang mga ginhari-an"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "naghatag"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "sang iya tingog"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "natunaw"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:22.083472167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "kag magasugo ang saserdote, kag ilalawas nila ⟨את⟩ ang mga bato nga may plaga sa ila, kag itambog nila ⟨את⟩ sila sa guwa sang duta sang siyudad, sa isa ka nga duog nga di-matinlo;",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "kag magasugo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang saserdote"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "kag ilalawas nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga bato"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ang mga bato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ang plaga"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "kag itambog nila"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ sila",
+      "marks": "ang mga bato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "guwa"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "sang siyudad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "durog"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "di-matinlo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:48:04.770009703Z",
+  "model": "glm-5.3"
+}

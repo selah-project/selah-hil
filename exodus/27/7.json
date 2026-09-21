@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Kag pasulodon ang ⟨את⟩ iya mga bad sa mga singsing, kag ang mga bad magaatubang sa duha ka kilid sang halaran sa pagdala ⟨את⟩ sini.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "Kag pasulodon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya mga bad"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "iya mga bad"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "sa mga singsing"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kag magaatubang"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ang mga bad"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "kilid"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sang halaran"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "sa pagdala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sini (ang halaran)"
+    }
+  ],
+  "timestamp": "2026-09-21T16:31:59.386042716Z",
+  "model": "glm-5.3"
+}

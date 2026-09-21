@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 94,
+  "translation": "Kag ginpabalik niya sa ila ⟨את⟩ ang ila kaanggid nga kapintas, kag sa ila kadaotan pagapaniklon niya sila; pagapaniklon niya sila si Yahweh, ang aton Elohim.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "kag ginpabalik"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ila kaanggid nga kapintas"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ang ila kaanggid nga kapintas"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "kag sa ila kadaotan"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "pagapaniklon niya sila"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "pagapaniklon niya sila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ang aton Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:15.139023176Z",
+  "model": "glm-5.3"
+}

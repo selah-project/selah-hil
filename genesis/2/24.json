@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Tungod sini, magapabilin ang lalaki ⟨את⟩ sa iya amay kag ⟨את⟩ sa iya iloy, kag magakapot siya sa iya asawa, kag magaiging sila isa ka unod.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sini"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "magapabilin ang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iya amay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sa iya amay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sa iya iloy"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sa iya iloy"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "kag magakapot siya"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "sa iya asawa"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kag magaiging sila"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "isa ka unod"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    }
+  ],
+  "timestamp": "2026-09-21T15:54:48.449974871Z",
+  "model": "glm-5.3"
+}

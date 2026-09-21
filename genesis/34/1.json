@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 34:1",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Kag naggwa si Dinah, anak nga babae ni Leah, nga iya gin-anak kay Yaakov, sa pagtan-aw sa mga anak nga babae sang duta.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "naggwa"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "si Dinah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babae"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ni Leah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "gin-anak"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kay Yaakov"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "sa pagtan-aw"
+    },
+    {
+      "surface": "בבנות",
+      "gloss": "sa mga anak nga babae"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T16:11:38.091233351Z",
+  "model": "glm-5.3"
+}

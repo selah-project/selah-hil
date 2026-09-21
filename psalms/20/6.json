@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Magakanta kami sa imo pagluwas kag sa ngalan sang Elohim namon magatindog ⟨kami⟩ sang bandila; patumanon ni Yahweh ang tanan nimong mga pangamuyo.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "magakanta kami"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "sa imo pagluwas"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "kag sa ngalan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "sang Elohim namon"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "magatindog sang bandila"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "patumanon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "nimong mga pangamuyo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:09.724433348Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 4:20",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "kag ⟨את⟩ kamo ginkuha ni Yahweh kag ginpagwa niya ⟨את⟩ kamo gikan sa hurno sang puthaw, sa Mitsrayim, agod mangin katawhan nga iya panubli ⟨niya⟩, subong nga adlaw ini",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "kag ⟨את⟩ kamo",
+      "marks": "kamo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ginkuha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "kag ginpagwa niya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo",
+      "marks": "kamo"
+    },
+    {
+      "surface": "מכור",
+      "gloss": "gikan sa hurno"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "sang puthaw"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "agod mangin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iya"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "nga panubli"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "subong nga adlaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-21T17:20:16.902929287Z",
+  "model": "glm-5.3"
+}

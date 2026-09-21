@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag pahida mo ⟨את⟩ ang labahan kag ⟨את⟩ iya tungtungan, kag pag-abtanga mo si ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "kag pahida mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang labahan"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ang labahan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya tungtungan"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "iya tungtungan"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "kag pag-abtanga mo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "si ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T16:41:10.077871410Z",
+  "model": "glm-5.3"
+}

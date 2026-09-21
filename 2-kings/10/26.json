@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag ginala nila ⟨את⟩ ang mga batong haligi sang balay sang Baal, kag ginsunog nila ini.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "kag ginala nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga batong haligi"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "ang mga batong haligi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "sang Baal"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "kag ginsunog nila ini"
+    }
+  ],
+  "timestamp": "2026-09-21T18:42:23.138945031Z",
+  "model": "glm-5.3"
+}

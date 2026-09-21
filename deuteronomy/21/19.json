@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 21:19",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "kag dakpon nila siya — ang iya amay kag ang iya iloy — kag paggwaon nila siya ⟨אתו⟩ sa mga tigulang sang iya lungsod kag sa ganghaan sang iya duog.",
+  "tokens": [
+    {
+      "surface": "ותפשו",
+      "gloss": "kag dakpon nila"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ang iya amay"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "kag ang iya iloy"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "kag paggwaon nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga tigulang"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "sang iya lungsod"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ganghaan"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "sang iya duog"
+    }
+  ],
+  "timestamp": "2026-09-21T17:26:40.620631695Z",
+  "model": "glm-5.3"
+}

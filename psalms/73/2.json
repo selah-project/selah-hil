@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 73,
+  "translation": "Kag ako, daw madula na ang akon mga tiil, daw mahunaw na ang akon mga lakat.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kag ako"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "daw madula na"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "natinag"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ang akon mga tiil"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "daw wala na"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "nahuwaw"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ang akon mga lakat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:14.809022416Z",
+  "model": "glm-5.3"
+}

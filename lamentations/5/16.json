@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Nalagyo ang korona sang amon ulo. Awoy na sa amon, kay nagpakasala kami!",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "nalagyo"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "korona"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "sang amon ulo"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "Awoy"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "nagpakasala kami"
+    }
+  ],
+  "timestamp": "2026-09-21T21:25:01.352226921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Luwsgi ang akon kalag gikan sa espada, gikan sa kamot sang ido ang akon bugtong ⟨nga kalag⟩.",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "luwsgi"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "gikan sa espada"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gikan sa kamot"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "sang ido"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "ang akon bugtong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:02.043799205Z",
+  "model": "glm-5.3"
+}

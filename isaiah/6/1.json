@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 6:1",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Sa tuig sang kamatayon sang hari nga si Uzziyahu, nakita ko ⟨את⟩ si Adonay nga nagatungtong sa trono, mataas kag gintimawa, kag ang punta sang iya bado nagapuno sang ⟨את⟩ templo.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "sa tuig"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uzziyahu"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "kag nakita ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Adonay"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nagtungtong"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trono"
+    },
+    {
+      "surface": "רם",
+      "gloss": "mataas"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "kag gintimawa"
+    },
+    {
+      "surface": "ושוליו",
+      "gloss": "kag ang punta sang iya bado"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "nagapuno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang templo"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ang templo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:54:43.407788897Z",
+  "model": "glm-5.3"
+}

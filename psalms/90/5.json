@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 90,
+  "translation": "Ginpabaha Mo sila ⟨sang tubig⟩; maga sila nga tulog; sa kaagahon, subong sang hilamon, malaksi magalabyan.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "ginpabaha Mo sila"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tulog"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "maga sila"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa kaagahon"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "subong sang hilamon"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "malaksi magalabyan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:55.429433713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 87,
+  "translation": "Kag sang Tsiyon it igahambal: tawo kag tawo natawo sa iya; kag siya, ang Elyon, magatindog sa iya.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "kag sang Tsiyon"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "it igahambal"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kag tawo"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kag siya"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "magatindog sa iya"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ang Elyon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:51.777024458Z",
+  "model": "glm-5.3"
+}

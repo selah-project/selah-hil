@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "⟨את⟩ ang Aron kag ⟨את⟩ ang iya mga tungkod, ⟨את⟩ ang Kaporet, kag ⟨את⟩ ang Paroket sang tabon",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Aron"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ang Aron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya mga tungkod"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ang iya mga tungkod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Kaporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ang Kaporet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Paroket sang tabon"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "ang Paroket"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "sang tabon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:35:52.805040127Z",
+  "model": "glm-5.3"
+}

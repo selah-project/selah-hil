@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag gintawag niya ang ngalan sang duta nga sina Tabera, kay nagsunog sa ila ang kalayo ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Kag gintawag"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang ngalan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nga sina"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "Tabera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "nagsunog"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ang kalayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T17:04:12.103807894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 86:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 86,
+  "translation": "Magapaniklad ako sa imo, Adonay nga akon Elohim, sang tanan ko nga tagipusuon, kag magatahod sa imo ngalan sa dayon.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "magapaniklad ako sa imo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "nga akon Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ko nga tagipusuon"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "kag magatahod"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sa imo ngalan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:45.962203584Z",
+  "model": "glm-5.3"
+}

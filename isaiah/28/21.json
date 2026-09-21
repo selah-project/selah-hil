@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 28:21",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Kay subong sa bundok Peratsim magatindog si Yahweh, subong sa walog sang Givon magakaakgol siya, sa paghimo sang iya buluhaton — lain ang iya buluhaton, kag sa pagbuhat sang iya pagbuhat — lain nga hitod ang iya pagbuhat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "subong sa bundok"
+    },
+    {
+      "surface": "פרצים",
+      "gloss": "Peratsim"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "magatindog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כעמק",
+      "gloss": "subong sa walog"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "sang Givon"
+    },
+    {
+      "surface": "ירגז",
+      "gloss": "magakaakgol"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa paghimo"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "sang iya buluhaton"
+    },
+    {
+      "surface": "זר",
+      "gloss": "lain"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "ang iya buluhaton"
+    },
+    {
+      "surface": "ולעבד",
+      "gloss": "kag sa pagbuhat"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "sang iya pagbuhat"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "lain nga hitod"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "ang iya pagbuhat"
+    }
+  ],
+  "timestamp": "2026-09-21T19:01:19.695470229Z",
+  "model": "glm-5.3"
+}

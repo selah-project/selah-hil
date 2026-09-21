@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 80,
+  "translation": "Nag-andam ka sang lugar sa atubangan sini, kag nagtarug ini sang iya mga gamot kag napuno ang duta.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "nag-andam ka sang lugar"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "sa atubangan sini"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "kag nagtarug"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "sang iya mga gamot"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "kag napuno"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:36.343421533Z",
+  "model": "glm-5.3"
+}

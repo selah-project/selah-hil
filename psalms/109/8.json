@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 109,
+  "translation": "Magamay ang iya mga adlaw, kag ang iya katungdanan kuhaon sang iban.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "magamay"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ang iya mga adlaw"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "mga gumay"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "ang iya katungdanan"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "kuhaon"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sang iban"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:32.053468662Z",
+  "model": "glm-5.3"
+}

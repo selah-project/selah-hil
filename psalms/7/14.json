@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 7:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag para sa iya gintipigan niya ang mga galamiton sang kamatayon; iya mga palaso ginhimo niya nga masiga para sa mga nagadangop.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "kag para sa iya"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "gintipigan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mga galamiton"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sang kamatayon"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "iya mga palaso"
+    },
+    {
+      "surface": "לדלקים",
+      "gloss": "para sa mga nagadangop"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "ginhimo nga masiga"
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:53.756279620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 83,
+  "translation": "Buhaton ⟨mo⟩ sa ila subong ⟨kay⟩ Midian, ⟨kay⟩ Sisera, ⟨kay⟩ Yavin, ⟨sa⟩ wala sang Kishon:",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Buhaton"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "subong kay Midian"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "kay Sisera"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "kay Yavin"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "sa wala"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "sang Kishon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:51.713849589Z",
+  "model": "glm-5.3"
+}

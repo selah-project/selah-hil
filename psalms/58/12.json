@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 58,
+  "translation": "Kag magahambal ang tawo: Biskot may bunga ang matarong, biskot may Elohim nga nagahukom sa duta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag magahambal"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "biskot"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "may bunga"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ang matarong"
+    },
+    {
+      "surface": "אך",
+      "gloss": "biskot"
+    },
+    {
+      "surface": "יש",
+      "gloss": "may"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "nga nagahukom"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:34.383069810Z",
+  "model": "glm-5.3"
+}

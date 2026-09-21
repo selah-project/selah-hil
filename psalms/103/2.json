@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 103,
+  "translation": "Panalanginan mo, kalag ko, si Yahweh ⟨את⟩, kag indi pagkalimti ang tanan sang iya mga ganti.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Panalanginan mo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "kalag ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag indi pag"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "kalimti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "sang iya mga ganti"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:25.472012765Z",
+  "model": "glm-5.3"
+}

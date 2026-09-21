@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 123,
+  "translation": "Malina-i kami, O Yahweh, malina-i kami, kay labi gid ang amon pagkabusog sang pagtamay.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Malina-i kami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "O Yahweh"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "malina-i kami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רב",
+      "gloss": "labi gid"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "ang amon pagkabusog"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "sang pagtamay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:11.012131588Z",
+  "model": "glm-5.3"
+}

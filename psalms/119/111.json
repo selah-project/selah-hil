@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Ginpanubli ko ang imo mga pagsaksi sa dayon, kay kadungganan sang akon kasingkasing sila.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "ginpanubli ko"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ang imo mga pagsaksi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "kadungganan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sang akon kasingkasing"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:50:26.244673416Z",
+  "model": "glm-5.3"
+}

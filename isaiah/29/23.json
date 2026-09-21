@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 29:23",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kay sa iya pagkakita sang iya mga anak, obra sang akon mga kamot, sa iya kaagtangan, pagabala-anon nila ang akon ngalan, kag pagabala-anon nila ⟨את⟩ ang Balaan ni Yaakov, kag ⟨את⟩ ang Elohim ni Yisrael pagahadluan nila.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בראתו",
+      "gloss": "sa iya pagkakita"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "ang iya mga anak"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "obra"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "sang akon mga kamot"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "sa iya kaagtangan"
+    },
+    {
+      "surface": "יקדישו",
+      "gloss": "pagabala-anon nila"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ang akon ngalan"
+    },
+    {
+      "surface": "והקדישו",
+      "gloss": "kag pagabala-anon nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Balaan ni Yaakov"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Balaan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Elohim ni Yisrael"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "יעריצו",
+      "gloss": "pagahadluan nila"
+    }
+  ],
+  "timestamp": "2026-09-21T19:02:01.260105374Z",
+  "model": "glm-5.3"
+}

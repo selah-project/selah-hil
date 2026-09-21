@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Nagdamo sang mga baki ang ila duta, sa mga sulod sang ila mga hari.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "nagdamo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ang ila duta"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "mga baki"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "sa mga sulod"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "sang ila mga hari"
+    }
+  ],
+  "timestamp": "2026-09-21T22:40:22.535055545Z",
+  "model": "glm-5.3"
+}

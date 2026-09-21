@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 69,
+  "translation": "Kay si Yahweh nagabati sa mga kabos, kag ⟨את⟩ sang iya mga bilanggo wala niya gintamay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nagabati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "mga kabos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang iya mga bilanggo"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "sang iya mga bilanggo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "niya gintamay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:12.571890605Z",
+  "model": "glm-5.3"
+}

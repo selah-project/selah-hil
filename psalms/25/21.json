@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 25:21",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Ang pagkamatinud-an kag ang pagkamatarong magabantay sa akon, kay sa imo ako nagalaom.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "pagkamatinud-an"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "kag pagkamatarong"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "magabantay sa akon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "קויתיך",
+      "gloss": "sa imo ako nagalaom"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:15.108270360Z",
+  "model": "glm-5.3"
+}

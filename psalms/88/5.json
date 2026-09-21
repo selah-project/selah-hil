@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 88:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 88,
+  "translation": "Ginbilang ako kaupod sang mga nagaunmad sa godlo; nangin ako kaangay sang tawo nga wala sing kusog.",
+  "tokens": [
+    {
+      "surface": "נחשבתי",
+      "gloss": "ginbilang ako"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "mga nagaunmad"
+    },
+    {
+      "surface": "בור",
+      "gloss": "godlo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nangin ako"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "kaangay sang tawo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nga wala"
+    },
+    {
+      "surface": "איל",
+      "gloss": "sing kusog"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:53.404516623Z",
+  "model": "glm-5.3"
+}

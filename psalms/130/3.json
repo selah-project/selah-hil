@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 130,
+  "translation": "Kon ang mga sala pagabantayan mo, Yah, Adonay, sin-o ang makatindog?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "mga sala"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "pagabantayan"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "makatindog"
+    }
+  ],
+  "timestamp": "2026-09-21T22:40:19.811055656Z",
+  "model": "glm-5.3"
+}

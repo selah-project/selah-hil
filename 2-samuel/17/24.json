@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag si David nag-abot sa Makhanaim, kag si Avshalom nagtabok sang ⟨את⟩ Yarden, siya kag tanan nga tawo sang Yisrael kaupod niya.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Kag si David"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nag-abot"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "sa Makhanaim"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "kag si Avshalom"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "nagtabok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sang Yarden"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag tanan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nga tawo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaupod niya"
+    }
+  ],
+  "timestamp": "2026-09-21T22:28:44.195162795Z",
+  "model": "glm-5.3"
+}

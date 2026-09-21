@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Busa, mga manugbantay, pamati-i ⟨את⟩ sang pulong ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Busa"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "mga manugbantay"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "pamati-i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang pulong"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sang pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T19:54:59.677894323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 136:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 136,
+  "translation": "Sa naghimo sang mga dako nga suga, kay tubtob sa dayon ang iya hesed.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "sa naghimo"
+    },
+    {
+      "surface": "אורים",
+      "gloss": "sang mga suga"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "mga dako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tubtob sa dayon"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iya hesed"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:22.527455718Z",
+  "model": "glm-5.3"
+}

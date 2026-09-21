@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Tindog ka, O Yahweh, luwasi ako, Elohim ko, kay gintama mo ⟨את⟩ ang tanan ko nga mga kaaway sa pisngi, ang mga ngipon sang mga malain imo nagbalo.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "tindog ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "luwasi ako"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "gintama mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan ko nga mga kaaway"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ko nga mga kaaway"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "sa pisngi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ang mga ngipon"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sang mga malain"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "imo nagbalo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:46.768973754Z",
+  "model": "glm-5.3"
+}

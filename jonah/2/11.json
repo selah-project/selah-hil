@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag naghambal si Yahweh sa isda, kag ginsuka sini ⟨את⟩ si Yonah sa mamala nga duta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag naghambal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "sa isda"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "kag ginsuka sini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "si Yonah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "mamala nga duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:11:45.916623478Z",
+  "model": "glm-5.3"
+}

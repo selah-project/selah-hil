@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag gintawag ni Shemuel ⟨את⟩ ang katawhan pakangad kay Yahweh sa Mitspa.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "kag gintawag"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pakangad sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "ang Mitspa"
+    }
+  ],
+  "timestamp": "2026-09-21T18:01:40.575563062Z",
+  "model": "glm-5.3"
+}

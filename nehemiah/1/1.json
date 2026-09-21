@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 1:1",
+  "book": "nehemiah",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Mga pulong ni Nechemyah, anak ni Khakalyah. Kag natabo sa bulan sang Kislev, sa ikaduha ka pulo ka tuig, kag ako ara didto sa Shushan nga kuta.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Mga pulong"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "ni Nechemyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "ni Khakalyah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Kag natabo"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "sa bulan"
+    },
+    {
+      "surface": "כסלו",
+      "gloss": "sang Kislev"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "sa ikaduha ka pulo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kag ako"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ara didto"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "sa Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "nga kuta"
+    }
+  ],
+  "timestamp": "2026-09-21T21:43:30.122935058Z",
+  "model": "glm-5.3"
+}

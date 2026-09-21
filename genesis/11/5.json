@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag nanaog si Yahweh sa pagtan-aw ⟨את⟩ sang dakbanwa kag ⟨את⟩ sang tore nga ginpatindog sang mga anak sang tawo.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "kag nanaog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "sa pagtan-aw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang dakbanwa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sang dakbanwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang tore"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "sang tore"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ginpatindog"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sang tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T15:59:25.664057155Z",
+  "model": "glm-5.3"
+}

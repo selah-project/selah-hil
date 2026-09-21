@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Indi niya pagbaylohan ini kag indi niya pag-ilisan ⟨אתו⟩ — maayo sang malain ukon malain sang maayo; kag kon ilisan gid niya hayop sang hayop, kag ini kag ang iya kabaylo magaantos maging balaan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "niya pagbaylohan ini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "niya pag-ilisan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "maayo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "sang malain"
+    },
+    {
+      "surface": "או",
+      "gloss": "ukon"
+    },
+    {
+      "surface": "רע",
+      "gloss": "malain"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "sang maayo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "המר",
+      "gloss": "ilisan gid"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "niya ilisan"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "hayop"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "sang hayop"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kag"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "kag ang iya kabaylo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magaantos maging"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:57:50.676684302Z",
+  "model": "glm-5.3"
+}

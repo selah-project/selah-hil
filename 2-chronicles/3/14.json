@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 3:14",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ginhimo niya ⟨את⟩ ang kurtina sang tekhelet kag sang argaman kag sang karmil kag sang lino, kag ginpataas niya sa iya ang mga kerub.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kag ginhimo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kurtina"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "ang kurtina"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "kag sang argaman"
+    },
+    {
+      "surface": "וכרמיל",
+      "gloss": "kag sang karmil"
+    },
+    {
+      "surface": "ובוץ",
+      "gloss": "kag sang lino"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "kag ginpataas niya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "ang mga kerub"
+    }
+  ],
+  "timestamp": "2026-09-21T22:01:04.402731925Z",
+  "model": "glm-5.3"
+}

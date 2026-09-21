@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 94,
+  "translation": "Si Yahweh nakahibalo sang mga hunahuna sang tawo, nga sila ⟨ang⟩ pawang-away.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakahibalo"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "sang mga hunahuna"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "pawang-away"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:11.549390917Z",
+  "model": "glm-5.3"
+}

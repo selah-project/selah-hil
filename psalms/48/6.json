@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 48,
+  "translation": "Sila ang nakita ⟨ini⟩; busa nangalag-ad sila, nagkurog sila kag nagdali ⟨nga pagpalagyo⟩.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ang nakita"
+    },
+    {
+      "surface": "כן",
+      "gloss": "busa"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "nangalag-ad"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "nagkurog"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "nagdali nga pagpalagyo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:05.641578009Z",
+  "model": "glm-5.3"
+}

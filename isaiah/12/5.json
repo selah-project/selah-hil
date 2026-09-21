@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 12:5",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kumanta kamo kay Yahweh, kay himaya ang iya ginhimo; ipahibalo ina sa tanan nga duta.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "kumanta kamo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "himaya"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "מידעת",
+      "gloss": "ipahibalo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ina"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duta"
+    }
+  ],
+  "timestamp": "2026-09-21T18:54:58.028217023Z",
+  "model": "glm-5.3"
+}

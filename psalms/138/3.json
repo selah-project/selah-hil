@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 138,
+  "translation": "Sa adlaw nga nagtawag ako, ginsabat mo ako; ginpahimus mo ako sa akon kalag sang kusog.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "nga nagtawag ako"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "ginsabat mo ako"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "ginpahimus mo ako"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "sa akon kalag"
+    },
+    {
+      "surface": "עז",
+      "gloss": "sang kusog"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:06.812220125Z",
+  "model": "glm-5.3"
+}

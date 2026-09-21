@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Sa diinoti lamang magatabok ang imo sulugyon ⟨את⟩ ang Yarden kag ⟨את⟩ ang hari; kag ngaa balosan bala sang hari ako sang amo ini nga balus?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "sa diinoti lamang"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "magatabok"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ang imo sulugyon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ang Yarden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "kag ngaa"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "balosan bala ako"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "nga balus"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "amo ini"
+    }
+  ],
+  "timestamp": "2026-09-21T22:29:07.253956794Z",
+  "model": "glm-5.3"
+}

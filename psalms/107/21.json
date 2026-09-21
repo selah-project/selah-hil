@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 107:21",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 107,
+  "translation": "Magpasalamat sila kay Yahweh sang iya hesed, kag sang iya mga himala sa mga anak sang tawo.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Magpasalamat sila"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sang iya hesed"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "kag sang iya mga himala"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:51.894146857Z",
+  "model": "glm-5.3"
+}

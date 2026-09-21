@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 79,
+  "translation": "Hangtod san-o, Yahweh? Magakasilag ⟨ikaw⟩ sa dayon? Magasunog subong sang kalayo ang imo nga pagkainggitan?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hangtod"
+    },
+    {
+      "surface": "מה",
+      "gloss": "san-o"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "magakasilag"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "magasunog"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kalayo"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "imo nga pagkainggitan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:28.420931263Z",
+  "model": "glm-5.3"
+}

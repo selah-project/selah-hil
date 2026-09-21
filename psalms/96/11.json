@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 96,
+  "translation": "Magakalipay ang mga langit kag magakalipay ang duta; magadagundong ang dagat kag ang tanan nga ara sa sini.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "Magakalipay"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "kag magakalipay"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "magadagundong"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ang dagat"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "kag ang tanan nga ara sa sini"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:39.876921863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag gintipon sila ⟨את⟩ nga mga tumpok, mga tumpok, kag nangahoy ang duta.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "kag gintipon"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang mga baki)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "mga tumpok"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "mga tumpok"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "kag nangahoy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T16:23:05.131634528Z",
+  "model": "glm-5.3"
+}

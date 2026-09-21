@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag ⟨את⟩ ang tanan nga mga hari nga ina kag ⟨את⟩ ang ila duta gindakop ni Yehoshua sang isa ka higayon, kay si Yahweh, ang Elohim sang Yisrael, nangin-away para sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan nga mga hari nga ina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nga ina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang ila duta"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ila duta"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "gindakop"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "higayon"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "isa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "nangin-away"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "para sa Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T17:39:10.917831404Z",
+  "model": "glm-5.3"
+}

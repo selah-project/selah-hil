@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 77,
+  "translation": "Nadula na bala sa dayon ang iya hesed? Nagtapos na bala ang iya ginsiling sa isa ka henerasyon kag isa ka henerasyon?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "Nadula na bala"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iya hesed"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Nagtapos na bala"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang iya ginsiling"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "sa isa ka henerasyon"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kag isa ka henerasyon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:12.114157841Z",
+  "model": "glm-5.3"
+}

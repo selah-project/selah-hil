@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 109,
+  "translation": "Maging ang iya katapusan ⟨para⟩ sa pagputol; sa lahi nga sunod mapanas ang ila ngalan.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Maging"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "iya katapusan"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "sa pagputol"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "sa lahi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nga sunod"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "mapanas"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ila ngalan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:19.277630401Z",
+  "model": "glm-5.3"
+}

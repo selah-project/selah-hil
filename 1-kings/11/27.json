@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 11:27",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag amo ini ang butang nga iya gintindog sang kamot batok sa hari: nagtukod si Shelomoh ⟨את⟩ sang Milo, kag ginsara niya ⟨את⟩ sang butas sang dakbayan ni David nga iya amay.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "kag amo ini"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang butang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "iya gintindog"
+    },
+    {
+      "surface": "יד",
+      "gloss": "sang kamot"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "batok sa hari"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "si Shelomoh"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nagtukod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang Milo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "sang Milo"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ginsara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang butas"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "sang butas"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "sang dakbayan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nga iya amay"
+    }
+  ],
+  "timestamp": "2026-09-21T18:33:18.063636949Z",
+  "model": "glm-5.3"
+}

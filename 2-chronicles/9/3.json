@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag nakita sang reyna sang Sheba ⟨את⟩ ang kaalam ni Shelomoh kag ang balay nga iya gintukod.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "kag nakita"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "sang reyna"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "sang Sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kaalam"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ang kaalam"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "kag ang balay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "iya gintukod"
+    }
+  ],
+  "timestamp": "2026-09-21T22:04:34.029678514Z",
+  "model": "glm-5.3"
+}

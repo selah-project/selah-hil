@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kag nagdamgo si Yosef sang isa ka damgo, kag ginsaysay niya ini sa iya mga utod, kag nagdugang pa gid sila sa pagkadumtan sa iya ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "Kag nagdamgo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "sang isa ka damgo"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "kag ginsaysay niya"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "sa iya mga utod"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "kag nagdugang pa gid sila"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa gid"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "sa pagkadumtan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:12:13.420339694Z",
+  "model": "glm-5.3"
+}

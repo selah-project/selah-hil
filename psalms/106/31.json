@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 106,
+  "translation": "Kag gin-isip ini sa iya nga pagkamatarong, sa tagsa ka kaliwatan kag kaliwatan tubotob sang dayon.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "gin-isip ini"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "nga pagkamatarong"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "sa kaliwatan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kag kaliwatan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubotob sang"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:08.868211065Z",
+  "model": "glm-5.3"
+}

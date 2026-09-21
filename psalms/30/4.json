@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Yahweh, ginpataas mo ang akon kalag gikan sa Sheol, ginpabuhi mo ako sa mga nagaugsad sa lungag.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "ginpataas mo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akon kalag"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "ginpabuhi mo ako"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "mga nagaugsad"
+    },
+    {
+      "surface": "בור",
+      "gloss": "sa lungag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:10.061156509Z",
+  "model": "glm-5.3"
+}

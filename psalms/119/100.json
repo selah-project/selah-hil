@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Labi ang akon pag-intiende kaysa sa mga tigulang, kay ang imo mga pagsugo gintipigan ko.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "kaysa sa mga tigulang"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "Labi ang akon pag-intiende"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ang imo mga pagsugo"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "gintipigan ko"
+    }
+  ],
+  "timestamp": "2026-09-21T20:50:06.613986164Z",
+  "model": "glm-5.3"
+}

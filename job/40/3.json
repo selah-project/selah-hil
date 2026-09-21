@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 40:3",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag ginsabat ni Iyov ⟨את⟩ si Yahweh kag nagsiling:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "kag ginsabat"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ni Iyov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    }
+  ],
+  "timestamp": "2026-09-21T21:18:03.035688337Z",
+  "model": "glm-5.3"
+}

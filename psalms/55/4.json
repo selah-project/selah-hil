@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 55,
+  "translation": "Tungod sang tingog sang manlalaban, tungod sang panglulupig sang malaot: kay ginapatumba nila ⟨sa akon⟩ sang kalapasan, kag sa kaakgut ginadumtan nila ako.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "tungod sang tingog"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "sang manlalaban"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tungod sang panglulupig"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "panglulupig"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sang malaot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "ginapatumba nila"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "און",
+      "gloss": "kalapasan"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "kag sa kaakgut"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "ginadumtan nila ako"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:13.092142560Z",
+  "model": "glm-5.3"
+}

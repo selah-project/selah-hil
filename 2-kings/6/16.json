@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag nagsiling siya: Indi ka magkahadlok, kay ang mga⟨ara⟩ kauban namon nga ⟨את⟩ madamo pa kaysa⟨sa⟩ mga⟨ara⟩ kauban nila nga ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag nagsiling siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ka magkahadlok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "madamo pa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang mga"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kauban namon"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "kaysa sa mga"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ kauban nila",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-09-21T18:41:48.524408838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Indi ka kumaon ⟨את⟩ sang tinapay sang tawo nga malaot ang mata, kag indi ka paghandum sang iya mga lami nga pagkaon.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "ka kumaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tinapay"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "רע",
+      "gloss": "malaot"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ka paghandum"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "sang iya mga lami nga pagkaon"
+    }
+  ],
+  "timestamp": "2026-09-21T21:02:41.332806534Z",
+  "model": "glm-5.3"
+}

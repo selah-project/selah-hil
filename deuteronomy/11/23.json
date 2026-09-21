@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 11:23",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "kag pagpatalsikun ni Yahweh ⟨את⟩ ang tanan sang mga pungsod ini sa atubangan ninyo, kag pagpanubli ninyo ang mga pungsod nga dako kag gamhanan labaw sa inyo.",
+  "tokens": [
+    {
+      "surface": "והוריש",
+      "gloss": "kag pagpatalsikun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan sang mga pungsod ini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "sang mga pungsod"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "sa atubangan ninyo"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "kag pagpanubli ninyo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ang mga pungsod"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "nga dako"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "kag gamhanan"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "labaw sa inyo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:22:02.151931626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 104,
+  "translation": "Ang ⟨nagapadala⟩ sang mga tubod sa mga bangbang; sa tunga sang mga bukid nagalakat sila.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "ang nagapadala"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "sang mga tubod"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "sa mga bangbang"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "sang mga bukid"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "nagalakat sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:48.514157621Z",
+  "model": "glm-5.3"
+}

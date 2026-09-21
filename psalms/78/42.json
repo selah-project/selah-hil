@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Wala nila mainumdoman ⟨את⟩ iya kamot, ang adlaw nga ginbawi niya sila sa kaaway.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "mainumdoman nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya kamot"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "iya kamot"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "ginbawi niya sila"
+    },
+    {
+      "surface": "מני",
+      "gloss": "sa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "kaaway"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:09.773891071Z",
+  "model": "glm-5.3"
+}

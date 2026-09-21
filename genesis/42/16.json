@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 42:16",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Padad-a ang isa sa inyo kag iya dad-on ⟨את⟩ ang iya utod, kag kamo pagabihagon, kag mapasulay ang inyo mga pulong kon ang kamatuoran ⟨את⟩ yara sa inyo; kag kon indi — buhi si Paro — mga maninilip gid kamo.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "padad-a"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "kag iya dad-on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya utod"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ang iya utod"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "kag kamo"
+    },
+    {
+      "surface": "האסרו",
+      "gloss": "pagabihagon"
+    },
+    {
+      "surface": "ויבחנו",
+      "gloss": "kag mapasulay"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "inyo mga pulong"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "ang kamatuoran"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yara sa inyo",
+      "marks": "sa inyo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "buhi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "si Paro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gid"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "mga maninilip"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:15:28.669241499Z",
+  "model": "glm-5.3"
+}

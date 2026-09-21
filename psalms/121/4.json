@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 121,
+  "translation": "Tan-awa: indi magakatuyog kag indi magakatulog ang Nagabantay sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "magakatuyog"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "magakatulog"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ang Nagabantay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T20:50:58.854331035Z",
+  "model": "glm-5.3"
+}

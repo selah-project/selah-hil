@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "kag ⟨את⟩ ang mga balay sang Yerushalayim ginbilang ninyo, kag ginpaguba ninyo ang mga balay sa pagpalig-on sang paril",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga balay"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ang mga balay"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sang Yerushalayim"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "ginbilang ninyo"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "kag ginpaguba ninyo"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "ang mga balay"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "sa pagpalig-on"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "sang paril"
+    }
+  ],
+  "timestamp": "2026-09-21T18:58:05.217037802Z",
+  "model": "glm-5.3"
+}

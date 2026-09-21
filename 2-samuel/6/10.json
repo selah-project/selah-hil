@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag indi nagkahandum si David nga kuhaon ang ⟨את⟩ Arka ni Yahweh ngadto sa iya, sa ciudad ni David; gindiin gani ni David ini sa balay ni Oved-Edom nga taga-Gat.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "nagkahandum"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "nga kuhaon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ngadto sa iya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Arka ni Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Arka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ciudad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "gindiin gani"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ni Oved"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "-Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "nga taga-Gat"
+    }
+  ],
+  "timestamp": "2026-09-21T18:15:52.800598302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 135,
+  "translation": "Mga igong may sila, apang indi sila mamati; ilong — wala sing ginhawa sa ila baba.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "mga igong"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "mamati"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ilong"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יש",
+      "gloss": "sing"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ginhawa"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "sa ila baba"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:05.076911720Z",
+  "model": "glm-5.3"
+}

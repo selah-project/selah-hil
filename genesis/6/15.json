@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag amo ini ang imo himoon ⟨את⟩ ini: tatlo ka gatos ka soko ang kadugayan sang sakong, lima ka pulo ka soko ang kalapadon sini, kag tatlo ka pulo ka soko ang kataason sini.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Kag amo ini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "imo himoon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ini — ang sakong"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tatlo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ka soko"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ang kadugayan"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "sang sakong"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima ka pulo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ka soko"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "ang kalapadon sini"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "kag tatlo ka pulo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ka soko"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "ang kataason sini"
+    }
+  ],
+  "timestamp": "2026-09-21T15:58:00.153801383Z",
+  "model": "glm-5.3"
+}

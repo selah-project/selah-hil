@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-kings 23:34",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag ginpahari sang Paro-Nekoh ⟨את⟩ si Elyakim nga anak ni Yoshiyahu sing bayad kay Yoshiyahu nga iya amay, kag gin-ilisan niya ⟨את⟩ ang iya ngalan — Yehoyakim; kag ⟨את⟩ si Yehoahaz gindala niya kag nagkadto sa Mitsrayim kag namatay didto.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "ginpahari"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "נכה",
+      "gloss": "Nekoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Elyakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "si Elyakim"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "ni Yoshiyahu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sing bayad"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "kay Yoshiyahu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nga iya amay"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "kag gin-ilisan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya ngalan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang iya ngalan"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Yehoahaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "si Yehoahaz"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "gindala niya"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kag nagkadto"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kag namatay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    }
+  ],
+  "timestamp": "2026-09-21T18:51:42.301101272Z",
+  "model": "glm-5.3"
+}

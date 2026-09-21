@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "kag wala maghatag si Yahweh sa inyo sing kasing-kasing sa pagkilala, kag sing mga mata sa pagtan-aw, kag sing mga dalunggan sa pagpamati, tubtob sa subong nga adlaw.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "maghatag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sing kasing-kasing"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "sa pagkilala"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "kag sing mga mata"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "sa pagtan-aw"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "kag sing mga dalunggan"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "sa pagpamati"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "היום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "subong"
+    }
+  ],
+  "timestamp": "2026-09-21T17:31:40.886059744Z",
+  "model": "glm-5.3"
+}

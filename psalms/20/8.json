@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Ang iban ⟨nagaplagyo⟩ sa mga karosa kag ang iban sa mga kabayo, apang kami sa ngalan ni Yahweh nga Elohim namon magatawag ⟨sini⟩.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ang iban"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "sa mga karosa"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "kag ang iban"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "sa mga kabayo"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "apang kami"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nga Elohim namon"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "magatawag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:09.725073146Z",
+  "model": "glm-5.3"
+}

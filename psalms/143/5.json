@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 143,
+  "translation": "Ginpanumduman ko ang mga adlaw sang una; nagapamalandong ako sa tanan nga imo mga ginahimo; sa mga buhat sang imo mga kamot nagahunahuna ako.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "ginpanumduman ko"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ang mga adlaw"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "sang una"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "nagapamalandong ako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "nga imo mga ginahimo"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "sa mga buhat"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "sang imo mga kamot"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "nagahunahuna ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:41.574573798Z",
+  "model": "glm-5.3"
+}

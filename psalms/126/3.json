@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 126,
+  "translation": "Gindako ni Yahweh ang pagbuhat kauban namon; nangin kami malipayon.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "Gindako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ang pagbuhat"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "kauban namon"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "nangin kami"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "malipayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:56.526349293Z",
+  "model": "glm-5.3"
+}

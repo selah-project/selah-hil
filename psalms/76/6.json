@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 76,
+  "translation": "Ginpanulas ang mga kusgan sang kasingkasing, nagtulog ang ila tulog, kag wala makita sang tanan nga mga tawo sang kusog ang ila mga kamot.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "ginpanulas"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "ang mga kusgan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sang kasingkasing"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "nagtulog"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "ang ila tulog"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "makita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tanan nga"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sang kusog"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ang ila mga kamot"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:15.209594607Z",
+  "model": "glm-5.3"
+}

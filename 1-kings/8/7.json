@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 8:7",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kay ang mga Kerub nagapalapad sang mga pako sa duog sang Arka, kag ang mga Kerub nagtabon sang Arka kag sang iya mga bad-ay sa ibabaw.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "ang mga Kerub"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "nagapalapad"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "sang mga pako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "duog"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sang Arka"
+    },
+    {
+      "surface": "ויסכו",
+      "gloss": "kag nagtabon"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "ang mga Kerub"
+    },
+    {
+      "surface": "על",
+      "gloss": "sang"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "Arka"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sang"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "iya mga bad-ay"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "sa ibabaw"
+    }
+  ],
+  "timestamp": "2026-09-21T18:30:30.710515681Z",
+  "model": "glm-5.3"
+}

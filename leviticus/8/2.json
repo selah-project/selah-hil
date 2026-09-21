@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kuhaa si Aharon kag ⟨את⟩ ang iya mga anak nga lalaki ⟨את⟩ kaupod niya, kag ⟨את⟩ ang mga bado, kag ⟨את⟩ ang lana sang paglahid, kag ⟨את⟩ ang baka sang halad sa sala, kag ⟨את⟩ ang duha ka karnero, kag ⟨את⟩ ang bakol sang mga tinapay nga wala sing lebadura,",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Kuhaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya mga anak nga lalaki"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ang iya mga anak nga lalaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kaupod niya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga bado"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "ang mga bado"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang lana"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ang lana"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "sang paglahid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang baka"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ang baka"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "sang halad sa sala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang duha ka karnero"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "ka karnero"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang bakol"
+    },
+    {
+      "surface": "סל",
+      "gloss": "ang bakol"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "sang mga tinapay nga wala sing lebadura"
+    }
+  ],
+  "timestamp": "2026-09-21T16:44:47.491500647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ginkuha niya ⟨את⟩ tanan nga mantika nga ara sa sulod sang tiyan, kag ⟨את⟩ ang yoteret sang atay, kag ⟨את⟩ ang duha ka batkon-kidney kag ⟨את⟩ ang ila mantika; kag ginpasingdan ni Moshe ang tanan sa halaran.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kag ginkuha niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mantika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "nga mantika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "sulod sang tiyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang yoteret sang atay"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "yoteret"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "sang atay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang duha ka batkon-kidney"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duha"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ka batkon-kidney"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang ila mantika"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "ila mantika"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ginpasingdan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa halaran"
+    }
+  ],
+  "timestamp": "2026-09-21T16:46:16.941847888Z",
+  "model": "glm-5.3"
+}

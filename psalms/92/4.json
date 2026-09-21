@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 92,
+  "translation": "Sa senseryo sang napulo ka hugot kag sa nabel, sa higayon kaupod sang kinor.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "Sa"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "senseryo sang napulo ka hugot"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nabel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "higayon"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kaupod sang kinor"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:56.547851485Z",
+  "model": "glm-5.3"
+}

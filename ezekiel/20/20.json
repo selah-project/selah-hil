@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 20:20",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag ⟨את⟩ ang akon mga adlaw sang pagpahuway paghinoboon ninyo, kag magauntat ini nga tanda tali sa akon kag tali sa inyo, agod makila ninyo nga ako si Yahweh ang inyo Elohim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang akon mga adlaw sang pagpahuway"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "ang akon mga adlaw sang pagpahuway"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "paghinoboon ninyo"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kag magauntat ini"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "nga tanda"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tali sa akon"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "kag tali sa inyo"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "agod makila ninyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ang inyo Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T19:48:52.903329745Z",
+  "model": "glm-5.3"
+}

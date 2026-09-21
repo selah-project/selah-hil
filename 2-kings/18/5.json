@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 18:5",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Sa Yahweh, sang Elohim sang Yisrael, ⟨siya⟩ nagtiklos, kag kahuman sa iya wala sing pareho sa iya sa tanan nga mga hari sang Yehudah, kag sa mga nagligad antes sa iya.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "sa Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "nagtiklos"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "kahuman sa iya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨may⟩"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "sing pareho sa iya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "nga mga hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kag sa mga"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nga nagligad"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "antes sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T18:46:46.390948864Z",
+  "model": "glm-5.3"
+}

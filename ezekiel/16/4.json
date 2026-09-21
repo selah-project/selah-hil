@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 16:4",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag sa imo pagkatawo, sa adlaw nga natawo ⟨את⟩ ikaw, wala gintapnos ang imo pusod, kag sa tubig wala ka ginhugas agod malinis, kag sa asin wala ka gintino-an, kag sa pagpulos sang binalun wala ka ginpulos.",
+  "tokens": [
+    {
+      "surface": "ומולדותיך",
+      "gloss": "Kag sa imo pagkatawo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ikaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "gintapnos"
+    },
+    {
+      "surface": "שרך",
+      "gloss": "imo pusod"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "kag sa tubig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "ginhugas"
+    },
+    {
+      "surface": "למשעי",
+      "gloss": "agod malinis"
+    },
+    {
+      "surface": "והמלח",
+      "gloss": "kag sa asin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "המלחת",
+      "gloss": "gintino-an"
+    },
+    {
+      "surface": "והחתל",
+      "gloss": "kag sa pagpulos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "חתלת",
+      "gloss": "ginpulos"
+    }
+  ],
+  "timestamp": "2026-09-21T19:45:50.914850387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Bato kag bato, efa kag efa — kasilo ini kay Yahweh, bisan ang duha ka.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "Bato"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "kag bato"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "kag efa"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "kasilo ini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ang duha ka"
+    }
+  ],
+  "timestamp": "2026-09-21T21:01:08.285582034Z",
+  "model": "glm-5.3"
+}

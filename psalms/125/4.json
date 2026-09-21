@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 125,
+  "translation": "Himoa ang maayo, Yahweh, sa mga maayo, kag sa mga matarong sa ila mga tagipusuon.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Himoa ang maayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "sa mga maayo"
+    },
+    {
+      "surface": "וילישרים",
+      "gloss": "kag sa mga matarong"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "sa ila mga tagipusuon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:09.581428930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 32:30",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Kag kon indi sila magtabok ⟨את⟩ kaupod ninyo nga mga armado, magapanag-iya sila sa tunga ninyo sa duta sang Kanaan.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kag kon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "magtabok sila"
+    },
+    {
+      "surface": "חלוצים",
+      "gloss": "nga mga armado"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaupod ninyo",
+      "marks": "kaupod ninyo"
+    },
+    {
+      "surface": "ונאחזו",
+      "gloss": "magapanag-iya sila"
+    },
+    {
+      "surface": "בתככם",
+      "gloss": "sa tunga ninyo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "sang Kanaan"
+    }
+  ],
+  "timestamp": "2026-09-21T17:15:02.197867502Z",
+  "model": "glm-5.3"
+}

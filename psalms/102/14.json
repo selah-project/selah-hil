@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 102,
+  "translation": "Ikaw magabangon, magakaluluoy sa Tsiyon, kay tion na ⟨ang⟩ pagkahaboy sa iya, kay nag-abot na ang gintagna nga tion.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "magabangon"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "magakaluluoy"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tion"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "ang pagkahaboy sa iya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nag-abot"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "gintagna nga tion"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:15.956838877Z",
+  "model": "glm-5.3"
+}

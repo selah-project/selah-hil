@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag isulat sang pari ⟨את⟩ ining mga tunglo sa sulatan, kag papanawan niya ang mga ini ngadto sa mapait nga mga tubig.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "kag isulat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ining mga tunglo"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "ang mga tunglo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ining"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang pari"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "sa sulatan"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "kag papanawan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mga tubig"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "nga mapait"
+    }
+  ],
+  "timestamp": "2026-09-21T17:00:54.365716110Z",
+  "model": "glm-5.3"
+}

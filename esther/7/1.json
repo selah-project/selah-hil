@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag nagkadto ang hari kag si Haman sa ⟨pag-inom⟩ kaupod ni Ester nga reyna.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "nagkadto"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "kag si Haman"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "sa pag-inom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "reyna"
+    }
+  ],
+  "timestamp": "2026-09-21T21:31:21.788705957Z",
+  "model": "glm-5.3"
+}

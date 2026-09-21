@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 94,
+  "translation": "Ang nagtanom sang dalogan, indi bala sia magadungog? Ang naghimo sang mata, indi bala sia magatan-aw?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "ang nagtanom"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "sang dalogan"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "indi bala"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "magadungog"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ang"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "naghimo"
+    },
+    {
+      "surface": "עין",
+      "gloss": "sang mata"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "indi bala"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "magatan-aw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:11.548997189Z",
+  "model": "glm-5.3"
+}

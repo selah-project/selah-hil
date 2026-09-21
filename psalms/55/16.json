@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 55,
+  "translation": "Mag-abot ang mga pagkaguol sa ila, magpanaw sila sa Sheol nga buhi pa, kay kalaot ara sa ila puluy-anan, sa tunga sang ila kaugalingon.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "mga pagkaguol"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "magpanaw sila"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "sa Sheol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nga buhi pa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "kalaot"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "sa ila puluy-anan"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "sa tunga sang ila kaugalingon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:36.022473505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 8:6",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kay tikang sa Yisrael ⟨ini⟩; ang panday ang naghimo sini, kag indi ⟨ini⟩ dios; kay sa mga piniraso magaangkat ang baka sang Shomeron.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "tikang sa Yisrael"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "⟨ini⟩"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ang panday"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "ang naghimo sini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dios"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ini⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שבבים",
+      "gloss": "sa mga piniraso"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magaangkat"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "ang baka"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "sang Shomeron"
+    }
+  ],
+  "timestamp": "2026-09-21T20:07:12.253164493Z",
+  "model": "glm-5.3"
+}

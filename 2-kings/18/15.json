@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag ginhatag ni Hizkiyah ⟨את⟩ ang tanan nga plata nga nakita sa balay ni Yahweh kag sa mga bilotan sang balay sang hari.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Kag ginhatag"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "ni Hizkiyah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga plata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "nga plata"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "nga nakita"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "kag sa mga bilotan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    }
+  ],
+  "timestamp": "2026-09-21T18:47:08.987676916Z",
+  "model": "glm-5.3"
+}

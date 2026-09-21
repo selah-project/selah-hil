@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Gani naglakat siya kag nagkuha ⟨את⟩ kay Gomer nga anak nga babaye ni Divlaim, kag nagdugo siya kag natawo sa iya sang isa ka anak nga lalaki.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Gani naglakat siya"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "kag nagkuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Gomer"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nga anak nga babaye"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "ni Divlaim"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "kag nagdugo siya"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "kag natawo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sang isa ka anak nga lalaki"
+    }
+  ],
+  "timestamp": "2026-09-21T20:04:43.738100543Z",
+  "model": "glm-5.3"
+}

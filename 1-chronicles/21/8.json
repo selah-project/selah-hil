@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 21:8",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag nagsiling si David sa Elohim: Nakasala ako sing labi sang ginbuhat ko ⟨את⟩ ining butang; kag subong, palihog ipalagyod ⟨ang⟩ daotan sang imo sulugoon, kay nagbuangbuang ako sing labi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nakasala ako"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sing labi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sang"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ginbuhat ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ining butang"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang butang"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "kag subong"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "ipalagyod"
+    },
+    {
+      "surface": "נא",
+      "gloss": "palihog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang daotan"
+    },
+    {
+      "surface": "עוון",
+      "gloss": "daotan"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sang imo sulugoon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נסכלתי",
+      "gloss": "nagbuangbuang ako"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sing labi"
+    }
+  ],
+  "timestamp": "2026-09-21T21:56:45.935402781Z",
+  "model": "glm-5.3"
+}

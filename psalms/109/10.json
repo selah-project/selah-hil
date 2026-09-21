@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 109,
+  "translation": "Kag padayon nga magapamanaw ang iya mga anak, kag mangayo sila, kag pangitaon nila <ang ila kinahanglan> sa ila mga naguba nga balay.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "kag padayon"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "magapamanaw"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ang iya mga anak"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "kag mangayo sila"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "kag pangitaon nila"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "sa ila mga naguba nga balay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:50.978064136Z",
+  "model": "glm-5.3"
+}

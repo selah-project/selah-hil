@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "kag ⟨את⟩ ang anak nga babae sang yaanah, kag ⟨את⟩ ang tachmas, kag ⟨את⟩ ang shachaf, kag ⟨את⟩ ang banog, sang iya matang",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang anak nga babae sang yaanah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babae"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "sang yaanah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tachmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "ang tachmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang shachaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "ang shachaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang banog"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "ang banog"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "sang iya matang"
+    }
+  ],
+  "timestamp": "2026-09-21T17:23:18.407964293Z",
+  "model": "glm-5.3"
+}

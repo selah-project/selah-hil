@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 3:11",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag pagasunogon ini sang pari sa halaran — pagkaon sang halad sa kalayo kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "pagasunogon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang pari"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa halaran"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pagkaon"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sang halad sa kalayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:41:27.916182869Z",
+  "model": "glm-5.3"
+}

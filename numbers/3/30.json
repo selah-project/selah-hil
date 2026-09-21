@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 3:30",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ang pangulo sang balay sang amay sang mga banay sang mga Kehhati ⟨amo⟩ si Elitsafan, anak ni Uzziel.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "kag ang pangulo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "אב",
+      "gloss": "sang amay"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "sang mga banay"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "sang mga Kehhati"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "si Elitsafan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "ni Uzziel"
+    }
+  ],
+  "timestamp": "2026-09-21T16:59:22.162286388Z",
+  "model": "glm-5.3"
+}

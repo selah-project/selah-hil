@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag gintindog ko man ⟨את⟩ ang akon kasugtanan ⟨את⟩ kanila, sa paghatag sa ila sang ⟨את⟩ ang duta sang Kenaan, ⟨את⟩ ang duta sang ila pagpangdayo, diin sila nagpangdayo.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Kag man"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "gintindog ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon kasugtanan"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ang akon kasugtanan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ kanila"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sa paghatag"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta sang Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "sang Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta sang ila pagpangdayo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "sang ila pagpangdayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "nagpangdayo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sila"
+    }
+  ],
+  "timestamp": "2026-09-21T16:21:54.478320621Z",
+  "model": "glm-5.3"
+}

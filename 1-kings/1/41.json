@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 1:41",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nabatian ni Adoniyahu kag sang tanan nga mga gintawag nga ⟨אתו⟩ ka iya samtang sila nakatapos na sa pagkaon, kag nabatian ni Yoav ⟨את⟩ ang tingog sang sungpan, kag nagsiling siya: Ngaa ang tingog sang ciudad nagahuni?",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "kag nabatian"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "si Adoniyahu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag sang tanan"
+    },
+    {
+      "surface": "הקראים",
+      "gloss": "mga gintawag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "iya (ka iya)"
+    },
+    {
+      "surface": "והם",
+      "gloss": "kag sila"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "nakatapos na"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "sa pagkaon"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "kag nabatian"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "si Yoav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tingog"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "sang sungpan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Ngaa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "הקריה",
+      "gloss": "sang ciudad"
+    },
+    {
+      "surface": "הומה",
+      "gloss": "nagahuni"
+    }
+  ],
+  "timestamp": "2026-09-21T18:26:10.887884603Z",
+  "model": "glm-5.3"
+}

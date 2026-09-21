@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Nahibalo ako nga imo nga makaya ang tanan, kag wala sing plano nga mapunggan gikan sa imo.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Nahibalo ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "imo nga makaya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "mapunggan"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "gikan sa imo"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "sing plano"
+    }
+  ],
+  "timestamp": "2026-09-21T21:18:57.081665134Z",
+  "model": "glm-5.3"
+}

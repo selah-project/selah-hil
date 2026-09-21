@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 104,
+  "translation": "Nabusog ang mga kahoy ni Yahweh, mga sedro sang Levanon, nga iya gintanom;",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "nabusog"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ang mga kahoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "mga sedro"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "sang Levanon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "gintanom"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:36.107727111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 132,
+  "translation": "Tindog ka, Yahweh, pakadto sa imo puluy-an sang kapoy, ikaw kag ang kahon sang imo kusog.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Tindog ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "pakadto sa imo puluy-an sang kapoy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "kag ang kahon"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "sang imo kusog"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:37.088285936Z",
+  "model": "glm-5.3"
+}

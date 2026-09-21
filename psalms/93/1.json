@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 93,
+  "translation": "Naghari si Yahweh, nagbisti ⟨siya⟩ sang katahum; nagbisti si Yahweh sang kusog, nagpulos ⟨siya⟩ sini; gani napatindog ⟨ang⟩ kalibutan, indi ini magakuyup.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "katahum"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "nagbisti"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "nagbisti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kusog"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "nagpulos"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gani"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "napatindog"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "kalibutan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "magakuyup"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:18.219823997Z",
+  "model": "glm-5.3"
+}

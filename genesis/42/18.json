@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 42:18",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Kag nagsiling si Yosef sa ila sa ikatlo nga adlaw: Buhata ninyo ina kag mabuhi kamo; kay ⟨את⟩ si Elohim ako ginakahadlukan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nagsiling"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "sa ikatlo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ina"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "buhata ninyo"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "kag mabuhi kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ginakahadlukan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:15:37.398908672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag nadugangan pa ang ako ni Yahweh sa pagkalagryo batok sa Yisrael, kag ginpukaw ni Yahweh ⟨את⟩ si David batok sa ila, nga nagaingon: Lakat kamo, ihap ⟨את⟩ ang Yisrael kag ⟨את⟩ ang Yehudah.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "Kag nadugangan pa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ang ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "sa pagkalagryo"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "batok sa Yisrael"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "ginpukaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "batok sa ila"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Lakat"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "ihap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-21T18:25:31.600152583Z",
+  "model": "glm-5.3"
+}

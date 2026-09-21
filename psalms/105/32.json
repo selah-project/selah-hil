@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Ginhatag niya ang ila mga ulan nga bárad, kalayo nga malaad sa ila duta.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Ginhatag niya"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "ang ila mga ulan"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "nga bárad"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kalayo"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "nga malaad"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "sa ila duta"
+    }
+  ],
+  "timestamp": "2026-09-21T22:40:46.700555090Z",
+  "model": "glm-5.3"
+}

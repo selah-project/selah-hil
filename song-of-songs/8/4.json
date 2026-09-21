@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Ginpanumpahan ko kamo ⟨אתכם⟩, mga anak nga babae sang Yerushalayim: ngaa bantuyon kag ngaa pagan-ahon ninyo ⟨את⟩ ang gugma, hangtod nga iya luy-i?",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Ginpanumpahan ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo",
+      "marks": "mga anak nga babae sang Yerushalayim"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "mga anak nga babae"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sang Yerushalayim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "bantuyon ninyo"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "kag ngaa"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "pagan-ahon ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang gugma"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "ang gugma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "nga iya luy-i"
+    }
+  ],
+  "timestamp": "2026-09-21T21:20:56.952743873Z",
+  "model": "glm-5.3"
+}

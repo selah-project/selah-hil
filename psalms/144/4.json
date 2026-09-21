@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 144,
+  "translation": "Ang tawo pareho sang hungaw; ang iya mga adlaw pareho sang anino nga nagaagi.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "sang hungaw"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "pareho"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ang iya mga adlaw"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "pareho sang anino"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "nga nagaagi"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:39.742297541Z",
+  "model": "glm-5.3"
+}

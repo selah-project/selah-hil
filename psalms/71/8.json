@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 71,
+  "translation": "Mapunu ang akon baba sang imo pagdayaw, sa bug-os nga adlaw sang imo gayak.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "mapunu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ang akon baba"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "sang imo pagdayaw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa bug-os"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nga adlaw"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "sang imo gayak"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:01.100253583Z",
+  "model": "glm-5.3"
+}

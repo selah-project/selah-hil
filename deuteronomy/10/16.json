@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag putuli ninyo ⟨את⟩ ang obalasyon sang inyo kasingkasing, kag ang inyo liog indi ninyo pagbatig-a pa.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "Kag putuli ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang obalasyon sang inyo kasingkasing"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "obalasyon"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "sang inyo kasingkasing"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "kag ang inyo liog"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "ninyo pagbatig-a"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    }
+  ],
+  "timestamp": "2026-09-21T17:21:02.152548219Z",
+  "model": "glm-5.3"
+}

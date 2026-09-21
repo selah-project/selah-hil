@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag makail-il gid sila sa inyo; ang ila unod indi ninyo kaonon, kag ⟨את⟩ ang ila bangkay kaloton ninyo.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "kag makail-il gid"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "magakabay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "ang ila unod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kaonon ninyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang ila bangkay"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "ila bangkay"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "kaloton ninyo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:45:23.578979435Z",
+  "model": "glm-5.3"
+}

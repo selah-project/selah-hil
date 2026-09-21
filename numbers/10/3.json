@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag kon itunog nila ini, magatipon ang tanan nga katilingban sa imo, sa ganghaan sang balay-kalingkingan sang pagkitakita.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "kag kon itunog"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "nila ini"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "magatipon"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "katilingban"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ganghaan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sang balay-kalingkingan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang pagkitakita"
+    }
+  ],
+  "timestamp": "2026-09-21T17:03:05.570730596Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 3:21",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag sang magabun-ag nagtindog ako sa pagpasuso ⟨kay⟩ ⟨את⟩ sang akon anak, kag yari — patay; kag sang gin-agap-agi ko siya sang aga, kag yari — ang akon anak nga akon ginpanganak wala na.",
+  "tokens": [
+    {
+      "surface": "ואקם",
+      "gloss": "nagtindog ako"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sang magabun-ag"
+    },
+    {
+      "surface": "להיניק",
+      "gloss": "sa pagpasuso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang akon anak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sang akon anak"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kag yari"
+    },
+    {
+      "surface": "מת",
+      "gloss": "patay"
+    },
+    {
+      "surface": "ואתבונן",
+      "gloss": "gin-agap-agi ko"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sang aga"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kag yari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala na"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang akon anak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "akon ginpanganak"
+    }
+  ],
+  "timestamp": "2026-09-21T18:26:37.467866704Z",
+  "model": "glm-5.3"
+}

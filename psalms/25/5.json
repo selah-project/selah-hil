@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Dul-a ako sa imo kamatuoran kag tudloi ako, kay ikaw ang Elohim sang akon pagluwas; sa imo ⟨את⟩ nagapaabot ako sa tanan nga adlaw.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Dul-a ako"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "sa imo kamatuoran"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "kag tudloi ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "sang akon pagluwas"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "sa imo"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "nagapaabot ako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:46.800683616Z",
+  "model": "glm-5.3"
+}

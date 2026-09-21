@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag nagsiling si Moshe: Maglikaw ako ⟨karon⟩ kag makita ko ⟨את⟩ ang dako kag dako nga pakita nga ini — ngaa wala magadabadaba ang lamwan?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag nagsiling"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "Maglikaw ako"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨karon⟩"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "kag makita ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dako kag dako nga pakita"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "pakita"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "dako kag dako"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "magadabadaba"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "ang lamwan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:20:11.014968492Z",
+  "model": "glm-5.3"
+}

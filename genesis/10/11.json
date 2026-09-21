@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Gikan sa duta nga ina naggwa si Ashur, kag nagtindog ⟨את⟩ sang Ninweh kag ⟨את⟩ sang Rehovot-Ir kag ⟨את⟩ sang Kelakh.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "gikan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nga ina"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "naggwa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "kag nagtindog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninweh"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Rehovot-Ir"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rehovot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "dakbanwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Kelakh"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kelakh"
+    }
+  ],
+  "timestamp": "2026-09-21T22:16:39.638057880Z",
+  "model": "glm-5.3"
+}

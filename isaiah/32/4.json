@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Kag ang kasing-kasing sang mga padali magakasabot sa pagkahibalo, kag ang dila sang mga panulabid magadali sa paghambal sing tin-aw.",
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "Kag ang kasing-kasing"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "sang mga padali"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "magakasabot"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "sa pagkahibalo"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "kag ang dila"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "sang mga panulabid"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "magadali"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "sa paghambal"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "sing tin-aw"
+    }
+  ],
+  "timestamp": "2026-09-21T19:01:33.057976227Z",
+  "model": "glm-5.3"
+}

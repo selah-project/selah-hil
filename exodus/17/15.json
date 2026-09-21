@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag nagpatindog si Moshe sing halaran, kag ginngalanan niya ini nga Yahweh-Nissi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "kag nagpatindog"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sing halaran"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kag ginngalanan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nga ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nissi"
+    }
+  ],
+  "timestamp": "2026-09-21T16:27:14.943935650Z",
+  "model": "glm-5.3"
+}

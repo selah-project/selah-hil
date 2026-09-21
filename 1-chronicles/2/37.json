@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "kag si Zabad natawo-an ⟨את⟩ si Eplal, kag si Eplal natawo-an ⟨את⟩ si Oved",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "kag si Zabad"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Eplal"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "si Eplal"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "kag si Eplal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "si Oved"
+    }
+  ],
+  "timestamp": "2026-09-21T21:49:05.240654428Z",
+  "model": "glm-5.3"
+}

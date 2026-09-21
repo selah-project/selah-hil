@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Nauga ang hilamon, natibulong ang bulak, kay ang hangin ni Yahweh naghuyop dayon. Amo gid, hilamon ang katawhan.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "nauga"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ang hilamon"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "natibulong"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "ang bulak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ang hangin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "naghuyop"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dayon"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "amo gid"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "hilamon"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    }
+  ],
+  "timestamp": "2026-09-21T19:05:49.031803049Z",
+  "model": "glm-5.3"
+}

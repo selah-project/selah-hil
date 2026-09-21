@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag kon magpuyo ang isa ka dumuluong ⟨אתך⟩ sa inyo nga duta, indi ninyo pag-abusohan ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Kag kon"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "magpuyo ang"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩",
+      "marks": "sa inyo (kaninyo)"
+    },
+    {
+      "surface": "גר",
+      "gloss": "isa ka dumuluong"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "sa inyo nga duta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "pag-abusohan ninyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ang dumuluong (siya)"
+    }
+  ],
+  "timestamp": "2026-09-21T16:52:12.463948762Z",
+  "model": "glm-5.3"
+}

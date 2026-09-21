@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 12:5",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag nagbunos siya sa manogdala kag nakadaog siya; nagpananglud siya kag nagpangamuyo sa iya; sa Bet-El makita niya siya, kag didto magahambal siya ⟨sa aton⟩.",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "kag nagbunos siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "manogdala"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "kag nakadaog siya"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "nagpananglud siya"
+    },
+    {
+      "surface": "ויתחנן",
+      "gloss": "kag nagpangamuyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "makita niya siya"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "kag didto"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "maghambal siya"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "sa aton"
+    }
+  ],
+  "timestamp": "2026-09-21T20:06:06.967966789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 4:8",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag ila iwatwat sa ibabaw nila ang palid nga pula sang tolaat-shani, kag ila tabonan ⟨את⟩ ini sang tabon nga panit sang takash, kag ila ibutang ⟨את⟩ ang iya mga barasan.",
+  "tokens": [
+    {
+      "surface": "ופרשו",
+      "gloss": "kag ila iwatwat"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa ibabaw nila"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ang palid"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "sang tolaat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "shani"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "kag ila tabonan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ini",
+      "marks": "ini — ang lamesa kag ang tanan nga butang sa ibabaw sini"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "sang tabon"
+    },
+    {
+      "surface": "עור",
+      "gloss": "panit"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "takash"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "kag ila ibutang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya mga barasan"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ang iya mga barasan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:59:19.020569107Z",
+  "model": "glm-5.3"
+}

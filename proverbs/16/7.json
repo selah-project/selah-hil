@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kon nakalilipay kay Yahweh ang mga dalan sang tawo, bisan ang iya mga kaaway pinaagi kay Yahweh magakabuhi sa pakigdait ⟨את⟩ kaniya.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "Kon nakalilipay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ang mga dalan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "ang iya mga kaaway"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "magakabuhi sa pakigdait"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kaniya",
+      "marks": "kaniya (ang tawo nga iya kaaway nagakabuhi kaupod)"
+    }
+  ],
+  "timestamp": "2026-09-21T20:59:53.798976442Z",
+  "model": "glm-5.3"
+}

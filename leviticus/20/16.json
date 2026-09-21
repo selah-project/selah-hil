@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag ang babae nga magpalapit sa bisan ano nga sapat agud himlayan niya ⟨את⟩ ina, patyon mo ang ⟨את⟩ babae kag ⟨את⟩ ang sapat; kamatayon sila pagakamatuoran; ang ila dugo ⟨ara⟩ sa ila.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "kag ang babae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "magpalapit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bisan ano nga"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "sapat"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "agud himlayan niya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ina (ang sapat)"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "kag patyon mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang babae"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ang babae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang sapat"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ang sapat"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayon"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "pagakamatuoran"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ang ila dugo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T16:53:34.045795667Z",
+  "model": "glm-5.3"
+}

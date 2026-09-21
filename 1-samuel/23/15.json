@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag nakita ni David nga naggwa si Shaul sa pagpangita ⟨את⟩ sang iya kabuhi; kag si David ⟨ara⟩ sa kawad-an sang Zif, sa kakahuyan.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Kag nakita"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "naggwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "sa pagpangita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang iya kabuhi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sang iya kabuhi"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "kag si David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kawad-an"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "sang Zif"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "sa kakahuyan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:07:46.340430864Z",
+  "model": "glm-5.3"
+}

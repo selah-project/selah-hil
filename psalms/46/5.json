@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 46,
+  "translation": "May isa ka suba — ang iya mga sapa nagapalipay sang dakbanwa sang Elohim, sa balaan nga mga Mishkan sang Elyon.",
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "suba"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "ang iya mga sapa"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "nagapalipay"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "dakbanwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "mga Mishkan"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:22.083080116Z",
+  "model": "glm-5.3"
+}

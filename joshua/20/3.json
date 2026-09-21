@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 20:3",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "agod magpalagto didto ang mananpat, ang nakapatay sang kalag sang wala sing tuyo kag sang wala sing kahibalo; kag magakabuhi ini sa inyo bilang pagdulungan sa manugbalos sang dugo.",
+  "tokens": [
+    {
+      "surface": "לנוס",
+      "gloss": "agod magpalagto"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "didto"
+    },
+    {
+      "surface": "רוצח",
+      "gloss": "ang mananpat"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ang nakapatay"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sang kalag"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "sang wala sing tuyo"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "sang wala"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kahibalo"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kag magakabuhi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "למקלט",
+      "gloss": "bilang pagdulungan"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "sa manugbalos"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sang dugo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:43:13.661964417Z",
+  "model": "glm-5.3"
+}

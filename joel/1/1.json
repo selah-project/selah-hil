@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Ang pulong ni Yahweh nga nangin ⟨kay⟩ Yoel, anak ni Pethuel.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nangin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yoel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "Pethuel"
+    }
+  ],
+  "timestamp": "2026-09-21T20:07:02.402668670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 72,
+  "translation": "Magaburak ang matarong sa iya mga adlaw, kag kadamo sang kalinong, tubtob sa kawalay sang bulan.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "magaburak"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "sa iya mga adlaw"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ang matarong"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "kag kadamo sang"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kalinong"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob sa"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "kawalay sang"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "bulan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:01.099553617Z",
+  "model": "glm-5.3"
+}

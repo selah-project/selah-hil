@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Ginbukas sang mga maraot ⟨ang⟩ sundang kag gintungan nila ang ila pana, sa pagpatumba sang mga imol kag mga timalos, sa pagpatay sa mga matarong sang dalan.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "sundang"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "ginbukas"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga maraot"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "kag gintungan"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "ila pana"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "sa pagpatumba"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mga imol"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "mga timalos"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "sa pagpatay"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "mga matarong"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dalan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:30:05.177029564Z",
+  "model": "glm-5.3"
+}

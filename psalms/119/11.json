@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Sulod sa akon kasingkasing gintago ko ang imo ginhambal, agod indi ako magpakasala sa imo.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "sulod sa akon kasingkasing"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "gintago ko"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ang imo ginhambal"
+    },
+    {
+      "surface": "למען",
+      "gloss": "agod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "ako magpakasala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:36.326697182Z",
+  "model": "glm-5.3"
+}

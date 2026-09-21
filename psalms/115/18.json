@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 115,
+  "translation": "Kag kami magapadungog kay Yah, subong kag hasta sa dayon; dayawa si Yah!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "kag kami"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "magapadungog"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kay Yah"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "subong"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag hasta sa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dayon"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "dayawa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "si Yah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:36.526643045Z",
+  "model": "glm-5.3"
+}

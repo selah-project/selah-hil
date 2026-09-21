@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "kag ⟨את⟩ ang pahumot kag ⟨את⟩ ang lana, para sa ilaw, kag para sa lana sang pagpahid, kag para sa halad nga pahumot sang mga samyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang pahumot"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "ang pahumot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang lana"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ang lana"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "para sa ilaw"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "kag para sa lana"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "sang pagpahid"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "kag para sa halad nga pahumot"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "sang mga samyo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:38:08.169561267Z",
+  "model": "glm-5.3"
+}

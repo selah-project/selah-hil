@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag ini amo ang Torah sang halad nga harina: ihalad ⟨את⟩ ini ang mga anak ni Aharon sa atubang ni Yahweh, sa atubang sang halaran.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "kag ini"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ang Torah"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "sang halad nga harina"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ihalad"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ini (ang halad nga harina)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubang ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "atubang"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sang halaran"
+    }
+  ],
+  "timestamp": "2026-09-21T16:43:26.867430829Z",
+  "model": "glm-5.3"
+}

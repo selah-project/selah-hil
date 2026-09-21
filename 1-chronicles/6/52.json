@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 6:52",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag ginhatag sa ila ⟨את⟩ ang mga ciudad sang pagpanikas: ⟨את⟩ ang Shekhem kag ⟨את⟩ ang iya mga kapatagan sa bukid sang Efrayim, kag ⟨את⟩ ang Gezer kag ⟨את⟩ ang iya mga kapatagan.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ginhatag"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga ciudad sang pagpanikas"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ang mga ciudad"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "sang pagpanikas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ang Shekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya mga kapatagan"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ang iya mga kapatagan"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "sang Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "ang Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya mga kapatagan"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ang iya mga kapatagan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:51:52.117215540Z",
+  "model": "glm-5.3"
+}

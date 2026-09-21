@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Isa ka kikar sang putli nga bulawan himoon ⟨את⟩ ini, kaupod ⟨את⟩ tanan sang mga kagamitan ini.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "isa ka kikar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "putli"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "himoon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ini (ang kandelarya)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan sang mga kagamitan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "mga kagamitan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-21T16:32:01.687335728Z",
+  "model": "glm-5.3"
+}

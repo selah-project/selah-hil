@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Ang bun-og ginadumtan sa iya mga mata, kag ⟨את⟩ ang mga nagakabalakalan kang Yahweh ginatahom; ang napanumpa sa pag-antos sang kala-ad kag indi na magilidan.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "bun-og"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "sa iya mga mata"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "ginadumtan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "mga nagakabalakalan kang Yahweh"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "mga nagakabalakalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "ginatahom"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "napanumpa"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "sa pag-antos sang kala-ad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "magilidan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:54.911516810Z",
+  "model": "glm-5.3"
+}

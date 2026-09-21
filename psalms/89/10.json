@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Ikaw ang nagadumala sa kagasm sang dagat; sa pagtindog sang iya mga balud, ikaw ang naghunong ⟨sanda⟩.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "nagadumala"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "sa kagasm"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sang dagat"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "sa pagtindog"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "sang iya mga balud"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "naghunong ⟨sanda⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:48.506864167Z",
+  "model": "glm-5.3"
+}

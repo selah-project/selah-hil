@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 45,
+  "translation": "Kag ginpagawas niya ⟨את⟩ ang iya tingog sa pagpananguhit, kag nabatian sang mga taga-Mitsrayim, kag nabatian man sang balay ni Paro.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "kag ginpagawas niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya tingog"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ang iya tingog"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "sa pagpananguhit"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "kag nabatian"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang mga taga-Mitsrayim"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "kag nabatian man"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    }
+  ],
+  "timestamp": "2026-09-21T16:17:23.146691219Z",
+  "model": "glm-5.3"
+}

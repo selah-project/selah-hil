@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 25:20",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "kag ⟨את⟩ ang tanan nga sinagol nga katawhan, kag ⟨את⟩ ang tanan nga mga hari sang duta sang Utz, kag ⟨את⟩ ang tanan nga mga hari sang duta sang mga Pelishteo, ⟨את⟩ Ashkelon kag ⟨את⟩ Azzah kag ⟨את⟩ Ekron, kag ⟨את⟩ ang salabtanan sang Ashdod.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga sinagol nga katawhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "nga sinagol nga katawhan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga mga hari sang duta sang Utz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "nga mga hari"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "העוץ",
+      "gloss": "sang Utz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga mga hari sang duta sang mga Pelishteo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "nga mga hari"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sang mga Pelishteo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Ashkelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Azzah"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Ekron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "salabtanan sang Ashdod"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "salabtanan"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "sang Ashdod"
+    }
+  ],
+  "timestamp": "2026-09-21T19:27:11.291002956Z",
+  "model": "glm-5.3"
+}

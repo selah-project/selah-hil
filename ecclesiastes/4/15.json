@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Nakita ko ⟨את⟩ tanan nga mga buhi nga nagalakat sa idalom sang adlaw, kaupod sang bata nga ikaduha, nga magatindog sa iya duog.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Nakita ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga buhi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "mga buhi"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "nagalakat"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa idalom"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sang adlaw"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "bata"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nga ikaduha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "magatindog"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sa iya duog"
+    }
+  ],
+  "timestamp": "2026-09-21T22:43:26.130649195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zephaniah 2:11",
+  "book": "zephaniah",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Makalilisang si Yahweh sa ila, kay ginpanihapon niya ⟨את⟩ tanan nga mga dios sang duta; kag magapanimok sila sa iya, tagsa sa iya kaugalingon nga duog, ang tanan nga mga isla sang mga pungsod.",
+  "tokens": [
+    {
+      "surface": "נורא",
+      "gloss": "makalilisang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רזה",
+      "gloss": "ginpanihapon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga dios sang duta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "nga mga dios"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "kag magapanimok sila"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tagsa"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "sa iya kaugalingon nga duog"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "איי",
+      "gloss": "nga mga isla"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "sang mga pungsod"
+    }
+  ],
+  "timestamp": "2026-09-21T20:16:43.782825571Z",
+  "model": "glm-5.3"
+}

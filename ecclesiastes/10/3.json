@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag bisan sa dalan, samtang nagalakat ang buang, ang iya kasing-kasing ⟨ara⟩ sa kulang, kag ginasiling niya sa tanan nga buang siya.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kag bisan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "samtang ang buang"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nagalakat"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "iya kasing-kasing"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "kulang"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "kag ginasiling niya"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "buang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-09-21T21:27:03.125075477Z",
+  "model": "glm-5.3"
+}

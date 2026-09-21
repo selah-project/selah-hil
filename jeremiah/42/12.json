@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "kag hatagan ko kamo sang kaluoy kag kaluoyon ko ⟨את⟩ kamo, kag pagabalikon ko ⟨את⟩ kamo sa inyo duta.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "kag hatagan ko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "sang kaluoy"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "kag kaluoyon ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo",
+      "marks": "kamo"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "kag pagabalikon ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo",
+      "marks": "kamo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "inyo duta"
+    }
+  ],
+  "timestamp": "2026-09-21T19:35:39.723667643Z",
+  "model": "glm-5.3"
+}

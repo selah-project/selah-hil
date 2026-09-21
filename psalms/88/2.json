@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 88,
+  "translation": "Yahweh, Elohim sang akon kaluwas, sa adlaw nagasinggit ako, sa gab-i ⟨sa atubang⟩ mo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim sang"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "akon kaluwas"
+    },
+    {
+      "surface": "יום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "nagasinggit ako"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "sa gab-i"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "⟨sa atubang⟩ mo"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:40.579720412Z",
+  "model": "glm-5.3"
+}

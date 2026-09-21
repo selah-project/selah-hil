@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Ang matarong indi gid matumba sa dayon, kag ang mga maraot indi magapuyo sang duta.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "ang matarong"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indi gid"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "matumba"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "kag ang mga maraot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "magapuyo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:58:01.786940226Z",
+  "model": "glm-5.3"
+}

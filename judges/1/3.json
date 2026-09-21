@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 1:3",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nagsiling si Yehudah kay Shim'on, iya utod: Saka ka ⟨ka⟩ ako sa akon bahin, kag makig-away kita sa mga Kenaanan; kag magakadto man ako ⟨ka⟩ imo sa imo bahin. Kag nagkadto ka niya si Shim'on.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "si Yehudah"
+    },
+    {
+      "surface": "לשמעון",
+      "gloss": "kay Shim'on"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iya utod"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "saka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ka ako",
+      "marks": "ka ako (si Yehudah)"
+    },
+    {
+      "surface": "בגורלי",
+      "gloss": "sa akon bahin"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "kag makig-away kita"
+    },
+    {
+      "surface": "בכנעני",
+      "gloss": "sa mga Kenaanan"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "kag magakadto"
+    },
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ka imo",
+      "marks": "ka imo (si Shim'on)"
+    },
+    {
+      "surface": "בגורלך",
+      "gloss": "sa imo bahin"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kag nagkadto"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ka niya",
+      "marks": "ka niya (si Shim'on kadto kay Yehudah)"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "si Shim'on"
+    }
+  ],
+  "timestamp": "2026-09-21T17:46:03.217009569Z",
+  "model": "glm-5.3"
+}

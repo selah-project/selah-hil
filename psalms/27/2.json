@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Sang magapalapit sa akon ang mga manginbad sa pagkaon sang ⟨את⟩ akon unod — ang akon mga magkulombi kag ang akon mgaaway — sila nagatis kag natumba.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "sang magapalapit"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ang mga manginbad"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "sa pagkaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akon unod"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "akon unod"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ang akon mga magkulombi"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "kag ang akon mgaaway"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "nagatis"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "kag natumba"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:44.612428166Z",
+  "model": "glm-5.3"
+}

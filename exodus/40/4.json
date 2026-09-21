@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag ihatod mo ⟨את⟩ ang lamesa kag ihanda mo ⟨את⟩ ang iya pagkahanda; kag ihatod mo ⟨את⟩ ang kandelabro kag isindi mo ⟨את⟩ ang iya mga lamparan.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Kag ihatod mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lamesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "lamesa"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "kag ihanda mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya pagkahanda"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "iya pagkahanda"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "kag ihatod mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kandelabro"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "kandelabro"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "kag isindi mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya mga lamparan"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "iya mga lamparan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:41:51.674610046Z",
+  "model": "glm-5.3"
+}

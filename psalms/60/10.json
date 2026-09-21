@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 60,
+  "translation": "Ang Moav ⟨amo⟩ ang kalaha sang akon pagpanghilimos; sa Edom itapuk ko ang akon sapin; sa akon, O Pleshet, magpalagsing ka.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "ang Moav"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "kalaha"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "sang akon pagpanghilimos"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "itapuk ko"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "ang akon sapin"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "O Pleshet"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "magpalagsing ka"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:44.225287458Z",
+  "model": "glm-5.3"
+}

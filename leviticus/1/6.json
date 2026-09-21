@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ibubukag niya ⟨את⟩ sang halad nga sinusunog, kag pagaduguon niya ini sa iya mga pedaso.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "kag ibubukag niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang halad nga sinusunog"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sang halad nga sinusunog"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "kag pagaduguon niya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ini"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "sa iya mga pedaso"
+    }
+  ],
+  "timestamp": "2026-09-21T16:41:19.075304760Z",
+  "model": "glm-5.3"
+}

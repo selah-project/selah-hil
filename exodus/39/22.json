@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 39,
+  "translation": "Kag ginhimo niya ⟨את⟩ ang bisti sang eifod, obra sang manunubod, bug-os nga tekhelet.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kag ginhimo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bisti"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "ang bisti"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "sang eifod"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "obra"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "sang manunubod"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "bug-os"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet"
+    }
+  ],
+  "timestamp": "2026-09-21T16:40:52.264205256Z",
+  "model": "glm-5.3"
+}

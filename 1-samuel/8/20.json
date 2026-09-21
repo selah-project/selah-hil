@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 8:20",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "kag magakabuhi man kami pareho sang tanan nga mga pungsod, kag ang amon hari magahukom sa amon, kag magagwa siya sa atubangan namon, kag magapakigaway ⟨את⟩ sang amon mga away.",
+  "tokens": [
+    {
+      "surface": "והיינו",
+      "gloss": "kag magakabuhi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "pareho sang tanan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mga pungsod"
+    },
+    {
+      "surface": "ושפטנו",
+      "gloss": "kag magahukom"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "ang amon hari"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "kag magagwa"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "sa atubangan namon"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "kag magapakigaway"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang amon mga away"
+    },
+    {
+      "surface": "מלחמתנו",
+      "gloss": "sang amon mga away"
+    }
+  ],
+  "timestamp": "2026-09-21T17:59:17.722622715Z",
+  "model": "glm-5.3"
+}

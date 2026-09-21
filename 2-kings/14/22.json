@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Siya ang nagpatindog sang ⟨את⟩ Eylat kag ginpabalik ini sa Yehudah, human nga natog ang hari kaupod sang iya mga kag-anak.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nagpatindog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang Eylat"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Eylat"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "kag ginpabalik ini"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "human nga"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "natog"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod sang"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "iya mga kag-anak"
+    }
+  ],
+  "timestamp": "2026-09-21T18:44:46.737580804Z",
+  "model": "glm-5.3"
+}

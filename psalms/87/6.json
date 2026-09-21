@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 87,
+  "translation": "Si Yahweh magaihap kon sia maggwa sang listahan sang mga pungsod: ini nga tawo natawo didto. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "magaihap"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "kon sia maggwa sang listahan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "sang mga pungsod"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini nga tawo"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:51.777300842Z",
+  "model": "glm-5.3"
+}

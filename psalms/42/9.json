@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Sa adlaw magasugo si Yahweh sang iya hesed, kag sa gab-i isa ka awit ⟨kaupod⟩ ko, isa ka pagpangamuyo sa El sang akon kabuhi.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "magasugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sang iya hesed"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "kag sa gab-i"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "awit"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kaupod ko"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "pagpangamuyo"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "sa El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "sang akon kabuhi"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:58.335360415Z",
+  "model": "glm-5.3"
+}

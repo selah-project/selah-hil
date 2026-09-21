@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kag ginbiniagan nila ⟨את⟩ ang mga babayi nga ara sa iya, gikan sa malulo tubtob sa dako; wala nila gintiera sing isa ka tawo, kag gidala nila sila kag naglakat sa ila dalan.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "kag ginbiniagan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga babayi"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ang mga babayi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "gikan sa malulu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "sa dako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "gintiera"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sing isa ka tawo"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "kag gidala nila"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "kag naglakat"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "sa ila dalan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:11:43.003792859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Si Zevulun wala pagpalagyo sang ⟨את⟩ nga mga pumoluyo sa Kitron kag ⟨את⟩ nga mga pumoluyo sa Nahalal; kag ang Kenaananhon nag-istar sa tunga sini, kag sila nagbinulig-to manggiya.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Si Zevulun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "pagpalagyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga pumoluyo"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "mga pumoluyo"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "Kitron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "mga pumoluyo"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "mga pumoluyo"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalal"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kag nag-istar"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ang Kenaananhon"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "sa tunga sini"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "kag sila nagbinulig"
+    },
+    {
+      "surface": "למס",
+      "gloss": "manggiya"
+    }
+  ],
+  "timestamp": "2026-09-21T17:45:39.326163837Z",
+  "model": "glm-5.3"
+}

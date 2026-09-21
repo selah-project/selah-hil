@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 104,
+  "translation": "Tanan sila nagahulat sa imo, agod hatagan mo sila sang pagkaon sa iya nga tion.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "tanan sila"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "nagahulat"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "agod maghatag"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "pagkaon"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "sa iya nga tion"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:42.596304385Z",
+  "model": "glm-5.3"
+}

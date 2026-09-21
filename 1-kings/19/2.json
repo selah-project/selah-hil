@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 19:2",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag nagpadala si Izevel sang mensahero kay Eliyahu, nga nagsiling: Gani, himoon sang mga dios, kag gani dunganan pa nila — kay sa sini nga tion sa pag-aga, himoon ko ⟨את⟩ ang imo kabuhi nga pareho sang kabuhi sang isa sa ila.",
+  "tokens": [
+    {
+      "surface": "ותשלח",
+      "gloss": "nagpadala"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "si Izevel"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mensahero"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagsiling"
+    },
+    {
+      "surface": "כה",
+      "gloss": "gani"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "himoon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga dios"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "kag gani"
+    },
+    {
+      "surface": "יוספון",
+      "gloss": "dunganan pa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "sa sini nga tion"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "sa pag-aga"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "himon ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imo kabuhi"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "imo kabuhi"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "pareho sang kabuhi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T18:38:04.933915005Z",
+  "model": "glm-5.3"
+}

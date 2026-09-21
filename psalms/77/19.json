@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 77,
+  "translation": "Ang tingog sang imo dagundong sang kilat ⟨was⟩ sa buhawi; nagpainaw ang mga kidlat sa kalibutan; nagkurog kag naglinog ang duta.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "sang imo dagundong sang kilat"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "sa buhawi"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "nagpainaw"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "ang mga kidlat"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "sa kalibutan"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "nagkurog"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "kag naglinog"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:17.225393751Z",
+  "model": "glm-5.3"
+}

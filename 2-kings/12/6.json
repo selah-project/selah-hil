@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 12:6",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kuhaa sang mga pari para sa ila, ang tagsa gikan ⟨את⟩ sa iya kilala; kag sila magapalig-on sang ⟨את⟩ sira sang balay sa tanan nga makita didto nga sira.",
+  "tokens": [
+    {
+      "surface": "יקחו",
+      "gloss": "kuhaa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "para sa ila"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sang mga pari"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tagsa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "gikan ⟨את⟩",
+      "marks": "iya kilala"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "sa iya kilala"
+    },
+    {
+      "surface": "והם",
+      "gloss": "kag sila"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "magapalig-on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sira sang balay"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "sira"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "makita"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "sira"
+    }
+  ],
+  "timestamp": "2026-09-21T18:45:35.036564656Z",
+  "model": "glm-5.3"
+}

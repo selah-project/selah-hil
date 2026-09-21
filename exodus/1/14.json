@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 1:14",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ginpaait nila ⟨את⟩ ang ila kabuhi sa mapait nga pagpangabudlay, sa lapok kag sa mga ladrilyo, kag sa tanan nga pagpangabudlay sa uma; ⟨את⟩ tanan nga ila pagpangabudlay nga ila ginbuhat sa ila ⟨amo⟩ sa kahaisal.",
+  "tokens": [
+    {
+      "surface": "וימררו",
+      "gloss": "ginpaait"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ila kabuhi"
+    },
+    {
+      "surface": "חייהם",
+      "gloss": "ang ila kabuhi"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "sa pagpangabudlay"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "mapait nga"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "sa lapok"
+    },
+    {
+      "surface": "ובלבנים",
+      "gloss": "kag sa mga ladrilyo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "kag sa tanan"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "nga pagpangabudlay"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa uma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga ila pagpangabudlay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "nga ila pagpangabudlay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ginbuhat"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "sa kahaisal"
+    }
+  ],
+  "timestamp": "2026-09-21T16:19:01.232547499Z",
+  "model": "glm-5.3"
+}

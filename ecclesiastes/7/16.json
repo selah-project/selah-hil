@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Indi pagmatarong sing sobra, kag indi pagpahimom sing maalam sing labaw; ngaa mag-uol ka?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "pagmatarong"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "sing sobra"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "pagpahimom sing maalam"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "sing labaw"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "mag-uol ka"
+    }
+  ],
+  "timestamp": "2026-09-21T21:26:55.329496838Z",
+  "model": "glm-5.3"
+}

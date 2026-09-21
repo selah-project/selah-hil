@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 44:30",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Kag subong, kon mag-abot ako sa imo sulugoon nga akon amay, kag ang bata wala na ⟨את⟩ sa amon, samtang ang iya kalag gapigot sa kalag sini —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kag subong"
+    },
+    {
+      "surface": "כבאי",
+      "gloss": "kon mag-abot ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "imo sulugoon"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "akon amay"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "kag ang bata"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "wala na"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ sa amon",
+      "marks": "ang bata"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "kag ang iya kalag"
+    },
+    {
+      "surface": "קשורה",
+      "gloss": "gapigot"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "sa kalag sini"
+    }
+  ],
+  "timestamp": "2026-09-21T16:17:13.137256865Z",
+  "model": "glm-5.3"
+}

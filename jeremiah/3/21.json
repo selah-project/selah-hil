@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 3:21",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "May tingog sa mga kabukiran nga nadungog — panaguhot kag mga pangamuyo sang mga anak sang Yisrael — kay ginbaliskad nila ⟨את⟩ ila dalan, gintagduma nila ⟨את⟩ si Yahweh nga ila Elohim.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "mga kabukiran"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "nadungog"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "panaguhot"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mga pangamuyo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "העוו",
+      "gloss": "ginbaliskad nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ila dalan"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "ila dalan"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "gintagduma nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "nga ila Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T19:16:18.167545766Z",
+  "model": "glm-5.3"
+}

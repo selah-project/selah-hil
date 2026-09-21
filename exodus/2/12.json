@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag nagliso siya sa diri kag sa didto, kag nakita niya nga wala sing tawo, kag ginslat niya ⟨את⟩ ang taga-Mitsrayim kag gintago niya siya sa balas.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "Kag nagliso siya"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sa diri"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "kag sa didto"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "kag nakita niya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sing tawo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "kag ginslat niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang taga-Mitsrayim"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "ang taga-Mitsrayim"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "kag gintago niya siya"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "sa balas"
+    }
+  ],
+  "timestamp": "2026-09-21T16:19:29.429608358Z",
+  "model": "glm-5.3"
+}

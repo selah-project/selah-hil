@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 5:14",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag nagkari sila gikan sa tanan nga mga pungsod sa pagpatalingkat ⟨את⟩ sang kaalam ni Shelomoh, gikan ⟨את⟩ tanan nga mga hari sang duta nga nakabati sila sang iya kaalam.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "kag nagkari sila"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "gikan sa tanan nga"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mga pungsod"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "sa pagpatalingkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang kaalam ni Shelomoh"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "kaalam"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "gikan ⟨את⟩",
+      "marks": "tanan nga mga hari sang duta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nakabati sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang iya kaalam"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "sang iya kaalam"
+    }
+  ],
+  "timestamp": "2026-09-21T18:27:51.616991178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 39,
+  "translation": "Kag ang balay sang Yisrael magalubong sa ila, agod mapinani ⟨את⟩ ang duta, pito ka bulan.",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "kag magalubong sa ila"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "למען",
+      "gloss": "agod"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "mapinani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "pito"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ka bulan"
+    }
+  ],
+  "timestamp": "2026-09-21T19:57:20.004623869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 144,
+  "translation": "Yahweh, ipahakog ang imo mga langit kag magpanaug ⟨kamo⟩; himu-a nga magtipak sa mga bukid kag magaalintuto sila.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הט",
+      "gloss": "ipahakog"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "ang imo mga langit"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "kag magpanaug"
+    },
+    {
+      "surface": "גע",
+      "gloss": "himu-a nga magtipak"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "sa mga bukid"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "kag magaalintuto sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:56.429437983Z",
+  "model": "glm-5.3"
+}

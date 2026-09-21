@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Kag gintipon ni Moshe ⟨את⟩ tanan nga katilingban sang mga anak nga lalaki sang Yisrael, kag nagsiling siya sa ila: Amo ini ang mga pulong nga ginsugo ni Yahweh sa paghimo ⟨את⟩ ⟨sanda⟩.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "gintipon"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga katilingban"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "nga katilingban"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ang mga pulong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "sa paghimo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨sanda⟩",
+      "marks": "ang mga pulong"
+    }
+  ],
+  "timestamp": "2026-09-21T16:37:21.552976103Z",
+  "model": "glm-5.3"
+}

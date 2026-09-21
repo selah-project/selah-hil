@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Ginpadumala mo sia sa mga buhat sang imo mga kamot, ang tanan imo ginbutang sa idalom sang iya mga tiil.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "ginpadumala mo sia"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "sa mga buhat"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "sang imo mga kamot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "imong ginbutang"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa idalom"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "sang iya mga tiil"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:25.804946214Z",
+  "model": "glm-5.3"
+}

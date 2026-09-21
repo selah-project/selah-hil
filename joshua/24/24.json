@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag nagsiling ang katawhan kay Yehoshua: ⟨את⟩ si Yahweh, ang amon Elohim, amon pag-alagaron, kag sa iya tingog magabinati kami kag magatuman.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Kag nagsiling"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ang amon Elohim"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "amon pag-alagaron"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "kag sa iya tingog"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "magabinati kami kag magatuman"
+    }
+  ],
+  "timestamp": "2026-09-21T17:45:07.868527028Z",
+  "model": "glm-5.3"
+}

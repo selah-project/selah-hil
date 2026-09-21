@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 13:6",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag nakita sang mga tawo sang Yisrael nga nalain ⟨sila⟩ kay ang katawhan ginlutos; kag nagtago ang katawhan sa mga kuweba kag sa mga latip kag sa mga bato kag sa mga kuta kag sa mga bubon.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Kag ang mga tawo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צר",
+      "gloss": "nalain"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨sila⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "ginlutos"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "ויתחבאו",
+      "gloss": "kag nagtago"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "במערות",
+      "gloss": "sa mga kuweba"
+    },
+    {
+      "surface": "ובחוחים",
+      "gloss": "kag sa mga latip"
+    },
+    {
+      "surface": "ובסלעים",
+      "gloss": "kag sa mga bato"
+    },
+    {
+      "surface": "ובצרחים",
+      "gloss": "kag sa mga kuta"
+    },
+    {
+      "surface": "ובברות",
+      "gloss": "kag sa mga bubon"
+    }
+  ],
+  "timestamp": "2026-09-21T18:01:24.367258825Z",
+  "model": "glm-5.3"
+}

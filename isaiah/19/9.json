@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 19:9",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag magakadlaw ang mga nagapangabuhi sa pisong pinisahan, kag ang mga nagatagtape sang maputing lino.",
+  "tokens": [
+    {
+      "surface": "ובשו",
+      "gloss": "kag magakadlaw"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ang mga nagapangabuhi"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "sa pisong"
+    },
+    {
+      "surface": "שריקות",
+      "gloss": "pinisahan"
+    },
+    {
+      "surface": "וארגים",
+      "gloss": "kag ang mga nagatagtape"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "sang maputing lino"
+    }
+  ],
+  "timestamp": "2026-09-21T18:57:41.107552515Z",
+  "model": "glm-5.3"
+}

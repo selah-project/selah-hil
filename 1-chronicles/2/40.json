@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "kag si Elasah natawo-an ⟨את⟩ si Sismay, kag si Sismay natawo-an ⟨את⟩ si Shallum",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "kag si Elasah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "natawo-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Sismay"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "si Sismay"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "kag si Sismay"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "natawo-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shallum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "si Shallum"
+    }
+  ],
+  "timestamp": "2026-09-21T21:49:05.241130157Z",
+  "model": "glm-5.3"
+}

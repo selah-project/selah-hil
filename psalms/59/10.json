@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 59,
+  "translation": "Ang iya nga kusog, sa imo magatipan ako; kay si Elohim amo ang akon mataas nga kuta.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "ang iya nga kusog"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "magatipan ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "amo ang akon mataas nga kuta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:25.271949771Z",
+  "model": "glm-5.3"
+}

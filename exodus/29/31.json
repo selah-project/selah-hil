@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kag ⟨את⟩ sang turok sang pagpuno kukuhaon mo, kag lutoon mo ⟨את⟩ ang iya unod sa balaan nga duog.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang turok sang pagpuno"
+    },
+    {
+      "surface": "איל",
+      "gloss": "turok"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "sang pagpuno"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "kukuhaon mo"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "kag lutoon mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya unod"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ang iya unod"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "sa duog"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:34:24.479434582Z",
+  "model": "glm-5.3"
+}

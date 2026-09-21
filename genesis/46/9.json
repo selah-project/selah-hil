@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 46:9",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 46,
+  "translation": "Kag ang mga anak ni Reuven: Khanokh, kag Pallu, kag Khetseron, kag Kharmi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "kag ang mga anak"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ni Reuven"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Khanokh"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "kag Pallu"
+    },
+    {
+      "surface": "וחצרון",
+      "gloss": "kag Khetseron"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "kag Kharmi"
+    }
+  ],
+  "timestamp": "2026-09-21T16:16:46.586604753Z",
+  "model": "glm-5.3"
+}

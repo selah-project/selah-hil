@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nagsiling ako sa inyo sangsadto nga tion, nga nagasiling: indi ako makakaya nga akon lamang magdala ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "kag nagsiling ako"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "sangsadto nga tion"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sadsadto"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "makakaya"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "akon lamang"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "magdala"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kamo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:17:03.991101065Z",
+  "model": "glm-5.3"
+}

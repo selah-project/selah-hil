@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag natabo, bangod gintakilala sang mga mananabang ⟨את⟩ ang Elohim, nga ginhimo niya sang ila mga balay.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kag natabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bangod"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "gintakilala"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "mga mananabang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "kag ginhimo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "mga balay"
+    }
+  ],
+  "timestamp": "2026-09-21T16:18:22.695693827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "nga iya ginputol ⟨את⟩ sa pakig-istorya kay Avraham, kag ang iya panumpa kay Yitskhak.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ginputol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "kag ang iya panumpa"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kay Yitskhak"
+    }
+  ],
+  "timestamp": "2026-09-21T21:55:10.648545229Z",
+  "model": "glm-5.3"
+}

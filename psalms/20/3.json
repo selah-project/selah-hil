@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Ipadala niya ang iya bulig gikan sa balaan nga duug, kag gikan sa Tsiyon pagaparigon ka.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Ipadala"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "ang iya bulig"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "gikan sa balaan nga duug"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "kag gikan sa Tsiyon"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "pagaparigon ka"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:52.269987473Z",
+  "model": "glm-5.3"
+}

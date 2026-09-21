@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Ang nagapungko sa mga langit magatawa; si Adonay magapamuyhay sa ila.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "ang nagapungko"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sa mga langit"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "magatawa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "magapamuyhay"
+    },
+    {
+      "surface": "למו",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:23:22.721131457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 99,
+  "translation": "Dako si Yahweh sa Tsiyon, kag mataas siya sa tanan nga mga pungsod.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "sa Tsiyon"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "Dako"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "kag mataas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mga pungsod"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:45.337141369Z",
+  "model": "glm-5.3"
+}

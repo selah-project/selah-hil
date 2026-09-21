@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Indi ini lutoon nga may lebadura; ang ila bahin ginhatag ko ⟨את⟩ ini sa akon mga halad sang kalayo; balaan sang mga balaan ini, pareho sang halad para sa sala kag sang halad para sa sala-sala.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "lutoon"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "nga may lebadura"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "ang ila bahin"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ginhatag ko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ini"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "sa akon mga halad sang kalayo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "sang mga balaan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ini"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "pareho sang halad para sa sala"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "kag sang halad para sa sala-sala"
+    }
+  ],
+  "timestamp": "2026-09-21T16:42:55.656495848Z",
+  "model": "glm-5.3"
+}

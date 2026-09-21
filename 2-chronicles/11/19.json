@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag nanganak siya sa iya sang mga anak nga lalaki: ⟨את⟩ si Yeush kag ⟨את⟩ si Shemaryah kag ⟨את⟩ si Zaham.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "kag nanganak siya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yeush"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Yeush"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Shemaryah"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Shemaryah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Zaham"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Zaham"
+    }
+  ],
+  "timestamp": "2026-09-21T22:04:04.356145565Z",
+  "model": "glm-5.3"
+}

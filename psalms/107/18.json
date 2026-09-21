@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 107,
+  "translation": "Ang tanan nga pagkaon ginakasilag sang ila kalag, kag nag-abot sila tubtob sa mga ganghaan sang kamatayon.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nga pagkaon"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "ginakasilag"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "sang ila kalag"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "kag nag-abot sila"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob sa"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "mga ganghaan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sang kamatayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:00.913429910Z",
+  "model": "glm-5.3"
+}

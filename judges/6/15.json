@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 6:15",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag nagsiling si Gidon sa iya: Palihug, Adonay, paano ako maluwas ⟨את⟩ Yisrael? Tan-awa, ang akon banwa amo ang pinakakablas sa Menasheh, kag ako ang pinakagamay sa balay sang akon amay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "בי",
+      "gloss": "palihug"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "במה",
+      "gloss": "paano"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "maluwas ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "akon banwa"
+    },
+    {
+      "surface": "הדל",
+      "gloss": "pinakakablas"
+    },
+    {
+      "surface": "במנשה",
+      "gloss": "sa Menasheh"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "kag ako"
+    },
+    {
+      "surface": "הצעיר",
+      "gloss": "pinakagamay"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "akon amay"
+    }
+  ],
+  "timestamp": "2026-09-21T17:48:36.490615104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ang tagdumala nagkuha ⟨את⟩ sang ila pagkaon nga pinili kag sang ila bino nga ilimnon, kag naghatag sa ila sang mga utan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "ang tagdumala"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nagkuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang ila pagkaon nga pinili"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "sang ila pagkaon nga pinili"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "kag sang ila bino"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "nga ilimnon"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "kag naghatag"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "sang mga utan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:30:40.623379277Z",
+  "model": "glm-5.3"
+}

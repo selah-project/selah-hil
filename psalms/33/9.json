@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Kay siya naghambal kag ⟨ini⟩ nahimo; siya nagmandu kag ⟨ini⟩ nagtindog.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "naghambal"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag ⟨ini⟩ nahimo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nagmandu"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "kag ⟨ini⟩ nagtindog"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:00.583877541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 69:22",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 69,
+  "translation": "Kag gintagaan nila sa akon pagkaon ang lason, kag sa akon uhaw ginpainum nila ako sang suka.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "kag gintagaan nila"
+    },
+    {
+      "surface": "בברותי",
+      "gloss": "sa akon pagkaon"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ang lason"
+    },
+    {
+      "surface": "ולצמאי",
+      "gloss": "kag sa akon uhaw"
+    },
+    {
+      "surface": "ישקוני",
+      "gloss": "ginpainum nila ako"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "sang suka"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:58.810785846Z",
+  "model": "glm-5.3"
+}

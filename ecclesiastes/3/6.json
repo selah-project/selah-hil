@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Ti panahon sa pagpangita, kag ti panahon sa pagkumpuni ⟨nga nadula⟩; ti panahon sa pagbantay, kag ti panahon sa pagbuhin.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ti panahon"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "sa pagpangita"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "kag ti panahon"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "sa pagpakonadula"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ti panahon"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "sa pagbantay"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "kag ti panahon"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "sa pagbuhin"
+    }
+  ],
+  "timestamp": "2026-09-21T21:25:11.449837053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 60,
+  "translation": "Kag magakadto ang mga pungsod sa imo kahayag, kag ang mga hari sa sinag sang imo pagkasubang.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "Kag magakadto"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ang mga pungsod"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "sa imo kahayag"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "kag ang mga hari"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "sa sinag"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "sang imo pagkasubang"
+    }
+  ],
+  "timestamp": "2026-09-21T19:12:57.535740659Z",
+  "model": "glm-5.3"
+}

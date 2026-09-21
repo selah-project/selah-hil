@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 50,
+  "translation": "Maminaw ka, akon katawhan, kag magahambal ako; Yisrael, kag magapamatuod ako batok sa imo — Elohim, ang imo Elohim, ako.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Maminaw ka"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "akon katawhan"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "kag magahambal ako"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "kag magapamatuod ako"
+    },
+    {
+      "surface": "בך",
+      "gloss": "batok sa imo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ang imo Elohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:57.662123298Z",
+  "model": "glm-5.3"
+}

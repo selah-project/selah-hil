@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Wala sing hari maluwas paagi sa dako nga kasundalohan; ang gamhanan indi maluwas paagi sa dako nga kusog.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Wala sing"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "maluwas"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "paagi sa dako nga"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kasundalohan"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ang gamhanan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "maluwas"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "paagi sa dako nga"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kusog"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:34.998571535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 122,
+  "translation": "Magakaangayan sa imo mga pader, kag katarungan sa imo mga palasyo.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Magakaangayan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kaangayan"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "sa imo mga pader"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "katarungan"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "sa imo mga palasyo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:41.837239181Z",
+  "model": "glm-5.3"
+}

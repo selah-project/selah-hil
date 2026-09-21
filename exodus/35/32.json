@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Kag sa pagplano sang mga plano, sa paghimuon sa bulawan, sa plata, kag sa tumbaga.",
+  "tokens": [
+    {
+      "surface": "ולחשב",
+      "gloss": "kag sa pagplano"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "mga plano"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "sa paghimuon"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "sa bulawan"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "sa plata"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "sa tumbaga"
+    }
+  ],
+  "timestamp": "2026-09-21T16:38:40.508508740Z",
+  "model": "glm-5.3"
+}

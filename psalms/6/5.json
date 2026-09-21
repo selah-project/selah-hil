@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Magbalik ka, Yahweh, kag iluwas ang akon kalag; luwasa ako tungod sang imo hesed.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Magbalik ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "iluwas"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "luwasa ako"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tungod sang"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "imo hesed"
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:59.536285446Z",
+  "model": "glm-5.3"
+}

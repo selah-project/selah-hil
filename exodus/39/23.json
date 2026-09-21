@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 39:23",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 39,
+  "translation": "Kag ang baba sang bisti yara sa iya tunga, pareho sang baba sang bakus, may sapà sa iya palibot, agod indi ini magisi.",
+  "tokens": [
+    {
+      "surface": "ופי",
+      "gloss": "kag ang baba"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "sang bisti"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "sa iya tunga"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "pareho sang baba"
+    },
+    {
+      "surface": "תחרא",
+      "gloss": "sang bakus"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "sapà"
+    },
+    {
+      "surface": "לפיו",
+      "gloss": "sa iya baba"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa iya palibot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agod indi"
+    },
+    {
+      "surface": "יקרע",
+      "gloss": "magisi"
+    }
+  ],
+  "timestamp": "2026-09-21T16:40:52.264379803Z",
+  "model": "glm-5.3"
+}

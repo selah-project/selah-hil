@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Kag nagwa siya kag nakig-away sa mga Pelishteo, kag ginbalha niya ⟨את⟩ ang pader sang Gat kag ⟨את⟩ ang pader sang Yavneh kag ⟨את⟩ ang pader sang Ashdod; kag nagpatindog siya sang mga lungsod sa Ashdod kag sa mga Pelishteo.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "kag nagwa siya"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "kag nakig-away"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "sa mga Pelishteo"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "kag ginbalha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pader sang Gat"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ang pader"
+    },
+    {
+      "surface": "גת",
+      "gloss": "sang Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang pader sang Yavneh"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ang pader"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "sang Yavneh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang pader sang Ashdod"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ang pader"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "sang Ashdod"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "kag nagpatindog"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "sang mga lungsod"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "sa Ashdod"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "kag sa mga Pelishteo"
+    }
+  ],
+  "timestamp": "2026-09-21T22:46:34.322172906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nagbalik ang mga mensahero sa iya, kag nagsiling siya sa ila: Ano ini — nagbalik kamo?",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "kag nagbalik"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "ang mga mensahero"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "nagbalik kamo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:39:33.461350222Z",
+  "model": "glm-5.3"
+}

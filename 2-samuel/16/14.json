@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag nagsulod ang hari kag ang tanan nga katawhan nga ara ⟨את⟩ kadto iya, nga kapoy, kag nagpahuway sila didto.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "kag nagsulod"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan nga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kadto iya",
+      "marks": "ang tanan nga katawhan"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "nga kapoy"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "kag nagpahuway"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    }
+  ],
+  "timestamp": "2026-09-21T18:19:22.681001752Z",
+  "model": "glm-5.3"
+}

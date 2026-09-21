@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 76,
+  "translation": "Gikan sa langit ginpabati mo ang paghukum; ang duta nagkahadlok kag nag-untat.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "Gikan sa langit"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "ginpabati mo"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ang paghukum"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "nagkahadlok"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "kag nag-untat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:57.642580643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 19:31",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Indi kamo magpadulong sa mga manogatawag sa mga minatay, kag sa mga manoghibalo indi kamo mangita, sa indi kamo mahamo sa ila; ako si Yahweh ang inyo Elohim.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "kamo magpadulong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האבת",
+      "gloss": "mga manogatawag sa mga minatay"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "mga manoghibalo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "kamo mangita"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "sa indi kamo mahamo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ang inyo Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:52:14.470153847Z",
+  "model": "glm-5.3"
+}

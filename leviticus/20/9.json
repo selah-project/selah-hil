@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kay ang bisan ano ka tawo nga magatum-oy ⟨את⟩ sa iya amay kag ⟨את⟩ sa iya iloy — kamatayon gid; ang iya amay kag ang iya iloy iya gitum-oy; ang iya dugo ⟨ara⟩ sa iya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bisan ano ka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "magatum-oy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iya amay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iya amay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sa iya iloy"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "iya iloy"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayon"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "gid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iya amay"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "kag iya iloy"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "gitum-oy"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "iya dugo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:52:56.095301052Z",
+  "model": "glm-5.3"
+}

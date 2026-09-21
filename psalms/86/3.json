@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 86,
+  "translation": "Maloyi ako, Adonay, kay sa imo ako nagatawag bisan ang bug-os nga adlaw.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Maloyi ako"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ako nagatawag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bisan ang bug-os"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:44.906130338Z",
+  "model": "glm-5.3"
+}

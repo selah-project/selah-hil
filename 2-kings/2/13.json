@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 2:13",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag ginpukaw niya ⟨את⟩ ang abito ni Eliyahu nga natumba sa iya, kag nagbalik siya kag nagtindog sa bangbang sang Yarden.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "ginpukaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang abito"
+    },
+    {
+      "surface": "אדרת",
+      "gloss": "abito"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ni Eliyahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "natumba"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nagbalik siya"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "nagtindog"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "bangbang"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sang Yarden"
+    }
+  ],
+  "timestamp": "2026-09-21T18:40:01.402992056Z",
+  "model": "glm-5.3"
+}

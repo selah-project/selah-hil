@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag magasogo ang koheno nga magakuha para sa pagainloan sa iya sang duha ka buhi kag malinis nga mga pispis, kag kahoy sang erez, kag tinina nga pula nga ulod, kag ezob.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "kag magasogo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang koheno"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "nga magakuha"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "para sa pagainloan sa iya"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duha"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "ka mga pispis"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "buhi"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "kag malinis"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "kag kahoy"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "sang erez"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "kag tinina nga pula"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "nga ulod"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "kag ezob"
+    }
+  ],
+  "timestamp": "2026-09-21T22:22:00.736555527Z",
+  "model": "glm-5.3"
+}

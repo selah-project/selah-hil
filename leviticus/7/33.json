@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 7:33",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Siya sa mga anak ni Aharon nga naghahalad sang ⟨את⟩ dugo sang mga halad sang kalinong kag sang ⟨את⟩ taba — sa iya mangin ang pa-a sang too bilang bahin.",
+  "tokens": [
+    {
+      "surface": "המקריב",
+      "gloss": "siya nga naghahalad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dugo sang mga halad sang kalinong"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "sang mga halad sang kalinong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "taba"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "mangin"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "pa-a"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "sang too"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "bilang bahin"
+    }
+  ],
+  "timestamp": "2026-09-21T16:44:23.911420530Z",
+  "model": "glm-5.3"
+}

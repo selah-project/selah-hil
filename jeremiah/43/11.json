@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 43,
+  "translation": "Kag magari siya kag bun-agon niya ⟨את⟩ ang duta sang Mitsrayim — ang igatoo sa kamatayon, sa kamatayon; kag ang igatoo sa pagkabihag, sa pagkabihag; kag ang igatoo sa espada, sa espada.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "Kag magari siya"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "kag bun-agon niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta sang Mitsrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "למות",
+      "gloss": "igatoo sa kamatayon"
+    },
+    {
+      "surface": "למות",
+      "gloss": "sa kamatayon"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kag ang"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "igatoo sa pagkabihag"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "sa pagkabihag"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kag ang"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "igatoo sa espada"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "sa espada"
+    }
+  ],
+  "timestamp": "2026-09-21T19:35:29.861051650Z",
+  "model": "glm-5.3"
+}

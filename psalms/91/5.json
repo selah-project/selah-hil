@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 91,
+  "translation": "Indi ka mahadluk sang kahadlok sang gab-i, ukon sang palaso nga nagalayop sa tin-aw nga adlaw,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ka mahadluk"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "sang kahadlok"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "sang gab-i"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ukon sang palaso"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "nga nagalayop"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "sa tin-aw nga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:11.937015810Z",
+  "model": "glm-5.3"
+}

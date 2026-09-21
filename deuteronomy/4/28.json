@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 4:28",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag magaalagad kamo didto sa mga dios, gawa sang mga kamot sang tawo, kahoy kag bato, nga indi sila makakita kag indi makabati kag indi makakaon kag indi makaamoy.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "Kag magaalagad kamo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sa mga dios"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gawa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "sang mga kamot"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "kag bato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יראון",
+      "gloss": "sila makakita"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "sila makabati"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יאכלון",
+      "gloss": "sila makakaon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יריחן",
+      "gloss": "sila makaamoy"
+    }
+  ],
+  "timestamp": "2026-09-21T17:20:19.458541295Z",
+  "model": "glm-5.3"
+}

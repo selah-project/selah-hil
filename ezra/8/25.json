@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 8:25",
+  "book": "ezra",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag gintimbang ko sa ila ⟨את⟩ ang plata kag ⟨את⟩ ang bulawan kag ⟨את⟩ ang mga kagamitan — halad sang balay sang aton Elohim — nga gintunga sang hari kag sang iya mga manugtamdan kag sang iya mga pangulo kag sang tanan nga Yisrael nga makita ⟨didto⟩.",
+  "tokens": [
+    {
+      "surface": "ואשקולה",
+      "gloss": "kag gintimbang ko"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang plata"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ang plata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang bulawan"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ang bulawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga kagamitan"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "ang mga kagamitan"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "halad"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "sang aton Elohim"
+    },
+    {
+      "surface": "ההרימו",
+      "gloss": "nga gintunga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ויעציו",
+      "gloss": "kag sang iya mga manugtamdan"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "kag sang iya mga pangulo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag sang tanan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nga Yisrael"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "nga makita"
+    }
+  ],
+  "timestamp": "2026-09-21T21:42:22.328343183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Kon magapabayà ang iya mga anak sa akon Torah, kag sa akon mga paghukum indi magalakat,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "magapabayà"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ang iya mga anak"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "sa akon Torah"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "kag sa akon mga paghukum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "magalakat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:44.375740723Z",
+  "model": "glm-5.3"
+}

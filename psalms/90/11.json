@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 90,
+  "translation": "Sin-o ang nakakabalo sang kusog sang imo kaakig, kag sang imo pagkahadlok, ang imo kaligutgut?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "nakakabalo"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kusog"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "sang imo kaakig"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "kag sang imo pagkahadlok"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "imo kaligutgut"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:34.852450329Z",
+  "model": "glm-5.3"
+}

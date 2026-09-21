@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 18:6",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag ginbahin nila sa ila <ang duha ka bahin> ⟨את⟩ ang duta agod maglibat <sini>; si Achav naglakat sa isa ka dalan nga iya bug-os, kag si Ovadyahu naglakat sa isa ka dalan nga iya bug-os.",
+  "tokens": [
+    {
+      "surface": "ויחלקו",
+      "gloss": "kag ginbahin nila"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "agod maglibat"
+    },
+    {
+      "surface": "בה",
+      "gloss": "<sini>"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "si Achav"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "naglakat"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa isa ka dalan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "nga iya bug-os"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "kag si Ovadyahu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "naglakat"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa isa ka dalan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "nga iya bug-os"
+    }
+  ],
+  "timestamp": "2026-09-21T18:35:54.590049020Z",
+  "model": "glm-5.3"
+}

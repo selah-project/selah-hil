@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Diin ang hari sang Chamath, kag ang hari sang Arpad, kag ang hari sang syudad sang Sefarvayim, sang Hena kag sang Ivah?",
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "Diin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamath"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "kag hari"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arpad"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "kag hari"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "sang syudad"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sefarvayim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "kag Ivah"
+    }
+  ],
+  "timestamp": "2026-09-21T18:48:23.926198456Z",
+  "model": "glm-5.3"
+}

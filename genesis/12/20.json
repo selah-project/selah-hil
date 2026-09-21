@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag nagtuga si Paro sang mga tawo parte sa iya, kag ginpapadalon nila siya kag ⟨את⟩ ang iya asawa kag ⟨את⟩ ang tanan nga iya ginatag-iya.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "nagtuga"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "parte sa iya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "si Paro"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "sang mga tawo"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ginpapadalon nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "siya ⟨את⟩",
+      "marks": "siya (si Avram)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya asawa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "iya asawa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iya ginatag-iya"
+    }
+  ],
+  "timestamp": "2026-09-21T15:59:15.989990149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 66,
+  "translation": "Ang nagabutang sang kalag namon sa kabuhi, kag wala gintugdi sa pagkaluta ang tiil namon.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "ang nagabutang"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "kalag namon"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "sa kabuhi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gintugdi"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "sa pagkaluta"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "tiil namon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:45.593909576Z",
+  "model": "glm-5.3"
+}

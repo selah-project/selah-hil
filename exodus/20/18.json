@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag ang tanan nga mga tawo nakakita sang ⟨את⟩ mga tingog kag sang ⟨את⟩ mga silaw kag sang ⟨את⟩ tingog sang tambuli kag sang ⟨את⟩ bundok nga nagaaso, kag sang nakita sang mga tawo, nagkurog sila kag nagtindog sa malayo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Kag ang tanan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nga mga tawo"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "nakakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga tingog"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "mga tingog"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag sang ⟨את⟩",
+      "marks": "mga silaw"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "mga silaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag sang ⟨את⟩",
+      "marks": "tingog sang tambuli"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "sang tambuli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag sang ⟨את⟩",
+      "marks": "bundok"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bundok"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "nga nagaaso"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "kag sang nakita"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sang mga tawo"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "nagkurog sila"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "kag nagtindog"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "sa malayo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:28:53.124022534Z",
+  "model": "glm-5.3"
+}

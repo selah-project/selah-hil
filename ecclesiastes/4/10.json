@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kay kon magkadton ang isa, iya pagaangaton ⟨את⟩ ang iya kaabay; apang ⟨kon⟩ ang isa nga magakadton, wala sing ikaduha sa pagpangueabaw sa iya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "magkadton"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "iya pagaangaton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya kaabay"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "ang iya kaabay"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "apang"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "nga magakadton"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "wala sing"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ikaduha"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "sa pagpangueabaw sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T21:25:17.506088929Z",
+  "model": "glm-5.3"
+}

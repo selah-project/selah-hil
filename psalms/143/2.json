@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 143,
+  "translation": "Kag indi pagtadlang sa paghukum ⟨את⟩ ang imong sulugoon, kay wala magamatarong sa imong atubang ang tanan nga buhi.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "pagtadlang"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sa paghukum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong sulugoon"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ang imong sulugoon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "magamatarong"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa imong atubang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "חי",
+      "gloss": "buhi"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:39.200419398Z",
+  "model": "glm-5.3"
+}

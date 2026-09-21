@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 124,
+  "translation": "Ang aton bulig ⟨amo⟩ sa Ngalan ni Yahweh, ang naghimo sang mga langit kag sang duta.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Ang aton bulig"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa Ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ang naghimo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sang mga langit"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "kag sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:58.624607282Z",
+  "model": "glm-5.3"
+}

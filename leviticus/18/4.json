@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "⟨Ang⟩ ⟨את⟩ akon mga paghukum buhaton ninyo, kag ⟨את⟩ akon mga kasuguan bantayan ninyo, sa paglakat sa ila; ako si Yahweh ang inyo Elohim.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akon mga paghukum"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "akon mga paghukum"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "buhaton ninyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "akon mga kasuguan"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "akon mga kasuguan"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "bantayan ninyo"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "sa paglakat"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ang inyo Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T22:21:19.348383072Z",
+  "model": "glm-5.3"
+}

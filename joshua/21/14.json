@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag ⟨את⟩ si Yatir kag ⟨את⟩ iya kapatagan, kag ⟨את⟩ si Eshtemoa kag ⟨את⟩ iya kapatagan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Yatir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yatir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya kapatagan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iya kapatagan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Eshtemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya kapatagan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iya kapatagan"
+    }
+  ],
+  "timestamp": "2026-09-21T17:43:30.660017754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 52,
+  "translation": "Sa manunudlo, isa ka mashkil ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa manunudlo"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "isa ka mashkil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:57.682709826Z",
+  "model": "glm-5.3"
+}

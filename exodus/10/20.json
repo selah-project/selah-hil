@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 10:20",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Apang ginpamolungsi ni Yahweh ⟨את⟩ ang tagipusuon ni Paro, kag wala niya pagpaguwaon ⟨את⟩ ang mga anak nga lalaki sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "apang ginpamolungsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tagipusuon ni Paro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "tagipusuon"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "niya pagpaguwaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga anak nga lalaki sang Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T16:24:03.755975662Z",
+  "model": "glm-5.3"
+}

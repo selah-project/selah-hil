@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag ang hari sang Aram ara sa pagkig-away kontra sa Yisrael, kag nagtambong siya sang layun sa iya mga sulugoon, nga nagsiling: Sa ⟨amo kag⟩ amo nga duog ara ang akon kampo.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Kag ang hari"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "sang Aram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ara"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "sa pagkig-away"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "kontra sa Yisrael"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "kag nagtambong sang layun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iya mga sulugoon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagsiling"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Sa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "duog"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "⟨amo kag⟩ amo"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "nga duog"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "akon kampo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:40:37.548203703Z",
+  "model": "glm-5.3"
+}

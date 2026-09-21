@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 118:26",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 118,
+  "translation": "Bulahan ang nagakari sa ngalan ni Yahweh; halin sa balay ni Yahweh ginbulahan namon kamo.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "bulahan"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "ang nagakari"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברכנוכם",
+      "gloss": "ginbulahan namon kamo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "halin sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:03.514575736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Igpadangat kay Yahweh ang imo mga buluhaton, kag matindog ang imo mga hunahuna.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Igpadangat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ang imo mga buluhaton"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "kag matindog"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "ang imo mga hunahuna"
+    }
+  ],
+  "timestamp": "2026-09-21T20:59:59.493115073Z",
+  "model": "glm-5.3"
+}

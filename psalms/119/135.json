@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Pagpadanaw ang imo panagway sa imo sulugoon, kag tudlu-a ako ⟨את⟩ sang imo mga batas.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "ang imo panagway"
+    },
+    {
+      "surface": "האר",
+      "gloss": "Pagpadanaw"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "sa imo sulugoon"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "kag tudlu-a ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang imo mga batas"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "sang imo mga batas"
+    }
+  ],
+  "timestamp": "2026-09-21T20:50:28.639302229Z",
+  "model": "glm-5.3"
+}

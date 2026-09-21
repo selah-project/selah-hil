@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Tubtob sang akon pag-abot kag kuhaon ko ⟨את⟩ kamo sa isa ka duta nga pareho sang inyo duta, isa ka duta sang bugas kag bag-ong bino, isa ka duta sang tinapay kag mga parasan.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Tubtob"
+    },
+    {
+      "surface": "באי",
+      "gloss": "sang akon pag-abot"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "kag kuhaon ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo",
+      "marks": "kamo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isa ka duta"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "nga pareho sang inyo duta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isa ka duta"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "sang bugas"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "kag bag-ong bino"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isa ka duta"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "sang tinapay"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "kag mga parasan"
+    }
+  ],
+  "timestamp": "2026-09-21T19:04:31.459675718Z",
+  "model": "glm-5.3"
+}

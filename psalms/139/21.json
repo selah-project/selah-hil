@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 139:21",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 139,
+  "translation": "Indi bala, Yahweh, ginadumilian ko ang mga nagadumili sa Imo, kag sa mga nagabangod sa Imo nagapakig-away ako?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "indi bala"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "ang mga nagadumili sa Imo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשנא",
+      "gloss": "ginadumilian ko"
+    },
+    {
+      "surface": "ובתקוממיך",
+      "gloss": "kag sa mga nagabangod sa Imo"
+    },
+    {
+      "surface": "אתקוטט",
+      "gloss": "nagapakig-away ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:55.142631599Z",
+  "model": "glm-5.3"
+}

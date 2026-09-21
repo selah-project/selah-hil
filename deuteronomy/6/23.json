@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag ⟨את⟩ kita iya ginpagwa sa didto, agod ⟨את⟩ kita iya dalahon ⟨sa sulod⟩, sa paghatag sa aton sang duta nga iya ginsumpa sa aton mga amay.",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "⟨את⟩ kita",
+      "marks": "kita (butang sang ginpagwa)"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "iya ginpagwa"
+    },
+    {
+      "surface": "משם",
+      "gloss": "sa didto"
+    },
+    {
+      "surface": "למען",
+      "gloss": "agod"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "iya dalahon"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kita",
+      "marks": "kita (butang sang dalahon)"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sa paghatag"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa aton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "iya ginsumpa"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "sa aton mga amay"
+    }
+  ],
+  "timestamp": "2026-09-21T17:19:41.585945461Z",
+  "model": "glm-5.3"
+}

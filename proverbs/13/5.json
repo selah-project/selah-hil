@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Ang pulong sang bakak ginadumot sang matarong, kag ang malain nagapabaho kag nagapakaulaw.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sang bakak"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "ginadumot"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sang matarong"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "kag ang malain"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "nagapabaho"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "kag nagapakaulaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:58:00.561275054Z",
+  "model": "glm-5.3"
+}

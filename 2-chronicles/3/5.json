@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ⟨את⟩ ang dako nga balay gintabon niya sang kahoy sang mga baros, kag gintabon niya ini sang maayo nga bulawan, kag iya gintindog sa ibabaw sini mga timor kag mga sarangsang",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang dako nga balay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "dako"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "gintabon"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "mga baros"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "kag gintabon niya ini"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "kag iya gintindog"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa ibabaw sini"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "mga timor"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "kag mga sarangsang"
+    }
+  ],
+  "timestamp": "2026-09-21T22:01:28.663784693Z",
+  "model": "glm-5.3"
+}

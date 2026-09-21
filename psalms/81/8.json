@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 81,
+  "translation": "Sa kalisod nagtawag ka kag ginluwas ta ikaw; tubagun ta ikaw sa tagong sang dalugdong; sulayon ta ikaw sa tubig sang Merivah. Selah.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "sa kalisod"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "nagtawag ka"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "kag ginluwas ta ikaw"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "tubagun ta ikaw"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sa tagong"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "sang dalugdong"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "sulayon ta ikaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "sang Merivah"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:10.806610739Z",
+  "model": "glm-5.3"
+}

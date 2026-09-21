@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Magatugar ka sa imo sang dalan, kag itatlo mo ⟨את⟩ ang utlanan sang imo duta, nga pagapamanahon sa imo ni Yahweh nga Elohim mo, agod magdalagan didto ang tagsa ka mamamatay-tao.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "magatugar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ang dalan"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "kag itatlo mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang utlanan sang imo duta"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "utlanan"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "sang imo duta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "pagapamanahon sa imo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga Elohim mo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "agod"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "magdalagan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "didto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tagsa ka"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "mamamatay-tao"
+    }
+  ],
+  "timestamp": "2026-09-21T22:24:52.651018889Z",
+  "model": "glm-5.3"
+}

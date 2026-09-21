@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Kundi ginpili niya ⟨את⟩ ang tribo ni Yehudah, ⟨את⟩ ang bukid sang Tsiyon nga iya ginhigugma.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "kung indi ginpili niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tribo ni Yehudah"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ang tribo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bukid sang Tsiyon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ang bukid"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "sang Tsiyon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "iya ginhigugma"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:03.456451777Z",
+  "model": "glm-5.3"
+}

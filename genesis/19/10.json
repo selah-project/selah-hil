@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag ginunat sang mga tawo ⟨את⟩ ang ila kamot kag ginpasulod nila ⟨את⟩ si Lot sa ila, ⟨sa sulod sang balay⟩, kag ⟨את⟩ ang pultahan ginserahan nila.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "ginunat"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "sang mga tawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ila kamot"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ang ila kamot"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ginpasulod nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "si Lot"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "⟨sa sulod sang balay⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang pultahan"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ang pultahan"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "ginserahan nila"
+    }
+  ],
+  "timestamp": "2026-09-21T22:16:12.889661600Z",
+  "model": "glm-5.3"
+}

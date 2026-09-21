@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 3:14",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag nahitabo, sang maggikan ang mga tawo sa ila mga tolda sa pagtabok sa ⟨את⟩ Yarden, kag ang mga saserdote nga nagsakdag sang kahon sang kasugtanan sa atubang sang mga tawo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "sang maggikan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "מאהליהם",
+      "gloss": "sa ila mga tolda"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "sa pagtabok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "kag ang mga saserdote"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "nagsakdag"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "kahon"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "kasugtanan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sang mga tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:35:25.131868022Z",
+  "model": "glm-5.3"
+}

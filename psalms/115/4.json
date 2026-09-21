@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 115,
+  "translation": "Ang ila mga hulad plata kag bulawan, buhat sang mga kamot sang tawo.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "ang ila mga hulad"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "plata"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "kag bulawan"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buhat"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mga kamot"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:19.469831376Z",
+  "model": "glm-5.3"
+}

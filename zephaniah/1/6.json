@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "kag ⟨את⟩ ang mga nagbulig sa likod ni Yahweh, kag ang wala nagpangita ⟨sa⟩ Yahweh, kag wala nagpangita sa iya",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga nagbulig"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "ang mga nagbulig"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "sa likod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kag ang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "nagpangita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "nagpangita sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:17:21.634343179Z",
+  "model": "glm-5.3"
+}

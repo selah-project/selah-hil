@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Indi ninyo pagasulayan ⟨את⟩ si Yahweh nga inyo nga Elohim, samtang ginsulayan ninyo siya sa Massah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "pagasulayan ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh nga inyo nga Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "inyo nga Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "samtang"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "ginsulayan ninyo"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "sa Massah"
+    }
+  ],
+  "timestamp": "2026-09-21T17:19:08.185693041Z",
+  "model": "glm-5.3"
+}

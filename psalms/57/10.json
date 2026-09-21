@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 57,
+  "translation": "Magadungog ako sa imo sa tanan nga katawohan, Adonay; magakanta ako sa imo sa mga pungsod.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "magadungog ako sa imo"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "sa tanan nga katawohan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "magakanta ako sa imo"
+    },
+    {
+      "surface": "בל",
+      "gloss": ""
+    },
+    {
+      "surface": "אמים",
+      "gloss": "sa mga pungsod"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:33.519494348Z",
+  "model": "glm-5.3"
+}

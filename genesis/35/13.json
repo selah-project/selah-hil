@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Kag nagtungas si Elohim gikan sa iya, sa duog nga diin nakighambal ⟨את⟩ iya.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Kag nagtungas"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "gikan sa iya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sa duog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga diin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nakighambal"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iya",
+      "marks": "iya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:11:38.833543226Z",
+  "model": "glm-5.3"
+}

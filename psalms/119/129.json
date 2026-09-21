@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 129,
+  "ref": "psalms 119:129",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Kataka-ta ang imo ⟨mga⟩ pagsaksi; tungod sini ginguwang ko sila sang akon kalag.",
+  "tokens": [
+    {
+      "surface": "פלאות",
+      "gloss": "kataka-ta"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ang imo pagsaksi"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sini"
+    },
+    {
+      "surface": "נצרתם",
+      "gloss": "ginguwang ko sila"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sang akon kalag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:50:24.984564700Z",
+  "model": "glm-5.3"
+}

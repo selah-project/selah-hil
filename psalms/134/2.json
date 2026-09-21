@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 134,
+  "translation": "Iangat ninyo ang inyo mga kamot sa balaan ⟨nga duog⟩, kag panalangini ninyo ⟨את⟩ si Yahweh.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Iangat ninyo"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "ang inyo mga kamot"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sa balaan ⟨nga duog⟩"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "kag panalangini ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:02.387845999Z",
+  "model": "glm-5.3"
+}

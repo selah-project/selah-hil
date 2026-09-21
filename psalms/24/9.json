@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Ibayaw ninyo ang inyo mga ulo, kamo nga mga ganghaan, kag ibayaw kamo, kamo nga mga pultahan sang dayon, kag magasulod ang Hari sang himaya.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "ibayaw ninyo"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "kamo nga mga ganghaan"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "ang inyo mga ulo"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "kag ibayaw kamo"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "kamo nga mga pultahan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sang dayon"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kag magasulod"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang Hari"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "sang himaya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:13.726270158Z",
+  "model": "glm-5.3"
+}

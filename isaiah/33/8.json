@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 33:8",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Nagkawalay ang mga dalan, nag-untat ang nagakatabok sa dalan; ginpukan ang kasugtanan, ginpakyas ⟨niya⟩ ang mga ciudad, wala ⟨niya⟩ ginbana-bana ang tawo.",
+  "tokens": [
+    {
+      "surface": "נשמו",
+      "gloss": "Nagkawalay"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "mga dalan"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "nag-untat"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ang nagakatabok"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ginpukan"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kasugtanan"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "ginpakyas"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mga ciudad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "ginbana-bana"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T22:31:00.359215065Z",
+  "model": "glm-5.3"
+}

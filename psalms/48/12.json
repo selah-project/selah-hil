@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 48,
+  "translation": "Magakalipay ang bukid sang Tsiyon, magatuok ⟨ang⟩ mga anak nga babae sang Yehudah tungod sa imo mga paghukom.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "magakalipay"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ang bukid"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "sang Tsiyon"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "magatuok"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "mga anak nga babae"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "imo mga paghukom"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:53.548128881Z",
+  "model": "glm-5.3"
+}

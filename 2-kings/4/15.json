@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag nagsiling siya: Tawga siya. Kag gintawag niya siya, kag nagtindog siya sa pultahan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "tawga"
+    },
+    {
+      "surface": "לה",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kag gintawag"
+    },
+    {
+      "surface": "לה",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "kag nagtindog"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "sa pultahan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:40:51.332143026Z",
+  "model": "glm-5.3"
+}

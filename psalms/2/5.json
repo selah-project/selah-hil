@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Sa sadto nga tion magahambal siya sa ila sa iya kaakig, kag sa iya kapungkig pagapangulbahon niya sila.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "sa sadto nga tion"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "magahambal siya"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "sa iya kaakig"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "kag sa iya kapungkig"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "pagapangulbahon niya sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:23:06.464048060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 36:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Didto natumba ang mga manugpanihawa sang kahanganasan: ginpalugsad sila, kag indi na sila makabangon.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "natumba"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "mga manugpanihawa"
+    },
+    {
+      "surface": "און",
+      "gloss": "sang kahanganasan"
+    },
+    {
+      "surface": "דחו",
+      "gloss": "ginpalugsad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "makabangon"
+    },
+    {
+      "surface": "קום",
+      "gloss": "bangon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:51.666049221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 134,
+  "translation": "Kanta sang mga Pagsaka. Tan-awa, panalangini ninyo ⟨את⟩ si Yahweh, tanan kamo nga mga sulugoon ni Yahweh, ang mga nagatindog sa balay ni Yahweh sa mga gab-i.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kanta"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sang mga Pagsaka"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "panalangini ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga sulugoon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ang mga nagatindog"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "sa mga gab-i"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:02.387497253Z",
+  "model": "glm-5.3"
+}

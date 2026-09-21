@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag si Yahweh, Elohim sang Tsevaot — si Yahweh amo ang iya handumanan.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "kag si Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim sang"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "amo ang iya handumanan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:06:06.969182265Z",
+  "model": "glm-5.3"
+}

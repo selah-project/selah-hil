@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Indi kamo magpalingin sa mga dios-dios, kag mga Elohim sang tinunaw indi kamo maghimo ⟨para⟩ sa inyo kaugalingon; ako si Yahweh nga inyo Elohim.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "magpalingin kamo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "mga dios-dios"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "kag mga Elohim"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "sang tinunaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "maghimo kamo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo kaugalingon"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "nga inyo Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:51:14.108661624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag ginpasakay siya sang iya mga sulugoon sa karwahe pakadto sa Yerushalayim, kag ginalubong nila siya sa iya lulubngan kaupod sang iya mga katigulangan, sa ciudad ni David.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "ginpasakay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sang iya mga sulugoon"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "pakadto sa Yerushalayim"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "kag ginalubong nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "sa iya lulubngan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sang iya mga katigulangan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa ciudad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-21T18:43:31.522426589Z",
+  "model": "glm-5.3"
+}

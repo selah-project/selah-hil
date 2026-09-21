@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 116,
+  "translation": "Ako naghambal sa akon kalisangan: ang tanan nga tawo bakak.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "naghambal"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "sa akon kalisangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "nga tawo"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "bakak"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:32.727501691Z",
+  "model": "glm-5.3"
+}

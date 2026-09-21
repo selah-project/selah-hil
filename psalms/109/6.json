@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 109,
+  "translation": "Ibutang mo ang isa ka dautan sa iya panggingkianan, kag magatindog ang contra sa iya too nga kilid.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "ibutang mo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa iya panggingkianan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "isa ka dautan"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "kag ang contra"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "magatindog"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "iya too nga kilid"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:32.053253044Z",
+  "model": "glm-5.3"
+}

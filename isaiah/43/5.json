@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 43,
+  "translation": "Indi pagkahadluk, kay ⟨את⟩ ako gabutang sa imo; halin sa sidlangan pagadal-on ko ang imo kaliwat, kag halin sa kasadpan tigtipon ko ikaw.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "pagkahadluk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "gabutang sa imo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "halin sa sidlangan"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "pagadal-on ko"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ang imo kaliwat"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "kag halin sa kasadpan"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "tigtipon ko ikaw"
+    }
+  ],
+  "timestamp": "2026-09-21T19:05:51.644668723Z",
+  "model": "glm-5.3"
+}

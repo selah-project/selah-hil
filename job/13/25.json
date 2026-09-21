@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Ang naligid nga dahon pagakulbaan mo, kag ⟨את⟩ ang uga nga dayami pagapangitaon mo?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "ang dahon"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "naligid"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "pagakulbaan mo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang uga nga dayami"
+    },
+    {
+      "surface": "קש",
+      "gloss": "dayami"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "uga"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "pagapangitaon mo"
+    }
+  ],
+  "timestamp": "2026-09-21T22:41:50.345194999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 92,
+  "translation": "Kay ginpalipay mo ako, Yahweh, sang imo ginhimo, sa mga buhat sang imo mga kamot magakanta ako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "ginpalipay mo ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "sang imo ginhimo"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "sa mga buhat"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "sang imo mga kamot"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "magakanta ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:07.934528414Z",
+  "model": "glm-5.3"
+}

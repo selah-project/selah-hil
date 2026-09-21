@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Itaas ⟨את⟩ ang ulo sang mga anak ni Kehat, gikan sa tunga sang mga anak ni Levi, suno sa ila mga banay, suno sa balay sang ila mga amay.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Itaas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ulo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ang ulo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sang mga anak"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ni Kehat"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "gikan sa tunga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sang mga anak"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ni Levi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "suno sa ila mga banay"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "suno sa balay"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "sang ila mga amay"
+    }
+  ],
+  "timestamp": "2026-09-21T16:59:12.169416186Z",
+  "model": "glm-5.3"
+}

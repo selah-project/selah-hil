@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Magdayég kamo kay Yahweh sa kinor; sa nebel sang napulo ka kuwerdas magkanta kamo sa iya.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "magdayég kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "sa kinor"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "sa nebel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "sang napulo ka kuwerdas"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "magkanta kamo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:56.315366550Z",
+  "model": "glm-5.3"
+}

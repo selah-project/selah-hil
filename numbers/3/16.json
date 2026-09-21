@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ginilhan ni Moshe ⟨אתם⟩ suno sa gin hambal ni Yahweh, nga asmak kon ano ang iya ginasogo.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Kag ginilhan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sila (ang mga Levita)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "suno sa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "gin hambal ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nga asmak kon ano"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginasogo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:59:09.810446445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 130,
+  "translation": "Kag siya magatubos ⟨את⟩ sang Yisrael sa tanan niya mga sala.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Kag siya"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "magatubos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "niya mga sala"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:26.920585446Z",
+  "model": "glm-5.3"
+}

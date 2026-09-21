@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 46,
+  "translation": "Nagaungol kag nagabukal ang iya mga tubig; nagakurog ang mga bukid sa iya kadungganan. Selah.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "nagaungol"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "nagabukal"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "iya mga tubig"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "nagakurog"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mga bukid"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "sa iya kadungganan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:06.185210312Z",
+  "model": "glm-5.3"
+}

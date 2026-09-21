@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 96,
+  "translation": "Hambala ninyo sa mga pungsod: Naghari si Yahweh! Gintindog gid ang kalibutan, indi na ini ginturog; magahukom siya sang mga katawhan sa kaugmad.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Hambala ninyo"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa mga pungsod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Naghari"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gid"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "gintindog"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ang kalibutan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indi na"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ginturog"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "magahukom siya"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "sang mga katawhan"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "sa kaugmad"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:39.876694791Z",
+  "model": "glm-5.3"
+}

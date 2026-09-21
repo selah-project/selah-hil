@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag ⟨את⟩ ang Dagat gintindog niya sa to-o nga abaga, sa sidlakan, tupad sa timugan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Dagat"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ang Dagat"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gintindog"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "sa abaga"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "to-o"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "sa sidlakan"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "tupad"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "sa timugan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:01:00.824850695Z",
+  "model": "glm-5.3"
+}

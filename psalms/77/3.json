@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 77,
+  "translation": "Sa adlaw sang akon kalisud ginpangita ko si Adonay; sa gab-i ginaawas ang akon kamot kag wala nagpahuway; nagdumili sing kahulas ang akon kalag.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "sang akon kalisud"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "si Adonay"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "ginpangita ko"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ang akon kamot"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "sa gab-i"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "ginaawas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "nagpahuway"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "nagdumili"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "sing kahulas"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:39.594591154Z",
+  "model": "glm-5.3"
+}

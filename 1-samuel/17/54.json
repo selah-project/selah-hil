@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag ginkuha ni David ⟨את⟩ ang ulo sang Pelistiyano kag gindala niya ini sa Yerushalayim, kag ⟨את⟩ ang iya mga galamiton ginpwesto niya sa iya tolda.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kag ginkuha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ulo sang Pelistiyano"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ang ulo"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "sang Pelistiyano"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "kag gindala niya ini"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya mga galamiton"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ang iya mga galamiton"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ginpwesto"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "sa iya tolda"
+    }
+  ],
+  "timestamp": "2026-09-21T18:05:24.689436234Z",
+  "model": "glm-5.3"
+}

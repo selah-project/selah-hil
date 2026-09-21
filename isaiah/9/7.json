@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Ginpadala ni Adonay ang isa ka pulong sa Yakov, kag nagpatibuk ini sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ang isa ka pulong"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Ginpadala"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "sa Yakov"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "kag nagpatibuk"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T18:56:09.405110922Z",
+  "model": "glm-5.3"
+}

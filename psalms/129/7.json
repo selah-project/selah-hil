@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 129,
+  "translation": "Nga wala mapuno sang man-anhi ang iya palad, kag wala man mapuno sang nagatigbun sang bugas ang iya dabaw.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "nga wala"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "mapuno"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "ang iya palad"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "sang man-anhi"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "kag ang iya dabaw"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "sang nagatigbun sang bugas"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:50.814976306Z",
+  "model": "glm-5.3"
+}

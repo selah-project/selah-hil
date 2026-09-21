@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kag ibutang mo ang putong sa iya ulo, kag iputhar mo ⟨את⟩ ang korona sang kabalaan sa putong.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ibutang mo"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "ang putong"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "iya ulo"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "iputhar mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang korona sang kabalaan"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "korona"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sang kabalaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "putong"
+    }
+  ],
+  "timestamp": "2026-09-21T16:33:55.569854341Z",
+  "model": "glm-5.3"
+}

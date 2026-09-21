@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kag ginkuha nila siya kag gintimo nila ⟨את⟩ siya sa bubon; kag ang bubon wala sing sulod, wala sing tubig sa sulod sini.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "kag ginkuha nila siya"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "kag gintimo nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "sa bubon"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "kag ang bubon"
+    },
+    {
+      "surface": "רק",
+      "gloss": "wala sing sulod"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa sulod sini"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sing tubig"
+    }
+  ],
+  "timestamp": "2026-09-21T16:13:29.787902521Z",
+  "model": "glm-5.3"
+}

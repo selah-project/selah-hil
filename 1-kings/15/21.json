@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Kag sang madunggan ini ni Baasha, nagpundo siya sa pagtubood ⟨את⟩ Rama, kag nagpuyo siya sa Tirtsa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag sang"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "madunggan ini"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ni Baasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "nagpundo siya"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "sa pagtubood"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kag nagpuyo siya"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "sa Tirtsa"
+    }
+  ],
+  "timestamp": "2026-09-21T18:35:31.874760451Z",
+  "model": "glm-5.3"
+}

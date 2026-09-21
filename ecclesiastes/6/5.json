@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Gani bisan ang adlaw wala pa gintan-aw sini kag wala gintawo ⟨ang bisan ano⟩; dorog ang pahuway sang sini sangsa sang sina.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "gani bisan"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gintan-aw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "gintawo"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ang pahuway"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "sang sini"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "sangsa sang sina"
+    }
+  ],
+  "timestamp": "2026-09-21T22:43:03.077336205Z",
+  "model": "glm-5.3"
+}

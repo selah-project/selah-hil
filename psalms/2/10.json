@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag subong, mga hari, magligad kamo sa kaalam; magpaathag kamo, mga manoghukom sang duta.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kag subong"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "magligad kamo sa kaalam"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "magpaathag kamo"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "mga manoghukom"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:33.405602548Z",
+  "model": "glm-5.3"
+}

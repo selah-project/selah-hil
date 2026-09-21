@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Ang mga batang leon nagkulang kag naggutom, apang ang mga nangita kay Yahweh indi magakulang sang bisan ano nga maayo.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "Ang mga batanging leon"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "nagkulang"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "kag nagkagutom"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "apang ang mga nangita kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "magakulang sang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bisan ano nga"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:02.998855351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 22:2",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kag kon indi duol sa imo ang imo utod kag indi mo siya kilalahon, dad-a mo siya sa sulod sang imo balay, kag magapabilin siya kaupod sa imo tubtob sa pagpangita sang imo utod ⟨sa iya⟩, kag ibalik mo siya sa iya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "duol"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "imo utod"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "ידעתו",
+      "gloss": "mo siya kilalahon"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "kag dad-a mo siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "sulod"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "sang imo balay"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kag magapabilin"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kaupod sa imo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "sa pagpangita"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "imo utod"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "siya (ang butang nga ginapangita)"
+    },
+    {
+      "surface": "והשבתו",
+      "gloss": "kag ibalik mo siya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T17:27:31.737449499Z",
+  "model": "glm-5.3"
+}

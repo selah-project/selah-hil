@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag si Avram walo ka pulo kag anom ka tuig na sang mataya ni Hagar ⟨את⟩ si Yishmael kay Avram.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "kag si Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "walo ka pulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "kag anom"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "sang mataya"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ni Hagar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yishmael"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "si Yishmael"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "kay Avram"
+    }
+  ],
+  "timestamp": "2026-09-21T16:00:40.070936557Z",
+  "model": "glm-5.3"
+}

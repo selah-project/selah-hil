@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 6:15",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag ang pari nga ginpahidan sang lana, sa iya duog, sa iya mga anak, amo ang magahimo ⟨אתה⟩ sini: kasogdan sang dayon kay Yahweh, bug-os nga itonogon.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "kag ang pari"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "gintahid sang lana"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sa iya duog"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "sa iya mga anak"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "magahimo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "ini (ang halad)"
+    },
+    {
+      "surface": "חק",
+      "gloss": "kasogdan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dayon"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "bug-os"
+    },
+    {
+      "surface": "תקטר",
+      "gloss": "itonogon sa aso"
+    }
+  ],
+  "timestamp": "2026-09-21T16:43:43.611066984Z",
+  "model": "glm-5.3"
+}

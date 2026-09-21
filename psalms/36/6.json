@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Yahweh, sa mga langit ang imo hesed; ang imo pagkamatinud-anon tubtob sa mga panganod.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "sa mga langit"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ang imo hesed"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ang imo pagkamatinud-anon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob sa"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "mga panganod"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:39.427374924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 33:20",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Tan-awa ang Tsiyon, ang duta sang aton mga katipunan; makita sang imo mga mata ang Yerushalayim, isa ka puy-anan nga malinaw, isa ka tolda nga indi magalichan, indi mabukid ang iya mga tukod sing dayon, kag ang tanan niya nga mga lubid indi maputol.",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ang Tsiyon"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "מועדנו",
+      "gloss": "sang aton mga katipunan"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "imo mga mata"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "makita"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "נוה",
+      "gloss": "puy-anan"
+    },
+    {
+      "surface": "שאנן",
+      "gloss": "nga malinaw"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יצען",
+      "gloss": "magalichan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יסע",
+      "gloss": "mabukid"
+    },
+    {
+      "surface": "יתדתיו",
+      "gloss": "iya mga tukod"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sing dayon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "חבליו",
+      "gloss": "niya nga mga lubid"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ינתקו",
+      "gloss": "maputol"
+    }
+  ],
+  "timestamp": "2026-09-21T19:01:54.019401657Z",
+  "model": "glm-5.3"
+}

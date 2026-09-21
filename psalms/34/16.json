@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Ang mga mata ni Yahweh ⟨⟨sa⟩⟩ mga matarong, kag ang iya mga dalan-gan sa ila pagpananggit.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mga mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨sa⟩"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "mga matarong"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "kag iya mga dalan-gan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "ila pagpananggit"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:17.818852179Z",
+  "model": "glm-5.3"
+}

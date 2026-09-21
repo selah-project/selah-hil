@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Kag ibutang ko ang iya kamot sa dagat, kag ang iya tuo nga kamot sa mga suba.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "kag ibutang ko"
+    },
+    {
+      "surface": "בים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang iya kamot"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "kag sa mga suba"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ang iya tuo nga kamot"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:57.113224325Z",
+  "model": "glm-5.3"
+}

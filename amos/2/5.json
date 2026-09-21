@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag magapadala ako sang kalayo sa Yehudah, kag magakaon ini sang mga kuta sang Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "kag magapadala ako"
+    },
+    {
+      "surface": "אש",
+      "gloss": "sang kalayo"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "kag magakaon"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "mga kuta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sang Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-21T20:09:39.345335859Z",
+  "model": "glm-5.3"
+}

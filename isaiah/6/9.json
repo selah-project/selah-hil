@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag naghambal ⟨siya⟩: Lakat, kag ikaw maghambal sa sini nga katawhan, nga nagapamati gid kag indi makasabot, kag nagakita gid kag indi makakilala.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag naghambal"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Lakat"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "kag ikaw maghambal"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "sa sini nga katawhan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sini"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nga nagapamati"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "gid"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "makasabot"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "kag nagakita"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "gid"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "makakilala"
+    }
+  ],
+  "timestamp": "2026-09-21T18:53:57.803471320Z",
+  "model": "glm-5.3"
+}

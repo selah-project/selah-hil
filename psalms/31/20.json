@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Gaano kadako ang imo kaayuhan, nga imo gintago para sa mga nagakahadlok sa imo, nga imo ginhimo para sa mga nagasalig sa imo, atubang sang mga anak sang tawo!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Gaano"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kadako"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "imo kaayuhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "gintago"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "para sa mga nagakahadlok sa imo"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "para sa mga nagasalig"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "atubang sang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:11.374236760Z",
+  "model": "glm-5.3"
+}

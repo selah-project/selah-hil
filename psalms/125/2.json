@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 125,
+  "translation": "Yerushalayim — mga bukid sa palibot sang iya, kag si Yahweh sa palibot sang iya nga katawhan, subong kag tubtob sa dayon.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mga bukid"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sang iya"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "kag si Yahweh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "sang iya nga katawhan"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "subong"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag tubtob"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sa dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:09.581174897Z",
+  "model": "glm-5.3"
+}

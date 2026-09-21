@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 15:8",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Kay naglibot ang singgit sa ⟨את⟩ sang utlanan sang Moab; hasta Eglaim ang iya pagpaninghalas, kag sa Beer-Elim ang iya pagpaninghalas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הקיפה",
+      "gloss": "naglibot"
+    },
+    {
+      "surface": "הזעקה",
+      "gloss": "ang singgit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utlanan sang Moab"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "utlanan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "sang Moab"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "אגלים",
+      "gloss": "Eglaim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "ang iya pagpaninghalas"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "kag sa Beer"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "Elim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "ang iya pagpaninghalas"
+    }
+  ],
+  "timestamp": "2026-09-21T18:58:01.809792273Z",
+  "model": "glm-5.3"
+}

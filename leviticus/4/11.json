@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag ⟨את⟩ ang panit sang baka kag ⟨את⟩ tanán nga iya unod, kaupod sang iya ulo kag sang iya mga tiil, kag iya sulud kag iya tae.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang panit"
+    },
+    {
+      "surface": "עור",
+      "gloss": "panit"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sang baka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanán nga iya unod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanán"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "iya unod"
+    },
+    {
+      "surface": "על",
+      "gloss": "kaupod"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "iya ulo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag kaupod"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "iya mga tiil"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "kag iya sulud"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "kag iya tae"
+    }
+  ],
+  "timestamp": "2026-09-21T16:42:51.936800260Z",
+  "model": "glm-5.3"
+}

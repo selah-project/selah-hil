@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Patya mo gid ⟨את⟩ ang mga pumoluyo sang Ciudad nga ina paagi sang espada; himuon mo ining asterion — ⟨את⟩ kag ⟨את⟩ tanan nga ari sa sulod sini kag ⟨את⟩ iya mga sapat paagi sang espada",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "Patya mo gid"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "gid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pumoluyo sang Ciudad nga ina"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ang mga pumoluyo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sang Ciudad"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nga ina"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "paagi sang"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "espada"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "himon mo ining asterion"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ina Ciudad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga ari sa sulod sini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ari sa sulod sini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga sapat"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "iya mga sapat"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "paagi sang"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "espada"
+    }
+  ],
+  "timestamp": "2026-09-21T17:23:54.738523681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag ang hari nga si Shelomah naghigugma sang madamo nga mga babaeng dayo, kag ⟨את⟩ sang anak nga babae ni Paro — mga Moabita, mga Ammonita, mga Edomita, mga Tsidonita, mga Heteo.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Kag ang hari"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "naghigugma"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "mga babae"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "dayo"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "madamo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang anak nga babae"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babae"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "mga Moabita"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "mga Ammonita"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "mga Edomita"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "mga Tsidonita"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "mga Heteo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:34:07.164992231Z",
+  "model": "glm-5.3"
+}

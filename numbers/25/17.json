@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 25:17",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Palisdanan ninyo ⟨את⟩ ang mga Midyanhon kag latayon ninyo ⟨את⟩ ⟨אותם⟩.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "palisdanan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga Midyanhon"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "ang mga Midyanhon"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "kag latayon ninyo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "sila"
+    }
+  ],
+  "timestamp": "2026-09-21T17:10:18.835679098Z",
+  "model": "glm-5.3"
+}

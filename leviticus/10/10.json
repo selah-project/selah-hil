@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "kag sa pag-ilain ⟨ang⟩ balaan kag ⟨ang⟩ indi balaan, kag ⟨ang⟩ marumi kag ⟨ang⟩ malinis,",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "kag sa pag-ilain"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taliwa sa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ang balaan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "kag taliwa sa"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ang indi balaan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "kag taliwa sa"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ang marumi"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "kag taliwa sa"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "ang malinis"
+    }
+  ],
+  "timestamp": "2026-09-21T22:20:57.804872383Z",
+  "model": "glm-5.3"
+}

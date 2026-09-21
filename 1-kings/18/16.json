@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag naglakat si Ovadyahu sa pagtilipong kay Ahab, kag ginpahibalo niya sa iya; kag naglakat si Ahab sa pagtilipong kay Eliyahu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kag naglakat"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "si Ovadyahu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "sa pagtilipong"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "kay Ahab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "kag ginpahibalo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kag naglakat"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "si Ahab"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "sa pagtilipong"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "kay Eliyahu"
+    }
+  ],
+  "timestamp": "2026-09-21T22:30:26.833709591Z",
+  "model": "glm-5.3"
+}

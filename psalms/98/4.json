@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 98,
+  "translation": "Magtingob-singgit kamo kay Yahweh, tanan ⟨ang⟩ duta; magbukas kamo sang tingog, maglipay, kag magkanta.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "magtingob-singgit kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "magbukas kamo sang tingog"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "maglipay"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "magkanta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:19.598553220Z",
+  "model": "glm-5.3"
+}

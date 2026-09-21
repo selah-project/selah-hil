@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 43,
+  "translation": "Kag magasulod ako sa halaran sang Elohim, sa El, kalipay sang akon pagkalipay; kag magadayaw ako sa imo sa kinor, Elohim, ang akon Elohim.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "Kag magasulod ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "kalipay"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "sang akon pagkalipay"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "kag magadayaw ako sa imo"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "sa kinor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang akon Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:11.749117593Z",
+  "model": "glm-5.3"
+}

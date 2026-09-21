@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag umabot ang hari halin sa Damasek, kag nakita sang hari ⟨את⟩ ang halaran, kag nagpalapit ang hari sa halaran, kag nagsakat siya sa iya.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "kag umabot"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "halin sa Damasek"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "kag nakita"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang halaran"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ang halaran"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "kag nagpalapit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ang halaran"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "kag nagsakat"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "siya sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T18:46:57.318235499Z",
+  "model": "glm-5.3"
+}

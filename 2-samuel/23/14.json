@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 23:14",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag si David sadto sadto nga tion sa kota, kag ang punonganan sang mga Pelishteano sadto sa Beit-Lechem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Kag si David"
+    },
+    {
+      "surface": "אז",
+      "gloss": "sadto sadto nga tion"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "sa kota"
+    },
+    {
+      "surface": "ומצב",
+      "gloss": "kag ang punonganan sang"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Pelishteano"
+    },
+    {
+      "surface": "אז",
+      "gloss": "sadto"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-09-21T22:28:59.666995383Z",
+  "model": "glm-5.3"
+}

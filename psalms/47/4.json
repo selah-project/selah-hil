@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 47,
+  "translation": "Ginapasakop niya ⟨ang⟩ mga pungsod sa aton, kag ang mga nasod sa aton ⟨mga⟩ tiil.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "ginapasakop niya"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mga pungsod"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "sa aton"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "kag ang mga nasod"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa aton"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "mga tiil"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:30.190822523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Ang napulo ka anak ni Haman, anak ni Hamedata, nga kaaway sang mga Yehudi, amo ang ginpatay nila; apang sa pagpanguha wala nila ginpadala ⟨את⟩ ang ila kamot.",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ka anak"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ni Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "ni Hamedata"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "kaaway"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "sang mga Yehudi"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ginpatay nila"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "apang sa pagpanguha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ginpadala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ila kamot"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ang ila kamot"
+    }
+  ],
+  "timestamp": "2026-09-21T21:30:50.838989652Z",
+  "model": "glm-5.3"
+}

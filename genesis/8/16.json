@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Gua ka sa arka — ikaw, kag ang imo asawa, kag ang imo mga anak, kag ang mga asawa sang imo mga anak, kaupod ⟨את⟩ sa imo.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Gua ka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "hali sa"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "kag ang imo asawa"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "kag ang imo mga anak"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "kag ang mga asawa"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "sang imo mga anak"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "kaupod sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T15:57:00.003368365Z",
+  "model": "glm-5.3"
+}

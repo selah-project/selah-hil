@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 15:18",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Sang ina nga adlaw nagputol ni Yahweh kay ⟨את⟩ Avram sang kasugtanan, nga nagaingon: Sa imo nga kaliwat ginhatag ko ⟨את⟩ ina nga duta, tikang sa suba sang Mitsrayim tubtob sa dako nga suba, ang suba Perat.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Sang adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ina nga"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "nagputol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sang kasugtanan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "Sa imo nga kaliwat"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ginhatag ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ina nga duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ina nga duta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ina"
+    },
+    {
+      "surface": "מנהר",
+      "gloss": "tikang sa suba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "sa suba"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "nga dako"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "ang suba"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    }
+  ],
+  "timestamp": "2026-09-21T16:00:38.737337110Z",
+  "model": "glm-5.3"
+}

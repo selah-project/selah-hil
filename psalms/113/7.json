@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 113,
+  "translation": "Nagapatindog siya sang mahinakupon gikan sa yab-ok, kag nagapatimawa sang kabos gikan sa imburnada;",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "nagapatindog siya"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "gikan sa yab-ok"
+    },
+    {
+      "surface": "דל",
+      "gloss": "sang mahinakupon"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "gikan sa imburnada"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "nagapatimawa"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "sang kabos"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:26.232476165Z",
+  "model": "glm-5.3"
+}

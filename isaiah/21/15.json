@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kay sa atubang sang mga tabak nagpalagi sila, sa atubang sang tabak nga ginsikway, kag sa atubang sang busog nga gintudlok, kag sa atubang sang mabug-at nga gubat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sa atubang sang"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "mga tabak"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "nagpalagi sila"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sa atubang sang"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tabak"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "nga ginsikway"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "kag sa atubang sang"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "busog"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "nga gintudlok"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "kag sa atubang sang"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "mabug-at"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "gubat"
+    }
+  ],
+  "timestamp": "2026-09-21T18:57:31.176778450Z",
+  "model": "glm-5.3"
+}

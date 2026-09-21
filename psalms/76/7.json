@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 76,
+  "translation": "Gikan sa imo pagbadbad sang kaakig, Elohim ni Yaakov, napungguy ang karosa kag ang kabayo.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "Gikan sa imo pagbadbad sang kaakig"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "napungguy"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "ang karosa"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "kag ang kabayo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:15.209732904Z",
+  "model": "glm-5.3"
+}

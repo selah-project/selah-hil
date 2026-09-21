@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 124,
+  "translation": "kon wala si Yahweh nga ⟨ara⟩ sa aton, sang magtindog ang tawo batok sa aton,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "kon wala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "nga ⟨ara⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa aton"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "sang magtindog"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "batok sa aton"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ang tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:48.674953322Z",
+  "model": "glm-5.3"
+}

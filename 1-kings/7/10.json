@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag ang pundasyon ⟨mga⟩ bato nga mahal, mga bato nga dako: mga bato sang napulo ka siko kag mga bato sang walo ka siko.",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "Kag ang pundasyon"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "nga mahal"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "nga dako"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mga bato sang"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ka siko"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "kag mga bato sang"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "walo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ka siko"
+    }
+  ],
+  "timestamp": "2026-09-21T18:27:56.007375383Z",
+  "model": "glm-5.3"
+}

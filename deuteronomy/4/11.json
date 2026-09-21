@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 4:11",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "kag nagpalapit kamo kag nagtindog kamo sa ilalom sang bukid, kag ang bukid nagadila sa kalayo hasta sa tagipusuon sang mga langit — kadulom, panganod kag gagab-iton.",
+  "tokens": [
+    {
+      "surface": "ותקרבון",
+      "gloss": "kag nagpalapit kamo"
+    },
+    {
+      "surface": "ותעמדון",
+      "gloss": "kag nagtindog kamo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalom"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "sang bukid"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "kag ang bukid"
+    },
+    {
+      "surface": "בער",
+      "gloss": "nagadila"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sa tagipusuon"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sang mga langit"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kadulom"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "panganod"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "kag gagab-iton"
+    }
+  ],
+  "timestamp": "2026-09-21T17:19:45.482076614Z",
+  "model": "glm-5.3"
+}

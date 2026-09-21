@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Gani nagtindog sila kag nagpalagyo sa pagdulom, kag ginbilin nila ⟨את⟩ ang ila mga tolda kag ⟨את⟩ ang ila mga kabayo kag ⟨את⟩ ang ila mga buriko — ang kampo samtang amo ina — kag nagpalagyo sila para sa ila kabuhi.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "gani nagtindog sila"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "kag nagpalagyo"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "sa pagdulom"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "kag ginbilin nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ila mga tolda"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "ang ila mga tolda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ila mga kabayo"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "ang ila mga kabayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ila mga buriko"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "ang ila mga buriko"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ang kampo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "samtang amo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ina"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "kag nagpalagyo sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "para sa"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ila kabuhi"
+    }
+  ],
+  "timestamp": "2026-09-21T18:42:01.230611171Z",
+  "model": "glm-5.3"
+}

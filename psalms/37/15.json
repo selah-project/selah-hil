@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Ang ila sundang magasulod sa ila kaugalingon nga tagipusuon, kag ang ila mga pana magakalaglag.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "ila sundang"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "magasulod"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "sa ila tagipusuon"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "kag ila mga pana"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "magakalaglag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:30:05.177168140Z",
+  "model": "glm-5.3"
+}

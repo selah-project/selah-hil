@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 115,
+  "translation": "Mga dunggan ang ila ⟨ara⟩ kag indi sila makabati; ilong ang ila ⟨ara⟩ kag indi sila makaamoy.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "mga dunggan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "makabati"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ilong"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "makaamoy"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:18.734259894Z",
+  "model": "glm-5.3"
+}

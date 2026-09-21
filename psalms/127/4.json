@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 127,
+  "translation": "Subong sa mga pana sa kamot sang gamhanan, amo man ang mga anak sang kabatan-on.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "Subong sa mga pana"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "sang gamhanan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "amo man"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "sang kabatan-on"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:45.486953853Z",
+  "model": "glm-5.3"
+}

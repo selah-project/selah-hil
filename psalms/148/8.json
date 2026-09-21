@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 148,
+  "translation": "Kalayo kag yelo, nyebe kag ulop, hangin sang bagyo, ang naghimo sang iya pulong",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Kalayo"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "kag yelo"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "nyebe"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "kag ulop"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hangin"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "sang bagyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ang naghimo"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sang iya pulong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:37.427575860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag sa sini nga katawhan imo hambalon: Amo ini ang ginahambal ni Yahweh: Yari ako magahatag sa atubang ninyo ⟨את⟩ ang dalan sang kabuhi kag ⟨את⟩ ang dalan sang kamatayon.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sini nga"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "imo hambalon"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Amo ini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang ginahambal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Yari ako"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "magahatag"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "sa atubang ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dalan sang kabuhi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "sang kabuhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang dalan sang kamatayon"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "המות",
+      "gloss": "sang kamatayon"
+    }
+  ],
+  "timestamp": "2026-09-21T19:24:48.942750862Z",
+  "model": "glm-5.3"
+}

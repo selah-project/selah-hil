@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kag nakita ni Balak nga anak ni Tsipor ⟨את⟩ tanan nga ginhimo sang Yisrael sa Emori.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "kag nakita"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ni Balak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ni Tsipor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "sa Emori"
+    }
+  ],
+  "timestamp": "2026-09-21T17:10:04.660503596Z",
+  "model": "glm-5.3"
+}

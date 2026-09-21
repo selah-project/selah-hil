@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Wala sing pahinumdom sa mga nahauna; kag bisan sa mga ulihi nga magaabot, indi magakabuhi sing pahinumdom sa ila kaupod sang mga umalabot sa ulahi.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "pahinumdom"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "sa mga nahauna"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kag bisan"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "sa mga ulihi"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "nga magaabot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magakabuhi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "pahinumdom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "sang mga magaabot"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "sa ulahi"
+    }
+  ],
+  "timestamp": "2026-09-21T21:25:27.752163909Z",
+  "model": "glm-5.3"
+}

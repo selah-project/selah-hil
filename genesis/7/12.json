@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag ang ulan nag-abot sa duta apat ka pulo ka adlaw kag apat ka pulo ka gab-i.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kag"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ang ulan nag-abot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "apat ka pulo ka"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "kag apat ka pulo ka"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gab-i"
+    }
+  ],
+  "timestamp": "2026-09-21T15:56:58.603753636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Ang tingog ni Yahweh nagapakurog sang kamingawan; nagapakurog si Yahweh sang kamingawan sang Kadesh.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "nagapakurog"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kamingawan"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "nagapakurog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kamingawan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:42.714877108Z",
+  "model": "glm-5.3"
+}

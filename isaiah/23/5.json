@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Sing sa pagkabati sang balita sa Mitsrayim, nagakurog sila; sing sa pagkabati parte sa Tsor.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "sing sa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "pagkabati sang balita"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "nagakurog sila"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "sing sa pagkabati"
+    },
+    {
+      "surface": "צר",
+      "gloss": "parte sa Tsor"
+    }
+  ],
+  "timestamp": "2026-09-21T18:59:54.861222273Z",
+  "model": "glm-5.3"
+}

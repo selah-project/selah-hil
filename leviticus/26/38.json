@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Kag magakalag kamo sa tunga sang mga pungsod, kag magakaon sang duta sang inyo mga kaaway sa inyo ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "magakalag kamo"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa tunga sang mga pungsod"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "kag magakaon"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sa inyo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "sang inyo mga kaaway"
+    }
+  ],
+  "timestamp": "2026-09-21T16:57:06.947304011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 26:13",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Ako si Yahweh ang inyo Elohim, nga nagguha ⟨את⟩ sa inyo gikan sa duta sang Mitsrayim, sa pagka sang inyo mga uripon sa ila, kag ginbal-o ko ang mga bara sang inyo aug, kag ginpakadto ko ⟨את⟩ kamo nga Komemyos.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ang inyo Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "nagguha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo",
+      "marks": "sa inyo (mga tagapaminaw)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "sa pagka"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "mga uripon"
+    },
+    {
+      "surface": "ואשבר",
+      "gloss": "kag ginbal-o ko"
+    },
+    {
+      "surface": "מטת",
+      "gloss": "ang mga bara"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "sang inyo aug"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "kag ginpakadto ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo",
+      "marks": "kamo"
+    },
+    {
+      "surface": "קוממיות",
+      "gloss": "nga Komemyos"
+    }
+  ],
+  "timestamp": "2026-09-21T16:56:19.924673405Z",
+  "model": "glm-5.3"
+}

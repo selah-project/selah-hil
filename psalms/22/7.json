@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Apang ako amo ang ulod, kag indi tawo; katalastasan sang mga tawo kag ginpagamyan sang katawhan.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "apang ako"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ang ulod"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "katalastasan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang mga tawo"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "kag ginpagamyan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sang katawhan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:02.613743179Z",
+  "model": "glm-5.3"
+}

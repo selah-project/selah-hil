@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Kag dugtaka mo ⟨את⟩ ang lima ka kurtina nga tag-iya, kag ⟨את⟩ ang anom ka kurtina nga tag-iya; kag doblehon mo ⟨את⟩ ang ikan-om nga kurtina sa atubangan sang tolda.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "kag dugtaka mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lima ka kurtina"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ka kurtina"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "nga tag-iya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang anom ka kurtina"
+    },
+    {
+      "surface": "שש",
+      "gloss": "anom"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ka kurtina"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "nga tag-iya"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "kag doblehon mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ikan-om nga kurtina"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "ang kurtina"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "ikan-om"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מול",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "atubangan"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "sang tolda"
+    }
+  ],
+  "timestamp": "2026-09-21T16:32:21.799388755Z",
+  "model": "glm-5.3"
+}

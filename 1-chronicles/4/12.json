@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag si Eshton natawoan ⟨את⟩ si Bet-Rafa, kag ⟨את⟩ si Paseach, kag ⟨את⟩ si Tchinah nga amay sang Ir-Nachash; ina ang mga tawo sang Rekha.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "Kag si Eshton"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawoan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Bet-Rafa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Paseach"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "si Paseach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Tchinah"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "si Tchinah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "amay"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nachash"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ina"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "sang Rekha"
+    }
+  ],
+  "timestamp": "2026-09-21T22:45:06.574292837Z",
+  "model": "glm-5.3"
+}

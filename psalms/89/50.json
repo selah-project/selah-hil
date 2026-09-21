@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Diin ang imo mga hesed sang una, Adonay, nga imo ginpangako kay David sang imo ⟨pagkamatinud-anon⟩?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "diin"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "imo mga hesed"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "sang una"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "ginpangako"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "sang imo pagkamatinud-anon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:21.207169963Z",
+  "model": "glm-5.3"
+}

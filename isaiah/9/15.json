@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kay ang mga nangunguna sang sining katawhan nagapaligoy ⟨sini⟩, kag ang mga ginaligoy sini ginalamun.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "naging"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "ang mga nangunguna"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sang katawhan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sining"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "nagapaligoy"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "kag ang mga ginaligoy"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "ginalamun"
+    }
+  ],
+  "timestamp": "2026-09-21T18:55:43.365649313Z",
+  "model": "glm-5.3"
+}

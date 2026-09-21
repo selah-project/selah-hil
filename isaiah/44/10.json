@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Sin-o ang naghimo sang El, kag nagtunaw sang pinta nga dios, sa wala ⟨ini⟩ sing pulos?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "naghimo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "kag pinta nga dios"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "nagtunaw"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "sa wala"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "sing pulos"
+    }
+  ],
+  "timestamp": "2026-09-21T19:07:55.949833680Z",
+  "model": "glm-5.3"
+}

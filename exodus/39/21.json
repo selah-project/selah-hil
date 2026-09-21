@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 39:21",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 39,
+  "translation": "Kag ginsikad nila ⟨את⟩ ang kahanas paagi sang iya mga singsing pakadto sa mga singsing sang eifod, paagi sa sinulid nga tekhelet, agod magpabilin ini sa habol sang eifod kag indi magpaligid ang kahanas palayo sa eifod, subong sa ginsugo ni Yahweh ⟨את⟩ kay Moshe.",
+  "tokens": [
+    {
+      "surface": "וירכסו",
+      "gloss": "kinsikad nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kahanas"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ang kahanas"
+    },
+    {
+      "surface": "מטבעתיו",
+      "gloss": "paagi sang iya mga singsing"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pakadto sa"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "mga singsing"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "sang eifod"
+    },
+    {
+      "surface": "בפתיל",
+      "gloss": "paagi sa sinulid"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet"
+    },
+    {
+      "surface": "להית",
+      "gloss": "agod magpabilin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "habol"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "sang eifod"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יזח",
+      "gloss": "magpaligid"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ang kahanas"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "palayo sa"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "eifod"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T16:40:52.263956531Z",
+  "model": "glm-5.3"
+}

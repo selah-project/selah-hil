@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag ginluwas ni Yahweh ⟨את⟩ ang Yisrael sa sadto nga adlaw, kag ang gubat nagtabok ⟨את⟩ sa Beit-Aven.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "Kag ginluwas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sadto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "kag ang gubat"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "nagtabok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Beit-Aven"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aven"
+    }
+  ],
+  "timestamp": "2026-09-21T18:04:10.550399372Z",
+  "model": "glm-5.3"
+}

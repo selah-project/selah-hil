@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag nabuhi si Terakh pito ka pulo ka tuig, kag natawo niya ⟨את⟩ si Avram, ⟨את⟩ si Nakhor, kag ⟨את⟩ si Haran.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "kag nabuhi"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "si Terakh"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "pito ka pulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "kag natawo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "si Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Nakhor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "si Nakhor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Haran"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "si Haran"
+    }
+  ],
+  "timestamp": "2026-09-21T15:58:56.810661844Z",
+  "model": "glm-5.3"
+}

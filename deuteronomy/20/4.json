@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kay si Yahweh nga inyo Elohim amo ang nagalakat kaupod sa inyo, sa pagpakig-away sa inyo batok sa inyo mga kaaway, sa pagluwas ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "nga inyo Elohim"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "amo ang nagalakat"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "kaupod sa inyo"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "sa pagpakig-away"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "batok"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "sa inyo mga kaaway"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "sa pagluwas"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:26:53.803686925Z",
+  "model": "glm-5.3"
+}

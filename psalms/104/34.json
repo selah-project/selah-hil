@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 104:34",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 104,
+  "translation": "Magamay ang akon pagpangamdum ⟨sa iya⟩; ako, magakalipay ako kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "יערב",
+      "gloss": "magamay"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨sa iya⟩"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "ang akon pagpangamdum"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "magakalipay ako"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:58.314886312Z",
+  "model": "glm-5.3"
+}

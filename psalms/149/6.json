@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 149,
+  "translation": "Mga pagpasidungog sa El sa ila tutunlan, kag espada nga may duha ka ngipon sa ila mga kamot.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "mga pagpasidungog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa El"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "sa ila tutunlan"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "kag espada"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "nga may duha ka ngipon"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "sa ila mga kamot"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:01.779816170Z",
+  "model": "glm-5.3"
+}

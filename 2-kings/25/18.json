@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Ginkuha sang puno sang mga manugpamatay ⟨את⟩ si Srayah nga pari, ang pangulo, kag ⟨את⟩ si Tsefanyahu nga pari, ang ikaduha, kag ⟨את⟩ ang tatlo ka bantay sang ganghaan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ginkuha"
+    },
+    {
+      "surface": "רב",
+      "gloss": "sang puno"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "sang mga manugpamatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Srayah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Srayah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "nga pari"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ang pangulo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Tsefanyahu"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanyahu"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "nga pari"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ang ikaduha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tatlo ka bantay sang ganghaan"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ang tatlo"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ka bantay"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "sang ganghaan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:52:42.124964643Z",
+  "model": "glm-5.3"
+}

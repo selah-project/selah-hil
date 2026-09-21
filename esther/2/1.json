@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Pagkatapos sang mga butang nga ina, sang nagpahuway na ang kaakig sang hari nga si Akhashverosh, natalumduman niya ⟨את⟩ si Vashti kag ⟨את⟩ ang iya ginhimo kag ⟨את⟩ ang ginpasiya batok sa iya.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Pagkatapos sang"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mga butang"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nga ina"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "sang nagpahuway na"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ang kaakig"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "nga si Akhashverosh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "natalumduman niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Vashti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "si Vashti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya ginhimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "iya ginhimo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang ginpasiya batok sa iya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "ginpasiya"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "batok sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T22:43:35.459760143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 71,
+  "translation": "Sa imo ako nasandig tikang sa tiyan, tikang sa sulod sang akon iloy; ikaw ang naggwa sa akon; sa imo ang akon pagdayaw sa tanan nga tion.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "ako nasandig"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "tikang sa tiyan"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "tikang sa sulod"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "sang akon iloy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "ang naggwa sa akon"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "ang akon pagdayaw"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sa tanan nga tion"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:01.099974545Z",
+  "model": "glm-5.3"
+}

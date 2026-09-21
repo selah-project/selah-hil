@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 3:3",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ang suga sang Elohim wala pa magpalong, kag si Shemuël nagakaturog sa templo ni Yahweh, diin ara ang kahon sang Elohim.",
+  "tokens": [
+    {
+      "surface": "ונר",
+      "gloss": "kag ang suga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "wala pa"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "magpalong"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "kag si Shemuël"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "nagakaturog"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "sa templo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ara"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ang kahon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T17:58:48.563492295Z",
+  "model": "glm-5.3"
+}

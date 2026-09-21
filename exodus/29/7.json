@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kag kuhaon mo ⟨את⟩ ang lana sang pagpahid, kag itulo mo sa iya ulo, kag pahiran mo ⟨את⟩ siya.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "kuhaon mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lana"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "sang pagpahid"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "itulo mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "iya ulo"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "pahiran mo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:33:55.569999203Z",
+  "model": "glm-5.3"
+}

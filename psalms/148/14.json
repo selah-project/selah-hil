@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 148:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 148,
+  "translation": "Kag ginpataas niya ang sungay sang iya katawhan, ⟨ang⟩ pagdayaw sa tanan nga iya mga matinud-anon, sa mga anak sang Yisrael, isa ka katawhan nga malapit sa iya; himdayaw kamo si Yah.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "kag ginpataas niya"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "ang sungay"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "sa iya katawhan"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "pagdayaw"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "iya mga matinud-anon"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "malapit sa iya"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "himdayaw kamo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "si Yah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:53.909377603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Kag ini amo ang kaliwat ni Esav, nga amay sang mga taga-Edom, sa bukid sang Seir.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "kag ini"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "kaliwat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "nga amay"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "sang mga taga-Edom"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    }
+  ],
+  "timestamp": "2026-09-21T16:10:28.926214636Z",
+  "model": "glm-5.3"
+}

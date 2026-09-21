@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Mag-andam ka sa imo kaugalingon, basin makalimot ka ⟨kay⟩ ⟨את⟩ si Yahweh nga nagguwa sa imo gikan sa duta sang Mitsrayim, gikan sa balay sang mga ulipon.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Mag-andam ka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo kaugalingon"
+    },
+    {
+      "surface": "פן",
+      "gloss": "basin"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "makalimot ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "nagguwa sa imo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "gikan sa balay"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "sang mga ulipon"
+    }
+  ],
+  "timestamp": "2026-09-21T17:19:20.529086956Z",
+  "model": "glm-5.3"
+}

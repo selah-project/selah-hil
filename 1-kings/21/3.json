@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 21:3",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag nagsiling si Navot kay Akhav: Layo sa ako gikan kay Yahweh nga ihatag ko ⟨את⟩ ang manoronson sang akon mga amay sa imo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag nagsiling"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akhav"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Layo sa ako"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa ako"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "gikan kay Yahweh"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "nga ihatag ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manoronson sang akon mga amay"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "manoronson"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "akon mga amay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:38:09.474135412Z",
+  "model": "glm-5.3"
+}

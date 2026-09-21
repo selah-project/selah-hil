@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Sang tingog naghambal: Magtawag. Kag naghambal ⟨siya⟩: Ano ang itatawag ko? Ang tanan nga unod amo ang hilamon, kag ang tanan nga hesed sini pareho sang bulak sang uma.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sang tingog"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "naghambal"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "magtawag"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "kag naghambal"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ang itatawag ko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nga unod"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "amo ang hilamon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "nga hesed sini"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "pareho sang bulak"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sang uma"
+    }
+  ],
+  "timestamp": "2026-09-21T19:05:49.031632832Z",
+  "model": "glm-5.3"
+}

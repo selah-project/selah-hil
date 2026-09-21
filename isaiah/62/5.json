@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 62:5",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 62,
+  "translation": "Kay subong nga ang batan-on magapangasawa sing dalaga, magapangasawa sa imo ang imo mga anak; kag subong nga kalipay sang kasal nga lalaki sa kasal nga babae, magakalipay sa imo ang imo Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay subong nga"
+    },
+    {
+      "surface": "יבעל",
+      "gloss": "magapangasawa"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "ang batan-on"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "sing dalaga"
+    },
+    {
+      "surface": "יבעלוך",
+      "gloss": "magapangasawa sa imo"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ang imo mga anak"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "kag kalipay"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "sang kasal nga lalaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "kasal nga babae"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "magakalipay"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ang imo Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T19:13:44.067661125Z",
+  "model": "glm-5.3"
+}

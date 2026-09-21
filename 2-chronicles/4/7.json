@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 4:7",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag naghimo siya ⟨את⟩ sang napulo ka menorah sang bulawan sumadsar sa ila kahulugan, kag nagbutang didto sa templo sing lima sa tuo kag lima sa wala.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kag naghimo siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "napulo ka menorah sang bulawan"
+    },
+    {
+      "surface": "מנרות",
+      "gloss": "napulo ka menorah"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "sang bulawan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "sumadsar sa ila kahulugan"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kag nagbutang"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "sa templo"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "sa tuo"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "kag lima"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "sa wala"
+    }
+  ],
+  "timestamp": "2026-09-21T22:01:04.979055901Z",
+  "model": "glm-5.3"
+}

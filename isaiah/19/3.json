@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 19:3",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag magaubos ang espiritu sang Mitsrayim sa iya sulud, kag ang iya tambag lawon ko, kag mangita sila sa mga elil kag sa mga manugbulong kag sa mga manugpatawag sa minatay kag sa mga batid sang tinago.",
+  "tokens": [
+    {
+      "surface": "ונבקה",
+      "gloss": "kag magaubos"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ang espiritu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "sa iya sulud"
+    },
+    {
+      "surface": "ועצתו",
+      "gloss": "kag ang iya tambag"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "lawon ko"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "kag mangita sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "mga elil"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "האטים",
+      "gloss": "mga manugbulong"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "mga manugpatawag sa minatay"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "mga batid sang tinago"
+    }
+  ],
+  "timestamp": "2026-09-21T18:58:32.058096222Z",
+  "model": "glm-5.3"
+}

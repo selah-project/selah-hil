@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 101,
+  "translation": "Magatuon ako sa dalan nga himpit — san-o ⟨ika⟩ magari sa akon? Magalakat ako sa kamatin-tinarong sang akon kasingkasing, sa sulod sang akon balay.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "magatuon ako"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "himpit"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "san-o"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "magari"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "magalakat ako"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "sa kamatin-tinarong"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "sang akon kasingkasing"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa sulod"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "sang akon balay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:16.533764510Z",
+  "model": "glm-5.3"
+}

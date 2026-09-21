@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag kay Makhir ginhatag ko ⟨את⟩ ang Gilad.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "kag kay Makhir"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ginhatag ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Gilad"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ang Gilad"
+    }
+  ],
+  "timestamp": "2026-09-21T17:17:59.000719696Z",
+  "model": "glm-5.3"
+}

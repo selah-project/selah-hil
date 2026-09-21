@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 100,
+  "translation": "Pag-alagad kamo ⟨את⟩ kay Yahweh nga may kalipay; magkadto kamo sa iya atubang nga may pag-amba.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "pag-alagad kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "nga may kalipay"
+    },
+    {
+      "surface": "באו",
+      "gloss": "magkadto kamo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa iya atubang"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "nga may pag-amba"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:36.579996278Z",
+  "model": "glm-5.3"
+}

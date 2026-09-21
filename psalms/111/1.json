@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 111,
+  "translation": "Magdayeg kamo kay Yah! Magasalamat ako kay Yahweh sing tibook nga kasingkasing, sa tinago nga katipunan sang mga matarong kag sa katilingban.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Magdayeg kamo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kay Yah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "magasalamat ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sing tibook"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "nga kasingkasing"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "sa tinago nga katipunan"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "sang mga matarong"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "kag sa katilingban"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:20.127821805Z",
+  "model": "glm-5.3"
+}

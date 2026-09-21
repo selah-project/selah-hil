@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 17:21",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag ⟨את⟩ ang tanan sang iya mga madaliwaton sa tanan sang iya mga pundo magapatumba sang espada, kag ang mga nabilin sa tanan nga hangin magawala, kag maduta kamo nga ako si Yahweh ang naghambal.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan sang iya mga madaliwaton"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "מברחו",
+      "gloss": "iya mga madaliwaton"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "אגפיו",
+      "gloss": "iya mga pundo"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sang espada"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "magapatumba"
+    },
+    {
+      "surface": "והנשארים",
+      "gloss": "kag ang mga nabilin"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hangin"
+    },
+    {
+      "surface": "יפרשו",
+      "gloss": "magawala"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "kag maduta kamo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "naghambal"
+    }
+  ],
+  "timestamp": "2026-09-21T19:47:33.157939259Z",
+  "model": "glm-5.3"
+}

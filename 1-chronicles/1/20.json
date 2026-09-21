@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag si Yoktan natahan ⟨את⟩ si Almodad, kag ⟨את⟩ si Sheleph, kag ⟨את⟩ si Khatsarmavet, kag ⟨את⟩ si Yerakh.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "kag si Yoktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "natahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "si Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Sheleph"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "si Sheleph"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Khatsarmavet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "si Khatsarmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Yerakh"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "si Yerakh"
+    }
+  ],
+  "timestamp": "2026-09-21T21:49:22.537933169Z",
+  "model": "glm-5.3"
+}

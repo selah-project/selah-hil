@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Kay ang imo hesed ara sa atubangan sang akon mga mata, kag nagpanglakoton ako sa imo kamatuoran.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ang imo hesed"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sang akon mga mata"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "kag nagpanglakoton ako"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "sa imo kamatuoran"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:35.271755296Z",
+  "model": "glm-5.3"
+}

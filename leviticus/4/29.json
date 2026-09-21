@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag ibutang niya ⟨את⟩ iya kamot sa ulo sang halad sang sala, kag ihawon niya ⟨את⟩ ang halad sang sala sa duog sang halad nga sinusunog.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "kag ibutang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya kamot"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "iya kamot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "sang halad sang sala"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "kag ihawon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang halad sang sala"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ang halad sang sala"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sa duog"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sang halad nga sinusunog"
+    }
+  ],
+  "timestamp": "2026-09-21T16:44:17.984096759Z",
+  "model": "glm-5.3"
+}

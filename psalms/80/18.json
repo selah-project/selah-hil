@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 80,
+  "translation": "Himoon ⟨nga⟩ ang imo kamot ⟨mabutang⟩ sa tawo sang imo too, sa anak sang tawo nga imo ginpakusog para sa imo.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "Himoon"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "imo kamot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "imo too"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "ginpakusog"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:16.019878868Z",
+  "model": "glm-5.3"
+}

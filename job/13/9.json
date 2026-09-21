@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Maayo bala nga usison niya ⟨את⟩ kamo? Ukon subong sang paghuya sang isa ka tawo sa isa ka tawo, magahuya bala kamo sa iya?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "Maayo bala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "usison niya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo",
+      "marks": "kamo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ukon"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "sang paghuya sang isa ka tawo"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "sa isa ka tawo"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "magahuya bala kamo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T21:09:18.049677417Z",
+  "model": "glm-5.3"
+}

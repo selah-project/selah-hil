@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 84,
+  "translation": "Ang amon taming, tan-awa, Elohim, kag lantawa ang dagway sang imo Mesiyas.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "ang amon taming"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "kag lantawa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ang dagway"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "sang imo Mesiyas"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:07.637405900Z",
+  "model": "glm-5.3"
+}

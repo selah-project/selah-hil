@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 71,
+  "translation": "Sa imo, Yahweh, ako nagpanimalay; indi ako pagpahiya sa dayon.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Sa imo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ako nagpanimalay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "pagpahiya ako"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:47.003804422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Punggion ni Yahweh ang tanan nga mga ngabil nga hamis, ang dila nga naghahambal sang mga butang nga dako.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "Punggion"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "nga mga ngabil"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "nga hamis"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ang dila"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "nga naghahambal"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "sang mga butang nga dako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:28.329410709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 39,
+  "translation": "Kag subong, ano ang akon ginaampo, Adonay? Ang akon paglaom ⟨sia⟩ sa imo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kag subong"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ang akon ginaampo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "ang akon paglaom"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨sia⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:08.264462097Z",
+  "model": "glm-5.3"
+}

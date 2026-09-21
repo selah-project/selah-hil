@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 118:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 118,
+  "translation": "Maghambal ⟨kamo⟩ gali ang Yisrael: kay tubtob sa dayon dayon ang iya hesed.",
+  "tokens": [
+    {
+      "surface": "יאמר",
+      "gloss": "maghambal"
+    },
+    {
+      "surface": "נא",
+      "gloss": "gali"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tubtob sa dayon dayon"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iya hesed"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:48.477086123Z",
+  "model": "glm-5.3"
+}

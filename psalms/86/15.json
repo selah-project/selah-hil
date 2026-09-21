@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 86,
+  "translation": "Apang ikaw, O Adonay, isa ka El nga maluluy-on kag marahagsagon, hinay-hinay magasuko kag dako ang hesed kag kamatuoran.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Apang ikaw"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "O Adonay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "isa ka El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "maluluy-on"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "kag marahagsagon"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "hinay-hinay"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "magasuko"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "kag dako ang"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "kag kamatuoran"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:12.581898201Z",
+  "model": "glm-5.3"
+}

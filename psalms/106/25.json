@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 106,
+  "translation": "Kag nagpanaghulipong sila sa ila mga tolda, wala sila nakabati sa tingog ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "kag nagpanaghulipong sila"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "sa ila mga tolda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nakabati sila"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sa tingog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:57.286122185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 21:3",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag nagbalik siya kag gintindog niya ⟨את⟩ ang mga hataas nga lugar nga ginlaglag ni Hizkiyahu nga iya amay, kag nagpatindog siya sang mga halaran kay Baal, kag naghimo siya sang Ashera, subong sang ginhimo ni Ahab nga hari sang Yisrael, kag nagduta siya sa tanan nga Tsevaot sang mga langit kag ginalag-an niya ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "kag nagbalik siya"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "kag gintindog niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga hataas nga lugar"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ang mga hataas nga lugar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ginlaglag"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ni Hizkiyahu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nga iya amay"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "kag nagpatindog siya"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "sang mga halaran"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "kay Baal"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "kag naghimo siya"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "sang Ashera"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Ahab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nga hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "kag nagduta siya"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sang mga langit"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "kag ginalag-an niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sila — ang Tsevaot sang mga langit"
+    }
+  ],
+  "timestamp": "2026-09-21T18:49:10.261587627Z",
+  "model": "glm-5.3"
+}

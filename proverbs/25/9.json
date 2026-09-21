@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Estoryahan ⟨את⟩ ang imo kaestoryahan sa imo kaabay, kag ang sikreto sang iban indi pagdaya.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "imo kaestoryahan"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "estoryahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imo kaabay"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "imo kaabay"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "kag ang sikreto"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sang iban"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "pagdaya"
+    }
+  ],
+  "timestamp": "2026-09-21T21:02:26.279069123Z",
+  "model": "glm-5.3"
+}

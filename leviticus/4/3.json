@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 4:3",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "kon ang pinahiran nga pari makasala sa pagdala sang sala sa mga tawo, magdala siya para sa iya sala nga iya ginhimo sang isa ka toro, anak sang baka, nga wala sing depekto, kay Yahweh, halad para sa sala.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang pari"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "pinahiran"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "makasala"
+    },
+    {
+      "surface": "לאשמת",
+      "gloss": "sa pagdala sang sala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa mga tawo"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "magdala siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "para sa"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "iya sala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "iya ginhimo"
+    },
+    {
+      "surface": "פר",
+      "gloss": "isa ka toro"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sang baka"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "nga wala sing depekto"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "halad para sa sala"
+    }
+  ],
+  "timestamp": "2026-09-21T16:42:02.752889748Z",
+  "model": "glm-5.3"
+}

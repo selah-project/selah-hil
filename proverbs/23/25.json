@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Magakalipay ang imo amay kag ang imo iloy, kag magakadungganan ang nagbugtos sa imo.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "magakalipay"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ang imo amay"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "kag ang imo iloy"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "kag magakadungganan"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "ang nagbugtos sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T21:01:57.921522670Z",
+  "model": "glm-5.3"
+}

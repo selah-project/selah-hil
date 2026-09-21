@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 8:19",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag nagsiling siya: Ang akon mga utod sila, mga anak sang akon iloy; buhi ⟨si⟩ Yahweh, kon ginpabuhi ninyo sila, wala ako nagpatay ⟨את⟩ sa inyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag nagsiling"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ang akon mga utod"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "sang akon iloy"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "חי",
+      "gloss": "buhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kon"
+    },
+    {
+      "surface": "החיתם",
+      "gloss": "ginpabuhi ninyo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila (mga utod ni Gideon)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הרגתי",
+      "gloss": "ako nagpatay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo",
+      "marks": "kamo (si Zeba kag si Zalmuna)"
+    }
+  ],
+  "timestamp": "2026-09-21T22:26:17.096740764Z",
+  "model": "glm-5.3"
+}

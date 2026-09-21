@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 43,
+  "translation": "Kag kon indi ikaw magapadala, indi kami magpanaug; kay ang tawo nagsiling sa amon, Indi kamo makakita sang akon nawong kon ang inyo utod ⟨את⟩ kaupod sa inyo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "indi ikaw"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "magapadala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "magpanaug kami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nagsiling"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "makakita kamo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ang akon nawong"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ang inyo utod"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaupod sa inyo",
+      "marks": "ang inyo utod"
+    }
+  ],
+  "timestamp": "2026-09-21T16:16:50.245451225Z",
+  "model": "glm-5.3"
+}

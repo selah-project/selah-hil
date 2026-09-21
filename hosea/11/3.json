@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag ako ang nagtudlo kay Efrayim nga maglakat, ginkuha ko sila sa ila mga braso, apang wala nila masayod nga ako ang nag-ayo sa ila.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "kag ako"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "nagtudlo ako … nga maglakat"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "kay Efrayim"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "ginkuha ko sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "ila mga braso"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apang wala"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "masayod sila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "ako ang nag-ayo sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:05:59.348502927Z",
+  "model": "glm-5.3"
+}

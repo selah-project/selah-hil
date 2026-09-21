@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 4:3",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Si Elikhoref kag si Akhiyah, mga anak ni Shisha, mga manunulat; si Yehoshafat nga anak ni Akhilud, ang manughumod.",
+  "tokens": [
+    {
+      "surface": "אליחרף",
+      "gloss": "si Elikhoref"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "kag si Akhiyah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "שישא",
+      "gloss": "ni Shisha"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "mga manunulat"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "si Yehoshafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "ni Akhilud"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "ang manughumod"
+    }
+  ],
+  "timestamp": "2026-09-21T18:26:55.492080563Z",
+  "model": "glm-5.3"
+}

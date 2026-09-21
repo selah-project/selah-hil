@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 56,
+  "translation": "Sa Elohim ginadayaw ko ang iya pulong, sa Elohim nakasandig ako, indi ako magakahadlok — ano bala ang mahimo sang unod sa akon?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ginadayaw ko"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ang iya pulong"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nakasandig ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ako magakahadlok"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano bala"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ang mahimo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "sang unod"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:58.693807483Z",
+  "model": "glm-5.3"
+}

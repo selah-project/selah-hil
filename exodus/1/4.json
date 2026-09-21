@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Dan kag Naftali, Gad kag Asher.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "kag Naftali"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kag Asher"
+    }
+  ],
+  "timestamp": "2026-09-21T16:18:51.978118857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kay subong magahambal sila: Wala kami sing hari, kay wala kami nagkaila sing kahadlok ⟨kay⟩ Yahweh ⟨את⟩; kag ang hari — ano bala ang iya mahimo sa amon?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "subong"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "magahambal sila"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "wala kami nagkaila sing kahadlok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "kag ang hari"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano bala"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "inya mahimo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:07:11.976932096Z",
+  "model": "glm-5.3"
+}

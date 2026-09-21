@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "kag ⟨את⟩ ang tanan nga katilingban pagtipuna sa gigianan sang tolda sang pagtigayon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan nga katilingban"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "nga katilingban"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "pagtipuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "gigianan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sang tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang pagtigayon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:44:47.491692447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag subong, lanta ikaw gikan sa ⟨ang⟩ duta, nga nag-abli sang iya baba sa pagbaton ⟨את⟩ sang dugo sang imo utod sa imo kamot.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kag subong"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "lanta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "duta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "nag-abli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya baba"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "sang iya baba"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "sa pagbaton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dugo"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sang imo utod"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "sa imo kamot"
+    }
+  ],
+  "timestamp": "2026-09-21T22:16:35.769094778Z",
+  "model": "glm-5.3"
+}

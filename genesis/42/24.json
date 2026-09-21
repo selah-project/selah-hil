@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 42:24",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Kag nagbalikid siya gikan sa ila kag naghibi; kag nagbalik siya sa ila kag naghambal sa ila, kag ginkuha niya ⟨את⟩ sa ila ⟨את⟩ si Shimon, kag gintali niya ⟨את⟩ siya sa atubang sang ila mga mata.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Kag nagbalikid siya"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "gikan sa ila"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "kag naghibi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kag nagbalik siya"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "kag naghambal"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "kag ginkuha niya"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ sa ila",
+      "marks": "sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shimon"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "si Shimon"
+    },
+    {
+      "surface": "ויאסר",
+      "gloss": "kag gintali niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (si Shimon)"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "sa atubang sang ila mga mata"
+    }
+  ],
+  "timestamp": "2026-09-21T16:15:58.147834609Z",
+  "model": "glm-5.3"
+}

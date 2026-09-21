@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Sugo-a ⟨את⟩ ang mga saserdote, ang mga nagadala sang Arka sang Pagsaksi, kag magpanaog sila gikan sa Yarden.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "sugo-a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga saserdote"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ang mga saserdote"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ang mga nagadala"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sang Arka"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "sang Pagsaksi"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "kag magpanaog sila"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-09-21T17:34:35.412508067Z",
+  "model": "glm-5.3"
+}

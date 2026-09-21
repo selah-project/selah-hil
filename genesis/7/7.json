@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag nagsulud si Noach kag ang iya mga anak nga lalaki, kag ang iya asawa, kag ang mga asawa sang iya mga anak nga lalaki ⟨kadto⟩ ⟨אתו⟩ sa sulod sang arka, tungod sa mga tubig sang baha.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Kag nagsulud"
+    },
+    {
+      "surface": "נח",
+      "gloss": "si Noach"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "kag ang iya mga anak nga lalaki"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "kag ang iya asawa"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "kag ang mga asawa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sang iya mga anak nga lalaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "kaupod niya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa sulod sang"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arka"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mga tubig"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "sang baha"
+    }
+  ],
+  "timestamp": "2026-09-21T15:57:17.421832146Z",
+  "model": "glm-5.3"
+}

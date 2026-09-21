@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag ang tanan nga duta nagaupod sa pagpangita ⟨את⟩ sang nawong ni Shelomoh, agod madungog ⟨את⟩ sang iya kaalom nga ginhatag sang Elohim sa iya kasingkasing.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Kag ang tanan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nga duta"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "nagaupod sa pagpangita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang nawong ni Shelomoh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sang nawong"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "agod madungog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang iya kaalom"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "sang iya kaalom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ginhatag"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "sa iya kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-21T18:30:29.291670287Z",
+  "model": "glm-5.3"
+}

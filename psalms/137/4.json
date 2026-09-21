@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 137,
+  "translation": "Paano magakanta kami sang ⟨את⟩ kanta ni Yahweh sa duta sang dayuhan?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "paano"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "magakanta kami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanta ni Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "duta"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "sang dayuhan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:51.306837501Z",
+  "model": "glm-5.3"
+}

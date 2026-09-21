@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Sang kay David. Sa Imo, Yahweh, ginaitaas ko ang akon kalag.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Sang kay David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa Imo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ginaitaas ko"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:53.736101087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Kag may ara gid sang gera sa tunga ni Asa kag sa tunga ni Baasha, hari sang Yisrael, sa tanan nila nga mga adlaw.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "kag sang gera"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "may ara gid"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa tunga ni"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "kag sa tunga ni"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "nila nga mga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T18:34:42.383298569Z",
+  "model": "glm-5.3"
+}

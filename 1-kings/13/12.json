@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 13:12",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag naghambal ang ila amay sa ila: Diin ini nga dalan nga iya ginkadtoan? Kag nakita sang iya mga anak ⟨את⟩ ang dalan nga ginkadtoan sang tawo sang Elohim nga nagkadto halin sa Yehudah.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kag naghambal"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ang ila amay"
+    },
+    {
+      "surface": "אי",
+      "gloss": "diin"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ang dalan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ginkadtoan"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "kag nakita"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sang iya mga anak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dalan"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ang dalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ginkadtoan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nagkadto"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "halin sa Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-21T18:32:33.482687019Z",
+  "model": "glm-5.3"
+}

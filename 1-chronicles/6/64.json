@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "kag ⟨את⟩ ang Kedemot kag ⟨את⟩ ang iya mga lugar palibot, kag ⟨את⟩ ang Mefa'at kag ⟨את⟩ ang iya mga lugar palibot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Kedemot"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "ang Kedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya mga lugar palibot"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ang iya mga lugar palibot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Mefa'at"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "ang Mefa'at"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya mga lugar palibot"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ang iya mga lugar palibot"
+    }
+  ],
+  "timestamp": "2026-09-21T21:52:30.692531597Z",
+  "model": "glm-5.3"
+}

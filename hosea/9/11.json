@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 9:11",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Si Efrayim — pareho sang ibon magalupad ang ila himaya: wala sing pagkatawo, kag wala sing pagabusol, kag wala sing pagbusong.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Si Efrayim"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "pareho sang ibon"
+    },
+    {
+      "surface": "יתעופף",
+      "gloss": "magalupad"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "ang ila himaya"
+    },
+    {
+      "surface": "מלדה",
+      "gloss": "wala sing pagkatawo"
+    },
+    {
+      "surface": "ומבטן",
+      "gloss": "kag wala sing pagabusol"
+    },
+    {
+      "surface": "ומהריון",
+      "gloss": "kag wala sing pagbusong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:06:08.505934211Z",
+  "model": "glm-5.3"
+}

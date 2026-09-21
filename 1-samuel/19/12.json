@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag ginpakanaog ni Mikal ⟨את⟩ si David paagi sang bintana, kag naglakat siya kag nagpalagyo kag nakalikaw.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "kag ginpakanaog"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "ni Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "paagi"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "sang bintana"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kag naglakat siya"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "kag nagpalagyo"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "kag nakalikaw"
+    }
+  ],
+  "timestamp": "2026-09-21T18:06:38.531046797Z",
+  "model": "glm-5.3"
+}

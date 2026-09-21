@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "⟨את⟩ si Uts ang iya panganay, kag ⟨את⟩ si Buz ang iya utod, kag ⟨את⟩ si Kemuvel nga amay sang Aram.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Uts"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "si Uts"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "iya panganay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Buz"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "si Buz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iya utod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Kemuvel"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "si Kemuvel"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "amay sang"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-21T22:17:11.475111292Z",
+  "model": "glm-5.3"
+}

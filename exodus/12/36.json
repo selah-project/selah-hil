@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag si Yahweh naghatag sang kaayohan sang katawhan sa mga mata sang Mitsrayim, kag ginpahulam nila sa ila, kag ginpanulon nila ⟨את⟩ ang Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "kag si Yahweh"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "naghatag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kaayohan"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ang kaayohan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sang katawhan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "kag ginpahulam nila sa ila"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "kag ginpanulon nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ang Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:25:25.980218689Z",
+  "model": "glm-5.3"
+}

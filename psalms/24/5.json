@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Madala niya ang panalangin gikan ⟨את⟩ kang Yahweh, kag ang pagkamatarong gikan sa Elohim sang iya kaluwasan.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "madala niya"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "panalangin"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "gikan ⟨את⟩",
+      "marks": "kang Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "kag ang pagkamatarong"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "gikan sa Elohim"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "sang iya kaluwasan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:14.180407517Z",
+  "model": "glm-5.3"
+}

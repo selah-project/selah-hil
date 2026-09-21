@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Kag magakilala sila ⟨את⟩ sang ila sala kag ⟨את⟩ ang sala sang ila mga amay, sa ila pagtulumod nga nagtulumod sila sa akon, kag bisan pa nga naglakat sila ka ako sing pagbatok.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "magakilala sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang ila sala"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "sang ila sala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang sala"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ang sala"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "sang ila mga amay"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "sa ila pagtulumod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "nagtulumod sila"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "kag bisan pa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "naglakat sila"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ka ako"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "sing pagbatok"
+    }
+  ],
+  "timestamp": "2026-09-21T16:57:06.947701719Z",
+  "model": "glm-5.3"
+}

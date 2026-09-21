@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag bisan ano gid ang ila pagpaantos ⟨sa iya⟩, sa amo man gid nga kadamo siya nagdamo kag sa amo man gid siya naglapad; kag nangililisos sila tungod sa mga anak sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "kag bisan ano gid ang"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ila pagpaantos"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩⟨sa iya⟩",
+      "marks": "sa iya (ang mga anak sang Yisrael)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa amo man gid"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "siya nagdamo"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "kag sa amo man gid"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "siya naglapad"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "kag nangililisos sila"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T22:18:57.261053878Z",
+  "model": "glm-5.3"
+}

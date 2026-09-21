@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Maayo ang duha kaysa ⟨sa⟩ isa, kay may ara sila ⟨sang⟩ madayaw nga balus sa ila pagpangabudlay.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "Maayo"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ang duha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kaysa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יש",
+      "gloss": "may ara"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "balus"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "madayaw"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "sa ila pagpangabudlay"
+    }
+  ],
+  "timestamp": "2026-09-21T21:25:17.505795711Z",
+  "model": "glm-5.3"
+}

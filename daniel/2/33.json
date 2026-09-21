@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "ang iya mga paa sang puthaw, ang iya mga tiil, isa ka bahin sang ila sang puthaw kag isa ka bahin sang ila sang putik",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "iya mga paa"
+    },
+    {
+      "surface": "די",
+      "gloss": "sang"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "puthaw"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "iya mga tiil"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "isa ka bahin sang ila"
+    },
+    {
+      "surface": "די",
+      "gloss": "sang"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "puthaw"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "kag isa ka bahin sang ila"
+    },
+    {
+      "surface": "די",
+      "gloss": "sang"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "putik"
+    }
+  ],
+  "timestamp": "2026-09-21T21:33:48.782412609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 18:33",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Ang El amo ⟨ang⟩ nagabutong sang kusog sa akon, kag ginhimo ⟨nga⟩ hingpit ang akon dalan.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Ang El"
+    },
+    {
+      "surface": "המאזרני",
+      "gloss": "nagabutong sa akon"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sang kusog"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kag ginhimo"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "hingpit"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ang akon dalan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:19.014956981Z",
+  "model": "glm-5.3"
+}

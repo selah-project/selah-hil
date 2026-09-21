@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag amo sina ang iya ginahimo sa tagsa ka tuig, sang tion nga mag-angat siya sa balay ni Yahweh, amo sina siya ginpasuko; kag naghibi siya kag wala makakaon.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "kag amo sina"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ginahimo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "sa tagsa ka tuig"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "sang tion"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "mag-angat"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "amo sina"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "ginpasuko"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "kag naghibi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "makakaon"
+    }
+  ],
+  "timestamp": "2026-09-21T17:57:38.956674656Z",
+  "model": "glm-5.3"
+}

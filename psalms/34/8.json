@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Ang mensahero sang Yahweh nagkampo sa palibot sang mga nagakalahadlok sa iya, kag ginluwas niya sila.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "nagkampo"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ang mensahero"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sang Yahweh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "sang mga nagakalahadlok sa iya"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "kag ginluwas niya sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:07.806244572Z",
+  "model": "glm-5.3"
+}

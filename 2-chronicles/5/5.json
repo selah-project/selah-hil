@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 5:5",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag gindala sa babaw ⟨את⟩ ang Arca kag ⟨את⟩ ang Tolda sang Katipunan kag ⟨את⟩ tanan ka kagamitan sang balaan nga ara sa tolda; silang ⟨את⟩ amo ang gindala sa babaw sang mga saserdote, ang mga Levita.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "gindala sa babaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Arca"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ang Arca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Tolda sang Katipunan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Katipunan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan ka kagamitan sang balaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan ka"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kagamitan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sang balaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ara sa tolda"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "gindala sa babaw"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "ang mga kagamitan sang balaan"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mga saserdote"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "mga Levita"
+    }
+  ],
+  "timestamp": "2026-09-21T22:02:21.590305888Z",
+  "model": "glm-5.3"
+}

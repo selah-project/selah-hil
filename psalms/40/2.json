@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Paglaum, naglaum ako kay Yahweh, kag gintuyang niya ⟨ang iya kaugalingon⟩ sa akon kag ginnabati niya ang akon singmatang.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "paglaum"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "naglaum ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "kag gintuyang"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "kag ginnabati"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ang akon singmatang"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:44.973208507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Indi ninyo utdon ang gilid sang inyo ulo, kag indi mo paggubaon ⟨את⟩ ang gilid sang imo barbas.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "ninyo utdon"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ang gilid"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "sang inyo ulo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "mo paggubaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang gilid sang imo barbas"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ang gilid"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "sang imo barbas"
+    }
+  ],
+  "timestamp": "2026-09-21T16:52:12.656531718Z",
+  "model": "glm-5.3"
+}

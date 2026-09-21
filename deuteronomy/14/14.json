@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "kag ⟨את⟩ tanan nga uwak, sang iya matang",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga uwak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "uwak"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "sang iya matang"
+    }
+  ],
+  "timestamp": "2026-09-21T17:23:18.407773541Z",
+  "model": "glm-5.3"
+}

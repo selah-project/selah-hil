@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag kon magbangga sang sungay ang baka ⟨את⟩ sang isa ka tawo ukon ⟨את⟩ sang isa ka babae kag mamatay, pagabato-on gid ang baka, kag indi pagakaonon ⟨את⟩ sang iya unod, kag ang tag-iya sang baka wala sing sala.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "magbangga sang sungay"
+    },
+    {
+      "surface": "שור",
+      "gloss": "baka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isa ka tawo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "isa ka tawo"
+    },
+    {
+      "surface": "או",
+      "gloss": "ukon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isa ka babae"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "isa ka babae"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "kag mamatay"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "bato-on"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "pagabato-on gid"
+    },
+    {
+      "surface": "השור",
+      "gloss": "ang baka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "pagakaonon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya unod"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "iya unod"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "kag ang tag-iya"
+    },
+    {
+      "surface": "השור",
+      "gloss": "sang baka"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "wala sing sala"
+    }
+  ],
+  "timestamp": "2026-09-21T16:29:44.856651429Z",
+  "model": "glm-5.3"
+}

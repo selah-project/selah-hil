@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 1:3",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nagsiling si Elohim: Magaan ang kahayag; kag may kahayag.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "Magaan"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ang kahayag"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag may"
+    },
+    {
+      "surface": "אור",
+      "gloss": "kahayag"
+    }
+  ],
+  "timestamp": "2026-09-21T15:55:29.675272919Z",
+  "model": "glm-5.3"
+}

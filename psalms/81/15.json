@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 81,
+  "translation": "Sa diutay lang, ang ila mga kaaway pagapaubsahon ko, kag batok sa ila mga manugdumala baliklon ko ang akon kamot.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "sa diutay lang"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "ang ila mga kaaway"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "pagapaubsahon ko"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag batok sa"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "ila mga manugdumala"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "baliklon ko"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ang akon kamot"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:51.354056234Z",
+  "model": "glm-5.3"
+}

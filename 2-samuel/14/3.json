@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag magkadto ka sa hari kag maghambal ka sa iya suno sa sining pulong; kag si Yoav ang nagbutang ⟨את⟩ sang mga pulong sa iya baba.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "kag magkadto ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "kag maghambal ka"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "suno sa sining pulong"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "(sining)"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "kag nagbutang"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "si Yoav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang mga pulong"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ang mga pulong"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "sa iya baba"
+    }
+  ],
+  "timestamp": "2026-09-21T18:18:50.684098257Z",
+  "model": "glm-5.3"
+}

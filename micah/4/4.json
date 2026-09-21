@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 4:4",
+  "book": "micah",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag magapuyo ang tagsa ka tawo sa idalom sang iya ubas kag sa idalom sang iya higante, kag wala sing magapahadluk; kay ang baba ni Yahweh Tsevaot ang naghambal.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "kag magapuyo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tagsa ka tawo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa idalom"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "sang iya ubas"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "kag sa idalom"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "sang iya higante"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala sing"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "magapahadluk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ang baba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "naghambal"
+    }
+  ],
+  "timestamp": "2026-09-21T22:37:28.748065870Z",
+  "model": "glm-5.3"
+}

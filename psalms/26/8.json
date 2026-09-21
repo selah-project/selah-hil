@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Yahweh, ginhigugma ko ang puluy-anan sang imo balay, kag ang duog sang Mishkan sang imo himaya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ginhigugma ko"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ang puluy-anan"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "sang imo balay"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "kag ang duog"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "sang Mishkan"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "sang imo himaya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:55.946690600Z",
+  "model": "glm-5.3"
+}

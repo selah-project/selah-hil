@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Magmata ka, ngaa ikaw nagakatulog, Adonay? Magtindog ka, indi pag-abi sa amon sa dayon.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Magmata ka"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "ikaw nagakatulog"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "Magtindog ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "pag-abi"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sa dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:28.632599815Z",
+  "model": "glm-5.3"
+}

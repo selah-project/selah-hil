@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kon ang iya agalon kaupod sini, indi siya magabayar; kon ginpangabudlay ini, nagari ini sa iya suhol.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "iya agalon"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaupod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "magabayar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "ginpangabudlay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nagari"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "sa iya suhol"
+    }
+  ],
+  "timestamp": "2026-09-21T16:30:29.079293451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 58,
+  "translation": "Bala, sa katalinghag ninyo nagsasiling bala kamo sang katarong? Sa matarong ninyo mahukman ang mga anak sang tawo?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "Bala"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "sa katalinghag"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "katarong"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "nagsasiling"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "mahukman"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:14.757848666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag magakuha ka sang pinino nga arina, kag magaluto ka ⟨את⟩ sini: napulo kag duha ka tinapay; duha ka ikanapulo sang efa ang magakabuhi sang isa ka tinapay.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "kag magakuha ka"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "pinino nga arina"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "kag magaluto ka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ang napulo kag duha ka tinapay"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "duha"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "ka tinapay"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "ka ikanapako sang efa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ang magakabuhi"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "sang tinapay"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ang isa"
+    }
+  ],
+  "timestamp": "2026-09-21T16:54:49.513334521Z",
+  "model": "glm-5.3"
+}

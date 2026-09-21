@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Wala sing paglibak sa iya dila, wala sing ginhimo nga kala-ad sa iya kaabay, kag wala nagdala sang kaulaw batok sa iya paryente.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "paglibak"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "iya dila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "sa iya kaabay"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kala-ad"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "kag kaulaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nagdala"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "iya paryente"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:54.911250623Z",
+  "model": "glm-5.3"
+}

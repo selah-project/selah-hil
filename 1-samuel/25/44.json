@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 25:44",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag si Shaul naghatag kay ⟨את⟩ Mikal, iya anak nga babae, asawa ni David, kay Palti nga anak ni Layish, nga taga-Galim.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "Kag si Shaul"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "naghatag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Mikal"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "iya anak nga babae"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "לפלטי",
+      "gloss": "kay Palti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "ליש",
+      "gloss": "ni Layish"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מגלים",
+      "gloss": "taga-Galim"
+    }
+  ],
+  "timestamp": "2026-09-21T18:09:50.156408412Z",
+  "model": "glm-5.3"
+}

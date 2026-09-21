@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Ako nagtawag sa Imo, kay Ikaw magasabat sa akon, El; itip ang Imo igong sa akon, dumdoma ang akon hambal.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "nagtawag sa Imo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "magasabat sa akon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הט",
+      "gloss": "itip"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ang Imo igong"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dumdoma"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ang akon hambal"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:16.166738628Z",
+  "model": "glm-5.3"
+}

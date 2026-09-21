@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Himoa para sa imo isa ka sakong sang kahoy sang gofer; mga kwarto imo himoon ⟨את⟩ ang sakong, kag tabonan mo ⟨את⟩ ini sa sulod kag sa gua sang alkitran.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Himoa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa imo"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "isa ka sakong"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "sang kahoy"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "sang gofer"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "mga kwarto"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "imo himoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang sakong"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ang sakong"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "kag tabonan mo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ini — ang sakong"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "sa sulod"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "kag sa gua"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "sang alkitran"
+    }
+  ],
+  "timestamp": "2026-09-21T15:58:00.153621386Z",
+  "model": "glm-5.3"
+}

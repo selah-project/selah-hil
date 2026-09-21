@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 13:13",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Tungod sini pahamtangon ko ang mga langit, kag ang duta magakurog sa iya duog, sa kaakig ni Yahweh Tsevaot kag sa adlaw sang mapainit nga iya kapungot.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Tungod"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sini"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "ארגיז",
+      "gloss": "pahamtangon ko"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "kag magakurog"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "ממקומה",
+      "gloss": "sa iya duog"
+    },
+    {
+      "surface": "בעברת",
+      "gloss": "sa kaakig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "kag sa adlaw"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "mapainit nga"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "iya kapungot"
+    }
+  ],
+  "timestamp": "2026-09-21T18:55:36.439148159Z",
+  "model": "glm-5.3"
+}

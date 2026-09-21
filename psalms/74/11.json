@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 74,
+  "translation": "Ngaa ginapabalik mo ang imo kamot, bisan ang imo too nga kamot? Gikan sa tunga sang imo dughan kuhaa ini ⟨kag kannaa sila⟩.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "ginapabalik mo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "imo kamot"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "bisan ang imo too nga kamot"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "gikan sa tunga"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "sang imo dughan"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "kannaa sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:54.099056022Z",
+  "model": "glm-5.3"
+}

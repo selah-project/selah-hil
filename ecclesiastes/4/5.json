@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Ang buktot nagakugos ⟨את⟩ sang iya mga kamot kag nagakaon ⟨את⟩ sang iya kaugalingon nga unod.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "ang buktot"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "nagakugos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang iya mga kamot"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "iya mga kamot"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "kag nagakaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang iya kaugalingon nga unod"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "iya kaugalingon nga unod"
+    }
+  ],
+  "timestamp": "2026-09-21T21:25:40.327273656Z",
+  "model": "glm-5.3"
+}

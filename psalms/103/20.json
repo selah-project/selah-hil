@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 103,
+  "translation": "Bendisyon ninyo si Yahweh, kamo nga iya mga mensahero, mga gamhanan sa kusog, mga nagatuman sang iya pulong, sa pagpatalingtag sa tingog sang iya pulong.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Bendisyon ninyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "kamo nga iya mga mensahero"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "mga gamhanan"
+    },
+    {
+      "surface": "כח",
+      "gloss": "sa kusog"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "mga nagatuman"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sang iya pulong"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "sa pagpatalingtag"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sa tingog"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sang iya pulong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:17.952812145Z",
+  "model": "glm-5.3"
+}

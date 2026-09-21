@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kadto kag tipuna mo ⟨את⟩ ang mga maguwang sang Yisrael, kag hambalan mo sa ila: Si Yahweh, ang Elohim sang inyo mga kag-anak, ang Elohim ni Avraham, ni Yitskhak kag ni Yaakov, nagpakita sa akon, nga nagasiling: Ginbisita ko gid ⟨אתכם⟩, kag ⟨את⟩ ang ginhibal-an sa inyo sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "kadto"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "kag tipuna mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga maguwang sang Yisrael"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga maguwang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "kag hambalan mo"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim sang"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "inyo mga kag-anak"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "nagpakita"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim sang"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "kag Yaakov"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "gid"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "ginbisita ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang ginhibal-an sa inyo sa Mitsrayim"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "ang ginhibal-an"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:22:10.277395678Z",
+  "model": "glm-5.3"
+}

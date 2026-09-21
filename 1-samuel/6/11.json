@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag ginpwesto nila ⟨את⟩ sang kahon ni Yahweh sa ibabaw sang kareta, kag ⟨את⟩ sang kaha, kag ⟨את⟩ sang mga ilaga nga bulawan, kag ⟨את⟩ sang mga hulagway sang ila mga hubag.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "Kag ginpwesto nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kahon ni Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kahon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "sang kareta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang kaha"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "sang kaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "mga ilaga nga bulawan"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "sang mga ilaga"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "nga bulawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "mga hulagway sang ila mga hubag"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "sang mga hulagway"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "sang ila mga hubag"
+    }
+  ],
+  "timestamp": "2026-09-21T18:00:16.376200001Z",
+  "model": "glm-5.3"
+}

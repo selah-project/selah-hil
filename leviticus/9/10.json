@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag ⟨את⟩ ang taba kag ⟨את⟩ ang mga bato kag ⟨את⟩ ang yotaret gikan sa atay — halad ini sang sala — ginpaaso niya sa halaran, subong sang ginsugo ni Yahweh ⟨את⟩ kay Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang taba"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ang taba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga bato"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ang mga bato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang yotaret"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "ang yotaret"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "atay"
+    },
+    {
+      "surface": "מן",
+      "gloss": "halad sang"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "sala"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "ginpaaso"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa halaran"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T16:45:41.994897753Z",
+  "model": "glm-5.3"
+}

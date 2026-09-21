@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 147,
+  "translation": "Ang nagatahub sang mga langit sang mga panganod, ang nagaandam sang ulan para sa duta, ang nagapabuhon sang gason sa mga bukid.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "Ang nagatahub"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sang mga langit"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "sang mga panganod"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "ang nagaandam"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "para sa duta"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "sang ulan"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "ang nagapabuhon"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "sa mga bukid"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "sang gason"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:43.838233704Z",
+  "model": "glm-5.3"
+}

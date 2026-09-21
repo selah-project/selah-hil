@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 78:48",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Kag ginpasudlay niya sa yelo ang ilang mga kahayupan, kag ang ilang mga kabusahan sa mga kidlat nga nagadilaab.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "kag ginpasudlay niya"
+    },
+    {
+      "surface": "לברד",
+      "gloss": "sa yelo"
+    },
+    {
+      "surface": "בעירם",
+      "gloss": "ang ilang mga kahayupan"
+    },
+    {
+      "surface": "ומקניהם",
+      "gloss": "kag ang ilang mga kabusahan"
+    },
+    {
+      "surface": "לרשפים",
+      "gloss": "sa mga kidlat nga nagadilaab"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:19.968940718Z",
+  "model": "glm-5.3"
+}

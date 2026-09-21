@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Ako si Yahweh nga Elohim mo, nga nagkuha sa imo gikan sa duta sang Mitsrayim, gikan sa balay sang mga ulipon.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga Elohim mo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "nagkuha sa imo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa duta sang"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "gikan sa balay sang"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "mga ulipon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:28:29.712095650Z",
+  "model": "glm-5.3"
+}

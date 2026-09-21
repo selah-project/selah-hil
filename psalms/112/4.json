@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 112,
+  "translation": "Nagsirinag sa kangit-ing ang suga para sa mga matarong — mabuot kag maluluy-on kag matarong.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "Nagsirinag"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "sa kangit-ing"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ang suga"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "para sa mga matarong"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "mabuot"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "kag maluluy-on"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "kag matarong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:49.342467738Z",
+  "model": "glm-5.3"
+}

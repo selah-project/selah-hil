@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 95,
+  "translation": "Mag-una kita sa iya nawong sang may pagtagalang, sa mga kantahay magpaninghoy kita sa iya.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "mag-una kita"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sa iya nawong"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "sang may pagtagalang"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "sa mga kantahay"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "magpaninghoy kita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:01.446320811Z",
+  "model": "glm-5.3"
+}

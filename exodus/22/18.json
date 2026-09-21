@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Bisan sin-o nga maghigda kaupod sang hayop, kamatayon gid ⟨ang⟩ pagakamatahon.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bisan sin-o"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "maghigda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "hayop"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayon"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "pagakamatahon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:30:42.089086126Z",
+  "model": "glm-5.3"
+}

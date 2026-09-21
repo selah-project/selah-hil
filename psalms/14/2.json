@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Nagtan-aw si Yahweh gikan sa mga langit sa mga anak sang tawo, sa pagtan-aw kon may ara sing matinahuron, nga nangita ⟨את⟩ sang Elohim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "gikan sa mga langit"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "nagtan-aw"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "sa pagtan-aw"
+    },
+    {
+      "surface": "היש",
+      "gloss": "kon may ara"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "matinahuron"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "nangita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:55.756004980Z",
+  "model": "glm-5.3"
+}

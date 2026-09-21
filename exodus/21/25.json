@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Paso sang bayad sang paso, samad sang bayad sang samad, bugbog sang bayad sang bugbog.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "paso"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sang bayad sang"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "paso"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "samad"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sang bayad sang"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "samad"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "bugbog"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sang bayad sang"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "bugbog"
+    }
+  ],
+  "timestamp": "2026-09-21T16:29:44.856022739Z",
+  "model": "glm-5.3"
+}

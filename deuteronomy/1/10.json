@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Si Yahweh nga Elohim ninyo nagpadako sang ⟨אתכם⟩, kag yari kamo subong nga adlaw pareho sang kadamo sang mga bitoon sang langit.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "nga Elohim ninyo"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "nagpadako"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "kag yari kamo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "subong nga adlaw"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "pareho sang mga bitoon"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sang langit"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "sa kadamo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:17:03.991518052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 72,
+  "translation": "Ginadayaw si Yahweh nga Elohim, ang Elohim sang Yisrael, ang nagahimo sang mga katingalahan bugtos lamang sia.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ginadayaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "nga Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim sang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ang nagahimo sang"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "mga katingalahan"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "bugtos lamang sia"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:58.994988272Z",
+  "model": "glm-5.3"
+}

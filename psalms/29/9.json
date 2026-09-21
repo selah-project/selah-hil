@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Ang tingog ni Yahweh nagapabata ⟨sa⟩ mga usa nga babae kag nagahulad sang mga lasang, kag sa iya templo tanan nagasiling: Himaya!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "nagapabata"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "mga usa nga babae"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "kag nagahulad"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "sang mga lasang"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "kag sa iya templo"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nagasiling"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Himaya"
+    }
+  ],
+  "timestamp": "2026-09-21T22:38:19.421797995Z",
+  "model": "glm-5.3"
+}

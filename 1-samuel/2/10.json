@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 2:10",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Ang mga nagasapak kay Yahweh pagalaglagon, kag sa ila sa mga langit magapakulog siya; magahukom si Yahweh sa mga katapusan sang duta, kag magahatag sing kusog sa iya hari, kag magapataas sang sungay sang iya Mesiyas.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "יחתו",
+      "gloss": "pagalaglagon"
+    },
+    {
+      "surface": "מריבו",
+      "gloss": "ang mga nagasapak"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sa mga langit"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "magapakulog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "magahukom"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "mga katapusan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kag magahatag"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kusog"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "sa iya hari"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "kag magapataas"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "sungay"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "iya Mesiyas"
+    }
+  ],
+  "timestamp": "2026-09-21T17:57:29.529695297Z",
+  "model": "glm-5.3"
+}

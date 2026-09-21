@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 43,
+  "translation": "Ang tanan nga gintawag sa akon ngalan, kag para sa akon himaya — gintuga ko siya, ginporma ko siya, pati ginhimo ko siya.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "nga gintawag"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "sa akon ngalan"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "kag para sa akon himaya"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "gintuga ko siya"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "ginporma ko siya"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pati"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "ginhimo ko siya"
+    }
+  ],
+  "timestamp": "2026-09-21T19:05:51.645297067Z",
+  "model": "glm-5.3"
+}

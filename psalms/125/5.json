@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 125,
+  "translation": "Kag ang mga nagapanikad sa ila mga kurbada nga dalan, pagadad-on sila ni Yahweh kaupod ⟨את⟩ sang mga manughimo sang katalagman: hidaet sa ibabaw sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "kag ang mga nagapanikad"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "sa ila mga kurbada nga dalan"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "pagadad-on sila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga manughimo sang katalagman"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "mga manughimo"
+    },
+    {
+      "surface": "האון",
+      "gloss": "sang katalagman"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "hidaet"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T20:50:57.898876842Z",
+  "model": "glm-5.3"
+}

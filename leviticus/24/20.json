@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Guba sa baylo sang guba, mata sa baylo sang mata, ngipon sa baylo sang ngipon; subong sang iya gindautan sang tawo, amo man ang igadut sa iya.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Guba"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa baylo sang"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "guba"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa baylo sang"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ngipon"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa baylo sang"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ngipon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gindautan niya"
+    },
+    {
+      "surface": "מום",
+      "gloss": "daut"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "amo man"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "igadut"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:54:25.517645998Z",
+  "model": "glm-5.3"
+}

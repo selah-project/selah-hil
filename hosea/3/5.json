@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 3:5",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Sa ulihi magabalik ang mga anak sang Yisrael kag pangitaon nila ⟨את⟩ si Yahweh nga ila Elohim kag ⟨את⟩ si David nga ila hari, kag magakurog sila ⟨sa pagkadto⟩ kay Yahweh kag sa iya kaayuhan, sa ulihi sang mga adlaw.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "sa ulihi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "magabalik"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "kag pangitaon nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh nga ila Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "nga ila Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si David nga ila hari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "nga ila hari"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "kag magakurog sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pakadto kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "iya kaayuhan"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "sa ulihi"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "sang mga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:02:51.092550628Z",
+  "model": "glm-5.3"
+}

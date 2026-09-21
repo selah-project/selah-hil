@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ⟨את⟩ si Aharon kag ⟨את⟩ iya mga anak imo nga itakus, kag magabantay sila sang ⟨את⟩ ila katungdanan sa paghalad; kag ang taga-luwas nga magapalapit, pagapatyon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iya mga anak"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "imo nga itakus"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "kag magabantay sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ila katungdanan sa paghalad"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "ila katungdanan sa paghalad"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "kag ang taga-luwas"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "nga magapalapit"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "pagapatyon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:59:03.960625721Z",
+  "model": "glm-5.3"
+}

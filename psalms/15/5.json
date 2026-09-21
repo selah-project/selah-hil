@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Ang iya pilak wala niya gintugot sa pagpahuway-sing-utang, kag sing suhol batok sa inosente wala niya ginkuha — ang nagahimo sang ini ⟨mga butang⟩ indi magakapatod pa gid sa dayon.",
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "ang iya pilak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gintugot"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "sa pagpahuway-sing-utang"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "kag sing suhol"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "inosente"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ginkuha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ang nagahimo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sang ini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "magakapatod"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pa gid sa dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:08.492098189Z",
+  "model": "glm-5.3"
+}

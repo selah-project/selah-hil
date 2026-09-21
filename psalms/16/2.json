@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Ginsiling ko kay Yahweh: Adonay Ikaw ⟨ang⟩; wala akon sing maayo ⟨gawas⟩ sa Imo.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Ginsiling ko"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "ang akon maayo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "wala"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sa Imo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:07.398298580Z",
+  "model": "glm-5.3"
+}

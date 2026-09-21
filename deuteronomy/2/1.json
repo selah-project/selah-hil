@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 2:1",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag nagbalik kami kag nagpanaw kami padto sa kamingawan, sa dalan padto sa dagat sang balanhug, subong sang ginhambal ni Yahweh sa akon; kag naglibot kami sa ⟨את⟩ bukid sang Seir madamo nga mga adlaw.",
+  "tokens": [
+    {
+      "surface": "ונפן",
+      "gloss": "kag nagbalik kami"
+    },
+    {
+      "surface": "ונסע",
+      "gloss": "kag nagpanaw kami"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "padto sa kamingawan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "ים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "sang balanhug"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ginhambal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "kag naglibot kami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bukid sang Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "sang Seir"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga adlaw"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "madamo nga"
+    }
+  ],
+  "timestamp": "2026-09-21T17:17:20.657373945Z",
+  "model": "glm-5.3"
+}

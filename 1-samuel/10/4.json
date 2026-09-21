@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag sila mangutana sa imo kon maayo ka, kag magahatag sila sa imo sang duha ka tinapay, kag dawaton mo ini sa ila mga kamot.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "kag sila mangutana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "kon maayo ka"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "kag magahatag sila"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "kag dawaton mo"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "sa ila mga kamot"
+    }
+  ],
+  "timestamp": "2026-09-21T18:01:57.608187585Z",
+  "model": "glm-5.3"
+}

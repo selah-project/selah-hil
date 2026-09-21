@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 50,
+  "translation": "Kag ikaw nagadumili sang pagtulun-an, kag ginpabutyag mo ang akon mga pulong sa likod mo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kag ikaw"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "nagadumili ka"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "sang pagtulun-an"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "kag ginpabutyag mo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ang akon mga pulong"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "sa likod mo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:18.399215800Z",
+  "model": "glm-5.3"
+}

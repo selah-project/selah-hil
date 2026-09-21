@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 78:31",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Kag ang akig sang Elohim nagsaka sa ila, kag ginpamatay niya ang ila mga mataba, kag ang mga batan-on nga lalaki sang Yisrael ginpailalom niya.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "Kag ang akig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "nagsaka"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "kag ginpamatay"
+    },
+    {
+      "surface": "במשמניהם",
+      "gloss": "ang ila mga mataba"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "kag ang mga batan-on nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "הכריע",
+      "gloss": "ginpailalom"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:04.642223535Z",
+  "model": "glm-5.3"
+}

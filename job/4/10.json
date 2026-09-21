@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Ang pag-ungal sang leon kag ang tingog sang mabangis nga leon, kag ang mga ngipon sang mga batang leon naguba.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "ang pag-ungal"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "sang leon"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "kag ang tingog"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "sang mabangis nga leon"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "kag ang mga ngipon"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "sang mga batang leon"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "naguba"
+    }
+  ],
+  "timestamp": "2026-09-21T21:05:40.164439491Z",
+  "model": "glm-5.3"
+}

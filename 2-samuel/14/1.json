@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag nabatid ni Yoav, anak ni Tseruyah, nga ang puso sang hari ⟨nagaunta⟩ kay Avshalom.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "kag nabatid"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ni Yoav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "ni Tseruyah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ang puso"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨nagaunta⟩ kay"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-09-21T18:18:50.683191711Z",
+  "model": "glm-5.3"
+}

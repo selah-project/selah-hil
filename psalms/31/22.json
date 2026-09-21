@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Dayawon si Yahweh, kay ginpakamalain niya ang iya hesed sa akon sa siudad sang pagsulid.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Dayawon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "ginpakamalain"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iya hesed"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa siudad"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "sang pagsulid"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:21.616065893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Ikaw gid, Yahweh, indi pagrayo; akon kusog, magdali ⟨sa pagbulig sa akon⟩.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ikaw gid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "pagrayo"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "akon kusog"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "sa pagbulig sa akon"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "magdali"
+    }
+  ],
+  "timestamp": "2026-09-21T22:38:55.013834144Z",
+  "model": "glm-5.3"
+}

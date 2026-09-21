@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 135,
+  "translation": "kay Sichon nga hari sang mga Amori, kag kay Og nga hari sang Bashan, kag sa tanan nga mga ginghariyan sang Kanaan —",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "kay Sichon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nga hari"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "sang mga Amori"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "kag kay Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nga hari"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "sang Bashan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "kag sa tanan"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mga ginghariyan"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "sang Kanaan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:34.340190903Z",
+  "model": "glm-5.3"
+}

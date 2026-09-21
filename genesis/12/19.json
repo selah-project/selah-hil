@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Ngaa imo ginsiling nga utod ko siya, kag ginkuha ko siya ⟨את⟩ nga akon asawa? Kag subong, tan-awa, ang imo asawa — kuhaa kag lakat.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Ngaa"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "imo ginsiling"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "utod ko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "kag ginkuha ko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nga akon"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Kag subong"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "imo asawa"
+    },
+    {
+      "surface": "קח",
+      "gloss": "kuhaa"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "kag lakat"
+    }
+  ],
+  "timestamp": "2026-09-21T15:59:15.989699165Z",
+  "model": "glm-5.3"
+}

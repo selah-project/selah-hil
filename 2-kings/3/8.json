@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag nagsiling siya: Diin bala ini nga dalan kita magasaka? Kag nagsiling siya: Ang dalan sa kamingawan sang Edom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag nagsiling"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Diin bala"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "nga dalan"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "kita magasaka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag nagsiling"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "Ang dalan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "sang Edom"
+    }
+  ],
+  "timestamp": "2026-09-21T18:39:57.747957813Z",
+  "model": "glm-5.3"
+}

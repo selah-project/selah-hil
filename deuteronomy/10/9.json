@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 10:9",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Salit wala sing bahin kag tinun-an kay Levi kaupod sang iya mga utod; si Yahweh ⟨amo⟩ ang iya tinun-an, subong sang ginsiling ni Yahweh nga iyo Elohim sa iya.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "salit"
+    },
+    {
+      "surface": "כן",
+      "gloss": "salit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "היה",
+      "gloss": "sang"
+    },
+    {
+      "surface": "ללוי",
+      "gloss": "kay Levi"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "bahin"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "kag tinun-an"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sang iya mga utod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "amo"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ang iya tinun-an"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ginsiling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga iyo Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T17:21:35.266246608Z",
+  "model": "glm-5.3"
+}

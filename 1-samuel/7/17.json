@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag ang iya pagbalik ⟨amo⟩ sa Ramatah, kay didto ang iya balay, kag didto gintahumán niya ⟨את⟩ ang Yisrael, kag nagpatindog siya didto sang halaran kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "Kag ang iya pagbalik"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "sa Ramatah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ang iya balay"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "kag didto"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "gintahumán niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "kag nagpatindog siya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sang halaran"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T17:58:29.506312296Z",
+  "model": "glm-5.3"
+}

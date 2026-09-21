@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 7:15",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag ginhimo niya ⟨את⟩ ang duha ka haligi sang tumbaga; napulo kag walo ka siko ang kataason sang isa ka haligi, kag ang pisi sang napulo kag duha ka siko naglibot ⟨את⟩ sang ikaduha nga haligi.",
+  "tokens": [
+    {
+      "surface": "ויצר",
+      "gloss": "kag ginhimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duha ka haligi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "haligi"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tumbaga"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "walo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "siko"
+    },
+    {
+      "surface": "קומת",
+      "gloss": "kataason"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "haligi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "וחוט",
+      "gloss": "kag ang pisi"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "duha"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "siko"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "naglibot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikaduha nga haligi"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "haligi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikaduha"
+    }
+  ],
+  "timestamp": "2026-09-21T18:28:59.532553701Z",
+  "model": "glm-5.3"
+}

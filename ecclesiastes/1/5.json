@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nagasikat ang adlaw, kag nagasulod ang adlaw, kag gapadali padulong sa iya duog diin nagasikat ang adlaw, didto.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "kag nagasikat"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "kag nagasulod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag padulong sa"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "iya duog"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "gapadali"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "nagasikat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    }
+  ],
+  "timestamp": "2026-09-21T21:25:59.108799138Z",
+  "model": "glm-5.3"
+}

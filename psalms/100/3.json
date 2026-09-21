@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 100,
+  "translation": "Magkilala kamo nga si Yahweh ⟨amo⟩ ang Elohim; siya ang naghimo sa aton, kag indi ⟨kita ang naghimo sang aton kaugalingon⟩; kita ⟨ang⟩ iya katawhan, kag ang mga karnero sang iya parasan.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "magkilala kamo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨amo⟩ siya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "ang naghimo sa aton"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "⟨kita ang naghimo sang aton kaugalingon⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "iya katawhan"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "kag ang mga karnero"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "sang iya parasan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:36.580153224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag gintawag ni Elohim ang rakiya nga mga Langit; kag nag-abut ⟨ang⟩ kagabh-i kag nag-abut ⟨ang⟩ kabuntag — ikaduha ka adlaw.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Kag gintawag"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "ang rakiya"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nga mga Langit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag nag-abut"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kagabh-i"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag nag-abut"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "kabuntag"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ikaduha"
+    }
+  ],
+  "timestamp": "2026-09-21T15:56:23.543493647Z",
+  "model": "glm-5.3"
+}

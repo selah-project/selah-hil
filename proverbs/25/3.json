@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Ang mga langit sa kataas kag ang duta sa kalaluman, kag ang tagipusuon sang mga hari — wala sing makasukit.",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "sa kataas"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "kag ang duta"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "sa kalaluman"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "kag ang tagipusuon"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "sang mga hari"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala sing"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "makasukit"
+    }
+  ],
+  "timestamp": "2026-09-21T21:03:00.985072070Z",
+  "model": "glm-5.3"
+}

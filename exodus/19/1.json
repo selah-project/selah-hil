@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 19:1",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Sa bulan nga ikatlo sa paggwa sang ⟨mga anak sang⟩ Yisrael sa duta sang Mitsrayim, sa adlaw nga ina nagkadto sila sa kamingawan sang Sinai.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "sa bulan"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "nga ikatlo"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "sa paggwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨mga anak sang⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nga ina"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nagkadto sila"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "sang Sinai"
+    }
+  ],
+  "timestamp": "2026-09-21T22:19:41.672465765Z",
+  "model": "glm-5.3"
+}

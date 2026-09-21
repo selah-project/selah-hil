@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag gintana sang mga anak nga lalaki sang Yisrael sa mga Levita, sa ila kaugalingon nga mana, suno sa ginsiling ni Yahweh, ⟨את⟩ ang mga ciudad ini kag ⟨את⟩ ang ila mga parasan.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Kag gintana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "sa mga Levita"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "sa ila mana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "suno sa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ginsiling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga ciudad ini"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ang mga ciudad"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang ila mga parasan"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "ang ila mga parasan"
+    }
+  ],
+  "timestamp": "2026-09-21T17:43:29.436968781Z",
+  "model": "glm-5.3"
+}

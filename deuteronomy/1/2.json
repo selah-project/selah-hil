@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Napulo kag isa ka adlaw gikan sa Chorev paagi sa bukid sang Seir tubtod sa Kadesh-Barnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "napulo kag"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ka adlaw"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "gikan sa Chorev"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "paagi"
+    },
+    {
+      "surface": "הר",
+      "gloss": "sa bukid sang"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtod sa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-09-21T17:17:58.406771187Z",
+  "model": "glm-5.3"
+}

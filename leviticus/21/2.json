@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "kon indi sa iya kabanay nga malapit sa iya: sa iya iloy kag sa iya amay, kag sa iya anak nga lalaki kag sa iya anak nga babae, kag sa iya utod nga lalaki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "אם",
+      "gloss": "indi"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "sa iya kabanay"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "nga malapit"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "sa iya iloy"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "kag sa iya amay"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "kag sa iya anak nga lalaki"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "kag sa iya anak nga babae"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "kag sa iya utod nga lalaki"
+    }
+  ],
+  "timestamp": "2026-09-21T16:53:01.089365166Z",
+  "model": "glm-5.3"
+}

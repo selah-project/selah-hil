@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag nabatian ini ni David, kag nagpadala siya ⟨את⟩ kay Yoav kag ⟨את⟩ ang tanan nga kasundalohan sang mga kusgan.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Kag nabatian ini"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "kag nagpadala siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "kay Yoav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan nga kasundalohan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "kasundalohan"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "sang mga kusgan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:57:11.847931159Z",
+  "model": "glm-5.3"
+}

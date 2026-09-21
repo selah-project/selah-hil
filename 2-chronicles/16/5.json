@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag nangyari, sang madunggan ni Baasha, nga nagpundo siya sa pagpatindog ⟨את⟩ sang Rama, kag ginpahunong niya ⟨את⟩ ang iya buluhaton.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kag nangyari"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "sang madunggan"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ni Baasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "nagpundo siya"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "sa pagpatindog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "kag ginpahunong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya buluhaton"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "iya buluhaton"
+    }
+  ],
+  "timestamp": "2026-09-21T22:06:41.734453203Z",
+  "model": "glm-5.3"
+}

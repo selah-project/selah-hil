@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag nahitabo sa iya sunó sini; kag ginsikad ⟨את⟩ siya sang katawhan sa ganghaan, kag namatay.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kag nahitabo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sunó sini"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "kag ginsikad"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya (ang hashalish)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sang katawhan"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "sa ganghaan"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kag namatay"
+    }
+  ],
+  "timestamp": "2026-09-21T18:43:01.117746837Z",
+  "model": "glm-5.3"
+}

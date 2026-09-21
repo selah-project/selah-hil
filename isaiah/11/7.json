@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag ang baka kag ang oso magapakadamo nga magkaupod magapalog, magaduyog kaupod ang ila mga bata; kag ang leon magakaon sang dayami subong sang baka.",
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "kag ang baka"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "kag ang oso"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "magapakadamo nga magkaupod magapalog"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magakaupod"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "magaduyog"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "ang ila mga bata"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "kag ang leon"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "subong sang baka"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "magakaon"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "sang dayami"
+    }
+  ],
+  "timestamp": "2026-09-21T18:55:46.866697662Z",
+  "model": "glm-5.3"
+}

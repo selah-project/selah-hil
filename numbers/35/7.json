@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Tanan nga dakbanwa nga ihatag ninyo sa mga Levita — apat ka pulo kag walo ka dakbanwa — hataga ninyo ⟨את⟩ ina kag ⟨את⟩ ila mga latagon.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tanan"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "nga dakbanwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ihatag ninyo"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "sa mga Levita"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "apat ka pulo"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "kag walo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ka dakbanwa"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "ina (ang mga dakbanwa)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ila mga latagon"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "ila mga latagon"
+    }
+  ],
+  "timestamp": "2026-09-21T22:23:49.652136800Z",
+  "model": "glm-5.3"
+}

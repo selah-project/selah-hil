@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 12:4",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag ang utlanan ni Og, hari sang Bashan, gikan sa nabilin sang mga Repaim, nga nagapuyo sa Ashtarot kag sa Edrei.",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "Kag ang utlanan"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "ni Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "sang Bashan"
+    },
+    {
+      "surface": "מיתר",
+      "gloss": "gikan sa nabilin"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "sang mga Repaim"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "nga nagapuyo"
+    },
+    {
+      "surface": "בעשתרות",
+      "gloss": "sa Ashtarot"
+    },
+    {
+      "surface": "ובאדרעי",
+      "gloss": "kag sa Edrei"
+    }
+  ],
+  "timestamp": "2026-09-21T17:40:19.200316050Z",
+  "model": "glm-5.3"
+}

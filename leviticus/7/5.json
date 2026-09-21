@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag pagasunugon sang pari sila ⟨את⟩ sa ibabaw sang halaran, halad nga kalayo kay Yahweh; halad sang pagkasala ini.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "pagasunugon"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang pari"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa ibabaw sang halaran"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "halad nga kalayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "halad sang pagkasala"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-21T16:43:14.457751242Z",
+  "model": "glm-5.3"
+}

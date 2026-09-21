@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kag ginpahibalo ni Avyatar kay David nga ginpatay ni Shaul ⟨את⟩ ang mga padi ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ginpahibalo"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "ni Avyatar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ginpatay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga padi ni Yahweh"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "ang mga padi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T18:08:01.902440929Z",
+  "model": "glm-5.3"
+}

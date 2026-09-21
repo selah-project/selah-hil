@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Ikaw man magahubog, ikaw magakabuhi nga wala makita, ikaw man mangita sang pinatig-a nga duog tungod sa mga kaaway.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "את",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "magahubog"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "magakabuhi"
+    },
+    {
+      "surface": "נעלמה",
+      "gloss": "nga wala makita"
+    },
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "את",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "mangita"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "sang pinatig-a nga duog"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "tungod sa mga kaaway"
+    }
+  ],
+  "timestamp": "2026-09-21T20:14:34.191340188Z",
+  "model": "glm-5.3"
+}

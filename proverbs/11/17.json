@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 11:17",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Ang tawo sang hesed nagaayo sang iya kalag, kag ang nagalain sang iya unod mabangis.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "nagaayo"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "iya kalag"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ועכר",
+      "gloss": "kag ang nagalain"
+    },
+    {
+      "surface": "שארו",
+      "gloss": "iya unod"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "mabangis"
+    }
+  ],
+  "timestamp": "2026-09-21T20:58:28.394599804Z",
+  "model": "glm-5.3"
+}

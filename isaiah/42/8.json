@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Ako si Yahweh; ina ang akon ngalan; kag ang akon himaya indi ko ihatag sa iban, kag ang akon pagdayaw indi man sa mga inihawohan.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ina"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ang akon ngalan"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "kag ang akon himaya"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "sa iban"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ko ihatag"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "kag ang akon pagdayaw"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "sa mga inihawohan"
+    }
+  ],
+  "timestamp": "2026-09-21T19:06:01.343576356Z",
+  "model": "glm-5.3"
+}

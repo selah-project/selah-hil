@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nagkahimo sang kagabh-ion, kag nagkahimo sang kaagahon — ang ikalima nga adlaw.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag nagkahimo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "sang kagabh-ion"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag nagkahimo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sang kaagahon"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "ikalima"
+    }
+  ],
+  "timestamp": "2026-09-21T15:54:35.125170936Z",
+  "model": "glm-5.3"
+}

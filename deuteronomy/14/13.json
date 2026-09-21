@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "kag ⟨ang⟩ ra'ah, kag ⟨את⟩ ang ayyah, kag ang dayah, sang iya matang",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "kag ang ra'ah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang ayyah"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "ang ayyah"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "kag ang dayah"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "sang iya matang"
+    }
+  ],
+  "timestamp": "2026-09-21T17:23:18.407535013Z",
+  "model": "glm-5.3"
+}

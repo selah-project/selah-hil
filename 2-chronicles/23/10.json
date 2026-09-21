@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag gintindog niya ⟨את⟩ ang tanan nga katawhan, kag ang tagsa ka tawo ang iya bayonak sa iya kamot, gikan sa abaga sang balay sa too hasta sa abaga sang balay sa wala, pakadto sa halaran kag sa balay, palibot sa hari sa tanan nga kilid.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "gintindog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga katawhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nga katawhan"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kag ang tagsa ka tawo"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "iya bayonak"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa iya kamot"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "gikan sa abaga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "sa too"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "abaga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "sa wala"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "pakadto sa halaran"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "kag sa balay"
+    },
+    {
+      "surface": "על",
+      "gloss": "palibot sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa tanan nga kilid"
+    }
+  ],
+  "timestamp": "2026-09-21T22:08:30.133509913Z",
+  "model": "glm-5.3"
+}

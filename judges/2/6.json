@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag ginpakadto ni Yehoshua ang ⟨את⟩ ang katawhan, kag nangadto ang mga anak nga lalaki sang Yisrael, tagsa ka tawo sa iya manunubos, sa pagpanubos sang ⟨את⟩ ang duta.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ginpakadto"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "kag nangadto"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tagsa ka tawo"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "sa iya manunubos"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "sa pagpanubos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T17:45:25.697173355Z",
+  "model": "glm-5.3"
+}

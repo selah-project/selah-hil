@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 106:41",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 106,
+  "translation": "Kag ginhatag niya sila sa kamot sang mga pungsod, kag ang mga nagdumot sa ila nagdumala sa ila.",
+  "tokens": [
+    {
+      "surface": "ויתנם",
+      "gloss": "ginhatag niya sila"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "sang mga pungsod"
+    },
+    {
+      "surface": "וימשלו",
+      "gloss": "nagdumala"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "שנאיהם",
+      "gloss": "ang mga nagdumot sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:25.436439069Z",
+  "model": "glm-5.3"
+}

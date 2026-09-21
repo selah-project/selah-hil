@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 122,
+  "translation": "Ang aton mga tiil nagatindog sa imo mga ganghaan, Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "nagatindog"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨naga⟩"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "aton mga tiil"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "sa imo mga ganghaan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:45.787449892Z",
+  "model": "glm-5.3"
+}

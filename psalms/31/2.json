@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Sa imo, Yahweh, nagpanalipod ako; indi ako pagpahuya sang gatan-awon; sa imo nga pagkamatarong luwasa ako.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Sa imo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "nagpanalipod ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "pagpahuya"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sang gatan-awon"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "sa imo nga pagkamatarong"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "luwasa ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:36.333768502Z",
+  "model": "glm-5.3"
+}

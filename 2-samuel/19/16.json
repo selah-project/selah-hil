@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag nag-uli ang hari kag nakaabot sa Yarden, kag ang Yehudah nagkadto sa ⟨ang⟩ Gilgal sa paglakat sa pagsugat sang hari, sa pagpaagi ⟨את⟩ sang hari sa ⟨את⟩ Yarden.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Kag nag-uli"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kag nakaabot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "kag ang Yehudah"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nagkadto"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "sa ang Gilgal"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "sa paglakat"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "sa pagsugat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "sa pagpaagi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang hari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-09-21T18:23:08.539350203Z",
+  "model": "glm-5.3"
+}

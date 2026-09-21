@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Wala sing tawo nga nagaigo sa espiritu sa pagpungod ⟨את⟩ sang espiritu, kag wala sing gahum sa adlaw sang kamatayon, kag wala sing pagpahulus sa gintanggalian, kag ang kalaut indi pagaluwason ⟨את⟩ sang iya mga agalon.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "wala sing"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "nga nagaigo"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "sa espiritu"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "sa pagpungod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang espiritu"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "sang espiritu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala sing"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "gahum"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "המות",
+      "gloss": "sang kamatayon"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala sing"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "pagpahulus"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "sa gintanggalian"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "pagaluwason"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ang kalaut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang iya mga agalon"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "sang iya mga agalon"
+    }
+  ],
+  "timestamp": "2026-09-21T21:27:47.831714436Z",
+  "model": "glm-5.3"
+}

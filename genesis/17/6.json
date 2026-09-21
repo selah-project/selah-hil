@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag pagaipaan ko ikaw ⟨אתך⟩ sing labi gid ka kadamo, kag ibutang ko ikaw nga mga pungsod, kag mga hari magaguwa sa imo.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "kag pagaipaan ko"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩",
+      "marks": "ikaw"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "sing labi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gid ka kadamo"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "kag ibutang ko ikaw"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "nga mga pungsod"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "kag mga hari"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "magaguwa"
+    }
+  ],
+  "timestamp": "2026-09-21T16:02:18.761521933Z",
+  "model": "glm-5.3"
+}

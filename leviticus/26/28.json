@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "kag magalakat ako ka ninyo sa kaakig sang pagbatok, kag pagasilutan ko ⟨את⟩ kamo — ako man gihapon — pito ka beses tungod sa inyo nga mga sala.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "kag magalakat ako"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ka ninyo"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "sa kaakig"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "sang pagbatok"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "kag pagasilutan ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "man"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito ka beses"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "inyo nga mga sala"
+    }
+  ],
+  "timestamp": "2026-09-21T16:57:12.344123110Z",
+  "model": "glm-5.3"
+}

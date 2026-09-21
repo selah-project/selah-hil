@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Indi pagpakasala sing labi, kag indi pagmagin buang — ngaa magakamat ka sa wala ⟨sa⟩ imo nga tion?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "pagpakasala"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "sing labi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "pagmagin"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "buang"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "magakamat"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "sa wala"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "imo nga tion"
+    }
+  ],
+  "timestamp": "2026-09-21T21:27:26.185212975Z",
+  "model": "glm-5.3"
+}

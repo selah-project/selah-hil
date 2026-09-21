@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 37:4",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kag nagsiling siya sa akon: Manalagna ka sa mga tul-an nga ini, kag mo sila sultihan: Mga uga nga tul-an, magdungog kamo sang pulong ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling siya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "manalagna ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העצמות",
+      "gloss": "mga tul-an"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "kag mo sultihan"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "העצמות",
+      "gloss": "mga tul-an"
+    },
+    {
+      "surface": "היבשות",
+      "gloss": "mga uga nga"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "magdungog kamo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sang pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T19:57:48.846308917Z",
+  "model": "glm-5.3"
+}

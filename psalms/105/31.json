@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Nagsiling siya kag nag-abot ang mga langaw, kag mga kuto sa tanan sang ila ka utlanan.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Nagsiling"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kag nag-abot"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mga langaw"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "mga kuto"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "sang ila ka utlanan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:40:46.700297982Z",
+  "model": "glm-5.3"
+}

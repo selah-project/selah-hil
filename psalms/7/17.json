@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Magabalik ang iya kaugalingon nga katalagman sa iya ulo, kag sa tungtungan sang iya ulo magapanaug ang iya kapintas.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "magabalik"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "iya nga katalagman"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "sa iya ulo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "tungtungan sang iya ulo"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "iya kapintas"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "magapanaug"
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:20.899239747Z",
+  "model": "glm-5.3"
+}

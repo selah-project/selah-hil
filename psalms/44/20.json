@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Bisan ginpukan mo kami sa duog sang mga ayam-gubat, kag gintabon mo kami sang labing madulum nga kadulumduluman.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bisan"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "ginpukan mo kami"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sa duog"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "sang mga ayam-gubat"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "kag gintabon mo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "sang labing madulum nga kadulumduluman"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:30.950162927Z",
+  "model": "glm-5.3"
+}

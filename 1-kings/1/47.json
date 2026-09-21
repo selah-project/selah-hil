@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-kings 1:47",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nagdayon man ang mga sulugoon sang hari sa pagpanalangin ⟨kay⟩ ⟨את⟩ sa aton ginoo nga hari, si David, nga nagasiling: Ipakamaayo sang imo Elohim ⟨את⟩ ang ngalan ni Shelomoh sanglabaw sa imo ngalan, kag himu-on niya nga dako ⟨את⟩ ang iya trono sanglabaw sa imo trono; kag nagduso ang hari sa pagsimba sa iya higan.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kag man"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nagdayon"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ang mga sulugoon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "sa pagpanalangin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa aton ginoo nga hari, si David"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "sa aton ginoo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nga hari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ipakamaayo"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sang imo Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ngalan ni Shelomoh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang ngalan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "משמך",
+      "gloss": "sanglabaw sa imo ngalan"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "kag himu-on nga dako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya trono"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ang iya trono"
+    },
+    {
+      "surface": "מכסאך",
+      "gloss": "sanglabaw sa imo trono"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "kag nagduso sa pagsimba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "iya higan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:26:14.045882311Z",
+  "model": "glm-5.3"
+}

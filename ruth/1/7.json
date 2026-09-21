@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ruth 1:7",
+  "book": "ruth",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag naggwa siya gikan sa lugar diin siya didto, kag ang iya duha ka manugang kaupod niya; kag naglakat sila sa dalan sa pagbalik sa duta sang Yehudah.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "kag naggwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "sa lugar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "siya"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "didto"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "kag ang iya duha"
+    },
+    {
+      "surface": "כלתיה",
+      "gloss": "ka manugang"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "kaupod niya"
+    },
+    {
+      "surface": "ותלכנה",
+      "gloss": "kag naglakat sila"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "sa pagbalik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-21T21:21:53.820067299Z",
+  "model": "glm-5.3"
+}

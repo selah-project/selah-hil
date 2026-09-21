@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kag nakita sang nagsakup sang iya mga kagamitan nga patay na si Shaul, kag nahulog man siya sa iya sundang kag namatay kaupod niya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "kag nakita"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nagsakup"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sang iya mga kagamitan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מת",
+      "gloss": "patay na"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "kag nahulog"
+    },
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "iya sundang"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kag namatay"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaupod niya"
+    }
+  ],
+  "timestamp": "2026-09-21T22:27:20.713145056Z",
+  "model": "glm-5.3"
+}

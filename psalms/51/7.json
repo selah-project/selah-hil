@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 51,
+  "translation": "Yari, sa kalapasan ginpanganak ako, kag sa sala nagbusong ang akon iloy sa akon.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "yari"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "sa kalapasan"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "ginpanganak ako"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "kag sa sala"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "nagbusong siya sa akon"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ang akon iloy"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:19.988978803Z",
+  "model": "glm-5.3"
+}

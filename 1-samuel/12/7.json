@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag subong, magatindog kamo, kag pagahukoman ko ⟨את⟩ kamo sa atubangan ni Yahweh — ⟨tungod sa⟩ tanan nga mga pagkamatarong ni Yahweh nga iya ginhimo ⟨את⟩ ka inyo kag ⟨את⟩ sang inyo mga katigulangan.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kag subong"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "magatindog kamo"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "kag pagahukoman ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga pagkamatarong ni Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "mga pagkamatarong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ka inyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang inyo mga katigulangan"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "ang inyo mga katigulangan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:02:44.093429499Z",
+  "model": "glm-5.3"
+}

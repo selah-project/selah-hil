@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Nagpalapit na ang mga adlaw ni Dovid sa pagkamatay, kag gintugoan niya ⟨את⟩ si Shelomoh nga iya anak, nga nagsiling:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "nagpalapit na"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ang mga adlaw"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni Dovid"
+    },
+    {
+      "surface": "למות",
+      "gloss": "sa pagkamatay"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "kag gintugoan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "si Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nga iya anak"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagsiling"
+    }
+  ],
+  "timestamp": "2026-09-21T18:27:25.677537619Z",
+  "model": "glm-5.3"
+}

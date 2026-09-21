@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 145,
+  "translation": "Ang himaya sang imo paghari ihambal nila, kag ang imo kusog isiling nila.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "ang himaya"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "sang imo paghari"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ihambal nila"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "kag ang imo kusog"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "isiling nila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:00.159542849Z",
+  "model": "glm-5.3"
+}

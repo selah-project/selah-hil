@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag magapastol sila ⟨את⟩ ang duta sang Ashur sang espada, kag ⟨את⟩ ang duta sang Nimrod sa iya mga ganghaan; kag magaluwas siya gikan sa Ashur kon magasulod siya sa aton duta kag kon magatapak siya sa aton utlanan.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "magapastol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta sang Ashur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sang Ashur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sang espada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang duta sang Nimrod"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "sang Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "sa iya mga ganghaan"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "kag magaluwas"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "gikan sa Ashur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "magasulod siya"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "sa aton duta"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "magatapak siya"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "sa aton utlanan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:13:49.300532658Z",
+  "model": "glm-5.3"
+}

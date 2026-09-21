@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 121,
+  "translation": "Si Yahweh magabantay sa imo paggwa kag imo pagpasulod, subong kag tubtob sa dayon.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "magabantay"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "imo paggwa"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "kag imo pagpasulod"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "subong"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag tubtob"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sa dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:12.943734578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "kag putlon mo ⟨את⟩ ang iya palad; ang imo mata indi magkaluoy.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "kag putlon mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya palad"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "iya palad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "magkaluoy"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "imo mata"
+    }
+  ],
+  "timestamp": "2026-09-21T17:28:00.968748482Z",
+  "model": "glm-5.3"
+}

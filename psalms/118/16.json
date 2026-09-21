@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 118,
+  "translation": "Gintimawdan ang too nga kamot ni Yahweh; ang too nga kamot ni Yahweh nagaobra sing kusog.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "ang too nga kamot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "gintimawdan"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ang too nga kamot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nagaobra"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sing kusog"
+    }
+  ],
+  "timestamp": "2026-09-21T22:40:28.589590416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 129,
+  "translation": "Madamo gid nga beses sila nga nangligis sa akon halin sa akon pagkabata, apan wala nila ako mapielgar.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Madamo gid nga beses"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "nangligis sa akon"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "halin sa akon pagkabata"
+    },
+    {
+      "surface": "גם",
+      "gloss": "apan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "nila mapaasa \/ mapielgar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:25.040512544Z",
+  "model": "glm-5.3"
+}

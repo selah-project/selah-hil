@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 24:15",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag ginpagbihag niya ⟨את⟩ si Yehoyakhin sa Bavel, kag ⟨את⟩ ang iloy sang hari, kag ⟨את⟩ ang mga asawa sang hari, kag ⟨את⟩ iya mga eunuch, kag ⟨את⟩ ang mga gamhanan sang duta; sila gindala nga mga bihag gikan sa Yerushalayim pakadto sa Bavel.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "kag ginpagbihag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yehoyakhin"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "si Yehoyakhin"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "sa Bavel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iloy sang hari"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ang iloy"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga asawa sang hari"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "ang mga asawa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga eunuch"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "iya mga eunuch"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga gamhanan sang duta"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ang mga gamhanan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "הוליך",
+      "gloss": "gindala"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "nga mga bihag"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "gikan sa Yerushalayim"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "pakadto sa Bavel"
+    }
+  ],
+  "timestamp": "2026-09-21T18:51:54.621411250Z",
+  "model": "glm-5.3"
+}

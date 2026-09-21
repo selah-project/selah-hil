@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Nakita ko ⟨את⟩ tanan nga mga buhat nga ginbuhat sa ilalom sang adlaw, kag yari kamo — ang tanan ⟨is⟩ hebel kag kagadlaw sang ginhawa.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga buhat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "nga mga buhat"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "nga ginbuhat"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalom"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sang adlaw"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kag yari kamo"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "kag kagadlaw"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sang ginhawa"
+    }
+  ],
+  "timestamp": "2026-09-21T21:25:23.884816812Z",
+  "model": "glm-5.3"
+}

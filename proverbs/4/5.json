@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Palit-a ang kaalam, palit-a ang pagsabot; indi ⟨mo⟩ pagkalimti kag indi magtalisud sa mga pulong sang akon baba.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "palit-a"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ang kaalam"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "palit-a"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ang pagsabot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "pagkalimti"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תט",
+      "gloss": "magtalisud"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "sa mga pulong"
+    },
+    {
+      "surface": "פי",
+      "gloss": "sang akon baba"
+    }
+  ],
+  "timestamp": "2026-09-21T20:55:44.516040684Z",
+  "model": "glm-5.3"
+}

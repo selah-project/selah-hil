@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag naghigda si Uriyah sa ganghaan sang balay sang hari ⟨kaupod⟩ sang ⟨את⟩ tanan ka sulugoon sang iya agalon, kag wala siya magpanaog sa iya balay.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "naghigda"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ganghaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan ka sulugoon sang iya agalon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ka sulugoon"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sang iya agalon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "magpanaog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "iya balay"
+    }
+  ],
+  "timestamp": "2026-09-21T18:17:19.188281655Z",
+  "model": "glm-5.3"
+}

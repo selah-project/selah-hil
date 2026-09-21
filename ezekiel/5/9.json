@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag ginhimo ko sa imo ⟨את⟩ nga wala ko pa gid ginhimo, kag ⟨את⟩ nga indi ko na pagahimon sing pareho, tungod sang tanan mo nga mga kahalayhalay.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "kag ginhimo ko"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nga wala ko pa ginhimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ginhimo ko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "nga indi ko na pagahimon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "pagahimon"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "sing pareho"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    },
+    {
+      "surface": "יען",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "mo nga mga kahalayhalay"
+    }
+  ],
+  "timestamp": "2026-09-21T19:42:27.736748506Z",
+  "model": "glm-5.3"
+}

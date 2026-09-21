@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag magapalapit si Moshe sulong kay Yahweh, apang sila indi magapalapit, kag ang katawhan indi magasaka kaupod sa iya.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "kag magapalapit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "sulong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והם",
+      "gloss": "apang sila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "magapalapit"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "kag ang katawhan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "magasaka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaupod sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:31:24.304810516Z",
+  "model": "glm-5.3"
+}

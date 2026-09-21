@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag naglakat ako kag gintago ko ini sa Perath, subong nga ginsugo ni Yahweh ⟨את⟩ ako.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "kag naglakat ako"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "kag gintago ko ini"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "sa Perath"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong nga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "ako"
+    }
+  ],
+  "timestamp": "2026-09-21T19:21:10.171623945Z",
+  "model": "glm-5.3"
+}

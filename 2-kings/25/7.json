@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 25:7",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag ⟨את⟩ ang mga anak nga lalaki ni Tsidkiyahu gin-ihaw nila sa atubangan sang iya mga mata, kag ⟨את⟩ ang mga mata ni Tsidkiyahu ginbuta nila, kag gintali nila siya sa mga gapos nga tumbaga, kag gindala nila siya sa Bavlon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga anak nga lalaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak nga lalaki"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ni Tsidkiyahu"
+    },
+    {
+      "surface": "שחטו",
+      "gloss": "gin-ihaw nila"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "sa atubangan sang iya mga mata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga mata"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang mga mata"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ni Tsidkiyahu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ginbuta"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "kag gintali nila siya"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "sa mga gapos nga tumbaga"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "kag gindala nila siya"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "sa Bavlon"
+    }
+  ],
+  "timestamp": "2026-09-21T18:51:36.944831739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag nakita ni Sarah ⟨את⟩ ang anak ni Hagar nga taga-Mitsrayim, nga natao niya kay Avraham, nga nagakatawa.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "kag nakita"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "si Sarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ang anak"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ni Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "nga taga-Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "natao niya"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kay Avraham"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "nga nagakatawa"
+    }
+  ],
+  "timestamp": "2026-09-21T16:03:19.269130853Z",
+  "model": "glm-5.3"
+}

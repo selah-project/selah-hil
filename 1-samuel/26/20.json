@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 26:20",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Kag subong, indi pagtuguti nga matumba ang akon dugo sa duta, sa layo sa atubang ni Yahweh; kay nagguas ang hari sang Yisrael sa pagpangita sing isa ka ⟨את⟩ pulgas, subong sang pagpaniktik sa perdis sa mga bukid.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kag subong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "pagtuguti nga matumba"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ang akon dugo"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "sa layo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "nagguas"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "sa pagpangita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isa ka pulgas"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "pulgas"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "pagpaniktik"
+    },
+    {
+      "surface": "הקרא",
+      "gloss": "sa perdis"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "sa mga bukid"
+    }
+  ],
+  "timestamp": "2026-09-21T18:11:08.726647341Z",
+  "model": "glm-5.3"
+}

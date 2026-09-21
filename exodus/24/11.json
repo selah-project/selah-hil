@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag sa mga dungganohan nga mga anak sang Yisrael wala niya ginpaabot ang iya kamot, kag nagtan-aw sila ⟨את⟩ sang Elohim, kag nagkaon sila kag nanginom sila.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "mga dungganohan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nga mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ginpaabot"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang iya kamot"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "kag nagtan-aw sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "kag nagkaon sila"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "kag nanginom sila"
+    }
+  ],
+  "timestamp": "2026-09-21T16:31:24.336586504Z",
+  "model": "glm-5.3"
+}

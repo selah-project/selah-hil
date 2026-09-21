@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag indi kamo magpabilin sang bahin sini hasta sa aga; kag ang mabilin sa sini hasta sa aga sa kalayo ninyo sunugon.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "magpabilin kamo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "sang bahin sini"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sa aga"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "kag ang mabilin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "sa sini"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sa aga"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "ninyo sunugon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:24:52.127720729Z",
+  "model": "glm-5.3"
+}

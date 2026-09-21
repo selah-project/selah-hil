@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Gindumtan ko man nga ako ⟨את⟩ ang tanan nga akon pagpangabudlay nga akon ginpangabudlayan sa ilalom sang adlaw, kay pabilinon ko ini sa tawo nga magakabutang pagkatapos sang akon.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "gindumtan ko man"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nga ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga akon pagpangabudlay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "nga akon pagpangabudlay"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "nga ako"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ginpangabudlayan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalom"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sang adlaw"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "kay pabilinon ko ini"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "nga magakabutang"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pagkatapos sang akon"
+    }
+  ],
+  "timestamp": "2026-09-21T21:26:05.099668567Z",
+  "model": "glm-5.3"
+}

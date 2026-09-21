@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 147,
+  "translation": "Nagapang-ayo sang mga gup-as sa tagipusuon, kag nagabinting sang ila mga kasakitan.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "nagapang-ayo"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "sang mga gup-as"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sa tagipusuon"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "kag nagabinting"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "sang ila mga kasakitan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:18.312382881Z",
+  "model": "glm-5.3"
+}

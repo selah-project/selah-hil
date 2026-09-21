@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 53,
+  "translation": "Ginbuhat siya gikan sa pagpamakak kag gikan sa paghukom; kag ⟨את⟩ iya kaliwatan — sin-o ang magahunahuna? Kay gintanggali siya gikan sa duta sang mga buhi; tungod sa pagsuhot sang akon katawhan, ang latigo ara sa ila.",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "gikan sa pagpamakak"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "kag gikan sa paghukom"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ginbuhat siya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya kaliwatan"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "iya kaliwatan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "ang magahunahuna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "gintanggali siya"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa duta"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sang mga buhi"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "tungod sa pagsuhot"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sang akon katawhan"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ang latigo"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ara sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T19:10:38.750968818Z",
+  "model": "glm-5.3"
+}

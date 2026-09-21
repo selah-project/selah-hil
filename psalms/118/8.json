@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 118,
+  "translation": "Maayo ang magpanimbag kay Yahweh kaysa magpasalig sa tawo.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Maayo"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "ang magpanimbag"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "kaysa magpasalig"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sa tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:45.645813579Z",
+  "model": "glm-5.3"
+}

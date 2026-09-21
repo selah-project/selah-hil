@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 96,
+  "translation": "Isugid ninyo sa mga pungsod ang iya himaya, kag sa tanan ⟨nga⟩ mga katawhan ang iya mga kagila-gilalon.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "isugid ninyo"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa mga pungsod"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ang iya himaya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mga katawhan"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "ang iya mga kagila-gilalon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:40.152713047Z",
+  "model": "glm-5.3"
+}

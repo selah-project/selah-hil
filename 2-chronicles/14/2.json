@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag ginkuha niya ⟨את⟩ ang mga halaran sang mga taga-lain kag ang mga kataasan, kag ginpamalak ⟨את⟩ ang mga haligi, kag gintapyas ⟨את⟩ ang mga Ashera.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "ginkuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga halaran sang mga taga-lain"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "ang mga halaran"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "sang mga taga-lain"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "kag ang mga kataasan"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "ginpalak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga haligi"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "ang mga haligi"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "gintapyas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga Ashera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "ang mga Ashera"
+    }
+  ],
+  "timestamp": "2026-09-21T22:05:32.457013954Z",
+  "model": "glm-5.3"
+}

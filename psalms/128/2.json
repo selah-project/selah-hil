@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 128,
+  "translation": "Ang kabudlayan sang imo mga palad magakaon ka sang imo, madayo ikaw, kag maayo ang imo pagkahimtangan.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "kabudlayan"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "sang imo mga palad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "magakaon ka sang imo"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ika magakaon"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "madayo ikaw"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "kag maayo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ang imo pagkahimtangan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:01.063796859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 113,
+  "translation": "Dayawa si Yah, dayawa, kamo nga mga sulugoon ni Yahweh, dayawa ⟨את⟩ sang ngalan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "dayawa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "si Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "dayawa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kamo nga mga sulugoon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "dayawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang ngalan ni Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sang ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:37.540334562Z",
+  "model": "glm-5.3"
+}

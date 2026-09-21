@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 70,
+  "translation": "Mapautaw sila kag maulaw, ang mga nagapangita sang akon kalag; magbalikid sila pabalik kag mapakadlaw, ang mga nagakalipay sa akon kadautan.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "mapautaw sila"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "kag maulaw"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ang mga nagapangita"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sang akon kalag"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "magbalikid sila"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "pabalik"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "kag mapakadlaw"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "ang mga nagakalipay"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "sa akon kadautan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:15.210126031Z",
+  "model": "glm-5.3"
+}

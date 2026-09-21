@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Wala sing pulong kag wala sing mga sinalita, nga wala mabatian ang ila tingog.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Wala"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sang pulong"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "sing mga sinalita"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "nga wala"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "mabatian"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ang ila tingog"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:48.191007598Z",
+  "model": "glm-5.3"
+}

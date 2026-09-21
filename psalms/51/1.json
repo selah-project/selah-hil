@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 51,
+  "translation": "Sa ⟨manugdumala⟩. Isa ka mizmór ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa ⟨manugdumala⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "isa ka mizmór"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:09.456721451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag kamo magatindog sa pagtago kag pang-iyaon ninyo ⟨את⟩ ang dakbanwa, kag ihatod ni Yahweh nga inyo Elohim ini sa inyo mga kamot.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Kag kamo"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "magatindog"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "sa pagtago"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "kag pang-iyaon ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dakbanwa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang dakbanwa"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "kag ihatod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "inyo Elohim"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "sa inyo mga kamot"
+    }
+  ],
+  "timestamp": "2026-09-21T17:37:51.820211395Z",
+  "model": "glm-5.3"
+}

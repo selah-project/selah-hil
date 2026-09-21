@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kay sa kadamo sang kaalam may kadamo sang kasuko, kag ang nagadugang sang ihibalo nagadugang ⟨man⟩ sang kasakitan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "sa kadamo"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sang kaalam"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kadamo"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "sang kasuko"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "kag ang nagadugang"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "sang ihibalo"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "nagadugang"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "sang kasakitan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:25:04.265674441Z",
+  "model": "glm-5.3"
+}

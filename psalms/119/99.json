@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Labi ang akon kaalam kaysa sa tanan ko nga mga magtutudlo, kay ang imo mga pagsaksi amo ang akon pagpaminsar.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "kaysa sa tanan"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "ko nga mga magtutudlo"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "Labi ang akon kaalam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ang imo mga pagsaksi"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "pagpaminsar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:50:06.613873152Z",
+  "model": "glm-5.3"
+}

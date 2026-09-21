@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 146,
+  "translation": "Nagahimo sang hustisya para sa mga gin-igo, nagahatag sang tinapay sa mga gutom; si Yahweh nagabuhin sang mga gapos.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Nagahimo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hustisya"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "para sa mga gin-igo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nagahatag"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "sa mga gutom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "nagabuhin"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "mga gapos"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:45.731671660Z",
+  "model": "glm-5.3"
+}

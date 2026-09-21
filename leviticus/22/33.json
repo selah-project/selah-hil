@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "ang nagpagwa ⟨את⟩ sa inyo sa duta sang Mitsrayim, agod magakahimutang ako sa inyo nga Elohim — ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "ang nagpagwa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo",
+      "marks": "sa inyo (ang nagaaku sang aksyon)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "agod magakahimutang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "nga Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:51:48.156688724Z",
+  "model": "glm-5.3"
+}

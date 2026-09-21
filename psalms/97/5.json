@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 97,
+  "translation": "Nagtunaw ang mga bundok subong sa kitol sa atubangan ni Yahweh, sa atubangan ni Adon sang bug-os nga duta.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "ang mga bundok"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "subong sa kitol"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "nagtunaw"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ni Adon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang bug-os"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nga duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:21.434009469Z",
+  "model": "glm-5.3"
+}

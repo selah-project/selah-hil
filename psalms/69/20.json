@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 69,
+  "translation": "Ikaw nasayod sang akon kahuya kag sang akon kaulawan kag sang akon kaulaw; sa imo atubangan ang tanan ko nga mga kaaway.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nasayod"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "akon kahuya"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "akon kaulawan"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "akon kaulaw"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "sa imo atubangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ko nga mga kaaway"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:43.484579548Z",
+  "model": "glm-5.3"
+}

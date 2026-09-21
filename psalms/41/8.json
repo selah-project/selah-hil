@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 41,
+  "translation": "Magkahiusa sila nagakulo-kulo batok sa akon — tanan nga nagadumili sa akon; batok sa akon gintagna nila ang kalamidad para sa akon.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "Magkahiusa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "batok sa akon"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "nagakulo-kulo sila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "nga nagadumili sa akon"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "batok sa akon"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "gintagna nila"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ang kalamidad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:40.687601288Z",
+  "model": "glm-5.3"
+}

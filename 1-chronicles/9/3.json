@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag sa Yerushalayim nagaistar ang mga anak nga lalaki ni Yehudah, kag ang mga anak nga lalaki ni Binyamin, kag ang mga anak nga lalaki ni Efrayim kag ni Menasheh.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "kag sa Yerushalayim"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "nagaistar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "kag sang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ni Binyamin"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "kag sang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ni Efrayim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "kag ni Menasheh"
+    }
+  ],
+  "timestamp": "2026-09-21T21:53:46.677738843Z",
+  "model": "glm-5.3"
+}

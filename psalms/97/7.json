@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 97,
+  "translation": "Magaulaw ang tanan nga nagaalagad sa mga tinig-ok nga larawan, ang mga nagapadayaw sa mga dios-dios; magduko kamo sa iya, tanan kamo nga mga dios.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Magaulaw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "nga nagaalagad"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "sa mga tinig-ok nga larawan"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "ang mga nagapadayaw"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "sa mga dios-dios"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "magduko kamo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan kamo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "nga mga dios"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:21.434391881Z",
+  "model": "glm-5.3"
+}

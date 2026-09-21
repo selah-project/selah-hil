@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Magapahamtik ⟨ako⟩ kay Yahweh sang tanan ko nga kasingkasing; isaysay ko ang tananimo ⟨nga⟩ mga kagila-gilalon.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "magapahamtik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "isaysay ko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tananimo"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "mga kagila-gilalon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:12.031636372Z",
+  "model": "glm-5.3"
+}

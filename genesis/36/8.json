@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Kag nagpuyo si Esav sa bukid sang Seir — si Esav, amo siya ang Edom.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "nagpuyo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "si Esav"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "sang Seir"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "si Esav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "amo siya"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ang Edom"
+    }
+  ],
+  "timestamp": "2026-09-21T16:10:51.716868426Z",
+  "model": "glm-5.3"
+}

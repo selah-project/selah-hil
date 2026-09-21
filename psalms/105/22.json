@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Sa pagbugkos sang iya mga pangulo sangituon sa iya kalag, kag ang iya mga tigulang gintudloan sang kaalam.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "sa pagbugkos"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "iya mga pangulo"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "sa iya kalag"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "kag iya mga tigulang"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "gintudloan sang kaalam"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:06.371612957Z",
+  "model": "glm-5.3"
+}

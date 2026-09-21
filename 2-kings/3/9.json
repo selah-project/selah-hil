@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 3:9",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag nagkadto ang hari sang Yisrael, kag ang hari sang Yehudah, kag ang hari sang Edom, kag naglibot sila sa dalan sing pito ka adlaw, kag wala sing tubig para sa kampo kag para sa mga sapat nga ⟨nagasunod⟩ sa ila mga tiil.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nagkadto"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "kag ang hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "kag ang hari"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "sang Edom"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "kag naglibot sila"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sing pito ka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "היה",
+      "gloss": "may ara ⟨wala⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "para sa kampo"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "kag para sa mga sapat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ברגליהם",
+      "gloss": "sa ila mga tiil"
+    }
+  ],
+  "timestamp": "2026-09-21T18:39:34.972998170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Ang kanta sang mga kanta, nga ⟨kay⟩ Shelomoh.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ang kanta"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "sang mga kanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "⟨kay⟩ Shelomoh"
+    }
+  ],
+  "timestamp": "2026-09-21T21:19:03.334702116Z",
+  "model": "glm-5.3"
+}

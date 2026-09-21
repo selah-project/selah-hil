@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Kag nagsulod ang Yisrael sa Mitsrayim, kag si Yaakov nangin dayo sa duta sang Ham.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "kag nagsulod"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "kag si Yaakov"
+    },
+    {
+      "surface": "גר",
+      "gloss": "nangin dayo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "חם",
+      "gloss": "sang Ham"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:06.371748181Z",
+  "model": "glm-5.3"
+}

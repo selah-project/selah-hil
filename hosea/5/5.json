@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 5:5",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag ang garsonod sang Yisrael nagasuginido batok sa iya atubangan; kag ang Yisrael kag si Efrayim matumba tungod sa ila kalautan; natumba man ang Yehudah kaupod nanda.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "kag nagasuginido"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ang garsonod"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "batok sa iya atubangan"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "kag ang Yisrael"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "kag si Efrayim"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "matumba"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "tungod sa ila kalautan"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "natumba"
+    },
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ang Yehudah"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "kaupod nanda"
+    }
+  ],
+  "timestamp": "2026-09-21T20:04:36.809259979Z",
+  "model": "glm-5.3"
+}

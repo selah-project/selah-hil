@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 74,
+  "translation": "Iyahad ang imo mga tiktdik sa mga kaguba nga dayon; ang tanan nga ginhimo sang kaaway nga malaot sa balaan nga duog.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "Iyahad"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "imo mga tiktdik"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "sa mga kaguba"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "nga dayon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "g inhimo nga malaot"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "sang kaaway"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "sa balaan nga duog"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:33.545335621Z",
+  "model": "glm-5.3"
+}

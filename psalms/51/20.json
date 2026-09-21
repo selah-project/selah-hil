@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 51,
+  "translation": "Himu-i nga maayo, suno sa imo kaayahan, ⟨את⟩ si Tsiyon; itindog mo ⟨ang⟩ mga paril sang Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Himu-i nga maayo"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "suno sa imo kaayahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Tsiyon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "itindog mo"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "mga paril"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:29.971803253Z",
+  "model": "glm-5.3"
+}

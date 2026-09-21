@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 106:21",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 106,
+  "translation": "Nakalimtan nila si El, ang ila manluluwas, ang naghimo sang mga dalagu-on sa duta sang Mitsrayim,",
+  "tokens": [
+    {
+      "surface": "שכחו",
+      "gloss": "nakalimtan nila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "si El"
+    },
+    {
+      "surface": "מושיעם",
+      "gloss": "ang ila manluluwas"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ang naghimo"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "mga dalagu-on"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa duta sang Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:22.128837248Z",
+  "model": "glm-5.3"
+}

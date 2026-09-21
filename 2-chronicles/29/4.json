@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kag gindala niya ⟨את⟩ ang mga saserdote kag ⟨את⟩ ang mga Levita, kag gintipon niya ang mga ini sa plasa sa sidlangan.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Kag gindala niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga saserdote"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ang mga saserdote"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga Levita"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ang mga Levita"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "kag gintipon niya ang mga ini"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "sa plasa"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "sa sidlangan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:10:56.631724006Z",
+  "model": "glm-5.3"
+}

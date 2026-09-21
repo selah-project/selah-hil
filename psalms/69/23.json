@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 69,
+  "translation": "Magtinana ang ila lamesa sa atubang nila nga ⟨mangin⟩ silo, kag ang ila kalinong nga ⟨mangin⟩ lit-ag.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Magtinana"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "ang ila lamesa"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "sa atubang nila"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "nga mangin silo"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "kag ang ila kalinong"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "nga mangin lit-ag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:58.810937414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nagsiling sila sa iya: Kay kaimo ⟨את⟩ kami magabalik sa imo mga katawhan.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "Kag nagsiling sila"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kaimo",
+      "marks": "kaimo"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "kami magabalik"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "sa imo mga katawhan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:21:22.121208904Z",
+  "model": "glm-5.3"
+}

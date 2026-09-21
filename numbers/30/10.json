@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 30:10",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kag ang pangako sang isa ka balo kag sang sinaway, tanan nga iya ginbugkos sa iya kalag, magatindog sa iya.",
+  "tokens": [
+    {
+      "surface": "ונדר",
+      "gloss": "kag ang pangako"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "balo"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "kag sang sinaway"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "ginbugkos"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "iya kalag"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "magatindog"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T17:14:33.682757946Z",
+  "model": "glm-5.3"
+}

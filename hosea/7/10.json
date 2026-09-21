@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag ang kahambugan sang Yisrael nagpamatuod sa iya atubang; kag wala sila nagbalik kay Yahweh, ila nga Elohim, kag wala nila siya ginpangita sa tanan nga ini.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "kag nagpamatuod"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kahambugan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "sa iya atubang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "sila nagbalik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ila nga Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "ginpangita nila siya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nga ini"
+    }
+  ],
+  "timestamp": "2026-09-21T20:06:40.080120511Z",
+  "model": "glm-5.3"
+}

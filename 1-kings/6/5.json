@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 6:5",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag nagpatindog siya sa pader sang balay sang isa ka yatsuot sa palibot, ⟨את⟩ mga pader sang balay sa palibot, para sa Heikhal kag para sa Devir; kag naghimo siya sang mga tselaot sa palibot.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "nagpatindog siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "pader"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "יצוע",
+      "gloss": "yatsuot"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga pader"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "mga pader"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "para sa Heikhal"
+    },
+    {
+      "surface": "ולדביר",
+      "gloss": "kag para sa Devir"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "kag naghimo siya"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "mga tselaot"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    }
+  ],
+  "timestamp": "2026-09-21T18:29:16.043651414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kag ginkuha ni Avraham ⟨את⟩ ang mga kahoy sang halad nga sinusunog, kag ginbutang niya ini sa Yitschak iya anak, kag nagkuha siya sa iya kamot ⟨את⟩ sang kalayo kag ⟨את⟩ sang sundang, kag naglakat sila nga duha kaupod.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kag ginkuha"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kahoy"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ang mga kahoy"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sang halad nga sinusunog"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "kag ginbutang"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iya anak"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "kag nagkuha"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa iya kamot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang kalayo"
+    },
+    {
+      "surface": "האש",
+      "gloss": "sang kalayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang sundang"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "sang sundang"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "kag naglakat"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "nga duha"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kaupod"
+    }
+  ],
+  "timestamp": "2026-09-21T22:17:29.519240946Z",
+  "model": "glm-5.3"
+}

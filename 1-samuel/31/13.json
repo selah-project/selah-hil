@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kag ginkuha nila ⟨את⟩ ila mga tul-an kag ginlubong sa idalom sang esa sa Yaveshah, kag nagpuasa sila sing pito ka adlaw.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "kag ginkuha nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ila mga tul-an"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "ila mga tul-an"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "kag ginlubong"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa idalom"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "sang esa"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "sa Yaveshah"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "kag nagpuasa sila"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito ka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T18:12:04.481777529Z",
+  "model": "glm-5.3"
+}

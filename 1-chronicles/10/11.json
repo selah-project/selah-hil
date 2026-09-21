@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "kag nadunggan sang tanan ⟨nga tawo sang⟩ Yavesh-Gilad ⟨את⟩ ang tanan nga ginbuhat sang mga Pelishtim kay Shaul.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "kag nadunggan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga ginbuhat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginbuhat"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sang mga Pelishtim"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kay Shaul"
+    }
+  ],
+  "timestamp": "2026-09-21T21:53:09.933713420Z",
+  "model": "glm-5.3"
+}

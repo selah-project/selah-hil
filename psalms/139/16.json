@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 139,
+  "translation": "Nakita sang imo mga mata ang akon guntuangi nga lawas, kag sa imo libro tanan sine nasulat — ang mga adlaw nga naporma, kag wala pa bisan isa sa ila.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "guntuangi nga lawas"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "imo mga mata"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "imo libro"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tanan sine"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "nasulat"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ang mga adlaw"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "naporma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala pa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bisan isa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:03.605672670Z",
+  "model": "glm-5.3"
+}

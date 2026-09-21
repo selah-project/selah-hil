@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag may mga anak ⟨si⟩ Bela: si Adar, kag si Gera, kag si Avihud;",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "kag may"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "kay Bela"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "si Adar"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "kag si Gera"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "kag si Avihud"
+    }
+  ],
+  "timestamp": "2026-09-21T21:51:57.557532768Z",
+  "model": "glm-5.3"
+}

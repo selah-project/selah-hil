@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 68,
+  "translation": "Sa Manugdumala, para kay David, mizmor, kanta.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa Manugdumala"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kanta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:47.078598364Z",
+  "model": "glm-5.3"
+}

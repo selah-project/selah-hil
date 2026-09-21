@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag ginhalad ⟨את⟩ ang tanan nga mga saserdote sang mga mataas nga kinala nga ara didto sa ibabaw sang mga halaran, kag ginsunog ⟨את⟩ ang mga tul-an sang tawo sa ibabaw sini, kag nagbalik siya sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "Kag ginhalad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "nga mga saserdote"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "sang mga mataas nga kinala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ara didto"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "sang mga halaran"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "kag ginsunog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tul-an"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ang mga tul-an"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa ibabaw sini"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kag nagbalik"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-21T18:50:56.388580063Z",
+  "model": "glm-5.3"
+}

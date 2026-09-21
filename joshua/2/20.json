@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag kon ipahayag mo ⟨את⟩ ang amon pulong ini, kag kami malinis sa imo nga panumpa nga imo ginpapanumpa sa amon.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kag kon"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "ipahayag mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang amon pulong"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "ang amon pulong"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "kami maga"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "malinis"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "sa imo nga panumpa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "ginpapanumpa sa amon"
+    }
+  ],
+  "timestamp": "2026-09-21T17:36:17.477843040Z",
+  "model": "glm-5.3"
+}

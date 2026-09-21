@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 65,
+  "translation": "Nagapatindog sang mga bukid sa iya gahum, nagaputos sang kusog.",
+  "tokens": [
+    {
+      "surface": "מכין",
+      "gloss": "nagapatindog"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "sang mga bukid"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "sa iya gahum"
+    },
+    {
+      "surface": "נאזר",
+      "gloss": "nagaputos"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "sang kusog"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:32.423853951Z",
+  "model": "glm-5.3"
+}

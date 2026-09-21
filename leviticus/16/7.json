@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag magakuha siya sang ⟨את⟩ duha ka lalaking kanding kag ipatindog niya sila ⟨אתם⟩ sa atubang ni Yahweh, sa ganghaan sang tolda sang pagtipon.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "kag magakuha siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duha ka lalaking kanding"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "lalaking kanding"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "kag ipatindog niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sila (ang duha ka lalaking kanding)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sa ganghaan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sang tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang pagtipon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:50:50.074970659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag nagsugid sila kay David, nga nagasiling: Tan-awa, ang mga Pelishteho nagapakigaway sa Kelilah, kag sila nagapandarahi ⟨את⟩ ang mga gianganan sang balas.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "nagsugid sila"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ang mga Pelishteho"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "nagapakigaway"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "sa Kelilah"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "kag sila"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "nagapandarahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga gianganan sang balas"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "ang mga gianganan sang balas"
+    }
+  ],
+  "timestamp": "2026-09-21T18:08:24.173227784Z",
+  "model": "glm-5.3"
+}

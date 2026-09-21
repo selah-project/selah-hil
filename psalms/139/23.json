@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 139,
+  "translation": "Susi-a ako, El, kag kilalahi ang akon kasingkasing; sulayi ako kag kilalahi ang akon mga hunahuna.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "susi-a ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "kag kilalahi"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ang akon kasingkasing"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "sulayi ako"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "kag kilalahi"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "ang akon mga hunahuna"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:55.142949822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 52,
+  "translation": "Ginhigugma mo ang kalaot nga labaw sa maayo, kag ang bakak nga labaw sa paghambal sang katarungan. Selah.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ginhigugma mo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ang kalaot"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "nga labaw sa maayo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ang bakak"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sa paghambal"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sang katarungan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:57.039029509Z",
+  "model": "glm-5.3"
+}

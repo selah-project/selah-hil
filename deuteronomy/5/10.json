@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "kag nagahimo sang hesed sa isa ka libo, sa mga nahigugma sa akon kag sa mga nagatipig sang akon mga kasuguan.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "kag nagahimo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "sa isa ka libo"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "sa mga nahigugma sa akon"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "kag sa mga nagatipig"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "sang akon mga kasuguan"
+    }
+  ],
+  "timestamp": "2026-09-21T17:19:22.548925056Z",
+  "model": "glm-5.3"
+}

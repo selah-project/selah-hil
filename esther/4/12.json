@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag ginpahibalo nila kay Mordekhay ⟨את⟩ ang mga pulong ni Ester.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "Kag ginpahibalo nila"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "kay Mordekhay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pulong ni Ester"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ang mga pulong"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ni Ester"
+    }
+  ],
+  "timestamp": "2026-09-21T21:28:39.546268653Z",
+  "model": "glm-5.3"
+}

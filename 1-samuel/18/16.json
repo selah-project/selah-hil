@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag ang tanan nga Yisrael kag Yehudah ginhigugma ⟨את⟩ si David, kay siya amo ang nagaguwa kag nagsusulod sa ila atubangan.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "kag Yehudah"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ginhigugma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "nagaguwa"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "kag nagsusulod"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "sa ila atubangan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:05:47.925769974Z",
+  "model": "glm-5.3"
+}

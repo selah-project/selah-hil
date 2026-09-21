@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Sing langgam sa pagpanuroy, sing tamsi sa paglupad — amo man, ang tunglo nga walay sanglitahanon indi magdulngan.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "sing langgam"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "sa pagpanuroy"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "sing tamsi"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "sa paglupad"
+    },
+    {
+      "surface": "כן",
+      "gloss": "amo man"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "ang tunglo"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "nga walay sanglitahanon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "magdulngan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:03:25.200320376Z",
+  "model": "glm-5.3"
+}

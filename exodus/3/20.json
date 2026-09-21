@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag igapadala ko ⟨את⟩ ang akon kamot, kag igabunal ko ⟨את⟩ ang Mitsrayim sa tanan ko nga mga katingalahan nga himoon ko sa tunga sini; kag tapus sini, pagapagboton niya ⟨את⟩ kamo.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "kag igapadala ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon kamot"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ang akon kamot"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "kag igabunal ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ang Mitsrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "ko nga mga katingalahan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "himoon ko"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "sa tunga sini"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "kag tapus"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sini"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "pagapagboton niya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo",
+      "marks": "kamo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:22:18.080361147Z",
+  "model": "glm-5.3"
+}

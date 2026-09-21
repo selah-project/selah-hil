@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag may singaw nga nagtungtong gikan sa duta, kag nagpainum sang ⟨את⟩ tanan nga dagway sang duta.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "kag singaw"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "nagtungtong"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "kag nagpainum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "dagway"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T15:54:55.057823894Z",
+  "model": "glm-5.3"
+}

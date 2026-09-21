@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 39,
+  "translation": "Kag ginhimo niya ⟨את⟩ ang ephod — bulawan, tekete kag argaman kag tolaat sang shani, kag lino nga gintwali.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kag ginhimo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ephod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ang ephod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekete"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "kag argaman"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "kag tolaat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sang shani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "kag lino"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "nga gintwali"
+    }
+  ],
+  "timestamp": "2026-09-21T16:40:15.350343102Z",
+  "model": "glm-5.3"
+}

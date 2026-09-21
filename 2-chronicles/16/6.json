@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 16:6",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag si Asa ang hari nangkuha sang tanan nga taga-Yehudah, kag gindala nila ⟨את⟩ ang mga bato sang Rama kag ⟨את⟩ ang iya mga kahoy nga ginpatindog ni Baasha, kag nagpatindog siya sa mga ina ⟨את⟩ ang Geva kag ⟨את⟩ ang Mitspa.",
+  "tokens": [
+    {
+      "surface": "ואסא",
+      "gloss": "Kag si Asa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nangkuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga taga-Yehudah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "kag gindala nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga bato sang Rama"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "sang Rama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩"
+    },
+    {
+      "surface": "עציה",
+      "gloss": "iya mga kahoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ginpatindog"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ni Baasha"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "kag nagpatindog"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa mga ina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Geva"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "ang Mitspa"
+    }
+  ],
+  "timestamp": "2026-09-21T22:06:41.734838199Z",
+  "model": "glm-5.3"
+}

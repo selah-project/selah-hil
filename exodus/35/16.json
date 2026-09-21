@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 35:16",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "⟨את⟩ ang halaran sang sinunog nga halad kag ⟨את⟩ ang rehas nga tanso nga iya, ⟨את⟩ iya mga baras kag ⟨את⟩ iya tanan nga mga kagamitan, ⟨את⟩ ang batya kag ⟨את⟩ ang iya tinindogan",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang halaran sang sinunog nga halad"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ang halaran"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sang sinunog nga halad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang rehas nga tanso"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "ang rehas"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "nga tanso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya mga baras"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "iya mga baras"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya tanan nga mga kagamitan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "iya mga kagamitan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang batya"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ang batya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya tinindogan"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ang iya tinindogan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:36:29.597415342Z",
+  "model": "glm-5.3"
+}

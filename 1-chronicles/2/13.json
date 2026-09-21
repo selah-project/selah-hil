@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 2:13",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag si Yishai nagpatawo sang ⟨את⟩ iya panganay ⟨את⟩ si Eliav, kag si Avinadav ang ikaduha, kag si Shimsha ang ikatlo.",
+  "tokens": [
+    {
+      "surface": "ואישי",
+      "gloss": "kag si Yishai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagpatawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang iya panganay"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "iya panganay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Eliav"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "si Eliav"
+    },
+    {
+      "surface": "ואבינדב",
+      "gloss": "kag si Avinadav"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ang ikaduha"
+    },
+    {
+      "surface": "ושמעא",
+      "gloss": "kag si Shimsha"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ang ikatlo"
+    }
+  ],
+  "timestamp": "2026-09-21T21:49:35.972473939Z",
+  "model": "glm-5.3"
+}

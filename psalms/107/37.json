@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 107:37",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 107,
+  "translation": "kag ginnugas nila ang mga uma, kag nagtanim sang mga ubasan, kag nagbunga sila sang bunga sang ani",
+  "tokens": [
+    {
+      "surface": "ויזרעו",
+      "gloss": "kag ginnugas nila"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "ang mga uma"
+    },
+    {
+      "surface": "ויטעו",
+      "gloss": "kag nagtanim"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "sang mga ubasan"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "kag nagbunga sila"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "sang bunga"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "sang ani"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:11.022470595Z",
+  "model": "glm-5.3"
+}

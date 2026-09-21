@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 49,
+  "translation": "Apang ako nagsiling: Sa wala sing pulos ako nakapangabudlay, sa kawad-an kag kaawa-awa gin-ubos ko ang akon kusog; apang ang akon katungdanan ara ⟨את⟩ Yahweh, kag ang akon badbad ara ⟨את⟩ sa akon Elohim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Apang ako"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nagsiling"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "Sa wala sing pulos"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "ako nakapangabudlay"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "sa kawad-an"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "kag kaawa-awa"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ang akon kusog"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "gin-ubos ko"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "apang"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ang akon katungdanan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "kag ang akon badbad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa akon Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "sa akon Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T19:09:14.973326787Z",
+  "model": "glm-5.3"
+}

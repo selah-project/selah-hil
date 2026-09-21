@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 14:4",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Lamang ang mga hataas nga lugar wala gintangtang; gihalin pa sang katawhan nga naghahalad kag nagadulot sang insenso sa mga hataas nga lugar.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ang mga hataas nga lugar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "gintangtang"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gihalin pa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sang katawhan"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "naghahalad"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "kag nagadulot sang insenso"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "sa mga hataas nga lugar"
+    }
+  ],
+  "timestamp": "2026-09-21T22:30:16.050868448Z",
+  "model": "glm-5.3"
+}

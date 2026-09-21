@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Ginbalosan ako ni Yahweh suno sa akon pagkamatarong; suno sa kaputli sang akon mga kamot ginbalik niya ⟨sa akon⟩.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "ginbalosan ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "suno sa akon pagkamatarong"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "suno sa kaputli"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "sang akon mga kamot"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ginbalik niya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:57.871219498Z",
+  "model": "glm-5.3"
+}

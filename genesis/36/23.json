@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 36:23",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Kag ini amo ang mga anak ni Shobal: Alvan, kag Manakhat, kag Eval, Shefo, kag Onam.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "kag ini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "ni Shobal"
+    },
+    {
+      "surface": "עלון",
+      "gloss": "Alvan"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "kag Manakhat"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "kag Eval"
+    },
+    {
+      "surface": "שפו",
+      "gloss": "Shefo"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "kag Onam"
+    }
+  ],
+  "timestamp": "2026-09-21T16:11:25.197701751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag naghambal ⟨siya⟩: Itap ini sa duta; kag gintap niya ini sa duta, kag nagtinuo ⟨ini⟩ nga bitin, kag nagpalagyo si Moshe sa iya atubangan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag naghambal"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "Itap ini"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "kag gintap niya ini"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag nagtinuo"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "nga bitin"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "kag nagpalagyo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "sa iya atubangan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:21:44.202437680Z",
+  "model": "glm-5.3"
+}

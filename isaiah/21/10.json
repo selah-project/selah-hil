@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Akong ginbayo, kag anak sang akon golingan: nga akon nabatian ⟨gikan⟩ ⟨את⟩ Yahweh Tsevaot, Elohim sang Yisrael, akon ginpahibalo sa inyo.",
+  "tokens": [
+    {
+      "surface": "מדושתי",
+      "gloss": "Akong ginbayo"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "kag anak"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "sang akon golingan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "akon nabatian"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Tsevaot, Elohim sang Yisrael"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "akon ginpahibalo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:57:25.819003434Z",
+  "model": "glm-5.3"
+}

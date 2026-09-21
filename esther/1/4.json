@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "sa iya pagpakita ⟨את⟩ sang kabakuluran sang himaya sang iya paghari kag ⟨את⟩ sang kahaligon sang katahum sang iya kadaku-on, nga mga adlaw nga daw balikaton — walo ka pulo kag isa ka gatos ka adlaw",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "sa iya pagpakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang kabakuluran"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sang kabakuluran"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "sang himaya"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "sang iya paghari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang kahaligon"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "sang kahaligon"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "sang katahum"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "sang iya kadaku-on"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nga mga adlaw"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nga daw balikaton"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "walo ka pulo"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "kag isa ka gatos"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ka adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T21:29:53.868659559Z",
+  "model": "glm-5.3"
+}

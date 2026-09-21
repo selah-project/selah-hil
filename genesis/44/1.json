@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 44:1",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Kag gintogo niya ⟨את⟩ sia nga nagatindog sa iya balay, nga nagaingon: Pun-i ⟨את⟩ ang mga sako sang mga tawo sang pagkaon, subong sang makabaton sila magdala, kag ibutang ang kuarta sang tagsa sa baba sang iya sako.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "gintogo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sia nga nagatindog sa iya balay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "iya balay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Pun-i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga sako"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "mga sako"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "sang mga tawo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "pagkaon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "יוכלון",
+      "gloss": "makabaton sila"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "magdala"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "kag ibutang"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kuarta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sang tagsa"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "sa baba"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "iya sako"
+    }
+  ],
+  "timestamp": "2026-09-21T16:16:04.710637433Z",
+  "model": "glm-5.3"
+}

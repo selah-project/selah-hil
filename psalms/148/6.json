@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 148,
+  "translation": "Kag gintindog niya sila sa dayon, tubtong sa kahangturang kag nagbutang sang kasugoan nga indi maglabay",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "Kag gintindog niya sila"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tubtong sa kahangturang"
+    },
+    {
+      "surface": "חק",
+      "gloss": "sang kasugoan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nagbutang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nga indi"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "maglabay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:37.427249465Z",
+  "model": "glm-5.3"
+}

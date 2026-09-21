@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag naghambal ang hari sang Mitsrayim sa ila: Ngaa, Moshe kag Aharon, ginapakawala ninyo ⟨את⟩ ang katawhan sa ila mga buluhaton? Lakat kamo sa inyo mga pagpangabudlay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag naghambal"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "kag Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "ginapakawala ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "sa ila mga buluhaton"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "lakat kamo"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "sa inyo mga pagpangabudlay"
+    }
+  ],
+  "timestamp": "2026-09-21T16:20:56.624894951Z",
+  "model": "glm-5.3"
+}

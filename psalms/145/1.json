@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 145,
+  "translation": "Pagdayaw ni David. Itaason tikaw, Eloah ko, ang hari, kag pagpakamaayanan ko ang imo ngalan sa gakan kag sa dayon.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Pagdayaw"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "Itaason tikaw"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloah ko"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "kag pagpakamaayanan ko"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imo ngalan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa gakan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag sa dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:36.137921060Z",
+  "model": "glm-5.3"
+}

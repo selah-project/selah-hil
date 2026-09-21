@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 102,
+  "translation": "Kay abo bilang tinapay ang akon ginkaon, kag ang akon ilimnon ginhalo ko sang akon mga luha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "bisan sa tinapay"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "ang akon ginkaon"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "kag ang akon ilimnon"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "sang akon mga luha"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "ginhalo ko"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:49.872911613Z",
+  "model": "glm-5.3"
+}

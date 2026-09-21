@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 74,
+  "translation": "Tan-awa ang kasugtanan, kay napun-o sang mga dulungan sang kahasan ang mga madulom nga duog sang duta.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "ang kasugtanan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "napun-o"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "ang mga madulom nga duog"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "mga dulungan"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "sang kahasan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:29.355639212Z",
+  "model": "glm-5.3"
+}

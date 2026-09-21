@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "judges 3:26",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag si Ehud nakaligter samtang nagahinay sila, kag iya ginlabtan ⟨את⟩ ang mga imahen, kag nakaligter siya sa Seirah.",
+  "tokens": [
+    {
+      "surface": "ואהוד",
+      "gloss": "kag si Ehud"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "nakaligter"
+    },
+    {
+      "surface": "עד",
+      "gloss": "samtang"
+    },
+    {
+      "surface": "התמהמהם",
+      "gloss": "sa ila paghinay"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kag siya"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ginlabtan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga imahen"
+    },
+    {
+      "surface": "הפסילים",
+      "gloss": "ang mga imahen"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "kag nakaligter"
+    },
+    {
+      "surface": "השעירתה",
+      "gloss": "sa Seirah"
+    }
+  ],
+  "timestamp": "2026-09-21T17:47:09.158911114Z",
+  "model": "glm-5.3"
+}

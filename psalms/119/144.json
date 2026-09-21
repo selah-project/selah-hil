@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 144,
+  "ref": "psalms 119:144",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Katarungan ang imo ⟨mga⟩ pagsaksi sing dayon; pagpatalinghug sa akon sing pag-intiende, kag mabuhi ako.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "katarungan"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "imo pagsaksi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sing dayon"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "pagpatalinghug sa akon sing pag-intiende"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "kag mabuhi ako"
+    }
+  ],
+  "timestamp": "2026-09-21T22:40:11.057158642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 7:6",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kay ginpabati sang Adonay ⟨את⟩ ang kampo sang Aram sang tingog sang mga karo, sang tingog sang mga kabayo, sang tingog sang dako nga kasundalohan, kag nagsiling ang tagsa ka tawo sa iya utod: Yari, nagsuhol sa aton ang hari sang Yisrael ⟨את⟩ ang mga hari sang mga Hiti kag ⟨את⟩ ang mga hari sang Mitsrayim sa pag-abot sa aton.",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "kay sang Adonay"
+    },
+    {
+      "surface": "השמיע",
+      "gloss": "ginpabati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kampo sang Aram"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "sang Aram"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sang tingog"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "sang mga karo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sang tingog"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "sang mga kabayo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sang tingog"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sang kasundalohan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dako"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tagsa ka tawo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iya utod"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yari"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "nagsuhol"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sa aton"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga hari sang mga Hiti"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "sang mga Hiti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "mga hari sang Mitsrayim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "sa pag-abot"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sa aton"
+    }
+  ],
+  "timestamp": "2026-09-21T18:42:01.230387870Z",
+  "model": "glm-5.3"
+}

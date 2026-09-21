@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 20:11",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag ginhatag ko sa ila ⟨את⟩ ang akon mga kasuguan, kag ⟨את⟩ ang akon mga hatol ginpakilala ko ⟨את⟩ sa ila, nga kon himuon sang tawo ⟨את⟩ ini mabuhi siya sangsini.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "ginhatag ko"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon mga kasuguan"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "ang akon mga kasuguan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang akon mga hatol"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ang akon mga hatol"
+    },
+    {
+      "surface": "הודעתי",
+      "gloss": "ginpakilala ko"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon mga hatol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "himuon"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ini"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "mabuhi siya"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sangsini"
+    }
+  ],
+  "timestamp": "2026-09-21T19:48:28.687056574Z",
+  "model": "glm-5.3"
+}

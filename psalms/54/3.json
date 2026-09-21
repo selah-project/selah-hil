@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 54,
+  "translation": "Elohim, sa imo Ngalan luwasa ako, kag sa imo kusog ihukom ako.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "sa imo Ngalan"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "luwasa ako"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "kag sa imo kusog"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "ihukom ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:32.098049281Z",
+  "model": "glm-5.3"
+}

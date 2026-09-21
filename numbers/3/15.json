@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Ilhan ⟨את⟩ ang mga anak ni Levi suno sa ila balay sang mga amay, suno sa ila mga banay — ang tanan nga lalaki gikan sa isa ka bulan kag pataas imo nga ilhan.",
+  "tokens": [
+    {
+      "surface": "פקד",
+      "gloss": "Ilhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga anak ni Levi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak ni"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "suno sa balay sang"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ila mga amay"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "suno sa ila mga banay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "gikan sa anak nga"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "isa ka bulan"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "kag pataas"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "imo nga ilhan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:59:09.810299416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 47,
+  "translation": "Kamo tanan nga mga pungsod, magpakpak kamo sang kamot; magngisi kamo sa Elohim nga may tingog sang pagngisi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "nga mga pungsod"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "magpakpak kamo"
+    },
+    {
+      "surface": "כף",
+      "gloss": "sang palad"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "magngisi kamo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "nga may tingog"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "sang pagngisi"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:30.190461484Z",
+  "model": "glm-5.3"
+}

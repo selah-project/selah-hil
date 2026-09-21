@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 79,
+  "translation": "Nangin kami nga kaulawan sa aton mga kaingod, nga pagtuya kag pagkutya sa aton mga palibot.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "Nangin kami"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "nga kaulawan"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "sa aton mga kaingod"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "nga pagtuya"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "kag pagkutya"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "sa aton mga palibot"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:20.930828826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 79,
+  "translation": "Kag kami ⟨amo⟩ ang imo nga katawhan kag ang mga karnero sang imo pastulan, magasalamat sa imo sing dayon, sa isa ka kaliwatan kag isa ka kaliwatan, magasugid sang imo pagdayaw.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "kag kami"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ang imo nga katawhan"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "kag ang mga karnero"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "sang imo pastulan"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "magasalamat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sing dayon"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "sa isa ka kaliwatan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kag isa ka kaliwatan"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "magasugid"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "sang imo pagdayaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:14.734340199Z",
+  "model": "glm-5.3"
+}

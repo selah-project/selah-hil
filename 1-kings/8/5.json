@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 8:5",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ang hari nga si Shelomah kag ang tanan nga katipunan sang Yisrael, ang mga natipon sa iya, ⟨kauban⟩ ⟨את⟩ niya sa atubangan sang Arka, nagahalad sang mga karnero kag mga baka nga indi mabilang kag indi maihap tungod sang kadamo.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Kag ang hari"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "si Shelomah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "nga katipunan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "הנועדים",
+      "gloss": "ang mga natipon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "si Shelomah kag ang katipunan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sang Arka"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "nagahalad"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sang mga karnero"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "kag mga baka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "mabilang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "ימנו",
+      "gloss": "maihap"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "tungod sang kadamo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:30:30.709707272Z",
+  "model": "glm-5.3"
+}

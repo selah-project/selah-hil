@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag nagkari ang mga manugbantay kag ginpatabog sila, kag nagtindog si Moshe kag ginluwas sila, kag ginpainum ⟨את⟩ ang ila kawan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "nagkari"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ang mga manugbantay"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "ginpatabog sila"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "nagtindog"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "ginluwas sila"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "ginpainum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ila kawan"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "ang ila kawan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:18:45.602119373Z",
+  "model": "glm-5.3"
+}

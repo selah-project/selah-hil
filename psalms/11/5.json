@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 11:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Ginasulay ni Yahweh ang matarong; apang ang malain kag ang nagahigugma sang kapintas, ginadumtan sang iya kalag.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ang matarong"
+    },
+    {
+      "surface": "יבחן",
+      "gloss": "ginasulay"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "apang ang malain"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "kag ang nagahigugma"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "sang kapintas"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ginadumtan"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sang iya kalag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:44.293363569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Ginhimo ni Moshe nga amo ini ang ginsugo ni Yahweh ⟨אתו⟩ sa iya, kag nagtipon ang katilingban sa gigianan sang tolda sang pagtigayon.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ginhimo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nga amo ini ang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "sa iya (si Moshe)"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "kag nagtipon"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ang katilingban"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "gigianan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sang tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang pagtigayon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:44:47.491825924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Kag ginpaguwa niya ang mga agos gikan sa bato, kag ginpahunod ang mga tubig subong sa mga suba.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "kag ginpaguwa niya"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "ang mga agos"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "gikan sa bato"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "kag ginpahunod"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "subong sa mga suba"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ang mga tubig"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:46.963399425Z",
+  "model": "glm-5.3"
+}

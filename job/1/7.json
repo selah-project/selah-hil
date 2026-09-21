@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nagsiling si Yahweh sa Satanas, 'Taga diin ikaw?' Kag ginsabat sang Satanas ⟨את⟩ si Yahweh kag nagsiling, 'Gikan sa paglibot-libot sa duta kag sa pagpanaw-panaw sa iya.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nagsiling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ang Satanas"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "taga diin"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ikaw nagakadto"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "ginsabat"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "sang Satanas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "sa paglibot-libot"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "kag sa pagpanaw-panaw"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T21:06:34.338964234Z",
+  "model": "glm-5.3"
+}

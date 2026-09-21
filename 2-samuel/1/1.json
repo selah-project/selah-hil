@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nangyari kahuman sang kamatayon ni Shaul, kag si David nagpauli sa paglig-os ⟨את⟩ sang Amalek, kag si David nagpuyo sa Tsiklag duha ka adlaw.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kag nangyari"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kahuman"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sang kamatayon"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "kag si David"
+    },
+    {
+      "surface": "שב",
+      "gloss": "nagpauli"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "sa paglig-os"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang Amalek"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kag nagpuyo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "sa Tsiklag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ka adlaw"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duha"
+    }
+  ],
+  "timestamp": "2026-09-21T18:14:01.248282378Z",
+  "model": "glm-5.3"
+}

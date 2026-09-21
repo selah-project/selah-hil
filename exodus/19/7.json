@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 19:7",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag nagkadto si Moshe kag nagtawag sa mga magulangan sang katawhan, kag nagbutang sa ila atubang sang ⟨את⟩ tanan nga ini nga mga pulong nga sugo sa iya ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Kag nagkadto"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kag nagtawag"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "sa mga magulangan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sang katawhan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "kag nagbutang"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "sa ila atubang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga ini nga mga pulong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "sugo sa iya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:28:37.430071946Z",
+  "model": "glm-5.3"
+}

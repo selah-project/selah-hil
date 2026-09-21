@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "⟨את⟩ ang tinubo sang imo ani indi mo pag-anihon, kag ⟨את⟩ ang mga ubas sang imo gin-untatan nga ubasan indi mo pag-untatan; tuig sang bug-os nga pagpahuway ang magakabuhi sa ⟨ang⟩ duta.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tinubo sang imo ani"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "ang tinubo"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "sang imo ani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "mo pag-anihon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga ubas sang imo gin-untatan nga ubasan"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "ang mga ubas"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "sang imo gin-untatan nga ubasan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "mo pag-untatan"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "sang bug-os nga pagpahuway"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ang magakabuhi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "sa duta"
+    }
+  ],
+  "timestamp": "2026-09-21T16:54:59.738252947Z",
+  "model": "glm-5.3"
+}

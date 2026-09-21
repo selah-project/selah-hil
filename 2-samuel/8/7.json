@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ginkuha ni David ⟨את⟩ ang mga taming sang bulawan nga ara sa mga sulugoon ni Hadadezer, kag gindala niya sila sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kag ginkuha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga taming sang bulawan"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "ang mga taming"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "sang bulawan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga sulugoon"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ni Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "kag gindala niya sila"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-21T18:15:09.702111418Z",
+  "model": "glm-5.3"
+}

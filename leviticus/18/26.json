@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag kamo magatipon ⟨את⟩ sang akon mga kasuguan kag ⟨את⟩ sang akon mga kahukuman, kag indi kamo magahimo bisan sa isa sang tanan nga ini nga mga ginakasilanan — ang tumandok kag ang dayo nga nagaestar sa tunga ninyo.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "magatipon kamo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang akon mga kasuguan"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "sang akon mga kasuguan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "sang akon mga kahukuman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kamo magahimo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bisan sa isa sang tanan"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "mga ginakasilanan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "ang tumandok"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "kag ang dayo"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "nga nagaestar"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "sa tunga ninyo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:50:08.611559196Z",
+  "model": "glm-5.3"
+}

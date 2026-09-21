@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 67,
+  "translation": "Ginpakamaayo kami sang Elohim, kag magakaikog sa ⟨אתו⟩ ang tanan nga mga katapusan sang duta.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "ginpakamaayo kami"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "kag magakaikog"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga mga katapusan sang duta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "nga mga katapusan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:07.647292502Z",
+  "model": "glm-5.3"
+}

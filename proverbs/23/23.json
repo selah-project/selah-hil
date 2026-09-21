@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Pagpalit ikaw sang kamatuoran kag indi pagbaligya; kag sang kaalam, kag sang pagtulun-an, kag sang pagsabot.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "sang kamatuoran"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "Pagpalit ikaw"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag indi pag-"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "baligya"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kag sang kaalam"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "kag sang pagtulun-an"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "kag sang pagsabot"
+    }
+  ],
+  "timestamp": "2026-09-21T21:02:07.061061201Z",
+  "model": "glm-5.3"
+}

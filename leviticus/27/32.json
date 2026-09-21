@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 27:32",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Kag ang tanan nga ikapulo sang mga baka kag sang mga karnero — ang tanan nga magaagi sa idalom sang tungkod — ang ikanapulo magaagi ⟨nga⟩ balaan kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "nga ikapulo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sang mga baka"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "kag sang mga karnero"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "magaagi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa idalom"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "sang tungkod"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "ang ikanapulo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magaagi ⟨nga⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:57:27.809814723Z",
+  "model": "glm-5.3"
+}

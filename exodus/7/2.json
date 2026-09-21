@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Ikaw magahambal sang ⟨את⟩ tanan nga sogoon ko sa imo, kag si Aharon nga imo utod magahambal kay Paro, agod magapagwa niya ⟨את⟩ ang mga anak nga lalaki sang Yisrael gikan sa iya duta.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "magahambal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "sogoon ko sa imo"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "kag si Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nga imo utod"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "magahambal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "agod magapagwa niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga anak nga lalaki sang Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "gikan sa iya duta"
+    }
+  ],
+  "timestamp": "2026-09-21T16:22:08.529091346Z",
+  "model": "glm-5.3"
+}

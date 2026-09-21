@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 16:13",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Sa tanan nga mga sala ni Baasha kag sang mga sala ni Elah iya anak, nga sila nagsala kag ginpasala sa ⟨את⟩ Yisrael, sa pagpahaboy sang kaakig sa ⟨את⟩ Yahweh, Elohim sang Yisrael, paagi sa ila mga butang nga walay pulos.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "mga sala"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ni Baasha"
+    },
+    {
+      "surface": "וחטאות",
+      "gloss": "kag sang mga sala"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ni Elah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iya anak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "sila nagsala"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kag nga"
+    },
+    {
+      "surface": "החטיאו",
+      "gloss": "ginpasala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "sa pagpahaboy sang kaakig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim sang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "paagi sa ila mga butang nga walay pulos"
+    }
+  ],
+  "timestamp": "2026-09-21T18:35:47.786345165Z",
+  "model": "glm-5.3"
+}

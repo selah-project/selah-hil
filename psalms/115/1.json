@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 115,
+  "translation": "Indi sa amon, Yahweh, indi sa amon, kundi sa imo Ngalan ihatag ang himaya, tungod sa imo hesed, tungod sa imo katumanan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kundi"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "sa imo Ngalan"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ihatag"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "himaya"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "imo hesed"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "imo katumanan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:19.469301656Z",
+  "model": "glm-5.3"
+}

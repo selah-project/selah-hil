@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 83,
+  "translation": "Kay tan-awa, ang imo ⟨mga⟩ kaaway nagasamok, kag ang mga nagadumili sa imo nagpatindog sang ulo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "ang imo mga kaaway"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "nagasamok"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "kag ang mga nagadumili sa imo"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "nagpatindog"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sang ulo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:01.256753996Z",
+  "model": "glm-5.3"
+}

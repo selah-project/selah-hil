@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 4:43",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "⟨Ang⟩ Betser sa kawadian, sa duta sang patag nga lugar, para sa mga Rubennonhon; kag ⟨את⟩ sang Ramot sa Gilad para sa mga Gadhonhon; kag ⟨את⟩ sang Golan sa Bashan para sa mga Manassenhon.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betser"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Betser"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kawadian"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta sang"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "patag nga lugar"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "para sa mga Rubennonhon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Ramot"
+    },
+    {
+      "surface": "ראמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "sa Gilad"
+    },
+    {
+      "surface": "לגדי",
+      "gloss": "para sa mga Gadhonhon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Golan"
+    },
+    {
+      "surface": "גולן",
+      "gloss": "Golan"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "sa Bashan"
+    },
+    {
+      "surface": "למנשי",
+      "gloss": "para sa mga Manassenhon"
+    }
+  ],
+  "timestamp": "2026-09-21T17:19:25.513359241Z",
+  "model": "glm-5.3"
+}

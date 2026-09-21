@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 16:19",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Indi mo pagbay-on ang hukum, indi ka magkilala sang dagway, kag indi ka magkuha sang suhol, kay ang suhol nagapabuta sa mga mata sang mga maalam kag nagabalhin sang mga pulong sang mga matarong.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "mo pagbay-on"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ang hukum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תכיר",
+      "gloss": "ka magkilala"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sang dagway"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ka magkuha"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "sang suhol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "ang suhol"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "nagapabuta"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "sang mga maalam"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "kag nagabalhin"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sang mga pulong"
+    },
+    {
+      "surface": "צדיקם",
+      "gloss": "sang mga matarong"
+    }
+  ],
+  "timestamp": "2026-09-21T17:24:28.936360112Z",
+  "model": "glm-5.3"
+}

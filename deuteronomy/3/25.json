@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Magatabok ako, giliwagon, kag makita ko ⟨את⟩ ang duta nga maayo nga sa tabok sang Yarden, ang bukid nga maayo ini, kag ang Lebanon.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "magatabok ako"
+    },
+    {
+      "surface": "נא",
+      "gloss": "giliwagon"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "kag makita ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "nga maayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "sa tabok"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sang Yarden"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ang bukid"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "nga maayo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "kag ang Lebanon"
+    }
+  ],
+  "timestamp": "2026-09-21T17:18:29.665111557Z",
+  "model": "glm-5.3"
+}

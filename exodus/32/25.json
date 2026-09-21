@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Kag nakita ni Moshe ⟨את⟩ ang katawhan, kay nagpahubas ⟨sila⟩, kay si Aharon amo ang nagpahubas sa ila nga maga kaulawan sa ila mga nagatindog ⟨batok⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "kag nakita"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "nagpahubas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "nagpahubas"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "nga maga kaulawan"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "sa ila mga nagatindog"
+    }
+  ],
+  "timestamp": "2026-09-21T16:37:17.556065907Z",
+  "model": "glm-5.3"
+}

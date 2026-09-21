@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 149,
+  "translation": "Sa himuon sa ila ang hudisyo nga kasulatan — ini amo ang himaya para sa tanan niya nga mga hesed — pagdayawga si Yah!",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "sa himuon"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ang hudisyo"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "nga kasulatan"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "himaya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ini amo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "para sa tanan"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "niya nga mga hesed"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pagdayawga"
+    },
+    {
+      "surface": "יה",
+      "gloss": "si Yah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:37.567875779Z",
+  "model": "glm-5.3"
+}

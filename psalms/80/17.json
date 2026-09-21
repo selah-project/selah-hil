@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 80:17",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 80,
+  "translation": "Ginsunog sang kalayo, ginputol ⟨kadayon⟩; sa pagtuyaw sang imo dagway magaperar sila.",
+  "tokens": [
+    {
+      "surface": "שרפה",
+      "gloss": "Ginsunog"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "כסוחה",
+      "gloss": "ginputol"
+    },
+    {
+      "surface": "מגערת",
+      "gloss": "sa pagtuyaw"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "imo dagway"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "magaperar sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:16.019594032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 103,
+  "translation": "Sang kay David. Panalanginan mo, kalag ko, si Yahweh ⟨את⟩, kag ang tanan sang ara sa sulod ko, ang iya balaan nga ngalan ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Sang kay David"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Panalanginan mo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "kalag ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan sang"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "ara sa sulod ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya balaan nga ngalan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngalan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "iya balaan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:25.471792048Z",
+  "model": "glm-5.3"
+}

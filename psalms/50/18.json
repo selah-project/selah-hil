@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 50,
+  "translation": "Kon nakita mo ang mangakaw, nagdali ka kaupod sini, kag ang imo bahin kaupod sang mga manugang bun-og.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "nakita mo"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "ang mangakaw"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "nagdali ka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaupod sini"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kag kaupod sang"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "mga manugang bun-og"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "ang imo bahin"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:18.399452092Z",
+  "model": "glm-5.3"
+}

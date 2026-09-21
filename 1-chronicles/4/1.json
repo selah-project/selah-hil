@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Ang mga anak nga lalaki ni Yehudah: Perets, Khetsron, kag Kharmi, kag Khur, kag Shoval.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Khetsron"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "kag Kharmi"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "kag Khur"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "kag Shoval"
+    }
+  ],
+  "timestamp": "2026-09-21T21:50:52.208624819Z",
+  "model": "glm-5.3"
+}

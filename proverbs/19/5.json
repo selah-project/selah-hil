@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 19:5",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Ang saksi sang mga tokar indi maliligtas ⟨sa silot⟩, kag ang nagagwa sang mga binakak indi makaligtas.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ang saksi"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "sang mga tokar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "maliligtas ⟨sa silot⟩"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "kag ang nagagwa"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "sang mga binakak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "makaligtas"
+    }
+  ],
+  "timestamp": "2026-09-21T21:01:27.846441807Z",
+  "model": "glm-5.3"
+}

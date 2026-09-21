@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag gintawag ni Elohim ang kahayag nga Adlaw, kag ang kadudulman gintawag ⟨nga⟩ Gab-i; kag nag-abut ⟨ang⟩ kagabh-i kag nag-abut ⟨ang⟩ kabuntag — isa ka adlaw.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Kag gintawag"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ang kahayag"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nga Adlaw"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "kag ang kadudulman"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "gintawag"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "Gab-i"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag nag-abut"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kagabh-i"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag nag-abut"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "kabuntag"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    }
+  ],
+  "timestamp": "2026-09-21T15:56:23.542954705Z",
+  "model": "glm-5.3"
+}

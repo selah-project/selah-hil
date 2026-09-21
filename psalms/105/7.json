@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Siya si Yahweh, ang aton Elohim; sa tanan nga duta ang iya mga paghukum.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Siya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ang aton Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nga duta"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "mga paghukum"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:03.671409732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kag kuhaton sang mga tigulang sang sina nga dakbanwa ⟨את⟩ ang tawo, kag silotan nila ⟨את⟩ ⟨siya⟩.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "Kag kuhaton sang"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga tigulang"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dakbanwa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tawo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "kag silotan nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨siya⟩",
+      "marks": "ang tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:28:18.596683500Z",
+  "model": "glm-5.3"
+}

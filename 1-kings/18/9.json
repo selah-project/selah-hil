@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag nagsiling siya: Ano ang akon sala, kay ikaw nagahatag sang imo sulugoon ⟨את⟩ sa kamot ni Ahab agod patyon ako?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag nagsiling siya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ano"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ang akon sala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nagahatag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang imo sulugoon"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "imo sulugoon"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Ahab"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "agod patyon ako"
+    }
+  ],
+  "timestamp": "2026-09-21T18:35:59.218611705Z",
+  "model": "glm-5.3"
+}

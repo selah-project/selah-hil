@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Agod ang akon himaya magazamar sa imo kag indi magahilum — Yahweh, Elohim ko, sa dayon magasalamatan ko ikaw.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "agod"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "magazamar sa imo"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "himaya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "magahilum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ko"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "magasalamatan ko ikaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:08.637308006Z",
+  "model": "glm-5.3"
+}

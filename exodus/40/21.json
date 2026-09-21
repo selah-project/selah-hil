@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 40:21",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag gindala niya ⟨את⟩ ang aron sa sulod sang Mishkan, kag ginsikat niya ⟨את⟩ ang parokhet sang masak, kag gintabon niya ang aron sang pagpamatuod, suno sa ginsugo ni Yahweh ⟨את⟩ ⟨kay⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "gindala niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang aron"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ang aron"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa sulod"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "sang Mishkan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ginsikat niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang parokhet"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "parokhet"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "sang masak"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "gintabon niya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "sang pagpamatuod"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "suno sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T16:40:58.450008112Z",
+  "model": "glm-5.3"
+}

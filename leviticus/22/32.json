@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kag indi ninyo pagtahawon ⟨את⟩ ang akon balaan nga ngalan; kag pagabalaanon ako sa tunga sang mga anak nga lalaki sang Yisrael; ako si Yahweh, ang nagabalaan sa inyo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "ninyo pagtahawon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon balaan nga ngalan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang ngalan"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "akon balaan"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "kag pagabalaanon ako"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sang mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "ang nagabalaan sa inyo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:52:42.615394722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kay ikaw ang akon bato kag ang akon kuta; kag tungod sa imo Ngalan giyaa ako kag dal-a ako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "ang akon bato"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "kag ang akon kuta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "kag tungod"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sa imo Ngalan"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "giyaa ako"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "kag dal-a ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:36.334081626Z",
+  "model": "glm-5.3"
+}

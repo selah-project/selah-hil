@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 92,
+  "translation": "Mapintas nga dako ang imo mga buhat, Yahweh; labi nga kadako, ang imo mga hunahuna nagadalom.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "mapintas"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "nga dako"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ang imo mga buhat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labi nga kadako"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "nagadalom"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "ang imo mga hunahuna"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:07.934778885Z",
+  "model": "glm-5.3"
+}

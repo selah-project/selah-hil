@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag nagbalik ako kag nagpanaog ako gikan sa bukid, kag ginsulod ko ⟨את⟩ ang mga luhad sa kahon nga akon ginbuhat, kag ara sila didto, suno sa ginsugo sa akon ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "nagbalik ako"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "kag nagpanaog ako"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "kag ginsulod ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga luhad"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "ang mga luhad"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "sa kahon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "akon ginbuhat"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "kag ara sila"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "suno sa"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "ginsugo sa akon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T17:21:48.425972674Z",
+  "model": "glm-5.3"
+}

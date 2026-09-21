@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag gintawag sang tawo ang ngalan sang iya asawa nga Khavah, kay siya nangin ina sang tanan nga buhî.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "kag gintawag"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang ngalan"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sang iya asawa"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "nga Khavah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "nangin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nga buhî"
+    }
+  ],
+  "timestamp": "2026-09-21T15:56:38.859253498Z",
+  "model": "glm-5.3"
+}

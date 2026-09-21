@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Ang tanan nga katilingban sang Yisrael magatuman sini ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "katilingban"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "magatuman"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "sini (ang Pesach)"
+    }
+  ],
+  "timestamp": "2026-09-21T16:25:24.761987102Z",
+  "model": "glm-5.3"
+}

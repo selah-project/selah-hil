@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 19:8",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag magpanaghoy ang mga mamunit sang isda, kag magbangis ang tanan nga nagapapadayag sang kawil sa suba, kag ang nagapalapag sang pukot sa ibabaw sang tubig maluya.",
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "kag magpanaghoy"
+    },
+    {
+      "surface": "הדיגים",
+      "gloss": "ang mga mamunit sang isda"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "kag magbangis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "משליכי",
+      "gloss": "nga nagapapadayag"
+    },
+    {
+      "surface": "ביאור",
+      "gloss": "sa suba"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "kawil"
+    },
+    {
+      "surface": "ופרשי",
+      "gloss": "kag ang nagapalapag"
+    },
+    {
+      "surface": "מכמרת",
+      "gloss": "pukot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "פני",
+      "gloss": "—"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sang tubig"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "maluya"
+    }
+  ],
+  "timestamp": "2026-09-21T18:58:32.615040663Z",
+  "model": "glm-5.3"
+}

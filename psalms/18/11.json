@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag nagsakay siya sa isa ka kerub kag naglupad, kag naglupad pa itaas siya sa mga pako sang hangin.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "nagsakay siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "isa ka kerub"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "naglupad"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "naglupad pa itaas"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mga pako"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sang hangin"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:19.671454664Z",
+  "model": "glm-5.3"
+}

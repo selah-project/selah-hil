@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 28:30",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Babayi ang pagapangakuyon mo, kag isa ka lalaki nga lain ang magahigda sa iya; balay ang patinduron mo, kag indi ka magapuyo sa iya; parasan ang itanum mo, kag indi mo iya pagamiton.",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "babayi"
+    },
+    {
+      "surface": "תארש",
+      "gloss": "pagapangakuyon mo"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kag isa ka lalaki"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nga lain"
+    },
+    {
+      "surface": "ישגלנה",
+      "gloss": "magahigda sa iya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "patinduron mo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "magapuyo ka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "parasan"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "itanum mo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תחללנו",
+      "gloss": "pagamiton"
+    }
+  ],
+  "timestamp": "2026-09-21T17:31:26.430204972Z",
+  "model": "glm-5.3"
+}

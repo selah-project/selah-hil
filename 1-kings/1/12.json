@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag subong, kadi, pagatambagan taka ⟨nga⟩ isa ka tambag, agud maluwas mo ⟨את⟩ ang imo kabuhi kag ⟨את⟩ ang kabuhi sang imo anak nga si Shelomoh.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kag subong"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "pagatambagan taka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨nga⟩"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "isa ka tambag"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "agud maluwas mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imo kabuhi"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ang imo kabuhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang kabuhi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ang kabuhi"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sang imo anak"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "nga si Shelomoh"
+    }
+  ],
+  "timestamp": "2026-09-21T18:25:20.465891365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "kag ⟨את⟩ ang Gat kag ⟨את⟩ ang Mareshah kag ⟨את⟩ ang Zip.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Gat"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Mareshah"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Mareshah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Zip"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zip"
+    }
+  ],
+  "timestamp": "2026-09-21T22:02:55.730460621Z",
+  "model": "glm-5.3"
+}

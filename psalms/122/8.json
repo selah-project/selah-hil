@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 122,
+  "translation": "Tungod sa akon mga utod kag akon mga kaabay, magahambal ako ⟨ga⟩ katon: kaangayan sa imo.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Tungod sa"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "akon mga utod"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "kag akon mga kaabay"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "magahambal ako"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ga⟩ katon"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kaangayan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:41.837337805Z",
+  "model": "glm-5.3"
+}

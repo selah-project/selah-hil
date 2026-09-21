@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 21:9",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag ikaw magapapas sang dugo sang inosente sa tunga mo, kay himomon mo ang matarong sa atubang ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kag ikaw"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "magapapas"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ang dugo"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "sang inosente"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "sa tunga mo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "himonon mo"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ang matarong"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T17:25:37.039309892Z",
+  "model": "glm-5.3"
+}

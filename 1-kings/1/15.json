@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Gani nagsulod si Bat-Sheva sa hari sa iya sulod nga lawas, kag ang hari tigulang na gid; kag si Avishag nga taga-Shunem ang nagaalagad ⟨את⟩ sa hari.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "nagsulod"
+    },
+    {
+      "surface": "בת",
+      "gloss": "si Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "sa iya sulod nga lawas"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "kag ang hari"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "tigulang na"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gid"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "kag si Avishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "nga taga-Shunem"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "nagaalagad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa hari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-09-21T18:25:27.137284981Z",
+  "model": "glm-5.3"
+}

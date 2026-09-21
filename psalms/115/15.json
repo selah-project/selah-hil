@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 115,
+  "translation": "Gin-abenirahan kamo sang Yahweh, ang naghimo sang mga langit kag sang duta.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "gin-abenirahan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sang Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ang naghimo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "kag duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:34.656366151Z",
+  "model": "glm-5.3"
+}

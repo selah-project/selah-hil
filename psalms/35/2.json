@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Kupta ang mga sandata — ang mas manggas kag ang dako nga taming — kag magtindog ka sa pagbulig sa akon.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "kupta"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ang mas manggas"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "kag ang dako nga taming"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "kag magtindog ka"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "sa pagbulig sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:51.985637707Z",
+  "model": "glm-5.3"
+}

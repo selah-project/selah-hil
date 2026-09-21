@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 15:19",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "⟨את⟩ ang Kayni kag ⟨את⟩ ang Kenizi kag ⟨את⟩ ang Kadmoni",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Kayni"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "ang Kayni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Kenizi"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "ang Kenizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Kadmoni"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "ang Kadmoni"
+    }
+  ],
+  "timestamp": "2026-09-21T16:00:38.737500203Z",
+  "model": "glm-5.3"
+}

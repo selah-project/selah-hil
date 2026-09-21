@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 5:10",
+  "book": "amos",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Ginadumtan ninyo ang nagasaway sa ganghaan, kag ginakalain ninyo ang naghambal sing matarong.",
+  "tokens": [
+    {
+      "surface": "שנאו",
+      "gloss": "ginadumtan ninyo"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "sa ganghaan"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "ang nagasaway"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "kag ang naghambal"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "יתעבו",
+      "gloss": "ginakalain ninyo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:10:22.230574088Z",
+  "model": "glm-5.3"
+}

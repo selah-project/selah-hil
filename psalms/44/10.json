@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Bisan pa, ginbakod mo kag ginpalain kami, kag indi ka na maggwa kaupod sa aton mga kasoldadosan.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Bisan pa"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "ginbakod mo"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "kag ginpalain kami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ka maggwa"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "kaupod sa aton mga kasoldadosan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:25.390052394Z",
+  "model": "glm-5.3"
+}

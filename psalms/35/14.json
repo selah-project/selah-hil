@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Subong sang higala, subong sang utod sa akon, naglibang ako; subong sang isa nga naghinagyan sang iya iloy, nagmonu kag nagdukdok ako.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "subong sang higala"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "subong sang utod"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "naglibang ako"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "subong sang naghinagyan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iloy"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "nagmonu"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "nagdukdok ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:40.551734259Z",
+  "model": "glm-5.3"
+}

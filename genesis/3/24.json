@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ginpahal-in niya ⟨את⟩ ang tawo, kag ginpahamtang niya sa sidlangan sang tanaman sang Eden ⟨את⟩ ang mga kerub kag ⟨את⟩ ang laga sang espading nga nagaliko-liko, sa pagbantay ⟨את⟩ sang dalan sang kahoy sang kabuhi.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "ginpahal-in niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tawo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "ginpahamtang niya"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "sa sidlangan"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "sang tanaman"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "sang Eden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kerub"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "ang mga kerub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang laga sang espading"
+    },
+    {
+      "surface": "להט",
+      "gloss": "ang laga"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "sang espading"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "nga nagaliko-liko"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "sa pagbantay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang dalan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sang dalan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "sang kahoy"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "sang kabuhi"
+    }
+  ],
+  "timestamp": "2026-09-21T15:56:12.017724940Z",
+  "model": "glm-5.3"
+}

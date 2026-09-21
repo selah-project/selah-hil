@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Ginpaguyod niya ang sidlakan sa mga langit, kag ginpangunhan niya paagi sa iya kusog ang habagatan.",
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "ginpaguyod"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ang sidlakan"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sa mga langit"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "kag ginpangunhan"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "paagi sa iya kusog"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "ang habagatan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:54.834667257Z",
+  "model": "glm-5.3"
+}

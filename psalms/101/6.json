@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 101,
+  "translation": "Ang akon mata ⟨mga⟩ sa mga matumanon sang duta, sa pagpuyo kaupod ko; ang nagalakat sa dalan sing kabug-os, siya magaalagad sa akon.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "akon mata"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "sa mga matumanon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "sa pagpuyo"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "kaupod ko"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nagalakat"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "kabug-os"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "magaalagad sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:44.139714544Z",
+  "model": "glm-5.3"
+}

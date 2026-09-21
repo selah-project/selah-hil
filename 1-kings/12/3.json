@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 12:3",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag nagpadala sila kag nagtawag sa iya, kag nagkadto si Yarovam kag ang tanan nga katipunan sang Yisrael, kag naghambal sila kay Rechavam nga nagaingon:",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "nagpadala sila"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "kag nagtawag"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "kag nagkadto"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "si Yarovam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan nga"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "katipunan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "kag naghambal sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechavam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    }
+  ],
+  "timestamp": "2026-09-21T18:33:29.474933562Z",
+  "model": "glm-5.3"
+}

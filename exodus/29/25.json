@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 29:25",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kag kuhaa ⟨אתם⟩ gikan sa ila mga kamot, kag pahuhaa sa halaran, sa ibabaw sang sinunog nga halad, nga halong kaangay sa atubangan ni Yahweh — halad sa kalayo ini, kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "kag kuhaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "gikan sa ila mga kamot"
+    },
+    {
+      "surface": "והקטרת",
+      "gloss": "kag pahuhaa"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa halaran"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sinunog nga halad"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "nga halong"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "kaangay"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan sang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "halad sa kalayo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:35:26.162146110Z",
+  "model": "glm-5.3"
+}

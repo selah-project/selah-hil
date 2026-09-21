@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Ihatag ni Yahweh ⟨את⟩ sang ulan sang imo duta nga abok kag abog; gikan sa mga langit magatungpa ini sa imo hasta magkalaglag kamo.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ihatag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang ulan"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ulan"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "imo duta"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "abok"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "kag abog"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "magatungpa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "magkalaglag kamo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:31:03.853540024Z",
+  "model": "glm-5.3"
+}

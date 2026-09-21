@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 147,
+  "translation": "Magdayeg kamo kay Yah, kay maayo nga magkanta sang pagdayeg sa aton nga Elohim, kay malipahon kag ang pagdayehat bag-ay gid.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "magdayeg kamo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kay Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "nga magkanta sang pagdayeg"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "sa aton nga Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "malipahon"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "bag-ay"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ang pagdayehat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:18.311847574Z",
+  "model": "glm-5.3"
+}

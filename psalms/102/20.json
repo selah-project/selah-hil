@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 102,
+  "translation": "Kay naglantaw si Yahweh gikan sa iya balaan nga kataas-taasan, gikan sa mga langit ngadto sa duta nagtan-aw siya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "naglantaw"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "gikan sa kataas-taasan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sa iya balaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "gikan sa mga langit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "nagtan-aw siya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:06.300861867Z",
+  "model": "glm-5.3"
+}

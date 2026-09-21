@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag ang anak ni Yehonatan ⟨is⟩ Meriv-Baal; kag si Meriv-Baal nagtawo ⟨את⟩ si Mikhah.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Kag ang anak"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ni Yehonatan"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Meriv-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "kag si Meri-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "-Baal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagtawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Mikhah"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "si Mikhah"
+    }
+  ],
+  "timestamp": "2026-09-21T21:53:20.300417286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Kay ginpahiya mo kag ginpaluwas mo kami gikan sa amon mga kaaway, kag ang nagadumut sa amon ginpahiya mo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "ginpaluwas mo kami"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "gikan sa amon mga kaaway"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "kag ang nagadumut sa amon"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "ginpahiya mo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:04.085367840Z",
+  "model": "glm-5.3"
+}

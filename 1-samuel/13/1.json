@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Anak sang ⟨isa ka⟩ tuig si Shaul sang iya paghari, kag duha ka tuig si Shaul naghari sa ⟨ibabaw sang⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Anak"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "sang iya paghari"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "kag duha"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T18:02:59.532074905Z",
+  "model": "glm-5.3"
+}

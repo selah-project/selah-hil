@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag nagsiling ang katawhan kay Shemuel: Sin-o ang nagsiling nga magahari si Shaul sa amon? Ihatag ninyo ang mga tawo agod pagapatyon namon sila.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "ang nagsiling"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "magahari"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ihaton ninyo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "agod pagapatyon namon sila"
+    }
+  ],
+  "timestamp": "2026-09-21T18:01:30.091352970Z",
+  "model": "glm-5.3"
+}

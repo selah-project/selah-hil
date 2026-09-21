@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 90,
+  "translation": "Pagkalipayon mo kami suno sa mga adlaw nga imo ginpagbalatyagon mo kami, kag sa mga tuig nga nakita namon ang kalaay.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "Pagkalipayon mo kami"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "suno sa mga adlaw"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "nga imo ginpagbalatyagon"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "kag sa mga tuig"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "nga nakita namon"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ang kalaay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:47.594088409Z",
+  "model": "glm-5.3"
+}

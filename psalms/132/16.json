@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 132,
+  "translation": "Kag ang iya mga pari sulobon ko sang kaluwasan, kag ang iya mga matinud-anon magadaydayga sang kalipay.",
+  "tokens": [
+    {
+      "surface": "וכהניה",
+      "gloss": "kag ang iya mga pari"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "sulobon ko"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "kaluwasan"
+    },
+    {
+      "surface": "וחסידיה",
+      "gloss": "kag ang iya mga matinud-anon"
+    },
+    {
+      "surface": "רנן",
+      "gloss": "daydayga"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "magadaydayga sila"
+    }
+  ],
+  "timestamp": "2026-09-21T22:40:45.062320166Z",
+  "model": "glm-5.3"
+}

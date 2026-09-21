@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "kag mamatikdi ka sa ⟨mga⟩ langit ⟨את⟩ ila pagpangamuyo kag ⟨את⟩ ila pagpangabay, kag himoon mo ang ila paghukom.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "kag mamatikdi ka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa ⟨mga⟩ langit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ila pagpangamuyo"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ila pagpangamuyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ila pagpangabay"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "ila pagpangabay"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "kag himoon mo"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ang ila paghukom"
+    }
+  ],
+  "timestamp": "2026-09-21T18:30:56.505508997Z",
+  "model": "glm-5.3"
+}

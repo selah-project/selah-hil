@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag may ara sila sa ila panublion: si Be'er-Sheva, kag si Sheva, kag si Moladah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag may ara sila"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "sa ila panublion"
+    },
+    {
+      "surface": "באר",
+      "gloss": "si Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "kag si Sheva"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "kag si Moladah"
+    }
+  ],
+  "timestamp": "2026-09-21T17:42:14.095404210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kon mapun-o ang mga panganod sang ulan, sa duta sila magabuhos; kag kon matumba ang kahoy sa timog ukon sa amihanan, sa duog nga matumba ang kahoy, diin ini magapabilin.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "mapun-o"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "ang mga panganod"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "sang ulan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "sila magabuhos"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "matumba"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ang kahoy"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "sa timog"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ukon"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "sa amihanan"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "sa duog"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "nga matumba"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ang kahoy"
+    },
+    {
+      "surface": "שם",
+      "gloss": "diin"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ini magapabilin"
+    }
+  ],
+  "timestamp": "2026-09-21T21:27:39.748814950Z",
+  "model": "glm-5.3"
+}

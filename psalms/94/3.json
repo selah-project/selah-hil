@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 94,
+  "translation": "Hangtud san-o, Yahweh, ang mga makasasala? Hangtud san-o magakalipay ang mga makasasala?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hangtud"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "san-o"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ang mga makasasala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtud"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "san-o"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ang mga makasasala"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "magakalipay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:04.666023644Z",
+  "model": "glm-5.3"
+}

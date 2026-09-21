@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 68,
+  "translation": "Magatindog si Elohim, magakalat ang iya mga kaaway, kag magakadulag ang iya mga nagadumili ⟨sa iya atubangan⟩.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "Magatindog"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "magakalat"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "ang iya mga kaaway"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "kag magakadulag"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "ang iya mga nagadumili"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "sa iya atubangan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:47.078958145Z",
+  "model": "glm-5.3"
+}

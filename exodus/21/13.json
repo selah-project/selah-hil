@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 21:13",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag ⟨kon⟩ ang tawo wala magpangayam ⟨sa pagpanimbahin⟩, kag ang Elohim nagpakombinsar ⟨nga ini⟩ mag-abot sa iya kamot, magabutang ako para sa imo sang isa ka duog diin siya makalagi didto.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "kag ⟨kon⟩ ang tawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "magpangayam"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "kag ang Elohim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "nagpakombinsar"
+    },
+    {
+      "surface": "לידו",
+      "gloss": "sa iya kamot"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "magabutang ako"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa imo"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "sang isa ka duog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "makalagi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "didto"
+    }
+  ],
+  "timestamp": "2026-09-21T16:30:13.168171463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 43,
+  "translation": "Kag kuhaon mo ⟨את⟩ ang baka nga halad sang sala, kag sunogon ini sa gintagaan nga duog sang balay, sa guwa sang balaan nga duog.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "kag kuhaon mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang baka nga halad sang sala"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ang baka"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "nga halad sang sala"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "kag sunogon ini"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "sa gintagaan nga duog"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "sa guwa"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "sang balaan nga duog"
+    }
+  ],
+  "timestamp": "2026-09-21T20:00:44.221050760Z",
+  "model": "glm-5.3"
+}

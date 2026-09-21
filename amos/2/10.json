@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 2:10",
+  "book": "amos",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag ako, ginpataas ko kamo gikan sa duta sang Mitsrayim, kag ginlakat ko kamo sa kamingawan apat ka pulo ka tuig, sa pagpanunung ⟨את⟩ sang duta sang Emori.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "kag ako"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "ginpataas ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "kag ginlakat ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "apat ka pulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "sa pagpanunung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang duta sang Emori"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "sang Emori"
+    }
+  ],
+  "timestamp": "2026-09-21T20:08:36.811518996Z",
+  "model": "glm-5.3"
+}

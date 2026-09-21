@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 77,
+  "translation": "Ginumdom ko si Elohim kag nagpaningha ako; nagpanumdum ako kag nanghuyang ang akon espiritu. Selah.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "ginumdom ko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "kag nagpaningha ako"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "nagpanumdum ako"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "kag nanghuyang"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ang akon espiritu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:39.594795736Z",
+  "model": "glm-5.3"
+}

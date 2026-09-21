@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Nagbutang ang mga malaot sang lit-ag sa akon, apang sa imo mga kasugoan indi ako nawala sa dalan.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "nagbutang"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ang mga malaot"
+    },
+    {
+      "surface": "פח",
+      "gloss": "sang lit-ag"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "apang sa imo mga kasugoan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "nawala ako sa dalan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:50:26.244549717Z",
+  "model": "glm-5.3"
+}

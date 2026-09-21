@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "kag Naaman, kag Achiyah, kag Gera — siya ang nagpagawas sa ila, kag natawo ⟨kaniya⟩ ⟨את⟩ si Uzza kag ⟨את⟩ si Achichud.",
+  "tokens": [
+    {
+      "surface": "ונעמן",
+      "gloss": "kag Naaman"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "kag Achiyah"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "kag Gera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "ang nagpagawas sa ila"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "kag natawo ⟨kaniya⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Uzza"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "si Uzza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Achichud"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "si Achichud"
+    }
+  ],
+  "timestamp": "2026-09-21T21:51:53.459108788Z",
+  "model": "glm-5.3"
+}

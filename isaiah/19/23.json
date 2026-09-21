@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 19:23",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Sa sadto nga adlaw magaingon ⟨ini⟩ nga dalan halin sa Mitsrayim padulong sa Ashur, kag magakadto ang Ashur sa Mitsrayim kag ang Mitsrayim sa Ashur, kag magasimba ⟨kauban⟩ ang Mitsrayim ⟨את⟩ ang Ashur.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sadto nga"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "magaingon"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "nga dalan"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "halin sa Mitsrayim"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "padulong sa Ashur"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "kag magakadto"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ang Ashur"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "kag ang Mitsrayim"
+    },
+    {
+      "surface": "באשור",
+      "gloss": "sa Ashur"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "kag magasimba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ang Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Ashur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-09-21T18:57:35.149072517Z",
+  "model": "glm-5.3"
+}

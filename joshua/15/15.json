@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 15:15",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Kag nagtungas ⟨siya⟩ didto <pa> sa mga pumoluyo sang Devir; kag ang ngalan sang Devir sang una amo Kiryat-Sefer.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "kag nagtungas"
+    },
+    {
+      "surface": "משם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa sa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mga pumoluyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sang Devir"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "kag ang ngalan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sang Devir"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "sang una"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    }
+  ],
+  "timestamp": "2026-09-21T17:41:51.225356457Z",
+  "model": "glm-5.3"
+}

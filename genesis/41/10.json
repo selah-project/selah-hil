@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 41,
+  "translation": "Nangakig si Paro sa iya mga sulugoon, kag gintugyan niya ⟨את⟩ ako sa pagbantay sang balay sang sar sang mga manogpanga-ihaw, ⟨את⟩ ako kag ⟨את⟩ ang sar sang mga manogpanapay.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "si Paro"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "nangakig"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iya mga sulugoon"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kag gintugyan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ako"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "sa pagbantay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sar"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "sang mga manogpanga-ihaw"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sar"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "sang mga manogpanapay"
+    }
+  ],
+  "timestamp": "2026-09-21T16:14:11.409687194Z",
+  "model": "glm-5.3"
+}

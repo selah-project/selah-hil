@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag ang iya utod nga babae nga si Hamoleket natawan sang anak: ⟨את⟩ si Ishod, kag ⟨את⟩ si Aviezer, kag ⟨את⟩ si Machlah.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "kag ang iya utod nga babae"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "si Hamoleket"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "natawan sang anak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Ishod"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "si Ishod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Aviezer"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "si Aviezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Machlah"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "si Machlah"
+    }
+  ],
+  "timestamp": "2026-09-21T21:52:05.168083062Z",
+  "model": "glm-5.3"
+}

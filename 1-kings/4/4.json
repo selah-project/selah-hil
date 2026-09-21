@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 4:4",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag si Benayahu nga anak ni Yehoyada sa tunga sang kasundalohan; kag si Tsadok kag si Avyatar, mga pari.",
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "kag si Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "ni Yehoyada"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa tunga sang"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "kasundalohan"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "kag si Tsadok"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "kag si Avyatar"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "mga pari"
+    }
+  ],
+  "timestamp": "2026-09-21T18:26:55.493447539Z",
+  "model": "glm-5.3"
+}

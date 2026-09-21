@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Ang mga pulong sang baba sang maalam may kalayo, kag ang mga bibig sang ulol magalamun ⟨sa iya⟩.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "פי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "maalam"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kalayo"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "mga bibig"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ulol"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "magalamun ⟨sa iya⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T21:26:40.299824672Z",
+  "model": "glm-5.3"
+}

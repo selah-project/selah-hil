@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "kag ⟨את⟩ lana sang pagpahid, kag ⟨את⟩ insenso sang mga panimpla para sa balaan nga duog — suno sa tanan nga ginsogo ko sa imo, himoon nila ini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "lana sang pagpahid"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "sang pagpahid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "insenso sang mga panimpla"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "insenso"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "sang mga panimpla"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "para sa balaan nga duog"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "suno sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "ginsogo ko sa imo"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "himoon nila ini"
+    }
+  ],
+  "timestamp": "2026-09-21T16:34:11.832541234Z",
+  "model": "glm-5.3"
+}

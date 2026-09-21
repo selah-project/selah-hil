@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 17:5",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag naghinalyo siya kag ginhimo niya suno sa pulong ni Yahweh, kag naghinalyo siya kag nagpuyo sa sapa sang Kherith, nga ara sa atubangan sang Yarden.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kag naghinalyo siya"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "kag ginhimo niya"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "suno sa pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kag naghinalyo siya"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kag nagpuyo"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "sa sapa"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "sang Kherith"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "atubangan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sang Yarden"
+    }
+  ],
+  "timestamp": "2026-09-21T18:34:22.950889818Z",
+  "model": "glm-5.3"
+}

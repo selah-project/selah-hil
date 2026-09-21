@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag isa ka suba ang nagagwa sa Eden sa pagpainum sang ⟨את⟩ tanaman, kag gikan didto ini nagabulag kag nagakahimo sing apat ka ulo.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "kag isa ka suba"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ang nagagwa"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "sa Eden"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "sa pagpainum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanaman"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "sang tanaman"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "kag gikan didto"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "nagabulag"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kag nagakahimo"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "sing apat"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "ka ulo"
+    }
+  ],
+  "timestamp": "2026-09-21T15:54:42.859360505Z",
+  "model": "glm-5.3"
+}

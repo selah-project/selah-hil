@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag sang madunggan ko ⟨את⟩ ang pulong ini, ginsiab ko ⟨את⟩ akon bado kag akon balintawag, kag ginbunot ko ang balahibo sang akon ulo kag sang akon barbas, kag nagpungko ako nga nalaglag ang buot.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "kag sang madunggan ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pulong ini"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "ginsiab ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akon bado kag akon balintawag"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "akon bado"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "kag akon balintawag"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "kag ginbunot ko"
+    },
+    {
+      "surface": "משער",
+      "gloss": "ang balahibo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "sang akon ulo"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "kag sang akon barbas"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "kag nagpungko ako"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "nga nalaglag ang buot"
+    }
+  ],
+  "timestamp": "2026-09-21T21:43:19.971385178Z",
+  "model": "glm-5.3"
+}

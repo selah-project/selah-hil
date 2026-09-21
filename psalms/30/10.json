@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Ano nga ganansya sa akon dugo, kon magpanaw ako pa-ingod sa lungag? Magahambal bala sang pagdawat ang yadoli? Ihambal bala ninya ang imo kamatuoran?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "ganansya"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "sa akon dugo"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "kon magpanaw ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa-ingod sa"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "lungag"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "magahambal bala sang pagdawat"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ang yadoli"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "ihambal bala ninya"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ang imo kamatuoran"
+    }
+  ],
+  "timestamp": "2026-09-21T22:38:21.585983026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 125,
+  "translation": "Kay indi magpahuway ang baston sang tiwason sa bahin sang mga matarong, agud nga indi magpaabot ang mga matarong sang ila mga kamot sa pagkadaut.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "magpahuway"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "baston"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "sang tiwason"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "bahin"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "sang mga matarong"
+    },
+    {
+      "surface": "למען",
+      "gloss": "agud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "magpaabot"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "ang mga matarong"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "sa pagkadaut"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "sang ila mga kamot"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:09.581319270Z",
+  "model": "glm-5.3"
+}

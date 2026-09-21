@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "kag magabantay sila sang ⟨את⟩ pagbantay sang Tolda sang Katipunan kag ⟨את⟩ pagbantay sang balaan nga duog, kag sang pagbantay sang mga anak nga lalaki ni Aharon nga ila mga utod, para sa pag-alagad sa balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "kag magabantay sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pagbantay"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "pagbantay"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang Katipunan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "pagbantay"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "pagbantay"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sang balaan nga duog"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "kag sang pagbantay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sang mga anak nga lalaki"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "nga ila mga utod"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "para sa pag-alagad"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T21:58:26.808330730Z",
+  "model": "glm-5.3"
+}

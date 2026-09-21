@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Ang tawo nga maalam nagahukom ⟨sa⟩ ⟨את⟩ ang tawo nga bogo, kag nagakadlag kag nagakatawa, kag wala sing kapoyahay.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "maalam"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "nagahukom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tawo nga bogo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "bogo"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "kag nagakadlag"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "kag nagakatawa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "kapoyahay"
+    }
+  ],
+  "timestamp": "2026-09-21T21:03:43.608228450Z",
+  "model": "glm-5.3"
+}

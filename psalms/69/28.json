@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 69,
+  "translation": "Idugang ang kalaut sa ila kalaut, kag indi sila makasulod sa imo katarungan.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Idugang"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ang kalaut"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ila kalaut"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "sila makasulod"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "sa imo katarungan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:32.918935287Z",
+  "model": "glm-5.3"
+}

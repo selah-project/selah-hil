@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag magabantay kamo sing mabaskog para sa inyo mga kalag, sa paghigugma ⟨את⟩ kay Yahweh nga inyo Elohim.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "Kag magabantay kamo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sing mabaskog"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "para sa inyo mga kalag"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "sa paghigugma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "nga inyo Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T17:45:04.264226763Z",
+  "model": "glm-5.3"
+}

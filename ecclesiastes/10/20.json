@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 10:20",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Bisan sa imo kinaadman indi pagtuyawon ang hari, kag sa mga sulod sang imo higrasan indi pagtuyawon ang manggaranon; kay ang sanga sang mga langit magadala ⟨את⟩ sang tingog, kag ang may mga pako magasugid sang pulong.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "במדעך",
+      "gloss": "sa imo kinaadman"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "pagtuyawon"
+    },
+    {
+      "surface": "ובחדרי",
+      "gloss": "kag sa mga sulod"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "sang imo higrasan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "pagtuyawon"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ang manggaranon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ang sanga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sang mga langit"
+    },
+    {
+      "surface": "יוליך",
+      "gloss": "magadala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang tingog"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "sang tingog"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "kag ang may"
+    },
+    {
+      "surface": "הכנפים",
+      "gloss": "mga pako"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "magasugid"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sang pulong"
+    }
+  ],
+  "timestamp": "2026-09-21T22:43:53.086820159Z",
+  "model": "glm-5.3"
+}

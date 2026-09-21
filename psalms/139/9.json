@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 139,
+  "translation": "Kon igatindog ko ang mga pako sang bung-ag, kag magpuyo ako sa pinalayo nga bahin sang dagat,",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "kon igatindog ko"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "ang mga pako"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "sang bung-ag"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "kag magpuyo ako"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "sa pinalayo nga bahin"
+    },
+    {
+      "surface": "ים",
+      "gloss": "sang dagat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:46.977394240Z",
+  "model": "glm-5.3"
+}

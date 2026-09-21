@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 38,
+  "translation": "Kag ginhimo niya ⟨את⟩ ang planggana sang tumbaga kag ⟨את⟩ ang iya base sang tumbaga, sa mga salaming sang mga babayi nga nag-assembly — sang mga nagaalagad sa ganghaan sang tolda sang pagtilipon.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ginhimo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang planggana"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "ang planggana"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "sang tumbaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya base"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ang iya base"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "sang tumbaga"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "sa mga salaming"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "sang mga nagaalagad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "nag-alagad"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sa ganghaan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sang tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang pagtilipon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:38:40.942227222Z",
+  "model": "glm-5.3"
+}

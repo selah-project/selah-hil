@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag ang ⟨את⟩ Tolda sang mga haligi ginhimo niya: kalabutan sing lima ka pulo ka siko kag kalapad sing tatlo ka pulo ka siko; kag ang tolda ⟨yara⟩ sa ila atubangan, kag mga haligi kag matala nga atop sa ila atubangan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Tolda sang mga haligi"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "Tolda"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "mga haligi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima ka pulo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ka siko"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "kalabutan"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "kag tatlo ka pulo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ka siko"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "kalapad"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "kag ang tolda"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ila atubangan"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "kag mga haligi"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "kag matala nga atop"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ila atubangan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:28:24.128608882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Subong sang bulan magapatindog ⟨ini⟩ sing dayon, kag subong sang isa ka matinud-on nga saksi sa banwa. Selah.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "subong sang bulan"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "magapatindog"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sing dayon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag ... saksi"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "sa banwa"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "matinud-on"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:13.448622293Z",
+  "model": "glm-5.3"
+}

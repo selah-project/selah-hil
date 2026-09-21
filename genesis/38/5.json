@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 38,
+  "translation": "Kag nagdugang pa gihapon siya kag natahan sing isa ka anak nga lalaki, kag gintawag niya ⟨את⟩ iya ngalan nga Shelah; kag ara siya sa Kheziv sang matahan niya siya.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "nagdugang pa gihapon"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa gihapon"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "kag natahan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "isa ka anak nga lalaki"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "kag gintawag niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya ngalan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "iya ngalan"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shelah"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kag ara siya"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "sa Kheziv"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "sang matahan niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:12:45.435612499Z",
+  "model": "glm-5.3"
+}

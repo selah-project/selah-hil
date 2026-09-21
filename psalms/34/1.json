@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Para kay David, sang ginpaiba niya ⟨את⟩ ang iya buot sa atubang ni Avimelekh, kag ginpaguwa niya siya kag naglakat ⟨siya⟩.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Para kay David"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "sang ginpaiba niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya buot"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "ang iya buot"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "kag ginpaguwa niya siya"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kag naglakat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:40.258475978Z",
+  "model": "glm-5.3"
+}

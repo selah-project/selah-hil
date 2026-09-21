@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 3:15",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Ano sa inyo — gintigbas ninyo ang akon katawhan, kag gindurog ninyo ang mga nawong sang mga imol? ginasiling ni Adonay, Yahweh sang Tsevaot.",
+  "tokens": [
+    {
+      "surface": "מלכם",
+      "gloss": "ano sa inyo"
+    },
+    {
+      "surface": "תדכאו",
+      "gloss": "gintigbas"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ang akon katawhan"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "kag ang mga nawong"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "sang mga imol"
+    },
+    {
+      "surface": "תטחנו",
+      "gloss": "gindurog"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ginasiling"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-09-21T18:54:04.627167718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Kay ang Ngalan ni Yahweh pagatawgon ko; ihatag ninyo ang kadungganan sa aton Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang Ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "pagatawgon ko"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ihaton ninyo"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ang kadungganan"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "sa aton Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T17:33:28.171626752Z",
+  "model": "glm-5.3"
+}

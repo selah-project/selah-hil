@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 5:4",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Indi nila paghatag sang ila mga binuhatan ⟨sa⟩ pagbalik sa ila Elohim, kay espíritu sang kahalayan ara sa sulod nila, kag ⟨את⟩ si Yahweh wala nila nakilala.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "nila paghatag"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "sang ila mga binuhatan"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "pagbalik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ila Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "espíritu"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "sang kahalayan"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "ara sa sulod nila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nila nakilala"
+    }
+  ],
+  "timestamp": "2026-09-21T20:05:08.728297060Z",
+  "model": "glm-5.3"
+}

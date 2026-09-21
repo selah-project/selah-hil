@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 72,
+  "translation": "Hukman niya ang mga kabos sang katawohan, magaluwas siya sa mga anak sang mingaw, kag pagadugmokon niya ang nagaabuso.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "hukman niya"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ang mga kabos"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sang katawohan"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "magaluwas siya"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "sang mingaw"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "kag pagadugmokon niya"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "ang nagaabuso"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:03.829595286Z",
+  "model": "glm-5.3"
+}

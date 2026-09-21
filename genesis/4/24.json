@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kay pito ka beses pagbalos kay Kayin, apang kay Lemek pito ka pulo kag pito.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "pito ka beses"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "pagbalos"
+    },
+    {
+      "surface": "קין",
+      "gloss": "kay Kayin"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "apang kay Lemek"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "pito ka pulo"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "kag pito"
+    }
+  ],
+  "timestamp": "2026-09-21T15:54:40.916006453Z",
+  "model": "glm-5.3"
+}

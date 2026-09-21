@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Sa imo mga chukim magakalipayan ako, indi ako malimtan ang imo pulong.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "sa imo mga chukim"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "magakalipayan ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "ako malimtan"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ang imo pulong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:04.051399903Z",
+  "model": "glm-5.3"
+}

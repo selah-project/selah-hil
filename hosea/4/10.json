@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag magakaon sila kag indi mabusog; nagapanaglawas sila kag indi magadamo; kay ginbayaan nila ⟨את⟩ si Yahweh sa pagbantay.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Kag magakaon sila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "mabusog"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "nagapanaglawas sila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "magadamo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ginbayaan nila"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "sa pagbantay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:03:32.197090377Z",
+  "model": "glm-5.3"
+}

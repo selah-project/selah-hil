@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 36:4",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Kag nagkadto ang tanan nga maalam nga nagabuhat ⟨את⟩ sang tanan nga panghimos sang balaanan, ang tagsa ka tawo gikan sa iya panghimos nga ila ginabuhat.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Kag nagkadto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "nga maalam"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "nga nagabuhat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga panghimos sang balaanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "nga panghimos"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sang balaanan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tagsa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ka tawo"
+    },
+    {
+      "surface": "ממלאכתו",
+      "gloss": "gikan sa iya panghimos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ginabuhat"
+    }
+  ],
+  "timestamp": "2026-09-21T16:40:26.077895633Z",
+  "model": "glm-5.3"
+}

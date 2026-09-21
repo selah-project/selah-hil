@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 69,
+  "translation": "Elohim, ikaw nga nakakahibalo sang akon kabuang, kag ang akon mga sala sa imo wala nagatungtong.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nga nakakahibalo"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "sang akon kabuang"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "kag ang akon mga sala"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "nagatungtong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:18.246766351Z",
+  "model": "glm-5.3"
+}

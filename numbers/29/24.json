@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 29:24",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "ang ila halad kag ang ila mga ilimnon para sa mga baka nga lalaki, para sa mga karnero kag para sa mga kordero, suno sa ila numero, suno sa lagda",
+  "tokens": [
+    {
+      "surface": "מנחתם",
+      "gloss": "ang ila halad"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "kag ang ila mga ilimnon"
+    },
+    {
+      "surface": "לפרים",
+      "gloss": "para sa mga baka nga lalaki"
+    },
+    {
+      "surface": "לאילם",
+      "gloss": "para sa mga karnero"
+    },
+    {
+      "surface": "ולכבשים",
+      "gloss": "kag para sa mga kordero"
+    },
+    {
+      "surface": "במספרם",
+      "gloss": "suno sa ila numero"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "suno sa lagda"
+    }
+  ],
+  "timestamp": "2026-09-21T17:12:23.548701193Z",
+  "model": "glm-5.3"
+}

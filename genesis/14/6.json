@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "kag ⟨את⟩ ang mga Hori sa ila kabundukan sa Seir, hasta sa El-Paran, nga ara sa kamingawan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga Hori"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "ang mga Hori"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "sa ila kabundukan"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "sa Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta sa"
+    },
+    {
+      "surface": "איל",
+      "gloss": "El"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "-Paran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ara sa"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "kamingawan"
+    }
+  ],
+  "timestamp": "2026-09-21T15:59:58.064283723Z",
+  "model": "glm-5.3"
+}

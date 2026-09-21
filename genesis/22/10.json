@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kag ginpahal-in ni Avraham ang ⟨את⟩ iya kamot kag ginkuha niya ang ⟨את⟩ pinutsa sa pag-ihaw sang ⟨את⟩ iya anak.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ginpahal-in"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya kamot"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "iya kamot"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ginkuha niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pinutsa"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "pinutsa"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "sa pag-ihaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya anak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iya anak"
+    }
+  ],
+  "timestamp": "2026-09-21T16:03:05.389045300Z",
+  "model": "glm-5.3"
+}

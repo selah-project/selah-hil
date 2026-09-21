@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 14:16",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag dutlon sang sacerdote ⟨את⟩ iya tuo nga tudlo sa lana nga ara sa iya wala nga palad, kag magawsit sang lana gamit ang iya tudlo pito ka beses sa atubang ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "dutlon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang sacerdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya tuo nga tudlo"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "iya tudlo"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "tuo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "iya palad"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "wala"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "magawsit"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sang"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "gamit ang iya tudlo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ka beses"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:49:02.065203089Z",
+  "model": "glm-5.3"
+}

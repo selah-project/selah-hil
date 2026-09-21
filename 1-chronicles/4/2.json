@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag Reayah nga anak ni Shoval nagatawo ⟨את⟩ kang Yakhath, kag si Yakhath nagatawo ⟨את⟩ kang Akhumai kag ⟨את⟩ kang Lahad; ina ang mga pamilya sang mga taga-Tsoar.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "Kag Reayah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Shoval"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagatawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yakhath"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yakhath"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "kag si Yakhath"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nagatawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Akhumai"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Akhumai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "kang Lahad"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahad"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ina"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "mga pamilya"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "mga taga-Tsoar"
+    }
+  ],
+  "timestamp": "2026-09-21T21:50:52.208905464Z",
+  "model": "glm-5.3"
+}

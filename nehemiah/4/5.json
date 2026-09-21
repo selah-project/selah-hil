@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 4:5",
+  "book": "nehemiah",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag nagsiling ang aton mga kaaway: Indi sila makakilala kag indi sila makakita, hasta ⟨nga⟩ mag-abot kami sa tunga nila kag patyon namon sila, kag pahundayon namon ⟨את⟩ ang buluhaton.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "ang aton mga kaaway"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "makakilala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "makakita"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נבוא",
+      "gloss": "mag-abot kami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תוכם",
+      "gloss": "tunga nila"
+    },
+    {
+      "surface": "והרגנום",
+      "gloss": "kag patyon namon sila"
+    },
+    {
+      "surface": "והשבתנו",
+      "gloss": "kag pahundayon namon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang buluhaton"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ang buluhaton"
+    }
+  ],
+  "timestamp": "2026-09-21T21:45:35.336627184Z",
+  "model": "glm-5.3"
+}

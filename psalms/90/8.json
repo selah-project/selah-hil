@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 90,
+  "translation": "Ginbutang Mo ang amon mga sala sa imo atubang, ang amon mga tinagong butang sa kahayag sang imo mga panyan.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "ginbutang Mo"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "ang amon mga sala"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "sa imo atubang"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "ang amon mga tinagong butang"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "sa kahayag"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sang imo mga panyan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:55.430069181Z",
+  "model": "glm-5.3"
+}

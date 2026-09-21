@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag ang Elohim ⟨את⟩ ⟨ka⟩ ang bata nga lalaki, kag nagdako siya kag nagpuyo sa kagulangan, kag sang pagdako niya nangin siya nga mamana.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag ang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨ka⟩",
+      "marks": "ang bata nga lalaki"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ang bata nga lalaki"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "kag nagdako siya"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kag nagpuyo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kagulangan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "sang pagdako niya"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "nangin siya nga mamana"
+    }
+  ],
+  "timestamp": "2026-09-21T16:03:30.043590974Z",
+  "model": "glm-5.3"
+}

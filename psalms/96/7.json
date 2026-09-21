@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 96,
+  "translation": "Ihatag kanda Yahweh, kamo mga banay sang mga pungsod; ihatag kanda Yahweh kadungganan kag kusog.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "ihatag"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kanda Yahweh"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "kamo mga banay"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "sang mga pungsod"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ihatag"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kanda Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kadungganan"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "kag kusog"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:46.759742525Z",
+  "model": "glm-5.3"
+}

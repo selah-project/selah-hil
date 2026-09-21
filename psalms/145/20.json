@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 145,
+  "translation": "Nagabantay si Yahweh ⟨את⟩ tanan nga nagahigugma sa iya, kag ⟨את⟩ tanan nga mga magdaut kag pagalaglagon niya.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "Nagabantay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga nagahigugma sa iya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "nga nagahigugma sa iya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga mga magdaut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "nga mga magdaut"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "pagalaglagon niya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:28.103414848Z",
+  "model": "glm-5.3"
+}

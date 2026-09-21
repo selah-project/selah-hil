@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 49,
+  "translation": "Ang ila sulod nga hunahuna ⟨nga⟩ ang ila mga balay magapabilin sa dayon, ang ila mga puluy-an sa henerasyon kag henerasyon; gintawag nila sa ila mga ngalan ang mga duta.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "ang ila sulod nga hunahuna"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "ang ila mga balay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "ang ila mga puluy-an"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "sa henerasyon"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kag henerasyon"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "gintawag nila"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "sa ila mga ngalan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "ang mga duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:00.206979638Z",
+  "model": "glm-5.3"
+}

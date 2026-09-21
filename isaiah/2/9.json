@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag nagduko ang tawo, kag nagpaubos ang lalaki — kag indi pag-alsa sa ila.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "kag nagduko"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "kag nagpaubos"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "pag-alsa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T18:51:08.682538888Z",
+  "model": "glm-5.3"
+}

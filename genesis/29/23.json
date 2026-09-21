@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kag natabo sa kagab-ihon, kag ginkuha niya ⟨את⟩ si Lea nga iya anak nga babae, kag gindala niya ⟨את⟩ iya sa iya, kag nagsulod siya sa iya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag natabo"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "sa kagab-ihon"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "kag ginkuha niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "si Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "nga iya anak nga babae"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kag gindala niya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kag nagsulod siya"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:06:50.606121193Z",
+  "model": "glm-5.3"
+}

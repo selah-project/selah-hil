@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 49,
+  "translation": "Indi ⟨ikaw⟩ pagkahadluk kon magadato ang isa ka tawo, kon magadamo ang himaya sang iya balay.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "pagkahadluk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "magadato"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "magadamo"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "himaya"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "iya balay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:02.672335365Z",
+  "model": "glm-5.3"
+}

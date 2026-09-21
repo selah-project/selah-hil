@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag wala na siya makasabat kay Avner ⟨sa⟩ bisan isa ka pulong, tungod sang kahadlok niya ⟨sa iya⟩ ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "maka-"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "makasabat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bisan isa ka pulong"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "tungod sang kahadlok niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T18:13:12.038869112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 75,
+  "translation": "Kay indi gikan sa paggwa kag gikan sa katundan, kag indi gikan sa kamingawan ang ⟨nagapataas⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "gikan sa paggwa"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "kag gikan sa katundan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "gikan sa kamingawan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ang nagapataas"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:41.324224713Z",
+  "model": "glm-5.3"
+}

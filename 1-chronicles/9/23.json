@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 9:23",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag sila kag ila mga anak ⟨⟨⟩⟩ sa mga ganghaan sang balay ni Yahweh, sang balay sang Tolda, sa mga pagbantay.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "Kag sila"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "kag ila mga anak"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨nagabantay⟩ sa"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "mga ganghaan"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "sang Tolda"
+    },
+    {
+      "surface": "למשמרות",
+      "gloss": "sa mga pagbantay"
+    }
+  ],
+  "timestamp": "2026-09-21T21:53:06.457089597Z",
+  "model": "glm-5.3"
+}

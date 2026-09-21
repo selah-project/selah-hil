@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 92,
+  "translation": "Mizmor, isa ka kanta, para sa adlaw sang Sabbath.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kanta"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "para sa adlaw"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sang Sabbath"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:56.547342580Z",
+  "model": "glm-5.3"
+}

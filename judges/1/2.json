@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nagsiling si Yahweh: Si Yehudah ang magsaka; tan-awa, ginhatag ko na ⟨את⟩ ang duta sa iya kamot.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "si Yehudah"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ang magsaka"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ginhatag ko na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa iya kamot"
+    }
+  ],
+  "timestamp": "2026-09-21T17:46:03.216838933Z",
+  "model": "glm-5.3"
+}

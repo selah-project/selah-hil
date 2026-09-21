@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag pagduolon mo ⟨את⟩ si Aharon kag ⟨את⟩ iya mga anak nga lalaki sa ganghaan sang tolda sang pagtilipon, kag panglaba mo sila ⟨אתם⟩ sang tubig.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "kag pagduolon mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga anak nga lalaki"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iya mga anak nga lalaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ganghaan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sang tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang pagtilipon"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "kag panglaba mo sila"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sila (si Aharon kag iya mga anak)"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sang tubig"
+    }
+  ],
+  "timestamp": "2026-09-21T16:41:10.078036388Z",
+  "model": "glm-5.3"
+}

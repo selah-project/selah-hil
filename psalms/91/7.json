@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 91,
+  "translation": "Matumba sa imo kilid isa ka libo, kag napulo ka libo sa imo tuo nga kilid; sa imo ini indi magapalapit.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "matumba"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "sa imo kilid"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "isa ka libo"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "kag napulo ka libo"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "sa imo tuo nga kilid"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "magapalapit"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:11.937387117Z",
+  "model": "glm-5.3"
+}

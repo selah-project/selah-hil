@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 10:15",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag wala magpatalingkad ang hari sa katawhan, kay ang paglubas amo ⟨ang⟩ halin sa Elohim, agod patindugon ni Yahweh ⟨את⟩ iya pulong nga iya ginhambal pinaagi kay Achiyah ang taga-Shilo kay Yeroboam nga anak ni Nevat.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kag wala"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "magpatalingkad"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "amo"
+    },
+    {
+      "surface": "נסבה",
+      "gloss": "ang paglubas"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "halin sa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למען",
+      "gloss": "agod"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "patindugon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya pulong"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "iya pulong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ginhambal"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pinaagi"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "kay Achiyah"
+    },
+    {
+      "surface": "השלוני",
+      "gloss": "ang taga-Shilo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yeroboam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ni Nevat"
+    }
+  ],
+  "timestamp": "2026-09-21T22:03:36.191983792Z",
+  "model": "glm-5.3"
+}

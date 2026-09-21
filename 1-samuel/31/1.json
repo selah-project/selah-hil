@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 31:1",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kag ang mga Pelishteo nagpakig-away batok kay Yisrael, kag naglagicik ang mga tawo sang Yisrael sa atubang sang mga Pelishteo, kag nagkahulog ang mga minatay sa bukid sang Gilboa.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "kag ang mga Pelishteo"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "nagpakig-away"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "batok kay Yisrael"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "kag naglagicik"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ang mga tawo sang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sa atubang sang"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Pelishteo"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "kag nagkahulog"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "mga minatay"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid sang"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-09-21T18:12:35.395703495Z",
+  "model": "glm-5.3"
+}

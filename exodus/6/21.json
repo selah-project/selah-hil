@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag ang mga anak nga lalaki ni Yitshar: Korach, kag Nefeg, kag Zikhri.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "kag ang mga anak nga lalaki"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ni Yitshar"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "kag Nefeg"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "kag Zikhri"
+    }
+  ],
+  "timestamp": "2026-09-21T16:20:31.270660113Z",
+  "model": "glm-5.3"
+}

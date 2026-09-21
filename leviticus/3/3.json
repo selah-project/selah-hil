@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ihalad gikan sa zebah sang shelamim ang isshah — ang halad sang kalayo — kay Yahweh: ⟨את⟩ ang tambok nga nagatabon ⟨את⟩ sang tinai, kag ⟨את⟩ ang tanan nga tambok nga ara sa tinai.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "kag ihalad"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "gikan sa zebah"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "sang shelamim"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "isshah, halad sang kalayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tambok"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ang tambok"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "nga nagatabon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang tinai"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "sang tinai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan nga tambok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "nga tambok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "tinai"
+    }
+  ],
+  "timestamp": "2026-09-21T16:42:19.870597934Z",
+  "model": "glm-5.3"
+}

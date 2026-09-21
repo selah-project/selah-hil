@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 102,
+  "translation": "Yahweh, pamatii ang akon pangamuyo, kag ang akon pangpanawag mag-abot sa imo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "pamatii"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ang akon pangamuyo"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "kag ang akon pangpanawag"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "mag-abot"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:14.738593526Z",
+  "model": "glm-5.3"
+}

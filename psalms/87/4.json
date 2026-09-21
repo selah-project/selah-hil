@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 87,
+  "translation": "Madunggan ko si Rahav kag Babilonia sa mga nakakaila ⟨sa akon⟩; tan-awa, Peleshet kag Tsor, kaupod sang Kush — ining tawo natawo didto.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "madunggan ko"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahav"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "kag Babilonia"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "sa mga nakakaila"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "kag Tsor"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ining"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:07.499302721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 98,
+  "translation": "Magadaguok ang dagat kag ang tanan nga ara sa sini, ang kalibutan kag ang mga pumuyo sini.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "Magadaguok"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ang dagat"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "kag ang tanan nga ara sa sini"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ang kalibutan"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "kag ang mga pumuyo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sini"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:50.876575273Z",
+  "model": "glm-5.3"
+}

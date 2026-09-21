@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag sa tanan ⟨mga⟩ minatay indi siya magpalapit; sa iya amay kag sa iya iloy indi siya magpatimala.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "מת",
+      "gloss": "minatay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "magpalapit"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "sa iya amay"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "kag sa iya iloy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "magpatimala"
+    }
+  ],
+  "timestamp": "2026-09-21T16:53:01.048531597Z",
+  "model": "glm-5.3"
+}

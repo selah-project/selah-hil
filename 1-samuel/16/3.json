@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Kag tawgon mo si Yishai sa halad, kag ako magapahibalo sa imo ⟨את⟩ kon ano ang himoon mo, kag diutan mo para sa akon ⟨את⟩ siya nga tawgon ko sa imo.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "kag tawgon mo"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "si Yishai"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "sa halad"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "kag ako"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "magapahibalo sa imo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kon ano ang himoon mo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kon ano"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "himoon mo"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "kag diutan mo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para sa akon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siya nga tawgon ko sa imo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "siya nga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tawgon ko"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:04:55.504152980Z",
+  "model": "glm-5.3"
+}

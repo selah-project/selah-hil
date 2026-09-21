@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag ⟨את⟩ iya kaugalingon nga balay gintukod ni Shelomoh sa sulod sang napulo kag tatlo ka tuig, kag gintapos niya ⟨את⟩ bugos nga iya balay.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya kaugalingon nga balay"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "iya kaugalingon nga balay"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "gintukod"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tatlo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "napulo kag"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "kag gintapos niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bugos nga iya balay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bugos"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "iya balay"
+    }
+  ],
+  "timestamp": "2026-09-21T18:28:53.317659253Z",
+  "model": "glm-5.3"
+}

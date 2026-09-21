@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 80,
+  "translation": "Ginatabunan sang mga bukid ang iya landong, kag ang iya mga sanga ⟨mga⟩ sedro sang El.",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "ginatabunan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "sang mga bukid"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "ang iya landong"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "kag ang iya mga sanga"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "mga sedro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sang El"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:36.343574148Z",
+  "model": "glm-5.3"
+}

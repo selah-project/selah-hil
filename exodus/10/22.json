@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag gin-unat ni Moshe ⟨את⟩ ang iya kamot sa mga langit, kag nagkadulum nga mabug-at sang taman nga duta sang Mitsrayim, tatlo ka adlaw.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "gin-unat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya kamot"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang iya kamot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag nagkadulum"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kadulum"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "nga mabug-at"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sang taman nga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tatlo ka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T16:24:07.976107499Z",
+  "model": "glm-5.3"
+}

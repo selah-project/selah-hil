@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kay ang ila Manubus makusog ⟨siya⟩, siya ang magapakigbisig ⟨את⟩ sang ila singbangod ⟨את⟩ laban sa imo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "ang ila Manubus"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "makusog"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨siya⟩"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "magapakigbisig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang ila singbangod"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "sang ila singbangod"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ laban sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T21:02:16.977694084Z",
+  "model": "glm-5.3"
+}

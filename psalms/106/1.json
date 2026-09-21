@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 106,
+  "translation": "Pagdayaw-gamhan kita kang Yah; magpasalamat kay Yahweh, kay ⟨siya⟩ maayo, kay sa gakahilwayan ang iya hesed.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "pagdayaw-gamhan kita"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kang Yah"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "magpasalamat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa gakahilwayan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iya hesed"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:41.814033061Z",
+  "model": "glm-5.3"
+}

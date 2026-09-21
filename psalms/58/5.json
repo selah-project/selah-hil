@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 58,
+  "translation": "Ang ila hilo pareho sang hilo sang bitin, pareho sang panson nga bungol nga nagsira sang iya dunggan.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "hilo"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ila"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "pareho"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "hilo"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "bitin"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "pareho"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "panson"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "bungol"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "nagsira"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "iya dunggan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:17.393260371Z",
+  "model": "glm-5.3"
+}

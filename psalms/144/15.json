@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 144,
+  "translation": "Malipayon ang mga tawo nga siling ina ang iya kahimtangan; malipayon gid ang mga tawo nga si Yahweh ang iya Elohim.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Malipayon"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "nga siling ina"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iya"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "malipayon gid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ang iya Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:02.902988773Z",
+  "model": "glm-5.3"
+}

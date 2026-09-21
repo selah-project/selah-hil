@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 95,
+  "translation": "Busa nagpanumpa ako sa akon kaakig ⟨nga indi gid⟩ magasulod sila sa akon pahuway.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "busa"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "nagpanumpa ako"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "sa akon kaakig"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨nga indi gid⟩"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "magasulod sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "akon pahuway"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:25.029428321Z",
+  "model": "glm-5.3"
+}

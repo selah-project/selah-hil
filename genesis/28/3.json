@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Kag pagtalanginon ka sang El Shadday, kag himoon niya nga madamo ang imo kabinhi, kag paramyon niya ikaw, kag magtimaan ka nga katipunan sang mga pungsod.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Kag sang El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "pagtalanginon ka"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ka (ikaw)"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "kag himoon niya nga madamo ang imo kabinhi"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "kag paramyon niya ikaw"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "kag magtimaan ka"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "nga katipunan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "sang mga pungsod"
+    }
+  ],
+  "timestamp": "2026-09-21T16:06:31.686009302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 12:13",
+  "book": "daniel",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag ikaw, lakat pakadto sa ⟨ang⟩ katapusan, kag magpahuway ka, kag magatindog ka sa imo bahin, sa katapusan sang mga adlaw.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kag ikaw"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lakat"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "pakadto sa katapusan"
+    },
+    {
+      "surface": "ותנוח",
+      "gloss": "kag magpahuway ka"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "kag magatindog ka"
+    },
+    {
+      "surface": "לגרלך",
+      "gloss": "sa imo bahin"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "sa katapusan"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "sang mga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T21:38:21.482424579Z",
+  "model": "glm-5.3"
+}

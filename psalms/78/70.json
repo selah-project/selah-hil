@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 78:70",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Kag ginpilian niya si David, iya sulugoon, kag ginkuha niya siya sa mga koral sang karnero.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "ginpilian niya"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "iya sulugoon"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "ginkuha niya siya"
+    },
+    {
+      "surface": "ממכלאת",
+      "gloss": "sa mga koral"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sang karnero"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:09.631831685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 132:18",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 132,
+  "translation": "Ang iya mga kaaway pagasul-obon ko sing kaulawan, kag sa iya magaabrir ang iya putong.",
+  "tokens": [
+    {
+      "surface": "אויביו",
+      "gloss": "ang iya mga kaaway"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "pagasul-obon ko"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "sing kaulawan"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "kag sa iya"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "magaabrir"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "ang iya putong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:04.226727774Z",
+  "model": "glm-5.3"
+}

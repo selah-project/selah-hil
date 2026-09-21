@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Kag himuon sang pari ⟨את⟩ ang isa nga halad sang sala, kag ⟨את⟩ ang isa nga halad nga sinusunog, kag magapakatawaran ang pari para sa iya sa atubangan ni Yahweh, tungod sang agos sang iya kahugawan.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Kag himuon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang pari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang isa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "halad sang sala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "halad nga sinusunog"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "kag magapakatawaran"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "para sa iya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang pari"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "agos"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "sang iya kahugawan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:50:54.522609147Z",
+  "model": "glm-5.3"
+}

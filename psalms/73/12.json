@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 73,
+  "translation": "Tan-awa, ining mga tawo — ang mga malaot, kag ang mga malinong sa dayon — nakab-ot sang kadungganan.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ining"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga malaot"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "kag ang mga malinong"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "nakab-ot"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kadungganan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:42.214643702Z",
+  "model": "glm-5.3"
+}

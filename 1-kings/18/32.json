@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag gintukod niya ⟨את⟩ ang mga bato nga halaran sa ngalan ni Yahweh, kag naghimo siya sang lung-ag nga duta suok sang duha ka sako sang binhi, sa palibot sang halaran.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "kag gintukod niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga bato"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ang mga bato"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "kag naghimo siya"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "sang lung-ag nga duta"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "suok sang"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "duha ka sako"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sang binhi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "sang halaran"
+    }
+  ],
+  "timestamp": "2026-09-21T18:36:53.993249388Z",
+  "model": "glm-5.3"
+}

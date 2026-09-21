@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 55:22",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 55,
+  "translation": "Mga mamono nga pulong ang iya baba, malinaw pa ⟨sangsa⟩ mantikilya, kag gera ang iya kasingkasing; malumo pa sangsa lana ang iya mga pulong, apang sila mga espada nga ginpukaw.",
+  "tokens": [
+    {
+      "surface": "חלקו",
+      "gloss": "malinaw"
+    },
+    {
+      "surface": "מחמאת",
+      "gloss": "mga mamono nga pulong"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "iya baba"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "kag"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "iya kasingkasing"
+    },
+    {
+      "surface": "רכו",
+      "gloss": "malumo"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "iya mga pulong"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "sangsa lana"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "apang sila"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "mga espada nga ginpukaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:57.816281494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag naggikan siya sa sina-adlaw ⟨gikan sa⟩ sa bukid sang Karmel, kag gikan didto nagbalik siya sa Shomron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kag naggikan siya"
+    },
+    {
+      "surface": "משם",
+      "gloss": "sa sina-adlaw ⟨gikan sa⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "sang Karmel"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "kag gikan didto"
+    },
+    {
+      "surface": "שב",
+      "gloss": "nagbalik"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "sa Shomron"
+    }
+  ],
+  "timestamp": "2026-09-21T18:38:10.363764708Z",
+  "model": "glm-5.3"
+}

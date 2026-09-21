@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 148,
+  "translation": "Mga sapat nga mangtas kag tanan nga mga sapat nga domestik, mga nagakangkang kag mga sapat nga may pakpak:",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "mga sapat nga mangtas"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag tanan nga"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "mga sapat nga domestik"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "mga nagakangkang"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "kag mga sapat nga may pakpak"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "pakpak"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:09.212078802Z",
+  "model": "glm-5.3"
+}

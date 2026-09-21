@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 75,
+  "translation": "Nagasalamat kami sa imo, Elohim, nagasalamat kami, kay duol ang imo Ngalan; ginaistorya nila ang imo mga kagila-ilahanon.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "Nagasalamat kami"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "nagasalamat kami"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "kay duol"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ang imo Ngalan"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ginaistorya nila"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ang imo mga kagila-ilahanon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:28.695931180Z",
+  "model": "glm-5.3"
+}

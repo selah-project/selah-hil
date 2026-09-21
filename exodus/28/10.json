@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "anom ka ngalan sang ila ⟨mga magtotuo⟩ sa isa ka bato, kag ⟨את⟩ ang mga ngalan sang anom nga nabilin sa ikaduha nga bato, suno sa ila pagkatawo.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "anom ka"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "ngalan sang ila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "isa ka bato"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga ngalan sang anom nga nabilin"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ang mga ngalan"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "sang anom"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "nga nabilin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "bato"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ikaduha nga"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "suno sa ila pagkatawo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:33:08.811153708Z",
+  "model": "glm-5.3"
+}

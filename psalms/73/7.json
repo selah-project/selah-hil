@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 73,
+  "translation": "Nagaguwa sa taba ang ila mata, kag nagapalabaw sila sa mga handum sang tagipusuon.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "nagaguwa"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "sa taba"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "ang ila mata"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "nagapalabaw sila"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "sa mga handum"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sang tagipusuon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:52.299781441Z",
+  "model": "glm-5.3"
+}

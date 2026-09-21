@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag gintuya niya ⟨את⟩ si Yisrael, kag ginpustyas siya ni Yehonatan, anak ni Shimi, utod ni David.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "kag gintuya niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "si Yisrael"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "kag ginpustyas siya"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "si Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ni Shimi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "utod"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-21T18:21:41.311989542Z",
+  "model": "glm-5.3"
+}

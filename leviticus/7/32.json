@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag ⟨את⟩ ang kanan nga paa ipahalag ninyo nga terumah sa saserdote, gikan sa mga halad sang inyo pakigdait.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "kanan nga paa"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "paa"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "kanan"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ipahalag ninyo"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "terumah"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "sa saserdote"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "gikan sa mga halad"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "sang inyo pakigdait"
+    }
+  ],
+  "timestamp": "2026-09-21T16:43:47.555864042Z",
+  "model": "glm-5.3"
+}

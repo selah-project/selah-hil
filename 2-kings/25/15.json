@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag ⟨את⟩ ang mga pangpainit-insenso kag ⟨את⟩ ang mga mangko — kon bulawan, bug-os nga bulawan, kag kon plata, bug-os nga plata — ginkuha sang pangulo sang mga manugpamatay.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga pangpainit-insenso"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "ang mga pangpainit-insenso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga mangko"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "ang mga mangko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bug-os nga bulawan"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kag nga"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "plata"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bug-os nga plata"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ginkuha"
+    },
+    {
+      "surface": "רב",
+      "gloss": "pangulo"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "mga manugpamatay"
+    }
+  ],
+  "timestamp": "2026-09-21T18:51:29.314736888Z",
+  "model": "glm-5.3"
+}

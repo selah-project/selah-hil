@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Bantayi ang imo dila sa kagubtan, kag ang imo mga bibig sa paghambal sang tinago.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "bantayi"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "imo dila"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "sa kagubtan"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "kag imo mga bibig"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sa paghambal"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "sang tinago"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:17.818612255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 126,
+  "translation": "Ang mga nagtanum sing mga luha magaani sa pag-awit.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "ang mga nagtanum"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "sing mga luha"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "sa pag-awit"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "magaani"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:19.778253863Z",
+  "model": "glm-5.3"
+}

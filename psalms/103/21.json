@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 103,
+  "translation": "Panalangini si Yahweh, tanan ninyo nga iya mga Tsevaot; ang iya mga tinatago, ang mga nagakahulugan sang iya kaluyahon nga buot.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Panalangini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "iya mga Tsevaot"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "iya mga tinatago"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "nagakahulugan"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "iya kaluyahon nga buot"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:34.813769363Z",
+  "model": "glm-5.3"
+}

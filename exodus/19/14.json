@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag nagsulog si Moshe gikan sa bukid pakadto sa katawhan, kag ginpagiyo niya ⟨את⟩ ang katawhan, kag naglaba sila sang ila mga bayo.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "kag nagsulog"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pakadto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa katawhan"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "kag ginpagiyo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "kag naglaba sila"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "sang ila mga bayo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:28:08.266184902Z",
+  "model": "glm-5.3"
+}

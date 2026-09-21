@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Indi ka makahalad ⟨את⟩ ang Pesah sa isa sa imo ⟨mga⟩ ganghaan, nga ginahatag ni Yahweh nga imo Elohim sa imo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ka makahalad"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "maghalad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Pesah"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ang Pesah"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "sa isa"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "imo mga ganghaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "imo Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ginahatag"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:24:28.936406141Z",
+  "model": "glm-5.3"
+}

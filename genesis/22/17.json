@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 22:17",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "nga sa pagpakamaayo magapakamaayo ako sa imo, kag sa pagpadamo magapadamo ako sang ⟨את⟩ imo kaliwat subong sang mga bitoon sang langit kag subong sang balas nga ara sa baybayon sang dagat, kag magapanunton ang imo kaliwat sang ⟨את⟩ ganghaan sang iya mga kaaway.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "sa pagpakamaayo"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "magapakamaayo ako sa imo"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "kag sa pagpadamo"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "magapadamo ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imo kaliwat"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "imo kaliwat"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "subong sang mga bitoon"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sang langit"
+    },
+    {
+      "surface": "וכחול",
+      "gloss": "kag subong sang balas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "baybayon"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sang dagat"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "kag magapanunton"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ang imo kaliwat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ganghaan"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ganghaan"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "sang iya mga kaaway"
+    }
+  ],
+  "timestamp": "2026-09-21T16:03:37.698647098Z",
+  "model": "glm-5.3"
+}

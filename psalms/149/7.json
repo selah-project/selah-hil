@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 149,
+  "translation": "Sa paghimo sang balos sa mga pungsod, mga pagtapak sa mga katawhan.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "sa paghimo sang"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "balos"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa mga pungsod"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "mga pagtapak"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "mga katawhan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:01.779975771Z",
+  "model": "glm-5.3"
+}

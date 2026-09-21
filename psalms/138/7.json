@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 138,
+  "translation": "Kon magalakat ako sa tunga sang kalisod, pagabuhion mo ako; sa kaakig sang akon mga kaaway ipadala mo ang imo kamot, kag imo matagluwas ako sang imo tuo nga kamot.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "magalakat ako"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa tunga sang"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kalisod"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "pagabuhion mo ako"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kaakig"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "sang akon mga kaaway"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "ipadala mo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang imo kamot"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "kag imo matagluwas ako"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "sang imo tuo nga kamot"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:07.770145076Z",
+  "model": "glm-5.3"
+}

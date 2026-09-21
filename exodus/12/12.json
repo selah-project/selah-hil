@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 12:12",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag magalaktod ako sa duta sang Mitsrayim sa sina nga gab-i, kag patyon ko ang tanan nga nahauna nga anak sa duta sang Mitsrayim, gikan sa tawo kag hasta sa sapat, kag sa tanan nga mga dios sang Mitsrayim himoon ko mga hukom — ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "ועברתי",
+      "gloss": "kag magalaktod ako"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "sa gab-i"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sina nga"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "kag patyon ko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "nahauna nga anak"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "gikan sa tawo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag hasta"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "sa sapat"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "kag sa tanan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "nga mga dios"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "himoon ko"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "mga hukom"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:24:52.128113336Z",
+  "model": "glm-5.3"
+}

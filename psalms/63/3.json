@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 63,
+  "translation": "Suno sini sa balaan ⟨nga duog⟩ nakita ko ikaw, sa pagtan-aw sang imo gahom kag sang imo himaya.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Suno sini"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "sa balaan ⟨nga duog⟩"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "nakita ko ikaw"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "sa pagtan-aw"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "sang imo gahom"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "kag sang imo himaya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:30.185807323Z",
+  "model": "glm-5.3"
+}

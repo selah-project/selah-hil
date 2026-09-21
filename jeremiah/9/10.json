@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag ihimo ko si ⟨את⟩ Yerushalayim nga mga tinambak, nga puluy-anan sang mga ayam-kamingawan, kag ⟨את⟩ mga ciudad sang Yehudah himoon ko nga kaguba, nga wala sing pumuyo.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "kag ihimo ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "nga mga tinambak"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "puluy-anan"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "sang mga ayam-kamingawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "mga ciudad sang Yehudah"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga ciudad"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "himoon ko"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "nga kaguba"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "nga wala sing"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "pumuyo"
+    }
+  ],
+  "timestamp": "2026-09-21T19:20:08.471725949Z",
+  "model": "glm-5.3"
+}

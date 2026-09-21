@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Ihatag ninyo kay Yahweh ang himaya sang iya ngalan, magluhod kamo kay Yahweh sa hadlanga sang kabalaan.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "ihatag ninyo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ang himaya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sang iya ngalan"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "magluhod kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "sa hadlanga"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kabalaan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:53.234186924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag nagpatalingnat si Shaul sa tingog ni Yehonatan, kag napanumpa si Shaul: Buhi si Yahweh, indi siya pagapatyon.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Kag nagpatalingnat"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sa tingog"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ni Yehonatan"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "kag napanumpa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Buhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nga indi"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "siya pagapatyon"
+    }
+  ],
+  "timestamp": "2026-09-21T18:06:28.577702933Z",
+  "model": "glm-5.3"
+}

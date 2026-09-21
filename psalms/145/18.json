@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 145,
+  "translation": "Malapit si Yahweh sa tanan nga nagaampo sa iya, sa tanan nga nagaampo sa iya ⟨sa⟩ kamatuoran.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Malapit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "nga nagaampo sa iya"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "nagaampo sa iya"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "⟨sa⟩ kamatuoran"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:28.103094949Z",
+  "model": "glm-5.3"
+}

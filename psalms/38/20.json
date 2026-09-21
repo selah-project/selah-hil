@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 38,
+  "translation": "Kag ang akon mga kaaway buhi kag ⟨manggaranon⟩ sila, kag dumaghan ang mga nagadumut sa akon nga wala sing kabangdanan.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "kag ang akon mga kaaway"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "buhi"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "manggaranon"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "kag dumaghan"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ang mga nagadumut sa akon"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "nga wala sing kabangdanan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:23.560222830Z",
+  "model": "glm-5.3"
+}

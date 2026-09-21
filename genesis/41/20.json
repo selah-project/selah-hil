@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 41,
+  "translation": "Kag ginkaon sang mga baka nga niwang kag maraot ⟨את⟩ ang nahauna nga pito ka baka nga tambok.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "kag ginkaon"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "sang mga baka"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "nga niwang"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "kag maraot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang nahauna nga pito ka baka nga tambok"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito ka"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "baka"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "nga nahauna"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "nga tambok"
+    }
+  ],
+  "timestamp": "2026-09-21T16:13:57.317140158Z",
+  "model": "glm-5.3"
+}

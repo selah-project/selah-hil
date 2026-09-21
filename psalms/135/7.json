@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 135,
+  "translation": "Ginapataas niya ang mga alapaap sa katumtan sang duta, naghimo sang mga kilat para sa ulan, kag nagapagwa sang hangin sa iya mga kamalig.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "Ginapataas niya"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "ang mga alapaap"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "sa katumtan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "mga kilat"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "para sa ulan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "naghimo sang"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "napagwa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sang hangin"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "sa iya mga kamalig"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:07.705748500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 10:11",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag subong, ang akon amay nagpanipan sa inyo yugo nga mabug-at, kag ako magadugang sa inyo yugo; ang akon amay nagbatad ⟨את⟩ sa inyo gamit mga latigo, kag ako gamit mga alakdan.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kag subong"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ang akon amay"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "nagpanipan"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "yugo"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "nga mabug-at"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kag ako"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "magadugang"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "inyo yugo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ang akon amay"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "nagbatad"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo",
+      "marks": "kamo"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "gamit mga latigo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kag ako"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "gamit mga alakdan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:04:29.497155400Z",
+  "model": "glm-5.3"
+}

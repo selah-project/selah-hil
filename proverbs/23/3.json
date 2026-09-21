@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Indi ka magapangandoy sang iya mga lami, kay ini ⟨amo⟩ tinapay sang mga bakak.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ka magapangandoy"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "sang iya mga lami"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kay ini"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "sang mga bakak"
+    }
+  ],
+  "timestamp": "2026-09-21T21:02:51.859015698Z",
+  "model": "glm-5.3"
+}

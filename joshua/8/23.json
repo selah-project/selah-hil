@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ⟨את⟩ ang hari sang Ai gindakup nila nga buhi, kag gidala nila ⟨את⟩ siya kay Yehoshua.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang hari sang Ai"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "העי",
+      "gloss": "sang Ai"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "gindakup nila"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nga buhi"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "kag gidala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    }
+  ],
+  "timestamp": "2026-09-21T17:38:03.232624896Z",
+  "model": "glm-5.3"
+}

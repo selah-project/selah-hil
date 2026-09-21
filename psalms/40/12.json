@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Ikaw, Yahweh, indi pag-untata ang imo mga kaluoy sa akon; ang imo hesed kag ang imo kamatuoran padayon nagabantay sa akon.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "pag-untata"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "imo mga kaluoy"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "imo hesed"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "kag ang imo kamatuoran"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "padayon"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "nagabantay sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:37.940488243Z",
+  "model": "glm-5.3"
+}

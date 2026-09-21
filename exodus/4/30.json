@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag naghambal si Aharon sang ⟨את⟩ tanan nga mga pulong nga gin-hambal ni Yahweh kay Moshe, kag gin-himo ang mga timailhan sa atubangan sang mga mata sang katawhan.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "naghambal"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga pulong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gin-hambal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "kag gin-himo"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "ang mga timailhan"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "sa atubangan sang mga mata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sang katawhan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:21:15.638302894Z",
+  "model": "glm-5.3"
+}

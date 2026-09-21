@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag nagdulong sila, kag ginbhaton sila sa ila mga koton pakadto sa gua, sa gua sang kampo, subong sang ginhambal ni Moshe.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "nagdulong sila"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "ginbhaton nila sila"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "sa ila mga koton"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pakadto sa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "gua"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "sang kampo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ginhambal"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T16:46:29.983820476Z",
+  "model": "glm-5.3"
+}

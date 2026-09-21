@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 31:19",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kag ang Lavan naggwa sa paggunas sang ⟨את⟩ iya mga karnero, kag ginpangawat ni Rahel ⟨את⟩ ang mga terafim nga iya amay.",
+  "tokens": [
+    {
+      "surface": "ולבן",
+      "gloss": "kag ang Lavan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "naggwa"
+    },
+    {
+      "surface": "לגזז",
+      "gloss": "sa paggunas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya mga karnero"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "iya mga karnero"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "kag ginpangawat"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ni Rahel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga terafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "ang mga terafim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "iya amay"
+    }
+  ],
+  "timestamp": "2026-09-21T16:09:32.407419467Z",
+  "model": "glm-5.3"
+}

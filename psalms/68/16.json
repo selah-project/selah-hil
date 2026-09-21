@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 68,
+  "translation": "Bukid sang Elohim ang bukid sang Bashan, bukid sang mga bakilid ang bukid sang Bashan.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "mga bakilid"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:28.490279674Z",
+  "model": "glm-5.3"
+}

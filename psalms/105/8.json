@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Ginumdom niya sing dayon ang iya kasugtanan, ang pulong nga iya ginsugo sa isa ka libo ka kaliwatan.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ginumdom"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sing dayon"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ang iya kasugtanan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "sa isa ka libo"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ka kaliwatan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:03.671603976Z",
+  "model": "glm-5.3"
+}

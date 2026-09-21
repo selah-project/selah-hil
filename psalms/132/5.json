@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 132,
+  "translation": "tubtob nga makakita ako sang hilitaan para kay Yahweh, mga Mishkan para sa Makusog sang Yaakov.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "tubtob nga"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "makakita ako"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "hilitaan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para kay Yahweh"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "mga Mishkan"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "para sa Makusog"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "sang Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:37.087769767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 14:7",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Siya nagtama ⟨את⟩ Edom sa Kahaang sang Asin — napulo ka libo — kag ginkuha niya ⟨את⟩ Sela sa gubat, kag gintawag niya ⟨את⟩ iya ngalan Yokteel tubtob sa subong nga adlaw.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "nagtama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "sa Kahaang"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "sang Asin"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ka libo"
+    },
+    {
+      "surface": "ותפש",
+      "gloss": "kag ginkuha niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sela"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "sa gubat"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kag gintawag niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya ngalan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "iya ngalan"
+    },
+    {
+      "surface": "יקתאל",
+      "gloss": "Yokteel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sa subong nga adlaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-21T18:45:47.891307935Z",
+  "model": "glm-5.3"
+}

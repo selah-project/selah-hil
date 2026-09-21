@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kag nagpabilin sila sing tatlo ka tuig nga wala sing gubat sa pagbutang sang Aram kag Yisrael.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "nagpabilin sila"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tatlo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "gubat"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa pagbutang sang"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "kag sa pagbutang sang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T18:39:04.536441177Z",
+  "model": "glm-5.3"
+}

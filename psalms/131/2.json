@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 131,
+  "translation": "Indi bala — gintahaw kag ginpahilay ko ang akon kalag, subong sang isa ka gin-uwian nga bata sa iya iloy; subong sang isa ka gin-uwian nga bata, amo man ang akon kalag sa akon.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Indi bala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "gintahaw ko"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "kag ginpahilay ko"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "subong sang isa ka gin-uwian nga bata"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "iya iloy"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "subong sang isa ka gin-uwian nga bata"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:10.905252594Z",
+  "model": "glm-5.3"
+}

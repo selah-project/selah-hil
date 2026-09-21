@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 3:13",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ibutang niya ⟨את⟩ iya kamot sa iya ulo, kag ihawon niya siya ⟨אתו⟩ sa atubangan sang balay sang katigulangan, kag pagaison sang mga anak ni Aharon ⟨את⟩ iya dugo sa ibabaw sang halaran sa palibot.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "kag ibutang niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya kamot"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "iya kamot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "iya ulo"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "kag ihawon niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "siya (ang kanding)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "balay"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang katigulangan"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "kag pagaison"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya dugo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "iya dugo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sang halaran"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    }
+  ],
+  "timestamp": "2026-09-21T16:41:40.176906854Z",
+  "model": "glm-5.3"
+}

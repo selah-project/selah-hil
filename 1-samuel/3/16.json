@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Dayon gintawag ni Eli ⟨את⟩ si Shemuel, kag nagsiling siya: Shemuel, akon anak. Kag nagsiling siya: Ara ako.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "gintawag"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ni Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shemuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling siya"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "akon anak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling siya"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ara ako"
+    }
+  ],
+  "timestamp": "2026-09-21T17:58:55.331241138Z",
+  "model": "glm-5.3"
+}

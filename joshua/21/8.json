@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag ginhatag sang mga anak sang Yisrael sa mga Levita ⟨את⟩ ini nga mga dakbanwa kag ⟨את⟩ ang ila mga latagon, suno sa ginsugo ni Yahweh paagi sa kamot ni Moshe, paagi sa paggal-ot.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "kag ginhatag"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sang mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "sa mga Levita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ini nga mga dakbanwa"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "mga dakbanwa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini nga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang ila mga latagon"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "ang ila mga latagon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "suno sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "paagi sa kamot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "paagi sa paggal-ot"
+    }
+  ],
+  "timestamp": "2026-09-21T17:43:15.024335113Z",
+  "model": "glm-5.3"
+}

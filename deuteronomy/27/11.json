@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Kag gintugoan ni Moshe ⟨את⟩ ang banwa sadto nga adlaw, nga nagsiling:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Kag gintugoan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang banwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang banwa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sadto nga adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sadto nga"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagsiling"
+    }
+  ],
+  "timestamp": "2026-09-21T17:28:35.750623680Z",
+  "model": "glm-5.3"
+}

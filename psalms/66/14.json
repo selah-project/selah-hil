@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 66,
+  "translation": "nga ginpamuka sang akon ⟨mga⟩ ngabil kag ginhambal sang akon baba sa akon kalisod.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "ginpamuka"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ang akon mga ngabil"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "kag ginhambal"
+    },
+    {
+      "surface": "פי",
+      "gloss": "sang akon baba"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "sa akon kalisod"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:03.675205576Z",
+  "model": "glm-5.3"
+}

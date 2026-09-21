@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Gindako ko ang akon mga binuhaton; nagpatindog ako ⟨para sa akon⟩ sang mga balay; nagtanom ako ⟨para sa akon⟩ sang mga kaparasan.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "gindako ko"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ang akon mga binuhaton"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "nagpatindog ako"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para sa akon"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "sang mga balay"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "nagtanom ako"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para sa akon"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "sang mga kaparasan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:26:12.591188301Z",
+  "model": "glm-5.3"
+}

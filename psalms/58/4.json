@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 58,
+  "translation": "Ang mga manugdaut naglain na sa tiyan; nagpaligyo na sa sulod sang tikanos, mga nagsasiling sing bakak.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "naglain"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga manugdaut"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "sa tiyan"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "nagpaligyo"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "sa sulod sang tikanos"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga nagsasiling"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "bakak"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:14.758180369Z",
+  "model": "glm-5.3"
+}

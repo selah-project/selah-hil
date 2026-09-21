@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag ginsabat ni Yahweh ⟨את⟩ si Iyob gikan sa bagyo, kag naghambal:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "kag ginsabat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Iyob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "bagyo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag naghambal"
+    }
+  ],
+  "timestamp": "2026-09-21T21:17:07.569092068Z",
+  "model": "glm-5.3"
+}

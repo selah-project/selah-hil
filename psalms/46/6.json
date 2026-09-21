@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 46,
+  "translation": "Ara si Elohim sa tunga sini, indi gid ini magakuyab; buligan sang Elohim ini sa pagsulip sang kaagahon.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "sa tunga sini"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indi gid"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "magakuyab"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "buligan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "sa pagsulip"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sang kaagahon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:22.083321437Z",
+  "model": "glm-5.3"
+}

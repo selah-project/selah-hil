@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 104:21",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 104,
+  "translation": "Ang mga batang leon nagauungol sa pagkuha sang tamsak, kag nagapangita sang ila pagkaon gikan kay El.",
+  "tokens": [
+    {
+      "surface": "הכפירים",
+      "gloss": "ang mga batanging leon"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "nagauungol"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "sa pagkuha sang tamsak"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "kag sa pagpangita"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "gikan kay El"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "sang ila pagkaon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:06.875910153Z",
+  "model": "glm-5.3"
+}

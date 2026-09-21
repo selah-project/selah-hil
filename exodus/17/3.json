@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag nag-uhaw didto ang katawhan sang tubig, kag nagpanulabi ang katawhan kay Moshe, kag nagsiling: Ngaa ini, ginpataw nimo kami gikan sa Mitsrayim sa pagpatay ⟨את⟩ sa akon kag ⟨את⟩ sang akon mga anak kag ⟨את⟩ sang akon mga kahayupan sang uhaw?",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "kag nag-uhaw"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "למים",
+      "gloss": "sang tubig"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "kag nagpanulabi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "על",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "ginpataw nimo kami"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "gikan sa Mitsrayim"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "sa pagpatay"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "sa akon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang akon mga anak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sang akon mga anak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang akon mga kahayupan"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "sang akon mga kahayupan"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "sang uhaw"
+    }
+  ],
+  "timestamp": "2026-09-21T16:29:10.811356189Z",
+  "model": "glm-5.3"
+}

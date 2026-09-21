@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 3:4",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kay madamo nga mga adlaw magapabilin ang mga anak nga lalaki sang Yisrael nga wala sing hari, kag wala sing pangulo, kag wala sing halad, kag wala sing haligi-angalan, kag wala sing ephod kag mga terafim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nga mga adlaw"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "madamo"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "magapabilin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nga wala sing"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala sing"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangulo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala sing"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "halad"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala sing"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "haligi-angalan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kag wala sing"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "ephod"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "kag mga terafim"
+    }
+  ],
+  "timestamp": "2026-09-21T20:04:10.809122105Z",
+  "model": "glm-5.3"
+}

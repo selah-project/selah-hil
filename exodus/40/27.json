@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag ginpahumot niya sa sini ang insenso sang mga samyo, subong sang ginsugo ni Yahweh ⟨את⟩ si Moshe.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "ginpahumot niya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa sini"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ang insenso"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "sang mga samyo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T16:40:40.598678436Z",
+  "model": "glm-5.3"
+}

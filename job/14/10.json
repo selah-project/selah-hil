@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 14:10",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag ang tawo namatay kag nuyang; kag ang tawo nagpalagyo sang iya gininhawa — kag diin na siya?",
+  "tokens": [
+    {
+      "surface": "וגבר",
+      "gloss": "kag ang tawo"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "namatay"
+    },
+    {
+      "surface": "ויחלש",
+      "gloss": "kag nuyang"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "nagpalagyo sang iya gininhawa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "kag diin na siya"
+    }
+  ],
+  "timestamp": "2026-09-21T21:09:38.131526389Z",
+  "model": "glm-5.3"
+}

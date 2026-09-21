@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "⟨את⟩ ang mga tukod sang tolda kag ⟨את⟩ ang mga tukod sang nataran, kag ⟨את⟩ ang ila mga pisi",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tukod sang tolda"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "ang mga tukod"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "sang tolda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga tukod sang nataran"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "ang mga tukod"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "sang nataran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang ila mga pisi"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "ang ila mga pisi"
+    }
+  ],
+  "timestamp": "2026-09-21T16:35:46.236753440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Kag ginsumpay niya ⟨את⟩ ang lima ka mga kurtina nga bulag, kag ⟨את⟩ ang anom ka mga kurtina nga bulag.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "Kag ginsumpay niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lima ka mga kurtina"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ang lima ka"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "mga kurtina"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "nga bulag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang anom ka mga kurtina"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ang anom ka"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "mga kurtina"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "nga bulag"
+    }
+  ],
+  "timestamp": "2026-09-21T16:39:46.625276265Z",
+  "model": "glm-5.3"
+}

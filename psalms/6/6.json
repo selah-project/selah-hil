@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kay sa kamatayan wala sing handum sa imo; sa Sheol sin-o ang maggad sa imo?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "במות",
+      "gloss": "sa kamatayan"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "sing handum sa imo"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "sa Sheol"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "ang maggad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:59.536579431Z",
+  "model": "glm-5.3"
+}

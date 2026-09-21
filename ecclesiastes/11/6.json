@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Sa aga itanom ⟨את⟩ imo binhi, kag sa gab-i indi pagpahuwaya ang imo kamot, kay wala ka makahibalo diin ini magapus — ina ukon ina, kag kon ang duha magkaunto pareho nga maayo.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "sa aga"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "itanom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imo binhi"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "imo binhi"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "kag sa gab-i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "pagpahuwaya"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "imo kamot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "wala ka"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "makahibalo"
+    },
+    {
+      "surface": "אי",
+      "gloss": "diin"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "magapus"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ina"
+    },
+    {
+      "surface": "או",
+      "gloss": "ukon"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ina"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ang duha"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "pareho"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "nga maayo"
+    }
+  ],
+  "timestamp": "2026-09-21T21:27:57.107435720Z",
+  "model": "glm-5.3"
+}

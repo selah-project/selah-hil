@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "kag nagahimo sang hesed sa mga libo, sa mga nagahigugma sa akon kag sa mga nagatipig sang akon mga kasuguan.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "kag nagahimo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "sa mga libo"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "sa mga nagahigugma sa akon"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "kag sa mga nagatipig"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "sang akon mga kasuguan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:27:27.253796968Z",
+  "model": "glm-5.3"
+}

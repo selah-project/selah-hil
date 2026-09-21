@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Ini ang mga kaliwat ni Shem: si Shem anak sang isa ka gatos ka tuig, kag ginatawo niya ⟨את⟩ si Arpakshad duha ka tuig human sang baha.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ang mga kaliwat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ni Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "si Shem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "sang isa ka gatos ka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "kag ginatawo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Arpakshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "si Arpakshad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "duha ka tuig"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "human sang"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "baha"
+    }
+  ],
+  "timestamp": "2026-09-21T15:58:47.866019695Z",
+  "model": "glm-5.3"
+}

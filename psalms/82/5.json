@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 82,
+  "translation": "Indi sila nakakilala kag indi sila nakasabot; sa kadulom sila nagalakat-lakat; magakuyog ang tanan nga mga pundasyon sang duta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nakakilala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "nakasabot"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "sa kadulom"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "nagalakat-lakat"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "magakuyog"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "nga mga pundasyon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:46.896343879Z",
+  "model": "glm-5.3"
+}

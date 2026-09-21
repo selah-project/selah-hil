@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Indi ka pagkadlaw sang imo utod sa imo kasingkasing; saway ka sing saway ⟨את⟩ ang imo kaupod, kag indi ka magdala sang sala tungod sa iya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "pagkadlaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imo utod"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ang imo utod"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "sa imo kasingkasing"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "saway"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "sing saway"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imo kaupod"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "ang imo kaupod"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "magdala"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tungod sa iya"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "sala"
+    }
+  ],
+  "timestamp": "2026-09-21T22:21:25.677335411Z",
+  "model": "glm-5.3"
+}

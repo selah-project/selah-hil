@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Dumduma ⟨ang⟩ ⟨את⟩ adlaw sang Sabbath, sa pagpabalaan sini.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Dumduma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang adlaw sang Sabbath"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sang Sabbath"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "sa pagpabalaan sini"
+    }
+  ],
+  "timestamp": "2026-09-21T16:27:27.254167294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kaluluoy! Pungsod nga nakasala, katawhan nga mabug-at sang kalaut, kaliwat sang mga manginbadlit, mga anak nga manugpanlaglag! Ginsikway nila ⟨את⟩ si Yahweh, ginalain nila ⟨את⟩ ang Balaan sang Yisrael, nagbalik sila paathas.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Kaluluoy!"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "Pungsod"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "nga nakasala"
+    },
+    {
+      "surface": "עם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "nga mabug-at"
+    },
+    {
+      "surface": "עון",
+      "gloss": "sang kalaut"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kaliwat"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "sang mga manginbadlit"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "nga manugpanlaglag"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "Ginsikway nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "ginalain nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Balaan sang Yisrael"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ang Balaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "nagbalik sila"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "paathas"
+    }
+  ],
+  "timestamp": "2026-09-21T18:52:29.621325275Z",
+  "model": "glm-5.3"
+}

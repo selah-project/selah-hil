@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag nagkadto ang isa ka lalaki gikan sa balay ni Levi, kag ginkuha niya ⟨את⟩ sang anak nga babae ni Levi ⟨nga maagalon⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nagkadto"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang isa ka lalaki"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "gikan sa balay"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ni Levi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "kag ginkuha niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang anak nga babae ni Levi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "sang anak nga babae"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ni Levi"
+    }
+  ],
+  "timestamp": "2026-09-21T16:20:05.110618339Z",
+  "model": "glm-5.3"
+}

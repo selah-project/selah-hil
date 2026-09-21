@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 104,
+  "translation": "Ang kahiladloman nga kadagatan nagtabon sa iya subong sang bado; sa ibabaw sang mga bukid nagatindog ang mga tubig.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "ang kahiladloman nga kadagatan"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "subong sang bado"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "nagtabon sa iya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mga bukid"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "nagatindog"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ang mga tubig"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:33.166012261Z",
+  "model": "glm-5.3"
+}

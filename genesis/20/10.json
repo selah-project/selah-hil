@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag nagsiling si Avimelekh sa Avraham: Ano ang imo nakita, nga imo ginhimo ⟨את⟩ ang butang nga ini?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag nagsiling"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "si Avimelekh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ano"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ang imo nakita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "imo ginhimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang butang nga ini"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang butang"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nga ini"
+    }
+  ],
+  "timestamp": "2026-09-21T16:02:52.380960725Z",
+  "model": "glm-5.3"
+}

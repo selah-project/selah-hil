@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 18:29",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Amo ini ang siling sang hari: indi ninyo pagtugutan nga iladon kamo ni Khizkiyahu, kay indi niya makayang luwason ⟨את⟩ kamo sa iya kamot.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Amo ini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang siling"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi ninyo pagtugutan"
+    },
+    {
+      "surface": "ישיא",
+      "gloss": "iladon"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ni Khizkiyahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "niya makayang"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "luwason"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "sa iya kamot"
+    }
+  ],
+  "timestamp": "2026-09-21T18:49:06.678327754Z",
+  "model": "glm-5.3"
+}

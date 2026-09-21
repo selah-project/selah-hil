@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "haggai 1:13",
+  "book": "haggai",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag naghambal si Chaggai, ang sugo ni Yahweh, sa sugo ni Yahweh, sa katawhan, nga nagaingon: Ako ⟨את⟩ kaupod ninyo, ginahambal ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag naghambal"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "si Chaggai"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ang sugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "במלאכות",
+      "gloss": "sa sugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "sa katawhan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaupod ninyo",
+      "marks": "ninyo (kamo)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ginahambal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:16:13.829276061Z",
+  "model": "glm-5.3"
+}

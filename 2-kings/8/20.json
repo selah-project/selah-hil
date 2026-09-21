@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Sa iya mga adlaw nagrebeldi ang Edom halin sa ilalom sang kamot sang Yehudah, kag nagpahari sila sang hari sa ila.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "Sa iya mga adlaw"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "nagrebeldi"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ang Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "halin sa ilalom"
+    },
+    {
+      "surface": "יד",
+      "gloss": "sang kamot"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "kag nagpahari sila"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sang hari"
+    }
+  ],
+  "timestamp": "2026-09-21T18:43:20.698727044Z",
+  "model": "glm-5.3"
+}

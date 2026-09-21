@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag ginpaguwa ⟨את⟩ ang anak sang hari, kag ginbutang sa iya ⟨את⟩ ang putong kag ⟨את⟩ ang pagpamatuod, kag ginhimo ⟨את⟩ siya nga hari kag ginlanahan siya, kag ginpamukpok sang palad kag nagsiling: Mabuhi ang hari!",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "kag ginpaguwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang anak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ang anak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kag ginbutang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang putong"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "ang putong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang pagpamatuod"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "ang pagpamatuod"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "kag ginhimo nga hari"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "kag ginlanahan siya"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "kag ginpamukpok"
+    },
+    {
+      "surface": "כף",
+      "gloss": "sang palad"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "Mabuhi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    }
+  ],
+  "timestamp": "2026-09-21T18:45:43.167967851Z",
+  "model": "glm-5.3"
+}

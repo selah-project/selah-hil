@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 30:13",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "kag indi ⟨ini⟩ sa tabok sang dagat, nga maghambal: Sin-o ang magatabok para sa aton sa tabok sang dagat kag magadala sini sa aton kag magapapasabot sa aton ⟨את⟩ sini, agod himuon naton ini?",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "sa tabok"
+    },
+    {
+      "surface": "לים",
+      "gloss": "sang dagat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga maghambal"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ang magatabok"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "para sa aton"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "tabok"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sang dagat"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "kag magadala sini"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa aton"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "kag magapapasabot"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sini (ang pulong)"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "kag himuon naton ini"
+    }
+  ],
+  "timestamp": "2026-09-21T17:31:16.793268453Z",
+  "model": "glm-5.3"
+}

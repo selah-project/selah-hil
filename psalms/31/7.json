@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Ginkadlaw ko ang mga nagatipig sang mga butang nga wala sing kapuslanan kag tion nga mapintas, apang ako kay Yahweh nagapalagyo sa iya.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "ginkadlaw ko"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "ang mga nagatipig"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "sang mga butang nga wala sing kapuslanan"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "kag tion nga mapintas"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "apang ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nagapalagyo sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:28:26.891420871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag nagpuyo si Yehudah kag si Yisrael sa kaligutan, tagsa ka tawo sa idalom sang iya kahoy nga ubas kag sa idalom sang iya kahoy nga igos, gikan sa Dan tubtob sa Be'er-Sheva, sa tanan nga mga adlaw ni Shelomoh.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "nagpuyo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "si Yehudah"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "kag si Yisrael"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "sa kaligutan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tagsa ka tawo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa idalom"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "sang iya kahoy nga ubas"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "kag sa idalom"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "sang iya kahoy nga igos"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "gikan sa Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "באר",
+      "gloss": "sa Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nga mga adlaw"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    }
+  ],
+  "timestamp": "2026-09-21T18:28:04.139325220Z",
+  "model": "glm-5.3"
+}

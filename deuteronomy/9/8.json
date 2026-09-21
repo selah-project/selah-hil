@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag sa Horeb kamo nagpaakig ⟨את⟩ kay Yahweh, kag nagakig si Yahweh sa inyo agod paglaglagon ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "kag sa Horeb"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "kamo nagpaakig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "kag nagakig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "agod paglaglagon"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:22:04.523137376Z",
+  "model": "glm-5.3"
+}

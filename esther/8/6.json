@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 8:6",
+  "book": "esther",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "kay paano ako makakaya kag makakita sang kalaot nga matabo sa ⟨את⟩ akon katawhan, kag paano ako makakaya kag makakita sa paglaglag sang akon kinalmatahan?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "paano"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "makakaya"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "kag makakita"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "sang kalaot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "matabo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akon katawhan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "akon katawhan"
+    },
+    {
+      "surface": "ואיככה",
+      "gloss": "kag paano"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "makakaya"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "kag makakita"
+    },
+    {
+      "surface": "באבדן",
+      "gloss": "sa paglaglag"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "sang akon kinalmatahan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:32:35.692543821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 85,
+  "translation": "Sigurado, duol sa mga nagakahadlok sa iya ang iya kaluwasan, agod magapuyô ang himaya sa aton duta.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "sigurado"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "duol"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "sa mga nagakahadlok sa iya"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "iya kaluwasan"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "agod magapuyô"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "himaya"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "sa aton duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:59.857808297Z",
+  "model": "glm-5.3"
+}

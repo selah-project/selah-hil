@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Yahweh, ang akon Elohim ⟨ang⟩ ikaw; pataason ko ikaw, magapanumduman ko ang imo ngalan, kay naghimo ka sing kataka-taka, mga tambalang tikang sa malayo, kaampig, kasaligan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang akon Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "pataason ko ikaw"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "magapanumduman ko"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ang imo ngalan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "naghimo ka"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "sing kataka-taka"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "mga tambalang"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "tikang sa malayo"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "kaampig"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "kasaligan"
+    }
+  ],
+  "timestamp": "2026-09-21T19:00:28.865366447Z",
+  "model": "glm-5.3"
+}

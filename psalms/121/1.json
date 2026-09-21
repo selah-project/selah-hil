@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 121,
+  "translation": "Kanta sang mga Pag-angat. Itataas ko ang akon mga mata sa mga bukid — taga diin magakari ang akon bulig?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kanta"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "sang mga Pag-angat"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "Itataas ko"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang akon mga mata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ang mga bukid"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "taga diin"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "magakari"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ang akon bulig"
+    }
+  ],
+  "timestamp": "2026-09-21T20:50:58.853809627Z",
+  "model": "glm-5.3"
+}

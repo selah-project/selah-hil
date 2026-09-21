@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Kag nagdalagan sila kag ginpabumon sang tagsa ang ⟨את⟩ iya sako sa duta, kag ginpukad sang tagsa ang iya sako.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "Kag nagdalagan sila"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "ginpabumon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sang tagsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya sako"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "iya sako"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "kag ginpukad"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sang tagsa"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "iya sako"
+    }
+  ],
+  "timestamp": "2026-09-21T16:15:21.540998767Z",
+  "model": "glm-5.3"
+}

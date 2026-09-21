@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kay ang hari nagasalig kay Yahweh kag sa hesed sang Elyon, indi gid siya magakuyang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "nagasalig"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "kag sa hesed"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "sang Elyon"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indi gid"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "magakuyang"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:09.729746260Z",
+  "model": "glm-5.3"
+}

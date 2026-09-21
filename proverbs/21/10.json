@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Ang kalag sang malaod nagapangandoy sang mala; ang iya kaabay indi makakita sang kaogo sa iya mga mata.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "ang kalag"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sang malaod"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "nagapangandoy"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sang mala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "makakita sang kaogo"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "sa iya mga mata"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ang iya kaabay"
+    }
+  ],
+  "timestamp": "2026-09-21T21:00:44.214030415Z",
+  "model": "glm-5.3"
+}

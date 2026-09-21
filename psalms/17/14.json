@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 17:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Gikan sa mga tawo — imo kamot, Yahweh — gikan sa mga tawo sang kalibutan, ang ila bahin ⟨ara⟩ sa kabuhi ⟨sini⟩; sa imo mga tinago imolan mo ang ila tiyan, mabusog sila sa mga anak, kag magabilin sila sang ila sobra para sa ila mga uto.",
+  "tokens": [
+    {
+      "surface": "ממתים",
+      "gloss": "gikan sa mga tawo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "imo kamot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ממתים",
+      "gloss": "gikan sa mga tawo"
+    },
+    {
+      "surface": "מחלד",
+      "gloss": "sang kalibutan"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "ang ila bahin"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "sa kabuhi"
+    },
+    {
+      "surface": "וצפינך",
+      "gloss": "imo mga tinago"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "imolan mo"
+    },
+    {
+      "surface": "בטנם",
+      "gloss": "ang ila tiyan"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "mabusog sila"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "kag magabilin sila"
+    },
+    {
+      "surface": "יתרם",
+      "gloss": "sang ila sobra"
+    },
+    {
+      "surface": "לעולליהם",
+      "gloss": "para sa ila mga uto"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:31.264647305Z",
+  "model": "glm-5.3"
+}

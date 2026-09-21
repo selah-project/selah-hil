@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 1:40",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nagsaka ang tanan nga mga tawo sa iya uluhi, kag ang mga tawo nagatutogtog sang mga tipano kag nagakalipay nga dakong kalipay, kag nabuka ang duta tungod sang ila tingog.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "nagsaka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nga mga tawo"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sa iya uluhi"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "kag ang mga tawo"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "nagatutogtog"
+    },
+    {
+      "surface": "בחללים",
+      "gloss": "sang mga tipano"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "kag nagakalipay"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "kalipay"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "dako"
+    },
+    {
+      "surface": "ותבקע",
+      "gloss": "nabuka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "sang ila tingog"
+    }
+  ],
+  "timestamp": "2026-09-21T18:26:18.820598344Z",
+  "model": "glm-5.3"
+}

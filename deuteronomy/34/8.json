@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 34:8",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Kag naghue ang mga anak nga lalaki sang Yisrael ⟨את⟩ si Moshe sa kapatagan sang Moab tatlo ka pulo ka adlaw; kag natapos ang mga adlaw sang pagpanibi kag pagpanaghoy kay Moshe.",
+  "tokens": [
+    {
+      "surface": "ויבכו",
+      "gloss": "kag naghue"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "sa kapatagan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "sang Moab"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tatlo ka pulo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ka adlaw"
+    },
+    {
+      "surface": "ויתמו",
+      "gloss": "kag natapos"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ang mga adlaw"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "sang pagpanibi"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "kag pagpanaghoy"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kay Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T17:33:49.008632161Z",
+  "model": "glm-5.3"
+}

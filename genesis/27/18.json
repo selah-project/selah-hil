@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Kag nagkadto siya sa iya amay kag nagsiling: Amay ko. Kag nagsiling ⟨siya⟩: Ara ako. Ikaw kinsa, anak ko?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "kag nagkadto siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iya amay"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Amay ko"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ara ako"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ikaw kinsa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak ko"
+    }
+  ],
+  "timestamp": "2026-09-21T22:17:09.302223990Z",
+  "model": "glm-5.3"
+}

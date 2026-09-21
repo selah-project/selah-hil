@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag gindala niya ⟨את⟩ ako sa ganghaan sang nataran, kag nakita ko, kag yari kadi, isa ka busay sang bungbong.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "kag gindala niya"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ganghaan"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "sang nataran"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "kag nakita ko"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kag yari kadi"
+    },
+    {
+      "surface": "חר",
+      "gloss": "busay"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa ka"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "sang bungbong"
+    }
+  ],
+  "timestamp": "2026-09-21T19:41:38.332133467Z",
+  "model": "glm-5.3"
+}

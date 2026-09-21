@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 11:6",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag magaabot ang isa ka dako nga singgit sa tanan nga duta sang Mitsrayim, nga wala sing pareho sini nga nabuhi kag wala na sing pareho sini nga magaabot pa.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "kag magaabot"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "singgit"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "dako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "sing pareho sini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "nabuhi"
+    },
+    {
+      "surface": "וכמהו",
+      "gloss": "kag sing pareho sini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "magaabot pa"
+    }
+  ],
+  "timestamp": "2026-09-21T16:24:06.810449807Z",
+  "model": "glm-5.3"
+}

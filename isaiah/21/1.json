@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Ang pinas-anan sang kamingawan sang dagat: subong sa mga alimpalok sa Negev nga nagalabay, gikan sa kamingawan nagakari ⟨ini⟩, gikan sa duta nga makahaladlok.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "pinas-anan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kamingawan"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "subong sa mga alimpalok"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "sa Negev"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "nga nagalabay"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "gikan sa kamingawan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nagakari"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa duta"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "nga makahaladlok"
+    }
+  ],
+  "timestamp": "2026-09-21T22:30:55.287902108Z",
+  "model": "glm-5.3"
+}

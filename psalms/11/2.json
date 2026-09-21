@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kay yari, ang mga watas nagahikot sang busog, gintanao nila ang ila pana sa gulang, sa pagpana sa kadulumduluman sa mga matarong sa tagipusuon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yari"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ang mga watas"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "nagahikot"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "sang busog"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "gintanao nila"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "ang ila pana"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "gulang"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "sa pagpana"
+    },
+    {
+      "surface": "במו",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "kadulumduluman"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "sa mga matarong"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sa tagipusuon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:36.424772470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 62,
+  "translation": "Bug-os lamang sa iya dungganan gintambalan nila nga ipatumba sia; nalipay sila sa bakak; sa iya baba ginapanalangin nila, apang sa sulod sang ila kasingkasing gintudlo nila. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Bug-os lamang"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "sa iya dungganan"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "gintambalan nila"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "nga ipatumba sia"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "nalipay sila"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "sa bakak"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "sa iya baba"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "ginapanalangin nila"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "kag sa sulod sang ila kasingkasing"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "gintudlo nila"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:06.576069480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Magkabudlay kamo kay ⟨את⟩ Yahweh, <ang iya mga balaan>, kay wala sing kulang sa mga nagakabudlay sa iya.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Magkabudlay kamo kay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "ang iya mga balaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala sing"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "kulang"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "sa mga nagakabudlay sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:02.998651886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 13:9",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag nag-abot sila tubtob sa gi sang Khidon, kag gintuyang ni Uza ⟨את⟩ iya kamot sa pagsapot sang Arka, kay nagtumba ang mga baka.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "nag-abot sila"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "gi"
+    },
+    {
+      "surface": "כידן",
+      "gloss": "sang Khidon"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "gintuyang"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "ni Uza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya kamot"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "iya kamot"
+    },
+    {
+      "surface": "לאחז",
+      "gloss": "sa pagsapot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Arka"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ang Arka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמטו",
+      "gloss": "nagtumba"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ang mga baka"
+    }
+  ],
+  "timestamp": "2026-09-21T21:54:58.766224654Z",
+  "model": "glm-5.3"
+}

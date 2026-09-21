@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 97,
+  "translation": "Kalayo ang nagakauna sa iya atubangan, kag nagasunog sa palibot sang iya mga kaaway.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Kalayo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa iya atubangan"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "nagakauna"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "kag nagasunog"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "sang iya mga kaaway"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:10.644164103Z",
+  "model": "glm-5.3"
+}

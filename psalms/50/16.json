@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 50,
+  "translation": "Kag sa daotan nagsiling ang Elohim: Ano nga may derecho ka sa paghambal sang akon mga kasuguan, kag sa pagdala sang akon kasugtanan sa imo baba?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "kag sa daotan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nagsiling"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nga may derecho ka"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "sa paghambal"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "sang akon mga kasuguan"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "kag sa pagdala"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "sang akon kasugtanan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "imo baba"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:27.086665302Z",
+  "model": "glm-5.3"
+}

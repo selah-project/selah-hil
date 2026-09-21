@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 7:15",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag mahanungod, ang madakop sang herem pagasunugon sa kalayo — ⟨את⟩ sia kag ⟨את⟩ tanan nga iya — kay gilabay niya ⟨את⟩ ang kasugtanan ni Yahweh, kag kay nagbuhat sia sing kabuang sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Kag mahanungod"
+    },
+    {
+      "surface": "הנלכד",
+      "gloss": "ang madakop"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "sang herem"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "pagasunugon"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga iya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "gilabay niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kasugtanan"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ang kasugtanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "kag kay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nagbuhat"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "sing kabuang"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T17:38:46.631850491Z",
+  "model": "glm-5.3"
+}

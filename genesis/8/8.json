@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ginpadian niya ⟨את⟩ ang salampati gikan ⟨את⟩ sa iya, sa pagtan-aw kon nag-uba na ang mga tubig gikan sa ibabaw sang nawong sang duta.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Kag ginpadian niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang salampati"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ang salampati"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "gikan ⟨את⟩ sa iya"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "sa pagtan-aw"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "kon nag-uba na"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang mga tubig"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "gikan sa ibabaw"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sang nawong"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T15:57:46.198534081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 102,
+  "translation": "Bug-os sang adlaw gintuya nila ako, ang akon mga kaaway; kag ang mga buang batok sa akon nagpanumpa sa akon.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bug-os sang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "gintuya nila ako"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ang akon mga kaaway"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "ang mga buang batok sa akon"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "nagpanumpa"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:49.872673155Z",
+  "model": "glm-5.3"
+}

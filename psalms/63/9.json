@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 63,
+  "translation": "Nagadukot ang akon kalag sa imo; sa akon gintagan sang imo too nga kamot ⟨ako⟩.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "nagadukot"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "gintagan"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "sang imo too nga kamot"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:43.750649004Z",
+  "model": "glm-5.3"
+}

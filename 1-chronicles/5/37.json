@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "kag si Azarjah nagkaanak ⟨את⟩ kang Amarjah, kag si Amarjah nagkaanak ⟨את⟩ kang Axituv;",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "nagkaanak"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Amarjah"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarjah"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "kag si Amarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkaanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Axituv"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Axituv"
+    }
+  ],
+  "timestamp": "2026-09-21T21:50:59.216118612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 59,
+  "translation": "Kay tan-awa, nagpanikad sila sa akon kalag; nagatipon labot sa akon ang mga makusog — indi ang akon pagtalikwid, kag indi ang akon sala, Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "nagpanikad sila"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "sa akon kalag"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "nagatipon"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "labot sa akon"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ang mga makusog"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ang akon pagtalikwid"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ang akon sala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:10.853931177Z",
+  "model": "glm-5.3"
+}

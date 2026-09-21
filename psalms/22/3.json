@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Elohim ko, magatawag ako sang adlaw, kag indi ka magasabat, kag sang gab-i, kag wala ⟨ako sing⟩ hunahuna nga malipaton.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ko"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "magatawag ako"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "sang adlaw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "magasabat ka"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "kag sang gab-i"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "hunahuna nga malipaton"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:37.678116198Z",
+  "model": "glm-5.3"
+}

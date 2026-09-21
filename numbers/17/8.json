@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag nagsulod si Moshe kag si Aharon sa atubangan sang tolda sang pagtigum.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Kag nagsulod"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "kag si Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "atubangan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sang tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang pagtigum"
+    }
+  ],
+  "timestamp": "2026-09-21T17:07:14.011943750Z",
+  "model": "glm-5.3"
+}

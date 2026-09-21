@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag sa ikaduha ka bulan, sa ikapito kag ikaduha ka pulo nga adlaw sang bulan, namala na ang duta.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "Kag sa bulan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikaduha"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "sa pito"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "kag duha ka pulo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nga adlaw"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sang bulan"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "namala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T15:57:00.003129697Z",
+  "model": "glm-5.3"
+}

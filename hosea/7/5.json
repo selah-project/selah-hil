@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Sa adlaw sang aton hari nagmasakit ang mga prinsipe sa kainit sang bino; gintanyag niya ang iya kamot ⟨את⟩ nga kaupod sang mga nagpalain.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "sang aton hari"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "nagmasakit"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ang mga prinsipe"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "sa kainit"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "sang bino"
+    },
+    {
+      "surface": "משך",
+      "gloss": "gintanyag"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang iya kamot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga nagpalain"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "nga kaupod sang mga nagpalain"
+    }
+  ],
+  "timestamp": "2026-09-21T20:06:49.330543434Z",
+  "model": "glm-5.3"
+}

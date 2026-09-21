@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag higugmaon mo ⟨את⟩ si Yahweh nga ang imo Elohim, kag magabantay ka sang iya pagbantay, kag sang iya mga katumanan, kag sang iya mga kahukuman, kag sang iya mga mando, sa tanan nga mga adlaw.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "kag higugmaon mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh nga ang imo Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga ang imo Elohim"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "kag magabantay ka"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "sang iya pagbantay"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "kag sang iya mga katumanan"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "kag sang iya mga kahukuman"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "kag sang iya mga mando"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "nga mga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T22:23:32.087600338Z",
+  "model": "glm-5.3"
+}

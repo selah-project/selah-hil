@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 51,
+  "translation": "Hilwsi sing labi ako sa akon kalautan, kag sa akon sala paghinawa-a ako.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "sing labi"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "Hilwsi ako"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "sa akon kalautan"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "kag sa akon sala"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "paghinawa-a ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:09.457587972Z",
+  "model": "glm-5.3"
+}

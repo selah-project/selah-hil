@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kon magdumili gid ang iya amay sa paghatag sa iya sa iya, salapi gid ang iya itimbang suno sa mahal sang mga ulay.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "magdumili"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "gid magadumili"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "iya amay"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "paghatag sa iya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "salapi"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "itimbang"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "suno sa mahal"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "sang mga ulay"
+    }
+  ],
+  "timestamp": "2026-09-21T16:30:29.079603850Z",
+  "model": "glm-5.3"
+}

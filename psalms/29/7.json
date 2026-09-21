@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Ang tingog ni Yahweh nagatuktuk sang mga laad sang kalayo.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "nagatuktuk"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "mga laad"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kalayo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:42.714738741Z",
+  "model": "glm-5.3"
+}

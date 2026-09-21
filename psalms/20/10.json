@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Yahweh, luwasa ⟨ang hari⟩; tugotan ⟨mo⟩ ang Hari magbaton sa amon sa adlaw nga magatawag kami.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "luwasa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang Hari"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "magbaton sa amon"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "nga magatawag kami"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:51.169797053Z",
+  "model": "glm-5.3"
+}

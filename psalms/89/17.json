@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Sa imo ngalan sila nagakalipay sa tanan nga adlaw, kag sa imo pagkamatarong sila ginpatimwak.",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "sa imo ngalan"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "sila nagakalipay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nga adlaw"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "kag sa imo pagkamatarong"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "sila ginpatimwak"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:39.899975279Z",
+  "model": "glm-5.3"
+}

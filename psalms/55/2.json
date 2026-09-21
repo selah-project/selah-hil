@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 55,
+  "translation": "Paminawi, Elohim, sa akon pangamuyo, kag indi pagpanag-ago sa akon pagpangadyeon.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Paminawi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "sa akon pangamuyo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "pagpanag-ago"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "sa akon pagpangadyeon"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:32.082264970Z",
+  "model": "glm-5.3"
+}

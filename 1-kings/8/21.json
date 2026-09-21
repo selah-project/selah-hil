@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "kag gintindog ko didto ang duog para sa Arka, diin yara ang kasugtanan ni Yahweh, nga iya ginhimo upod sang aton mga kag-anak, sang iya paggwa ⟨את⟩ sa ila sa duta sang Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "kag gintindog ko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ang duog"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "para sa Arka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yara"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ang kasugtanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "upod"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "sang aton mga kag-anak"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "sang iya paggwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ila"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "sa duta sang"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T18:31:07.694501166Z",
+  "model": "glm-5.3"
+}

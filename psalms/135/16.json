@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 135,
+  "translation": "Baba may sila, apang indi sila magahambal; mga mata may sila, apang indi sila makakita.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "Baba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "may sila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apang indi"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "sila magahambal"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mga mata"
+    },
+    {
+      "surface": "להם",
+      "gloss": "may sila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apang indi"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "sila makakita"
+    }
+  ],
+  "timestamp": "2026-09-21T22:40:45.250494733Z",
+  "model": "glm-5.3"
+}

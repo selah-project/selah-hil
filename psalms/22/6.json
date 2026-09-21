@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Sa imo sila nagsinggit kag naluwas; sa imo nagbutyang sila kag wala sila nahuya.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "sila nagsinggit"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "kag naluwas"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "nagbutyang sila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "sila nahuya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:02.613547957Z",
+  "model": "glm-5.3"
+}

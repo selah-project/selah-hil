@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nag-angkat ang tawo nga si Elkanah kag ang tanan sang iya balay sa paghalad kay Yahweh ⟨את⟩ ang halad sang mga adlaw kag ⟨את⟩ ang iya saad.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "nag-angkat"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "si Elkanah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sang iya balay"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "sa paghalad"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang halad sang mga adlaw"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "halad"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "sang mga adlaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya saad"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "ang iya saad"
+    }
+  ],
+  "timestamp": "2026-09-21T17:58:26.658608016Z",
+  "model": "glm-5.3"
+}

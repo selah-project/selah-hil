@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 128,
+  "translation": "Kanta sang mga Pag-angsar. Madayo ang tagsa nga nagaikog kay Yahweh, nga nagalakat sa iya mga dalan.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kanta"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sang mga Pag-angsar"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Madayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tagsa"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nagaikog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ngaalakat"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "sa iya mga dalan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:01.063394750Z",
+  "model": "glm-5.3"
+}

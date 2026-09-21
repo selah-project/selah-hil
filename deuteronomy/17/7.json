@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 17:7",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Ang kamot sang mga saksi mabtang sa iya sa nahauna agod patyon siya, kag ang kamot sang tanan nga mga tawo sa urhi; kag ipapawa mo ang kalainan sa imo kaugalahan.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "ang kamot"
+    },
+    {
+      "surface": "העדים",
+      "gloss": "sang mga saksi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "mabtang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "sa nahauna"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "agod patyon siya"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "kag ang kamot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nga mga tawo"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "sa urhi"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "kag ipapawa mo"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ang kalainan"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "sa imo kaugalahan"
+    }
+  ],
+  "timestamp": "2026-09-21T17:26:51.015086493Z",
+  "model": "glm-5.3"
+}

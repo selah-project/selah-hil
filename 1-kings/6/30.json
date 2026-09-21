@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag ⟨את⟩ salog sang balay gintabon niya sang bulawan, sa sulod kag sa guwa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "salog sang balay"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "salog"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "gintabon niya"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sang bulawan"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "sa sulod"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "kag sa guwa"
+    }
+  ],
+  "timestamp": "2026-09-21T18:29:10.764231196Z",
+  "model": "glm-5.3"
+}

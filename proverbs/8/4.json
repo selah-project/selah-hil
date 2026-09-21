@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Sa inyo, mga tawo, ako nagatawag, kag ang akon tingog ⟨amo⟩ sa mga anak sang tawo",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ako nagatawag"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "kag ang akon tingog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:57:12.095222941Z",
+  "model": "glm-5.3"
+}

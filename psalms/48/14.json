@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 48:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 48,
+  "translation": "Ibutang ninyo ang inyo kasingkasing sa iya mga paril, tan-awa ninyo ang iya mga palasyo, agod mabinal-o ninyo sa ulihi nga kaliwatan.",
+  "tokens": [
+    {
+      "surface": "שיתו",
+      "gloss": "ibutang ninyo"
+    },
+    {
+      "surface": "לבכם",
+      "gloss": "ang inyo kasingkasing"
+    },
+    {
+      "surface": "לחילה",
+      "gloss": "sa iya mga paril"
+    },
+    {
+      "surface": "פסגו",
+      "gloss": "tan-awa ninyo"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "ang iya mga palasyo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "agod"
+    },
+    {
+      "surface": "תספרו",
+      "gloss": "mabinal-o ninyo"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "sa kaliwatan"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ulihi"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:24.998259957Z",
+  "model": "glm-5.3"
+}

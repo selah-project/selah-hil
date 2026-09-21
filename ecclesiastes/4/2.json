@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag gidayaw ko ⟨את⟩ ang mga minatay nga napatay na kaysa sa mga buhi nga sila gani buhi pa subong.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "Kag gidayaw"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga minatay"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "ang mga minatay"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "nga sang una"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "napatay na"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kaysa sa"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ang mga buhi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila gani"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "buhi pa"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "subong"
+    }
+  ],
+  "timestamp": "2026-09-21T21:26:22.986878862Z",
+  "model": "glm-5.3"
+}

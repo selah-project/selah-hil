@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 112,
+  "translation": "Nagwawali, naghatag siya sa mga kabos; ang iya pagkamatarong nagatindog sa dayon; ang iya sungay magataas sa himaya.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "nagwawali"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "naghatag"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "sa mga kabos"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ang iya pagkamatarong"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "nagatindog"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "ang iya sungay"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "magataas"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "sa himaya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:20.892131806Z",
+  "model": "glm-5.3"
+}

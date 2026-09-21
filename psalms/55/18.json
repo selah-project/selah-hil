@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 55,
+  "translation": "Sa gab-i kag sa aga kag sa udto magapangamuyo ako kag magapanaghoy, kag madungog ⟨niya⟩ ang akon tingog.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "sa gab-i"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "kag sa aga"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "kag sa udto"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "magapangamuyo"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "kag magapanaghoy"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "kag madungog"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ang akon tingog"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:49.034372080Z",
+  "model": "glm-5.3"
+}

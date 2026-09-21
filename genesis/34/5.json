@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Kag nadunggan ni Yaakov nga ginpagaw-an ni Shekhem ⟨את⟩ si Dinah iya anak nga babae, kag ang iya mga anak ara ⟨את⟩ ⟨ka⟩ ang iya mga kahayopan sa uma, kag naghilom si Yaakov tubtob nga sila nag-abot.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Kag si Yaakov"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nadunggan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ginpagaw-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Dinah"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "si Dinah"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "iya anak nga babae"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "kag ang iya mga anak"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨ka⟩"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "iya mga kahayopan"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa uma"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "kag naghilom"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "באם",
+      "gloss": "nga sila nag-abot"
+    }
+  ],
+  "timestamp": "2026-09-21T16:11:12.275501933Z",
+  "model": "glm-5.3"
+}

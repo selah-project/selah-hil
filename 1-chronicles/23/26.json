@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 23:26",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag manungod sa mga Levita: wala na sing pagdala sang ⟨את⟩ Mishkan kag ⟨את⟩ tanan nga iya mga kagamitan para sa iya pag-alagad.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kag manungod"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "sa mga Levita"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "sing pagdala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ang Mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan nga iya mga kagamitan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "nga iya mga kagamitan"
+    },
+    {
+      "surface": "לעבדתו",
+      "gloss": "para sa iya pag-alagad"
+    }
+  ],
+  "timestamp": "2026-09-21T21:57:59.955502686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 94,
+  "translation": "Ginpan-os nila ang imo nga katawhan, Yahweh, kag ginluya nila ang imo nga kabilin.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "imo nga katawhan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "ginpan-os nila"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "kag ang imo nga kabilin"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ginluya nila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:34.796907109Z",
+  "model": "glm-5.3"
+}

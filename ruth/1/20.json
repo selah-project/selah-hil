@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 1:20",
+  "book": "ruth",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nagsiling siya sa ila, Indi ninyo ako tawgon nga Naomi; tawgi ninyo ako nga Mara, kay ginpait sang Shadday ang akon kaugalingon sing dako.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "kag nagsiling siya"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תקראנה",
+      "gloss": "ninyo tawgon"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "tawgi ninyo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מרא",
+      "gloss": "Mara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "המר",
+      "gloss": "ginpait"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sing dako"
+    }
+  ],
+  "timestamp": "2026-09-21T21:22:28.040358361Z",
+  "model": "glm-5.3"
+}

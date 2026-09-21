@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag nagsaka si Moshe sa bungtod, kag gintabon sang panganod ⟨את⟩ ang bungtod.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Kag nagsaka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bungtod"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "kag gintabon"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "sang panganod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bungtod"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ang bungtod"
+    }
+  ],
+  "timestamp": "2026-09-21T16:30:36.412854706Z",
+  "model": "glm-5.3"
+}

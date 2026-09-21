@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Damo ang naghambal, Sin-o ang magapakita sa aton sang maayo? Itaas mo ang suga sang imo dagway sa amon, Yahweh.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Damo"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ang naghambal"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Sin-o"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "ang magapakita sa aton"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "sang maayo"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "Itaas mo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ang suga"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sang imo dagway"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:53.347442376Z",
+  "model": "glm-5.3"
+}

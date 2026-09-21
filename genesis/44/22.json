@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Kag nagsiling kami sa among ginoo: Indi makahimo ang bata sa pagbiya ⟨את⟩ sa iya amay; ukon kon magbiya siya sang iya amay, kag ⟨את⟩ ang iya amay mangamatay.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "kag nagsiling kami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "among ginoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "makahimo"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "sa pagbiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iya amay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sa iya amay"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "kon magbiya siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya amay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ang iya amay"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "kag mangamatay"
+    }
+  ],
+  "timestamp": "2026-09-21T16:15:12.335737445Z",
+  "model": "glm-5.3"
+}

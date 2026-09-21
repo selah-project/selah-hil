@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag nahimo, sang maggwa ang mga pari sa ⟨Balaan⟩, nga ang panganod nagpun-o ⟨את⟩ sang balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag nahimo"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "sang maggwa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ang mga pari"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "⟨Balaan⟩"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "kag ang panganod"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "nagpun-o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang balay ni Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T18:30:47.502425459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag ang tanan nga mga adlaw ni Enosh amo ang lima ka tuig kag siyam ka gatos ka tuig, kag namatay siya.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "amo ang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mga adlaw"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ni Enosh"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "kag siyam"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "namatay siya"
+    }
+  ],
+  "timestamp": "2026-09-21T15:54:31.324693994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag ginpanag-iya nila ⟨את⟩ ang tanan sang utlanan sang mga Amorihon, halin sa Arnon tubtob sa Yabboq, kag halin sa kawadian tubtob sa Yarden.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "kag ginpanag-iya nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan sang utlanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "sang utlanan"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "sang mga Amorihon"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "halin sa Arnon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tubtob sa"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Yabboq"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "kag halin sa"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "kawadian"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tubtob sa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-09-21T17:52:00.220164412Z",
+  "model": "glm-5.3"
+}

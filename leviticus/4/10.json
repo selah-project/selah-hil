@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Suno sa ginkuha sa baka sang halad sang mga shelamim; kag pasohon sang saserdote ang mga ina sa halaran sang halad nga sunog.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "suno sa"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "ginkuha"
+    },
+    {
+      "surface": "משור",
+      "gloss": "baka"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "halad"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "mga shelamim"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "kag pasohon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang saserdote"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "halad nga sunog"
+    }
+  ],
+  "timestamp": "2026-09-21T16:42:51.936568857Z",
+  "model": "glm-5.3"
+}

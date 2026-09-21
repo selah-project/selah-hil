@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag ⟨את⟩ ang tanan nga taba sini ihalad niya gikan sini: ⟨את⟩ ang taba sang ikog kag ⟨את⟩ ang taba nga nagatahub ⟨את⟩ sa mga tinai.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan nga taba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "nga taba sini"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ihalad niya"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "gikan sini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang taba sang ikog"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "ang taba sang ikog"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang taba"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ang taba"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "nga nagatahub"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga tinai"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "sa mga tinai"
+    }
+  ],
+  "timestamp": "2026-09-21T16:44:11.413337232Z",
+  "model": "glm-5.3"
+}

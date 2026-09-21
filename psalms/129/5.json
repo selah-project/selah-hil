@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 129,
+  "translation": "Magakahiuya sila kag magapalagyo palikod ⟨ang tanan⟩ nga nagadumili sa Tsiyon.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "magakahiuya sila"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "kag magapalagyo"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "palikod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "nga nagadumili"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "sa Tsiyon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:50.814604999Z",
+  "model": "glm-5.3"
+}

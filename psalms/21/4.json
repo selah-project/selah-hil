@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kay ginasugata mo siya sang mga bendisyon nga maayo, kag ginapaligyon mo sa iya ulo ang korona sang purong nga bulawan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "ginasugata mo siya"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "sang mga bendisyon"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nga maayo"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "ginapaligyon mo"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "sa iya ulo"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ang korona"
+    },
+    {
+      "surface": "פז",
+      "gloss": "sang purong nga bulawan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:38:14.846860055Z",
+  "model": "glm-5.3"
+}

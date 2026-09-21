@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 6:8",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag igapos mo ini bilang tanda sa imo kamot, kag magaunta ⟨sila⟩ bilang mga potahin sa tunga sang imo mga mata.",
+  "tokens": [
+    {
+      "surface": "וקשרתם",
+      "gloss": "kag igapos mo ini"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "bilang tanda"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "imo kamot"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kag magaunta ⟨sila⟩"
+    },
+    {
+      "surface": "לטטפת",
+      "gloss": "bilang mga potahin"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa tunga sang"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "imo mga mata"
+    }
+  ],
+  "timestamp": "2026-09-21T17:18:55.820685484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag mga kamot sang tawo sa ilalom sang ila mga pako, sa ila apat ka kiliran, kag ang ila mga panyapo kag ang ila mga pako sa ila nga apat.",
+  "tokens": [
+    {
+      "surface": "וידו",
+      "gloss": "kag mga kamot"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "sa ilalom"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "sang ila mga pako"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "apat ka"
+    },
+    {
+      "surface": "רבעיהם",
+      "gloss": "kiloran nila"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "kag ang ila mga panyapo"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "kag ang ila mga pako"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "sa ila nga apat"
+    }
+  ],
+  "timestamp": "2026-09-21T19:39:41.162136454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 41,
+  "translation": "Bisan ang tawo sang akon kahusay, nga akon ginsalig sa iya, nga nangaon sang akon tinapay, nagdako sang tikod sa akon.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "sang akon kahusay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "akon ginsalig"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nangaon"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "akon tinapay"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "nagdako"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "tikod"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:30.206266174Z",
+  "model": "glm-5.3"
+}

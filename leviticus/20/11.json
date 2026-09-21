@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag ang tawo nga maghigda ⟨את⟩ sa asawa sang iya amay — ang huyahuy sang iya amay iya ginbulhag — kamatayon gid sila duha; ang ila dugo ⟨ara⟩ sa ila.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "kag ang tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "maghigda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa asawa sang iya amay"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iya amay"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "huyahuy"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iya amay"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ginbulhag"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayon"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "gid sila"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "duha"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ila dugo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T16:52:56.095709517Z",
+  "model": "glm-5.3"
+}

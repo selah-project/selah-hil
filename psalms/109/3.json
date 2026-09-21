@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 109,
+  "translation": "Kag ang mga pulong sang pagdumili naglibut sa akon, kag nagpakig-away sila sa akon nga wala sing katuungan.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "Kag ang mga pulong"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "sang pagdumili"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "naglibut sa akon"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "kag nagpakig-away sila sa akon"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "nga wala sing katuungan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:21.134524269Z",
+  "model": "glm-5.3"
+}

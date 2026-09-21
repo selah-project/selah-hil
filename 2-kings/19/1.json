@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag nahitabo, sang madungog sang hari nga si Chizkiyahu, ginsikway niya ⟨את⟩ iya mga bisti, kag nagtabon siya sang sackcloth, kag nagdulhog siya sa balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "sang madungog"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ginsikway niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya mga bisti"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "iya mga bisti"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "kag nagtabon siya"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "sang sackcloth"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kag nagdulhog siya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T22:30:17.770785996Z",
+  "model": "glm-5.3"
+}

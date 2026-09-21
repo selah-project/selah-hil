@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ang hari nga si Koresh nagguwa sang ⟨את⟩ sang mga kasangkapan sang balay ni Yahweh, nga ginpaguwa ni Nevukhadnetstsar sa Yerushalayim kag gintimo niya ini sa balay sang iya mga dios.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "kag ang hari"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koresh"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "nagguwa sang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang mga kasangkapan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mga kasangkapan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ginpaguwa"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "ni Nevukhadnetstsar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "kag gintimo niya ini"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "sang iya mga dios"
+    }
+  ],
+  "timestamp": "2026-09-21T21:39:44.863475491Z",
+  "model": "glm-5.3"
+}

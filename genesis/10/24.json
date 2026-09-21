@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag si Arpakshad natawo-an ⟨את⟩ si Shelakh; kag si Shelakh natawo-an ⟨את⟩ si Eber.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Kag si Arpakshad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "natawo-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shelakh"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelakh"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "kag si Shelakh"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "natawo-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Eber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    }
+  ],
+  "timestamp": "2026-09-21T15:58:39.378880445Z",
+  "model": "glm-5.3"
+}

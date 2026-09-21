@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "kag indi nila gintimbang ⟨את⟩ ang mga tawo nga nagahatag ⟨את⟩ sang plata sa ila mga kamot sa ihatag sa mga gumahimo sang buluhaton, kay sa pagkamatinud-anon sila nagahimo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "gintimbang nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tawo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "nagahatag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang plata"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sang plata"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ila mga kamot"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sa ihatag"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "sa mga gumahimo"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "sang buluhaton"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "sa pagkamatinud-anon"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "nagahimo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:44:51.749038097Z",
+  "model": "glm-5.3"
+}

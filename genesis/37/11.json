@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kag nagsuka ang iya mga utod sa iya, apang ang iya amay nagbantay sang ⟨את⟩ sa pulong.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "nagsuka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iya mga utod"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "kag ang iya amay"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nagbantay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pulong"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pulon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:10:48.964666902Z",
+  "model": "glm-5.3"
+}

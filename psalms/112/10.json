@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 112,
+  "translation": "Ang manogdaut makakita kag magakasuko; ang iya mga ngipon paganggotan niya kag madunli; ang handum sang mga manogdaut magakunog.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "ang manogdaut"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "makakita"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "kag magakasuko"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "ang iya mga ngipon"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "paganggotan"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "kag madunli"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "ang handum"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sang mga manogdaut"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "magakunog"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:20.892421392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 122,
+  "translation": "Kanta sang Mga Pagsaka, ni David. Nagkalipayan ako sang nagsiling sila sa akon: Ngadto sa balay ni Yahweh kita magkadto.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kanta"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sang Mga Pagsaka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Nagkalipayan ako"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "sang nagsiling"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "kita magkadto"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:45.787203123Z",
+  "model": "glm-5.3"
+}

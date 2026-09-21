@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kag nagsiling ang hari sang Yisrael sa iya mga sulugoon: Indi ba ninyo kabalo nga aton ang Ramot sang Gilad, kag kita nagapabilin nga hilum, wala nagakuha ⟨את⟩ sini sa kamot sang hari sang Aram?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iya mga sulugoon"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "indi ba ninyo kabalo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aton"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "sang Gilad"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "kag kita"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "nagapabilin nga hilum"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "wala nagakuha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sini (ang Ramot sang Gilad)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "sang Aram"
+    }
+  ],
+  "timestamp": "2026-09-21T18:39:04.536877581Z",
+  "model": "glm-5.3"
+}

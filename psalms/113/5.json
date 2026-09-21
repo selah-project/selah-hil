@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 113,
+  "translation": "Sin-o ang kaangay kay Yahweh nga Elohim naton, ang nagapataas sang iya kaugalingon agod magpungko?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "ang kaangay kay Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nga Elohim naton"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "ang nagapataas sang iya kaugalingon"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "agod magpungko"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:26.232090889Z",
+  "model": "glm-5.3"
+}

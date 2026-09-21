@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag nagkadto ang mensahe, kag nagkadto-tulod, kag ginpahibalo kay David ⟨את⟩ ang tanan nga ginpakanon sa iya ni Yoab.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kag nagkadto"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ang mensahe"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kag nagkadto-tulod"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "kag ginpahibalo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ginpakanon sa iya"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ni Yoab"
+    }
+  ],
+  "timestamp": "2026-09-21T18:17:01.959188282Z",
+  "model": "glm-5.3"
+}

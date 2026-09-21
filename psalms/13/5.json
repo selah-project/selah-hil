@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 13:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "⟨Agod nga indi⟩ maghambal ang akon kaaway, \"Nakaya ko siya\"; kag magakalipay ang mga nagapigos sa akon kon matumba ako.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "agod nga indi"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "maghambal"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ang akon kaaway"
+    },
+    {
+      "surface": "יכלתיו",
+      "gloss": "nakaya ko siya"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ang mga nagapigos sa akon"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "magakalipay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "matumba"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:21.968240096Z",
+  "model": "glm-5.3"
+}

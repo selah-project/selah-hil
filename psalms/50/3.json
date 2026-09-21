@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 50,
+  "translation": "Magakadto ang aton Elohim, kag indi ⟨siya⟩ magpulong nga garukum: kalayo nga mokaon sa iya atubangan, kag sa iya palibot may makusog nga bagyo ⟨nga nagakalyo⟩.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "magakadto"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ang aton Elohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "magpulong nga garukum"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kalayo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa iya atubangan"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "nga mokaon"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "kag sa iya palibot"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "may makusog nga bagyo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨nga nagakalyo⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:38.353051686Z",
+  "model": "glm-5.3"
+}

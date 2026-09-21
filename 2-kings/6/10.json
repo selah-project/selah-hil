@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 6:10",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag ginsugo sang hari sang Yisrael sa duog nga ginhambal sa iya sang tawo sang Elohim kag ginpahimatyon niya, kag nagbantay didto — indi isa kag indi duha ka higayon.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "duog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ginhambal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "והזהירה",
+      "gloss": "kag ginpahimatyon niya"
+    },
+    {
+      "surface": "ונשמר",
+      "gloss": "kag nagbantay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "duha ka higayon"
+    }
+  ],
+  "timestamp": "2026-09-21T18:41:30.246714908Z",
+  "model": "glm-5.3"
+}

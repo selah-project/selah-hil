@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag nabuhi si Nakhor siyam kag duha ka pulo ka tuig, kag nagatawo ⟨את⟩ si Terak.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "nabuhi"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nakhor"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "siyam"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "kag duha ka pulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "kag nagatawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terak"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terak"
+    }
+  ],
+  "timestamp": "2026-09-21T15:58:37.715176408Z",
+  "model": "glm-5.3"
+}

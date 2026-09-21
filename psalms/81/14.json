@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 81,
+  "translation": "O kon ang akon nga banwa nagpatalingnata sa akon, kag si Yisrael nagalakat sa akon mga dalan!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "O kon"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ang akon nga banwa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nagpatalingnata"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "si Yisrael"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "sa akon mga dalan"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "nagalakat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:51.353894468Z",
+  "model": "glm-5.3"
+}

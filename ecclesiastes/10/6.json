@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Ginbutang ang ulol sa mga nadako nga kahitaasan, kag ang mga mangadamon nagapungko sa mga kabitaraan.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "ginbutang"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "ang ulol"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "sa mga kahitaasan"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nga nadako"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "kag ang mga mangadamon"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "sa mga kabitaraan"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "napungko"
+    }
+  ],
+  "timestamp": "2026-09-21T21:26:46.351028380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 71,
+  "translation": "Kay nagsiling ang akon mga kaaway ⟨tungod sa akon⟩, kag ang mga nagabantay sang akon kalag nagtipon sa paghimo sang plano magkahiusa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nagsiling"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ang akon mga kaaway"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tungod sa akon"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "kag ang mga nagabantay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sang akon kalag"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "nagtipon sa paghimo sang plano"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magkahiusa"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:15.840838781Z",
+  "model": "glm-5.3"
+}

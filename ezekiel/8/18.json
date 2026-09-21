@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 8:18",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ako man magabuhat sa akig; indi magaluluy ang akon mata kag indi ako magakaluy; kag bisan magasinggit sila sa akon mga dalunggan sang dakung tingog, indi ako magapati ⟨את⟩ ila.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kag bisan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "magabuhat"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "sa akig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "magaluluy"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang akon mata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "magakaluy ako"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "kag magasinggit sila"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "sa akon mga dalunggan"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakung"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "magapati ako"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ila (ang mga tawo nga nagasinggit)"
+    }
+  ],
+  "timestamp": "2026-09-21T19:43:09.307120051Z",
+  "model": "glm-5.3"
+}

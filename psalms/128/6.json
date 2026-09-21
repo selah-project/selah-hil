@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 128,
+  "translation": "kag magakita ka sang mga anak sang imo mga anak; hidaet sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "kag magakita ka"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "sang imo mga anak"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "hidaet"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:00.114791427Z",
+  "model": "glm-5.3"
+}

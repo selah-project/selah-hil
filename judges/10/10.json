@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag nagsangit ang mga anak sang Yisrael kay Yahweh nga nagaingon: Nakasala kami sa imo, kag kay ginbuhin namon ⟨את⟩ ang aton Elohim kag gin-alagad namon ⟨את⟩ ang mga Baal.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Kag nagsangit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "Nakasala kami"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "kag kay"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "ginbuhin namon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang aton Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ang aton Elohim"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "kag gin-alagad namon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga Baal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "ang mga Baal"
+    }
+  ],
+  "timestamp": "2026-09-21T17:48:55.284296811Z",
+  "model": "glm-5.3"
+}

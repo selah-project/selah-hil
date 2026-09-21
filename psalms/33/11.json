@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Ang tambag ni Yahweh magatindog sing dayon, ang mga hunahuna sang iya tagipusuon sa tagsa ka kaliwatan kag kaliwatan.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "Ang tambag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sing dayon"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "magatindog"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "ang mga hunahuna"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sang iya tagipusuon"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "sa tagsa ka kaliwatan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kag kaliwatan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:00.584312618Z",
+  "model": "glm-5.3"
+}

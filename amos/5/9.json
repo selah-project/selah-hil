@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 5:9",
+  "book": "amos",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Ang nagapadali sang kadaot sa ⟨mga⟩ makusog, kag magakari ang kadaot sa pinaderan.",
+  "tokens": [
+    {
+      "surface": "המבליג",
+      "gloss": "ang nagapadali"
+    },
+    {
+      "surface": "שד",
+      "gloss": "kadaot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "makusog"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "kag ang kadaot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "pinaderan"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "magakari"
+    }
+  ],
+  "timestamp": "2026-09-21T20:10:22.230260685Z",
+  "model": "glm-5.3"
+}

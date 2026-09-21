@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 103,
+  "translation": "Suno sa pagmalo-oy sang amay ⟨sa⟩ iya mga anak, ginalo-oy ni Yahweh ⟨sa⟩ mga nagakaila sa iya.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "suno sa pagmalo-oy"
+    },
+    {
+      "surface": "אב",
+      "gloss": "sang amay"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sa⟩"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "iya mga anak"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "ginalo-oy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sa⟩"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "mga nagakaila sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:19.066295670Z",
+  "model": "glm-5.3"
+}

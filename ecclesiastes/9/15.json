@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag may nakita sa sini nga isa ka tawo nga kabos, maalam; kag ginaluwas niya ⟨את⟩ ang dakbanwa paagi sa iya kaalam; apang wala maghandum ⟨את⟩ ang tawo ⟨sa⟩ ⟨tungod⟩ sang tawo nga kabos nga ina.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "kag may nakita"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sa sini"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nga tawo"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "kabos"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "maalam"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "kag ginaluwas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dakbanwa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang dakbanwa"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "sa iya kaalam"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "apang ang tawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "maghandum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tawo nga kabos"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "nga kabos"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nga ina"
+    }
+  ],
+  "timestamp": "2026-09-21T21:27:20.664219721Z",
+  "model": "glm-5.3"
+}

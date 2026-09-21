@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 2:7",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag nagsiling ang iya igsoon nga babae sa anak nga babae ni Paro: Magkadto ako kag tawgon ko para sa imo isa ka babae nga nagapasonga sa mga babae nga Ebreo, agod magpasonga siya para sa imo ⟨את⟩ ang bata?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "ang iya igsoon nga babae"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babae"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "magkadto ako"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "kag tawgon ko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa imo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "isa ka babae"
+    },
+    {
+      "surface": "מינקת",
+      "gloss": "nga nagapasonga"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "mga babae nga Ebreo"
+    },
+    {
+      "surface": "ותינק",
+      "gloss": "kag magpasonga siya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa imo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bata"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ang bata"
+    }
+  ],
+  "timestamp": "2026-09-21T16:19:23.367949812Z",
+  "model": "glm-5.3"
+}

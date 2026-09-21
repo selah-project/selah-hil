@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag gintukod niya ⟨את⟩ ang Bet-Khoron nga itaas kag ⟨את⟩ ang Bet-Khoron nga ubos, mga lungsod nga pinakusgan, ⟨mga⟩ pader, mga pultahan kag mga barahan;",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "kag gintukod niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Bet-Khoron nga itaas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "-Khoron"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "nga itaas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Bet-Khoron nga ubos"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "-Khoron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "nga ubos"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga lungsod"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "nga pinakusgan"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "mga pader"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "mga pultahan"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "kag mga barahan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:04:45.926067328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag gintipon ko ⟨את⟩ ang akon mga mata kag nakita ko, kag yari kadi, apat ka mga sungay.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "kag gintipon ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon mga mata"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang akon mga mata"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "kag nakita ko"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kag yari kadi"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "apat"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "ka mga sungay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:19:07.160758824Z",
+  "model": "glm-5.3"
+}

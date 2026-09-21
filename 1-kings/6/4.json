@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag ginhimo niya para sa balay mga bintana nga makitid ang pag-abre, mga ginpanag.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kag ginhimo niya"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "para sa balay"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "mga bintana"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "nga makitid ang pag-abre"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "mga ginpanag"
+    }
+  ],
+  "timestamp": "2026-09-21T18:28:42.825799496Z",
+  "model": "glm-5.3"
+}

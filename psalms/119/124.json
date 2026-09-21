@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 124,
+  "ref": "psalms 119:124",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Buhati ang imo nga sulugoon suno sa imo nga hesed, kag tudloi ako sang imo nga mga balaod.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "buhati"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨sa⟩"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ang imo nga sulugoon"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "suno sa imo nga hesed"
+    },
+    {
+      "surface": "וחקיך",
+      "gloss": "kag sang imo nga mga balaod"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "tudloi ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:50:19.279390520Z",
+  "model": "glm-5.3"
+}

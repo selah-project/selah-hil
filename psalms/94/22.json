@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 94,
+  "translation": "Kag si Yahweh nangin ⟨ang⟩ akon malig-on nga kinarapakpan, kag ang akon Elohim nangin bato sang akon kalikupan.",
+  "tokens": [
+    {
+      "surface": "והי",
+      "gloss": "kag nangin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "malig-on nga kinarapakpan"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "kag ang akon Elohim"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "bato"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "sang akon kalikupan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:15.138829420Z",
+  "model": "glm-5.3"
+}

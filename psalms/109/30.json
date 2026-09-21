@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 109,
+  "translation": "Magasalamat ako kay Yahweh sing dako sa akon baba, kag sa tunga sang madamo dayawon ko siya.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "magasalamat ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sing dako"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "sa akon baba"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "kag sa tunga"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "sang madamo"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "dayawon ko siya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:57.141163434Z",
+  "model": "glm-5.3"
+}

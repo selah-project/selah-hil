@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 124,
+  "translation": "Kanta sang mga Pag-angat, ni David. Kon wala si Yahweh nga ⟨ara⟩ sa aton — hambalon yadon sang Yisrael:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kanta"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sang mga Pag-angat"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "kon wala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "nga ⟨ara⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa aton"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "hambalon"
+    },
+    {
+      "surface": "נא",
+      "gloss": "yadon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:48.674668067Z",
+  "model": "glm-5.3"
+}

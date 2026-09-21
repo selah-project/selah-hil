@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "kag ⟨את⟩ ang mga nagapakluad sa mga atip sa Tsevaot sang mga langit, kag ⟨את⟩ ang mga nagapakluad, ang mga napanumpa kay Yahweh kag ang mga napanumpa sa ila hari",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga nagapakluad"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "ang mga nagapakluad"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "mga atip"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "sa Tsevaot"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sang mga langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga nagapakluad"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "ang mga nagapakluad"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "ang mga napanumpa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "kag ang mga napanumpa"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "sa ila hari"
+    }
+  ],
+  "timestamp": "2026-09-21T20:17:21.633960767Z",
+  "model": "glm-5.3"
+}

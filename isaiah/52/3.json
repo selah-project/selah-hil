@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 52,
+  "translation": "Kay amo ini ang ginsiling ni Yahweh: sing wala sing bayad kamo ginbaligya, kag indi sang salapi kamo pagabawion.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כה",
+      "gloss": "amo ini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ginsiling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "sing wala sing bayad"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "kamo ginbaligya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "sang salapi"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "kamo pagabawion"
+    }
+  ],
+  "timestamp": "2026-09-21T19:09:52.547334923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Sa Yahweh magadayaw ang akon kalag; madungog ini sang mga maamo kag magakalipay sila.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Sa Yahweh"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "magadayaw"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "madungog"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "sang mga maamo"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "kag magakalipay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:40.258826191Z",
+  "model": "glm-5.3"
+}

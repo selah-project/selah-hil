@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 13:4",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag ang bug-os ⟨nga⟩ Yisrael nakabati nga nagasiling: Gintama ni Shaul ⟨את⟩ ang guwardiya sang mga Pelishteo, kag nagbaho man sing malaot ang Yisrael sa mga Pelishteo; kag nagsinggit ang katawhan pag-uli kay Shaul sa Gilgal.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Kag ang bug-os"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nakabati"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "Gintama"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang guwardiya sang mga Pelishteo"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "ang guwardiya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sang mga Pelishteo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kag man"
+    },
+    {
+      "surface": "נבאש",
+      "gloss": "nagbaho sing malaot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "sa mga Pelishteo"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "kag nagsinggit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pag-uli"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kay Shaul"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "sa Gilgal"
+    }
+  ],
+  "timestamp": "2026-09-21T18:02:59.532760243Z",
+  "model": "glm-5.3"
+}

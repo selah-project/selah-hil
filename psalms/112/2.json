@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 112,
+  "translation": "Gamhanan sa duta ang iya kaliwat; bulahan ang henerasyon sang mga matarong.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Gamhanan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨magakabuhi⟩"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "ang iya kaliwat"
+    },
+    {
+      "surface": "דור",
+      "gloss": "henerasyon"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "sang mga matarong"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "bulahan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:49.342188071Z",
+  "model": "glm-5.3"
+}

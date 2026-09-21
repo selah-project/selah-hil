@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kulang ako sang mga ulol, nga gidala ninyo ⟨את⟩ ini nga tawo sa pagpa-ulol diri sa akon? Magasulod bala ini nga tawo sa akon balay?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "kulang"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "sang mga ulol"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "gidala ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ini nga tawo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "sa pagpa-ulol"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "diri sa akon"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini nga"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "magasulod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "akon balay"
+    }
+  ],
+  "timestamp": "2026-09-21T18:07:46.630398757Z",
+  "model": "glm-5.3"
+}

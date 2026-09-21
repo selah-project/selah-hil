@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 77,
+  "translation": "Kag pagahunahunaon ko ang tanan imo nga buluhaton, kag parte sa imo mga ginbuhat magasiling ako.",
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "kag pagahunahunaon ko"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "imo nga buluhaton"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "kag parte sa imo mga ginbuhat"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "magasiling ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:17.963157317Z",
+  "model": "glm-5.3"
+}

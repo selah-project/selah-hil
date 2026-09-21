@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ⟨את⟩ sang balay sang Yehudah kaluoyan ko, kag maluwas sila paagi kay Yahweh nga ila Elohim, kag indi ko sila luwason sa pana kag sa espada kag sa gera, sa mga kabayo kag sa mga nagsakay sang kabayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang balay sang Yehudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "kaluoyan ko"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "kag maluwas sila"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "paagi kay Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "nga ila Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "luwason ko sila"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "sa pana"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "kag sa espada"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "kag sa gera"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "sa mga kabayo"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "kag sa mga nagsakay sang kabayo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:04:42.190635310Z",
+  "model": "glm-5.3"
+}

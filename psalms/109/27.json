@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 109,
+  "translation": "Kag makahibalo sila nga ina ang imo kamot; ikaw, Yahweh, ang naghimo ⟨sini⟩.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Kag makahibalo sila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang imo kamot"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ina"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "ang naghimo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:43.282127224Z",
+  "model": "glm-5.3"
+}

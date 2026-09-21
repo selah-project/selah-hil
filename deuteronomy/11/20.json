@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag isulat mo sila sa mga haligi sang ganghaan sang imo balay kag sa imo mga ganghaan.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "kag isulat mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "mga haligi sang ganghaan"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "imo balay"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "kag sa imo mga ganghaan"
+    }
+  ],
+  "timestamp": "2026-09-21T17:21:57.593715774Z",
+  "model": "glm-5.3"
+}

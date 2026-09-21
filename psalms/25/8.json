@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Maayo kag matarong si Yahweh; bangod sini magatudlo siya sang mga makasasala sa dalan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Maayo"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "kag matarong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "bangod"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sini"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "magatudlo siya"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "sang mga makasasala"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:46.801176387Z",
+  "model": "glm-5.3"
+}

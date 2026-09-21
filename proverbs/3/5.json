@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Magtuo kay Yahweh sang bug-os mo nga kasingkasing, kag indi magpasandig sa imo kaugalingon nga pag-intiende.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "magtuo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sang bug-os"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "imo nga kasingkasing"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "imo nga kaugalingon nga pag-intiende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "magpasandig"
+    }
+  ],
+  "timestamp": "2026-09-21T20:55:48.788665772Z",
+  "model": "glm-5.3"
+}

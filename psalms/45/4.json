@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 45,
+  "translation": "Isul-ob ang imo sundang sa imo hitad, gamhanan; ang imo himaya kag ang imo kadungganan.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "Isul-ob"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "ang imo sundang"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "imo hitad"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "gamhanan"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ang imo himaya"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "kag ang imo kadungganan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:25.249963867Z",
+  "model": "glm-5.3"
+}

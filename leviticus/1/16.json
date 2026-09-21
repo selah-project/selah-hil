@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag kuhaon niya ⟨את⟩ iya lalamunan kag ang iya balahibo, kag itugya ⟨את⟩ iya sa may halaran sa sidlangan, sa duog sang abo.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "kag kuhaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya lalamunan"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "iya lalamunan"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "kag ang iya balahibo"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "kag itugya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iya (ang lalamunan kag balahibo)"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "sa may"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "sa sidlangan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "duog"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "sang abo"
+    }
+  ],
+  "timestamp": "2026-09-21T22:21:16.578960085Z",
+  "model": "glm-5.3"
+}

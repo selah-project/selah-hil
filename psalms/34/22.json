@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Magapamatay ang kalaotan sang malaot, kag ang mga nagadumili sa matarong magakasalanan.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "magapamatay"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sang malaot"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ang kalaotan"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "kag ang mga nagadumili"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sa matarong"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "magakasalanan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:10.178036172Z",
+  "model": "glm-5.3"
+}

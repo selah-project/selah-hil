@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 7:10",
+  "book": "zechariah",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag ang babayi nga wala sing bana kag ang ulila, ang dayo kag ang kabos, indi ninyo pag-usigon; kag ang kadaot sang tawo sa iya utod, indi ninyo pag-isipon sa inyo kasingkasing.",
+  "tokens": [
+    {
+      "surface": "ואלמנה",
+      "gloss": "kag ang babayi nga wala sing bana"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "kag ang ulila"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ang dayo"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "kag ang kabos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תעשקו",
+      "gloss": "pag-usigon ninyo"
+    },
+    {
+      "surface": "ורעת",
+      "gloss": "kag ang kadaot"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sang tawo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sa iya utod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תחשבו",
+      "gloss": "pag-isipon ninyo"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "sa inyo kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-21T20:18:19.302758691Z",
+  "model": "glm-5.3"
+}

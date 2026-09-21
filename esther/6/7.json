@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag nagsiling si Haman sa hari, Sa tawo nga gusto sang hari nga dungganon siya —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "המן",
+      "gloss": "si Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "gusto"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "nga dungganon siya"
+    }
+  ],
+  "timestamp": "2026-09-21T21:29:34.040650656Z",
+  "model": "glm-5.3"
+}

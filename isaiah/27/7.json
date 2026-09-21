@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Subong bala sang pagbatok sang nagbatok sa iya, amo ba ginto-o niya siya? Ukun subong sang pagpatay sa iya sang iya mga ginpatay, ginpatay bala niya siya?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "subong bala sang pagbatok"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "sang nagbatok sa iya"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "ginto-o niya siya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukun"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "subong sang pagpatay"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "sa iya sang iya mga ginpatay"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ginpatay bala niya siya"
+    }
+  ],
+  "timestamp": "2026-09-21T19:00:09.488624075Z",
+  "model": "glm-5.3"
+}

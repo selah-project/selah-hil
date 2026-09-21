@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 16:10",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Himayaa ninyo ang iya balaan nga ngalan; magakalipay ang kasingkasing sang mga nangita kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Himayaa ninyo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ang … nga ngalan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "iya balaan"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "magakalipay"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "mga nangita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T21:54:19.939324791Z",
+  "model": "glm-5.3"
+}

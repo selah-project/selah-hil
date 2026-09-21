@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag gindala sang katawhan ⟨את⟩ ang iya baas bag-o pa ini mag-alsa, ang ila mga batya nga ginputos sang ila mga bado sa ila mga abaga.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "gindala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya baas"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "ang iya baas"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "bag-o pa"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "mag-alsa"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "ang ila mga batya"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "ginputos"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "sang ila mga bado"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "ila mga abaga"
+    }
+  ],
+  "timestamp": "2026-09-21T16:25:25.979843614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kay gintubos ni Yahweh ⟨את⟩ si Yaakov, kag ginbaklu niya ini sa kamot sang labaw nga gamhanan sa iya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "gintubos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "kag ginbaklu niya ini"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "gamhanan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T19:27:49.412523487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 87,
+  "translation": "Kag ang mga magkanta subong sang mga nagsasayaw ⟨gasiling⟩: tanan nga akon mga tubod yara sa imo.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "kag ang mga magkanta"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "subong sang mga nagsasayaw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "nga akon mga tubod"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:51.777429151Z",
+  "model": "glm-5.3"
+}

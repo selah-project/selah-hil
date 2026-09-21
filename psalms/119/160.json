@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Ang punò sang imo pulong ⟨is⟩ kamatuoran, kag sa dayon ⟨nagapabilin⟩ tanan sang imo mga hatol sang imo katarungan.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "punò"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "sang imo pulong"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kamatuoran"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "kag sa dayon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mga hatol"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "sang imo katarungan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:40:36.461010339Z",
+  "model": "glm-5.3"
+}

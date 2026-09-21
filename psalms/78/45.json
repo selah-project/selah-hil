@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Nagapadala siya sa ila sang daghag sang langaw kag nagakaon ini sa ila, kag sang mga baki nga nagalaglag sa ila.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "nagapadala siya"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "daghag sang langaw"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "kag nagakaon ini sa ila"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "kag sang mga baki"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "nga nagalaglag sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:19.968275495Z",
+  "model": "glm-5.3"
+}

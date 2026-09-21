@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 34:34",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Kag kon magkadto si Moshe sa atubang ni Yahweh sa paghambal ⟨אתו⟩, ginkuha niya ⟨את⟩ ang maswe tubtob sa iya paggwa; kag kon maggwa siya, magahambal siya sa mga anak sang Yisrael ⟨את⟩ ang ginsogo sa iya.",
+  "tokens": [
+    {
+      "surface": "ובבא",
+      "gloss": "kag kon magkadto"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "sa paghambal"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "ginkuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang maswe"
+    },
+    {
+      "surface": "המסוה",
+      "gloss": "ang maswe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "צאתו",
+      "gloss": "sa iya paggwa"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "kag kon maggwa"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "magahambal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ginsogo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "ginsogo"
+    }
+  ],
+  "timestamp": "2026-09-21T16:36:16.934309233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Tan-awa kag sabti ako, Yahweh nga akon Elohim; palaguia ang akon mga mata, basi indi ako matulog ang tulog sang kamatayon,",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "sabti ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "akon Elohim"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "palaguia"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "akon mga mata"
+    },
+    {
+      "surface": "פן",
+      "gloss": "basi indi"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "matulog"
+    },
+    {
+      "surface": "המות",
+      "gloss": "sang kamatayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:05.132130152Z",
+  "model": "glm-5.3"
+}

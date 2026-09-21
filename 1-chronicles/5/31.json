@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag si Avishua natawo-an ⟨את⟩ si Bukki, kag si Bukki natawo-an ⟨את⟩ si Uzzi.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "Kag si Avishua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Bukki"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "si Bukki"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "kag si Bukki"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "natawo-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Uzzi"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "si Uzzi"
+    }
+  ],
+  "timestamp": "2026-09-21T21:50:38.799491804Z",
+  "model": "glm-5.3"
+}

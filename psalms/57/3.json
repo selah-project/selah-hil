@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 57,
+  "translation": "Matawag ako sa Elohim nga Elyon, sa El nga nagatuman ⟨sang iya buluhaton⟩ sa akon.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "matawag ako"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "nga Elyon"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "sa El"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "nagatuman"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:26.320230384Z",
+  "model": "glm-5.3"
+}

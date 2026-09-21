@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Sabbath nga bug-os nga pagpahuway ini para sa inyo, kag painubanon ninyo ⟨את⟩ ang inyo mga kalag; sa ika-siyam nga adlaw sang bulan, sa kagabhian, gikan sa kagabhian tubtob sa kagabhian, ipahuway ninyo ang inyo Sabbath.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Sabbath"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "nga bug-os nga pagpahuway"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para sa inyo"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "kag painubanon ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang inyo mga kalag"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "ang inyo mga kalag"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "sa ika-siyam"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "nga adlaw sang bulan"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "sa kagabhian"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "gikan sa kagabhian"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob sa"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kagabhian"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "ipahuway ninyo"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "ang inyo Sabbath"
+    }
+  ],
+  "timestamp": "2026-09-21T16:54:16.029440816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "kag ⟨את⟩ ang Khukok kag ⟨את⟩ ang iya mga kasilinganan, kag ⟨את⟩ ang Rekhov kag ⟨את⟩ ang iya mga kasilinganan",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Khukok"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "ang Khukok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya mga kasilinganan"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ang iya mga kasilinganan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Rekhov"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ang Rekhov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang iya mga kasilinganan"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ang iya mga kasilinganan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:51:41.968583155Z",
+  "model": "glm-5.3"
+}

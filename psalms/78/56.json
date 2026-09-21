@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Kag gintimbahan kag ginsuklan nila ⟨את⟩ sang Elohim nga Labaw, kag ang iya mga pagsaksi wala nila gintipigan.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "gintimbahan nila"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "ginsuklan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang Elohim nga Labaw"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "nga Labaw"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "kag ang iya mga pagsaksi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "gintipigan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:19.386815432Z",
+  "model": "glm-5.3"
+}

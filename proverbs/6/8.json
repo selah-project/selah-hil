@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Nagatandog sang iya pagkaon sa ting-init, kag nagatipon sang iya kan-on sa ting-ani.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "Nagatandog"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "sa ting-init"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "sang iya pagkaon"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "kag nagatipon"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "sa ting-ani"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "sang iya kan-on"
+    }
+  ],
+  "timestamp": "2026-09-21T20:56:39.500036502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Rako lamang ang katawohan nagahalad sa ⟨mga⟩ mataas nga mga duog, kay wala pa ginpATindugan ⟨ang⟩ balay para sa Ngalan ni Yahweh tubtob sa mga adlaw nga ina.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "rako lamang"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawohan"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "nagahalad"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "sa mataas nga mga duog"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala pa"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "ginpatindugan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "para sa Ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob sa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mga adlaw"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "nga ina"
+    }
+  ],
+  "timestamp": "2026-09-21T18:27:28.336037027Z",
+  "model": "glm-5.3"
+}

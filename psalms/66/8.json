@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 66,
+  "translation": "Magpanalangin kamo, mga pungsod, sa aton Elohim, kag pagan-ga ang tingog sang iya pagdayaw.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Magpanalangin kamo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mga pungsod"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "sa aton Elohim"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "kag pagan-ga"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "sang iya pagdayaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:29.883554367Z",
+  "model": "glm-5.3"
+}

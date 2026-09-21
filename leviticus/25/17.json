@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag indi ninyo pag-igda ang tawo ⟨את⟩ iya kaupod, kag magakadlagan ikaw sa imo Elohim, kay ako si Yahweh ang inyo Elohim.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "pag-igda ninyo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya kaupod"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "iya kaupod"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "kag magakadlagan ikaw"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "sa imo Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ang inyo Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T16:55:32.310687090Z",
+  "model": "glm-5.3"
+}

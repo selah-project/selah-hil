@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Sa nahauna nga bulan, sa isa ka adlaw sang bulan, itindog mo ⟨את⟩ ang tianggalan, ang tolda sang pagtigayong.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Sa … adlaw"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "nga bulan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "nahauna"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "sa isa ka adlaw"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sang bulan"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "itindog mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tianggalan"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "tianggalan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sang pagtigayong"
+    }
+  ],
+  "timestamp": "2026-09-21T16:41:51.674311102Z",
+  "model": "glm-5.3"
+}

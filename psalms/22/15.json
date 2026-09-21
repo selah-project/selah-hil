@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Ginula ako parang tubig, kag nagkabulag ang tanan ko nga mga tul-an; ang akon kasing-kasing nahimo ⟨nga⟩ parang kandila, natunaw sa tunga sang akon tinae.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "parang tubig"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "ginula ako"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "kag nagkabulag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "ko nga mga tul-an"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nahimo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang akon kasing-kasing"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "parang kandila"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "natunaw"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "sang akon tinae"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:50.771895699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Indi siya magasigwa, kag indi siya magapatindog, kag indi niya pagapagmabahin sa gwa ang iya tingog.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "ייצעק",
+      "gloss": "magasigwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "magapatindog"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "pagapagmabahin"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "sa gwa"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "ang iya tingog"
+    }
+  ],
+  "timestamp": "2026-09-21T19:07:18.100890248Z",
+  "model": "glm-5.3"
+}

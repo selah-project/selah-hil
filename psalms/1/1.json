@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Mapaladayun ang tawo nga wala maglakat sa tambag sang mga balasubas, kag sa dalan sang mga manugsala wala nagtindog, kag sa lingkuranan sang mga manuya wala naglingkod.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Mapaladayun"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "maglakat"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "sa tambag"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sang mga balasubas"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "kag sa dalan"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "sang mga manugsala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nagtindog"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "kag sa lingkuranan"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "sang mga manuya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "naglingkod"
+    }
+  ],
+  "timestamp": "2026-09-21T20:23:42.309943250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 51:5",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 51,
+  "translation": "Malapit ang akon pagkamatarong, nagagua ang akon pagluwas, kag ang akon kamot magahukom sa mga pungsod; sa akon magahulat ang mga isla, kag sa akon kamot magalaum sila.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "malapit"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "ang akon pagkamatarong"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "nagua"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ang akon pagluwas"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "kag ang akon kamot"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mga pungsod"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "magahukom"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "איים",
+      "gloss": "mga isla"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "magahulat"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "akon kamot"
+    },
+    {
+      "surface": "ייחלון",
+      "gloss": "magalaum"
+    }
+  ],
+  "timestamp": "2026-09-21T19:10:26.217437008Z",
+  "model": "glm-5.3"
+}

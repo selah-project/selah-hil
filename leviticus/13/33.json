@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "kag magapahubas ⟨siya⟩, apang ⟨את⟩ ang netek indi niya paghubason; kag isasar sang pari ⟨את⟩ ang netek pito ka adlaw, ikaduha.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "kag magapahubas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "apang ⟨את⟩",
+      "marks": "ang netek"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ang netek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "niya paghubason"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "kag isasar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang pari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang netek"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ang netek"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito ka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ikaduha"
+    }
+  ],
+  "timestamp": "2026-09-21T16:48:06.230509932Z",
+  "model": "glm-5.3"
+}

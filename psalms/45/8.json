@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 45,
+  "translation": "Ginhigugma mo ang pagkamatarong kag ginkadlawan mo ang pagkawalang-matarong; gani ginpahid sa imo ni Elohim, ang imo Elohim, sang lana sang kalipay labaw sa imo mga kaupod.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ginhigugma mo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ang pagkamatarong"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "kag ginkadlawan mo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ang pagkawalang-matarong"
+    },
+    {
+      "surface": "על",
+      "gloss": "gani"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tungod sini"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "ginpahid sa imo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ang imo Elohim"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "sang lana"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "sang kalipay"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "labaw sa imo mga kaupod"
+    }
+  ],
+  "timestamp": "2026-09-21T20:33:46.086812509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ⟨את⟩ ang karnero ginpira niya sa iya mga piraso, kag ginsunog ni Moshe ⟨את⟩ ang ulo kag ⟨את⟩ ang mga piraso kag ⟨את⟩ ang taba.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang karnero"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ang karnero"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "ginpira niya"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "sa iya mga piraso"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ginsunog"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ulo"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ang ulo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga piraso"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "ang mga piraso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang taba"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "ang taba"
+    }
+  ],
+  "timestamp": "2026-09-21T16:46:08.865616748Z",
+  "model": "glm-5.3"
+}

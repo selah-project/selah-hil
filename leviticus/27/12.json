@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Kag magabana-bana ang kohen ⟨את⟩ ini ⟨sa⟩ tinagmilang sang maayo ukon ⟨sa⟩ tinagmilang sang malaaut; suno sa imo pagbana-bana, ikaw nga kohen, amo ina ⟨ang⟩ mabutang.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "kag magabana-bana"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang kohen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ini (ang sapat)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tinagmilang"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ukon tinagmilang"
+    },
+    {
+      "surface": "רע",
+      "gloss": "malaaut"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "suno sa imo pagbana-bana"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ikaw nga kohen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "amo ina"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mabutang"
+    }
+  ],
+  "timestamp": "2026-09-21T22:21:13.729565849Z",
+  "model": "glm-5.3"
+}

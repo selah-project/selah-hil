@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Kag indi na magalantaw ang mga mata sang mga nagakita, kag ang mga dalunggan sang mga nagapati-o magapamati sing mabaskog.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kag indi"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "na magalantaw"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang mga mata"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "sang mga nagakita"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "kag ang mga dalunggan"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "sang mga nagapati-o"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "magapamati sing mabaskog"
+    }
+  ],
+  "timestamp": "2026-09-21T19:01:33.057831504Z",
+  "model": "glm-5.3"
+}

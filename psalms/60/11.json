@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 60,
+  "translation": "Sin-o ang magadala sa akon sa siudad sang kuta? Sin-o ang magaguyod sa akon hasta sa Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "ang magadala sa akon"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "siudad"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "sang kuta"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "ang magaguyod sa akon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:44.225473810Z",
+  "model": "glm-5.3"
+}

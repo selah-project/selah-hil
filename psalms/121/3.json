@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 121,
+  "translation": "Indi ⟨Niya⟩ pagtugot nga magadulas ang imo tiil; indi magakatulog ang nagabantay sa imo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "pagtugot"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "sa pagdulas"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "sang imo tiil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "magakatulog"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "ang nagabantay sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:50:58.854226474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Sa ginsuguran gintuga ni Elohim ⟨את⟩ ang mga langit kag ⟨את⟩ ang duta.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "sa ginsuguran"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "gintuga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T15:55:29.674865359Z",
+  "model": "glm-5.3"
+}

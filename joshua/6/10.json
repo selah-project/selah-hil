@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 6:10",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag ⟨את⟩ ang katawhan ginsogo ni Yehoshua nga nagaingod: Indi kamo magtuok, kag indi ninyo pagpaabuton ⟨את⟩ ang inyo tingog, kag indi maggwa sa inyo baba bisan isa ka pulong, tubtum sa adlaw nga ingaton ko sa inyo: Magtuok kamo — kag magatuok kamo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsogo"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "kamo magtuok"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תשמיעו",
+      "gloss": "ninyo pagpaabuton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang inyo tingog"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "ang inyo tingog"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "maggwa"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "sa inyo baba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bisan isa ka pulong"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtum sa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "nga ingaton ko"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Magtuok kamo"
+    },
+    {
+      "surface": "והריעתם",
+      "gloss": "kag magatuok kamo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:34:52.959195148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 39,
+  "translation": "Isikway ang imo lati halin sa akon; tungod sa tampok sang imo kamot ako naubos.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "isikway"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "halin sa akon"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "imo lati"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "tampok"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "imo kamot"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "naubos"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:28.755296544Z",
+  "model": "glm-5.3"
+}

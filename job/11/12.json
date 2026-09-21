@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 11:12",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag ang tawo nga butas ⟨sa sulod⟩ magakabuhi sang kasingkasing, kag ang anak nga lalaki sang puro nga ligaw — tawo ang matawo!",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "kag ang tawo"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "nga butas"
+    },
+    {
+      "surface": "ילבב",
+      "gloss": "magakabuhi sang kasingkasing"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "kag ang anak nga lalaki"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "sang puro nga ligaw"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "ang matawo"
+    }
+  ],
+  "timestamp": "2026-09-21T22:41:51.741493375Z",
+  "model": "glm-5.3"
+}

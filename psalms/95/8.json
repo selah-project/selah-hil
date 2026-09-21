@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 95,
+  "translation": "Indi ninyo pagpatig-aon ang inyo kasingkasing subong sa Merivah, subong sa adlaw sang Massah sa kamingawan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Indi"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "pagpatig-aon"
+    },
+    {
+      "surface": "לבבככם",
+      "gloss": "ang inyo kasingkasing"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "subong sa Merivah"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "subong sa adlaw"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "sang Massah"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:15.304667722Z",
+  "model": "glm-5.3"
+}

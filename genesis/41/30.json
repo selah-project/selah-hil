@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 41:30",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 41,
+  "translation": "Kag magatindog ang pito ka tuig sang gutom kasunod sini, kag malimtan ang tanan nga kabusog sa duta sang Mitsrayim, kag ubuson sang gutom ⟨את⟩ ang duta.",
+  "tokens": [
+    {
+      "surface": "וקמו",
+      "gloss": "kag magatindog"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "sang gutom"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "kasunod sini"
+    },
+    {
+      "surface": "ונשכח",
+      "gloss": "kag malimtan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "nga kabusog"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "kag ubuson"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "sang gutom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T16:14:28.579802728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag nadunggan ni Paro ⟨את⟩ ang butang nga ini, kag gintuyo niya ang pagpatay ⟨את⟩ kay Moshe; apang nagpalagyo si Moshe sa atubangan ni Paro kag nag-estar sa duta sang Midyan, kag nagtindog siya sa may bubon.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Kag nadunggan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "si Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang butang"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang butang"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "kag gintuyo"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "ang pagpatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "nagpalagyo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kag nag-estar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "sang Midyan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kag nagtindog"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa may"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "bubon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:19:25.885744651Z",
+  "model": "glm-5.3"
+}

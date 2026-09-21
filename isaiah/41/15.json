@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 41:15",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 41,
+  "translation": "Tan-awa, ginhimo ikaw nga usa ka dagwal, bag-o kag matala, nga may mga ngipon; magbayo ka sang mga bukid kag dut-on mo, kag ang mga bungtod pareho sang ipa imo ibutang.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "שמתיך",
+      "gloss": "ginhimo ikaw"
+    },
+    {
+      "surface": "למורג",
+      "gloss": "usa ka dagwal"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "matala"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bag-o"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "may"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "mga ngipon"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "magbayo"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mga bukid"
+    },
+    {
+      "surface": "ותדק",
+      "gloss": "dut-on mo"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "kag ang mga bungtod"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "pareho sang ipa"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "imo ibutang"
+    }
+  ],
+  "timestamp": "2026-09-21T19:07:05.625254618Z",
+  "model": "glm-5.3"
+}

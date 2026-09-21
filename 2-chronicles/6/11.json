@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag ginpwesto ko didto ⟨את⟩ ang Arka, diin yara ang kasugtanan ni Yahweh, nga iya ginkasugtanan upod sa mga anak sang Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "kag ginpwesto ko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Arka"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ang Arka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yara"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ang kasugtanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ginkasugtanan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "upod sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-21T22:01:23.069557888Z",
+  "model": "glm-5.3"
+}

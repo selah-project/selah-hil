@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ⟨את⟩ sa inyo magaabot isa ka taho kag isa ka taho para sa tagsa ka tribo, isa ka tawo nga ulo sa balay sang iya mga amay, siya.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "Kag ⟨את⟩ sa inyo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "magaabot"
+    },
+    {
+      "surface": "איש",
+      "gloss": "isa ka taho kag isa ka taho"
+    },
+    {
+      "surface": "איש",
+      "gloss": "taho"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "para sa tagsa ka tribo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "isa ka tawo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "nga ulo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sang iya mga amay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:57:52.698610436Z",
+  "model": "glm-5.3"
+}

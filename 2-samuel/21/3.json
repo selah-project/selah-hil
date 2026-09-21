@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag nagsiling si David sa mga Givonita: Ano ang buhaton ko sa inyo, kag ano man nga paagi ang ikapangayo ko sing bayad-sala, agod magkaanuna kamo ⟨את⟩ sang kapanalabian ni Yahweh?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "mga Givonita"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ano"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ang buhaton ko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "kag ano man nga paagi"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "ang ikapangayo ko sing bayad-sala"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "agod magkaanuna kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang kapanalabian ni Yahweh"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "sang kapanalabian ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T18:23:48.681260215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 3:1",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag si Yehoram nga anak ni Ahab naghari sa Yisrael sa Shomron, sa ikanapulo kag walo nga tuig ni Yehoshafat nga hari sang Yehudah, kag naghari sia sing napulo kag duha ka tuig.",
+  "tokens": [
+    {
+      "surface": "ויהורם",
+      "gloss": "Kag si Yehoram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "sa Shomron"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "sa tuig"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "walo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "ni Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "kag naghari"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "duha"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    }
+  ],
+  "timestamp": "2026-09-21T18:40:06.495768005Z",
+  "model": "glm-5.3"
+}

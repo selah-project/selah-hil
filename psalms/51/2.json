@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 51,
+  "translation": "Sa pag-abot kay David ni Natan ang manalagna, sang nagkadto ⟨siya⟩ kay Bat-Sheva.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "sa pag-abot"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kay David ⟨siya⟩"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ni Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ang manalagna"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sang"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nagkadto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-09-21T20:34:09.457087658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Sa pagdungog sang tingog sang pagpasalamat, kag sa pagsugid sang tanan nga imo mga himala.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "sa pagdungog"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sang tingog"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "sang pagpasalamat"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "kag sa pagsugid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tanan nga"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "imo mga himala"
+    }
+  ],
+  "timestamp": "2026-09-21T20:27:55.946426229Z",
+  "model": "glm-5.3"
+}

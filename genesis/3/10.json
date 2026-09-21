@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag nagsiling sia, Ang ⟨את⟩ imo tingog ginti-ati ko sa tanaman, kag nagkahadlok ako kay hin hubaron ako, gani nagtago ako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag nagsiling"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imo tingog"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "imo tingog"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ginti-ati ko"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "sa tanaman"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "kag nagkahadlok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "hubaron"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "gani nagtago ako"
+    }
+  ],
+  "timestamp": "2026-09-21T15:54:31.539800868Z",
+  "model": "glm-5.3"
+}

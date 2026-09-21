@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 6:23",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Ugni luwasi ninyo ako sa kamot sang manugdaut, kag sa kamot sang mga mapintas luwason ninyo ako?",
+  "tokens": [
+    {
+      "surface": "ומלטוני",
+      "gloss": "ugni luwasi ninyo ako"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sang manugdaut"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "kag sa kamot"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "sang mga mapintas"
+    },
+    {
+      "surface": "תפדוני",
+      "gloss": "luwason ninyo ako"
+    }
+  ],
+  "timestamp": "2026-09-21T21:06:58.713024276Z",
+  "model": "glm-5.3"
+}

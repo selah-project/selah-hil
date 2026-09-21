@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag ginhimo sang tanan nga mga anak nga lalaki sang Yisrael ⟨suno sa⟩ ginsugo ni Yahweh ⟨את⟩ si Moshe kag ⟨את⟩ si Aharon — amo ginhimo nila.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Kag ginhimo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "suno sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "amo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginhimo nila"
+    }
+  ],
+  "timestamp": "2026-09-21T16:24:53.222473126Z",
+  "model": "glm-5.3"
+}

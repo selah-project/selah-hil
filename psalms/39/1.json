@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 39,
+  "translation": "Sa manugdumala sang mga man-aawit, kay Yedutun; isa ka awit ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa manugdumala sang mga man-aawit"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "kay Yedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "isa ka awit"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:39.693086997Z",
+  "model": "glm-5.3"
+}

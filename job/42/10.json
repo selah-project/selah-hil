@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Kag ginpabalik ni Yahweh ⟨את⟩ ang pagkabihag ni Iyob sang nagpangamuyo siya para sa iya mga abot; kag gindugangan ni Yahweh ⟨את⟩ ang tanan nga ara kay Iyob sing doble.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "kag si Yahweh"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ginpabalik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pagkabihag"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "ang pagkabihag"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ni Iyob"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "sang nagpangamuyo siya"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "para sa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "iya mga abot"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "kag gindugangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "ara kay Iyob"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "sing doble"
+    }
+  ],
+  "timestamp": "2026-09-21T21:19:32.487822058Z",
+  "model": "glm-5.3"
+}

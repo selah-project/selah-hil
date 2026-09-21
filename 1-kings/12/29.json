@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag ginbutang niya ⟨את⟩ ang isa sa Beit-El, kag ⟨את⟩ ang isa ginbutang niya sa Dan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ginbutang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang isa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Beit-El"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang isa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ginbutang"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "sa Dan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:33:35.704688365Z",
+  "model": "glm-5.3"
+}

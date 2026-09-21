@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 77,
+  "translation": "Kag nagsiling ako: Amo ini ang akon kahuyang; ⟨pero⟩ matalamdum ko ang mga tuig sang too nga kamot sang Elyon.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Kag nagsiling ako"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "ang akon kahuyang"
+    },
+    {
+      "surface": "היא",
+      "gloss": "Amo ini"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ang mga tuig"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "sang too"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "sang Elyon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:12.114702927Z",
+  "model": "glm-5.3"
+}

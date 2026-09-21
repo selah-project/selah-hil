@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "joshua 15:47",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Ashdod, ang iya mga anak nga babae kag ang iya mga baryo; Azzah, ang iya mga anak nga babae kag ang iya mga baryo; tubtob sa sapa sang Mitsrayim; kag ang dagat amo ang utlanan kag ang iya utlanan.",
+  "tokens": [
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "ang iya mga anak nga babae"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "kag ang iya mga baryo"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzah"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "ang iya mga anak nga babae"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "kag ang iya mga baryo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob sa"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והים",
+      "gloss": "kag ang dagat"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "amo ang utlanan"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "kag ang iya utlanan"
+    }
+  ],
+  "timestamp": "2026-09-21T17:41:24.199077291Z",
+  "model": "glm-5.3"
+}

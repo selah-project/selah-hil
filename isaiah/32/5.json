@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Indi na ⟨pagatawgon⟩ ang nabal nga nadiv, kag sa kilay indi na ⟨pagsilingon⟩ shoa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "pagatawgon"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "ang nabal"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "nadiv"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "kag sa kilay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "pagsilingon"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "shoa"
+    }
+  ],
+  "timestamp": "2026-09-21T22:31:21.901419276Z",
+  "model": "glm-5.3"
+}

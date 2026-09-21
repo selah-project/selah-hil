@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Ako bala ang dagat, ukon ang tanin, kay nagapangbantay ka sa akon?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "ang dagat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako bala"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukon"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "ang tanin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "nagapangbantay"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "bantay"
+    }
+  ],
+  "timestamp": "2026-09-21T21:06:56.191961197Z",
+  "model": "glm-5.3"
+}

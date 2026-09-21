@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "hasta nga indi pa madulman ang adlaw kag ang kapawa kag ang bulan kag ang mga bitoon, kag magabalik pa ang mga panganud kahuman sang ulan,",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "madulman"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "kag ang kapawa"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "kag ang bulan"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "kag ang mga bitoon"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "kag magabalik"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "ang mga panganud"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kahuman"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "sang ulan"
+    }
+  ],
+  "timestamp": "2026-09-21T21:29:00.657488926Z",
+  "model": "glm-5.3"
+}

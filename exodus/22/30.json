@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kag mga tawo nga balaan kamo sa akon; kag karne nga tinigbas sa uma indi ninyo kaunon — sa ido balawoton ninyo ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "Kag mga tawo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nga balaan"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "kag karne"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa uma"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "nga tinigbas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ninyo kaunon"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "sa ido"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "balawoton ninyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ini (ang karne)"
+    }
+  ],
+  "timestamp": "2026-09-21T16:29:53.971554403Z",
+  "model": "glm-5.3"
+}

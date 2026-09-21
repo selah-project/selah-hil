@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 73,
+  "translation": "Tulun-an kay Asaf — sigurado gid nga maayo ang Elohim sa Yisrael, sa mga malinis sang kasingkasing.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "tulun-an"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kay Asaf"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sigurado gid"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "sa mga malinis"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sang kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:14.808566735Z",
+  "model": "glm-5.3"
+}

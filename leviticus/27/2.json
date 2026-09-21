@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 27:2",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Hambala sa mga anak sang Yisrael, kag silinga sa ila: Ang tawo kon magapalahi ⟨siya⟩ sa saad sa mga kalag, kay Yahweh ⟨suno⟩ sa imo pagbanaag.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Hambala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "kag silinga"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "magapalahi"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "saad"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "sa imo pagbanaag"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "sa mga kalag"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:57:37.817266229Z",
+  "model": "glm-5.3"
+}

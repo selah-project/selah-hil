@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 5:3",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag ginhimo ni Yehoshua sang iya kaugalingon ang mga pinutsaan nga matinog nga bato, kag ginputul niya ⟨את⟩ ang mga anak nga lalaki sang Yisrael sa bukid sang mga atipan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kag ginhimo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sang iya kaugalingon"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ang mga pinutsaan"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "nga matinog nga bato"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "kag ginputul niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "gloss_note": "",
+      "marks": "ang mga anak nga lalaki sang Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "הערלות",
+      "gloss": "sang mga atipan"
+    }
+  ],
+  "timestamp": "2026-09-21T17:36:24.860152975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 17:3",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag si Yahweh ⟨arya⟩ kaupod kang Yehoshafat, kay naglakat siya sa mga dalan ni David nga iya amay, sa mga nahauna, kag wala siya magpangita sa mga Baal.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod kang"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "naglakat"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "sa mga dalan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iya amay"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "sa mga nahauna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "magpangita"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "sa mga Baal"
+    }
+  ],
+  "timestamp": "2026-09-21T22:05:21.930622165Z",
+  "model": "glm-5.3"
+}

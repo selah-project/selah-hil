@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Sa Manugpanguna. Ni David. Kay Yahweh ako nagkadulag; ngaa ninyo silingon sa akon kalag: Dulag sa imo bukid, ⟨kay⟩ sapat?",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa Manugpanguna"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Ni David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ako nagkadulag"
+    },
+    {
+      "surface": "איך",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "ninyo silingon"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "sa akon kalag"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "Dulag"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "sa imo bukid"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "sapat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:36.424402700Z",
+  "model": "glm-5.3"
+}

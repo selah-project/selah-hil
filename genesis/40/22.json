@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 40:22",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag ⟨את⟩ ang sar sang mga manog-tinapay ginbitay, subong sa ginpasabot ni Yosef sa ila.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang sar sang mga manog-tinapay"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sar"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "sang mga manog-tinapay"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "ginbitay"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong sa"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "ginpasabot"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-09-21T16:12:46.332703376Z",
+  "model": "glm-5.3"
+}

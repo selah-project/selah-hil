@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-samuel 20:40",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag ginzigan ni Yehonatan ⟨את⟩ iya mga kagamitan sa bata nga iya, kag nagsiling sa iya: Lakat, idala sa dakbanwa.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "kag ginzigan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "si Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya mga kagamitan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "iya mga kagamitan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "bata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lakat"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "idala"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sa dakbanwa"
+    }
+  ],
+  "timestamp": "2026-09-21T18:07:26.321441271Z",
+  "model": "glm-5.3"
+}

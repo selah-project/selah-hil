@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Ginpamalakad niya ang ila mga kaparrasan kag ang ila mga ihadas, kag ginbalora ang mga kahoy sang ila utlanan.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ginpamalakad"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "ila mga kaparrasan"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "kag ang ila mga ihadas"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "kag ginbalora"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mga kahoy"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "sang ila utlanan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:16.313519696Z",
+  "model": "glm-5.3"
+}

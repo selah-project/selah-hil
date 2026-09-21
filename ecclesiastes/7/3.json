@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Maayo ang kapungot kaysa sa kadlaw, kay sa kalaot sang dagway magamaayo ang tagipusuon.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "angkan kapungot"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "kaysa sa kadlaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "sa kalaot"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sang dagway"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "magamaayo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ang tagipusuon"
+    }
+  ],
+  "timestamp": "2026-09-21T21:27:33.817073446Z",
+  "model": "glm-5.3"
+}

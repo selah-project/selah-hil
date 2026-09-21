@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 74,
+  "translation": "Ikaw ang nagpatindog sang tanan nga mga utlan sang duta; ting-init kag ting-tugnaw, ikaw ang naghimo sini.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "nagpatindog"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "mga utlan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "ting-init"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "kag ting-tugnaw"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "naghimo sini"
+    }
+  ],
+  "timestamp": "2026-09-21T20:39:29.355124161Z",
+  "model": "glm-5.3"
+}

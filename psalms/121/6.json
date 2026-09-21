@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 121,
+  "translation": "Sa adlaw, ang adlaw indi magasunga ⟨sa imo⟩, kag ang bulan sa gab-i.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Sa adlaw"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "magasunga"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "kag ang bulan"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "sa gab-i"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:12.943371164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 9:9",
+  "book": "daniel",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kay Adonay nga aton Elohim ang ⟨mga⟩ kaluoy kag ang ⟨mga⟩ pagpatawad, kay nagrebelde kami sa iya.",
+  "tokens": [
+    {
+      "surface": "לאדני",
+      "gloss": "Kay Adonay"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "aton Elohim"
+    },
+    {
+      "surface": "הרחמים",
+      "gloss": "mga kaluoy"
+    },
+    {
+      "surface": "והסלחות",
+      "gloss": "kag mga pagpatawad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מרדנו",
+      "gloss": "nagrebelde kami"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T22:44:19.831357521Z",
+  "model": "glm-5.3"
+}

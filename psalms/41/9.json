@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 41,
+  "translation": "Pulong sang Belial ang ginaulas sa iya, kag ang naghiga indi na magadugang sa pagbangon.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belial"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "ginaulas"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kag ang"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "naghiga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "magadugang"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "sa pagbangon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:30.205998241Z",
+  "model": "glm-5.3"
+}

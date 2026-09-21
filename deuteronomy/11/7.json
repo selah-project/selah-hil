@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kay ang inyo mga mata ang nakakita sang ⟨את⟩ tanan nga dagko nga buhat ni Yahweh, nga iya ginhimo:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ang inyo mga mata"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "ang nakakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga dagko nga buhat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "nga buhat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "dagko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "iya ginhimo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:22:25.130512451Z",
+  "model": "glm-5.3"
+}

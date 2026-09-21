@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 38,
+  "translation": "Apang ako pareho sang bungol, wala ako nakabati, kag pareho sang piang nga wala gabukas sang iya baba.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "apang ako"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "pareho sang bungol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ako nakabati"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "kag pareho sang piang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "gabukas"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "sang iya baba"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:22.447384228Z",
+  "model": "glm-5.3"
+}

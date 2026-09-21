@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 26:15",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "kag kon pagtalikdan ninyo ang akon mga lagda, kag kon magkadlaw ang inyo kalag ⟨את⟩ sang akon mga hatol, sa indi paghimo ⟨את⟩ sang tanan sang akon mga kasuguan, sa pagtapak ninyo ⟨את⟩ sang akon katipan —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "ang akon mga lagda"
+    },
+    {
+      "surface": "תמאסו",
+      "gloss": "pagtalikdan ninyo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon mga hatol"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "sang akon mga hatol"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "magkadlaw"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "ang inyo kalag"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "sa indi"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "paghimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang tanan sang akon mga kasuguan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "sang akon mga kasuguan"
+    },
+    {
+      "surface": "להפרכם",
+      "gloss": "sa pagtapak ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang akon katipan"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "sang akon katipan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:56:19.925071533Z",
+  "model": "glm-5.3"
+}

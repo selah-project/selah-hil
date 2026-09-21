@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 42:36",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Kag nagsiling sa ila si Yaakov, ang ila amay: Ako ⟨את⟩ ginsikway ninyo sa mga anak — si Yosef wala na, kag si Shim'on wala na, kag ⟨את⟩ si Binyamin kuhaon ninyo — sa akon tanan ini nagatabo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ang ila amay"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ako",
+      "marks": "ako (ginsikway ninyo)"
+    },
+    {
+      "surface": "שכלתם",
+      "gloss": "ginsikway ninyo sa mga anak"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "wala na"
+    },
+    {
+      "surface": "ושמעון",
+      "gloss": "kag si Shim'on"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "wala na"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Binyamin"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "si Binyamin"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "kuhaon ninyo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nagatabo"
+    },
+    {
+      "surface": "כלנה",
+      "gloss": "tanan ini"
+    }
+  ],
+  "timestamp": "2026-09-21T16:15:55.090612424Z",
+  "model": "glm-5.3"
+}

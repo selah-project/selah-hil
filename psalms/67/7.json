@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 67,
+  "translation": "Naghatag ang duta sang iya ani; ginpakamaayo kami sang Elohim, sang aton nga Elohim.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "naghatag"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "sang iya ani"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "ginpakamaayo kami"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "sang aton nga Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:07.647074160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 54:12",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 54,
+  "translation": "Kag kadkod ang ibutang ko sa imo mga tambohan, kag ang imo mga ganghaan ⟨mga⟩ bato nga ekdah, kag ang tanan mong utlanan ⟨mga⟩ bato sang kahamut-an.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "kag ibutang ko"
+    },
+    {
+      "surface": "כדכד",
+      "gloss": "kadkod"
+    },
+    {
+      "surface": "שמשתיך",
+      "gloss": "sa imo mga tambohan"
+    },
+    {
+      "surface": "ושעריך",
+      "gloss": "kag ang imo mga ganghaan"
+    },
+    {
+      "surface": "לאבני",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "אקדח",
+      "gloss": "nga ekdah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "mong utlanan"
+    },
+    {
+      "surface": "לאבני",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "sang kahamut-an"
+    }
+  ],
+  "timestamp": "2026-09-21T19:10:06.998812779Z",
+  "model": "glm-5.3"
+}

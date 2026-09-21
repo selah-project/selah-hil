@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 33:11",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Pagbendisyonan mo, Yahweh, ang iya kusog, kag ang buhat sang iya mga kamot pagkaluyagan mo; dukduka ang iya mga kaaway sa ilang hawak kag ang iya mga manogdumili, nga indi na sila makabangon.",
+  "tokens": [
+    {
+      "surface": "ברך",
+      "gloss": "pagbendisyonan mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "iya kusog"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "kag ang buhat"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "sang iya mga kamot"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "pagkaluyagan mo"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "dukduka"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "hawak"
+    },
+    {
+      "surface": "קמיו",
+      "gloss": "iya mga kaaway"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "kag iya mga manogdumili"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "makabangon"
+    }
+  ],
+  "timestamp": "2026-09-21T17:32:21.149056464Z",
+  "model": "glm-5.3"
+}

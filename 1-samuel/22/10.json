@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "kag nagpangotana sang kahulugan ni Yahweh para sa iya, kag sing pagkaon ginhatag sa iya, kag ⟨את⟩ ang espada ni Golyat nga Peleshtihanon ginhatag sa iya.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "kag nagpangotana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa iya"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "sang kahulugan ni Yahweh"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "kag sing pagkaon"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ginhatag"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang espada ni Golyat"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "espada"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "ni Golyat"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "nga Peleshtihanon"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ginhatag"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T18:08:14.545956042Z",
+  "model": "glm-5.3"
+}

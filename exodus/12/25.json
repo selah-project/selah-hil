@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 12:25",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag matabo, kon magkadto kamo sa duta nga ihatag ni Yahweh sa inyo, subong sang iya ginhambal, magatipig kamo sang ⟨את⟩ ini nga pag-alagad;",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kag matabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "magkadto kamo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ihatag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ginhambal"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "magatipig kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ini nga pag-alagad"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "pag-alagad"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini nga"
+    }
+  ],
+  "timestamp": "2026-09-21T16:26:29.762065982Z",
+  "model": "glm-5.3"
+}

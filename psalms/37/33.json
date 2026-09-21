@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Si Yahweh indi siya pagbay-an sa iya kamot, kag indi siya paghukman nga sala sa iya pagpanghukman.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "siya pagbay-an"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa iya kamot"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "siya paghukman nga sala"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "sa iya pagpanghukman"
+    }
+  ],
+  "timestamp": "2026-09-21T20:31:04.425947876Z",
+  "model": "glm-5.3"
+}

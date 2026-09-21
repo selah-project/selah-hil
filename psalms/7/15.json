@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Tan-awa, nagapanimdos siya sang kalautan kag nagbati sang kalisod, kag natawo ang bakak.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "nagapanimdos"
+    },
+    {
+      "surface": "און",
+      "gloss": "sang kalautan"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "kag nagbati"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "sang kalisod"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "kag natawo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ang bakak"
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:53.756424133Z",
+  "model": "glm-5.3"
+}

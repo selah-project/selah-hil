@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 106:18",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 106,
+  "translation": "Kag nagkadangadang ang kalayo sa ila katipunan; ang laway sang kalayo nagsunog sa mga malaot.",
+  "tokens": [
+    {
+      "surface": "ותבער",
+      "gloss": "kag nagkadangadang"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ang kalayo"
+    },
+    {
+      "surface": "בעדתם",
+      "gloss": "sa ila katipunan"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "ang laway sang kalayo"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "nagsunog"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sa mga malaot"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:45.722765336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 8:4",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag nagtipon ang tanan nga mga tigulang sang Yisrael, kag nagkadto sila kay Shemuel sa Ramah.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "nagtipon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga tigulang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "kag nagkadto sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "sa Ramah"
+    }
+  ],
+  "timestamp": "2026-09-21T17:59:02.440685241Z",
+  "model": "glm-5.3"
+}

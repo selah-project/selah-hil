@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Kag ginpwesto niya ⟨את⟩ ang mga sulugoon nga babae kag ⟨את⟩ ang ila mga anak sa nahauna, kag ⟨את⟩ si Lea kag ang iya mga anak sa ulihi, kag ⟨את⟩ si Rakhel kag ⟨את⟩ si Yosef sa ulihi.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "kag ginpwesto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga sulugoon nga babae"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "ang mga sulugoon nga babae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang ila mga anak"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "ang ila mga anak"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "sa nahauna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "kag ang iya mga anak"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "sa ulihi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Rakhel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rakhel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "sa ulihi"
+    }
+  ],
+  "timestamp": "2026-09-21T16:10:17.617854794Z",
+  "model": "glm-5.3"
+}

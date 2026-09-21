@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag ihatag ko ang akon kasugtanan sa akon kag sa imo, kag padamuon ko ⟨את⟩ ikaw nga sobra ka sobra.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "kag ihatag ko"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ang akon kasugtanan"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "kag sa imo"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "kag padamuon ko"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ikaw",
+      "marks": "ikaw"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "nga sobra"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ka sobra"
+    }
+  ],
+  "timestamp": "2026-09-21T16:02:10.629150561Z",
+  "model": "glm-5.3"
+}

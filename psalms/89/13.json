@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Ang amihanan kag ⟨ang⟩ katungud, ikaw ang naggama sang sini; ang Tabor kag ang Hermon magakanta sa imo ngalan.",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "ang amihanan"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "kag ang katungud"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "ang naggama sang sini"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "ang Tabor"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "kag ang Hermon"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "sa imo ngalan"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "magakanta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:32.297989359Z",
+  "model": "glm-5.3"
+}

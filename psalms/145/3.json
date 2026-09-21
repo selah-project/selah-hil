@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 145,
+  "translation": "Dako gid si Yahweh kag puspusan nga dayawon, kag sa iya kadako wala sing pagsukol.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Dako gid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "kag puspusan nga dayawon"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gid"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "kag sa iya kadako"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala sing"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "pagsukol"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:36.138279794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 147,
+  "translation": "Ang nagapadala sang iya sugo sa duta; sa mainit gid magadalagan ang iya pulong.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "ang nagapadala"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "sang iya sugo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "mainit gid"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "magadalagan"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ang iya pulong"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:21.630119567Z",
+  "model": "glm-5.3"
+}

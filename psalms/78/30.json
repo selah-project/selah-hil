@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Wala sila magbulag sa ila pangandoy, pa ang ila pagkaon ara sa ila baba.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Wala"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "sila magbulag"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "sa ila pangandoy"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ang ila pagkaon"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "sa ila baba"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:04.642087892Z",
+  "model": "glm-5.3"
+}

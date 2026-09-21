@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 108,
+  "translation": "Kanta, Psalmo ni Davdid.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kanta"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Psalmo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni Davdid"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:21.156293669Z",
+  "model": "glm-5.3"
+}

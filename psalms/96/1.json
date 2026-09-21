@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 96,
+  "translation": "Kumanta kamo kay Yahweh sing bag-ong kanta; kumanta kamo kay Yahweh, tanan ⟨nga⟩ duta.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "kumanta kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kanta"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bag-o"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "kumanta kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:40.152348376Z",
+  "model": "glm-5.3"
+}

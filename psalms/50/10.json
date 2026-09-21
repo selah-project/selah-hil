@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 50,
+  "translation": "kay akon ang tanan nga sapat sang kagulangan, kag ang mga sapat sa mga bukid sang isa ka libo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "akon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "nga sapat"
+    },
+    {
+      "surface": "יער",
+      "gloss": "sang kagulangan"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "kag ang mga sapat"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "sa mga bukid"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "sang isa ka libo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:32:45.074253400Z",
+  "model": "glm-5.3"
+}

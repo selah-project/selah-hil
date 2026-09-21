@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Nakita mo ini, Yahweh; indi pagtahum, Adonay; indi pagpalayo sa akon.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "nakita mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "pagtahum"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "pagpalayo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:14.326086439Z",
+  "model": "glm-5.3"
+}

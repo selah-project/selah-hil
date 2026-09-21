@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Ang tanan nagakadto sa isa ka duog; ang tanan naggikan sa abo, kag ang tanan nagabalik sa abo.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "nagakadto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "duog"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "naggikan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "שב",
+      "gloss": "nagabalik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "abo"
+    }
+  ],
+  "timestamp": "2026-09-21T22:43:36.267653253Z",
+  "model": "glm-5.3"
+}

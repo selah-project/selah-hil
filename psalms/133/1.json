@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 133,
+  "translation": "Siday sang mga Pag-angat, ni David. Yari kadi, giung gid kag malipaya ang pagpuyo sang mga utod, bisan magkahiusa.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Siday"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sang mga Pag-angat"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Yari kadi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gid"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maung"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "kag gid"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "malipaya"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ang pagpuyo"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "sang mga utod"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "magkahiusa"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:18.854158445Z",
+  "model": "glm-5.3"
+}

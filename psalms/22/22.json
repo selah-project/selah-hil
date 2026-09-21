@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Luwsgi ako gikan sa baba sang leon; kag gikan sang mga sungay sang mga baka nga lasang gintubos ako.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "luwsgi ako"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "gikan sa baba"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "sang leon"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "kag gikan sang mga sungay"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "sang mga baka nga lasang"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "gintubos ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:02.044085229Z",
+  "model": "glm-5.3"
+}

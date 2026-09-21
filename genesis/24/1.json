@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag si Avraham tigulang na, nagsulod na sa mga adlaw, kag si Yahweh nagmaayo ⟨את⟩ kay Avraham sa tanan.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Kag si Avraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "tigulang na"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nagsulod na"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "sa mga adlaw"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "kag si Yahweh"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "nagmaayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "kay Avraham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:03:52.067550381Z",
+  "model": "glm-5.3"
+}

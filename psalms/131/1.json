@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 131,
+  "translation": "Kanta sang mga Pag-angat, kay David. Yahweh, wala nagpataas ang akon tagipusuon, kag wala nagtungas ang akon mga mata; kag wala ako naglakat sa mga dalagku nga butang kag sa mga pangibahunon sa akon.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kanta"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sang mga Pag-angat"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "nagpataas"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang akon tagipusuon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "nagtungas"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang akon mga mata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "naglakat ako"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "sa mga dalagku nga butang"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "kag sa mga pangibahunon"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:10.904959516Z",
+  "model": "glm-5.3"
+}

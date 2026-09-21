@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag nabatian ni Toi nga hari sang Hamat nga ginsikwad ni David ⟨את⟩ tanan nga kasundalohan ni Hadadezer.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "kag nabatian"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "ni Toi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "sang Hamat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ginsikwad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kasundalohan"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ni Hadadezer"
+    }
+  ],
+  "timestamp": "2026-09-21T18:14:35.480838485Z",
+  "model": "glm-5.3"
+}

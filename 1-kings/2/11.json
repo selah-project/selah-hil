@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 2:11",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag ang mga adlaw nga naghari si Dovid sa Yisrael apat ka pulo ka tuig: sa Chevron naghari siya pito ka tuig, kag sa Yerushalayim naghari siya tatlo ka pulo kag tatlo ka tuig.",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "kag ang mga adlaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si Dovid"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "apat ka pulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "sa Chevron"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari siya"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "kag sa Yerushalayim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari siya"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tatlo ka pulo"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "kag tatlo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ka tuig"
+    }
+  ],
+  "timestamp": "2026-09-21T18:25:53.972361325Z",
+  "model": "glm-5.3"
+}

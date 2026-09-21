@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag magakilala kita, tadlungon kita sa pagkilala ⟨את⟩ kay Yahweh: daw sa kaagahon husto ang iya paggwa, kag magaanhi sia sa aton nga daw ulan, nga daw malaot nga ulan nga nagabuhos sa duta.",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "Kag magakilala kita"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "tadlungon kita"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "sa pagkilala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "daw sa kaagahon"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "husto"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "ang iya paggwa"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "kag magaanhi sia"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "nga daw ulan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa aton"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "nga daw malaot nga ulan"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "nagabuhos"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:04:20.874073985Z",
+  "model": "glm-5.3"
+}

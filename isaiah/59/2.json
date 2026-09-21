@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 59:2",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 59,
+  "translation": "Kay kundi ang inyo mga kalautan ang nagbulag sa tunga sang inyo kag sa tunga sang inyo Elohim, kag ang inyo mga sala nagtago ⟨sang iya⟩ panagway sa inyo, sa indi pagpatalinghog.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kundi"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "inyo mga kalautan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nangin"
+    },
+    {
+      "surface": "מבדלים",
+      "gloss": "nagbulag"
+    },
+    {
+      "surface": "בינכם",
+      "gloss": "sa tunga sang inyo"
+    },
+    {
+      "surface": "לבין",
+      "gloss": "sa tunga sang"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "inyo Elohim"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "kag ang inyo mga sala"
+    },
+    {
+      "surface": "הסתירו",
+      "gloss": "nagtago"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "panagway"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "sa indi pagpatalinghog"
+    }
+  ],
+  "timestamp": "2026-09-21T19:12:54.387555137Z",
+  "model": "glm-5.3"
+}

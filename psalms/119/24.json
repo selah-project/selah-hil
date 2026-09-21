@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Galing nga ang imo mga pagsaksi amo ang akon mga kalipay, ⟨nga⟩ mga tawo sang akon tambag.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Galing nga"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "imo mga pagsaksi"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "akon mga kalipay"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "sang akon tambag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:36.638644565Z",
+  "model": "glm-5.3"
+}

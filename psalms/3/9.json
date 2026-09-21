@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Sang Yahweh ang pagluwas; sa imo nga katawhan ang imo nga panalangin. Selah.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "Sang Yahweh"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "ang pagluwas"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "imo nga katawhan"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "imo nga panalangin"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah."
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:13.100322647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Indi ninyo pagpakasuklaman ⟨את⟩ ang inyo mga kalag sa bisan ano nga nagasirwit nga nagsirwit, kag indi kamo magin mahugaw sa ila, agod indi kamo mahugawan sang mga ini.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "pagpakasuklaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang inyo mga kalag"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "inyo mga kalag"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa bisan ano"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "nagasirwit"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "nagsirwit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "magin mahugaw"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "agod indi kamo mahugawan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sang mga ini"
+    }
+  ],
+  "timestamp": "2026-09-21T16:46:01.683060541Z",
+  "model": "glm-5.3"
+}

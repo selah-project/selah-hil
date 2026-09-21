@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "Kon iya sila pagapatyon, ginpangita nila siya, kag nagbalik kag nagsadya sa pagpangita kay El.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "iya sila pagapatyon"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "ginpangita nila siya"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "nagbalik"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "nagsadya sa pagpangita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay El"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:18.052472809Z",
+  "model": "glm-5.3"
+}

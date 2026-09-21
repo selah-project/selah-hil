@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "sa pagpalapta ⟨את⟩ sang tanan nga imo mga kaaway gikan sa imo atubangan, subong sang ginhambal ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "sa pagpalapta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang tanan nga imo mga kaaway"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tanan nga"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "imo mga kaaway"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "gikan sa imo atubangan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ginhambal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T17:19:39.527916854Z",
+  "model": "glm-5.3"
+}

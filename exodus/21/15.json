@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag ang nagasiko sang iya amay ukon sang iya iloy, ingon sang pagkamatay pagapatyon siya.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "ang nagasiko"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iya amay"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ukon iya iloy"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ingon sang pagkamatay"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "pagapatyon siya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:30:13.168628261Z",
+  "model": "glm-5.3"
+}

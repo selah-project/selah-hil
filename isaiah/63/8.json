@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 63:8",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 63,
+  "translation": "Kag naghambal siya: Siguro ang akon pungsod sila, mga anak nga indi magbabakak; kag nangin mangluwas siya sa ila.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag naghambal"
+    },
+    {
+      "surface": "אך",
+      "gloss": "siguro"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ang akon pungsod"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ישקרו",
+      "gloss": "magbabakak"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag nangin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "למושיע",
+      "gloss": "nga mangluwas"
+    }
+  ],
+  "timestamp": "2026-09-21T19:12:59.698827988Z",
+  "model": "glm-5.3"
+}

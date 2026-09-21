@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 94,
+  "translation": "Mag-isip kamo, mga amaw sa tunga sang katawhan, kag mga buang, san-o kamo makasabot?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "mag-isip kamo"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "mga amaw"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "sa tunga sang katawhan"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "kag mga buang"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "san-o"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "makasabot"
+    }
+  ],
+  "timestamp": "2026-09-21T20:43:34.797388355Z",
+  "model": "glm-5.3"
+}

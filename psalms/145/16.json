@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 145,
+  "translation": "Ginabuksan mo ⟨את⟩ ang imo kamot, kag ginapasagana mo ang ginpangandoy sang tanan nga buhi.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "ginabuksan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imo kamot"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang imo kamot"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "kag ginapasagana"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "חי",
+      "gloss": "buhi"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ginpangandoy"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:24.454222110Z",
+  "model": "glm-5.3"
+}

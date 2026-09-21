@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag kon talaga igakaon ini sa ikatlo nga adlaw, kilait ini; indi ini pagaangoton.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "talaga igakaon"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ini igakaon"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ikatlo nga"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "kilait"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "pagaangoton"
+    }
+  ],
+  "timestamp": "2026-09-21T16:50:45.797724062Z",
+  "model": "glm-5.3"
+}

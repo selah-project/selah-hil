@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 97,
+  "translation": "Siglaw ⟨ang⟩ ginpanublag para sa matarong, kag kalipay para sa mga tul-id sang tagipusuon.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "siglaw"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ginpanublag"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "para sa matarong"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "kag para sa mga tul-id"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sang tagipusuon"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "kalipay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:46.244044486Z",
+  "model": "glm-5.3"
+}

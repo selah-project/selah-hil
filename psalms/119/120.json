@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Nagatindog ⟨nga daw buhok⟩ ang akon unod gikan sa imo kakahadlok, kag nagakahadlok ako sa imo mga kahukuman.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "Nagatindog"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "gikan sa imo kakahadlok"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ang akon unod"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "kag sa imo mga kahukuman"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "nagakahadlok ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:49:59.780736446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 8:13",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ginpadalapit ni Moshe ⟨את⟩ ang mga anak ni Aharon, kag ginsul-oban niya sila sang mga kunton, kag ginpanganloban niya sila sang abanet, kag ginsugponanan niya sila sang mga migbaot; subong sang ginsugo ni Yahweh ⟨את⟩ kay Moshe.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ginpadalapit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga anak ni Aharon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "ginsul-oban niya sila"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "mga kunton"
+    },
+    {
+      "surface": "ויחגר",
+      "gloss": "ginpanganloban niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "abanet"
+    },
+    {
+      "surface": "אבנט",
+      "gloss": "abanet"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "ginsugponanan niya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "מגבעות",
+      "gloss": "mga migbaot"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "subong sang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T16:46:16.941189651Z",
+  "model": "glm-5.3"
+}

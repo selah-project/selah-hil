@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "kag ipaathag sa amon ni Yahweh nga imo Elohim ⟨את⟩ ang dalan nga aton laktanon sa iya, kag ⟨את⟩ ang butang nga aton himoon.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "kag ipaathag"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga imo Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dalan"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ang dalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "aton laktanon"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang butang"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang butang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "aton himoon"
+    }
+  ],
+  "timestamp": "2026-09-21T19:34:24.036060970Z",
+  "model": "glm-5.3"
+}

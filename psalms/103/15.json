@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 103,
+  "translation": "Ang tawo nga madali mapatay — subong sang balili ang iya mga adlaw; subong sang bulak sang uma, amo gani siya mabubukadkad.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "tawo nga madali mapatay"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "subong sang balili"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ang iya mga adlaw"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "subong sang bulak"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sang uma"
+    },
+    {
+      "surface": "כן",
+      "gloss": "amo gani"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "siya mabubukadkad"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:57.798037222Z",
+  "model": "glm-5.3"
+}

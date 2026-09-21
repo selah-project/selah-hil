@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 28:1",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Kag ikaw, palapita sa imo si ⟨את⟩ Aharon, imo utod, kag ⟨את⟩ iya mga anak kaupod ⟨את⟩ niya, tikang sa tunga sang mga anak sang Yisrael, sa pagpari sa akon — si Ahron, si Nadav kag Avihua, si Elazar kag Itamar, mga anak ni Ahron.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kag ikaw"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "palapita"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Ahron"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahron"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "imo utod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iya mga anak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "kaupod ⟨את⟩ niya"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "tikang sa tunga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "sa pagpari"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahron"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "kag Avihua"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "kag Itamar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Ahron"
+    }
+  ],
+  "timestamp": "2026-09-21T16:33:25.884011953Z",
+  "model": "glm-5.3"
+}

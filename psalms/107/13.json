@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 107,
+  "translation": "Nagpanawag sila kay Yahweh sa tion sang ila kagul-an; ginpatalwasa sila niya sa ila mga kalisod.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "nagpanawag sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "sa tion sang kagul-an"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ila"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "sa ila mga kalisod"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "ginpatalwasa sila niya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:00.406421800Z",
+  "model": "glm-5.3"
+}

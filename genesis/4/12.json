@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kon imo pagatumaron ⟨את⟩ ang duta, indi na ini magadugang maghatag sang iya kusog sa imo; gakadlawag kag nagapalibot ikaw ⟨magakabuhi⟩ sa duta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "imo pagatumaron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "magadugang"
+    },
+    {
+      "surface": "תת",
+      "gloss": "maghatag"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "sang iya kusog"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "נע",
+      "gloss": "gakadlawag"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "kag nagapalibot"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ikaw magakabuhi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    }
+  ],
+  "timestamp": "2026-09-21T22:16:35.769388624Z",
+  "model": "glm-5.3"
+}

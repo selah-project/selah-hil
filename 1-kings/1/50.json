@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-kings 1:50",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag si Adoniyahu nagkahadlok kay Shelomoh, kag nagtindog kag naglakat kag nagkulit sa mga sungay sang halaran.",
+  "tokens": [
+    {
+      "surface": "ו אדניהו",
+      "gloss": "Kag si Adoniyahu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nagkahadlok"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "kag nagtindog"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kag naglakat"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "kag nagkulit"
+    },
+    {
+      "surface": "בקרנות",
+      "gloss": "sa mga sungay"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sang halaran"
+    }
+  ],
+  "timestamp": "2026-09-21T18:26:00.293398075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kag magtam-is ka sa Yahweh, kag ihatag niya sa imo ang mga pangabay sang imo tagipusuon.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "magtam-is"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kag ihatag niya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "ang mga pangabay"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "sang imo tagipusuon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:30:07.063291089Z",
+  "model": "glm-5.3"
+}

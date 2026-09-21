@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 14:5",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag sa ika-napulo kag apat nga tuig nagkadto si Kedorlaomer kag ang mga hari nga ara ⟨את⟩ kaupod niya, kag gintama nila ⟨את⟩ ang mga Refaim sa Ashterot-Karnayim, kag ⟨את⟩ ang mga Zuzim sa Ham, kag ⟨את⟩ ang mga Emim sa Shaweh-Kiryatayim.",
+  "tokens": [
+    {
+      "surface": "ובארבע",
+      "gloss": "kag sa ika-napulo kag apat"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "apat"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "nga tuig"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nagkadto"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "si Kedorlaomer"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "kag ang mga hari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kaupod niya",
+      "marks": "ang mga hari"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "kag gintama nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga Refaim"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "ang mga Refaim"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "sa Ashterot"
+    },
+    {
+      "surface": "קרנים",
+      "gloss": "-Karnayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga Zuzim"
+    },
+    {
+      "surface": "הזוזים",
+      "gloss": "ang mga Zuzim"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa Ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga Emim"
+    },
+    {
+      "surface": "האימים",
+      "gloss": "ang mga Emim"
+    },
+    {
+      "surface": "בשוה",
+      "gloss": "sa Shaweh"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "-Kiryatayim"
+    }
+  ],
+  "timestamp": "2026-09-21T15:59:58.064033949Z",
+  "model": "glm-5.3"
+}

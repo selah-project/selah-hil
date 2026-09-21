@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kag nagbangon sing madanlog si Hizkiyahu nga hari kag gintipon niya ⟨את⟩ ang mga dungganan sang dakbanwa kag nangkid ⟨sia⟩ sa balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "nagbangon sing madanlog"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "si Hizkiyahu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nga hari"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "kag gintipon niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga dungganan sang dakbanwa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ang mga dungganan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sang dakbanwa"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "kag nangkid"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T22:11:23.649832397Z",
+  "model": "glm-5.3"
+}

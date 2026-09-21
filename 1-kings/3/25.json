@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag nagsiling ang hari: Gun-aa ⟨את⟩ ang bata nga buhi sa duha, kag ihatag ⟨את⟩ ang katunga sa isa kag ⟨את⟩ ang katunga sa isa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "gun-aa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bata nga buhi"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "החי",
+      "gloss": "nga buhi"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "sa duha"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "kag ihatag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katunga"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "ang katunga"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "sa isa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang katunga"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "ang katunga"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "sa isa"
+    }
+  ],
+  "timestamp": "2026-09-21T18:27:15.413770022Z",
+  "model": "glm-5.3"
+}

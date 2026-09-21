@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag nakita sang reyna sang Sheva ⟨את⟩ tanan nga kaalam ni Shelomoh kag ang balay nga iya gintukod.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "kag nakita"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "reyna"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "sang Sheva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga kaalam ni Shelomoh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "nga kaalam"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "kag ang balay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "iya gintukod"
+    }
+  ],
+  "timestamp": "2026-09-21T22:28:58.797380415Z",
+  "model": "glm-5.3"
+}

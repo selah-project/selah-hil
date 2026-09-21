@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag nagpanaog si Moshe sa tunga sang katawhan, kag naghambal siya sa ila.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "kag nagpanaog"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tunga sang katawhan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag naghambal"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-21T16:26:57.506820083Z",
+  "model": "glm-5.3"
+}

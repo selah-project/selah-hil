@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 135,
+  "translation": "Kay ako nakahibalo nga dako si Yahweh, kag si Adonay ⟨namon⟩ labaw sa tanan nga mga dios.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nakahibalo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "kag si Adonay ⟨namon⟩"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "labaw sa tanan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga dios"
+    }
+  ],
+  "timestamp": "2026-09-21T20:52:07.705328859Z",
+  "model": "glm-5.3"
+}

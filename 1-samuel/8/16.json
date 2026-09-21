@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ⟨את⟩ inyo mga sulugoon nga lalaki kag ⟨את⟩ inyo mga sulugoon nga babae kag ⟨את⟩ inyo mga batan-on nga lalaki — ang mga maayo — kag ⟨את⟩ inyo mga mundo kuwaon niya, kag himuon niya sa iya kaugalingon nga buluhaton.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "inyo mga sulugoon nga lalaki"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "inyo mga sulugoon nga lalaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "inyo mga sulugoon nga babae"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "inyo mga sulugoon nga babae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "inyo mga batan-on nga lalaki"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "inyo mga batan-on nga lalaki"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "ang mga maayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "inyo mga mundo"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "inyo mga mundo"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "kuwaon niya"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "kag himuon niya"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "sa iya kaugalingon nga buluhaton"
+    }
+  ],
+  "timestamp": "2026-09-21T17:58:48.850151576Z",
+  "model": "glm-5.3"
+}

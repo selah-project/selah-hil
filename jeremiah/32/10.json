@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Kag ginsulat ko sa sulatan, kag ginsealan ko, kag ginpamatuod ko ang mga saksi, kag gintimbang ko ang pilak sa timbangan.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "ginsulat ko"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "sa sulatan"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "kag ginsealan ko"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "kag ginpamatuod ko"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "ang mga saksi"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "kag gintimbang ko"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ang pilak"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "sa timbangan"
+    }
+  ],
+  "timestamp": "2026-09-21T19:30:07.412441620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Tanan nga nagakamang nga buhi — para sa inyo <ini> magakabuhi nga pagkaon; subong sang berde nga sagbut, ginhatag ko sa inyo ⟨את⟩ ang tanan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "nagakamang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ini"
+    },
+    {
+      "surface": "חי",
+      "gloss": "buhi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para sa inyo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magakabuhi"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "nga pagkaon"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "subong sang berde"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "sagbut"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ginhatag ko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    }
+  ],
+  "timestamp": "2026-09-21T15:57:47.388870743Z",
+  "model": "glm-5.3"
+}

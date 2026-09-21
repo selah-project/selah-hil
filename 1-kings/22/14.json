@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Kag nagsiling si Mikhayhu: Buhi si Yahweh; kay ⟨את⟩ nga ipangsiling ni Yahweh sa akon, ina ang imatudlo ko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "si Mikhayhu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "buhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nga ipangsiling ni Yahweh sa akon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ipangsiling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "imatudlo ko"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "imatudlo ko"
+    }
+  ],
+  "timestamp": "2026-09-21T18:38:47.202650536Z",
+  "model": "glm-5.3"
+}

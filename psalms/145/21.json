@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 145,
+  "translation": "Ang pagdungog kay Yahweh hambalon sang akon baba, kag pagdayawon sang tanan nga unod ang iya balaan nga Ngalan sa gakan-away kag sa gakan-away pa gid.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "pagdungog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "hambalon"
+    },
+    {
+      "surface": "פי",
+      "gloss": "sang akon baba"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "kag pagdayawon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tanan nga"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "unod"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Ngalan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "iya balaan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa gakan-away"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kag sa gakan-away pa gid"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:36.335027234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "kag magkuha ang amay sang dalagita kag ang iya iloy, kag magguwa sila sang ⟨את⟩ mga timailhan sang pagkadalaga sang dalagita sa mga tigulang sang dakbanwa sa ganghaan;",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "kag magkuha"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ang amay"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "sang dalagita"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "kag ang iya iloy"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "kag magguwa sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga timailhan sang pagkadalaga sang dalagita"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "mga timailhan sang pagkadalaga"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "sang dalagita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga tigulang"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sang dakbanwa"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "sa ganghaan"
+    }
+  ],
+  "timestamp": "2026-09-21T17:28:02.983322796Z",
+  "model": "glm-5.3"
+}

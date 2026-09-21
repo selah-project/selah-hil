@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Kag kon indi kamo magpatalingdat sa amon sa pagtuli, kuhaon namon ⟨את⟩ ang amon anak nga babae kag maghalin kami.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "magpatalingdat kamo"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "sa pagtuli"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "kuhaon namon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang amon anak nga babae"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "ang amon anak nga babae"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "kag maghalin kami"
+    }
+  ],
+  "timestamp": "2026-09-21T16:11:42.170108426Z",
+  "model": "glm-5.3"
+}

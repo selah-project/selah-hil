@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 106,
+  "translation": "Tumdangi ako, Yahweh, sa kalipay sang imo katawhan; pangitaon ako sa imo kaluwas.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "tumdangi ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "sa kalipay"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sang imo katawhan"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "pangitaon ako"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "sa imo kaluwas"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:41.814571371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 15:32",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Sa ikaduha ka tuig ni Pekah anak nga lalaki ni Remalyahu hari sang Yisrael, naghari si Yotam anak nga lalaki ni Uziyahu hari sang Yehudah.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Sa tuig"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ikaduha"
+    },
+    {
+      "surface": "לפקח",
+      "gloss": "ni Pekah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak nga lalaki"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "ni Remalyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "si Yotam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak nga lalaki"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "ni Uziyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-21T18:46:15.210048340Z",
+  "model": "glm-5.3"
+}

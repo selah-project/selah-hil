@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 71,
+  "translation": "Indi ako pagtapon sa tion sang katigulangan; sang matapos ang akon kusog, indi ako pagbaya-i.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "pagtapon sa akon"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "sa tion"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "sang katigulangan"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "sang matapos"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ang akon kusog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "pagbaya-i ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:15.840368222Z",
+  "model": "glm-5.3"
+}

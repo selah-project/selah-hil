@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 34:10",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Sa gab-i kag sa adlaw indi ⟨ini⟩ mapatya; sa dayon magaangat ang iya aso. Halin sa kaliwatan tubtob kaliwatan magabinaya ⟨ini⟩; sa dayon kag ka dayon, wala sing magaligad sa iya.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "gab-i"
+    },
+    {
+      "surface": "ויומם",
+      "gloss": "kag adlaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "mapatya"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "magaangat"
+    },
+    {
+      "surface": "עשנה",
+      "gloss": "iya aso"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "halin sa kaliwatan"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "tubtob kaliwatan"
+    },
+    {
+      "surface": "תחרב",
+      "gloss": "magabinaya"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "נצחים",
+      "gloss": "ka dayon"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala sing"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "magaligad"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T19:03:57.597360578Z",
+  "model": "glm-5.3"
+}

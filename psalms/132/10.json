@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 132,
+  "translation": "Tungod kay David nga imo sulugoon, indi pagbalikli sang dagway sang imo Mesiyas.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "Tungod kay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "imo sulugoon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "pagbalikli"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sang dagway"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "sang imo Mesiyas"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:25.157571450Z",
+  "model": "glm-5.3"
+}

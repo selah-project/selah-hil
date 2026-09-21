@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 34:2",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Kag mag-andam ka sa kaagahon, kag mag-angat ka sa kaagahon sa bundor sang Sinai, kag magatindog ka didto sa akon sa ibabaw sang bundor.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kag mag-"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "andam"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "sa kaagahon"
+    },
+    {
+      "surface": "ועלית",
+      "gloss": "kag mag-angat ka"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa kaagahon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bundor"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "kag magatindog ka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ibabaw"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "sang bundor"
+    }
+  ],
+  "timestamp": "2026-09-21T16:36:47.073285312Z",
+  "model": "glm-5.3"
+}

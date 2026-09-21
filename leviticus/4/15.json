@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag magbutang ang mga gulang sang katilingban ⟨את⟩ ang ila mga kamot sa ulo sang baka sa atubangan ni Yahweh, kag ihawon ang ⟨את⟩ baka sa atubangan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "kag magbutang"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ang mga gulang"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "sang katilingban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ila mga kamot"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ang ila mga kamot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sang baka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "kag ihawon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang baka"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ang baka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:43:31.513056667Z",
+  "model": "glm-5.3"
+}

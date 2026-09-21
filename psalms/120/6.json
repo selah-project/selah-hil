@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 120,
+  "translation": "Madugay na nga nagpuyo ang akon kalag kaupod sang nagadumili sang kappahublag.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "madugay na"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "nagpuyo"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ang"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akon kalag"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaupod"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "sang nagadumili"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sang kappahublag"
+    }
+  ],
+  "timestamp": "2026-09-21T20:50:41.294878046Z",
+  "model": "glm-5.3"
+}

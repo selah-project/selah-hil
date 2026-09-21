@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 34,
+  "translation": "Ginabantayan ang tanan nga iya mga tulang; isa sa mga ini indi naguba.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "ginabantayan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "nga iya mga tulang"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "isa"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "sa mga ini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "naguba"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:10.177782348Z",
+  "model": "glm-5.3"
+}

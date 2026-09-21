@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 89,
+  "translation": "Bisan ginpabalikad mo ang talab sang iya espada kag wala mo siya pagpatindog sa gubat.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "ginpabalikad mo"
+    },
+    {
+      "surface": "צור",
+      "gloss": "talab"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "sang iya espada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "mo siya pagpatindog"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "sa gubat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:26.833084964Z",
+  "model": "glm-5.3"
+}

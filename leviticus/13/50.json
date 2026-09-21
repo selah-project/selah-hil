@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag tan-awon sang saserdote ⟨את⟩ ang dutâ kag sirahan niya ⟨את⟩ ang may dutâ sing pito ka adlaw.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Kag tan-awon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang saserdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dutâ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ang dutâ"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "kag sirahan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang may dutâ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ang may dutâ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sing pito ka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "adlaw"
+    }
+  ],
+  "timestamp": "2026-09-21T16:49:03.719342343Z",
+  "model": "glm-5.3"
+}

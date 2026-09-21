@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 102,
+  "translation": "Nagbantay ako nga wala sing tulog, kag nagligad ako subong sang bugtong nga ibon sa ibabaw sang atop.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "Nagbantay ako nga wala sing tulog"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "kag nagligad ako"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "subong sang ibon"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "nga bugtong"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "גג",
+      "gloss": "sang atop"
+    }
+  ],
+  "timestamp": "2026-09-21T20:44:42.743132605Z",
+  "model": "glm-5.3"
+}

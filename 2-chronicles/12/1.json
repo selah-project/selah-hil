@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag natabo, sang nahirugi na ang paghari ni Rehavam kag sang napakusog na siya, ginbayaan niya ⟨את⟩ ang Torah ni Yahweh, kag ang tanan nga Yisrael upod sa iya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kag natabo"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "sang nahirugi na"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ang paghari"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ni Rehavam"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "kag sang napakusog na siya"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "ginbayaan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Torah"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ang Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan nga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "upod sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T22:04:05.635300256Z",
+  "model": "glm-5.3"
+}

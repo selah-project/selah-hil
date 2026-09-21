@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag ginpahibalo ni Moshe kay Aharon ⟨את⟩ tanan nga mga pulong ni Yahweh nga iya ginsugo sa iya, kag ⟨את⟩ tanan nga mga timailhan nga iya ginmanduan sa iya.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ginpahibalo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kay Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nga mga pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "iya ginsugo sa iya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "nga mga timailhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ginmanduan sa iya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:21:23.407720337Z",
+  "model": "glm-5.3"
+}

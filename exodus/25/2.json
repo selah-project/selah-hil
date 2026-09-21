@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Maghambal ka sa mga anak sang Yisrael, kag magakuha sila para sa akon sang halad; gikan ⟨את⟩ tagsa ka tawo nga magapasiyo ang iya kasing-kasing, kuhaa ninyo ⟨את⟩ ang akon halad.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Maghambal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "kag magakuha sila"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para sa akon"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "sang halad"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "gikan ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tagsa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ka tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "magapasiyo"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ang iya kasing-kasing"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "kuhaa ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon halad"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "ang akon halad"
+    }
+  ],
+  "timestamp": "2026-09-21T16:32:16.537124139Z",
+  "model": "glm-5.3"
+}

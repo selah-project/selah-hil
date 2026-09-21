@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Kag ginsakay nila ⟨את⟩ ila balhug sa ila mga buriko, kag naglakat sila gikan sa sadto.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "kag ginsakay nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ila balhug"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "ila balhug"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "ila mga buriko"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "kag naglakat sila"
+    },
+    {
+      "surface": "משם",
+      "gloss": "gikan sa sadto"
+    }
+  ],
+  "timestamp": "2026-09-21T16:16:16.423351215Z",
+  "model": "glm-5.3"
+}

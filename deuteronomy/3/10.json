@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Tanan nga mga dakbanwa sang kapatagan, kag tanan sang Gilad, kag tanan sang Bashan, hasta sa Salkah kag Edrei, mga dakbanwa sang ginharian ni Og sa Bashan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tanan"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "nga mga dakbanwa"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "sang kapatagan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag tanan"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "sang Gilad"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag tanan"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "sang Bashan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta sa"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salkah"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "kag Edrei"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga dakbanwa"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "sang ginharian"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "ni Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "sa Bashan"
+    }
+  ],
+  "timestamp": "2026-09-21T17:18:24.620440458Z",
+  "model": "glm-5.3"
+}

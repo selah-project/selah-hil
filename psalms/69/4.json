@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 69,
+  "translation": "Ginkapoy ako sa akon pagpanawag, natuyo ang akon lalamunan, nagluya ang akon mga mata, samantalang nagahulat ⟨ako⟩ sa akon Elohim.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Ginkapoy ako"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "sa akon pagpanawag"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "natuyo"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "ang akon lalamunan"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "nagluya"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang akon mga mata"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "samantalang nagahulat"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "sa akon Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:45.811559403Z",
+  "model": "glm-5.3"
+}

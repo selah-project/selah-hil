@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 101,
+  "translation": "Ang bumalangoy sing tago sa iya kaupod, ⟨את⟩ iya pagapon-on ko; ang mataas sang mata kag malapad sang kasingkasing, ⟨את⟩ siya indi ko makaya.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "bumalangoy"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sa tago"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "iya kaupod"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "iya"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "pagapon-on"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "mataas"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mata"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "kag malapad"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "makaya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:44.139341212Z",
+  "model": "glm-5.3"
+}

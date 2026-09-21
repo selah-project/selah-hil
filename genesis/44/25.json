@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "Kag nagsiling ang amon amay: Magbalik kamo, magbakal kamo sang gamay nga pagkaon sa amon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ang amon amay"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "magbalik kamo"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "magbakal kamo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "gamay"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nga pagkaon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:16:57.535579182Z",
+  "model": "glm-5.3"
+}

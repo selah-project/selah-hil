@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag ginpatindog ni Bilam ⟨את⟩ iya mga mata, kag nakita niya ⟨את⟩ Yisrael nga nagaestar suno sa iya mga tribo, kag nag-abot sa iya ang espiritu sang Elohim.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "kag ginpatindog"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ni Bilam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya mga mata"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "iya mga mata"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "kag nakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "nga nagaestar"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "suno sa iya mga tribo"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "kag nag-abot"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ang espiritu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T17:11:46.612755484Z",
+  "model": "glm-5.3"
+}

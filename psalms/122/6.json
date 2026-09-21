@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 122,
+  "translation": "Panggotiya sang kaangayan sang Yerushalayim; magaabanta-ay ang mga nagahigugma sa imo.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "Panggotiya"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kaangayan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "magaabanta-ay"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "ang mga nagahigugma sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:41.837123444Z",
+  "model": "glm-5.3"
+}

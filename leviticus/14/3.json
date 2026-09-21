@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag magaguwa ang koheno sa guwa sang kampo, kag t-an-awon sang koheno, kag yari, nag-ayo na ang sapa sang tzaraat halin sa tawo nga may tzaraat.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "kag magaguwa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang koheno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "guwa"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "sang kampo"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "kag t-an-awon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang koheno"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kag yari"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "nag-ayo"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ang sapa"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "sang tzaraat"
+    },
+    {
+      "surface": "מן",
+      "gloss": "halin"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "sa tawo nga may tzaraat"
+    }
+  ],
+  "timestamp": "2026-09-21T22:22:00.736274043Z",
+  "model": "glm-5.3"
+}

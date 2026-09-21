@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 17:9",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Tumindog ka, lakat sa Tsarephath nga ara sa Tsidon, kag magpuyo ka didto; tan-awa, ginsugo ko didto ang isa ka babae nga bao sa pagpadangat sa imo.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Tumindog"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lakat"
+    },
+    {
+      "surface": "צרפתה",
+      "gloss": "sa Tsarephath"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga ara"
+    },
+    {
+      "surface": "לצידון",
+      "gloss": "sa Tsidon"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "kag magpuyo ka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ginsugo ko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ang isa ka babae"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "nga bao"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "sa pagpadangat sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:35:05.037546508Z",
+  "model": "glm-5.3"
+}

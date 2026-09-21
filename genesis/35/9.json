@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "Kag nagpakita ang Elohim kay Yaakov paagi pa, sa iya paghalin sa Padan sang Aram, kag iya ginpakamaayo ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nagpakita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "paagi pa"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "sa iya paghalin"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "sa Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "sang Aram"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "kag iya ginpakamaayo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "si Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-21T16:10:52.178983924Z",
+  "model": "glm-5.3"
+}

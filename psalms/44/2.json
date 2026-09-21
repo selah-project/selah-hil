@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 44,
+  "translation": "O Elohim, sang amon mga igogong ginbakati namon; ang amon mga kag-anak nag Hambal sa amon sang binuhat mo sa ila mga adlaw, sa mga adlaw sang unahan.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "sa amon mga igogong"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "ginbakati namon"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "ang amon mga kag-anak"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "nag hambal"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "sang binuhat"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "imo nga ginbuhat"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "sa ila mga adlaw"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "sa mga adlaw"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "sang unahan"
+    }
+  ],
+  "timestamp": "2026-09-21T22:39:39.303442097Z",
+  "model": "glm-5.3"
+}

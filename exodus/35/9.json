@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 35:9",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "kag mga bato sang shoham kag mga bato nga ginpahamtang, para sa ephod kag para sa choshen",
+  "tokens": [
+    {
+      "surface": "ואבני",
+      "gloss": "kag mga bato"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "kag mga bato"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "nga ginpahamtang"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "para sa ephod"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "kag para sa choshen"
+    }
+  ],
+  "timestamp": "2026-09-21T16:35:52.804129395Z",
+  "model": "glm-5.3"
+}

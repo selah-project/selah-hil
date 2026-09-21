@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "apang sa bunga sang kahoy nga yara sa tunga sang tanaman, nagsiling si Elohim: Indi kamo magkaon sini kag indi kamo magtandog sini, basi kamo mamatay.",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "apang sa bunga"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "sang kahoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "sang tanaman"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nagsiling"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamo magkaon"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "sini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "kamo magtandog"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sini"
+    },
+    {
+      "surface": "פן",
+      "gloss": "basi"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "kamo mamatay"
+    }
+  ],
+  "timestamp": "2026-09-21T15:56:20.985062760Z",
+  "model": "glm-5.3"
+}

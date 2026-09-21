@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 64,
+  "translation": "Magakalipay ang matarong kay Yahweh kag magadulhog sa iya, kag magapadayaw ang tanan nga malini sang kasingkasing.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "magakalipay"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ang matarong"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "kag magadulhog"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "kag magapadayaw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "nga malini"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sang kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:36.899250357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 12:14",
+  "book": "zechariah",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "ang tanan nga mga banay nga nabilin, banay kag banay nga bug-ay, kag ang ila mga asawa nga bug-ay",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "המשפחות",
+      "gloss": "nga mga banay"
+    },
+    {
+      "surface": "הנשארות",
+      "gloss": "nga nabilin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "banay"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "kag banay"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "nga bug-ay"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "kag ang ila mga asawa"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "nga bug-ay"
+    }
+  ],
+  "timestamp": "2026-09-21T20:20:04.798064119Z",
+  "model": "glm-5.3"
+}

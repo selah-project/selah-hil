@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag nagsiling ang hari: Paspasuhi ninyo ⟨את⟩ si Haman sa pagtuman sang ⟨את⟩ ginpangamuyo ni Ester; kag nagsulod ang hari kag si Haman sa bista nga ginhimo ni Ester.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "paspasuhi ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "si Haman"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa pagtuman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ginpangamuyo ni Ester"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ginpangamuyo"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ni Ester"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kag nagsulod"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "kag si Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "bista"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ni Ester"
+    }
+  ],
+  "timestamp": "2026-09-21T22:43:07.321174576Z",
+  "model": "glm-5.3"
+}

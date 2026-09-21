@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 19:5",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 19,
+  "translation": "Kag gintawag nila si Lot, kag nagsiling sila sa iya: Diin ang mga tawo nga nagkadto sa imo subong sang gab-i? Pagwa-a sila sa amon, agod makilala namon ⟨אתם⟩ sila.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "gintawag nila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "si Lot"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "kag nagsiling sila"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "איה",
+      "gloss": "diin"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nagkadto"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "subong sang gab-i"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "pagwa-a sila"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "agod makilala namon"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sila (ang mga bisita)"
+    }
+  ],
+  "timestamp": "2026-09-21T16:01:37.299290960Z",
+  "model": "glm-5.3"
+}

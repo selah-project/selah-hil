@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag ginpadian ko ⟨את⟩ si Moshe kag ⟨את⟩ si Aharon, kag ginhampak ko ⟨את⟩ ang Mitsrayim, suno sang akon ginhimo sa tunga sini; kag tapos ginpaguwa ko ⟨את⟩ kamo.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "ginpadian ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "ginhampak ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ang Mitsrayim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "suno sang"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "akon ginhimo"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "sa tunga sini"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "kag tapos"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ginpaguwa ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:45:58.802533402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag ang tanan nga halad sang pari bug-os ⟨mag-amo⟩ nga itonogon sa aso; indi makaunon.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "kag ang tanan"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "halad"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "sang pari"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "bug-os"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "mag-amo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "makaunon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:43:43.611209681Z",
+  "model": "glm-5.3"
+}

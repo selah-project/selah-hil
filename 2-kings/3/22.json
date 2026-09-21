@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag nagbángag sila sa kaagahon, kag ang adlaw nagbanwa sa ibabaw sang tubig, kag nakita sang Moab halin sa atbang ⟨את⟩ ang tubig nga pula subong sang dugo.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "kag nagbángag sila"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa kaagahon"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "kag ang adlaw"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "nagbanwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sang tubig"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "kag nakita"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "sang Moab"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "halin sa atbang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tubig"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang tubig"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "nga pula"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "subong sang dugo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:40:04.240075693Z",
+  "model": "glm-5.3"
+}

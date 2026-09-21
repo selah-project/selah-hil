@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 105,
+  "translation": "Pasalamati ninyo si Yahweh; tumawag kamo sa iya ngalan; pagpahibaluha ninyo sa mga pungsod ang iya mga binuhat.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Pasalamati ninyo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "tumawag kamo"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "sa iya ngalan"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "pagpahibaluha ninyo"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "sa mga pungsod"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ang iya mga binuhat"
+    }
+  ],
+  "timestamp": "2026-09-21T20:46:41.524499564Z",
+  "model": "glm-5.3"
+}

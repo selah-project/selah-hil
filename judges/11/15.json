@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "kag naghambal siya sa iya: Amo ini ang ginhambal ni Yiftah: Wala ginkuha ni Yisrael ⟨את⟩ ang duta sang Moav kag ⟨את⟩ ang duta sang mga anak ni Ammon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag naghambal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Amo ini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang ginhambal"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ni Yiftah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Wala"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ginkuha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duta sang Moav"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "sang Moav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang duta sang mga anak ni Ammon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sang mga anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ni Ammon"
+    }
+  ],
+  "timestamp": "2026-09-21T17:52:11.405393892Z",
+  "model": "glm-5.3"
+}

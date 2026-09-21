@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-kings 4:34",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag nag-angkan ⟨siya⟩ kag nagligtor sa ibabaw sang bata, kag ginpundar ang iya baba sa ibabaw sang iya baba, kag ang iya mga mata sa ibabaw sang iya mga mata, kag ang iya mga palad sa ibabaw sang iya mga palad, kag nagbukadkad ⟨siya⟩ sa ibabaw sini, kag nag-init ang unod sang bata.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "nag-angkan"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "nagligtor"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "bata"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ginpundar"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "iya baba"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "iya baba"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "iya mga mata"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "iya mga mata"
+    },
+    {
+      "surface": "וכפיו",
+      "gloss": "iya mga palad"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "iya mga palad"
+    },
+    {
+      "surface": "ויגהר",
+      "gloss": "nagbukadkad"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa ibabaw sini"
+    },
+    {
+      "surface": "ויחם",
+      "gloss": "nag-init"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "unod"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "bata"
+    }
+  ],
+  "timestamp": "2026-09-21T22:30:02.426147734Z",
+  "model": "glm-5.3"
+}

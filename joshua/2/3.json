@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 2:3",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag ginpados sang hari sang Yericho ngadto ke Rakhab, nga nagaingon: Palagwa ⟨mo⟩ ang mga tawo nga nagkadto sa imo, nga nagsulod sa imo balay, kay sa pagpanilip ⟨את⟩ sang bug-os nga duta sila nagkadto.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kag ginpados"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "sang Yericho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto ke"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rakhab"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "הוציאי",
+      "gloss": "palagwa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "nga nagasulod"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nagsulod"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "sa imo balay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "sa pagpanilip"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang bug-os nga duta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bug-os nga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nagkadto sila"
+    }
+  ],
+  "timestamp": "2026-09-21T17:36:01.757625531Z",
+  "model": "glm-5.3"
+}

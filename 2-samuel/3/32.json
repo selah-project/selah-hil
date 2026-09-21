@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ginlubong nila ⟨את⟩ si Avner sa Hevron; kag ginbansag sang hari ⟨את⟩ ang iya tingog kag nagpanangis siya sa linibngan ni Avner, kag ang tanan nga mga tawo nagpanangis man.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "Kag ginlubong nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "si Avner"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "sa Hevron"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "kag ginbansag"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya tingog"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "ang iya tingog"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "kag nagpanangis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "linibngan"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "ni Avner"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "kag nagpanangis man"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mga tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T18:14:13.646462278Z",
+  "model": "glm-5.3"
+}

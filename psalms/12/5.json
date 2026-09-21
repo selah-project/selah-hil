@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "nga naghambal, Sa aton dila magadaog kami; ang aton mga bibig ⟨אתנו⟩ yara sa aton; sin-o ang agalon sa aton?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "naghambal"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "sa aton dila"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "magadaog"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "aton mga bibig"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "sa aton"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "agalon"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa aton"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:09.343734991Z",
+  "model": "glm-5.3"
+}

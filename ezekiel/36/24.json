@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 36:24",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Kag kuhaon ko kamo ⟨את⟩ sa mga pungsod kag tipunon ko kamo ⟨את⟩ sa tanan nga mga duta kag dalahon ko kamo ⟨את⟩ sa inyo duta.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "Kag kuhaon ko kamo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo",
+      "marks": "kamo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mga pungsod"
+    },
+    {
+      "surface": "וקבצתי",
+      "gloss": "kag tipunon ko kamo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo",
+      "marks": "kamo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "nga mga duta"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "kag dalaon ko kamo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo",
+      "marks": "kamo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "inyo duta"
+    }
+  ],
+  "timestamp": "2026-09-21T19:57:36.375908833Z",
+  "model": "glm-5.3"
+}

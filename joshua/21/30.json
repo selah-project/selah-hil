@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag sa tribo sang Asher ⟨את⟩ Mishal kag ⟨את⟩ iya mga pastulan, ⟨את⟩ Avdon kag ⟨את⟩ iya mga pastulan.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Kag sa tribo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sang Asher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishal"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "Mishal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga pastulan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iya mga pastulan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avdon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga pastulan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iya mga pastulan"
+    }
+  ],
+  "timestamp": "2026-09-21T17:43:35.745716165Z",
+  "model": "glm-5.3"
+}

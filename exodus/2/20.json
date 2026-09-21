@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Kag nagsiling sia sa iya mga anak nga babae: Kag diin na sia? Ngaa ini — ginbay-i ninyo ⟨את⟩ ang tawo? Tawgi ninyo sia, agod magkaon sia sang tinapay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling sia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "iya mga anak nga babae"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "kag diin na sia"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Ngaa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "ginbay-i ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tawo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "Tawgi ninyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sia"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "agod magkaon sia"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "sang tinapay"
+    }
+  ],
+  "timestamp": "2026-09-21T16:18:45.602679407Z",
+  "model": "glm-5.3"
+}

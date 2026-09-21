@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 85,
+  "translation": "Magakaakig ka bala sa amon sing dayon? Magadugay bala ang imo kaakig sa isa ka kaliwatan kag sa isa pa ka kaliwatan?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "sing dayon bala"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "magakaakig ka"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sa amon"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "magadugay bala"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ang imo kaakig"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "sa isa ka kaliwatan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kag sa isa pa ka kaliwatan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:42:00.318423654Z",
+  "model": "glm-5.3"
+}

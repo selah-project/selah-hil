@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kuhaa ⟨את⟩ ang mga Levita halin sa tunga sang mga anak sang Yisrael, kag paghinaw-a ⟨אתם⟩ sila.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "kuhaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga Levita"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "mga Levita"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "kag paghinaw-a"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sila (ang mga Levita)"
+    }
+  ],
+  "timestamp": "2026-09-21T17:03:05.240401419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 12:33",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag ginpugus sang Mitsrayim ang katawhan sa pagpadaligon sa pagpahalon sa ila gikan sa duta, kay nagsiling sila: Tanan kita nga mga patay.",
+  "tokens": [
+    {
+      "surface": "ותחזק",
+      "gloss": "ginpugus"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "sa pagpadaligon"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "sa pagpahalon sa ila"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nagsiling sila"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "tanan kita"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "mga patay"
+    }
+  ],
+  "timestamp": "2026-09-21T16:25:25.979535381Z",
+  "model": "glm-5.3"
+}

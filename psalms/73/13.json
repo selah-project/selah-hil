@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 73,
+  "translation": "Sang-amon lamang ginhinlo ko ang akon kasingkasing, kag ginpanalipdan ko nga wala sing sala ang akon mga palad.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "sang-amon lamang"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "wala sing kapuslad"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "ginhinlo ko"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ang akon kasingkasing"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "kag ginpanalipdan ko"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "nga wala sing sala"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ang akon mga palad"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:45.864712635Z",
+  "model": "glm-5.3"
+}

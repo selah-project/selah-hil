@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 124,
+  "translation": "Dayawan si Yahweh, nga wala ⟨niya⟩ ginhatag kami bilang pagkaon sang ila mga ngipon.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Dayawan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "ginhatag kami"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "bilang pagkaon"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "sang ila mga ngipon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:51:58.624306032Z",
+  "model": "glm-5.3"
+}

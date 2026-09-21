@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 148,
+  "translation": "Dayawon ninyo siya, tanan nga iya mga mensahero; dayawon ninyo siya, tanan nga iya panon.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Dayawon ninyo siya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "iya mga mensahero"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "dayawon ninyo siya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "iya panon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:54:30.465929664Z",
+  "model": "glm-5.3"
+}

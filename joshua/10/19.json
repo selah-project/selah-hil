@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 10:19",
+  "book": "joshua",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag kamo, indi kamo magtindog ⟨nga pirme⟩; pagpanaw kamo pagligtod sa inyo mga kaaway kag ligsai ninyo ⟨את⟩ sila; indi ninyo sila paghatud sa pagsulod sa ila mga dakbayan, kay sila ginhatag ni Yahweh nga inyo Elohim sa inyo mga kamot.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "kag kamo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "magtindog"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "pagpanaw pagligtod"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sa"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "inyo mga kaaway"
+    },
+    {
+      "surface": "וזנבתם",
+      "gloss": "kag ligsai ninyo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila (ang mga kaaway)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תתנום",
+      "gloss": "ninyo paghatud"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "sa pagsulod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "ila mga dakbayan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "ginhatag sila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "nga inyo Elohim"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "sa inyo mga kamot"
+    }
+  ],
+  "timestamp": "2026-09-21T17:37:51.064769632Z",
+  "model": "glm-5.3"
+}

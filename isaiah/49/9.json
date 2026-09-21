@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 49:9",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 49,
+  "translation": "nga nagasiling sa mga bilanggo: Maggwa kamo, kag sa mga yara sa kadudulman: Magpakita kamo. Sa mga dalan magakabuhi sila, kag sa tanan nga mataas nga kapatagan ang ila pastulan.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    },
+    {
+      "surface": "לאסורים",
+      "gloss": "sa mga bilanggo"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "Maggwa kamo"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "sa mga yara"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "sa kadudulman"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "Magpakita kamo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "mga dalan"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "magakabuhi sila"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "kag sa tanan"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "mga mataas nga kapatagan"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "ila pastulan"
+    }
+  ],
+  "timestamp": "2026-09-21T19:08:14.635995569Z",
+  "model": "glm-5.3"
+}

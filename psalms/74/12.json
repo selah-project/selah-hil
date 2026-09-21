@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 74,
+  "translation": "Kag Elohim ⟨amo⟩ ang akon hari gikan sa mga unang tion, nga naghimo sang mga kaluwas sa tunga sang duta.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "kag Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ang akon hari"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "gikan sa mga unang tion"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "naghimo"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "mga kaluwas"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:38:54.099197462Z",
+  "model": "glm-5.3"
+}

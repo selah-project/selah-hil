@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ginpamatay niya ini, kag ginsab-og ni Moshe ⟨את⟩ ang dugo sa halaran sa palibot.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "ginpamatay niya"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "ginsab-og"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dugo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ang dugo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    }
+  ],
+  "timestamp": "2026-09-21T16:46:08.865114409Z",
+  "model": "glm-5.3"
+}

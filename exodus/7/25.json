@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Kag napuno ang pito ka adlaw pagkatapos sang paghampak ni Yahweh ⟨את⟩ ang suba.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "Kag napuno"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito ka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pagkatapos"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "sang paghampak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang suba"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ang suba"
+    }
+  ],
+  "timestamp": "2026-09-21T16:23:19.987843895Z",
+  "model": "glm-5.3"
+}

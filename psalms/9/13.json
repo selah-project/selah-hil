@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kay ang nangita sang dugo ⟨את⟩ ⟨אותם⟩ gindumdum niya ⟨sila⟩; wala niya pagkalimti ang pagpaninggit sang mga kabus.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ang nangita"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "sang dugo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "gindumdum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "pagkalimti"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "ang pagpaninggit"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "sang mga kabus"
+    }
+  ],
+  "timestamp": "2026-09-21T20:24:49.940597320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Kag ginpahuwa niya ang mga sagrado nga mga lalaki gikan sa duta, kag gintangtang niya ⟨את⟩ ang tanan nga mga dios-dios nga ginbuhat sang iya mga katigulangan.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "kag ginpahuwa"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ang mga sagrado nga mga lalaki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "kag gintangtang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga mga dios-dios"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "nga mga dios-dios"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginbuhat"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sang iya mga katigulangan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:34:29.798151706Z",
+  "model": "glm-5.3"
+}

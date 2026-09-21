@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Kag nagsiling si Elohim kay Avraham: Si Sarai, ang imo asawa — indi na pagtawga ⟨את⟩ ang iya ngalan nga Sarai, kay Sarah ang iya ngalan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Si Sarai"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "ang imo asawa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "pagtawga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya ngalan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ang iya ngalan"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "nga Sarai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ang iya ngalan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:01:55.555947020Z",
+  "model": "glm-5.3"
+}

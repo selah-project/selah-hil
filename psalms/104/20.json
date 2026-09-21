@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 104,
+  "translation": "Ginpabutang mo ang kadudulman kag naguin gab-i; sa sini nagakamang ang tanan nga mananap sang kagulangan.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "ginpabutang mo"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kadudulman"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kag naguin"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gab-i"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa sini"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "nagakamang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "mga mananap"
+    },
+    {
+      "surface": "יער",
+      "gloss": "kagulangan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:49.861577716Z",
+  "model": "glm-5.3"
+}

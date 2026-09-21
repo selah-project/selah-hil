@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kag nagpadala ang hari, kag nagtigum sa iya tanan nga hamtong sang Yehudah kag sang Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Kag nagpadala"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "kag nagtigum"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "nga hamtong"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "kag sang Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-21T18:51:20.674912421Z",
+  "model": "glm-5.3"
+}

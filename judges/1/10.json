@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag nangadto si Yehudah sa Kenaananhon nga nagaistar sa Khevron — kag ang ngalan sang Khevron sang una Kiryat-Arba — kag ginhampak nila ⟨את⟩ si Sheshai kag ⟨את⟩ si Akhiman kag ⟨את⟩ si Talmai.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kag nangadto"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "si Yehudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ang Kenaananhon"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "nga nagaistar"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "sa Khevron"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "kag ang ngalan"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "sang Khevron"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "sang una"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "kag ginhampak nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Sheshai"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "si Sheshai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Akhiman"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "si Akhiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Talmai"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "si Talmai"
+    }
+  ],
+  "timestamp": "2026-09-21T17:45:23.383929957Z",
+  "model": "glm-5.3"
+}

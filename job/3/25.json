@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 3:25",
+  "book": "job",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kay ang katalagman nga ginakatalagman ko nag-abot ⟨sa akon⟩, kag ang kinakatalagman ko nag-abot sa akon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ang katalagman"
+    },
+    {
+      "surface": "פחדתי",
+      "gloss": "ginakatalagman ko"
+    },
+    {
+      "surface": "ויאתיני",
+      "gloss": "kag nag-abot"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kag ang"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "kinakatalagman ko"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "nag-abot"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T22:41:47.900030704Z",
+  "model": "glm-5.3"
+}

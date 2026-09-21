@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 118,
+  "translation": "Ginlibot ako subong sang mga putyokan; napalong sila subong sang kalayo sang mga tunok; kay sa ngalan ni Yahweh gintangtang ko sila.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "ginlibot ako"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "subong sang mga putyokan"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "napalong sila"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "subong sang kalayo"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "sang mga tunok"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "gintangtang ko sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:49.715794648Z",
+  "model": "glm-5.3"
+}

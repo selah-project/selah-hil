@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 108,
+  "translation": "Sin-o ang magadala sa akon sa ⟨isa ka⟩ katedraan nga kuta? Sin-o ang magatuytuy sa akon hasta sa Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "ang magadala sa akon"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "katedraan"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "nga kuta"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sin-o"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "ang magatuytuy sa akon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "sa Edom"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:35.553446675Z",
+  "model": "glm-5.3"
+}

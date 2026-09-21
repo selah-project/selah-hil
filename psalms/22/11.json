@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Sa imo ako ginpain halin sa tagipusuon; gikan sa tiyan sang akon iloy — ang akon El ikaw.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Sa imo"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "ginpain ako"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "halin sa tagipusuon"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "gikan sa tiyan"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "sang akon iloy"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ang akon El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:17.768557251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 22,
+  "translation": "Sa imo nagbutyang ang amon mga amay; nagbutyang sila, kag ginpahulas mo sila.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "nagbutyang"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ang amon mga amay"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "nagbutyang sila"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "kag ginpahulas mo sila"
+    }
+  ],
+  "timestamp": "2026-09-21T20:26:02.613297136Z",
+  "model": "glm-5.3"
+}

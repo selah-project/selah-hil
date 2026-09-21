@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 102,
+  "translation": "Sang una gintukod mo ang duta, kag ang mga langit amo ang buhat sang imo mga kamot.",
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "Sang una"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang duta"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "gintukod mo"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "kag ang buhat"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "sang imo mga kamot"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ang mga langit"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:32.541854922Z",
+  "model": "glm-5.3"
+}

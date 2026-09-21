@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Malig-on ang pagkamaligyon sang pungsod nga ang Dios sini amo si Yahweh, ang banwa nga iya ginpili nga iya mana.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "malig-on ang pagkamaligyon"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "sang pungsod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ang Dios sini amo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang banwa"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "iya ginpili"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "nga iya mana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iya"
+    }
+  ],
+  "timestamp": "2026-09-21T20:29:00.584510704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Si Yahweh, Elohim sang inyo mga katungdan, magdugang sa inyo sangsa kamo sing isa ka libo ka pilo, kag magpanalangin ⟨אתכם⟩ pareho sang iya ginsiling sa inyo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "sang inyo mga katungdan"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "magdugang"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "sangsa kamo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "isa ka libo"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ka pilo"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "kag magpanalangin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "pareho sang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "iya ginsiling"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:17:03.991815320Z",
+  "model": "glm-5.3"
+}

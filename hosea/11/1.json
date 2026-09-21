@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Tungod kay bata pa si Yisrael, kag ginhigugma ko siya, kag halin sa Mitsrayim gintawag ko ang akon anak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "tungod kay"
+    },
+    {
+      "surface": "נער",
+      "gloss": "bata pa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "si Yisrael"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "kag ginhigugma ko siya"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "kag halin sa Mitsrayim"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "gintawag ko"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ang akon anak"
+    }
+  ],
+  "timestamp": "2026-09-21T20:05:59.347915235Z",
+  "model": "glm-5.3"
+}

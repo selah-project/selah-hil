@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 37,
+  "translation": "Kag si Yirmiyahu nagasulod kag nagaguwa sa tunga sang katawhan, kay wala pa nila ibutang si ⟨אתו⟩ sa balay sang bilanggo.",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "kag si Yirmiyahu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nagasulod"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "kag nagaguwa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sang katawhan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kay wala"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "nila ibutang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "si ⟨אתו⟩",
+      "marks": "si Yirmiyahu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "sang bilanggo"
+    }
+  ],
+  "timestamp": "2026-09-21T19:32:24.480295543Z",
+  "model": "glm-5.3"
+}

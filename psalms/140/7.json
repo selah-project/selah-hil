@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 140,
+  "translation": "Nagsiling ako kay Yahweh: Ikaw ang akon Elohim; magpatalinginig ka, O Yahweh, sa tingog sang akon mga pangamuyo.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Nagsiling ako"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ang akon Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "magpatalinginig ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "O Yahweh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sa tingog"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "sang akon mga pangamuyo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:53:10.687304115Z",
+  "model": "glm-5.3"
+}

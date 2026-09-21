@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 42,
+  "translation": "Napulo kag duha kami ka mga utod, mga anak sang amay namon; ang isa wala na, kag ang gamay ⟨את⟩ upod sa amay namon sa adlaw ini, sa duta sang Kenaan.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "duha"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "napulo kag"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ka mga utod"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "sang amay namon"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "wala na"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "kag ang gamay"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sa adlaw ini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa amay namon"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "sa amay namon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa duta"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "sang Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:16:37.487609083Z",
+  "model": "glm-5.3"
+}

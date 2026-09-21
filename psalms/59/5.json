@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 59:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 59,
+  "translation": "Wala sing sala ⟨sa akon⟩ sila nagadalagan kag nagahandà; magmata ka sa pagtagbo sa akon, kag tan-awa.",
+  "tokens": [
+    {
+      "surface": "בלי",
+      "gloss": "wala sing"
+    },
+    {
+      "surface": "עון",
+      "gloss": "sala"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "nagadalagan sila"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "kag nagahandà"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "magmata ka"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "sa pagtagbo sa akon"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "kag tan-awa"
+    }
+  ],
+  "timestamp": "2026-09-21T20:35:15.597087116Z",
+  "model": "glm-5.3"
+}

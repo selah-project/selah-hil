@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Kag ginkuha niya sila kag ginpaagi niya sila ⟨את⟩ ang suba, kag ginpaagi niya ⟨את⟩ ang ⟨tanan⟩ nga iya.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "kag ginkuha niya sila"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "kag ginpaagi niya sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang suba"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ang suba"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "kag ginpaagi niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga iya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iya"
+    }
+  ],
+  "timestamp": "2026-09-21T16:08:44.894599917Z",
+  "model": "glm-5.3"
+}

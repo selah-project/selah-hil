@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 101,
+  "translation": "Indi ako magabutang sang butang nga beliyaal sa atubang sang akon mga mata; ang buhat sang mga nagalihis ginadumtan ko — indi ini magadikit sa akon.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "magabutang ako"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sang akon mga mata"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "butang"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "nga beliyaal"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ang buhat"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "sang mga nagalihis"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ginadumtan ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "magadikit"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sa akon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:45:16.533896660Z",
+  "model": "glm-5.3"
+}

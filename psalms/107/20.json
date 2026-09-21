@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 107,
+  "translation": "Ginpapadlat niya ang iya pulong kag ginpang-ayo sila, kag ginaluwas sila sa ila mga kagun-ob.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Ginpapadlat niya"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ang iya pulong"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "kag ginpang-ayo sila"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "kag ginaluwas sila"
+    },
+    {
+      "surface": "משחיתותם",
+      "gloss": "sa ila mga kagun-ob"
+    }
+  ],
+  "timestamp": "2026-09-21T20:47:00.913710625Z",
+  "model": "glm-5.3"
+}

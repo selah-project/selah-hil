@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 66,
+  "translation": "Hambala ninyo sa Elohim: \"Gamhananon gid ang imo mga ginahimo!\" Sang kadako sang imo kusog, ang imo mga kaaway magapangbutig sa imo.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "hambala ninyo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gid"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "gamhananon"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ang imo mga ginahimo"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "sang kadako"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "sang imo kusog"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "magapangbutig"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ang imo mga kaaway"
+    }
+  ],
+  "timestamp": "2026-09-21T20:36:00.269638282Z",
+  "model": "glm-5.3"
+}

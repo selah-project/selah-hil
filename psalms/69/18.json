@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 69,
+  "translation": "Kag indi pagtagoa ang imo dagway sa imo ⟨sulugoon⟩, kay ginsuksok ako sang kalisud; dalii, sabdi ako.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "pagtagoa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang imo dagway"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "sa imo ⟨sulugoon⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ginsuksok sang kalisud"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "dalii"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "sabdi ako"
+    }
+  ],
+  "timestamp": "2026-09-21T20:37:43.484184842Z",
+  "model": "glm-5.3"
+}

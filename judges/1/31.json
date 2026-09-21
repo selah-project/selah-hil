@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "judges 1:31",
+  "book": "judges",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Si Asher wala pagpalagyo sang ⟨את⟩ nga mga pumoluyo sa Akko kag ⟨את⟩ nga mga pumoluyo sa Tsidon, kag ⟨את⟩ Achlav kag ⟨את⟩ Akziv kag ⟨את⟩ Chelva kag ⟨את⟩ Afek kag ⟨את⟩ Rejov.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Si Asher"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "pagpalagyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga pumoluyo sa Akko"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "mga pumoluyo"
+    },
+    {
+      "surface": "עכו",
+      "gloss": "Akko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "mga pumoluyo sa Tsidon"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "mga pumoluyo"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Achlav"
+    },
+    {
+      "surface": "אחלב",
+      "gloss": "Achlav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Akziv"
+    },
+    {
+      "surface": "אכזיב",
+      "gloss": "Akziv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Chelva"
+    },
+    {
+      "surface": "חלבה",
+      "gloss": "Chelva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Afek"
+    },
+    {
+      "surface": "אפיק",
+      "gloss": "Afek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Rejov"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rejov"
+    }
+  ],
+  "timestamp": "2026-09-21T17:45:39.326392166Z",
+  "model": "glm-5.3"
+}

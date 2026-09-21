@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag ang mga anak ni Kehath: Amram, Yitshar, kag Hevron, kag Uzziel.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Kag ang mga anak"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ni Kehath"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "kag Yitshar"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "kag Hevron"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "kag Uzziel"
+    }
+  ],
+  "timestamp": "2026-09-21T21:50:54.818262509Z",
+  "model": "glm-5.3"
+}

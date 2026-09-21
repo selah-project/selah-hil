@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Pangkot sa akon, kag ihatod ko ang mga pungsod nga imo kabilin, kag ang imo pagtag-iya ang mga katapusan sang duta.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Pangkot"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "kag ihatod ko"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ang mga pungsod"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "imo kabilin"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "imo pagtag-iya"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "mga katapusan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    }
+  ],
+  "timestamp": "2026-09-21T20:23:06.464651328Z",
+  "model": "glm-5.3"
+}

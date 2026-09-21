@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Sa bulan nga nahauna, sa ikapulo kag apat ⟨nga adlaw⟩ sang bulan, sa tunga sang mga kagab-ihon, ⟨amo ang⟩ Pesah kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "sa bulan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "nga nahauna"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "sa ika-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "napulo kag apat"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sang bulan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "sang mga kagab-ihon"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T16:53:48.750252621Z",
+  "model": "glm-5.3"
+}

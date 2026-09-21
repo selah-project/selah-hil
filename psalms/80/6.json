@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 80,
+  "translation": "Ginpakaon mo sila sang tinapay sang luha, kag ginpainum mo sila sang luha nga ikatlo.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "ginpakaon mo sila"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "sang luha"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "kag ginpainum mo sila"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "sang luha"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "nga ikatlo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:41:17.640887347Z",
+  "model": "glm-5.3"
+}

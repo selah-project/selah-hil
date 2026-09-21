@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 4:3",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Ang inyo mga mata ang nakakita sang ⟨את⟩ amo nga ginhimo ni Yahweh sa kay Baal-Peor, kay ang tanan nga tawo nga nagsunod kay Baal-Peor, sila ginlaglag ni Yahweh nga imo Elohim gikan sa tunga mo.",
+  "tokens": [
+    {
+      "surface": "עיניכם",
+      "gloss": "inyo mga mata"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "ang nakakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amo nga ginhimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amo nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "sa kay Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nga tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nagsunod"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "ginlaglag sila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga imo Elohim"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "gikan sa tunga mo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:19:58.368296587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 38:10",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 38,
+  "translation": "Ang ila mga haligi duha ka pulo, kag ang ila mga pundasyon duha ka pulo, himagap; kag ang mga kawit sang mga haligi kag ang ila mga hawak, pilak.",
+  "tokens": [
+    {
+      "surface": "עמודיהם",
+      "gloss": "ang ila mga haligi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duha ka pulo"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "kag ang ila mga pundasyon"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duha ka pulo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "himagap"
+    },
+    {
+      "surface": "והי",
+      "gloss": "kag ang mga kawit"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "sang mga haligi"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "kag ang ila mga hawak"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pilak"
+    }
+  ],
+  "timestamp": "2026-09-21T16:38:57.884920816Z",
+  "model": "glm-5.3"
+}

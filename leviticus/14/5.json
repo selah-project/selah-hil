@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 14,
+  "translation": "Kag magasugo ang saserdote kag itodas ⟨את⟩ ang sapat nga isa sa isa ka sudlanan nga dal-on, sa ibabaw sang tubig nga buhi.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "Kag magasugo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang saserdote"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "kag itodas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang sapat nga isa"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "ang sapat"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "nga isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "isa ka sudlanan"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "nga dal-on"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sang"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nga buhi"
+    }
+  ],
+  "timestamp": "2026-09-21T16:48:45.232027172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 27,
+  "translation": "Kag gintagan niya ⟨את⟩ ang mga maabilahan sang lasang kag ⟨את⟩ ang tinapay nga iya ginhimo, sa kamot ni Yaakov nga iya anak.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "gintagan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga maabilahan sang lasang"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "ang mga maabilahan sang lasang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tinapay"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "ang tinapay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "iya ginhimo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "iya anak"
+    }
+  ],
+  "timestamp": "2026-09-21T22:17:09.302016125Z",
+  "model": "glm-5.3"
+}

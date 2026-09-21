@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kag nakalapas si Lavan kay ⟨את⟩ si Yakov, kag si Yakov nagbutang ⟨את⟩ sang iya tolda sa bukid, kag si Lavan nagbutang ⟨את⟩ sang iya mga utod sa bukid sang Gilad.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "kag nakalapas"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "si Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yakov"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "kag si Yakov"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "nagbutang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang iya tolda"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "sang iya tolda"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "kag si Lavan"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "nagbutang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang iya mga utod"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sang iya mga utod"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "sang Gilad"
+    }
+  ],
+  "timestamp": "2026-09-21T16:09:35.053651506Z",
+  "model": "glm-5.3"
+}

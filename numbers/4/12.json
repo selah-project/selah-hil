@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 4:12",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag kuhaon nila ⟨את⟩ tanan nga mga kagamitan sang pag-alagad nga ginagamit nila sa pag-alagad sa sini sa balaan nga duog, kag isulod nila maggad sa isa ka bisti sang tekhelet kag tuktukon nila ⟨את⟩ sanda sang isa ka tabtab sang panit sang takash, kag ibutang nila maggad sa badbaran.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "kag kuhaon nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga kagamitan sang pag-alagad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mga kagamitan"
+    },
+    {
+      "surface": "השרת",
+      "gloss": "sang pag-alagad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "ginagamit sa pag-alagad"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa sini"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "sa balaan nga duog"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "kag isulod nila maggad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "bisti"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "kag tuktukon nila"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sanda",
+      "marks": "sanda (ang mga kagamitan)"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "sang isa ka tabtab"
+    },
+    {
+      "surface": "עור",
+      "gloss": "panit"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "takash"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "kag ibutang nila maggad"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "badbaran"
+    }
+  ],
+  "timestamp": "2026-09-21T16:59:44.171831842Z",
+  "model": "glm-5.3"
+}

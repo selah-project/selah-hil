@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Ikaw, Yahweh, ang magatipig ⟨sang ila⟩; ipanalipud Mo siya gikan sini nga kaliwatan, sa dayon.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "magatipig"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "ipanalipud Mo siya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "sini nga kaliwatan"
+    },
+    {
+      "surface": "זו",
+      "gloss": "sini"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T20:25:09.344357747Z",
+  "model": "glm-5.3"
+}

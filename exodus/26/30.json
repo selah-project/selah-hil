@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Kag ibangon mo ⟨את⟩ ang Tolda suno sa iya hulad nga ginpakita sa imo sa bukid.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "kag ibangon mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Tolda"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ang Tolda"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "suno sa iya hulad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "ginpakita sa imo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    }
+  ],
+  "timestamp": "2026-09-21T16:32:58.143275130Z",
+  "model": "glm-5.3"
+}

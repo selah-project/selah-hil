@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag man ⟨ang⟩ anak sang ulipon nga babae ⟨את⟩ himoon ko nga isa ka pungsod, kay imo nga kaliwat sia.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kag man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak sang ulipon nga babae"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "sang ulipon nga babae"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "nga isa ka pungsod"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "himoon ko sia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "imo nga kaliwat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sia"
+    }
+  ],
+  "timestamp": "2026-09-21T16:03:36.344395245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag ihatag ko ang ⟨את⟩ balay ni Ahab subong sang balay ni Yarovam nga anak ni Nevat, kag subong sang balay ni Baasha nga anak ni Achiya.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "kahatagon ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balay ni Ahab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "subong sang balay"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "kag subong sang balay"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Achiya"
+    }
+  ],
+  "timestamp": "2026-09-21T18:42:51.103022674Z",
+  "model": "glm-5.3"
+}

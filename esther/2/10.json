@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Wala gintugya ni Ester ⟨את⟩ iya banwa kag ⟨את⟩ iya kadal-anan, kay si Mordekhay amo ang nagsugo sa iya nga indi niya pagtugya-an.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Wala"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "gintugya"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ni Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya banwa"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "iya banwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya kadal-anan"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "iya kadal-anan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "si Mordekhay"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "amo ang nagsugo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "niya pagtugya-an"
+    }
+  ],
+  "timestamp": "2026-09-21T21:29:13.364505623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Gub-a ta ⟨את⟩ ang ila mga higot, kag itapok ta halin sa ila ang ila mga lubid.",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "gub-a ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ila mga higot"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "ang ila mga higot"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "kag itapok ta"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "halin sa ila"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "ang ila mga lubid"
+    }
+  ],
+  "timestamp": "2026-09-21T20:23:22.721004965Z",
+  "model": "glm-5.3"
+}

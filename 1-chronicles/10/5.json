@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Kag nakita sang nagsakdang sang iya mga galamiton nga patay na si Shaul, kag nahulog man siya sa espada kag napatay.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nagsakdang"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "iya mga galamiton"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מת",
+      "gloss": "patay na"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "kag nahulog"
+    },
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "espada"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kag napatay"
+    }
+  ],
+  "timestamp": "2026-09-21T21:53:39.336028925Z",
+  "model": "glm-5.3"
+}

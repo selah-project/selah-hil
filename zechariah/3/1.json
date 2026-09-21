@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 3:1",
+  "book": "zechariah",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag ginpakita sa akon ni Yahweh ⟨את⟩ si Yehoshua, ang dako nga saserdote, nga nagatindog sa atubang sang mensahero ni Yahweh, kag si Satanas nagatindog sa iya tu-o nga kilid, ⟨aron⟩ siya badlonan.",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "ginpakita sa akon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "si Yehoshua"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang saserdote"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "nga dakô"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nagatindog"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubang sang"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mensahero"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "והשטן",
+      "gloss": "kag si Satanas"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nagatindog"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "iya tu-o nga kilid"
+    },
+    {
+      "surface": "לשטנו",
+      "gloss": "aron siya badlonan"
+    }
+  ],
+  "timestamp": "2026-09-21T20:19:20.008114699Z",
+  "model": "glm-5.3"
+}

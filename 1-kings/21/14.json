@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag nagpadala sila kay Izebel nga nagasiling: Nayabayan si Nabot kag namatay.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "kag nagpadala sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagasiling"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "nayabayan"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "si Nabot"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kag namatay"
+    }
+  ],
+  "timestamp": "2026-09-21T18:37:21.918686999Z",
+  "model": "glm-5.3"
+}

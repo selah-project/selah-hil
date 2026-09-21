@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "hil",
+  "chapter": 53,
+  "translation": "Ginhatag niya ⟨את⟩ ang mga manoog nga iya lolotan, kag ⟨את⟩ ang madato sa iya kamatayon, bangud wala sing kahigaliman nga iya ginhimo kag wala sing pangildap sa iya baba.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ginhatag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga manoog"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga manoog"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "iya lolotan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang madato"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "madato"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "sa iya kamatayon"
+    },
+    {
+      "surface": "על",
+      "gloss": "bangud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kahigaliman"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag wala"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "pangildap"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "sa iya baba"
+    }
+  ],
+  "timestamp": "2026-09-21T19:10:14.447760783Z",
+  "model": "glm-5.3"
+}

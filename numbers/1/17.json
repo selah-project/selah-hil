@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Kag ginkuha ni Moshe kag ni Aharon ⟨את⟩ ang mga tawo nga ini, nga gintudlo ⟨sila⟩ sa ila mga ngalan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kag ginkuha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "kag ni Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tawo nga ini"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "gintudlo"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "sa ila mga ngalan"
+    }
+  ],
+  "timestamp": "2026-09-21T16:57:36.850422830Z",
+  "model": "glm-5.3"
+}

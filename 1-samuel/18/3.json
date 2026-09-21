@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 18,
+  "translation": "Kag nagbugkos si Yehonatan kag si David sang katipan, tungod nga ginhigugma niya ⟨אתו⟩ siya pareho sang iya kaugalingon nga kalag.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "kag nagbugkos"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "si Yehonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "kag si David"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sang katipan"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "tungod nga ginhigugma niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "pareho sang iya kaugalingon nga kalag"
+    }
+  ],
+  "timestamp": "2026-09-21T18:06:34.357239737Z",
+  "model": "glm-5.3"
+}

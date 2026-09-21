@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 12:15",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag makilala nila nga ako si Yahweh, sa pagwagtang ko sa ila sa mga pungsod kag sa paglapya ko sa ila sa mga duta.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "kag makilala nila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהפיצי",
+      "gloss": "sa pagwagtang ko"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sa ila"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa mga pungsod"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "kag sa paglapya ko"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sa ila"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "sa mga duta"
+    }
+  ],
+  "timestamp": "2026-09-21T22:35:01.058350327Z",
+  "model": "glm-5.3"
+}

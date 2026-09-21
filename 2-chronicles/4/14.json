@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Kag ⟨את⟩ ang mga pundasyon ginhimo, kag ⟨את⟩ ang mga batya ginhimo sa ibabaw sang mga pundasyon",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga pundasyon"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "mga pundasyon"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga batya"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "mga batya"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "mga pundasyon"
+    }
+  ],
+  "timestamp": "2026-09-21T22:01:21.897999827Z",
+  "model": "glm-5.3"
+}

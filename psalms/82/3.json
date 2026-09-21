@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 82,
+  "translation": "Hukmi ang mahuyang kag ang ulitao; itarong ninyo ⟨ang paghukom⟩ sa ginapaubsan kag sa kabudlayan.",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "Hukmi"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ang mahuyang"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "kag ang ulitao"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sa ginapaubsan"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "kag sa kabudlayan"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "itarong ninyo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:38.523780449Z",
+  "model": "glm-5.3"
+}

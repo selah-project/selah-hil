@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kay indi ikaw El nga nakalip-ot sang kalautan; indi makapuyo sa imo ang malain.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "nakalip-ot"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kalautan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "makapuyo sa imo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "malain"
+    }
+  ],
+  "timestamp": "2026-09-21T20:22:38.477705892Z",
+  "model": "glm-5.3"
+}

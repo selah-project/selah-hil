@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kag igahatag ni Yahweh nga imo Elohim ⟨את⟩ tanan nga sining mga tunglo sa imo mga kaaway kag sa imo mga nagadumili sa imo, nga nangligad sa imo.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "kag igahatag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "imo Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga sining mga tunglo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "mga tunglo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sining"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "imo mga kaaway"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "imo mga nagadumili sa imo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "nangligad sa imo"
+    }
+  ],
+  "timestamp": "2026-09-21T17:31:44.803265165Z",
+  "model": "glm-5.3"
+}

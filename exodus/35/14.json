@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 35,
+  "translation": "kag ⟨את⟩ ang sadirungan sang suga kag ⟨את⟩ iya mga kagamitan kag ⟨את⟩ iya mga suga kag ⟨את⟩ ang lana sang suga",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang sadirungan sang suga"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "ang sadirungan"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "sang suga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga kagamitan"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "iya mga kagamitan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga suga"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "iya mga suga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang lana sang suga"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ang lana"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "sang suga"
+    }
+  ],
+  "timestamp": "2026-09-21T16:36:29.597086084Z",
+  "model": "glm-5.3"
+}

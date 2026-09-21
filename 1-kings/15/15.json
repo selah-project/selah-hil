@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "Kag gindala niya ⟨את⟩ ang mga balaan nga butang sang iya amay kag ang iya kaugalingon nga ginbalaan sa balay ni Yahweh — plata, bulawan, kag mga kagamitan.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "kag gindala niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga balaan nga butang"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "mga balaan nga butang"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sang iya amay"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "kag ang iya kaugalingon nga ginbalaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "plata"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "kag mga kagamitan"
+    }
+  ],
+  "timestamp": "2026-09-21T18:34:42.383181785Z",
+  "model": "glm-5.3"
+}

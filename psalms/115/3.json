@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 115,
+  "translation": "Kag ang aton Elohim ⟨mga⟩ yara sa mga langit, tanan nga iya ginpili ginhimo niya.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "kag ang aton Elohim"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sa mga langit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ginpili"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    }
+  ],
+  "timestamp": "2026-09-21T20:48:19.469704953Z",
+  "model": "glm-5.3"
+}

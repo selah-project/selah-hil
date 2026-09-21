@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 36:2",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 36,
+  "translation": "Nagkuha si Esav sang ⟨את⟩ iya mga asawa sa mga anak nga babae sang Kenaan: si ⟨את⟩ Adah nga anak ni Elon ang Hetihanon, kag si ⟨את⟩ Oholibamah nga anak ni Anah, nga anak ni Tsibon ang Hiwihanon.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nagkuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya mga asawa"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "iya mga asawa"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "sa mga anak nga babae"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Adah"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Elon"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ang Hetihanon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "si Oholibamah"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholibamah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Anah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Tsibon"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ang Hiwihanon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:11:20.676044207Z",
+  "model": "glm-5.3"
+}

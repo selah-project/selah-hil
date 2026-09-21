@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 15:21",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 15,
+  "translation": "kag ⟨את⟩ ang mga Amorinhon, kag ⟨את⟩ ang mga Kenanhonon, kag ⟨את⟩ ang mga Girgashinhon, kag ⟨את⟩ ang mga Yevusinhon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga Amorinhon"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ang mga Amorinhon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga Kenanhonon"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ang mga Kenanhonon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga Girgashinhon"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "ang mga Girgashinhon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga Yevusinhon"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "ang mga Yevusinhon"
+    }
+  ],
+  "timestamp": "2026-09-21T15:59:56.188334094Z",
+  "model": "glm-5.3"
+}

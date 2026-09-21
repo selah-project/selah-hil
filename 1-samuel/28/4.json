@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 28,
+  "translation": "Kag gintipon sang mga Pelishteo ang ila mga kaugalingon kag nagkari kag nagtundo sa Shunem; kag gintipon ni Shaul ⟨את⟩ ang tanan nga Yisrael kag nagtundo sila sa Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "kag gintipon"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sang mga Pelishteo"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "kag nagkari"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "kag nagtundo"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "sa Shunem"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "kag gintipon"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nga Yisrael"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "kag nagtundo sila"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "sa Gilboa"
+    }
+  ],
+  "timestamp": "2026-09-21T18:11:26.803778465Z",
+  "model": "glm-5.3"
+}

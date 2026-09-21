@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag nagtinahud ang mga saserdote kag ang mga Levi, kag gintahud nanda ⟨את⟩ ang banwa, kag ⟨את⟩ ang mga ganghaan, kag ⟨את⟩ ang paril.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "kag nagtinahud"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ang mga saserdote"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "kag ang mga Levi"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "kag gintahud nanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang banwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang banwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang mga ganghaan"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ang mga ganghaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang paril"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "ang paril"
+    }
+  ],
+  "timestamp": "2026-09-21T21:48:00.850462272Z",
+  "model": "glm-5.3"
+}

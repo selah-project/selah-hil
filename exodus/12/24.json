@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag item ninyo ⟨את⟩ ang pulong nga ini nga kasogtanan para sa inyo kag para sa inyo mga anak tubtob sa dayon.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Kag item ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pulong nga ini"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "nga kasogtanan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa inyo"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "kag para sa inyo mga anak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob sa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dayon"
+    }
+  ],
+  "timestamp": "2026-09-21T16:25:44.561075653Z",
+  "model": "glm-5.3"
+}

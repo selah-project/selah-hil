@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag nagsiling ako sa anghel nga nagahambal sa akon, Diin sila nagadala ⟨את⟩ sang eifa?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "kag nagsiling ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ang anghel"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "nga nagahambal"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "diin"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "nagadala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang eifa"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "sang eifa"
+    }
+  ],
+  "timestamp": "2026-09-21T20:18:15.294894909Z",
+  "model": "glm-5.3"
+}

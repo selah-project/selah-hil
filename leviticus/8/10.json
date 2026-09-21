@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 8,
+  "translation": "Kag ginkuha ni Moshe ⟨את⟩ ang lana sang pagpahid, kag ginpahid niya ⟨את⟩ ang balay-katipan kag ⟨את⟩ ang tanan nga ara sa sulod sini, kag ginpabalaan niya ⟨את⟩ sila.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kag ginkuha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lana"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "sang pagpahid"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "kag ginpahid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay-katipan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "balay-katipan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa sulod sini"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "kag ginpabalaan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila"
+    }
+  ],
+  "timestamp": "2026-09-21T16:45:16.531143135Z",
+  "model": "glm-5.3"
+}

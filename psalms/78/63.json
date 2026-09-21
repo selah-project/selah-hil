@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 78:63",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 78,
+  "translation": "ang iya mga batan-on nga lalaki ginkaon sang kalayo, kag ang iya mga ulay wala gintagipusuan sang pagdayaw",
+  "tokens": [
+    {
+      "surface": "בחוריו",
+      "gloss": "iya mga batan-on nga lalaki"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "ginkaon"
+    },
+    {
+      "surface": "אש",
+      "gloss": "sang kalayo"
+    },
+    {
+      "surface": "ובתולתיו",
+      "gloss": "kag iya mga ulay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הוללו",
+      "gloss": "gintagipusuan sang pagdayaw"
+    }
+  ],
+  "timestamp": "2026-09-21T20:40:25.101557663Z",
+  "model": "glm-5.3"
+}

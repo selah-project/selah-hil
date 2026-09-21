@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 6,
+  "translation": "Kag ihulas niya ⟨את⟩ ang iya mga bado, kag magsul-ob sing iba nga mga bado, kag iya nga gua-on ⟨את⟩ ang abo pa-gwa sang kampo, sa isa ka malinis nga duog.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "Kag ihulas niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya mga bado"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "iya mga bado"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "kag magsul-ob"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "mga bado"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "iba"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "kag iya gua-on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang abo"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "ang abo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "pa-gwa"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "sang kampo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "duog"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "malinis"
+    }
+  ],
+  "timestamp": "2026-09-21T16:44:24.051315148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "hil",
+  "chapter": 29,
+  "translation": "Kag gindala ko ⟨אתכם⟩ apat ka pulo ka tuig sa kawad-an; wala nagala-on ang inyo mga bisti sa ibabaw sang inyo kaugalingon, kag ang imo sapatos wala nagla-on sa ibabaw sang imo tiil.",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "kag gindala ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "apat ka pulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kawad-an"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "nagala-on"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "ang inyo mga bisti"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "sa ibabaw sang inyo kaugalingon"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "kag ang imo sapatos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "nagla-on"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "sang imo tiil"
+    }
+  ],
+  "timestamp": "2026-09-21T17:31:40.886544622Z",
+  "model": "glm-5.3"
+}

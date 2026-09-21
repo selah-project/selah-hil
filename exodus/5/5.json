@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Kag nagsiling si Paro: Tan-awa, madamo na subong ang katawhan sang duta, kag ginapahunong ninyo ⟨אתם⟩ sa ilang mga karga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag nagsiling"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "si Paro"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "madamo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "subong"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "kag ginapahunong ninyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sila (ang katawhan)"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "sa ilang mga karga"
+    }
+  ],
+  "timestamp": "2026-09-21T16:22:12.830709531Z",
+  "model": "glm-5.3"
+}

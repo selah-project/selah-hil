@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag ako — yari ako, gintindog ko ang akon kasugtanan ⟨את⟩ upod sa inyo, kag ⟨את⟩ sa inyo kaliwat human sa inyo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kag ako"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "yari ako"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "gintindog ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon kasugtanan"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ang akon kasugtanan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "sa inyo kaliwat"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "human sa inyo"
+    }
+  ],
+  "timestamp": "2026-09-21T15:57:50.885048753Z",
+  "model": "glm-5.3"
+}
