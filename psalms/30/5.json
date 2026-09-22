@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Daydaya kamo si Yahweh, mga hasido niya, kag magpasalamat kamo sa handum sang iya pagkabalaan.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Daydaya kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "mga hasido niya"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "kag magpasalamat kamo"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "sa handum"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "iya pagkabalaan"
+    }
+  ],
+  "timestamp": "2026-09-21T23:02:23.009499452Z",
+  "model": "glm-5.3"
+}

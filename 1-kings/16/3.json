@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 16,
+  "translation": "Yari ako — pagautson ko sa likid ni Baasha kag sa likid sang iya balay, kag itugyan ko ⟨את⟩ ang imo balay nga pareho sang balay ni Yarovam nga anak ni Nevat.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Yari ako"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "pagautson"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sa likid"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ni Baasha"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "kag sa likid"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sang iya balay"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "kag itugyan ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imo balay"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "imo balay"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "nga pareho sang balay"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ni Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ni Nevat"
+    }
+  ],
+  "timestamp": "2026-09-21T22:58:54.692174648Z",
+  "model": "glm-5.3"
+}

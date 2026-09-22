@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 70,
+  "translation": "Sa manugdumala, ni David, para sa pagsaad <⟨sa⟩> paghinumdom.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa manugdumala"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "para sa pagsaad paghinumdom"
+    }
+  ],
+  "timestamp": "2026-09-21T23:02:00.179071180Z",
+  "model": "glm-5.3"
+}

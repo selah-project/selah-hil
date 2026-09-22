@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 23,
+  "translation": "Kay wala ⟨na⟩ ginhimo ang kaangay sang Pesach nga ini sukdán sang mga adlaw sang mga manoglintod nga naglintod ⟨את⟩ sang Yisrael, kag sa tanan nga mga adlaw sang mga hari sang Yisrael kag sang mga hari sang Yehudah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "ang kaangay sang Pesach"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "sukdán sang mga adlaw"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "sang mga manoglintod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "naglintod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag sa tanan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nga mga adlaw"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "sang mga hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sang Yisrael"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "kag sang mga hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-21T23:00:10.106306237Z",
+  "model": "glm-5.3"
+}

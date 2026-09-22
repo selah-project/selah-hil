@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 31:50",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Kag ginpaduol namon ⟨את⟩ sang halad ni Yahweh — tagsa ka tawo sang nakit-an niya nga mga kagamitan sang bulawan: singsing sa tikod, kag pamigkis sa kamot, singsing, hikaw, kag pamigkis sa bukton — agod paghinlos sang aton mga kalag sa atubangan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ונקרב",
+      "gloss": "Kag ginpaduol namon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halad ni Yahweh"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "halad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tagsa ka tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sang"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "nakit-an"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mga kagamitan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sang bulawan"
+    },
+    {
+      "surface": "אצעדה",
+      "gloss": "singsing sa tikod"
+    },
+    {
+      "surface": "וצמיד",
+      "gloss": "kag pamigkis sa kamot"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "singsing"
+    },
+    {
+      "surface": "עגיל",
+      "gloss": "hikaw"
+    },
+    {
+      "surface": "וכומז",
+      "gloss": "kag pamigkis sa bukton"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "agod paghinlos"
+    },
+    {
+      "surface": "על",
+      "gloss": "sang"
+    },
+    {
+      "surface": "נפשתינו",
+      "gloss": "aton mga kalag"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T22:58:34.158990710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 70,
+  "translation": "O Elohim, sa pagluwas sa akon, Yahweh sa bulig sa akon, magdalagan!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "sa pagluwas sa akon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "sa bulig sa akon"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "magdalagan!"
+    }
+  ],
+  "timestamp": "2026-09-21T23:02:00.179355039Z",
+  "model": "glm-5.3"
+}

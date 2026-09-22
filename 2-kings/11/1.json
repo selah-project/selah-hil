@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 11,
+  "translation": "Kag si Atalyah, nga iloy ni Ahaziahu, nakita nga patay na ang iya anak, kag nagtindog siya kag ginlaglag ⟨את⟩ ang tanan nga kaliwat sang gingharian.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Kag si Atalyah"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nga iloy"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "ni Ahaziahu"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "nakita niya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מת",
+      "gloss": "patay"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ang iya anak"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "kag nagtindog siya"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "kag ginlaglag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga kaliwat sang gingharian"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nga kaliwat"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "sang gingharian"
+    }
+  ],
+  "timestamp": "2026-09-21T22:59:54.543174334Z",
+  "model": "glm-5.3"
+}

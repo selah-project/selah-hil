@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kay isa ka hingkatipong lamang ang iya kalagot, kabuhi sa iya kaugyan; sa pagkahapon magapabilin ang paghibi, kag sa aga ⟨may⟩ pagdayaw.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "isa ka hingkatipong lamang"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "ang iya kalagot"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kabuhi"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "sa iya kaugyan"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "sa pagkahapon"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "magapabilin"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "ang paghibi"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "kag sa aga"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "pagdayaw"
+    }
+  ],
+  "timestamp": "2026-09-21T23:02:23.009824450Z",
+  "model": "glm-5.3"
+}

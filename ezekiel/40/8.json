@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Kag ginsukol niya ⟨את⟩ ang pamalay sang ganghaan, gikan sa balay, isa ka kane.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Kag ginsukol niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pamalay sang ganghaan"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ang pamalay"
+    },
+    {
+      "surface": "השער",
+      "gloss": "sang ganghaan"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "gikan sa balay"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ka kane"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    }
+  ],
+  "timestamp": "2026-09-21T23:00:53.460995647Z",
+  "model": "glm-5.3"
+}

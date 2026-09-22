@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 20:4",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 20,
+  "translation": "Kag kon magapanunga ang katawhan sang duta sang ⟨את⟩ ila mga mata sa tawo nga ina, sa iya paghatag sang iya banas sa Molekh, agod indi siya pagpatyon ⟨את⟩,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "sa pagpanunga"
+    },
+    {
+      "surface": "יעלימו",
+      "gloss": "magapanunga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ila mga mata"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ila mga mata"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nga ina"
+    },
+    {
+      "surface": "בתתו",
+      "gloss": "sa iya paghatag"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "sang iya banas"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sa Molekh"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "agod indi"
+    },
+    {
+      "surface": "המית",
+      "gloss": "pagpatyon"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    }
+  ],
+  "timestamp": "2026-09-21T22:58:00.219917180Z",
+  "model": "glm-5.3"
+}

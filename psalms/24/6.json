@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Amo ini ang kaliwatan sang mga nangita sa iya, sang mga nangita sa imo ⟨mga⟩ dagway, Oh Yaakov. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "amo ini"
+    },
+    {
+      "surface": "דור",
+      "gloss": "kaliwatan"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "mga nangita sa iya"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "mga nangita"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "imo mga dagway"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T23:01:52.038893718Z",
+  "model": "glm-5.3"
+}

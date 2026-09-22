@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 1:14",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 1,
+  "translation": "Yari karon, nagkadto-down ang kalayo gikan sa mga langit kag naglamon ⟨את⟩ sang duha ka tagapangulo sang mga nahauna nga lima ka pulo kag ⟨את⟩ ila mga lima ka pulo; kag subong palanggaon ang akon kalag sa imo mga mata.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Yari karon"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "nagkadto-down"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kalayo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "kag naglamon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duha ka tagapangulo sang mga nahauna nga lima ka pulo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ka tagapangulo"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "sang mga lima ka pulo"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "mga nahauna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ila mga lima ka pulo"
+    },
+    {
+      "surface": "חמשיהם",
+      "gloss": "ila mga lima ka pulo"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "kag subong"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "palanggaon"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akon kalag"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "sa imo mga mata"
+    }
+  ],
+  "timestamp": "2026-09-21T22:59:10.004864804Z",
+  "model": "glm-5.3"
+}

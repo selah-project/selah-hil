@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Pamatii ang tingog sang akon pagpanawag, akon hari kag akon Elohim, kay sa imo ⟨ako⟩ magapangadyo.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Pamatii"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "sang akon pagpanawag"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "akon hari"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "kag akon Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "magapangadyo"
+    }
+  ],
+  "timestamp": "2026-09-21T23:01:41.995254824Z",
+  "model": "glm-5.3"
+}

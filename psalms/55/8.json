@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 55,
+  "translation": "Tan-awa, magpalayo ako sa malayo, magapalayas kag magadlawon sa kamingawan. Selah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "magpalayo sa malayo"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "magapalayas"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "magadlawon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T23:01:40.688023315Z",
+  "model": "glm-5.3"
+}

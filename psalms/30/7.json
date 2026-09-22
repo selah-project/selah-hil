@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Kag ako nagsiling sa akon kahusay, indi gid ako magakublig hangtod sa kahangturan.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kag ako"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nagsiling"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "sa akon kahusay"
+    },
+    {
+      "surface": "בל",
+      "gloss": "indi gid"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "magakublig"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    }
+  ],
+  "timestamp": "2026-09-21T23:02:23.009972386Z",
+  "model": "glm-5.3"
+}

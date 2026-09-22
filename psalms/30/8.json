@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 30,
+  "translation": "Yahweh, sa imo kaugyan gintindog ⟨mo⟩ ang akon bukid sa kusog; gintago mo ang imo nawong, kag ako nangin nagkulba.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "sa imo kaugyan"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "gintindog ⟨mo⟩"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "ang akon bukid"
+    },
+    {
+      "surface": "עז",
+      "gloss": "sa kusog"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "gintago mo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang imo nawong"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ako nangin"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "nagkulba"
+    }
+  ],
+  "timestamp": "2026-09-21T23:02:23.010121859Z",
+  "model": "glm-5.3"
+}

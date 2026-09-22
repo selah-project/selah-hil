@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Kag nagsiling si Yahweh: Gid nakita ko ⟨את⟩ ang kalisdanan sang akon katawhan nga yara sa Mitsrayim, kag ⟨את⟩ ang ila panawag nabatian ko tungod sang ila mga manugpangabudlay; kay kabalo ako ⟨את⟩ ang ila mga kasakit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag nagsiling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Gid"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kalisdanan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ang kalisdanan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sang akon katawhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang ila panawag"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "ang ila panawag"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nabatian ko"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tungod sang"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "ila mga manugpangabudlay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "kabalo ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ila mga kasakit"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "ang ila mga kasakit"
+    }
+  ],
+  "timestamp": "2026-09-21T22:58:16.981417766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 31:31",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 31,
+  "translation": "Tan-awa, may mga adlaw nga magaabot, giila ni Yahweh, kag magakasugta ako sang bag-o nga kasugtanan sa ⟨את⟩ balay sang Yisrael kag sa ⟨את⟩ balay sang Yehudah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga adlaw"
+    },
+    {
+      "surface": "באים",
+      "gloss": "magaabot"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "giila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכרתי",
+      "gloss": "kag magakasugta ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balay sang Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "balay sang Yehudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kasugtanan"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "bag-o"
+    }
+  ],
+  "timestamp": "2026-09-21T22:59:55.388434884Z",
+  "model": "glm-5.3"
+}

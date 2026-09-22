@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "hil",
+  "chapter": 4,
+  "translation": "Gale sa maghigda ang duha, may init sila; apang kon isa lamang, paano siya magainit?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "gale"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "maghigda"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ang duha"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "kag may init"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "apang kon isa lamang"
+    },
+    {
+      "surface": "איך",
+      "gloss": "paano"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "magainit"
+    }
+  ],
+  "timestamp": "2026-09-21T23:02:44.791247150Z",
+  "model": "glm-5.3"
+}

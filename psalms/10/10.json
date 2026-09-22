@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Ginadukot kag nagayuko siya, kag ang mga kabos natumba sa iya kusog.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "kag ginadukot"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "nagayuko"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "kag natumba"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "sa iya kusog"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "ang mga kabos"
+    }
+  ],
+  "timestamp": "2026-09-21T23:02:13.631191228Z",
+  "model": "glm-5.3"
+}

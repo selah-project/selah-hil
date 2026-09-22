@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "Nagapanglantaw siya sa tago, subong sang leon sa iya payag; nagapanglantaw siya sa pagdakop sang makalolooy; madakop niya ang makalolooy sang iya gukodon sa iya pukot.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "nagapanglantaw"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "sa tago"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "subong sang leon"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "sa iya payag"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "nagapanglantaw"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "sa pagdakop"
+    },
+    {
+      "surface": "עני",
+      "gloss": "makalolooy"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "madakop"
+    },
+    {
+      "surface": "עני",
+      "gloss": "makalolooy"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "sang iya gukodon"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "sa iya pukot"
+    }
+  ],
+  "timestamp": "2026-09-21T23:02:13.630985738Z",
+  "model": "glm-5.3"
+}

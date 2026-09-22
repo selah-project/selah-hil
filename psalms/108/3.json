@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 108,
+  "translation": "Magmata ka, O nebel kag kinor; himatun ko ang kabuntagon.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "magmata ka"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "O nebel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "kag kinor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "himatun ko"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ang kabuntagon"
+    }
+  ],
+  "timestamp": "2026-09-21T23:03:48.948434586Z",
+  "model": "glm-5.3"
+}

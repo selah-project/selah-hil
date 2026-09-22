@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Ini ang imo goral, ang bahin sang imo sokod gikan sa akon ⟨את⟩, ama ang ginsiling ni Yahweh, kay nagkalimot ikaw ⟨את⟩ sa akon kag nagtuo ikaw sa bakak.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "imo goral"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "ang bahin"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "sang imo sokod"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "gikan sa akon ⟨את⟩",
+      "marks": "ang imo goral kag ang bahin sang imo sokod"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ama ang ginsiling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "nagkalimot ikaw"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ sa akon",
+      "marks": "ako"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "kag nagtuo ikaw"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "sa bakak"
+    }
+  ],
+  "timestamp": "2026-09-21T22:59:38.140009122Z",
+  "model": "glm-5.3"
+}

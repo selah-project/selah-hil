@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 10,
+  "translation": "kag ⟨את⟩ Obal kag ⟨את⟩ Avimael kag ⟨את⟩ Sheva",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Obal"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Obal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Avimael"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Avimael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "Sheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-09-21T22:58:02.913718043Z",
+  "model": "glm-5.3"
+}

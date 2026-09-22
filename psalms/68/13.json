@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 68,
+  "translation": "Ang mga hari sang Tsevaot nagdalagan, nagdalagan; kag ang nagapuyo ⟨babae⟩ sa balay nagabahin sang samsam.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "nagdalagan"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "nagdalagan"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "kag ang nagapuyo ⟨babae⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "nagabahin"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "samsam"
+    }
+  ],
+  "timestamp": "2026-09-21T23:03:51.569972449Z",
+  "model": "glm-5.3"
+}

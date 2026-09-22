@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 17:6",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 17,
+  "translation": "Sa ikasiyam nga tuig ni Hoshea, gindakop sang hari sang Ashur ⟨את⟩ ang Shomron, kag ginpagbihag ⟨את⟩ ang Yisrael sa Ashur, kag ginpagpuyo ⟨אתם⟩ sa Halakh kag sa Khavor, suba sang Gozan, kag sa mga dakbalayan sang Madi.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "sa … nga tuig"
+    },
+    {
+      "surface": "התשיעית",
+      "gloss": "ikasiyam"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "ni Hoshea"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "gindakop"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sang Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Shomron"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "kag ginpagbihag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "sa Ashur"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kag ginpagpuyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sa Halakh kag sa Khavor"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "sa Halakh"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "kag sa Khavor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "suba"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "sang Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "kag sa mga dakbalayan"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "sang Madi"
+    }
+  ],
+  "timestamp": "2026-09-21T22:59:22.847819562Z",
+  "model": "glm-5.3"
+}

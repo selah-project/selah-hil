@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "Indi magakabuhi nga maalam sa imo mga mata; kahadloki ⟨את⟩ si Yahweh kag magpalayo sa kalaot.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "indi"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "magakabuhi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "maalam"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "sa imo mga mata"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kahadloki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "kag magpalayo"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "sa kalaot"
+    }
+  ],
+  "timestamp": "2026-09-21T23:01:42.474733991Z",
+  "model": "glm-5.3"
+}

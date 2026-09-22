@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 25:22",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag nagtinagtag ang mga anak sulod sa iya tiyan, kag nagsiling siya: Kon amo ina, ngaa ako ini? Kag naglakat siya sa pagpangita ⟨את⟩ kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויתרצצו",
+      "gloss": "nagtinagtag"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "sulod sa iya tiyan"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "kag nagsiling"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "amo ina"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngaa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "kag naglakat"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "sa pagpangita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-21T22:58:02.737357076Z",
+  "model": "glm-5.3"
+}

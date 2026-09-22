@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "hil",
+  "chapter": 12,
+  "translation": "Kag si Yeshua nagkatawo ⟨את⟩ kay Yoyakim, kag si Yoyakim nagkatawo ⟨את⟩ kay Elyashiv, kag si Elyashiv ⟨את⟩ kay Yoyada.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "kag si Yeshua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkatawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yoyakim"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "kay Yoyakim"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "kag si Yoyakim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkatawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Elyashiv"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "kay Elyashiv"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "kag si Elyashiv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yoyada"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "kay Yoyada"
+    }
+  ],
+  "timestamp": "2026-09-21T23:02:32.343295133Z",
+  "model": "glm-5.3"
+}

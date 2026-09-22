@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "hil",
+  "chapter": 13,
+  "translation": "Kag kon lapnaw gid maglapnaw ini sa panit, kag hukman sang pari ⟨אתו⟩ nga tama — sakit ini.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kag kon"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "lapnaw"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "maglapnaw"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "sa panit"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "hukman nga tama"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang pari"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "siya (ang tawo nga may sakit)"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "sakit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-21T22:58:04.337248447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 2,
+  "translation": "Tan-awa, nagakari ang mga adlaw, kag pugson ko ⟨את⟩ imo bukton kag ⟨את⟩ ang bukton sang balay sang imo amay, sa pagkadto nga wala sing tigulang sa imo balay.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ang mga adlaw"
+    },
+    {
+      "surface": "באים",
+      "gloss": "nagakari"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "kag pugson ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imo bukton"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "imo bukton"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang bukton sang balay sang imo amay"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ang bukton"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sang balay"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "sang imo amay"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "sa pagkadto nga"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "tigulang"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "sa imo balay"
+    }
+  ],
+  "timestamp": "2026-09-21T22:58:45.645473301Z",
+  "model": "glm-5.3"
+}

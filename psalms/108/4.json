@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 108:4",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 108,
+  "translation": "Magadlaw ako sa imo sa mga banwa, Yahweh, kag magakanta ako sa imo ⟨sa⟩ mga katawhan.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "magadlaw ako sa imo"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "sa mga banwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואזמרך",
+      "gloss": "kag magakanta ako sa imo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨sa⟩"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "mga katawhan"
+    }
+  ],
+  "timestamp": "2026-09-21T23:03:39.065161761Z",
+  "model": "glm-5.3"
+}

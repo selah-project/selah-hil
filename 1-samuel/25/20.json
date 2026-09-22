@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 25:20",
+  "book": "1-samuel",
+  "lang": "hil",
+  "chapter": 25,
+  "translation": "Kag nangyari, samtang siya nagasakay sa hamor kag nagpanaog sa tagong bahin sang bukid, kag yari — si David kag ang iya mga tawo nagpanaog nga nagatipon sa iya, kag nagkita siya ⟨kanila⟩ ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kag nangyari"
+    },
+    {
+      "surface": "היא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "רכבת",
+      "gloss": "nagasakay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "hamor"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "kag nagpanaog"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sa tagong bahin"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "sang bukid"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kag yari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "kag ang iya mga tawo"
+    },
+    {
+      "surface": "ירדים",
+      "gloss": "nagpanaog"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "nga nagatipon sa iya"
+    },
+    {
+      "surface": "ותפגש",
+      "gloss": "kag nagkita siya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sila — sila David kag ang iya mga tawo"
+    }
+  ],
+  "timestamp": "2026-09-21T22:58:45.824811633Z",
+  "model": "glm-5.3"
+}

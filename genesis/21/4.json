@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 21,
+  "translation": "Kag gintuli ni Avraham si ⟨את⟩ Yitskhak nga iya anak, anak sang walo ka adlaw, samtang ginsugo sang Elohim sa iya ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "gintuli"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yitskhak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nga iya anak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "sang walo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ka adlaw"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "samtang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ginsugo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "sa iya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sang Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T23:03:47.212317127Z",
+  "model": "glm-5.3"
+}

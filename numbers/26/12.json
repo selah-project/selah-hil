@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 26:12",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 26,
+  "translation": "Ang mga anak ni Shim'on suno sa ila mga banay: kay Nemuel, ang banay sang mga Nemueli; kay Yamin, ang banay sang mga Yomini; kay Yakhin, ang banay sang mga Yakhini.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ni Shim'on"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "suno sa ila mga banay"
+    },
+    {
+      "surface": "לנמואל",
+      "gloss": "kay Nemuel"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ang banay"
+    },
+    {
+      "surface": "הנמואלי",
+      "gloss": "sang mga Nemueli"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "kay Yamin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ang banay"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "sang mga Yomini"
+    },
+    {
+      "surface": "ליכין",
+      "gloss": "kay Yakhin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ang banay"
+    },
+    {
+      "surface": "היכיני",
+      "gloss": "sang mga Yakhini"
+    }
+  ],
+  "timestamp": "2026-09-21T22:57:57.644222919Z",
+  "model": "glm-5.3"
+}

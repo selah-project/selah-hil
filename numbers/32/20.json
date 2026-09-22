@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 32:20",
+  "book": "numbers",
+  "lang": "hil",
+  "chapter": 32,
+  "translation": "Kag naghambal si Moshe sa ila: Kon himuon ninyo ⟨את⟩ ang butang ini, kon magpanumdum kamo sa atubang ni Yahweh sa pakig-away,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kag naghambal"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "himuon ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang butang ini"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang butang"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "תחלצו",
+      "gloss": "magpanumdum kamo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sa pakig-away"
+    }
+  ],
+  "timestamp": "2026-09-21T22:57:58.439636335Z",
+  "model": "glm-5.3"
+}

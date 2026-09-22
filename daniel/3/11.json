@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 3:11",
+  "book": "daniel",
+  "lang": "hil",
+  "chapter": 3,
+  "translation": "kag bisan sin-o nga indi magatumba kag magasimba, pagabugtaw siya sa tunga sang hurno sang kalayo nga nagasunog.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "kag bisan sin-o"
+    },
+    {
+      "surface": "די",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "indi"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "magatumba"
+    },
+    {
+      "surface": "ויסגד",
+      "gloss": "kag magasimba"
+    },
+    {
+      "surface": "יתרמא",
+      "gloss": "pagabugtaw siya"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "sang hurno"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "sang kalayo"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "nga nagasunog"
+    }
+  ],
+  "timestamp": "2026-09-21T23:03:28.576997165Z",
+  "model": "glm-5.3"
+}
