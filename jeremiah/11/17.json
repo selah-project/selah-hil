@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "hil",
   "chapter": 11,
-  "translation": "Kag si Yahweh sang Tsevaot, ang nagtanum sa imo, naghambal sing kalaot batok sa imo, tungod sang kalaot sang balay sang Yisrael kag sang balay sang Yehudah, nga ila ginhimo sa ila ⟨kaugalingon⟩ sa pagpaakig sa akon, sa pagsunog sang insenso kay Baal.",
+  "translation": "Kag si Yahweh sang Tsevaot, ang nagatanom ⟨sa imo⟩, naghambal sang kalaot batok sa imo, tungod sang kalaot sang balay sang Yisrael kag sang balay sang Yehudah, nga ila ginbuhat sa ila kaugalingon sa pagpanginaot sa akon sa pagpadalag sang insenso sa Baal.",
   "tokens": [
     {
       "surface": "ויהוה",
@@ -17,11 +17,12 @@
     },
     {
       "surface": "הנוטע",
-      "gloss": "ang nagtanum"
+      "gloss": "ang nagatanom"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ sa imo"
+      "gloss": "⟨את⟩ ikaw",
+      "marks": "sa imo — ang butang nga gintanom"
     },
     {
       "surface": "דבר",
@@ -33,7 +34,7 @@
     },
     {
       "surface": "רעה",
-      "gloss": "sing kalaot"
+      "gloss": "sang kalaot"
     },
     {
       "surface": "בגלל",
@@ -65,25 +66,25 @@
     },
     {
       "surface": "עשו",
-      "gloss": "ginhimo"
+      "gloss": "ginbuhat"
     },
     {
       "surface": "להם",
-      "gloss": "sa ila"
+      "gloss": "sa ila kaugalingon"
     },
     {
       "surface": "להכעסני",
-      "gloss": "sa pagpaakig sa akon"
+      "gloss": "sa pagpanginaot sa akon"
     },
     {
       "surface": "לקטר",
-      "gloss": "sa pagsunog sang insenso"
+      "gloss": "sa pagpadalag sang insenso"
     },
     {
       "surface": "לבעל",
-      "gloss": "kay Baal"
+      "gloss": "sa Baal"
     }
   ],
-  "timestamp": "2026-09-21T19:19:46.615583108Z",
+  "timestamp": "2026-09-25T09:24:24.693282407Z",
   "model": "glm-5.3"
 }

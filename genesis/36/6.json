@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 36,
-  "translation": "Kag gintaka ni Esav ang iya mga asawa kag ⟨את⟩ ang iya mga anak nga lalaki kag ⟨את⟩ ang iya mga anak nga babae kag ⟨את⟩ tanan nga mga kalag sang iya balay kag ⟨את⟩ ang iya mga sapat kag ⟨את⟩ tanan nga iya mga sapat nga dalagko kag ⟨את⟩ tanan nga iya gintipon sa duta sang Kenaan, kag nagtunga siya sa iban nga duta halin sa atubangan ni Yakov nga iya utod.",
+  "translation": "Kag ginkuha ni Esav ⟨את⟩ ang iya mga asawa kag ⟨את⟩ ang iya mga anak nga lalaki kag ⟨את⟩ ang iya mga anak nga babae kag ⟨את⟩ ang tanan nga mga kalag sang iya balay kag ⟨את⟩ ang iya mga kahayopan kag ⟨את⟩ ang tanan nga iya mga sapat kag ⟨את⟩ ang tanan nga iya ginpanag-iyapon, nga iya ginpanag-uma sa duta sang Kenaan; kag nagpakadto siya sa duta halin sa atubangan ni Yaakov nga iya utod.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "gintaka"
+      "gloss": "kag ginkuha"
     },
     {
       "surface": "עשו",
-      "gloss": "ni Esav"
+      "gloss": "si Esav"
     },
     {
       "surface": "את",
@@ -22,38 +22,38 @@
     },
     {
       "surface": "נשיו",
-      "gloss": "iya mga asawa"
+      "gloss": "ang iya mga asawa"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "iya mga anak nga lalaki"
+      "marks": "ang iya mga anak nga lalaki"
     },
     {
       "surface": "בניו",
-      "gloss": "iya mga anak nga lalaki"
+      "gloss": "ang iya mga anak nga lalaki"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "iya mga anak nga babae"
+      "marks": "ang iya mga anak nga babae"
     },
     {
       "surface": "בנתיו",
-      "gloss": "iya mga anak nga babae"
+      "gloss": "ang iya mga anak nga babae"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "tanan nga mga kalag sang iya balay"
+      "marks": "ang tanan nga mga kalag sang iya balay"
     },
     {
       "surface": "כל",
-      "gloss": "tanan"
+      "gloss": "ang tanan"
     },
     {
       "surface": "נפשות",
-      "gloss": "mga kalag"
+      "gloss": "nga mga kalag"
     },
     {
       "surface": "ביתו",
@@ -62,37 +62,37 @@
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "iya mga sapat"
+      "marks": "ang iya mga kahayopan"
     },
     {
       "surface": "מקנהו",
-      "gloss": "iya mga sapat"
+      "gloss": "ang iya mga kahayopan"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "tanan nga iya mga sapat nga dalagko"
+      "marks": "ang tanan nga iya mga sapat"
     },
     {
       "surface": "כל",
-      "gloss": "tanan"
+      "gloss": "ang tanan"
     },
     {
       "surface": "בהמתו",
-      "gloss": "iya mga sapat nga dalagko"
+      "gloss": "nga iya mga sapat"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "tanan nga iya gintipon"
+      "marks": "ang tanan nga iya ginpanag-iyapon"
     },
     {
       "surface": "כל",
-      "gloss": "tanan"
+      "gloss": "ang tanan"
     },
     {
       "surface": "קנינו",
-      "gloss": "iya gintipon"
+      "gloss": "nga iya ginpanag-iyapon"
     },
     {
       "surface": "אשר",
@@ -100,7 +100,7 @@
     },
     {
       "surface": "רכש",
-      "gloss": "gintipon"
+      "gloss": "iya ginpanag-uma"
     },
     {
       "surface": "בארץ",
@@ -112,7 +112,7 @@
     },
     {
       "surface": "וילך",
-      "gloss": "nagtunga"
+      "gloss": "kag nagpakadto siya"
     },
     {
       "surface": "אל",
@@ -120,7 +120,7 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "iban nga duta"
+      "gloss": "duta"
     },
     {
       "surface": "מפני",
@@ -128,13 +128,13 @@
     },
     {
       "surface": "יעקב",
-      "gloss": "ni Yakov"
+      "gloss": "ni Yaakov"
     },
     {
       "surface": "אחיו",
-      "gloss": "iya utod"
+      "gloss": "nga iya utod"
     }
   ],
-  "timestamp": "2026-09-21T16:10:51.716561238Z",
+  "timestamp": "2026-09-25T09:15:39.633740023Z",
   "model": "glm-5.3"
 }

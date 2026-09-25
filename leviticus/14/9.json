@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "hil",
   "chapter": 14,
-  "translation": "Kag mabuhat ini sa ikapito nga adlaw: pagahimotloan niya ⟨את⟩ ang tanan niya nga balahibo — ⟨את⟩ ang iya ulo kag ⟨את⟩ ang iya bungang kag ⟨את⟩ ang mga gin-ong sang iya mga mata — kag ang tanan niya nga balahibo pagahimotloan niya, kag pagahugasan niya ⟨את⟩ ang iya mga sul-ob, kag pagaligo-on niya ⟨את⟩ iya lawas sa tubig, kag magmalinis siya.",
+  "translation": "Kag matabo sa ikapito nga adlaw: pagagilitan niya ⟨את⟩ ang tanan nga iya balahibo — ⟨את⟩ ang iya ulo kag ⟨את⟩ ang iya bungot kag ⟨את⟩ ang mga kilay sang iya mga mata — ang tanan nga iya balahibo pagagilitan niya; kag pagalabhan niya ⟨את⟩ ang iya mga bado, kag pagapanghugas niya ⟨את⟩ ang iya lawas sang tubig, kag magakahinas siya.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "kag mabuhat ini"
+      "gloss": "kag matabo"
     },
     {
       "surface": "ביום",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "השביעי",
-      "gloss": "ikapito"
+      "gloss": "ikapito nga"
     },
     {
       "surface": "יגלח",
-      "gloss": "pagahimotloan niya"
+      "gloss": "pagagilitan niya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang tanan niya nga balahibo"
+      "marks": "ang tanan"
     },
     {
       "surface": "כל",
@@ -39,29 +39,29 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang iya ulo"
+      "marks": "iya ulo"
     },
     {
       "surface": "ראשו",
-      "gloss": "iya ulo"
+      "gloss": "ulo"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang iya bungang"
+      "marks": "iya bungot"
     },
     {
       "surface": "זקנו",
-      "gloss": "iya bungang"
+      "gloss": "bungot"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang mga gin-ong"
+      "marks": "mga kilay"
     },
     {
       "surface": "גבת",
-      "gloss": "mga gin-ong"
+      "gloss": "mga kilay"
     },
     {
       "surface": "עיניו",
@@ -70,7 +70,7 @@
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang tanan niya nga balahibo"
+      "marks": "ang tanan"
     },
     {
       "surface": "כל",
@@ -82,24 +82,24 @@
     },
     {
       "surface": "יגלח",
-      "gloss": "pagahimotloan niya"
+      "gloss": "pagagilitan niya"
     },
     {
       "surface": "וכבס",
-      "gloss": "kag pagahugasan niya"
+      "gloss": "kag pagalabhan niya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang iya mga sul-ob"
+      "marks": "iya mga bado"
     },
     {
       "surface": "בגדיו",
-      "gloss": "iya mga sul-ob"
+      "gloss": "iya mga bado"
     },
     {
       "surface": "ורחץ",
-      "gloss": "kag pagaligo-on niya"
+      "gloss": "kag pagapanghugas niya"
     },
     {
       "surface": "את",
@@ -112,13 +112,13 @@
     },
     {
       "surface": "במים",
-      "gloss": "sa tubig"
+      "gloss": "sang tubig"
     },
     {
       "surface": "וטהר",
-      "gloss": "kag magmalinis siya"
+      "gloss": "kag magakahinas siya"
     }
   ],
-  "timestamp": "2026-09-21T16:47:46.208610524Z",
+  "timestamp": "2026-09-25T09:38:01.323091576Z",
   "model": "glm-5.3"
 }

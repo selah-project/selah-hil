@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "hil",
   "chapter": 13,
-  "translation": "Kag yari karon, may mga tawo nga nagapaligad, kag nakita nila ⟨את⟩ ang minatay nga ginbubo sa dalanon, kag ⟨את⟩ ang leyon nga nagatindog palapit sa minatay; kag nagkadto sila kag nagsiling sini sa siyudad nga diin nagapuyo ang katarong nga manalagna.",
+  "translation": "Kag tan-awa, mga tawo ang nagalabay, kag nakita nila ⟨את⟩ ang minatay nga ginlabog sa dalan, kag ⟨את⟩ ang leon nga nagatindog dulom sa minatay; kag nagkadto sila kag nagsiling sini sa siyudad nga diin ang matigulang nga manalagna nagapuyo.",
   "tokens": [
     {
       "surface": "והנה",
-      "gloss": "Kag yari karon"
+      "gloss": "Kag tan-awa"
     },
     {
       "surface": "אנשים",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "עברים",
-      "gloss": "nga nagapaligad"
+      "gloss": "nagalabay"
     },
     {
       "surface": "ויראו",
@@ -34,32 +34,32 @@
     },
     {
       "surface": "משלכת",
-      "gloss": "nga ginbubo"
+      "gloss": "ginlabog"
     },
     {
       "surface": "בדרך",
-      "gloss": "sa dalanon"
+      "gloss": "sa dalan"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang leyon"
+      "marks": "ang leon"
     },
     {
       "surface": "האריה",
-      "gloss": "ang leyon"
+      "gloss": "ang leon"
     },
     {
       "surface": "עמד",
-      "gloss": "nga nagatindog"
+      "gloss": "nagatindog"
     },
     {
       "surface": "אצל",
-      "gloss": "palapit sa"
+      "gloss": "dulom sa"
     },
     {
       "surface": "הנבלה",
-      "gloss": "minatay"
+      "gloss": "ang minatay"
     },
     {
       "surface": "ויבאו",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "הזקן",
-      "gloss": "nga katarong"
+      "gloss": "nga matigulang"
     },
     {
       "surface": "ישב",
@@ -94,6 +94,6 @@
       "gloss": "sa sini"
     }
   ],
-  "timestamp": "2026-09-21T22:58:37.193808162Z",
+  "timestamp": "2026-09-25T08:40:10.885936561Z",
   "model": "glm-5.3"
 }

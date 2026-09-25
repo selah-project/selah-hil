@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 34,
-  "translation": "Buhí ako, neum ni Adonay Yahweh: kon indi, bangod ang akon mga karnero nangin tinagbalan kag ang akon mga karnero nangin pagkaon sa tanan nga sapat sang kapatayan, kay wala sing magabantay, kag wala gintigana sang akon mga magabantay ⟨את⟩ ang akon mga karnero — apang ang mga magabantay nagpakaon sa ila ⟨kaugalingon⟩, kag ⟨את⟩ ang akon mga karnero wala nila ginpakaon.",
+  "translation": "Buhî ako, giingon sang Adonay Yahweh — kung indi, bangod nga ang akon karnero nangin sinhô, kag ang akon karnero nangin pagkaon sang tanan nga sapat sang talanon, tungod kay wala sing manogbantay, kag ang akon mga manogbantay wala pagpangita ⟨את⟩ sang akon karnero; apang ang mga manogbantay nagpapakâon sang ila kaugalingon ⟨את⟩ ⟨אותם⟩, kag ⟨את⟩ ang akon karnero wala nila pagbantayi.",
   "tokens": [
     {
       "surface": "חי",
-      "gloss": "Buhí"
+      "gloss": "Buhî"
     },
     {
       "surface": "אני",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "נאם",
-      "gloss": "neum"
+      "gloss": "giingon"
     },
     {
       "surface": "אדני",
-      "gloss": "Adonay"
+      "gloss": "sang Adonay"
     },
     {
       "surface": "יהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "kon"
+      "gloss": "kung"
     },
     {
       "surface": "לא",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "יען",
-      "gloss": "bangod"
+      "gloss": "bangod nga"
     },
     {
       "surface": "היות",
-      "gloss": "ang pagkabuhat"
+      "gloss": "nangin"
     },
     {
       "surface": "צאני",
-      "gloss": "ang akon mga karnero"
+      "gloss": "ang akon karnero"
     },
     {
       "surface": "לבז",
-      "gloss": "tinagbalan"
+      "gloss": "sinhô"
     },
     {
       "surface": "ותהיינה",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "צאני",
-      "gloss": "ang akon mga karnero"
+      "gloss": "ang akon karnero"
     },
     {
       "surface": "לאכלה",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "לכל",
-      "gloss": "sa tanan"
+      "gloss": "sang tanan nga"
     },
     {
       "surface": "חית",
@@ -73,15 +73,15 @@
     },
     {
       "surface": "השדה",
-      "gloss": "sang kapatayan"
+      "gloss": "sang talanon"
     },
     {
       "surface": "מאין",
-      "gloss": "kay wala"
+      "gloss": "wala sing"
     },
     {
       "surface": "רעה",
-      "gloss": "magabantay"
+      "gloss": "manogbantay"
     },
     {
       "surface": "ולא",
@@ -89,42 +89,42 @@
     },
     {
       "surface": "דרשו",
-      "gloss": "gintigana"
+      "gloss": "pagpangita"
     },
     {
       "surface": "רעי",
-      "gloss": "sang akon mga magabantay"
+      "gloss": "ang akon mga manogbantay"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang akon mga karnero"
+      "marks": "ang akon karnero"
     },
     {
       "surface": "צאני",
-      "gloss": "ang akon mga karnero"
+      "gloss": "ang akon karnero"
     },
     {
       "surface": "וירעו",
-      "gloss": "apang nagpakaon"
+      "gloss": "kag nagpapakâon"
     },
     {
       "surface": "הרעים",
-      "gloss": "ang mga magabantay"
+      "gloss": "ang mga manogbantay"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ sa ila kaugalingon",
-      "marks": "ang mga magabantay mismo"
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "sang ila kaugalingon"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang akon mga karnero"
+      "marks": "ang akon karnero"
     },
     {
       "surface": "צאני",
-      "gloss": "ang akon mga karnero"
+      "gloss": "ang akon karnero"
     },
     {
       "surface": "לא",
@@ -132,9 +132,9 @@
     },
     {
       "surface": "רעו",
-      "gloss": "ginpakaon"
+      "gloss": "pagbantayi"
     }
   ],
-  "timestamp": "2026-09-21T23:00:53.291248174Z",
+  "timestamp": "2026-09-25T09:11:42.980979229Z",
   "model": "glm-5.3"
 }

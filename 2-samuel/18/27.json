@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "hil",
   "chapter": 18,
-  "translation": "Kag nagsiling ang bantay, Ako nakakita ⟨sa⟩ pagdagan sang nahauna nga pareho sang pagdagan ni Akhimatz anak ni Tsadok. Kag nagsiling ang hari, Maayo ini nga tawo, kag magaadto siya nga may dala nga maayong balita.",
+  "translation": "Kag naghambal ang bantay: Nakita ko ⟨את⟩ ang dalagan sang nahauna, pareho sa dalagan ni Akhimaats nga anak ni Tsadok. Kag naghambal ang hari: Tawo nga maayo ini, kag may maayo nga balita siya magaabot.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "kag nagsiling"
+      "gloss": "Kag naghambal"
     },
     {
       "surface": "הצפה",
@@ -21,16 +21,16 @@
     },
     {
       "surface": "ראה",
-      "gloss": "nakakita"
+      "gloss": "nakita"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pagdagan sang nahauna"
+      "marks": "ang dalagan"
     },
     {
       "surface": "מרוצת",
-      "gloss": "pagdagan"
+      "gloss": "ang dalagan"
     },
     {
       "surface": "הראשון",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "כמרצת",
-      "gloss": "pareho sang pagdagan"
+      "gloss": "pareho sa dalagan"
     },
     {
       "surface": "אחימעץ",
-      "gloss": "ni Akhimatz"
+      "gloss": "ni Akhimaats"
     },
     {
       "surface": "בן",
-      "gloss": "anak"
+      "gloss": "nga anak"
     },
     {
       "surface": "צדוק",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "kag nagsiling"
+      "gloss": "Kag naghambal"
     },
     {
       "surface": "המלך",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "tawo"
+      "gloss": "Tawo"
     },
     {
       "surface": "טוב",
-      "gloss": "maayo"
+      "gloss": "nga maayo"
     },
     {
       "surface": "זה",
@@ -74,11 +74,11 @@
     },
     {
       "surface": "ואל",
-      "gloss": "kag sa"
+      "gloss": "kag may"
     },
     {
       "surface": "בשורה",
-      "gloss": "maayong balita"
+      "gloss": "nga balita"
     },
     {
       "surface": "טובה",
@@ -86,9 +86,9 @@
     },
     {
       "surface": "יבוא",
-      "gloss": "magaadto siya"
+      "gloss": "magaabot siya"
     }
   ],
-  "timestamp": "2026-09-21T18:22:09.130286977Z",
+  "timestamp": "2026-09-25T08:54:50.349350086Z",
   "model": "glm-5.3"
 }

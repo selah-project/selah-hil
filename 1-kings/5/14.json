@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "hil",
   "chapter": 5,
-  "translation": "Kag nagkari sila gikan sa tanan nga mga pungsod sa pagpatalingkat ⟨את⟩ sang kaalam ni Shelomoh, gikan ⟨את⟩ tanan nga mga hari sang duta nga nakabati sila sang iya kaalam.",
+  "translation": "Kag nagkari tanan nga mga pungsod sa pagpamati sang ⟨את⟩ ang kaalam ni Shelomoh, gikan ⟨מאת⟩ tanan nga mga hari sang duta nga nakabati sang ⟨את⟩ iya kaalam.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "kag nagkari sila"
+      "gloss": "nagkari"
     },
     {
       "surface": "מכל",
-      "gloss": "gikan sa tanan nga"
+      "gloss": "tanan nga"
     },
     {
       "surface": "העמים",
@@ -21,12 +21,12 @@
     },
     {
       "surface": "לשמע",
-      "gloss": "sa pagpatalingkat"
+      "gloss": "sa pagpamati"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sang kaalam ni Shelomoh"
+      "marks": "ang kaalam"
     },
     {
       "surface": "חכמת",
@@ -38,12 +38,11 @@
     },
     {
       "surface": "מאת",
-      "gloss": "gikan ⟨את⟩",
-      "marks": "tanan nga mga hari sang duta"
+      "gloss": "gikan ⟨את⟩"
     },
     {
       "surface": "כל",
-      "gloss": "tanan nga"
+      "gloss": "tanan"
     },
     {
       "surface": "מלכי",
@@ -59,18 +58,18 @@
     },
     {
       "surface": "שמעו",
-      "gloss": "nakabati sila"
+      "gloss": "nakabati"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sang iya kaalam"
+      "marks": "iya kaalam"
     },
     {
       "surface": "חכמתו",
-      "gloss": "sang iya kaalam"
+      "gloss": "iya kaalam"
     }
   ],
-  "timestamp": "2026-09-21T18:27:51.616991178Z",
+  "timestamp": "2026-09-25T08:42:14.546715568Z",
   "model": "glm-5.3"
 }

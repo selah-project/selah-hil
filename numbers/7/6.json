@@ -5,24 +5,24 @@
   "book": "numbers",
   "lang": "hil",
   "chapter": 7,
-  "translation": "Ginkuha ni Moshe ⟨את⟩ ang mga karison kag ⟨את⟩ ang mga baka, kag gintanyag niya sila sa mga Levita.",
+  "translation": "Kag ginkuha ni Moshe ⟨את⟩ ang mga karosa kag ⟨את⟩ ang mga baka, kag gintana-ang niya ⟨את⟩ sila sa mga Levita.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "Ginkuha ni Moshe"
+      "gloss": "kag ginkuha"
     },
     {
       "surface": "משה",
-      "gloss": "Moshe"
+      "gloss": "ni Moshe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang mga karison"
+      "marks": "ang mga karosa"
     },
     {
       "surface": "העגלת",
-      "gloss": "ang mga karison"
+      "gloss": "ang mga karosa"
     },
     {
       "surface": "ואת",
@@ -35,12 +35,12 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "kag gintanyag niya"
+      "gloss": "kag gintana-ang"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "sila"
+      "gloss": "⟨את⟩ sila",
+      "marks": "sa mga Levita"
     },
     {
       "surface": "אל",
@@ -48,9 +48,9 @@
     },
     {
       "surface": "הלוים",
-      "gloss": "mga Levita"
+      "gloss": "ang mga Levita"
     }
   ],
-  "timestamp": "2026-09-21T17:00:34.411090506Z",
+  "timestamp": "2026-09-25T09:46:12.923094357Z",
   "model": "glm-5.3"
 }

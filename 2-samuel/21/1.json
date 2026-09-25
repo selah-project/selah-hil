@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "hil",
   "chapter": 21,
-  "translation": "Kag may kaholahan sang tatlo ka tuig, tuig nga sunod sa tuig, sa mga adlaw ni David; kag gintan-aw ni David ⟨את⟩ ang dagway ni Yahweh, kag nagsiling si Yahweh: Kay kay Shaul kag kay iya balay sang mga dugo ini, bangod gintiay niya ⟨את⟩ ang mga Givonita.",
+  "translation": "Kag may gutom sa mga adlaw ni David, tatlo ka tuig, tuig katapos sang tuig; kag ginpangita ni David ⟨את⟩ ang dunggan ni Yahweh, kag nagsiling si Yahweh: Tungod kay Shaul kag tungod sa balay sang mga dugo, bangod gintumba niya ⟨את⟩ ang mga Giv'onhon.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "רעב",
-      "gloss": "kaholahan"
+      "gloss": "gutom"
     },
     {
       "surface": "בימי",
-      "gloss": "sa mga adlaw ni"
+      "gloss": "sa mga adlaw"
     },
     {
       "surface": "דוד",
-      "gloss": "David"
+      "gloss": "ni David"
     },
     {
       "surface": "שלש",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "nga sunod sa"
+      "gloss": "katapos sang"
     },
     {
       "surface": "שנה",
@@ -45,24 +45,24 @@
     },
     {
       "surface": "ויבקש",
-      "gloss": "kag gintan-aw"
+      "gloss": "kag ginpangita"
     },
     {
       "surface": "דוד",
-      "gloss": "si David"
+      "gloss": "ni David"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang dagway ni Yahweh"
+      "marks": "ang dunggan"
     },
     {
       "surface": "פני",
-      "gloss": "ang dagway ni"
+      "gloss": "ang dunggan"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "ויאמר",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Tungod kay"
     },
     {
       "surface": "שאול",
@@ -82,11 +82,11 @@
     },
     {
       "surface": "ואל",
-      "gloss": "kag kay"
+      "gloss": "kag tungod sa"
     },
     {
       "surface": "בית",
-      "gloss": "iya balay"
+      "gloss": "balay"
     },
     {
       "surface": "הדמים",
@@ -94,26 +94,26 @@
     },
     {
       "surface": "על",
-      "gloss": "kay"
-    },
-    {
-      "surface": "אשר",
       "gloss": "bangod"
     },
     {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
       "surface": "המית",
-      "gloss": "gintiay niya"
+      "gloss": "gintumba niya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang mga Givonita"
+      "marks": "ang mga Giv'onhon"
     },
     {
       "surface": "הגבענים",
-      "gloss": "ang mga Givonita"
+      "gloss": "ang mga Giv'onhon"
     }
   ],
-  "timestamp": "2026-09-21T18:23:48.680599601Z",
+  "timestamp": "2026-09-25T08:53:47.100145891Z",
   "model": "glm-5.3"
 }

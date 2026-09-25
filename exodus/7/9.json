@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "hil",
   "chapter": 7,
-  "translation": "Kon maghambal si Paro sa inyo nga nagaingod, 'Maghatag kamo sang isa ka timailhan para sa inyo kugtong,' isog kimo kay Aharon: 'Kuhaa ⟨את⟩ ang imo baston kag ihulid ini sa atubang ni Paro — maging ⟨⟨this⟩⟩ dalagta ini.'",
+  "translation": "Kon maghambal sa inyo si Paro nga nagaing nga maghatag kamo sang isa ka tanda para sa inyo kag imo hambalon kay Aharon: Kuhaa ⟨את⟩ ang imo baston kag ihapak ini sa atubang ni Paro, kag mag-imbal ini nga isa ka dagko nga bitin.",
   "tokens": [
     {
       "surface": "כי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "nga nagaingod"
+      "gloss": "nga nagaing"
     },
     {
       "surface": "תנו",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "מופת",
-      "gloss": "timailhan"
+      "gloss": "sang isa ka tanda"
     },
     {
       "surface": "ואמרת",
-      "gloss": "kag isog kimo"
+      "gloss": "kag imo hambalon"
     },
     {
       "surface": "אל",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "קח",
-      "gloss": "kuhaa"
+      "gloss": "Kuhaa"
     },
     {
       "surface": "את",
@@ -62,29 +62,29 @@
     },
     {
       "surface": "מטך",
-      "gloss": "imo baston"
+      "gloss": "ang imo baston"
     },
     {
       "surface": "והשלך",
-      "gloss": "kag ihulid"
+      "gloss": "kag ihapak"
     },
     {
       "surface": "לפני",
-      "gloss": "sa atubang ni"
+      "gloss": "sa atubang"
     },
     {
       "surface": "פרעה",
-      "gloss": "Paro"
+      "gloss": "ni Paro"
     },
     {
       "surface": "יהי",
-      "gloss": "maging"
+      "gloss": "kag mag-imbal"
     },
     {
       "surface": "לתנין",
-      "gloss": "nga dalagta"
+      "gloss": "nga isa ka dagko nga bitin"
     }
   ],
-  "timestamp": "2026-09-21T16:21:09.432829605Z",
+  "timestamp": "2026-09-25T09:53:56.897407600Z",
   "model": "glm-5.3"
 }

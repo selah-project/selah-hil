@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "hil",
   "chapter": 8,
-  "translation": "Kag ginpadalapit ni Moshe ⟨את⟩ ang mga anak ni Aharon, kag ginsul-oban niya sila sang mga kunton, kag ginpanganloban niya sila sang abanet, kag ginsugponanan niya sila sang mga migbaot; subong sang ginsugo ni Yahweh ⟨את⟩ kay Moshe.",
+  "translation": "Kag gindala ni Moshe ⟨את⟩ ang mga anak ni Aharon, kag ginsuloban niya sila sang mga koton, kag gintalian niya sila ⟨את⟩ sang abanet, kag ginputos niya sa ila ang mga migba, sumo sa ginsugo ni Yahweh ⟨את⟩ kay Moshe.",
   "tokens": [
     {
       "surface": "ויקרב",
-      "gloss": "ginpadalapit"
+      "gloss": "gindala"
     },
     {
       "surface": "משה",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "mga anak"
+      "gloss": "ang mga anak"
     },
     {
       "surface": "אהרן",
@@ -30,15 +30,15 @@
     },
     {
       "surface": "וילבשם",
-      "gloss": "ginsul-oban niya sila"
+      "gloss": "ginsuloban niya sila"
     },
     {
       "surface": "כתנת",
-      "gloss": "mga kunton"
+      "gloss": "sang mga koton"
     },
     {
       "surface": "ויחגר",
-      "gloss": "ginpanganloban niya"
+      "gloss": "gintalian niya sila"
     },
     {
       "surface": "אתם",
@@ -47,23 +47,23 @@
     },
     {
       "surface": "אבנט",
-      "gloss": "abanet"
+      "gloss": "sang abanet"
     },
     {
       "surface": "ויחבש",
-      "gloss": "ginsugponanan niya"
+      "gloss": "ginputos niya"
     },
     {
       "surface": "להם",
-      "gloss": "sila"
+      "gloss": "sa ila"
     },
     {
       "surface": "מגבעות",
-      "gloss": "mga migbaot"
+      "gloss": "ang mga migba"
     },
     {
       "surface": "כאשר",
-      "gloss": "subong sang"
+      "gloss": "sumo sa"
     },
     {
       "surface": "צוה",
@@ -83,6 +83,6 @@
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-09-21T16:46:16.941189651Z",
+  "timestamp": "2026-09-25T09:40:31.211719279Z",
   "model": "glm-5.3"
 }

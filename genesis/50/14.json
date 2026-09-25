@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 50,
-  "translation": "Nagbalik si Yosef sa Mitsrayim, siya kag ang iya mga utod kag tanan nga nag-upod sa iya sa paglubong ⟨את⟩ sa iya amay, kahuman niya lubngon ⟨את⟩ ang iya amay.",
+  "translation": "Kag nagpauli si Yosef sa Mitsrayim, siya kag ang iya mga utod, kag tanan nga nagtaklad ⟨את⟩ upod sa iya sa paglubong ⟨את⟩ sa iya amay, human nila lubongon ⟨את⟩ sa iya amay.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "nagbalik"
+      "gloss": "Kag nagpauli"
     },
     {
       "surface": "יוסף",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "וכל",
-      "gloss": "kag tanan"
+      "gloss": "kag tanan nga"
     },
     {
       "surface": "העלים",
-      "gloss": "nga nag-upod"
+      "gloss": "nagtaklad"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ sa iya"
+      "gloss": "⟨את⟩ upod sa iya"
     },
     {
       "surface": "לקבר",
@@ -54,22 +54,22 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "kahuman"
+      "gloss": "human"
     },
     {
       "surface": "קברו",
-      "gloss": "niya lubngon"
+      "gloss": "nila lubongon"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang iya amay"
+      "marks": "sa iya amay"
     },
     {
       "surface": "אביו",
-      "gloss": "ang iya amay"
+      "gloss": "sa iya amay"
     }
   ],
-  "timestamp": "2026-09-21T16:19:39.859953261Z",
+  "timestamp": "2026-09-25T09:17:59.010145565Z",
   "model": "glm-5.3"
 }

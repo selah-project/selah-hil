@@ -5,7 +5,7 @@
   "book": "amos",
   "lang": "hil",
   "chapter": 2,
-  "translation": "Kag ako, ginpataas ko kamo gikan sa duta sang Mitsrayim, kag ginlakat ko kamo sa kamingawan apat ka pulo ka tuig, sa pagpanunung ⟨את⟩ sang duta sang Emori.",
+  "translation": "Kag ako, gintunga ko kamo ⟨את⟩ gikan sa duta sang Mitsrayim, kag ginlakat ko kamo ⟨את⟩ sa kamingawan apat ka pulo ka tuig, sa pagpanag-iya ⟨את⟩ sang duta sang Emori.",
   "tokens": [
     {
       "surface": "ואנכי",
@@ -13,11 +13,12 @@
     },
     {
       "surface": "העליתי",
-      "gloss": "ginpataas ko"
+      "gloss": "gintunga ko"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kamo"
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
     },
     {
       "surface": "מארץ",
@@ -33,7 +34,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kamo"
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
     },
     {
       "surface": "במדבר",
@@ -49,7 +51,7 @@
     },
     {
       "surface": "לרשת",
-      "gloss": "sa pagpanunung"
+      "gloss": "sa pagpanag-iya"
     },
     {
       "surface": "את",
@@ -58,13 +60,13 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "duta"
+      "gloss": "sang duta"
     },
     {
       "surface": "האמרי",
       "gloss": "sang Emori"
     }
   ],
-  "timestamp": "2026-09-21T20:08:36.811518996Z",
+  "timestamp": "2026-09-25T08:55:23.860865061Z",
   "model": "glm-5.3"
 }

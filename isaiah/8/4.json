@@ -5,19 +5,19 @@
   "book": "isaiah",
   "lang": "hil",
   "chapter": 8,
-  "translation": "Kay antes makailla ang bata sa pagtawag ⟨nga⟩ Amay kag Nanay, dalahon ang mga kabtang sang Damasek kag ⟨את⟩ ang sansinabog sang Shomeron sa atubang sang hari sang Ashur.",
+  "translation": "Kay bisan wala pa makahibalo ang bata sa pagtawag sang akong amay kag sang akong iloy, madala ang kabakodan sang Damasek kag ⟨את⟩ ang sinakop sang Shomeron sa atubang sang hari sang Ashur.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Kay"
+      "gloss": "kay"
     },
     {
       "surface": "בטרם",
-      "gloss": "antes"
+      "gloss": "bisan wala pa"
     },
     {
       "surface": "ידע",
-      "gloss": "makailla"
+      "gloss": "makahibalo"
     },
     {
       "surface": "הנער",
@@ -29,24 +29,24 @@
     },
     {
       "surface": "אבי",
-      "gloss": "Amay"
+      "gloss": "akong amay"
     },
     {
       "surface": "ואמי",
-      "gloss": "kag Nanay"
+      "gloss": "kag akong iloy"
     },
     {
       "surface": "ישא",
-      "gloss": "dalahon"
+      "gloss": "madala"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang mga kabtang sang Damasek"
+      "marks": "kabakodan sang Damasek"
     },
     {
       "surface": "חיל",
-      "gloss": "mga kabtang"
+      "gloss": "kabakodan"
     },
     {
       "surface": "דמשק",
@@ -55,11 +55,11 @@
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang sansinabog sang Shomeron"
+      "marks": "sinakop sang Shomeron"
     },
     {
       "surface": "שלל",
-      "gloss": "sansinabog"
+      "gloss": "sinakop"
     },
     {
       "surface": "שמרון",
@@ -78,6 +78,6 @@
       "gloss": "sang Ashur"
     }
   ],
-  "timestamp": "2026-09-21T18:54:44.117639365Z",
+  "timestamp": "2026-09-25T09:22:27.238560668Z",
   "model": "glm-5.3"
 }

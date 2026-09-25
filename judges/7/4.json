@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "hil",
   "chapter": 7,
-  "translation": "Kag nagsiling si Yahweh kay Gideon: Damo pa gid ang katawhan; ihikot mo ⟨את⟩ sila tubtub sa tubig, kag pagsulayan ko sila didto para sa imo. Kag matabo: ang sin-o nga ihambal ko sa imo, 'Ini magakadto ⟨kauban mo⟩' — siya ang magakadto ⟨kauban mo⟩; kag ang tanan nga ihambal ko sa imo, 'Ini indi magakadto kauban mo' — siya indi magakadto.",
+  "translation": "Kag nagsiling si Yahweh kay Gideon: \"Damo pa gid ang katawhan; panaoga sila ⟨את⟩ ngadto sa tubig, kag silutan ko sila dida para sa imo; kag matabo, ang bisan sin-o nga hinguhambalan ko sa imo, 'Ini magakadto ⟨את⟩ upod sa imo,' siya magakadto ⟨את⟩ upod sa imo; kag ang tanan nga hinguhambalan ko sa imo, 'Ini indi magakadto upod sa imo,' siya indi magakadto.\"",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "גדעון",
-      "gloss": "si Gideon"
+      "gloss": "Gideon"
     },
     {
       "surface": "עוד",
@@ -37,16 +37,16 @@
     },
     {
       "surface": "הורד",
-      "gloss": "ihikot mo"
+      "gloss": "panaoga"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ sila",
-      "marks": "ang katawhan"
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang katawhan)"
     },
     {
       "surface": "אל",
-      "gloss": "tubtub sa"
+      "gloss": "ngadto sa"
     },
     {
       "surface": "המים",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ואצרפנו",
-      "gloss": "kag pagsulayan ko sila"
+      "gloss": "kag silutan ko sila"
     },
     {
       "surface": "לך",
@@ -62,19 +62,19 @@
     },
     {
       "surface": "שם",
-      "gloss": "didto"
+      "gloss": "dida"
     },
     {
       "surface": "והיה",
-      "gloss": "Kag matabo"
+      "gloss": "kag matabo"
     },
     {
       "surface": "אשר",
-      "gloss": "ang"
+      "gloss": "ang bisan sin-o nga"
     },
     {
       "surface": "אמר",
-      "gloss": "nga ihambal ko"
+      "gloss": "hinguhambalan ko"
     },
     {
       "surface": "אליך",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "Ini"
+      "gloss": "ini"
     },
     {
       "surface": "ילך",
@@ -90,8 +90,8 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ kauban mo",
-      "marks": "si Gideon"
+      "gloss": "⟨את⟩ upod sa imo",
+      "marks": "ikaw"
     },
     {
       "surface": "הוא",
@@ -103,8 +103,8 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ kauban mo",
-      "marks": "si Gideon"
+      "gloss": "⟨את⟩ upod sa imo",
+      "marks": "ikaw"
     },
     {
       "surface": "וכל",
@@ -116,7 +116,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "ihambal ko"
+      "gloss": "hinguhambalan ko"
     },
     {
       "surface": "אליך",
@@ -124,7 +124,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "Ini"
+      "gloss": "ini"
     },
     {
       "surface": "לא",
@@ -136,7 +136,7 @@
     },
     {
       "surface": "עמך",
-      "gloss": "kauban mo"
+      "gloss": "upod sa imo"
     },
     {
       "surface": "הוא",
@@ -151,6 +151,6 @@
       "gloss": "magakadto"
     }
   ],
-  "timestamp": "2026-09-21T17:49:08.510048087Z",
+  "timestamp": "2026-09-25T09:34:58.659277433Z",
   "model": "glm-5.3"
 }

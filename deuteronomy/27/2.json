@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 27,
-  "translation": "Kag matabo sa adlaw nga pagtabok ninyo ⟨את⟩ sa Yarden paaging sa duta nga ginahatag ni Yahweh nga Elohim mo sa imo, magatindog ka sang mga dako nga bato kag ipapanit mo ⟨sila⟩ sa sid.",
+  "translation": "Kag <mangayari⟩ sa adlaw nga pagtabok ninyo ⟨את⟩ sang Yarden pakadto sa duta nga ginahatag ni Yahweh nga iyo nga Elohim sa imo, ipatindog mo sa imo ang mga dako nga bato kag sapnan mo ⟨אתם⟩ sang apog.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Kag matabo"
+      "gloss": "kag mangyari"
     },
     {
       "surface": "ביום",
@@ -26,15 +26,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sa Yarden"
+      "marks": "sang Yarden"
     },
     {
       "surface": "הירדן",
-      "gloss": "sa Yarden"
+      "gloss": "sang Yarden"
     },
     {
       "surface": "אל",
-      "gloss": "paaging sa"
+      "gloss": "pakadto sa"
     },
     {
       "surface": "הארץ",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "nga Elohim mo"
+      "gloss": "imo nga Elohim"
     },
     {
       "surface": "נתן",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "והקמת",
-      "gloss": "magatindog ka"
+      "gloss": "ipatindog mo"
     },
     {
       "surface": "לך",
-      "gloss": "para sa imo"
+      "gloss": "sa imo"
     },
     {
       "surface": "אבנים",
@@ -78,18 +78,18 @@
     },
     {
       "surface": "ושדת",
-      "gloss": "ipapanit mo"
+      "gloss": "kag sapnan mo"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "ang mga bato sa sid"
+      "marks": "ang mga bato"
     },
     {
       "surface": "בשיד",
-      "gloss": "sa sid"
+      "gloss": "sang apog"
     }
   ],
-  "timestamp": "2026-09-21T17:29:18.430218631Z",
+  "timestamp": "2026-09-25T08:59:53.219268858Z",
   "model": "glm-5.3"
 }

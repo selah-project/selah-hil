@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "hil",
   "chapter": 10,
-  "translation": "Ngaa wala ninyo ginkaon ⟨את⟩ ang halad sang sala sa duog sang balaan, kay balaan sang mga balaan ini, kag ⟨את⟩ ina ginhatag sa inyo sa pagdala sang kasalanan sang katilingban, sa pag-aton sang ila mga sala sa atubang ni Yahweh?",
+  "translation": "Ngaa wala ninyo ginkea ang ⟨את⟩ halad sang sala sa balaan nga duog, kay balaan sang mga balaan ini, kag ⟨את⟩ ina ginzhatag sa inyo sa pagdala sang ⟨את⟩ sala sang katilingban, sa pagpanghinlo sa ila sa atubang ni Yahweh?",
   "tokens": [
     {
       "surface": "מדוע",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "אכלתם",
-      "gloss": "ninyo ginkaon"
+      "gloss": "ginkea ninyo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang halad sang sala"
+      "marks": "halad sang sala"
     },
     {
       "surface": "החטאת",
-      "gloss": "ang halad sang sala"
+      "gloss": "halad sang sala"
     },
     {
       "surface": "במקום",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "sang balaan"
+      "gloss": "balaan"
     },
     {
       "surface": "כי",
@@ -55,11 +55,11 @@
     {
       "surface": "ואתה",
       "gloss": "kag ⟨את⟩ ina",
-      "marks": "ina (ang halad sang sala)"
+      "marks": "inzhatag sa inyo"
     },
     {
       "surface": "נתן",
-      "gloss": "ginhatag"
+      "gloss": "ginzhatag"
     },
     {
       "surface": "לכם",
@@ -72,11 +72,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang kasalanan"
+      "marks": "sala sang katilingban"
     },
     {
       "surface": "עון",
-      "gloss": "ang kasalanan"
+      "gloss": "sala"
     },
     {
       "surface": "העדה",
@@ -84,11 +84,11 @@
     },
     {
       "surface": "לכפר",
-      "gloss": "sa pag-aton"
+      "gloss": "sa pagpanghinlo"
     },
     {
       "surface": "עליהם",
-      "gloss": "sang ila mga sala"
+      "gloss": "sa ila"
     },
     {
       "surface": "לפני",
@@ -99,6 +99,6 @@
       "gloss": "ni Yahweh"
     }
   ],
-  "timestamp": "2026-09-21T16:46:56.825355649Z",
+  "timestamp": "2026-09-25T09:38:51.620205102Z",
   "model": "glm-5.3"
 }

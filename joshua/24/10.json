@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "hil",
   "chapter": 24,
-  "translation": "Kag wala ako gusto magpatalingpada <sa> Bileam, kag nagpanalangin siya sang panalangin ⟨אתכם⟩ sa inyo, kag ginkabuhi ko ⟨אתכם⟩ kamo sa iya kamot.",
+  "translation": "kag wala ako magbuot magpatalamdom kay Bilam, kag gintalagana gid niya ⟨את⟩ kamo, kag gindalag ko ⟨את⟩ kamo sa iya kamot.",
   "tokens": [
     {
       "surface": "ולא",
@@ -13,36 +13,36 @@
     },
     {
       "surface": "אביתי",
-      "gloss": "ako gusto"
+      "gloss": "ako magbuot"
     },
     {
       "surface": "לשמע",
-      "gloss": "sa pagpatalingpada"
+      "gloss": "magpatalamdom"
     },
     {
       "surface": "לבלעם",
-      "gloss": "<sa> Bileam"
+      "gloss": "kay Bilam"
     },
     {
       "surface": "ויברך",
-      "gloss": "kag nagpanalangin"
+      "gloss": "kag gintalagana"
     },
     {
       "surface": "ברוך",
-      "gloss": "sang panalangin"
+      "gloss": "gid"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "sa inyo"
+      "gloss": "⟨את⟩ kamo",
+      "marks": "kamo"
     },
     {
       "surface": "ואצל",
-      "gloss": "kag ginkabuhi ko"
+      "gloss": "kag gindalag ko"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ kamo",
       "marks": "kamo"
     },
     {
@@ -50,6 +50,6 @@
       "gloss": "sa iya kamot"
     }
   ],
-  "timestamp": "2026-09-21T22:25:11.672997890Z",
+  "timestamp": "2026-09-25T09:32:01.076729839Z",
   "model": "glm-5.3"
 }

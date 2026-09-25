@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "hil",
   "chapter": 27,
-  "translation": "Kag kon gikan sa anak nga lalaki nga anom ka pulo ka tuig kag pataas, kon lalaki, amo ang imo bili nga napulo kag lima ka shekel, kag sa babae napulo ka shekel.",
+  "translation": "Kag kon ⟨sa⟩ anak sang anom ka pulo ka tuig kag pataas, kon lalaki, ang imo pagbanabana ⟨amo⟩ napulo kag lima ka shekel, kag sa babae napulo ka mga shekel.",
   "tokens": [
     {
       "surface": "ואם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "מבן",
-      "gloss": "gikan sa anak"
+      "gloss": "sang anak"
     },
     {
       "surface": "ששים",
@@ -37,23 +37,23 @@
     },
     {
       "surface": "והיה",
-      "gloss": "amo ang"
+      "gloss": "⟨amo⟩"
     },
     {
       "surface": "ערכך",
-      "gloss": "imo bili"
+      "gloss": "imo pagbanabana"
     },
     {
       "surface": "חמשה",
-      "gloss": "napulo kag lima"
+      "gloss": "lima"
     },
     {
       "surface": "עשר",
-      "gloss": ""
+      "gloss": "napulo kag"
     },
     {
       "surface": "שקל",
-      "gloss": "ka shekel"
+      "gloss": "shekel"
     },
     {
       "surface": "ולנקבה",
@@ -65,9 +65,9 @@
     },
     {
       "surface": "שקלים",
-      "gloss": "ka shekel"
+      "gloss": "mga shekel"
     }
   ],
-  "timestamp": "2026-09-21T16:57:40.193601292Z",
+  "timestamp": "2026-09-25T09:40:15.264659467Z",
   "model": "glm-5.3"
 }

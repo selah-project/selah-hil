@@ -5,20 +5,20 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 34,
-  "translation": "Kag ginklubong siya ⟨אתו⟩ sa ⟨ang⟩ walog, sa duta sang Moab, sa atbang sang Beit Peor; kag wala nakahibalo bisan isa ka tawo sang iya linubngan tubot sa subong nga adlaw.",
+  "translation": "Kag ginlubong niya ⟨את⟩ siya sa giniban sa duta sang Moav, atipan sang Beit Peor; kag wala nakasayod bisan isa ka tawo sang ⟨את⟩ iya tinubungan tubtub sa subong nga adlaw.",
   "tokens": [
     {
       "surface": "ויקבר",
-      "gloss": "kag ginklubong"
+      "gloss": "ginlubong niya"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "siya (si Moshe)"
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya"
     },
     {
       "surface": "בגי",
-      "gloss": "sa walog"
+      "gloss": "sa giniban"
     },
     {
       "surface": "בארץ",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "מואב",
-      "gloss": "sang Moab"
+      "gloss": "sang Moav"
     },
     {
       "surface": "מול",
-      "gloss": "sa atbang"
+      "gloss": "atipan"
     },
     {
       "surface": "בית",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "ידע",
-      "gloss": "nakahibalo"
+      "gloss": "nakasayod"
     },
     {
       "surface": "איש",
@@ -55,15 +55,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sang iya linubngan"
+      "marks": "iya tinubungan"
     },
     {
       "surface": "קברתו",
-      "gloss": "iya linubngan"
+      "gloss": "iya tinubungan"
     },
     {
       "surface": "עד",
-      "gloss": "tubot sa"
+      "gloss": "tubtub sa"
     },
     {
       "surface": "היום",
@@ -71,9 +71,9 @@
     },
     {
       "surface": "הזה",
-      "gloss": "ini"
+      "gloss": "subong nga adlaw"
     }
   ],
-  "timestamp": "2026-09-21T17:33:49.008273429Z",
+  "timestamp": "2026-09-25T08:59:56.855189678Z",
   "model": "glm-5.3"
 }

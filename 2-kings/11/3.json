@@ -5,24 +5,24 @@
   "book": "2-kings",
   "lang": "hil",
   "chapter": 11,
-  "translation": "Kag ⟨siya⟩ nagtago kaupod ⟨sa iya⟩ sa balay ni Yahweh sing anom ka tuig, kag si Athalya naghari sa duta.",
+  "translation": "Kag yara siya ⟨את⟩ kadi iya sa Balay ni Yahweh, nagtago anom ka tuig; kag si Athalyah naghari sa duta.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Kag natabo"
+      "gloss": "Kag yara"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩",
-      "marks": "siya (kaupod sa iya)"
+      "gloss": "⟨את⟩ kadi iya",
+      "marks": "si Yehoash nga tago"
     },
     {
       "surface": "בית",
-      "gloss": "balay"
+      "gloss": "sa Balay"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "מתחבא",
@@ -30,15 +30,15 @@
     },
     {
       "surface": "שש",
-      "gloss": "anom"
+      "gloss": "anom ka"
     },
     {
       "surface": "שנים",
-      "gloss": "ka tuig"
+      "gloss": "tuig"
     },
     {
       "surface": "ועתליה",
-      "gloss": "kag si Athalya"
+      "gloss": "kag si Athalyah"
     },
     {
       "surface": "מלכת",
@@ -53,6 +53,6 @@
       "gloss": "duta"
     }
   ],
-  "timestamp": "2026-09-21T22:30:43.086940496Z",
+  "timestamp": "2026-09-25T08:47:35.461224487Z",
   "model": "glm-5.3"
 }

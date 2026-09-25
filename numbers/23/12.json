@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "hil",
   "chapter": 23,
-  "translation": "Kag siya nagtubas kag nagsiling: Indi bala ⟨את⟩ ang ginaplagay ni Yahweh sa akon baba, ina ⟨ang⟩ atipanon ko nga ihambal?",
+  "translation": "Kag nagsabat siya kag nagsiling: Indi bala ⟨את⟩ ina nga ibutang ni Yahweh sa akon baba, ⟨את⟩ ina atipanon ko sa paghambal?",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "kag siya nagtubas"
+      "gloss": "kag nagsabat"
     },
     {
       "surface": "ויאמר",
@@ -22,15 +22,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang ginaplagay ni Yahweh sa akon baba"
+      "marks": "ina nga ibutang"
     },
     {
       "surface": "אשר",
-      "gloss": "ang"
+      "gloss": "nga"
     },
     {
       "surface": "ישים",
-      "gloss": "ginaplagay"
+      "gloss": "ibutang"
     },
     {
       "surface": "יהוה",
@@ -42,8 +42,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "ina"
+      "gloss": "⟨את⟩",
+      "marks": "ina atipanon ko sa paghambal"
     },
     {
       "surface": "אשמר",
@@ -51,9 +51,9 @@
     },
     {
       "surface": "לדבר",
-      "gloss": "nga ihambal"
+      "gloss": "sa paghambal"
     }
   ],
-  "timestamp": "2026-09-21T17:10:41.495689450Z",
+  "timestamp": "2026-09-25T09:44:18.233217536Z",
   "model": "glm-5.3"
 }

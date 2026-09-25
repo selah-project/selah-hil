@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 43,
-  "translation": "Kag kon nagakapuy sila sang tanan nga ila ginbuhat, ang porma sang balay kag ang iya kaayusan kag ang iya mga paggwa kag ang iya mga pagsulod, kag ang tanan nga iya porma kag ⟨את⟩ ang tanan nga iya mga kahulingan, kag ang tanan nga iya mga porma kag ang tanan nga iya Torah, paathagon mo sila, kag isulat mo ini sa atubang sang ila mga mata, agod magabantay sila ⟨את⟩ ang tanan nga iya porma kag ⟨את⟩ ang tanan nga iya mga kahulingan, kag himoon nila ini.",
+  "translation": "Kag kon nahuya sila sang tanan nga ila ginhimo, ipakilala sa ila ang porma sang balay kag ang iya kahimon, kag ang iya mga paggwa kag ang iya mga pagsulod, kag ang tanan nga iya mga porma kag ⟨את⟩ ang tanan nga iya mga kasuguan, kag ang tanan nga iya mga porma kag ang tanan nga iya Torah — hibaluon sang ila ⟨את⟩ sila, kag isulat sa atubang sang ila mga mata, agod magbantay sila sang ⟨את⟩ ang tanan nga iya porma kag ⟨את⟩ ang tanan nga iya mga kasuguan, kag himuon nila ⟨את⟩ ini.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "Kag kon"
+      "gloss": "kag kon"
     },
     {
       "surface": "נכלמו",
-      "gloss": "nagakapuy sila"
+      "gloss": "nahuya sila"
     },
     {
       "surface": "מכל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "עשו",
-      "gloss": "ila ginbuhat"
+      "gloss": "ila ginhimo"
     },
     {
       "surface": "צורת",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ותכונתו",
-      "gloss": "kag ang iya kaayusan"
+      "gloss": "kag ang iya kahimon"
     },
     {
       "surface": "ומוצאיו",
@@ -53,12 +53,12 @@
     },
     {
       "surface": "צורתו",
-      "gloss": "nga iya porma"
+      "gloss": "nga iya mga porma"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang tanan nga iya mga kahulingan"
+      "marks": "ang tanan"
     },
     {
       "surface": "כל",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "חקתיו",
-      "gloss": "nga iya mga kahulingan"
+      "gloss": "nga iya mga kasuguan"
     },
     {
       "surface": "וכל",
@@ -86,15 +86,16 @@
     },
     {
       "surface": "הודע",
-      "gloss": "paathagon mo"
+      "gloss": "hibaluon sang ila"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ sila"
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila (ang tanan nga binangon)"
     },
     {
       "surface": "וכתב",
-      "gloss": "kag isulat mo"
+      "gloss": "kag isulat"
     },
     {
       "surface": "לעיניהם",
@@ -102,12 +103,12 @@
     },
     {
       "surface": "וישמרו",
-      "gloss": "agod magabantay sila"
+      "gloss": "agod magbantay sila"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang tanan nga iya porma"
+      "marks": "ang tanan"
     },
     {
       "surface": "כל",
@@ -120,7 +121,7 @@
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang tanan nga iya mga kahulingan"
+      "marks": "ang tanan"
     },
     {
       "surface": "כל",
@@ -128,17 +129,18 @@
     },
     {
       "surface": "חקתיו",
-      "gloss": "nga iya mga kahulingan"
+      "gloss": "nga iya mga kasuguan"
     },
     {
       "surface": "ועשו",
-      "gloss": "kag himoon"
+      "gloss": "kag himuon nila"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ sila"
+      "gloss": "⟨את⟩ ini",
+      "marks": "ini (ang tanan nga kasuguan)"
     }
   ],
-  "timestamp": "2026-09-21T20:00:38.834915883Z",
+  "timestamp": "2026-09-25T09:11:41.269475388Z",
   "model": "glm-5.3"
 }

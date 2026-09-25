@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "hil",
   "chapter": 9,
-  "translation": "Kag sang sulod siya, nagkaon kag nag-inom, kag nagsiling: Tan-awa ninyo ⟨karon⟩ ining ⟨את⟩ gidamlag nga babae, kag ilobong ninyo siya, kay anak nga babae sang hari siya.",
+  "translation": "Kag nagsulod siya, kag nangaon kag nag-inom, kag nagsiling: Tan-awa ninyo ⟨nga⟩ ⟨את⟩ ang sining tinalagdanan, kag ilobong ninyo siya, kay anak nga babae sang isa ka hari siya.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "Kag sang sulod siya"
+      "gloss": "kag nagsulod siya"
     },
     {
       "surface": "ויאכל",
-      "gloss": "nagkaon"
+      "gloss": "kag nangaon"
     },
     {
       "surface": "וישת",
@@ -29,20 +29,20 @@
     },
     {
       "surface": "נא",
-      "gloss": "karon"
+      "gloss": "nga"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ining gidamlag nga babae"
+      "marks": "ang sining tinalagdanan"
     },
     {
       "surface": "הארורה",
-      "gloss": "gidamlag"
+      "gloss": "ang sining tinalagdanan"
     },
     {
       "surface": "הזאת",
-      "gloss": "ini nga babae"
+      "gloss": "sining"
     },
     {
       "surface": "וקברוה",
@@ -58,13 +58,13 @@
     },
     {
       "surface": "מלך",
-      "gloss": "sang hari"
+      "gloss": "sang isa ka hari"
     },
     {
       "surface": "היא",
       "gloss": "siya"
     }
   ],
-  "timestamp": "2026-09-21T18:43:05.576107277Z",
+  "timestamp": "2026-09-25T08:50:53.468914149Z",
   "model": "glm-5.3"
 }

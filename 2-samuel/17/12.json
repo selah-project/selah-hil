@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "hil",
   "chapter": 17,
-  "translation": "Kag magakadto kami sa iya sa isa ka duog nga makit-an didto, kag kami magaabot sa iya pareho sang pagkahulog sang hamog sa duta, kag indi magapabilin sa iya kag sa tanan nga mga tawo ⟨nga kaabay⟩ ⟨ka iya⟩ bisan isa.",
+  "translation": "kag magaabot kita sa iya sa isa ka lugar diin matabuan siya didto, kag magaabante kita sa iya subong sang hamog nga nagakaholog sa duta, kag wala guid maila sa iya kag sa tanan nga mga tawo nga ⟨את⟩ ka iya bisan isa.",
   "tokens": [
     {
       "surface": "ובאנו",
-      "gloss": "kag magakadto kami"
+      "gloss": "kag magaabot kita"
     },
     {
       "surface": "אליו",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "באחת",
-      "gloss": "sa isa ka"
+      "gloss": "sa isa"
     },
     {
       "surface": "המקומת",
-      "gloss": "duog"
+      "gloss": "ka lugar"
     },
     {
       "surface": "אשר",
-      "gloss": "nga"
+      "gloss": "diin"
     },
     {
       "surface": "נמצא",
-      "gloss": "makit-an"
+      "gloss": "matabuan"
     },
     {
       "surface": "שם",
@@ -37,23 +37,23 @@
     },
     {
       "surface": "ונחנו",
-      "gloss": "kag kami"
+      "gloss": "kag kita"
     },
     {
       "surface": "עליו",
-      "gloss": "magaabot sa iya"
+      "gloss": "sa iya"
     },
     {
       "surface": "כאשר",
-      "gloss": "pareho sang"
+      "gloss": "subong sang"
     },
     {
       "surface": "יפל",
-      "gloss": "pagkahulog"
+      "gloss": "nagakaholog"
     },
     {
       "surface": "הטל",
-      "gloss": "sang hamog"
+      "gloss": "hamog"
     },
     {
       "surface": "על",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "kag indi"
+      "gloss": "kag wala"
     },
     {
       "surface": "נותר",
-      "gloss": "magapabilin"
+      "gloss": "maila"
     },
     {
       "surface": "בו",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "האנשים",
-      "gloss": "mga tawo"
+      "gloss": "nga mga tawo"
     },
     {
       "surface": "אשר",
@@ -89,8 +89,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "ka iya (ang mga kaabay)"
+      "gloss": "⟨את⟩ ka iya"
     },
     {
       "surface": "גם",
@@ -101,6 +100,6 @@
       "gloss": "isa"
     }
   ],
-  "timestamp": "2026-09-21T18:20:09.768011628Z",
+  "timestamp": "2026-09-25T08:54:17.604674668Z",
   "model": "glm-5.3"
 }

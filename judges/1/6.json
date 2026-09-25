@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "hil",
   "chapter": 1,
-  "translation": "Kag nagpalagyo si Adoni-Bezek, kag ginpanglagyo nila siya, kag gindakop nila siya, kag ginputol nila ⟨את⟩ ang mga kumagko sang iya mga kamot kag sang iya mga tiil.",
+  "translation": "Kag nagkalagkit si Adoni-Bezek, kag nagtingob sila sa iya palibot, kag gintumnan nila ⟨את⟩ siya, kag ginputol nila ⟨את⟩ ang mga dumalunggan sang iya mga kamot kag sang iya mga tiil.",
   "tokens": [
     {
       "surface": "וינס",
-      "gloss": "Kag nagpalagyo"
+      "gloss": "Kag nagkalagkit"
     },
     {
       "surface": "אדני",
@@ -21,20 +21,20 @@
     },
     {
       "surface": "וירדפו",
-      "gloss": "kag ginpanglagyo nila"
+      "gloss": "kag nagtingob sila sa iya palibot"
     },
     {
       "surface": "אחריו",
-      "gloss": "siya"
+      "gloss": "sa iya palibot"
     },
     {
       "surface": "ויאחזו",
-      "gloss": "kag gindakop nila"
+      "gloss": "kag gintumnan nila"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ siya",
-      "marks": "siya (si Adoni-Bezek)"
+      "marks": "gintumnan nila si Adoni-Bezek"
     },
     {
       "surface": "ויקצצו",
@@ -43,11 +43,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang mga kumagko"
+      "marks": "ang mga dumalunggan"
     },
     {
       "surface": "בהנות",
-      "gloss": "mga kumagko"
+      "gloss": "ang mga dumalunggan"
     },
     {
       "surface": "ידיו",
@@ -58,6 +58,6 @@
       "gloss": "kag sang iya mga tiil"
     }
   ],
-  "timestamp": "2026-09-21T17:46:08.770946132Z",
+  "timestamp": "2026-09-25T09:36:42.568128411Z",
   "model": "glm-5.3"
 }

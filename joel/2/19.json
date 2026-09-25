@@ -5,31 +5,31 @@
   "book": "joel",
   "lang": "hil",
   "chapter": 2,
-  "translation": "Kag ginsabat ni Yahweh kag nagsiling sa iya nga katawhan: Yari ako, magapadala ako sa inyo sang ⟨את⟩ ang humay kag ang bag-ong bino kag ang lana, kag mabusog kamo sa iya, kag indi na nako pagtagana ⟨ang inyo⟩ sing dugang pa nga kaulawan sa tunga sang mga pungsod.",
+  "translation": "Kag nagsabat si Yahweh kag naghambal sa iya katawhan: Tan-aw, ari ako magapadala sa inyo ⟨את⟩ ang bugas kag ang bag-ong bino kag ang lana, kag mabusog kamo ⟨אתו⟩, kag indi na ako magahatag sang ⟨אתכם⟩ nga kaulawan pa sa tunga sang mga pungsod.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "kag ginsabat"
+      "gloss": "kag nagsabat"
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "ויאמר",
-      "gloss": "kag nagsiling"
+      "gloss": "kag naghambal"
     },
     {
       "surface": "לעמו",
-      "gloss": "sa iya nga katawhan"
+      "gloss": "sa iya katawhan"
     },
     {
       "surface": "הנני",
-      "gloss": "yari ako"
+      "gloss": "tan-aw, ari ako"
     },
     {
       "surface": "שלח",
-      "gloss": "magapadala ako"
+      "gloss": "magapadala"
     },
     {
       "surface": "לכם",
@@ -38,11 +38,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang humay"
+      "marks": "ang bugas"
     },
     {
       "surface": "הדגן",
-      "gloss": "ang humay"
+      "gloss": "ang bugas"
     },
     {
       "surface": "והתירוש",
@@ -58,8 +58,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "sa iya (sa humay, bino kag lana)"
+      "gloss": "⟨אתו⟩",
+      "marks": "ini (ang bugas, bino kag lana)"
     },
     {
       "surface": "ולא",
@@ -67,26 +67,26 @@
     },
     {
       "surface": "אתן",
-      "gloss": "magataga ko"
+      "gloss": "na ako magahatag"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨אתכם⟩",
-      "marks": "kamo"
+      "marks": "kamo \/ inyo"
     },
     {
       "surface": "עוד",
-      "gloss": "sing dugang pa"
+      "gloss": "pa"
     },
     {
       "surface": "חרפה",
-      "gloss": "kaulawan"
+      "gloss": "nga kaulawan"
     },
     {
       "surface": "בגוים",
       "gloss": "sa tunga sang mga pungsod"
     }
   ],
-  "timestamp": "2026-09-21T20:09:44.531902855Z",
+  "timestamp": "2026-09-25T09:30:54.837660419Z",
   "model": "glm-5.3"
 }

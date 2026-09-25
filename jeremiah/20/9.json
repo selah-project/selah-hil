@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "hil",
   "chapter": 20,
-  "translation": "Kag nagsiling ako: indi ako magatum-an sa iya, kag indi na ako magahambal sa iya ngalan. Apang <nangin> sa akon tagipusuon <nga> kalayo nga nagasunog, ginpapipid sa akon mga bukok; kag nagkapoy ako sa pagpugong kag indi ako makakahimo.",
+  "translation": "Kag nagsiling ako: indi ko na ⟨sia⟩ dumdumon, kag indi na ako magahambal sa iya ngalan; kag nangin sa akon tagipusuon ⟨ini⟩ pareho sang sigsigon nga kalayo, ginkandado sa akon mga bukog, kag nakapoy ako sa pagbantal, kag indi ko makaya.",
   "tokens": [
     {
       "surface": "ואמרתי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אזכרנו",
-      "gloss": "ako magatum-an sa iya"
+      "gloss": "dumdumon ko na"
     },
     {
       "surface": "ולא",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "אדבר",
-      "gloss": "ako magahambal"
+      "gloss": "magahambal"
     },
     {
       "surface": "עוד",
-      "gloss": "na"
+      "gloss": "pa"
     },
     {
       "surface": "בשמו",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "והיה",
-      "gloss": "kag <nangin>"
+      "gloss": "kag nangin"
     },
     {
       "surface": "בלבי",
@@ -45,27 +45,27 @@
     },
     {
       "surface": "כאש",
-      "gloss": "<nga> kalayo"
+      "gloss": "pareho sang kalayo"
     },
     {
       "surface": "בערת",
-      "gloss": "nga nagasunog"
+      "gloss": "sigsigon"
     },
     {
       "surface": "עצר",
-      "gloss": "ginpapipid"
+      "gloss": "ginkandado"
     },
     {
       "surface": "בעצמתי",
-      "gloss": "sa akon mga bukok"
+      "gloss": "sa akon mga bukog"
     },
     {
       "surface": "ונלאיתי",
-      "gloss": "kag nagkapoy ako"
+      "gloss": "kag nakapoy ako"
     },
     {
       "surface": "כלכל",
-      "gloss": "sa pagpugong"
+      "gloss": "sa pagbantal"
     },
     {
       "surface": "ולא",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "אוכל",
-      "gloss": "ako makakahimo"
+      "gloss": "makaya"
     }
   ],
-  "timestamp": "2026-09-21T19:24:32.906143740Z",
+  "timestamp": "2026-09-25T09:25:00.467898516Z",
   "model": "glm-5.3"
 }

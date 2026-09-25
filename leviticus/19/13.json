@@ -5,20 +5,20 @@
   "book": "leviticus",
   "lang": "hil",
   "chapter": 19,
-  "translation": "Indi ⟨mo⟩ pagpanikason ⟨את⟩ ang imo kaabay, kag indi ⟨mo⟩ paggakodon; ang bayad sang sinulugoon indi pagpatilipoton ⟨sa imo⟩ tubtub ka aga.",
+  "translation": "Indi pagpanglugon ⟨את⟩ sang imo kaabay kag indi pagpanggawat; ang balon sang gin-arkila ⟨את⟩ sa imo indi pagpaestaron tubtob sa kabuntagon.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "Indi"
+      "gloss": "indi"
     },
     {
       "surface": "תעשק",
-      "gloss": "pagpanikason"
+      "gloss": "pagpanglugon"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang imo kaabay"
+      "marks": "sang imo kaabay"
     },
     {
       "surface": "רעך",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "תגזל",
-      "gloss": "paggakodon"
+      "gloss": "pagpanggawat"
     },
     {
       "surface": "לא",
@@ -38,30 +38,29 @@
     },
     {
       "surface": "תלין",
-      "gloss": "pagpatilipoton"
+      "gloss": "pagpaestaron"
     },
     {
       "surface": "פעלת",
-      "gloss": "bayad"
+      "gloss": "ang balon"
     },
     {
       "surface": "שכיר",
-      "gloss": "sang sinulugoon"
+      "gloss": "sang gin-arkila"
     },
     {
       "surface": "אתך",
-      "gloss": "sa imo ⟨את⟩",
-      "marks": "ang bayad sang sinulugoon"
+      "gloss": "⟨את⟩ sa imo"
     },
     {
       "surface": "עד",
-      "gloss": "tubtub"
+      "gloss": "tubtob"
     },
     {
       "surface": "בקר",
-      "gloss": "ka aga"
+      "gloss": "sa kabuntagon"
     }
   ],
-  "timestamp": "2026-09-21T16:52:22.553390982Z",
+  "timestamp": "2026-09-25T09:38:23.182206688Z",
   "model": "glm-5.3"
 }

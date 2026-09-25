@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 48,
-  "translation": "Kag ang iya katunga pa-abut sa timo-awan lima ka gatos kag apat ka libo <span class=\"hebrew\">מדה<\/span> ka sukod, kag ang mga ganghaan tatlo: ganghaan ni Shim'on isa, ganghaan ni Yissaskhar isa, ganghaan ni Zevulun isa.",
+  "translation": "Kag ang iya katimanan sa timakble lima ka gatos kag apat ka libo sukod, kag tatlo ka ganghaan: ganghaan ni Shim'on isa, ganghaan ni Yissakhar isa, ganghaan ni Zevulun isa.",
   "tokens": [
     {
       "surface": "ופאת",
-      "gloss": "kag ang katunga pa-abut"
+      "gloss": "kag ang katimanan"
     },
     {
       "surface": "נגבה",
-      "gloss": "sa timo-awan"
+      "gloss": "sa timakble"
     },
     {
       "surface": "חמש",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "מדה",
-      "gloss": "ka sukod"
+      "gloss": "sukod"
     },
     {
       "surface": "ושערים",
-      "gloss": "kag ang mga ganghaan"
+      "gloss": "kag tatlo ka ganghaan"
     },
     {
       "surface": "שלשה",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "יששכר",
-      "gloss": "ni Yissaskhar"
+      "gloss": "ni Yissakhar"
     },
     {
       "surface": "אחד",
@@ -80,6 +80,6 @@
       "gloss": "isa"
     }
   ],
-  "timestamp": "2026-09-21T20:03:07.852308383Z",
+  "timestamp": "2026-09-25T09:12:48.957146740Z",
   "model": "glm-5.3"
 }

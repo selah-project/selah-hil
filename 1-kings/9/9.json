@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "hil",
   "chapter": 9,
-  "translation": "Kag sila magahambal: Tungod kay gintagan nila si Yahweh, ang ila Elohim, nga nagguwa sang ila mga kag-anak sa duta sang Mitsrayim, kag nagkupot sila sa mga Elohim nga iba kag nagduso sila sa ila kag nag-alagad sila sa ila — tungod sini gindala ni Yahweh sa ila ⟨את⟩ tanan niining kalaotan.",
+  "translation": "Kag sila magahambal: Tungod kay ginbiyaan nila si Yahweh, ang ila Elohim, nga nagguwa sang ila mga kabanal sang duta sang Mitsrayim, kag nagkupot sila sa mga Elohim nga iba kag nagpanimbahon sila sa ila kag nag-alagad sila sa ila — tungod sini gindala ni Yahweh sa ila ang tanan nga kalaay nga ini.",
   "tokens": [
     {
       "surface": "ואמרו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "עזבו",
-      "gloss": "gintagan nila"
+      "gloss": "ginbiyaan nila"
     },
     {
       "surface": "את",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "si Yahweh"
     },
     {
       "surface": "אלהיהם",
@@ -42,32 +42,32 @@
     },
     {
       "surface": "הוציא",
-      "gloss": "nagguwa"
+      "gloss": "nagguwa sang"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang ila mga kag-anak"
+      "marks": "ang ila mga kabanal"
     },
     {
       "surface": "אבתם",
-      "gloss": "ang ila mga kag-anak"
+      "gloss": "ang ila mga kabanal"
     },
     {
       "surface": "מארץ",
-      "gloss": "sa duta sang"
+      "gloss": "sang duta"
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayim"
+      "gloss": "sang Mitsrayim"
     },
     {
       "surface": "ויחזקו",
-      "gloss": "kag nagkupot sila sa"
+      "gloss": "kag nagkupot sila"
     },
     {
       "surface": "באלהים",
-      "gloss": "mga Elohim"
+      "gloss": "sa mga Elohim"
     },
     {
       "surface": "אחרים",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "וישתחו",
-      "gloss": "kag nagduso sila"
+      "gloss": "kag nagpanimbahon sila"
     },
     {
       "surface": "להם",
@@ -108,21 +108,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tanan niining kalaotan"
+      "marks": "ang tanan nga kalaay"
     },
     {
       "surface": "כל",
-      "gloss": "tanan"
+      "gloss": "ang tanan"
     },
     {
       "surface": "הרעה",
-      "gloss": "kalaotan"
+      "gloss": "nga kalaay"
     },
     {
       "surface": "הזאת",
-      "gloss": "nianing"
+      "gloss": "nga ini"
     }
   ],
-  "timestamp": "2026-09-21T18:29:57.342637523Z",
+  "timestamp": "2026-09-25T08:41:48.054257963Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 39,
-  "translation": "Kag makilala nila nga ako si Yahweh, ang Elohim nila, sang akon pagpabiag sa ila sa mga pungsod, kag pagtipunon ko sa ila sa ila duta, kag indi na ako magapabilin pa sang bisan isa sa ila didto.",
+  "translation": "Kag kilalahon nila nga ako si Yahweh ang ila Elohim, sang pagpalagyo ko ⟨את⟩ sa ila sa mga pungsod kag pagtipon ko sa ila sa ila duta, kag indi na ako magapatumba pa sang bisan isa sa ila didto.",
   "tokens": [
     {
       "surface": "וידעו",
-      "gloss": "kag makilala nila"
+      "gloss": "Kag kilalahon nila"
     },
     {
       "surface": "כי",
@@ -21,19 +21,20 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "si Yahweh"
     },
     {
       "surface": "אלהיהם",
-      "gloss": "ang Elohim nila"
+      "gloss": "ang ila Elohim"
     },
     {
       "surface": "בהגלותי",
-      "gloss": "sang akon pagpabiag"
+      "gloss": "sang pagpalagyo ko"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ sa ila"
+      "gloss": "⟨את⟩",
+      "marks": "sa ila"
     },
     {
       "surface": "אל",
@@ -45,7 +46,7 @@
     },
     {
       "surface": "וכנסתים",
-      "gloss": "kag pagtipunon ko sa ila"
+      "gloss": "kag pagtipon ko sa ila"
     },
     {
       "surface": "על",
@@ -61,21 +62,21 @@
     },
     {
       "surface": "אותיר",
-      "gloss": "magapabilin ako"
+      "gloss": "magapatumba"
     },
     {
       "surface": "עוד",
-      "gloss": "pa"
+      "gloss": "na pa"
     },
     {
       "surface": "מהם",
-      "gloss": "sa ila"
+      "gloss": "sang bisan isa sa ila"
     },
     {
       "surface": "שם",
       "gloss": "didto"
     }
   ],
-  "timestamp": "2026-09-21T19:59:08.460571819Z",
+  "timestamp": "2026-09-25T09:10:00.280967759Z",
   "model": "glm-5.3"
 }

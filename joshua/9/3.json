@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "hil",
   "chapter": 9,
-  "translation": "Kag ang mga pumaluyo sang Givon nakabati ⟨את⟩ ang ginhimo ni Yehoshua sa Yericho kag sa Ay,",
+  "translation": "Kag ang mga pumaluyo sang Givon nakabati sang ⟨את⟩ <ang> ginhimo ni Yehoshua sa Yericho kag sa Ay.",
   "tokens": [
     {
       "surface": "וישבי",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nga"
+      "gloss": "ang ginhimo"
     },
     {
       "surface": "עשה",
@@ -45,6 +45,6 @@
       "gloss": "kag sa Ay"
     }
   ],
-  "timestamp": "2026-09-21T17:37:44.501084195Z",
+  "timestamp": "2026-09-25T09:33:59.107071542Z",
   "model": "glm-5.3"
 }

@@ -5,16 +5,16 @@
   "book": "judges",
   "lang": "hil",
   "chapter": 11,
-  "translation": "Indi bala — ang ginapa-i sa imo ni Kemosh, ang imo nga dios, nga pagapanag-iyaon — ⟨אתו⟩ pagapanag-iyaon mo, kag ang tanan nga ginpahalin ni Yahweh, ang aton nga Elohim, sa aton atubang — ⟨אתו⟩ amon pagapanag-iyaon?",
+  "translation": "Indi bala nga ⟨את⟩ ang ginpapanaog sa imo ni Kemosh nga imo Elohim, iya imo pagpanag-iyaon? Kag ⟨את⟩ tanan nga ginpanag-iya ni Yahweh nga aton Elohim gikan sa aton atbang, iya aton pagpanag-iyaon.",
   "tokens": [
     {
       "surface": "הלא",
-      "gloss": "Indi bala"
+      "gloss": "indi bala"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang ginapa-i sa imo ni Kemosh"
+      "marks": "ang ginpapanaog sa imo ni Kemosh"
     },
     {
       "surface": "אשר",
@@ -22,33 +22,33 @@
     },
     {
       "surface": "יורישך",
-      "gloss": "ginapa-i sa imo"
+      "gloss": "ginpapanaog sa imo"
     },
     {
       "surface": "כמוש",
-      "gloss": "ni Kemosh"
+      "gloss": "Kemosh"
     },
     {
       "surface": "אלהיך",
-      "gloss": "ang imo nga dios"
+      "gloss": "imo Elohim"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨אתו⟩",
-      "marks": "pagapanag-iyaon mo"
+      "gloss": "⟨את⟩",
+      "marks": "iya imo pagpanag-iyaon"
     },
     {
       "surface": "תירש",
-      "gloss": "pagapanag-iyaon mo"
+      "gloss": "imong pagpanag-iyaon"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang tanan"
+      "marks": "tanan nga ginpanag-iya ni Yahweh"
     },
     {
       "surface": "כל",
-      "gloss": "ang tanan"
+      "gloss": "tanan"
     },
     {
       "surface": "אשר",
@@ -56,30 +56,30 @@
     },
     {
       "surface": "הוריש",
-      "gloss": "ginpahalin"
+      "gloss": "ginpanag-iya"
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אלהינו",
-      "gloss": "ang aton nga Elohim"
+      "gloss": "aton Elohim"
     },
     {
       "surface": "מפנינו",
-      "gloss": "sa aton atubang"
+      "gloss": "gikan sa aton atbang"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨אתו⟩",
-      "marks": "amon pagapanag-iyaon"
+      "gloss": "⟨את⟩",
+      "marks": "iya aton pagpanag-iyaon"
     },
     {
       "surface": "נירש",
-      "gloss": "amon pagapanag-iyaon"
+      "gloss": "aton pagpanag-iyaon"
     }
   ],
-  "timestamp": "2026-09-21T17:52:00.220492902Z",
+  "timestamp": "2026-09-25T09:34:32.055409552Z",
   "model": "glm-5.3"
 }

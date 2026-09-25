@@ -5,19 +5,19 @@
   "book": "2-chronicles",
   "lang": "hil",
   "chapter": 20,
-  "translation": "Kag sa ika-apat nga adlaw nagkatipon sila sa Emek Berakhah, kay didto ginpalandong nila ⟨את⟩ si Yahweh; gani gintawag nila ⟨את⟩ ang ngalan sang sina nga duog nga Emek Berakhah tubtob subong nga adlaw.",
+  "translation": "Kag sa ikaapat nga adlaw nagtipon sila sa Emek Berakhah, kay didto gintambalan nila ⟨את⟩ si Yahweh; tungod sini gintawag nila ⟨את⟩ ang ngalan sang sina nga duog nga Emek Berakhah tubtob subong nga adlaw.",
   "tokens": [
     {
       "surface": "וביום",
-      "gloss": "kag sa … adlaw"
+      "gloss": "kag sa ikaapat nga adlaw"
     },
     {
       "surface": "הרבעי",
-      "gloss": "ika-apat"
+      "gloss": "ikaapat"
     },
     {
       "surface": "נקהלו",
-      "gloss": "nagkatipon sila"
+      "gloss": "nagtipon sila"
     },
     {
       "surface": "לעמק",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ברכו",
-      "gloss": "ginpalandong nila"
+      "gloss": "gintambalan nila"
     },
     {
       "surface": "את",
@@ -46,15 +46,15 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "si Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "tungod"
     },
     {
       "surface": "כן",
-      "gloss": "gani"
+      "gloss": "sini"
     },
     {
       "surface": "קראו",
@@ -94,6 +94,6 @@
       "gloss": "subong nga adlaw"
     }
   ],
-  "timestamp": "2026-09-21T22:07:19.983127315Z",
+  "timestamp": "2026-09-25T08:46:05.004555991Z",
   "model": "glm-5.3"
 }

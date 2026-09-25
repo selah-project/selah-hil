@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 29,
-  "translation": "Kag indi tagbana lamang kamo — ako amo ang nagaputol sang ⟨את⟩ ini nga katipan kag sang ⟨את⟩ ini nga sumpa.",
+  "translation": "Kag indi ⟨man⟩ sa inyo lamang ginkakaputan ko ⟨את⟩ ang ini nga kasugtanan kag ⟨את⟩ ang ini nga tunglo.",
   "tokens": [
     {
       "surface": "ולא",
@@ -13,12 +13,12 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "kamo"
+      "gloss": "⟨את⟩ sa inyo",
+      "marks": "sa inyo"
     },
     {
       "surface": "לבדכם",
-      "gloss": "tagbana lamang"
+      "gloss": "lamang sa inyo"
     },
     {
       "surface": "אנכי",
@@ -26,35 +26,35 @@
     },
     {
       "surface": "כרת",
-      "gloss": "nagaputol"
+      "gloss": "ginkakaputan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ini nga katipan"
+      "marks": "ang kasugtanan"
     },
     {
       "surface": "הברית",
-      "gloss": "katipan"
+      "gloss": "ang kasugtanan"
     },
     {
       "surface": "הזאת",
-      "gloss": "ini"
+      "gloss": "ini nga"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ini nga sumpa"
+      "marks": "ang tunglo"
     },
     {
       "surface": "האלה",
-      "gloss": "sumpa"
+      "gloss": "ang tunglo"
     },
     {
       "surface": "הזאת",
-      "gloss": "ini"
+      "gloss": "ini nga"
     }
   ],
-  "timestamp": "2026-09-21T17:30:40.409405812Z",
+  "timestamp": "2026-09-25T08:57:50.444021242Z",
   "model": "glm-5.3"
 }

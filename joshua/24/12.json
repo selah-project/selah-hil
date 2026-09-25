@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "hil",
   "chapter": 24,
-  "translation": "Kag ginsugo ko sa atubangan ninyo ⟨את⟩ ang panganod, kag nagpalagyo ini sang duha ka hari sang mga Emori gikan sa atubangan ninyo — indi sang imo espada kag indi sang imo pana.",
+  "translation": "Kag ginsugo ko sa atubangan ninyo ⟨את⟩ ang putakti, kag nagpalayas sini sa ila sa atubangan ninyo — ang duha ka hari sang mga Amori; indi sa imo espada kag indi sa imo pana.",
   "tokens": [
     {
       "surface": "ואשלח",
@@ -18,24 +18,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang panganod"
+      "marks": "ang putakti"
     },
     {
       "surface": "הצרעה",
-      "gloss": "ang panganod"
+      "gloss": "ang putakti"
     },
     {
       "surface": "ותגרש",
-      "gloss": "kag nagpalagyo ini"
+      "gloss": "kag nagpalayas sini sa ila"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩ ⟨אותם⟩",
-      "marks": "ang duha ka hari sang mga Emori"
+      "marks": "sa ila (ang duha ka hari)"
     },
     {
       "surface": "מפניכם",
-      "gloss": "gikan sa atubangan ninyo"
+      "gloss": "sa atubangan ninyo"
     },
     {
       "surface": "שני",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "sang mga Emori"
+      "gloss": "sang mga Amori"
     },
     {
       "surface": "לא",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "בחרבך",
-      "gloss": "sang imo espada"
+      "gloss": "sa imo espada"
     },
     {
       "surface": "ולא",
@@ -63,9 +63,9 @@
     },
     {
       "surface": "בקשתך",
-      "gloss": "sang imo pana"
+      "gloss": "sa imo pana"
     }
   ],
-  "timestamp": "2026-09-21T22:25:12.401100584Z",
+  "timestamp": "2026-09-25T09:32:18.169587481Z",
   "model": "glm-5.3"
 }

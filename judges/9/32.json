@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "hil",
   "chapter": 9,
-  "translation": "Kag subong, tumindog ka sang gab-i, ikaw kag ang mga tawo nga ara ka, kag maghulat ka sa tago sa uma.",
+  "translation": "Kag subong, tumindog ka sang gab-i, ikaw kag ang mga tawo nga yara ⟨את⟩ imo, kag magluto sa uma.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "קום",
-      "gloss": "tumindog ka"
+      "gloss": "tumindog"
     },
     {
       "surface": "לילה",
@@ -33,17 +33,18 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ara ka (upod)"
+      "gloss": "⟨את⟩",
+      "marks": "imo (yara ⟨את⟩ imo)"
     },
     {
       "surface": "וארב",
-      "gloss": "kag maghulat ka sa tago"
+      "gloss": "kag magluto"
     },
     {
       "surface": "בשדה",
       "gloss": "sa uma"
     }
   ],
-  "timestamp": "2026-09-21T17:49:40.360723143Z",
+  "timestamp": "2026-09-25T09:37:10.997870455Z",
   "model": "glm-5.3"
 }

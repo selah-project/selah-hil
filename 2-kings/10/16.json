@@ -5,19 +5,19 @@
   "book": "2-kings",
   "lang": "hil",
   "chapter": 10,
-  "translation": "Kag nagsiling siya: Kadto ka ⟨ka⟩ ako, kag tan-awa ang akon pagkamainiton kay Yahweh. Kag ginpakakabayo nila siya ⟨אתו⟩ sa iya karwahe.",
+  "translation": "Kag nagsiling siya: Dali ka ⟨akompanya⟩ ⟨את⟩ sa akon kag tan-awa ang akon kaiging alang kay Yahweh. Kag ginpalunod nila siya ⟨את⟩ sa iya karwahe.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Kag nagsiling siya"
+      "gloss": "kag nagsiling"
     },
     {
       "surface": "לכה",
-      "gloss": "Kadto ka"
+      "gloss": "dali ka"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ ka ako"
+      "gloss": "⟨akompanya⟩ ⟨את⟩ sa akon"
     },
     {
       "surface": "וראה",
@@ -25,26 +25,26 @@
     },
     {
       "surface": "בקנאתי",
-      "gloss": "ang akon pagkamainiton"
+      "gloss": "ang akon kaiging"
     },
     {
       "surface": "ליהוה",
-      "gloss": "kay Yahweh"
+      "gloss": "alang kay Yahweh"
     },
     {
       "surface": "וירכבו",
-      "gloss": "Kag ginpakakabayo nila"
+      "gloss": "kag ginpalunod nila"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "siya"
+      "gloss": "⟨את⟩ siya",
+      "marks": "sa iya karwahe (ברכבו)"
     },
     {
       "surface": "ברכבו",
       "gloss": "sa iya karwahe"
     }
   ],
-  "timestamp": "2026-09-21T18:43:50.988725422Z",
+  "timestamp": "2026-09-25T08:49:10.753207347Z",
   "model": "glm-5.3"
 }

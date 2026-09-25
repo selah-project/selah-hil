@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "hil",
   "chapter": 1,
-  "translation": "Magtawag pa <ang manalagna> nga nagaingon: Amo ini ang hambal ni Yahweh Tsevaot: Magaponapona pa < sang pagkaayo> ang akon mga duta, kag magalipay pa si Yahweh ⟨את⟩ Tsiyon, kag magapili pa siya sang Yerushalayim.",
+  "translation": "Nagtawag pa <ang manalagna> nga nagaingon: Amo ini ang hambal ni Yahweh Tsevaot: Padayon <pa> magasab-ang sang akon mga dakbanwa sang kaayuhan, kag kaliwatan sang Yahweh ⟨את⟩ Tsiyon, kag pili-on <pa> niya ang Yerushalayim.",
   "tokens": [
     {
       "surface": "עוד",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "קרא",
-      "gloss": "magtawag"
+      "gloss": "nagtawag"
     },
     {
       "surface": "לאמר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "כה",
-      "gloss": "amo ini"
+      "gloss": "Amo ini"
     },
     {
       "surface": "אמר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "צבאות",
@@ -37,27 +37,27 @@
     },
     {
       "surface": "עוד",
-      "gloss": "pa"
+      "gloss": "padayon <pa>"
     },
     {
       "surface": "תפוצינה",
-      "gloss": "magaponapona"
+      "gloss": "magasab-ang"
     },
     {
       "surface": "ערי",
-      "gloss": "ang akon mga duta"
+      "gloss": "mga dakbanwa"
     },
     {
       "surface": "מטוב",
-      "gloss": "sang pagkaayo"
+      "gloss": "sang kaayuhan"
     },
     {
       "surface": "ונחם",
-      "gloss": "kag magalipay"
+      "gloss": "kag kaliwatan"
     },
     {
       "surface": "יהוה",
-      "gloss": "si Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "עוד",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "ובחר",
-      "gloss": "kag magapili"
+      "gloss": "kag pili-on"
     },
     {
       "surface": "עוד",
@@ -82,9 +82,9 @@
     },
     {
       "surface": "בירושלם",
-      "gloss": "sang Yerushalayim"
+      "gloss": "ang Yerushalayim"
     }
   ],
-  "timestamp": "2026-09-21T20:17:47.252207990Z",
+  "timestamp": "2026-09-25T09:51:13.572203795Z",
   "model": "glm-5.3"
 }

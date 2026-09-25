@@ -5,23 +5,23 @@
   "book": "exodus",
   "lang": "hil",
   "chapter": 13,
-  "translation": "Kag mabantad kon magdala si Yahweh sa imo sa duta sang Kenaanan kag sang Hithanon kag sang Emoranon kag sang Hiwanon kag sang Yebusanon, nga iya ginsumpa sa imo mga kakanun sa ihatag sa imo sang duta nga nagatabog sang gatas kag dugos, kag magaalagad ka sang ⟨alagad nga ini⟩ sa bulan nga ini.",
+  "translation": "Kag matabo nga kon dala-on ka ni Yahweh sa duta sang Kenanyanhon, kag sang Hityanhon, kag sang Emorinhon, kag sang Hivyonhon, kag sang Yebusinhon, nga iya ginsimpan sa imo mga katigulangan sa iyo sang duta nga nagaga sang gatas kag dugos, magaalagalok ikaw sang ⟨את⟩ ang pag-alagad nga ini sa bulan nga ini.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "kag mabantad"
+      "gloss": "kag matabo"
     },
     {
       "surface": "כי",
-      "gloss": "kon"
+      "gloss": "nga kon"
     },
     {
       "surface": "יביאך",
-      "gloss": "magdala sa imo"
+      "gloss": "dala-on ka"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "אל",
@@ -33,23 +33,23 @@
     },
     {
       "surface": "הכנעני",
-      "gloss": "sang Kenaanan"
+      "gloss": "sang Kenanyanhon"
     },
     {
       "surface": "והחתי",
-      "gloss": "kag sang Hithanon"
+      "gloss": "kag sang Hityanhon"
     },
     {
       "surface": "והאמרי",
-      "gloss": "kag sang Emoranon"
+      "gloss": "kag sang Emorinhon"
     },
     {
       "surface": "והחוי",
-      "gloss": "kag sang Hiwanon"
+      "gloss": "kag sang Hivyonhon"
     },
     {
       "surface": "והיבוסי",
-      "gloss": "kag sang Yebusanon"
+      "gloss": "kag sang Yebusinhon"
     },
     {
       "surface": "אשר",
@@ -57,19 +57,19 @@
     },
     {
       "surface": "נשבע",
-      "gloss": "ginsumpa"
+      "gloss": "iya ginsimpan"
     },
     {
       "surface": "לאבתיך",
-      "gloss": "sa imo mga kakanun"
+      "gloss": "sa imo mga katigulangan"
     },
     {
       "surface": "לתת",
-      "gloss": "sa ihatag"
+      "gloss": "sa iyo"
     },
     {
       "surface": "לך",
-      "gloss": "sa imo"
+      "gloss": "imo"
     },
     {
       "surface": "ארץ",
@@ -77,11 +77,11 @@
     },
     {
       "surface": "זבת",
-      "gloss": "nga nagatabog"
+      "gloss": "nga nagaga"
     },
     {
       "surface": "חלב",
-      "gloss": "gatas"
+      "gloss": "sang gatas"
     },
     {
       "surface": "ודבש",
@@ -89,16 +89,16 @@
     },
     {
       "surface": "ועבדת",
-      "gloss": "kag magaalagad ka"
+      "gloss": "magaalagalok ikaw"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "alagad"
+      "marks": "ang pag-alagad"
     },
     {
       "surface": "העבדה",
-      "gloss": "alagad"
+      "gloss": "ang pag-alagad"
     },
     {
       "surface": "הזאת",
@@ -113,6 +113,6 @@
       "gloss": "nga ini"
     }
   ],
-  "timestamp": "2026-09-21T16:25:13.490154961Z",
+  "timestamp": "2026-09-25T09:04:50.435900529Z",
   "model": "glm-5.3"
 }

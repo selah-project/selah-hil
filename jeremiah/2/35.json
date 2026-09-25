@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "hil",
   "chapter": 2,
-  "translation": "Kag nagsiling ka, 'Inosente ako; sigurado nga nagbalik ang iya kaakig halin sa akon.' Tan-awa, ako magahokom sa imo tungod sa imo paghambal, 'Wala ako nagpakasala.'",
+  "translation": "Kag nagsiling ka nga malinis ako, sigurado nga ang iya kaakig magabalik gikan sa akon; yari ako, magahukuman ako ⟨את⟩ ⟨sa imo⟩ bangod sa imo paghambal, 'Wala ako nagpakasala.'",
   "tokens": [
     {
       "surface": "ותאמרי",
-      "gloss": "Kag nagsiling ka"
+      "gloss": "kag nagsiling ka"
     },
     {
       "surface": "כי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נקיתי",
-      "gloss": "Inosente ako"
+      "gloss": "malinis ako"
     },
     {
       "surface": "אך",
@@ -25,45 +25,46 @@
     },
     {
       "surface": "שב",
-      "gloss": "nagbalik"
+      "gloss": "magabalik"
     },
     {
       "surface": "אפו",
-      "gloss": "iya kaakig"
+      "gloss": "ang iya kaakig"
     },
     {
       "surface": "ממני",
-      "gloss": "halin sa akon"
+      "gloss": "gikan sa akon"
     },
     {
       "surface": "הנני",
-      "gloss": "Tan-awa ako"
+      "gloss": "yari ako"
     },
     {
       "surface": "נשפט",
-      "gloss": "magahokom"
+      "gloss": "magahukuman ako"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ sa imo"
+      "gloss": "⟨את⟩",
+      "marks": "ikaw"
     },
     {
       "surface": "על",
-      "gloss": "tungod sa"
+      "gloss": "bangod"
     },
     {
       "surface": "אמרך",
-      "gloss": "imo paghambal"
+      "gloss": "sa imo paghambal"
     },
     {
       "surface": "לא",
-      "gloss": "Wala"
+      "gloss": "wala"
     },
     {
       "surface": "חטאתי",
-      "gloss": "nagpakasala ako"
+      "gloss": "ako nagpakasala"
     }
   ],
-  "timestamp": "2026-09-21T19:15:00.106894727Z",
+  "timestamp": "2026-09-25T09:23:31.691919150Z",
   "model": "glm-5.3"
 }

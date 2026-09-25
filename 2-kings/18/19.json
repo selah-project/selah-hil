@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "hil",
   "chapter": 18,
-  "translation": "Kag ginhambal ni Ravshakeh sa ila: Hambala ninyo ⟨karon⟩ kay Hizkiyahu: Amo ini ang hambal sang daku nga hari, ang hari sang Ashur: Ano ini nga pagtuo nga imo ginsaligan?",
+  "translation": "Kag naghambal si Rabshakeh sa ila: Hambala ninyo ⟨⟨⟩⟩ sa Khizkiyahu: Amo ini ang hambal sang bantug nga hari, sang hari sang Ashur: Ano ini nga pagsalig nga imo ginasaligan?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Kag ginhambal"
+      "gloss": "Kag naghambal"
     },
     {
       "surface": "אלהם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "רב",
-      "gloss": "Rav"
+      "gloss": "Rab"
     },
     {
       "surface": "שקה",
-      "gloss": "Shakeh"
+      "gloss": "shakeh"
     },
     {
       "surface": "אמרו",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "נא",
-      "gloss": "karon"
+      "gloss": "⟨palihog⟩"
     },
     {
       "surface": "אל",
-      "gloss": "kay"
+      "gloss": "sa"
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Hizkiyahu"
+      "gloss": "Khizkiyahu"
     },
     {
       "surface": "כה",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "המלך",
-      "gloss": "sang hari"
+      "gloss": "sang bantug nga hari"
     },
     {
       "surface": "הגדול",
-      "gloss": "nga daku"
+      "gloss": "bantug"
     },
     {
       "surface": "מלך",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "הבטחון",
-      "gloss": "nga pagtuo"
+      "gloss": "nga pagsalig"
     },
     {
       "surface": "הזה",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "בטחת",
-      "gloss": "imo ginsaligan"
+      "gloss": "imo ginasaligan"
     }
   ],
-  "timestamp": "2026-09-21T22:30:27.526992011Z",
+  "timestamp": "2026-09-25T08:49:04.051342505Z",
   "model": "glm-5.3"
 }

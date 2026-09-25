@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "hil",
   "chapter": 2,
-  "translation": "Ngaa ginpahamut-an mo ang imo dalan sa pagpangita sang gugma? Gani, gintudlo mo man ⟨את⟩ sang mga daotan ang imo mga dalan.",
+  "translation": "Ngaa ginpaanyag mo ang imo dalan sa pagpangita sang gugma? Gani, ginsiksian ko gani ⟨את⟩ ang mga malain ⟨את⟩ ang imo mga dalan.",
   "tokens": [
     {
       "surface": "מה",
-      "gloss": "Ngaa"
+      "gloss": "ngaa"
     },
     {
       "surface": "תיטבי",
-      "gloss": "ginpahamut-an mo"
+      "gloss": "ginpaanyag"
     },
     {
       "surface": "דרכך",
@@ -25,28 +25,28 @@
     },
     {
       "surface": "אהבה",
-      "gloss": "gugma"
+      "gloss": "sang gugma"
     },
     {
       "surface": "לכן",
-      "gloss": "Gani"
+      "gloss": "gani"
     },
     {
       "surface": "גם",
-      "gloss": "man"
+      "gloss": "gani"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sang mga daotan"
+      "marks": "ang mga malain"
     },
     {
       "surface": "הרעות",
-      "gloss": "mga daotan"
+      "gloss": "ang mga malain"
     },
     {
       "surface": "למדתי",
-      "gloss": "gintudlo mo"
+      "gloss": "ginsiksian ko"
     },
     {
       "surface": "את",
@@ -58,6 +58,6 @@
       "gloss": "imo mga dalan"
     }
   ],
-  "timestamp": "2026-09-21T19:15:00.106249411Z",
+  "timestamp": "2026-09-25T09:23:40.587815871Z",
   "model": "glm-5.3"
 }

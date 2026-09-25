@@ -5,11 +5,11 @@
   "book": "amos",
   "lang": "hil",
   "chapter": 3,
-  "translation": "Kamo lamang ang akong nakilala sa tanan nga mga pamilya sang duta; gani pangitaon ko sa inyo ang tanan ninyo mga sala.",
+  "translation": "Bugtong kamo ang nakilalan ko sa tanan nga mga banay sang duta; gani pagadul-ongan ko kamo ⟨את⟩ sang tanan ninyo mga sala.",
   "tokens": [
     {
       "surface": "רק",
-      "gloss": "lamang"
+      "gloss": "bugtong"
     },
     {
       "surface": "אתכם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ידעתי",
-      "gloss": "ang akong nakilala"
+      "gloss": "nakilalan ko"
     },
     {
       "surface": "מכל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "משפחות",
-      "gloss": "mga pamilya"
+      "gloss": "mga banay"
     },
     {
       "surface": "האדמה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "על",
-      "gloss": "gani"
+      "gloss": "—"
     },
     {
       "surface": "כן",
@@ -41,26 +41,26 @@
     },
     {
       "surface": "אפקד",
-      "gloss": "pangitaon ko"
+      "gloss": "pagadul-ongan ko"
     },
     {
       "surface": "עליכם",
-      "gloss": "sa inyo"
+      "gloss": "kamo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang tanan ninyo mga sala"
+      "marks": "sang tanan ninyo mga sala"
     },
     {
       "surface": "כל",
-      "gloss": "ang tanan"
+      "gloss": "tanan"
     },
     {
       "surface": "עונתיכם",
       "gloss": "ninyo mga sala"
     }
   ],
-  "timestamp": "2026-09-21T20:09:08.703566768Z",
+  "timestamp": "2026-09-25T08:55:23.090129942Z",
   "model": "glm-5.3"
 }

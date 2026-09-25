@@ -5,28 +5,28 @@
   "book": "2-kings",
   "lang": "hil",
   "chapter": 13,
-  "translation": "Kag nanghupang si Yahweh ⟨את⟩ sa ila kag nagkaluoy sia sa ila, kag nagliso sia sa ila, tungod sang iya kasugtanan nga kay Avraham, kay Yitskhak, kag kay Yaakov; kag indi sia nagpat-ubra nga laglagon sila, kag wala niya sila itapyok halin sa iya atubangan hasta subong.",
+  "translation": "Kag ginmalangkapan ni Yahweh ⟨את⟩ sila kag ginkaluyahan sila kag nagbalik-id siya sa ila tungod sang iya kasugtanan ⟨את⟩ kay Avraham, kay Yitskhak, kag kay Yaakov; kag wala niya luyagon nga laglagon sila, kag wala niya sila pagbutang sa wala sang iya atubangan tubtub subong.",
   "tokens": [
     {
       "surface": "ויחן",
-      "gloss": "nanghupang"
+      "gloss": "ginmalangkapan"
     },
     {
       "surface": "יהוה",
-      "gloss": "si Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "sa ila"
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang tumungod sang kaluoy)"
     },
     {
       "surface": "וירחמם",
-      "gloss": "nagkaluoy sa ila"
+      "gloss": "ginkaluyahan"
     },
     {
       "surface": "ויפן",
-      "gloss": "nagliso"
+      "gloss": "nagbalik-id"
     },
     {
       "surface": "אליהם",
@@ -55,19 +55,19 @@
     },
     {
       "surface": "ויעקב",
-      "gloss": "kag si Yaakov"
+      "gloss": "kag kay Yaakov"
     },
     {
       "surface": "ולא",
-      "gloss": "kag indi"
+      "gloss": "kag wala"
     },
     {
       "surface": "אבה",
-      "gloss": "nagpat-ubra"
+      "gloss": "luyagon"
     },
     {
       "surface": "השחיתם",
-      "gloss": "nga laglagon sila"
+      "gloss": "laglagon sila"
     },
     {
       "surface": "ולא",
@@ -75,11 +75,11 @@
     },
     {
       "surface": "השליכם",
-      "gloss": "sila itapyok"
+      "gloss": "pagbutang sa wala sila"
     },
     {
       "surface": "מעל",
-      "gloss": "halin sa"
+      "gloss": "sa wala"
     },
     {
       "surface": "פניו",
@@ -87,13 +87,13 @@
     },
     {
       "surface": "עד",
-      "gloss": "hasta"
+      "gloss": "tubtub"
     },
     {
       "surface": "עתה",
       "gloss": "subong"
     }
   ],
-  "timestamp": "2026-09-21T18:45:09.196493276Z",
+  "timestamp": "2026-09-25T08:48:43.052823500Z",
   "model": "glm-5.3"
 }

@@ -5,16 +5,16 @@
   "book": "psalms",
   "lang": "hil",
   "chapter": 34,
-  "translation": "Magkabudlay kamo kay ⟨את⟩ Yahweh, <ang iya mga balaan>, kay wala sing kulang sa mga nagakabudlay sa iya.",
+  "translation": "Kalagdba kamo ⟨את⟩ Yahweh, mga balaan niya, kay wala sing kakulangan sa mga nagakalagdba sa iya.",
   "tokens": [
     {
       "surface": "יראו",
-      "gloss": "Magkabudlay kamo kay"
+      "gloss": "Kalagdba kamo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "si Yahweh"
+      "marks": "Yahweh"
     },
     {
       "surface": "יהוה",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "קדשיו",
-      "gloss": "ang iya mga balaan"
+      "gloss": "mga balaan niya"
     },
     {
       "surface": "כי",
@@ -30,17 +30,17 @@
     },
     {
       "surface": "אין",
-      "gloss": "wala sing"
+      "gloss": "wala"
     },
     {
       "surface": "מחסור",
-      "gloss": "kulang"
+      "gloss": "sing kakulangan"
     },
     {
       "surface": "ליראיו",
-      "gloss": "sa mga nagakabudlay sa iya"
+      "gloss": "sa mga nagakalagdba sa iya"
     }
   ],
-  "timestamp": "2026-09-21T20:29:02.998651886Z",
+  "timestamp": "2026-09-25T09:49:56.168645836Z",
   "model": "glm-5.3"
 }

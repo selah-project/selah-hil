@@ -5,28 +5,27 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 34,
-  "translation": "Kag naghambal si Khamor ⟨Аת⟩ ila nga nagasiling: Si Shekhem akon anak, ang iya kalag nagkaduhoy sa inyo anak nga babae; ihalad ⟨g⟩ kamo ⟨את⟩ siya sa iya nga asawa.",
+  "translation": "Kag ginhambal ni Khamor ⟨את⟩ sa ila nga nagsiling: Shekem, akon anak — nagpatikang ang iya kalag sa inyo anak nga babae; hatagi kamo, ginapakiloob, ⟨את⟩ siya sa iya nga asawa.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "Kag naghambal"
+      "gloss": "Kag ginhambal"
     },
     {
       "surface": "חמור",
-      "gloss": "si Khamor"
+      "gloss": "ni Khamor"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ila",
-      "marks": "ila (prepositional את, 'with them')"
+      "gloss": "⟨את⟩ sa ila"
     },
     {
       "surface": "לאמר",
-      "gloss": "nga nagasiling"
+      "gloss": "nga nagsiling"
     },
     {
       "surface": "שכם",
-      "gloss": "Si Shekhem"
+      "gloss": "Shekem"
     },
     {
       "surface": "בני",
@@ -34,7 +33,7 @@
     },
     {
       "surface": "חשקה",
-      "gloss": "nagkaduhoy"
+      "gloss": "nagpatikang"
     },
     {
       "surface": "נפשו",
@@ -46,11 +45,11 @@
     },
     {
       "surface": "תנו",
-      "gloss": "ihalad"
+      "gloss": "hatagi kamo"
     },
     {
       "surface": "נא",
-      "gloss": "⟨g⟩ kamo"
+      "gloss": "ginapakiloob"
     },
     {
       "surface": "אתה",
@@ -66,6 +65,6 @@
       "gloss": "nga asawa"
     }
   ],
-  "timestamp": "2026-09-21T16:11:12.276220171Z",
+  "timestamp": "2026-09-25T09:17:38.506149082Z",
   "model": "glm-5.3"
 }

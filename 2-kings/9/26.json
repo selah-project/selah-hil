@@ -5,24 +5,24 @@
   "book": "2-kings",
   "lang": "hil",
   "chapter": 9,
-  "translation": "Kon indi ang dugo ni Navot kag ang dugo sang iya mga anak nga nakita ko kagahapon-sa-gab-i, nagaingon si Yahweh, gibayad ko sa imo sa parte nga ini, nagaingon si Yahweh. Kag subong, buhata, ibutang siya sa parte, suno sa pulong ni Yahweh.'",
+  "translation": "Wala bala ⟨את⟩ ang dugo ni Navot kag ⟨את⟩ ang dugo sang iya mga anak nga akon nakita kagab-i — amo ang siling ni Yahweh — kag pagabayaran tika sa sini nga parte sang uma, amo ang siling ni Yahweh? Kag subong, daku-a kag itapok siya sa parte, suno sa pulong ni Yahweh.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "kon"
+      "gloss": "bala"
     },
     {
       "surface": "לא",
-      "gloss": "indi"
+      "gloss": "wala"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dugo"
+      "marks": "ang dugo ni Navot"
     },
     {
       "surface": "דמי",
-      "gloss": "dugo"
+      "gloss": "ang dugo"
     },
     {
       "surface": "נבות",
@@ -31,39 +31,39 @@
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "dugo"
+      "marks": "ang dugo sang iya mga anak"
     },
     {
       "surface": "דמי",
-      "gloss": "dugo"
+      "gloss": "ang dugo"
     },
     {
       "surface": "בניו",
-      "gloss": "sang iya mga anak"
+      "gloss": "iya mga anak"
     },
     {
       "surface": "ראיתי",
-      "gloss": "nakita ko"
+      "gloss": "akon nakita"
     },
     {
       "surface": "אמש",
-      "gloss": "kagahapon-sa-gab-i"
+      "gloss": "kagab-i"
     },
     {
       "surface": "נאם",
-      "gloss": "nagaingon"
+      "gloss": "amo ang siling"
     },
     {
       "surface": "יהוה",
-      "gloss": "si Yahweh"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "ושלמתי",
-      "gloss": "gibayad ko"
+      "gloss": "kag pagabayaran ko"
     },
     {
       "surface": "לך",
-      "gloss": "sa imo"
+      "gloss": "tika"
     },
     {
       "surface": "בחלקה",
@@ -71,15 +71,15 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "nga ini"
+      "gloss": "sini nga"
     },
     {
       "surface": "נאם",
-      "gloss": "nagaingon"
+      "gloss": "amo ang siling"
     },
     {
       "surface": "יהוה",
-      "gloss": "si Yahweh"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "ועתה",
@@ -87,11 +87,11 @@
     },
     {
       "surface": "שא",
-      "gloss": "buhata"
+      "gloss": "daku-a"
     },
     {
       "surface": "השלכהו",
-      "gloss": "ibutang siya"
+      "gloss": "itapok siya"
     },
     {
       "surface": "בחלקה",
@@ -106,6 +106,6 @@
       "gloss": "ni Yahweh"
     }
   ],
-  "timestamp": "2026-09-21T18:43:31.521816056Z",
+  "timestamp": "2026-09-25T08:50:15.099798199Z",
   "model": "glm-5.3"
 }

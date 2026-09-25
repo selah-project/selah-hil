@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "hil",
   "chapter": 25,
-  "translation": "Kag nabatid ni Dawid nga namatay si Nabal, kag nagsiling siya: Madayaw si Yahweh nga nagtungod sang akon pagpakaulawhi gikan sa kamot ni Nabal, kag gintipigan niya ang iya sulugoon sa kagubatan; kag ang kagubatan ni Nabal ginpabalik ni Yahweh sa iya kaugalingon nga ulo. Kag nagsanda si Dawid kag nakighambal kay Avigayil sa pagkuha sa iya nga asawa niya.",
+  "translation": "Kag nabatid ni David nga napatay si Naval, kag nagsiling ⟨siya⟩: Dayawon si Yahweh, nga nagtungtong sang ⟨את⟩ sangako nga kasilag gikan sa kamot sang Naval, kag ⟨את⟩ ang iya sulogoon ginpig-an sa kalaot; kag ⟨את⟩ ang kalaot sang Naval ginpabalik ni Yahweh sa iya ulo. Kag ginpakataw si David kag naghambal kay Abigayil sa pagkuha sa iya bilang iya asawa.",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "kag nabatid"
+      "gloss": "Kag nabatid"
     },
     {
       "surface": "דוד",
-      "gloss": "ni Dawid"
+      "gloss": "ni David"
     },
     {
       "surface": "כי",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "מת",
-      "gloss": "namatay"
+      "gloss": "napatay"
     },
     {
       "surface": "נבל",
-      "gloss": "si Nabal"
+      "gloss": "si Naval"
     },
     {
       "surface": "ויאמר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ברוך",
-      "gloss": "Madayaw"
+      "gloss": "Dayawon"
     },
     {
       "surface": "יהוה",
@@ -45,20 +45,20 @@
     },
     {
       "surface": "רב",
-      "gloss": "nagtungod"
+      "gloss": "nagtungtong"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang akon pagpakaulawhi"
+      "marks": "sangako nga kasilag"
     },
     {
       "surface": "ריב",
-      "gloss": "ang kaso"
+      "gloss": "sang"
     },
     {
       "surface": "חרפתי",
-      "gloss": "sang akon pagpakaulawhi"
+      "gloss": "sangako nga kasilag"
     },
     {
       "surface": "מיד",
@@ -66,37 +66,37 @@
     },
     {
       "surface": "נבל",
-      "gloss": "ni Nabal"
+      "gloss": "sang Naval"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang iya sulugoon"
+      "marks": "ang iya sulogoon"
     },
     {
       "surface": "עבדו",
-      "gloss": "ang iya sulugoon"
+      "gloss": "ang iya sulogoon"
     },
     {
       "surface": "חשך",
-      "gloss": "gintipikan"
+      "gloss": "ginpig-an"
     },
     {
       "surface": "מרעה",
-      "gloss": "sa kagubatan"
+      "gloss": "sa kalaot"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang kagubatan ni Nabal"
+      "marks": "ang kalaot"
     },
     {
       "surface": "רעת",
-      "gloss": "ang kagubatan"
+      "gloss": "ang kalaot"
     },
     {
       "surface": "נבל",
-      "gloss": "ni Nabal"
+      "gloss": "sang Naval"
     },
     {
       "surface": "השיב",
@@ -112,19 +112,19 @@
     },
     {
       "surface": "וישלח",
-      "gloss": "kag nagsanda"
+      "gloss": "Kag ginpakataw"
     },
     {
       "surface": "דוד",
-      "gloss": "si Dawid"
+      "gloss": "si David"
     },
     {
       "surface": "וידבר",
-      "gloss": "kag nakighambal"
+      "gloss": "kag naghambal"
     },
     {
       "surface": "באביגיל",
-      "gloss": "kay Avigayil"
+      "gloss": "kay Abigayil"
     },
     {
       "surface": "לקחתה",
@@ -132,13 +132,13 @@
     },
     {
       "surface": "לו",
-      "gloss": "niya"
+      "gloss": "bilang iya"
     },
     {
       "surface": "לאשה",
       "gloss": "nga asawa"
     }
   ],
-  "timestamp": "2026-09-21T18:10:18.678918528Z",
+  "timestamp": "2026-09-25T08:44:11.431949689Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "esther",
   "lang": "hil",
   "chapter": 5,
-  "translation": "Kag nagsiling si Haman: Bisan ang reyna nga si Ester wala nagpaabot sang ⟨bisan isa ka tawo⟩ kaupod sang hari sa salu-salo nga iya ginhimo kundi ako lamang, kag sa ugma ako ginatawag sa iya kaupod sang hari.",
+  "translation": "Kag naghambal si Haman: Bisan gani, wala sing iban nga gindala ni Ester ang reyna kaupod sang hari sa salu-salo nga iya ginhimo, kundi ⟨את⟩⟨akon⟩ lamang; kag sa mosun nga adlaw ako man gin-apod sa iya kaupod sang hari.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "kag nagsiling"
+      "gloss": "Kag naghambal"
     },
     {
       "surface": "המן",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אף",
-      "gloss": "Bisan"
+      "gloss": "Bisan gani"
     },
     {
       "surface": "לא",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הביאה",
-      "gloss": "nagpaabot"
+      "gloss": "gindala"
     },
     {
       "surface": "אסתר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "המלכה",
-      "gloss": "reyna"
+      "gloss": "ang reyna"
     },
     {
       "surface": "עם",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "המשתה",
-      "gloss": "salu-salo"
+      "gloss": "ang salu-salo"
     },
     {
       "surface": "אשר",
@@ -69,15 +69,16 @@
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ ako"
+      "gloss": "⟨את⟩ akon",
+      "marks": "akon (si Haman mismo)"
     },
     {
       "surface": "וגם",
-      "gloss": "kag"
+      "gloss": "kag man"
     },
     {
       "surface": "למחר",
-      "gloss": "sa ugma"
+      "gloss": "sa mosun nga adlaw"
     },
     {
       "surface": "אני",
@@ -85,7 +86,7 @@
     },
     {
       "surface": "קרוא",
-      "gloss": "ginatawag"
+      "gloss": "gin-apod"
     },
     {
       "surface": "לה",
@@ -100,6 +101,6 @@
       "gloss": "sang hari"
     }
   ],
-  "timestamp": "2026-09-21T21:29:52.270406205Z",
+  "timestamp": "2026-09-25T09:02:56.546452561Z",
   "model": "glm-5.3"
 }

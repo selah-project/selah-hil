@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "hil",
   "chapter": 25,
-  "translation": "Kag himomon mo para sa iya sang apat ka singsing sang bulawan, kag ibutang mo ⟨את⟩ ang mga singsing sa apat ka pakis sang ⟨mga〉 angko nga yara sa apat ka tiil sini.",
+  "translation": "Kag himomon mo para sa sini apat ka singsing nga bulawan, kag ibutang mo ang ⟨את⟩ mga singsing sa apat ka kanto nga ⟨mga⟩ yara sa apat ka tiil sini.",
   "tokens": [
     {
       "surface": "ועשית",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "לו",
-      "gloss": "para sa iya"
+      "gloss": "para sa sini"
     },
     {
       "surface": "ארבע",
-      "gloss": "apat"
+      "gloss": "apat ka"
     },
     {
       "surface": "טבעת",
-      "gloss": "ka singsing"
+      "gloss": "singsing"
     },
     {
       "surface": "זהב",
-      "gloss": "sang bulawan"
+      "gloss": "nga bulawan"
     },
     {
       "surface": "ונתת",
@@ -34,11 +34,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang mga singsing"
+      "marks": "mga singsing"
     },
     {
       "surface": "הטבעת",
-      "gloss": "ang mga singsing"
+      "gloss": "mga singsing"
     },
     {
       "surface": "על",
@@ -46,25 +46,25 @@
     },
     {
       "surface": "ארבע",
-      "gloss": "apat"
+      "gloss": "apat ka"
     },
     {
       "surface": "הפאת",
-      "gloss": "ka pakis"
+      "gloss": "kanto"
     },
     {
       "surface": "אשר",
-      "gloss": "nga"
+      "gloss": "nga ⟨mga⟩ yara"
     },
     {
       "surface": "לארבע",
-      "gloss": "sa apat"
+      "gloss": "sa apat ka"
     },
     {
       "surface": "רגליו",
-      "gloss": "ka tiil sini"
+      "gloss": "tiil sini"
     }
   ],
-  "timestamp": "2026-09-21T16:31:44.256034679Z",
+  "timestamp": "2026-09-25T09:05:26.790274921Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 4,
-  "translation": "Kag subong, lanta ikaw gikan sa ⟨ang⟩ duta, nga nag-abli sang iya baba sa pagbaton ⟨את⟩ sang dugo sang imo utod sa imo kamot.",
+  "translation": "Kag subong, malaut ikaw gikan sa duta, nga nagabadbad sang iya baba sa pagkuha sang ⟨את⟩ sang dugo sang imo utod gikan sa imo kamot.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "Kag subong"
+      "gloss": "kag subong"
     },
     {
       "surface": "ארור",
-      "gloss": "lanta"
+      "gloss": "malaut"
     },
     {
       "surface": "אתה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "האדמה",
-      "gloss": "duta"
+      "gloss": "ang duta"
     },
     {
       "surface": "אשר",
@@ -33,29 +33,29 @@
     },
     {
       "surface": "פצתה",
-      "gloss": "nag-abli"
+      "gloss": "nagabadbad"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iya baba"
+      "marks": "sang iya baba"
     },
     {
       "surface": "פיה",
-      "gloss": "sang iya baba"
+      "gloss": "iya baba"
     },
     {
       "surface": "לקחת",
-      "gloss": "sa pagbaton"
+      "gloss": "sa pagkuha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dugo"
+      "marks": "sang dugo sang imo utod"
     },
     {
       "surface": "דמי",
-      "gloss": "dugo"
+      "gloss": "dugo (mga)"
     },
     {
       "surface": "אחיך",
@@ -63,9 +63,9 @@
     },
     {
       "surface": "מידך",
-      "gloss": "sa imo kamot"
+      "gloss": "gikan sa imo kamot"
     }
   ],
-  "timestamp": "2026-09-21T22:16:35.769094778Z",
+  "timestamp": "2026-09-25T09:17:57.958708607Z",
   "model": "glm-5.3"
 }

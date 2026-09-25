@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 17,
-  "translation": "Kag magapabilin ina upod sa iya, kag magabasa siya sini sa tanan niya nga mga adlaw sang iya kabuhi, agod magtuon siya sa pagkahadlok kay Yahweh nga iya Elohim, sa pagbantay sang ⟨את⟩ tanan nga mga pulong sang sini nga Torah kag sang ⟨את⟩ ini nga mga balaod, sa pagbuhat sini.",
+  "translation": "Kag magauntat ini nga kaupod niya, kag magabasa siya sa sini sa tanan nga mga adlaw sang iya kabuhi, agod matun-an niya magkabalakla sa pagkakahadlok kay Yahweh nga iya Elohim, sa pagtipig sang tanan nga mga pulong sangsang Torah ini kag ⟨sang⟩ mga hustisya ini, sa pagbuhat sini.",
   "tokens": [
     {
       "surface": "והיתה",
-      "gloss": "Kag magapabilin"
+      "gloss": "kag magauntat"
     },
     {
       "surface": "עמו",
-      "gloss": "upod sa iya"
+      "gloss": "nga kaupod niya"
     },
     {
       "surface": "וקרא",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "בו",
-      "gloss": "sini"
+      "gloss": "sa sini"
     },
     {
       "surface": "כל",
-      "gloss": "tanan"
+      "gloss": "sa tanan"
     },
     {
       "surface": "ימי",
@@ -41,16 +41,16 @@
     },
     {
       "surface": "ילמד",
-      "gloss": "magtuon siya"
+      "gloss": "matun-an niya"
     },
     {
       "surface": "ליראה",
-      "gloss": "sa pagkahadlok"
+      "gloss": "sa pagkakahadlok"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahweh"
+      "marks": "kay Yahweh"
     },
     {
       "surface": "יהוה",
@@ -62,16 +62,16 @@
     },
     {
       "surface": "לשמר",
-      "gloss": "sa pagbantay"
+      "gloss": "sa pagtipig"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tanan nga mga pulong"
+      "marks": "sang tanan nga mga pulong"
     },
     {
       "surface": "כל",
-      "gloss": "tanan"
+      "gloss": "sang tanan"
     },
     {
       "surface": "דברי",
@@ -83,25 +83,26 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "sini nga"
+      "gloss": "ini"
     },
     {
       "surface": "ואת",
-      "gloss": "kag sang ⟨את⟩"
+      "gloss": "kag ⟨את⟩",
+      "marks": "sang mga hustisya ini"
     },
     {
       "surface": "החקים",
-      "gloss": "mga balaod"
+      "gloss": "sang mga hustisya"
     },
     {
       "surface": "האלה",
-      "gloss": "ini nga"
+      "gloss": "ini"
     },
     {
       "surface": "לעשתם",
       "gloss": "sa pagbuhat sini"
     }
   ],
-  "timestamp": "2026-09-21T17:27:01.233344295Z",
+  "timestamp": "2026-09-25T08:58:15.822851191Z",
   "model": "glm-5.3"
 }

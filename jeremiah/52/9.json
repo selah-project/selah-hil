@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "hil",
   "chapter": 52,
-  "translation": "Kag gindakop nila ⟨את⟩ ang hari, kag gindala nila siya ⟨אתו⟩ sa hari sang Bavel, sa Rivlah sa duta sang Chamath, kag naghambal siya ⟨⟨את⟩ sa iya⟩ sang mga hukom.",
+  "translation": "Kag gindakop nila ⟨את⟩ ang hari, kag gindala nila sa itaas si ⟨את⟩ iya sa hari sang Bavel, sa Rivlah, sa duta sang Hamat; kag naghambal sia ⟨את⟩ sa iya sang mga paghukom.",
   "tokens": [
     {
       "surface": "ויתפשו",
-      "gloss": "gindakop nila"
+      "gloss": "kag gindakop nila"
     },
     {
       "surface": "את",
@@ -22,12 +22,12 @@
     },
     {
       "surface": "ויעלו",
-      "gloss": "gindala nila siya pa-ibabaw"
+      "gloss": "kag gindala nila sa itaas"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩ siya",
-      "marks": "siya (ang hari)"
+      "gloss": "⟨את⟩ siya",
+      "marks": "sa hari sang Bavel"
     },
     {
       "surface": "אל",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "רבלתה",
-      "gloss": "Rivlah"
+      "gloss": "sa Rivlah"
     },
     {
       "surface": "בארץ",
@@ -51,11 +51,11 @@
     },
     {
       "surface": "חמת",
-      "gloss": "Chamath"
+      "gloss": "sang Hamat"
     },
     {
       "surface": "וידבר",
-      "gloss": "kag naghambal"
+      "gloss": "kag naghambal sia"
     },
     {
       "surface": "אתו",
@@ -63,9 +63,9 @@
     },
     {
       "surface": "משפטים",
-      "gloss": "mga hukom"
+      "gloss": "mga paghukom"
     }
   ],
-  "timestamp": "2026-09-21T19:39:31.682915714Z",
+  "timestamp": "2026-09-25T09:29:01.101897499Z",
   "model": "glm-5.3"
 }

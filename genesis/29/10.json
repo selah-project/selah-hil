@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 29,
-  "translation": "Kag natabo, sang nakita ni Yaakov ⟨את⟩ si Rakhel nga anak nga babae ni Lavan, utod sang iya iloy, kag ⟨את⟩ ang mga karnero ni Lavan nga utod sang iya iloy, ginalapitan ni Yaakov kag ginpaligid ang bato palayo sa baba sang atab, kag ginpainom ang mga karnero ni Lavan nga utod sang iya iloy.",
+  "translation": "Kag nahitabo, sang makita ni Yaakov si Rachel nga anak nga babae ni Lavan nga utod sang iya iloy, kag ⟨את⟩ nga mga karnero ni Lavan nga utod sang iya iloy, nagduol si Yaakov kag gintilawan ⟨את⟩ ang bato sa ibabaw sang baba sang bubon, kag ginpainum niya ⟨את⟩ ang mga karnero ni Lavan nga utod sang iya iloy.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "kag natabo"
+      "gloss": "nahitabo"
     },
     {
       "surface": "כאשר",
@@ -17,24 +17,24 @@
     },
     {
       "surface": "ראה",
-      "gloss": "nakita"
+      "gloss": "makita"
     },
     {
       "surface": "יעקב",
-      "gloss": "ni Yaakov"
+      "gloss": "si Yaakov"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "si Rakhel"
+      "marks": "si Rachel"
     },
     {
       "surface": "רחל",
-      "gloss": "si Rakhel"
+      "gloss": "si Rachel"
     },
     {
       "surface": "בת",
-      "gloss": "nga anak nga babae"
+      "gloss": "anak nga babae"
     },
     {
       "surface": "לבן",
@@ -51,7 +51,7 @@
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang mga karnero ni Lavan"
+      "marks": "ang mga karnero"
     },
     {
       "surface": "צאן",
@@ -71,15 +71,15 @@
     },
     {
       "surface": "ויגש",
-      "gloss": "ginalapitan"
+      "gloss": "nagduol"
     },
     {
       "surface": "יעקב",
-      "gloss": "ni Yaakov"
+      "gloss": "si Yaakov"
     },
     {
       "surface": "ויגל",
-      "gloss": "kag ginpaligid"
+      "gloss": "gintilawan"
     },
     {
       "surface": "את",
@@ -92,7 +92,7 @@
     },
     {
       "surface": "מעל",
-      "gloss": "palayo sa"
+      "gloss": "sa ibabaw"
     },
     {
       "surface": "פי",
@@ -100,16 +100,16 @@
     },
     {
       "surface": "הבאר",
-      "gloss": "sang atab"
+      "gloss": "sang bubon"
     },
     {
       "surface": "וישק",
-      "gloss": "kag ginpainom"
+      "gloss": "ginpainum"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang mga karnero ni Lavan"
+      "marks": "ang mga karnero"
     },
     {
       "surface": "צאן",
@@ -128,6 +128,6 @@
       "gloss": "sang iya iloy"
     }
   ],
-  "timestamp": "2026-09-21T16:06:59.845355293Z",
+  "timestamp": "2026-09-25T09:13:28.220868994Z",
   "model": "glm-5.3"
 }

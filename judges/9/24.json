@@ -5,23 +5,23 @@
   "book": "judges",
   "lang": "hil",
   "chapter": 9,
-  "translation": "Agod ang kahigkot mag-abot sa pito ka pulo ka mga anak ni Yerubbaal, kag ang ila dugo mabutang kay Avimelekh nga ila utod, nga napatay sila ⟨את⟩ ⟨אותם⟩, kag sa mga tag-iya sang Shekhem, nga nagpalig-on sang iya mga kamot sa pagpatay ⟨את⟩ sang iya mga utod.",
+  "translation": "sa pag-abot sang kagahum sa pito ka pulo ka anak nga lalaki ni Yerubbaal, kag ang ila dugo, sa pagbutang sini kay Avimelekh nga ila utod nga nagsangka sa ila ⟨את⟩ ⟨אותם⟩, kag sa mga ginoo sang Shekhem, nga nagpalig-on ⟨את⟩ sang iya mga kamot sa pagpatay ⟨את⟩ sa iya mga utod",
   "tokens": [
     {
       "surface": "לבוא",
-      "gloss": "agod mag-abot"
+      "gloss": "sa pag-abot"
     },
     {
       "surface": "חמס",
-      "gloss": "ang kahigkot"
+      "gloss": "kagahum"
     },
     {
       "surface": "שבעים",
-      "gloss": "sa pito ka pulo ka"
+      "gloss": "pito ka pulo"
     },
     {
       "surface": "בני",
-      "gloss": "mga anak"
+      "gloss": "mga anak nga lalaki"
     },
     {
       "surface": "ירבעל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "לשום",
-      "gloss": "mabutang"
+      "gloss": "sa pagbutang"
     },
     {
       "surface": "על",
@@ -53,12 +53,12 @@
     },
     {
       "surface": "הרג",
-      "gloss": "napatay"
+      "gloss": "nagsangka"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩ ⟨אותם⟩",
-      "marks": "sila"
+      "marks": "sa ila"
     },
     {
       "surface": "ועל",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "בעלי",
-      "gloss": "mga tag-iya"
+      "gloss": "mga ginoo"
     },
     {
       "surface": "שכם",
@@ -83,11 +83,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang iya mga kamot"
+      "marks": "sang iya mga kamot"
     },
     {
       "surface": "ידיו",
-      "gloss": "ang iya mga kamot"
+      "gloss": "sang iya mga kamot"
     },
     {
       "surface": "להרג",
@@ -96,13 +96,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sang iya mga utod"
+      "marks": "sa iya mga utod"
     },
     {
       "surface": "אחיו",
-      "gloss": "sang iya mga utod"
+      "gloss": "sa iya mga utod"
     }
   ],
-  "timestamp": "2026-09-21T17:49:00.425410661Z",
+  "timestamp": "2026-09-25T09:52:46.959874215Z",
   "model": "glm-5.3"
 }

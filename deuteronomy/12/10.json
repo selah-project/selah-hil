@@ -5,20 +5,20 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 12,
-  "translation": "Kag magatabok kamo ⟨את⟩ sa Yarden kag magapuyo kamo sa duta nga ginapamanahan sang Yahweh nga Elohim ninyo sa inyo, kag magapahulay Niya sa inyo sa tanan ninyo nga mga kaaway sa palibot, kag magapuyo kamo sa kaligtasan.",
+  "translation": "Kag magatabok kamo ⟨את⟩ sang Yarden kag magapuyo kamo sa duta nga ginapamanahan sang Yahweh nga inyo Elohim ⟨אתכם⟩, kag magapahuluyahon niya kamo sa tanan ninyo nga mga kaaway sa palibot, kag magapuyo kamo ⟨nga walay kabalaka⟩.",
   "tokens": [
     {
       "surface": "ועברתם",
-      "gloss": "Kag magatabok kamo"
+      "gloss": "kag magatabok kamo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sa Yarden"
+      "marks": "sang Yarden"
     },
     {
       "surface": "הירדן",
-      "gloss": "sa Yarden"
+      "gloss": "sang Yarden"
     },
     {
       "surface": "וישבתם",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "sang Yahweh"
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim ninyo"
+      "gloss": "nga inyo Elohim"
     },
     {
       "surface": "מנחיל",
@@ -46,15 +46,16 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ sa inyo"
+      "gloss": "⟨אתכם⟩",
+      "marks": "kamo"
     },
     {
       "surface": "והניח",
-      "gloss": "kag magapahulay"
+      "gloss": "kag magapahuluyahon"
     },
     {
       "surface": "לכם",
-      "gloss": "sa inyo"
+      "gloss": "kamo"
     },
     {
       "surface": "מכל",
@@ -62,7 +63,7 @@
     },
     {
       "surface": "איביכם",
-      "gloss": "mga kaaway ninyo"
+      "gloss": "ninyo nga mga kaaway"
     },
     {
       "surface": "מסביב",
@@ -74,9 +75,9 @@
     },
     {
       "surface": "בטח",
-      "gloss": "sa kaligtasan"
+      "gloss": "nga walay kabalaka"
     }
   ],
-  "timestamp": "2026-09-21T17:24:59.403773397Z",
+  "timestamp": "2026-09-25T08:58:55.577566735Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "1-kings",
   "lang": "hil",
   "chapter": 2,
-  "translation": "Agod matuman sang Yahweh ang iya pulong nga iya ginhambal parte sa akon, nga nagsiling: Kon magbantay ang imo mga anak sang ila dalan, sa paglakat sa atubangan ko sing kamatuoran, sang bug-os nila nga kasingkasing kag sang bug-os nila nga kalag — nga nagsiling: Indi maputol sa imo bisan isa ka tawo sa trono sang Yisrael.",
+  "translation": "Agod patindogon ni Yahweh ang ⟨את⟩ iya pulong nga iya ginhambal parte sa akon, nga nagasiling: Kon magbantay ang imo mga anak sa ⟨את⟩ ila nga dalan, sa paglakat sa atubangan ko sing kamatuoran, sa tanan nila nga kasingkasing kag sa tanan nila nga kalag, nga nagasiling: Indi gid maputol sa imo bisan isa ka tawo sa trono sang Yisrael.",
   "tokens": [
     {
       "surface": "למען",
-      "gloss": "Agod"
+      "gloss": "agod"
     },
     {
       "surface": "יקים",
-      "gloss": "matuman"
+      "gloss": "patindogon"
     },
     {
       "surface": "יהוה",
-      "gloss": "sang Yahweh"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "את",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "דברו",
-      "gloss": "ang iya pulong"
+      "gloss": "iya pulong"
     },
     {
       "surface": "אשר",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "iya ginhambal"
+      "gloss": "ginhambal"
     },
     {
       "surface": "עלי",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "nga nagsiling"
+      "gloss": "nga nagasiling"
     },
     {
       "surface": "אם",
-      "gloss": "Kon"
+      "gloss": "kon"
     },
     {
       "surface": "ישמרו",
@@ -54,16 +54,16 @@
     },
     {
       "surface": "בניך",
-      "gloss": "ang imo mga anak"
+      "gloss": "imo mga anak"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang ila dalan"
+      "marks": "ila nga dalan"
     },
     {
       "surface": "דרכם",
-      "gloss": "ang ila dalan"
+      "gloss": "ila nga dalan"
     },
     {
       "surface": "ללכת",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "בכל",
-      "gloss": "sang bug-os"
+      "gloss": "sa tanan"
     },
     {
       "surface": "לבבם",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "ובכל",
-      "gloss": "kag sang bug-os"
+      "gloss": "kag sa tanan"
     },
     {
       "surface": "נפשם",
@@ -95,11 +95,11 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "nga nagsiling"
+      "gloss": "nga nagasiling"
     },
     {
       "surface": "לא",
-      "gloss": "Indi"
+      "gloss": "indi"
     },
     {
       "surface": "יכרת",
@@ -126,6 +126,6 @@
       "gloss": "sang Yisrael"
     }
   ],
-  "timestamp": "2026-09-21T18:27:25.678667185Z",
+  "timestamp": "2026-09-25T08:40:44.284107821Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 16,
-  "translation": "Kundi sa ⟨ang⟩ lugar nga pilion ni Yahweh nga imo Elohim sa pagpuyo sang iya ngalan, didto ka maghalad ⟨את⟩ ang Pesah sa gab-i, sa pagsulud sang adlaw, sa takna sang imo paggwa sa Mitsrayim.",
+  "translation": "Kundi sa ⟨ang⟩ duog nga pilion ni Yahweh nga Elohim mo sa pagapuy-an sang iya ngalan, sa sadto magahalad ka ⟨את⟩ sang Pesach sa kagab-ionon, sa pagtan-aw sang adlaw — ang takna sang imo paggwa sa Mitsrayim.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "kundi"
     },
     {
       "surface": "אם",
-      "gloss": "kundi"
+      "gloss": "⟨kundi⟩"
     },
     {
       "surface": "אל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "המקום",
-      "gloss": "lugar"
+      "gloss": "⟨ang⟩ duog"
     },
     {
       "surface": "אשר",
@@ -37,40 +37,40 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "imo Elohim"
+      "gloss": "Elohim mo"
     },
     {
       "surface": "לשכן",
-      "gloss": "sa pagpuyo"
+      "gloss": "sa pagapuy-an"
     },
     {
       "surface": "שמו",
-      "gloss": "iya ngalan"
+      "gloss": "sang iya ngalan"
     },
     {
       "surface": "שם",
-      "gloss": "didto"
+      "gloss": "sa sadto"
     },
     {
       "surface": "תזבח",
-      "gloss": "ka maghalad"
+      "gloss": "magahalad ka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang Pesah"
+      "marks": "ang Pesach"
     },
     {
       "surface": "הפסח",
-      "gloss": "ang Pesah"
+      "gloss": "sang Pesach"
     },
     {
       "surface": "בערב",
-      "gloss": "sa gab-i"
+      "gloss": "sa kagab-ionon"
     },
     {
       "surface": "כבוא",
-      "gloss": "sa pagsulud"
+      "gloss": "sa pagtan-aw"
     },
     {
       "surface": "השמש",
@@ -78,17 +78,17 @@
     },
     {
       "surface": "מועד",
-      "gloss": "sa takna"
+      "gloss": "ang takna"
     },
     {
       "surface": "צאתך",
-      "gloss": "imo paggwa"
+      "gloss": "sang imo paggwa"
     },
     {
       "surface": "ממצרים",
       "gloss": "sa Mitsrayim"
     }
   ],
-  "timestamp": "2026-09-21T17:24:28.936766971Z",
+  "timestamp": "2026-09-25T08:59:21.011776212Z",
   "model": "glm-5.3"
 }

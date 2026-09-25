@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "hil",
   "chapter": 3,
-  "translation": "Kag nangasawa si Shelomoh kay Paro, hari sang Mitsrayim, kag ginkuha niya ⟨את⟩ ang anak nga babae ni Paro kag gindala niya siya sa siyudad ni David, tubtob matapos niya pagpatindugon ⟨את⟩ ang iya balay kag ⟨את⟩ ang balay ni Yahweh kag ⟨את⟩ ang pader sang Yerushalayim sa palibot.",
+  "translation": "Nag-ugalingkad si Shelomoh ⟨את⟩ kay Paro nga hari sang Mitsrayim, kag ginkuha niya ⟨את⟩ ang anak nga babae ni Paro kag gindala niya siya sa dakbanwa ni David, hasta sa iya pagkatapos magpatindog ⟨את⟩ sang iya balay, kag ⟨את⟩ sang balay ni Yahweh, kag ⟨את⟩ sang paril sang Yerushalayim sa palibot",
   "tokens": [
     {
       "surface": "ויתחתן",
-      "gloss": "nangasawa"
+      "gloss": "nag-ugalingkad"
     },
     {
       "surface": "שלמה",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "sang Mitsrayim"
+      "gloss": "Mitsrayim"
     },
     {
       "surface": "ויקח",
@@ -39,7 +39,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang anak nga babae"
+      "marks": "ang anak nga babae ni Paro"
     },
     {
       "surface": "בת",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "עיר",
-      "gloss": "siyudad"
+      "gloss": "dakbanwa"
     },
     {
       "surface": "דוד",
@@ -67,20 +67,20 @@
     },
     {
       "surface": "עד",
-      "gloss": "tubtob"
+      "gloss": "hasta sa"
     },
     {
       "surface": "כלתו",
-      "gloss": "matapos niya"
+      "gloss": "iya pagkatapos"
     },
     {
       "surface": "לבנות",
-      "gloss": "pagpatindugon"
+      "gloss": "magpatindog"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang iya balay"
+      "marks": "sang iya balay"
     },
     {
       "surface": "ביתו",
@@ -89,7 +89,7 @@
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang balay ni Yahweh"
+      "marks": "sang balay ni Yahweh"
     },
     {
       "surface": "בית",
@@ -102,21 +102,21 @@
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang pader sang Yerushalayim"
+      "marks": "sang paril sang Yerushalayim"
     },
     {
       "surface": "חומת",
-      "gloss": "pader"
+      "gloss": "paril"
     },
     {
       "surface": "ירושלם",
-      "gloss": "sang Yerushalayim"
+      "gloss": "Yerushalayim"
     },
     {
       "surface": "סביב",
       "gloss": "sa palibot"
     }
   ],
-  "timestamp": "2026-09-21T18:27:28.335105407Z",
+  "timestamp": "2026-09-25T08:41:30.577361781Z",
   "model": "glm-5.3"
 }

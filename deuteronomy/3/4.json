@@ -5,16 +5,16 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 3,
-  "translation": "Kag nagdakop kami ⟨את⟩ ang tanan niya ka mga ciudad sadto nga tion; wala sing ciudad nga wala namon kuha ⟨מאתם⟩ sang ila — anom ka pulo ka ciudad, ang tanan sang distrito sang Argob, ang gingharian ni Og sa Bashan.",
+  "translation": "Kag gin-ato namon ⟨את⟩ ang tanan nga iya mga siyudad sa sadto nga tion; wala sing siyudad nga wala namon ginkuha ⟨את⟩ sa ila — anom ka pulo ka siyudad, ang tanan nga teritoryo sang Argob, ang ginharian ni Og sa Bashan.",
   "tokens": [
     {
       "surface": "ונלכד",
-      "gloss": "kag nagdakop kami"
+      "gloss": "kag gin-ato namon"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang tanan niya ka mga ciudad"
+      "marks": "ang tanan nga iya mga siyudad"
     },
     {
       "surface": "כל",
@@ -22,27 +22,27 @@
     },
     {
       "surface": "עריו",
-      "gloss": "niya ka mga ciudad"
+      "gloss": "nga iya mga siyudad"
     },
     {
       "surface": "בעת",
-      "gloss": "sadto nga"
+      "gloss": "sa sadto nga tion"
     },
     {
       "surface": "ההוא",
-      "gloss": "tion"
+      "gloss": "sadto"
     },
     {
       "surface": "לא",
-      "gloss": "wala sing"
+      "gloss": "wala"
     },
     {
       "surface": "היתה",
-      "gloss": "⟨may⟩"
+      "gloss": "may"
     },
     {
       "surface": "קריה",
-      "gloss": "ciudad"
+      "gloss": "siyudad"
     },
     {
       "surface": "אשר",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "לקחנו",
-      "gloss": "namon kuha"
+      "gloss": "namon ginkuha"
     },
     {
       "surface": "מאתם",
-      "gloss": "⟨מאתם⟩"
+      "gloss": "sa ila ⟨את⟩"
     },
     {
       "surface": "ששים",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "עיר",
-      "gloss": "ka ciudad"
+      "gloss": "ka siyudad"
     },
     {
       "surface": "כל",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "חבל",
-      "gloss": "sang distrito"
+      "gloss": "nga teritoryo"
     },
     {
       "surface": "ארגב",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "ממלכת",
-      "gloss": "ang gingharian"
+      "gloss": "ang ginharian"
     },
     {
       "surface": "עוג",
@@ -93,6 +93,6 @@
       "gloss": "sa Bashan"
     }
   ],
-  "timestamp": "2026-09-21T17:18:36.048818308Z",
+  "timestamp": "2026-09-25T08:57:08.863758896Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 37,
-  "translation": "Kag nagsiling si Reuven sa ila: Indi kamo pagbusaha sing dugo; ihulid ninyo siya sa sina nga bubon sa kagulungan, kag indi kamo magpadala sang kamot sa iya — agod luwason siya sa ila mga kamot, sa pagpauli niya sa iya amay.",
+  "translation": "Kag naghambal si Reuben sa ila: Indi kamo mag-ula sang dugo; ihulog ninyo ⟨את⟩ siya sa sini nga bung-aw nga yara sa kamingawan, kag ang kamot indi ninyo ipadala sa iya — agod maluwas niya ⟨את⟩ siya sa ila mga kamot, sa pag-uli sa iya sa iya amay.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "kag nagsiling"
+      "gloss": "kag naghambal"
     },
     {
       "surface": "אלהם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ראובן",
-      "gloss": "si Reuven"
+      "gloss": "si Reuben"
     },
     {
       "surface": "אל",
@@ -25,20 +25,20 @@
     },
     {
       "surface": "תשפכו",
-      "gloss": "kamo pagbusaha"
+      "gloss": "kamo mag-ula"
     },
     {
       "surface": "דם",
-      "gloss": "sing dugo"
+      "gloss": "sang dugo"
     },
     {
       "surface": "השליכו",
-      "gloss": "ihulid ninyo"
+      "gloss": "ihulog ninyo"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "siya"
+      "marks": "siya (si Yosef)"
     },
     {
       "surface": "אל",
@@ -46,23 +46,23 @@
     },
     {
       "surface": "הבור",
-      "gloss": "sina nga bubon"
+      "gloss": "ang bung-aw"
     },
     {
       "surface": "הזה",
-      "gloss": "sina"
+      "gloss": "sini nga"
     },
     {
       "surface": "אשר",
-      "gloss": "nga"
+      "gloss": "nga yara"
     },
     {
       "surface": "במדבר",
-      "gloss": "sa kagulungan"
+      "gloss": "sa kamingawan"
     },
     {
       "surface": "ויד",
-      "gloss": "kag sang kamot"
+      "gloss": "kag ang kamot"
     },
     {
       "surface": "אל",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "תשלחו",
-      "gloss": "kamo magpadala"
+      "gloss": "ninyo ipadala"
     },
     {
       "surface": "בו",
@@ -82,12 +82,12 @@
     },
     {
       "surface": "הציל",
-      "gloss": "luwason"
+      "gloss": "maluwas"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "siya"
+      "marks": "siya — sa ila mga kamot"
     },
     {
       "surface": "מידם",
@@ -95,7 +95,7 @@
     },
     {
       "surface": "להשיבו",
-      "gloss": "sa pagpauli niya"
+      "gloss": "sa pag-uli sa iya"
     },
     {
       "surface": "אל",
@@ -106,6 +106,6 @@
       "gloss": "iya amay"
     }
   ],
-  "timestamp": "2026-09-21T16:13:29.787237367Z",
+  "timestamp": "2026-09-25T09:16:52.962289304Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "hil",
   "chapter": 7,
-  "translation": "kag kon sa ikatlo nga adlaw kaonon gid ang unod sang iya halad nga shelamim, indi pagakamarahay sa naghahalad ⟨sini⟩, indi pagailiston sa iya; pagahimoon nga kahalay; kag ang nefesh nga magakaon sini magadala sang iya sala.",
+  "translation": "Kag kon may makaon gid nga makaon halin sa unod sang halad sang iya pakigdait sa ikatlo nga adlaw, indi na madawat; ang naghahalad ⟨את⟩ sini indi mabilang sa iya — kadulumtan ina; kag ang kalag nga nangaon sini magadala sang iya sala.",
   "tokens": [
     {
       "surface": "ואם",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "האכל",
-      "gloss": "sa pagakaon"
+      "gloss": "ang pagkaon"
     },
     {
       "surface": "יאכל",
-      "gloss": "kaonon gid"
+      "gloss": "makaon"
     },
     {
       "surface": "מבשר",
-      "gloss": "sang unod"
+      "gloss": "halin sa unod"
     },
     {
       "surface": "זבח",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "שלמיו",
-      "gloss": "sang iya shelamim"
+      "gloss": "sang iya pakigdait"
     },
     {
       "surface": "ביום",
@@ -45,16 +45,16 @@
     },
     {
       "surface": "ירצה",
-      "gloss": "pagakamarahay"
+      "gloss": "madawat"
     },
     {
       "surface": "המקריב",
-      "gloss": "sa naghahalad"
+      "gloss": "ang naghahalad"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "sini"
+      "gloss": "⟨את⟩",
+      "marks": "sini (ang halad)"
     },
     {
       "surface": "לא",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "יחשב",
-      "gloss": "pagailiston"
+      "gloss": "mabilang"
     },
     {
       "surface": "לו",
@@ -70,19 +70,19 @@
     },
     {
       "surface": "פגול",
-      "gloss": "kahalay"
+      "gloss": "kadulumtan"
     },
     {
       "surface": "יהיה",
-      "gloss": "pagahimoon"
+      "gloss": "maga-ang"
     },
     {
       "surface": "והנפש",
-      "gloss": "kag ang nefesh"
+      "gloss": "kag ang kalag"
     },
     {
       "surface": "האכלת",
-      "gloss": "nga magakaon"
+      "gloss": "nga nangaon"
     },
     {
       "surface": "ממנו",
@@ -97,6 +97,6 @@
       "gloss": "magadala"
     }
   ],
-  "timestamp": "2026-09-21T16:45:24.770395552Z",
+  "timestamp": "2026-09-25T09:41:25.317277251Z",
   "model": "glm-5.3"
 }

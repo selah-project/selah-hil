@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "hil",
   "chapter": 10,
-  "translation": "Kag nagsiling sia sa iya: Indi ako maglakat, kondi sa akon duta kag sa akon katawhan ako maglakat.",
+  "translation": "Kag nagsiling siya sa iya: Indi ako magakadto, kondi sa akon duta kag sa akon kinalumhan ako magakadto.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Kag nagsiling"
+      "gloss": "kag nagsiling"
     },
     {
       "surface": "אליו",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "לא",
-      "gloss": "Indi"
+      "gloss": "indi"
     },
     {
       "surface": "אלך",
-      "gloss": "ako maglakat"
+      "gloss": "ako magakadto"
     },
     {
       "surface": "כי",
-      "gloss": "kondi"
+      "gloss": "<v祖父blank>"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "kondi"
     },
     {
       "surface": "אל",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "מולדתי",
-      "gloss": "akon katawhan"
+      "gloss": "akon kinalumhan"
     },
     {
       "surface": "אלך",
-      "gloss": "ako maglakat"
+      "gloss": "ako magakadto"
     }
   ],
-  "timestamp": "2026-09-21T17:03:48.218690143Z",
+  "timestamp": "2026-09-25T09:42:21.297839161Z",
   "model": "glm-5.3"
 }

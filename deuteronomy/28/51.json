@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 28,
-  "translation": "Kag magakaon sini sang bunga sang imo mga sapat kag sang bunga sang imo duta, hasta sa imo pagkadula — nga indi magapabilin sa imo sing balanggay, bag-ong bino kag lana, mga anak sang imo mga baka kag sang imo mga karnero, hasta magpa-uyang sini sa imo.",
+  "translation": "Kag kaunon niya ang bunga sang imo mga sapat kag ang bunga sang imo duta tubod mawala ka; indi niya pagabilinan sa imo bugas, bag-ong bino kag lana, ⟨ang mga anak⟩ sang imo mga baka kag sang imo mga karnero, tubod mapatay niya ⟨את⟩ ikaw.",
   "tokens": [
     {
       "surface": "ואכל",
-      "gloss": "Kag magakaon sini"
+      "gloss": "kag kaunon"
     },
     {
       "surface": "פרי",
-      "gloss": "sang bunga"
+      "gloss": "bunga"
     },
     {
       "surface": "בהמתך",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ופרי",
-      "gloss": "kag sang bunga"
+      "gloss": "kag bunga"
     },
     {
       "surface": "אדמתך",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "עד",
-      "gloss": "hasta"
+      "gloss": "tubod"
     },
     {
       "surface": "השמדך",
-      "gloss": "sa imo pagkadula"
+      "gloss": "mawala ka"
     },
     {
       "surface": "אשר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ישאיר",
-      "gloss": "magapabilin"
+      "gloss": "pagabilinan"
     },
     {
       "surface": "לך",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "דגן",
-      "gloss": "balanggay"
+      "gloss": "bugas"
     },
     {
       "surface": "תירוש",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "שגר",
-      "gloss": "mga anak (sang sapat)"
+      "gloss": "mga anak"
     },
     {
       "surface": "אלפיך",
@@ -81,17 +81,18 @@
     },
     {
       "surface": "עד",
-      "gloss": "hasta"
+      "gloss": "tubod"
     },
     {
       "surface": "האבידו",
-      "gloss": "magpa-uyang sini"
+      "gloss": "mapatay niya"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ sa imo"
+      "gloss": "⟨את⟩",
+      "marks": "ikaw"
     }
   ],
-  "timestamp": "2026-09-21T17:31:51.184649113Z",
+  "timestamp": "2026-09-25T08:58:43.244833257Z",
   "model": "glm-5.3"
 }

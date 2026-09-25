@@ -5,20 +5,20 @@
   "book": "leviticus",
   "lang": "hil",
   "chapter": 5,
-  "translation": "Kag ang iya ginhimo nga sala sa balaan nga butang iya mabayaran, kag ang iya ikalima nga bahin iya madugangan, kag iya ihatag ⟨את⟩ ini sa pari; kag maghimo ang pari sang pag-aton para sa iya paagi sa karnero sang asham, kag patawaron siya.",
+  "translation": "Kag ⟨את⟩ ang iya ginpakasalan sa balaan nga butang bayaran niya, kag ⟨את⟩ ang iya ikalima nga bahin idugang niya sa sini, kag ihatag niya ⟨את⟩ sa saserdote, kag ang saserdote maga-aton sang iya mga sala para sa iya paagi sa tuso sang halad sang sala, kag patawaron siya.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang iya ginhimo nga sala sa balaan nga butang"
+      "marks": "ang iya ginpakasalan sa balaan nga butang"
     },
     {
       "surface": "אשר",
-      "gloss": "nga"
+      "gloss": "ang iya ginpakasalan"
     },
     {
       "surface": "חטא",
-      "gloss": "ginhimo nga sala"
+      "gloss": "ginpakasalan"
     },
     {
       "surface": "מן",
@@ -30,45 +30,45 @@
     },
     {
       "surface": "ישלם",
-      "gloss": "iya mabayaran"
+      "gloss": "bayaran niya"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "iya ikalima nga bahin"
+      "marks": "ang iya ikalima nga bahin"
     },
     {
       "surface": "חמישתו",
-      "gloss": "iya ikalima nga bahin"
+      "gloss": "ang iya ikalima nga bahin"
     },
     {
       "surface": "יוסף",
-      "gloss": "iya madugangan"
+      "gloss": "idugang niya"
     },
     {
       "surface": "עליו",
-      "gloss": "sa iya"
+      "gloss": "sa sini"
     },
     {
       "surface": "ונתן",
-      "gloss": "kag iya ihatag"
+      "gloss": "kag ihatag niya"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ini"
+      "marks": "sa saserdote"
     },
     {
       "surface": "לכהן",
-      "gloss": "sa pari"
+      "gloss": "sa saserdote"
     },
     {
       "surface": "והכהן",
-      "gloss": "kag ang pari"
+      "gloss": "kag ang saserdote"
     },
     {
       "surface": "יכפר",
-      "gloss": "maghimo sang pag-aton"
+      "gloss": "maga-aton sang iya mga sala"
     },
     {
       "surface": "עליו",
@@ -76,11 +76,11 @@
     },
     {
       "surface": "באיל",
-      "gloss": "paagi sa karnero"
+      "gloss": "paagi sa tuso"
     },
     {
       "surface": "האשם",
-      "gloss": "sang asham"
+      "gloss": "sang halad sang sala"
     },
     {
       "surface": "ונסלח",
@@ -91,6 +91,6 @@
       "gloss": "siya"
     }
   ],
-  "timestamp": "2026-09-21T16:44:16.097847751Z",
+  "timestamp": "2026-09-25T09:41:45.785292443Z",
   "model": "glm-5.3"
 }

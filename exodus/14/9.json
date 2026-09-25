@@ -5,32 +5,32 @@
   "book": "exodus",
   "lang": "hil",
   "chapter": 14,
-  "translation": "Kag ginpangita sang mga Mitsrite ang ila kag nadangatan nila sila nga nagakampo sa baybay sang dagat — tanan nga kabayo kag karo sang Paro kag ang iya mga kabalyero kag ang iya kasoldadosan — sa Pi-Hahirot, sa atubangan sang Baal-Tsefon.",
+  "translation": "Kag ginpangita sang Mitsrayim ang ila mga tikang, kag naabtan nila ⟨את⟩ sila nga nagkampamento sa baybay sang dagat — tanan nga kabayo kag karo ni Paro, kag ang iya mga mananakay sa kabayo, kag ang iya kasundalohan — sa Pi-HaKhirot, sa atubang sang Baal-Tsefon.",
   "tokens": [
     {
       "surface": "וירדפו",
-      "gloss": "ginpangita"
+      "gloss": "kag ginpangita"
     },
     {
       "surface": "מצרים",
-      "gloss": "sang mga Mitsrite"
+      "gloss": "sang Mitsrayim"
     },
     {
       "surface": "אחריהם",
-      "gloss": "ang ila"
+      "gloss": "ang ila mga tikang"
     },
     {
       "surface": "וישיגו",
-      "gloss": "kag nadangatan"
+      "gloss": "kag naabtan nila"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "sila"
+      "marks": "sila nga nagkampamento"
     },
     {
       "surface": "חנים",
-      "gloss": "nga nagakampo"
+      "gloss": "nagkampamento"
     },
     {
       "surface": "על",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "הים",
-      "gloss": "baybay sang dagat"
+      "gloss": "dagat"
     },
     {
       "surface": "כל",
@@ -54,15 +54,15 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "sang Paro"
+      "gloss": "ni Paro"
     },
     {
       "surface": "ופרשיו",
-      "gloss": "kag ang iya mga kabalyero"
+      "gloss": "kag ang iya mga mananakay sa kabayo"
     },
     {
       "surface": "וחילו",
-      "gloss": "kag ang iya kasoldadosan"
+      "gloss": "kag ang iya kasundalohan"
     },
     {
       "surface": "על",
@@ -70,15 +70,15 @@
     },
     {
       "surface": "פי",
-      "gloss": ""
+      "gloss": "Pi-"
     },
     {
       "surface": "החירת",
-      "gloss": "Pi-Hahirot"
+      "gloss": "HaKhirot"
     },
     {
       "surface": "לפני",
-      "gloss": "sa atubangan"
+      "gloss": "sa atubang sang"
     },
     {
       "surface": "בעל",
@@ -89,6 +89,6 @@
       "gloss": "Tsefon"
     }
   ],
-  "timestamp": "2026-09-21T16:26:11.659974648Z",
+  "timestamp": "2026-09-25T09:03:28.364029148Z",
   "model": "glm-5.3"
 }

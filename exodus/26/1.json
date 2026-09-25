@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "hil",
   "chapter": 26,
-  "translation": "Kag ⟨ang⟩ Mishkan himoon mo sang napulo ka kurtina sang binutil nga lino, kag azul, kag purpura, kag duha ka beses nga tinina nga bughaw-pula nga ulod — mga kerub, obra sang mahilig nga nagabuburda, himoon mo ⟨sila⟩.",
+  "translation": "Kag ⟨את⟩ ang Mishkan himmon mo nga napulo ka kurtina sang lino nga linintihan, kag bughaw, kag purpura, kag pula sang uod; mga kerub, buhat sang mabinuligon nga paglalala, himmon mo ⟨ang mga kurtina⟩.",
   "tokens": [
     {
       "surface": "ואת",
@@ -18,7 +18,7 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "himoon mo"
+      "gloss": "himmon mo"
     },
     {
       "surface": "עשר",
@@ -30,15 +30,15 @@
     },
     {
       "surface": "שש",
-      "gloss": "binutil nga lino"
+      "gloss": "lino"
     },
     {
       "surface": "משזר",
-      "gloss": "binutil"
+      "gloss": "nga linintihan"
     },
     {
       "surface": "ותכלת",
-      "gloss": "kag azul"
+      "gloss": "kag bughaw"
     },
     {
       "surface": "וארגמן",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "ותלעת",
-      "gloss": "kag ulod nga"
+      "gloss": "kag uod"
     },
     {
       "surface": "שני",
-      "gloss": "tinina"
+      "gloss": "nga pula"
     },
     {
       "surface": "כרבים",
@@ -58,22 +58,22 @@
     },
     {
       "surface": "מעשה",
-      "gloss": "obra"
+      "gloss": "buhat"
     },
     {
       "surface": "חשב",
-      "gloss": "sang mahilig nga nagabuburda"
+      "gloss": "sang mabinuligon nga paglalala"
     },
     {
       "surface": "תעשה",
-      "gloss": "himoon mo"
+      "gloss": "himmon mo"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ sila",
-      "marks": "sila (ang mga kurtina)"
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kurtina"
     }
   ],
-  "timestamp": "2026-09-21T22:19:16.126007105Z",
+  "timestamp": "2026-09-25T09:04:40.493092734Z",
   "model": "glm-5.3"
 }

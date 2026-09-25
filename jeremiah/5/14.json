@@ -1,1 +1,94 @@
-{"tier":"glm-5.2","verse":14,"ref":"jeremiah 5:14","book":"jeremiah","lang":"hil","chapter":5,"translation":"Gani amo ini ang ginsiling ni Yahweh, Elohi sang Tsevaot: Tungod kay nagsiling kamo ⟨את⟩ ang pulong nga ini, tan-awa, gabutang ko ang akon mga pulong sa imo baba nga kalayo, kag ini nga katawhan kahoy, kag kaunon sila sini.","tokens":[{"surface":"לכן","gloss":"Gani"},{"surface":"כה","gloss":"amo ini"},{"surface":"אמר","gloss":"ginsiling"},{"surface":"יהוה","gloss":"ni Yahweh"},{"surface":"אלהי","gloss":"Elohi sang"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"יען","gloss":"Tungod kay"},{"surface":"דברכם","gloss":"nagsiling kamo"},{"surface":"את","gloss":"⟨את⟩","marks":"ang pulong"},{"surface":"הדבר","gloss":"ang pulong"},{"surface":"הזה","gloss":""},{"surface":"הנני","gloss":"tan-awa ako"},{"surface":"נתן","gloss":"gabutang"},{"surface":"דברי","gloss":"ang akon mga pulong"},{"surface":"בפיך","gloss":"sa imo baba"},{"surface":"לאש","gloss":"nga kalayo"},{"surface":"והעם","gloss":"kag ang katawhan"},{"surface":"הזה","gloss":"ini"},{"surface":"עצים","gloss":"kahoy"},{"surface":"ואכלתם","gloss":"kag kaunon sila sini"}],"timestamp":"2026-09-21T19:17:33.635044067Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 5:14",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 5,
+  "translation": "Busa amo ini ang ginhambal ni Yahweh, Elohim sang Tsevaot: bangod nga naghambal kamo ⟨את⟩ sang ining pulonga — yari ako, ibutang ko ang akon mga pulong sa imo baba subong kalayo, kag kining mga tawo nga ini subong mga kahoy, kag sanglapon sila sini.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Busa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "amo ini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ginhambal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim sang"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "יען",
+      "gloss": "bangod nga"
+    },
+    {
+      "surface": "דברכם",
+      "gloss": "naghambal kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang ining pulonga"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sang pulonga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ining"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "yari ako"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ibutang ko"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ang akon mga pulong"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "sa imo baba"
+    },
+    {
+      "surface": "לאש",
+      "gloss": "subong kalayo"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "kag kining mga tawo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nga ini"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "subong mga kahoy"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "kag sanglapon sila sini"
+    }
+  ],
+  "timestamp": "2026-09-25T09:28:30.262562093Z",
+  "model": "glm-5.3"
+}

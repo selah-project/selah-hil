@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "hil",
   "chapter": 43,
-  "translation": "Ako, ako gid siya ang nagapapas sang imo mga pagpanikway sang akon <tungod sa akon>, kag ang imo mga sala indi ko pagatandumon.",
+  "translation": "Ako, ako gid ⟨ang⟩ nagapapas sang imo mga pagsupil sang akon sang kag ang imo mga sala indi ko pagdumdumon",
   "tokens": [
     {
       "surface": "אנכי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "ako"
+      "gloss": "ako gid"
     },
     {
       "surface": "הוא",
-      "gloss": "siya"
+      "gloss": "⟨ang⟩"
     },
     {
       "surface": "מחה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "פשעיך",
-      "gloss": "imo mga pagpanikway"
+      "gloss": "sang imo mga pagsupil"
     },
     {
       "surface": "למעני",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "וחטאתיך",
-      "gloss": "kag imo mga sala"
+      "gloss": "kag ang imo mga sala"
     },
     {
       "surface": "לא",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "אזכר",
-      "gloss": "pagatandumon"
+      "gloss": "pagdumdumon"
     }
   ],
-  "timestamp": "2026-09-21T19:06:58.089332350Z",
+  "timestamp": "2026-09-25T09:20:39.850067940Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "hil",
   "chapter": 34,
-  "translation": "Ang mga mata ni Yahweh ⟨⟨sa⟩⟩ mga matarong, kag ang iya mga dalan-gan sa ila pagpananggit.",
+  "translation": "Ang mga mata ni Yahweh ⟨mga⟩ sa mga matarong, kag ang iya mga dalunggan ⟨mga⟩ sa ila pagpanawag",
   "tokens": [
     {
       "surface": "עיני",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "⟨sa⟩"
+      "gloss": "⟨mga⟩ sa"
     },
     {
       "surface": "צדיקים",
@@ -25,17 +25,17 @@
     },
     {
       "surface": "ואזניו",
-      "gloss": "kag iya mga dalan-gan"
+      "gloss": "kag ang iya mga dalunggan"
     },
     {
       "surface": "אל",
-      "gloss": "sa"
+      "gloss": "⟨mga⟩ sa"
     },
     {
       "surface": "שועתם",
-      "gloss": "ila pagpananggit"
+      "gloss": "sa ila pagpanawag"
     }
   ],
-  "timestamp": "2026-09-21T20:29:17.818852179Z",
+  "timestamp": "2026-09-25T09:49:39.467225354Z",
   "model": "glm-5.3"
 }

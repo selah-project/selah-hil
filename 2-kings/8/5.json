@@ -5,19 +5,19 @@
   "book": "2-kings",
   "lang": "hil",
   "chapter": 8,
-  "translation": "Kag natabo, samtang siya nagasugid sa hari sang ⟨את⟩ ⟨kon ano ang iya ginpabuhi — ang patay⟩, kag yari, ang babae nga iya ginpabuhi ⟨את⟩ ⟨iya anak⟩ nagasinggit sa hari tungod sa iya balay kag tungod sa iya talad. Kag nagsiling si Gechazi: Akon nga ginoo, ang hari, ini ang babae, kag ini ang iya anak, nga ginpabuhi ni Elisha.",
+  "translation": "Kag sang siya nagsugid sa hari kon paano ginpabuhi ⟨את⟩ ang ginsiling — nga ginpabuhi niya ⟨את⟩ ang napatay — kag yari kag tan-awa, ang babae nga ginpabuhi niya ⟨את⟩ ang iya anak nagaabog sa hari bahin sang iya balay kag sang iya uma. Kag nagsiling si Gechazi: Akon nga ginoo, hari, ini ang babae, kag ini ang iya anak, nga ginpabuhi ni Elisha.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "kag natabo"
+      "gloss": "kag sang"
     },
     {
       "surface": "הוא",
-      "gloss": "samtang siya"
+      "gloss": "siya"
     },
     {
       "surface": "מספר",
-      "gloss": "nagasugid"
+      "gloss": "nagsugid"
     },
     {
       "surface": "למלך",
@@ -26,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kon ano ang iya ginpabuhi — ang patay"
+      "marks": "ang ginsiling (kon paano ginpabuhi ang napatay)"
     },
     {
       "surface": "אשר",
-      "gloss": "nga"
+      "gloss": "kon paano"
     },
     {
       "surface": "החיה",
@@ -39,15 +39,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang patay"
+      "marks": "ang napatay"
     },
     {
       "surface": "המת",
-      "gloss": "ang patay"
+      "gloss": "ang napatay"
     },
     {
       "surface": "והנה",
-      "gloss": "kag yari"
+      "gloss": "kag yari kag tan-awa"
     },
     {
       "surface": "האשה",
@@ -64,7 +64,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iya anak"
+      "marks": "ang iya anak"
     },
     {
       "surface": "בנה",
@@ -72,7 +72,7 @@
     },
     {
       "surface": "צעקת",
-      "gloss": "nagasinggit"
+      "gloss": "nagaabog"
     },
     {
       "surface": "אל",
@@ -80,11 +80,11 @@
     },
     {
       "surface": "המלך",
-      "gloss": "ang hari"
+      "gloss": "hari"
     },
     {
       "surface": "על",
-      "gloss": "tungod sa"
+      "gloss": "bahin sang"
     },
     {
       "surface": "ביתה",
@@ -92,11 +92,11 @@
     },
     {
       "surface": "ועל",
-      "gloss": "kag tungod sa"
+      "gloss": "kag bahin sang"
     },
     {
       "surface": "שדה",
-      "gloss": "iya talad"
+      "gloss": "iya uma"
     },
     {
       "surface": "ויאמר",
@@ -112,7 +112,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "ang hari"
+      "gloss": "hari"
     },
     {
       "surface": "זאת",
@@ -143,6 +143,6 @@
       "gloss": "si Elisha"
     }
   ],
-  "timestamp": "2026-09-21T18:44:09.695104481Z",
+  "timestamp": "2026-09-25T08:53:08.294573160Z",
   "model": "glm-5.3"
 }

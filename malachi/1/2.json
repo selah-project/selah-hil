@@ -5,7 +5,7 @@
   "book": "malachi",
   "lang": "hil",
   "chapter": 1,
-  "translation": "Ginhigugma ko kamo, nagsiling si Yahweh, kag nagsiling kamo, Sa diin nyo kami ginhigugma? Indi bala si Esaw utod ni Yaakov? nagsiling si Yahweh; apang si Yaakov ginhigugma ko ⟨את⟩.",
+  "translation": "Ginhigugma ko ⟨את⟩ kamo, nagsiling si Yahweh, kag nagsiling kamo, Sa ano bala ikaw naghigugma sa amon? Wala bala si Esav nga utod ni Yaakov, nagsiling si Yahweh, kag ginhigugma ko ⟨את⟩ si Yaakov,",
   "tokens": [
     {
       "surface": "אהבתי",
@@ -13,7 +13,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kamo"
+      "gloss": "⟨את⟩ kamo",
+      "marks": "kamo"
     },
     {
       "surface": "אמר",
@@ -21,7 +22,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "si Yahweh"
     },
     {
       "surface": "ואמרתם",
@@ -29,23 +30,23 @@
     },
     {
       "surface": "במה",
-      "gloss": "sa diin"
+      "gloss": "sa ano bala"
     },
     {
       "surface": "אהבתנו",
-      "gloss": "ginhigugma ninyo kami"
+      "gloss": "naghigugma sa amon"
     },
     {
       "surface": "הלוא",
-      "gloss": "indi bala"
+      "gloss": "wala bala"
     },
     {
       "surface": "אח",
-      "gloss": "utod"
+      "gloss": "nga utod"
     },
     {
       "surface": "עשו",
-      "gloss": "Esaw"
+      "gloss": "si Esav"
     },
     {
       "surface": "ליעקב",
@@ -57,11 +58,11 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "si Yahweh"
     },
     {
       "surface": "ואהב",
-      "gloss": "apang ginhigugma ko"
+      "gloss": "kag ginhigugma ko"
     },
     {
       "surface": "את",
@@ -73,6 +74,6 @@
       "gloss": "si Yaakov"
     }
   ],
-  "timestamp": "2026-09-21T22:37:15.052890727Z",
+  "timestamp": "2026-09-25T09:42:34.182453590Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 20,
-  "translation": "Kag ang mga anak nagsupak sa akon; sa akon mga kasuguan indi sila naglakat, kag ⟨את⟩ akon mga paghukom indi nila ginbantay sa paghimo sanda, nga kon ang tawo magahimo sanda, mabuhi siya sa ila; ⟨את⟩ akon mga Sabbath ginlapastangan nila, kag nagsiling ako sa pagbuhos sang akon kaligutgut sa ila, sa pagtapos sang akon kaakgal sa ila, sa kamingawan.",
+  "translation": "Kag nagrebelde ang mga anak kontra sa akon; sa akon mga pagbatos wala sila naglakat, kag ⟨את⟩ akon mga pagtulod-an wala nila gintipigan, sa paghimo ⟨את⟩ sang mga ina — nga kon himuon sang tawo ⟨את⟩ ina, mabuhi siya sini — ⟨את⟩ akon mga adlaw sang Sabbath ginpangguba nila. Kag nagsiling ako sa pagbuhos sang akon kaakig sa ila, sa pagtapos sang akon kapungot sa ila sa kamingawan.",
   "tokens": [
     {
       "surface": "וימרו",
-      "gloss": "nagsupak"
+      "gloss": "nagrebelde"
     },
     {
       "surface": "בי",
-      "gloss": "sa akon"
+      "gloss": "kontra sa akon"
     },
     {
       "surface": "הבנים",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "בחקותי",
-      "gloss": "sa akon mga kasuguan"
+      "gloss": "sa akon mga pagbatos"
     },
     {
       "surface": "לא",
-      "gloss": "indi"
+      "gloss": "wala"
     },
     {
       "surface": "הלכו",
@@ -34,19 +34,19 @@
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "akon mga paghukom"
+      "marks": "akon mga pagtulod-an"
     },
     {
       "surface": "משפטי",
-      "gloss": "akon mga paghukom"
+      "gloss": "akon mga pagtulod-an"
     },
     {
       "surface": "לא",
-      "gloss": "indi"
+      "gloss": "wala"
     },
     {
       "surface": "שמרו",
-      "gloss": "ginbantay"
+      "gloss": "gintipigan"
     },
     {
       "surface": "לעשות",
@@ -54,7 +54,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ sanda"
+      "gloss": "⟨את⟩ sang mga ina",
+      "marks": "mga ina (ang mga pagtulod-an)"
     },
     {
       "surface": "אשר",
@@ -62,15 +63,16 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "magahimo"
+      "gloss": "kon himuon"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ sanda"
+      "gloss": "⟨את⟩ ina",
+      "marks": "ina (ang mga butang ginhimo)"
     },
     {
       "surface": "האדם",
-      "gloss": "ang tawo"
+      "gloss": "sang tawo"
     },
     {
       "surface": "וחי",
@@ -78,20 +80,20 @@
     },
     {
       "surface": "בהם",
-      "gloss": "sa ila"
+      "gloss": "sini"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "akon mga Sabbath"
+      "marks": "akon mga adlaw sang Sabbath"
     },
     {
       "surface": "שבתותי",
-      "gloss": "akon mga Sabbath"
+      "gloss": "akon mga adlaw sang Sabbath"
     },
     {
       "surface": "חללו",
-      "gloss": "ginlapastangan"
+      "gloss": "ginpangguba"
     },
     {
       "surface": "ואמר",
@@ -103,7 +105,7 @@
     },
     {
       "surface": "חמתי",
-      "gloss": "akon kaligutgut"
+      "gloss": "sang akon kaakig"
     },
     {
       "surface": "עליהם",
@@ -115,7 +117,7 @@
     },
     {
       "surface": "אפי",
-      "gloss": "akon kaakgal"
+      "gloss": "sang akon kapungot"
     },
     {
       "surface": "בם",
@@ -126,6 +128,6 @@
       "gloss": "sa kamingawan"
     }
   ],
-  "timestamp": "2026-09-21T19:48:24.872658004Z",
+  "timestamp": "2026-09-25T09:06:32.026945763Z",
   "model": "glm-5.3"
 }

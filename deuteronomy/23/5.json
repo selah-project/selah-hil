@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 23,
-  "translation": "Tungod sa butang nga wala nila pag-angtan kamo sang tinapay kag sang tubig sa dalanon, sang maggwa kamo sa Mitsrayim, kag tungod kay nagsuhol sila batok sa imo kay ⟨את⟩ Bilam nga anak ni Beor, taga-Pethor sang Aram-Naharayim, sa pagtungdan ikaw.",
+  "translation": "Tungod sa butang nga wala nila pagsugta kamo ⟨את⟩ sang tinapay kag sang tubig sa dalan, sang paggwa ninyo sa Mitsrayim, kag tungod kay nagpaarkila sia batok kaninyo ⟨את⟩ kay Bilam nga anak ni Beor, halin sa Pethor sang Aram-Naharaim, sa pagtunglo sa inyo.",
   "tokens": [
     {
       "surface": "על",
@@ -25,11 +25,12 @@
     },
     {
       "surface": "קדמו",
-      "gloss": "pag-angtan nila"
+      "gloss": "nila pagsugta"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kamo"
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
     },
     {
       "surface": "בלחם",
@@ -41,11 +42,11 @@
     },
     {
       "surface": "בדרך",
-      "gloss": "sa dalanon"
+      "gloss": "sa dalan"
     },
     {
       "surface": "בצאתכם",
-      "gloss": "sang maggwa kamo"
+      "gloss": "sang paggwa ninyo"
     },
     {
       "surface": "ממצרים",
@@ -53,15 +54,15 @@
     },
     {
       "surface": "ואשר",
-      "gloss": "kag ang"
+      "gloss": "kag tungod kay"
     },
     {
       "surface": "שכר",
-      "gloss": "pagsuhol"
+      "gloss": "nagpaarkila"
     },
     {
       "surface": "עליך",
-      "gloss": "batok sa imo"
+      "gloss": "batok kaninyo"
     },
     {
       "surface": "את",
@@ -82,21 +83,21 @@
     },
     {
       "surface": "מפתור",
-      "gloss": "taga-Pethor"
+      "gloss": "halin sa Pethor"
     },
     {
       "surface": "ארם",
-      "gloss": "Aram"
+      "gloss": "Aram-"
     },
     {
       "surface": "נהרים",
-      "gloss": "Naharayim"
+      "gloss": "Naharaim"
     },
     {
       "surface": "לקללך",
-      "gloss": "sa pagtungdan ikaw"
+      "gloss": "sa pagtunglo sa inyo"
     }
   ],
-  "timestamp": "2026-09-21T17:28:04.846523632Z",
+  "timestamp": "2026-09-25T08:59:13.674788728Z",
   "model": "glm-5.3"
 }

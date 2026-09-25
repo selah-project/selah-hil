@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 11,
-  "translation": "Gani hambala: Amo sini ang ginahambal ni Adonay Yahweh: Kag tiguon ko kamo sa tinungtung sang mga pungsod kag tiguon ko kamo sa tinungtung sang mga duta nga diin kamo ginkalat sa ila, kag ihatag ko sa inyo ⟨את⟩ ang duta sang Yisrael.",
+  "translation": "Gani, hambala: Amo ini ang ginhambal ni Adonay Yahweh: Kag tiguron ko kamo ⟨את⟩ sa tunga sang mga pungsod kag tigtipon ko kamo ⟨את⟩ sa mga duta diin kamo ginpangalat kag imna ko sa inyo ⟨את⟩ ang duta sang Yisrael.",
   "tokens": [
     {
       "surface": "לכן",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "כה",
-      "gloss": "amo sini"
+      "gloss": "Amo ini"
     },
     {
       "surface": "אמר",
-      "gloss": "ang ginahambal"
+      "gloss": "ginhambal"
     },
     {
       "surface": "אדני",
-      "gloss": "Adonay"
+      "gloss": "ni Adonay"
     },
     {
       "surface": "יהוה",
@@ -33,15 +33,16 @@
     },
     {
       "surface": "וקבצתי",
-      "gloss": "kag tiguon ko kamo"
+      "gloss": "kag tiguron ko kamo"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kamo"
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
     },
     {
       "surface": "מן",
-      "gloss": "sa tinungtung"
+      "gloss": "sa tunga sang"
     },
     {
       "surface": "העמים",
@@ -49,15 +50,16 @@
     },
     {
       "surface": "ואספתי",
-      "gloss": "kag tiguon ko kamo"
+      "gloss": "kag tigtipon ko kamo"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kamo"
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
     },
     {
       "surface": "מן",
-      "gloss": "sa tinungtung"
+      "gloss": "sa"
     },
     {
       "surface": "הארצות",
@@ -65,11 +67,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nga diin"
+      "gloss": "diin"
     },
     {
       "surface": "נפצותם",
-      "gloss": "kamo ginkalat"
+      "gloss": "ginpangalat kamo"
     },
     {
       "surface": "בהם",
@@ -77,7 +79,7 @@
     },
     {
       "surface": "ונתתי",
-      "gloss": "kag ihatag ko"
+      "gloss": "kag imna ko"
     },
     {
       "surface": "לכם",
@@ -94,9 +96,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "sang Yisrael"
     }
   ],
-  "timestamp": "2026-09-21T19:44:45.399246512Z",
+  "timestamp": "2026-09-25T09:53:34.089893769Z",
   "model": "glm-5.3"
 }

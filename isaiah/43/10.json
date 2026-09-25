@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "hil",
   "chapter": 43,
-  "translation": "Kamo ang akon mga saksi, nagaingad si Yahweh, kag ang akon sulugoon nga akon ginpili, agod makahibalo kamo kag magtuo sa akon kag masabtan nga ako ina; sa wala pa <sa> akon wala sing El nga gintukod, kag tapos sa akon wala sing magakaigo.",
+  "translation": "Kamo ang akon mga saksi, sahod ni Yahweh, kag ang akon sulugoon nga akon ginpilian, agod makahibalo kamo kag magtuo sa akon kag maintiendihan nga ako ina ang ⟨siya⟩: sa wala pa ako wala may natabo nga ginhubas nga El, kag sa akon ulihi wala na magapadayon.",
   "tokens": [
     {
       "surface": "אתם",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "עדי",
-      "gloss": "ang akon mga saksi"
+      "gloss": "mga saksi"
     },
     {
       "surface": "נאם",
-      "gloss": "nagaingad"
+      "gloss": "sahod"
     },
     {
       "surface": "יהוה",
-      "gloss": "si Yahweh"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "ועבדי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "בחרתי",
-      "gloss": "akon ginpili"
+      "gloss": "akon ginpilian"
     },
     {
       "surface": "למען",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ותבינו",
-      "gloss": "kag masabtan"
+      "gloss": "kag maintiendihan"
     },
     {
       "surface": "כי",
@@ -65,19 +65,19 @@
     },
     {
       "surface": "הוא",
-      "gloss": "ina"
+      "gloss": "ina ang ⟨siya⟩"
     },
     {
       "surface": "לפני",
-      "gloss": "sa wala pa <sa> akon"
+      "gloss": "sa wala pa ako"
     },
     {
       "surface": "לא",
-      "gloss": "wala"
+      "gloss": "wala may"
     },
     {
       "surface": "נוצר",
-      "gloss": "gintukod"
+      "gloss": "ginhubas"
     },
     {
       "surface": "אל",
@@ -85,17 +85,17 @@
     },
     {
       "surface": "ואחרי",
-      "gloss": "kag tapos sa akon"
+      "gloss": "kag sa akon ulihi"
     },
     {
       "surface": "לא",
-      "gloss": "wala"
+      "gloss": "wala na"
     },
     {
       "surface": "יהיה",
-      "gloss": "sing magakaigo"
+      "gloss": "magapadayon"
     }
   ],
-  "timestamp": "2026-09-21T22:31:47.530466406Z",
+  "timestamp": "2026-09-25T09:21:05.369846750Z",
   "model": "glm-5.3"
 }

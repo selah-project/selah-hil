@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "hil",
   "chapter": 15,
-  "translation": "Kag ang bisan sin-o nga magatandog sang bisan ano nga ara sa idalom sini magakaigon hasta sang kagabhian; kag ang magadala ⟨sa mga butang sini⟩ magahugas sang iya mga bayu kag magahugas sa iya kaugalingon sa tubig kag magakaigon hasta sang kagabhian.",
+  "translation": "Kag ang tanan nga magatandog sa bisan ano nga mahimo sa ilalum sini magamalain tubtob sa kagab-i, kag ang magadala sang ⟨את⟩ mga ina magahugas sang iya mga bado kag magabanyos sa tubig, kag magamalain tubtob sa kagab-i.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "Kag ang bisan sin-o"
+      "gloss": "kag ang tanan"
     },
     {
       "surface": "הנגע",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בכל",
-      "gloss": "sang bisan ano"
+      "gloss": "sa bisan ano"
     },
     {
       "surface": "אשר",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "ara"
+      "gloss": "mahimo"
     },
     {
       "surface": "תחתיו",
-      "gloss": "sa idalom sini"
+      "gloss": "sa ilalum sini"
     },
     {
       "surface": "יטמא",
-      "gloss": "magakaigon"
+      "gloss": "magamalain"
     },
     {
       "surface": "עד",
-      "gloss": "hasta"
+      "gloss": "tubtob sa"
     },
     {
       "surface": "הערב",
-      "gloss": "sang kagabhian"
+      "gloss": "kagab-i"
     },
     {
       "surface": "והנושא",
@@ -50,7 +50,7 @@
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "sa mga butang sini"
+      "marks": "mga ina (nga mga butang)"
     },
     {
       "surface": "יכבס",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "בגדיו",
-      "gloss": "sang iya mga bayu"
+      "gloss": "sang iya mga bado"
     },
     {
       "surface": "ורחץ",
-      "gloss": "kag magahugas sa iya kaugalingon"
+      "gloss": "kag magabanyos"
     },
     {
       "surface": "במים",
@@ -70,17 +70,17 @@
     },
     {
       "surface": "וטמא",
-      "gloss": "kag magakaigon"
+      "gloss": "kag magamalain"
     },
     {
       "surface": "עד",
-      "gloss": "hasta"
+      "gloss": "tubtob sa"
     },
     {
       "surface": "הערב",
-      "gloss": "sang kagabhian"
+      "gloss": "kagab-i"
     }
   ],
-  "timestamp": "2026-09-21T16:50:18.894465141Z",
+  "timestamp": "2026-09-25T09:39:41.161443620Z",
   "model": "glm-5.3"
 }

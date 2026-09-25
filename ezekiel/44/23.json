@@ -5,16 +5,16 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 44,
-  "translation": "Kag ⟨את⟩ ang akon banwa itudlo nila sa pag-ilain sang balaan sa dili balaan, kag sang maraot sa malinis pag-ilain nila.",
+  "translation": "Kag ⟨את⟩ ang akon nga katawhan itudlo nila sa pag-ilain sang balaan sa dili balaan, kag sa pag-ilain sang mara sa malinis ipahibalo nila sa ila.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang akon banwa"
+      "marks": "ang akon nga katawhan"
     },
     {
       "surface": "עמי",
-      "gloss": "ang akon banwa"
+      "gloss": "ang akon nga katawhan"
     },
     {
       "surface": "יורו",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "ובין",
-      "gloss": "kag sang"
+      "gloss": "kag sa pag-ilain"
     },
     {
       "surface": "טמא",
-      "gloss": "maraot"
+      "gloss": "mara"
     },
     {
       "surface": "לטהור",
@@ -46,9 +46,9 @@
     },
     {
       "surface": "יודעם",
-      "gloss": "pag-ilain nila"
+      "gloss": "ipahibalo nila sa ila"
     }
   ],
-  "timestamp": "2026-09-21T22:35:36.967619654Z",
+  "timestamp": "2026-09-25T09:10:36.246752358Z",
   "model": "glm-5.3"
 }

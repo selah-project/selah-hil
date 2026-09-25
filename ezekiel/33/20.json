@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 33,
-  "translation": "Kag nagsiling kamo, 'Indi matimbang ang dalan ni Adonay.' Isa ka tawo suno sa iya mga dalan pagahukman ko kamo, balay sang Yisrael.",
+  "translation": "Kag nagsiling kamo: Indi matimbang ang dalan ni Adonay. Ang tagsa ka tawo suno sa iya mga dalan pagahukmanon ko ⟨את⟩ kamo, balay sang Yisrael.",
   "tokens": [
     {
       "surface": "ואמרתם",
-      "gloss": "kag nagsiling kamo"
+      "gloss": "Kag nagsiling kamo"
     },
     {
       "surface": "לא",
-      "gloss": "indi"
+      "gloss": "Indi"
     },
     {
       "surface": "יתכן",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "isa ka tawo"
+      "gloss": "ang tagsa ka tawo"
     },
     {
       "surface": "כדרכיו",
@@ -37,11 +37,12 @@
     },
     {
       "surface": "אשפוט",
-      "gloss": "pagahukman ko"
+      "gloss": "pagahukmanon ko"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kamo"
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
     },
     {
       "surface": "בית",
@@ -52,6 +53,6 @@
       "gloss": "sang Yisrael"
     }
   ],
-  "timestamp": "2026-09-21T19:54:24.600913962Z",
+  "timestamp": "2026-09-25T09:10:52.024128844Z",
   "model": "glm-5.3"
 }

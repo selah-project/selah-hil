@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "hil",
   "chapter": 10,
-  "translation": "Kag nagsiling siya sa mga anak nga lalaki sang Yisrel: Nagsiling si Yahweh, ang Elohim sang Yisrel: Ako ang nagpaunga ⟨את⟩ sang Yisrel gikan sa Mitsrayim, kag gintabanan ko kamo gikan sa kamot sang Mitsrayim kag gikan sa kamot sang tanan nga mga gingharian nga nagpigos ⟨את⟩ kamo.",
+  "translation": "Kag naghambal siya sa mga anak nga lalaki sang Yisrael: Amo ini ang ginhambal ni Yahweh, ang Elohim sang Yisrael: Akon ginbanwa ⟨את⟩ ang Yisrel gikan sa Mitsrayim, kag gintpalàga ko kamo ⟨את⟩ gikan sa kamot sang Mitsrayim kag gikan sa kamot sang tanan nga mga gingharian nga naga pang-abuso ⟨את⟩ sa inyo.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "kag nagsiling"
+      "gloss": "Kag naghambal"
     },
     {
       "surface": "אל",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "sang Yisrel"
+      "gloss": "sang Yisrael"
     },
     {
       "surface": "כה",
-      "gloss": "siling"
+      "gloss": "Amo ini"
     },
     {
       "surface": "אמר",
-      "gloss": "nagsiling"
+      "gloss": "ang ginhambal"
     },
     {
       "surface": "יהוה",
-      "gloss": "si Yahweh"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "אלהי",
@@ -41,24 +41,24 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "sang Yisrel"
+      "gloss": "sang Yisrael"
     },
     {
       "surface": "אנכי",
-      "gloss": "ako"
+      "gloss": "Akon"
     },
     {
       "surface": "העליתי",
-      "gloss": "nagpaunga ako"
+      "gloss": "ginbanwa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sang Yisrel"
+      "marks": "ang Yisrael"
     },
     {
       "surface": "ישראל",
-      "gloss": "sang Yisrel"
+      "gloss": "ang Yisrael"
     },
     {
       "surface": "ממצרים",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "ואציל",
-      "gloss": "kag gintabanan"
+      "gloss": "kag gintpalàga ko kamo"
     },
     {
       "surface": "אתכם",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "tanan nga"
+      "gloss": "sang tanan nga"
     },
     {
       "surface": "הממלכות",
@@ -95,14 +95,14 @@
     },
     {
       "surface": "הלחצים",
-      "gloss": "nagpigos"
+      "gloss": "naga-pang-abuso"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kamo",
-      "marks": "kamo"
+      "gloss": "⟨את⟩ sa inyo",
+      "marks": "sa inyo"
     }
   ],
-  "timestamp": "2026-09-21T18:01:40.575899514Z",
+  "timestamp": "2026-09-25T08:42:50.006150810Z",
   "model": "glm-5.3"
 }

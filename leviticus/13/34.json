@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "hil",
   "chapter": 13,
-  "translation": "Kag tan-awon sang pari ⟨את⟩ ang netek sa ikapito nga adlaw, kag yari, kon ang netek wala maglapta sa panit kag ang iya hitsura wala sing kadalom sangsa panit, itatagna sang pari nga malinig ⟨siya⟩, kag magahugas ⟨siya⟩ sang iya mga bayo, kag malinig ⟨siya⟩.",
+  "translation": "Kag pagat-an-aw sang pari sang ⟨את⟩ ang netek sa ikapito nga adlaw, kag yari, kon ang netek wala naglapta sa panit kag ang iya hitsura indi na malalim kisa sa panit, ipatin-aw sang pari siya ⟨אתו⟩ kag magapanilhig siya sang iya mga bayu kag magamalin.",
   "tokens": [
     {
       "surface": "וראה",
-      "gloss": "kag tan-awon"
+      "gloss": "kag pagat-an-aw"
     },
     {
       "surface": "הכהן",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "ביום",
-      "gloss": "sa"
+      "gloss": "sa adlaw"
     },
     {
       "surface": "השביעי",
-      "gloss": "ikapito nga adlaw"
+      "gloss": "ikapito"
     },
     {
       "surface": "והנה",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "פשה",
-      "gloss": "maglapta"
+      "gloss": "naglapta"
     },
     {
       "surface": "הנתק",
@@ -58,15 +58,15 @@
     },
     {
       "surface": "איננו",
-      "gloss": "wala sing"
+      "gloss": "indi na"
     },
     {
       "surface": "עמק",
-      "gloss": "kadalom"
+      "gloss": "malalim"
     },
     {
       "surface": "מן",
-      "gloss": "sangsa"
+      "gloss": "kisa sa"
     },
     {
       "surface": "העור",
@@ -74,12 +74,12 @@
     },
     {
       "surface": "וטהר",
-      "gloss": "itatagna nga malinig"
+      "gloss": "ipatin-aw"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨siya⟩",
-      "marks": "siya (ang tawo)"
+      "gloss": "⟨אתו⟩",
+      "marks": "siya (ang tawo nga may netek)"
     },
     {
       "surface": "הכהן",
@@ -87,17 +87,17 @@
     },
     {
       "surface": "וכבס",
-      "gloss": "kag magahugas"
+      "gloss": "kag magapanilhig"
     },
     {
       "surface": "בגדיו",
-      "gloss": "sang iya mga bayo"
+      "gloss": "sang iya mga bayu"
     },
     {
       "surface": "וטהר",
-      "gloss": "kag malinig"
+      "gloss": "kag magamalin"
     }
   ],
-  "timestamp": "2026-09-21T16:48:06.230875091Z",
+  "timestamp": "2026-09-25T09:37:51.045883742Z",
   "model": "glm-5.3"
 }

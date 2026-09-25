@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "hil",
   "chapter": 8,
-  "translation": "Kag ginhimo ni Gidon ⟨אותו⟩ nga ephod, kag ginpatindog niya ⟨אותו⟩ sa iya ciudad, sa Ophrah; kag nagpakighalay tanan nga Yisrel sa iya didto; kag nangin lit-ag ini kay Gidon kag sa iya balay.",
+  "translation": "Kag ginhimo ni Gidyon ⟨את⟩ sini nga epod, kag ginpatindog niya ⟨את⟩ sini sa iya nga ciudad, sa Ofra; kag nagpalaini ang tanan nga Yisrael didto sa likod sini; kag nangin ⟨is⟩ nga manggalin para kay Gidyon kag sa iya nga panimalay.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ ⟨אותו⟩",
-      "marks": "ini (ang bulawan)"
+      "gloss": "⟨את⟩",
+      "marks": "ni Gidyon"
     },
     {
       "surface": "גדעון",
-      "gloss": "ni Gidon"
+      "gloss": "Gidyon"
     },
     {
       "surface": "לאפוד",
-      "gloss": "nga ephod"
+      "gloss": "nga epod"
     },
     {
       "surface": "ויצג",
@@ -30,24 +30,24 @@
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ ⟨אותו⟩",
-      "marks": "ini (ang ephod)"
+      "gloss": "⟨את⟩",
+      "marks": "sa iya nga ciudad"
     },
     {
       "surface": "בעירו",
-      "gloss": "sa iya ciudad"
+      "gloss": "sa iya nga ciudad"
     },
     {
       "surface": "בעפרה",
-      "gloss": "sa Ophrah"
+      "gloss": "sa Ofra"
     },
     {
       "surface": "ויזנו",
-      "gloss": "kag nagpakighalay"
+      "gloss": "kag nagpalaini"
     },
     {
       "surface": "כל",
-      "gloss": "tanan"
+      "gloss": "ang tanan"
     },
     {
       "surface": "ישראל",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "אחריו",
-      "gloss": "sa iya"
+      "gloss": "sa likod sini"
     },
     {
       "surface": "שם",
@@ -67,17 +67,17 @@
     },
     {
       "surface": "לגדעון",
-      "gloss": "kay Gidon"
+      "gloss": "para kay Gidyon"
     },
     {
       "surface": "ולביתו",
-      "gloss": "kag sa iya balay"
+      "gloss": "kag sa iya nga panimalay"
     },
     {
       "surface": "למוקש",
-      "gloss": "lit-ag"
+      "gloss": "nga manggalin"
     }
   ],
-  "timestamp": "2026-09-21T22:26:35.989169413Z",
+  "timestamp": "2026-09-25T09:37:07.837091554Z",
   "model": "glm-5.3"
 }

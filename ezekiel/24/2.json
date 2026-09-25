@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 24,
-  "translation": "Anak sang tawo, isulat mo ang ngalan sang adlaw, ⟨ang⟩ tuman nga adlaw ini: nagligtod ang hari sang Bavel sa tupad sang Yerushalayim sa tuman nga adlaw ini.",
+  "translation": "Anak sang tawo, isulat mo sa imo ⟨את⟩ sang ngalan sang adlaw, ⟨את⟩ sang bug-os gid nga adlaw ini — ang hari sang Bavel nagsandig sa diot sa Yerushalayim sa bug-os gid nga adlaw ini.",
   "tokens": [
     {
       "surface": "בן",
@@ -17,20 +17,20 @@
     },
     {
       "surface": "כתוב",
-      "gloss": "isulat mo"
+      "gloss": "isulat"
     },
     {
       "surface": "לך",
-      "gloss": "mo"
+      "gloss": "mo sa imo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang ngalan"
+      "marks": "sang ngalan"
     },
     {
       "surface": "שם",
-      "gloss": "ang ngalan"
+      "gloss": "sang ngalan"
     },
     {
       "surface": "היום",
@@ -39,11 +39,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang tuman nga adlaw"
+      "marks": "sang bug-os gid nga adlaw ini"
     },
     {
       "surface": "עצם",
-      "gloss": "ang tuman"
+      "gloss": "sang bug-os gid"
     },
     {
       "surface": "היום",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "סמך",
-      "gloss": "nagligtod"
+      "gloss": "nagsandig"
     },
     {
       "surface": "מלך",
@@ -67,15 +67,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "sa tupad"
+      "gloss": "sa diot sa"
     },
     {
       "surface": "ירושלם",
-      "gloss": "sang Yerushalayim"
+      "gloss": "Yerushalayim"
     },
     {
       "surface": "בעצם",
-      "gloss": "sa tuman"
+      "gloss": "sa bug-os gid"
     },
     {
       "surface": "היום",
@@ -86,6 +86,6 @@
       "gloss": "ini"
     }
   ],
-  "timestamp": "2026-09-21T19:50:59.533402857Z",
+  "timestamp": "2026-09-25T09:08:40.814117997Z",
   "model": "glm-5.3"
 }

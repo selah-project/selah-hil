@@ -5,16 +5,16 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 6,
-  "translation": "Kag ⟨את⟩ kita iya ginpagwa sa didto, agod ⟨את⟩ kita iya dalahon ⟨sa sulod⟩, sa paghatag sa aton sang duta nga iya ginsumpa sa aton mga amay.",
+  "translation": "Kag ⟨את⟩ kita ginpagwa niya sa didto, agod nga ipasulod niya ⟨את⟩ kita, sa paghatag sa aton sang ⟨את⟩ duta nga iya gpanumpalan sa aton mga katigulangan.",
   "tokens": [
     {
       "surface": "ואותנו",
       "gloss": "⟨את⟩ kita",
-      "marks": "kita (butang sang ginpagwa)"
+      "marks": "kita (gipagwa)"
     },
     {
       "surface": "הוציא",
-      "gloss": "iya ginpagwa"
+      "gloss": "ginpagwa"
     },
     {
       "surface": "משם",
@@ -22,16 +22,16 @@
     },
     {
       "surface": "למען",
-      "gloss": "agod"
+      "gloss": "agod nga"
     },
     {
       "surface": "הביא",
-      "gloss": "iya dalahon"
+      "gloss": "ipasulod"
     },
     {
       "surface": "אתנו",
       "gloss": "⟨את⟩ kita",
-      "marks": "kita (butang sang dalahon)"
+      "marks": "kita (ipasulod)"
     },
     {
       "surface": "לתת",
@@ -48,7 +48,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "ang duta"
+      "gloss": "duta"
     },
     {
       "surface": "אשר",
@@ -56,13 +56,13 @@
     },
     {
       "surface": "נשבע",
-      "gloss": "iya ginsumpa"
+      "gloss": "gpanumpalan"
     },
     {
       "surface": "לאבתינו",
-      "gloss": "sa aton mga amay"
+      "gloss": "sa aton mga katigulangan"
     }
   ],
-  "timestamp": "2026-09-21T17:19:41.585945461Z",
+  "timestamp": "2026-09-25T09:01:26.439315495Z",
   "model": "glm-5.3"
 }

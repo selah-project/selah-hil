@@ -5,20 +5,20 @@
   "book": "leviticus",
   "lang": "hil",
   "chapter": 24,
-  "translation": "Ipagwa ⟨את⟩ ang naglapastangan sa guwa sang kampo, kag itungtong sang tanan nga nakabati ⟨את⟩ ang ila mga kamot sa iya ulo, kag pagbatoan ⟨siya⟩ sang tanan nga katilingban.",
+  "translation": "Gwaa ang nanginlaum ⟨את⟩ ⟨ang⟩ tawo sa gwa sang kampo, kag itukod sang tanan nga nakabati ⟨את⟩ ang ila mga kamot sa iya ulo, kag bubatian sang bato ⟨את⟩ siya sang tanan nga katilingban.",
   "tokens": [
     {
       "surface": "הוצא",
-      "gloss": "Ipagwa"
+      "gloss": "Gwaa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang naglapastangan"
+      "marks": "⟨ang⟩ tawo"
     },
     {
       "surface": "המקלל",
-      "gloss": "ang naglapastangan"
+      "gloss": "ang nanginlaum ⟨ang⟩ tawo"
     },
     {
       "surface": "אל",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "מחוץ",
-      "gloss": "guwa"
+      "gloss": "gwa"
     },
     {
       "surface": "למחנה",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "וסמכו",
-      "gloss": "kag itungtong"
+      "gloss": "kag itukod"
     },
     {
       "surface": "כל",
-      "gloss": "tanan"
+      "gloss": "tanan nga"
     },
     {
       "surface": "השמעים",
-      "gloss": "nga nakabati"
+      "gloss": "nakabati"
     },
     {
       "surface": "את",
@@ -63,22 +63,21 @@
     },
     {
       "surface": "ורגמו",
-      "gloss": "kag pagbatoan"
+      "gloss": "kag bubatian sang bato"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "siya"
+      "gloss": "⟨את⟩ siya"
     },
     {
       "surface": "כל",
-      "gloss": "tanan"
+      "gloss": "tanan nga"
     },
     {
       "surface": "העדה",
-      "gloss": "nga katilingban"
+      "gloss": "katilingban"
     }
   ],
-  "timestamp": "2026-09-21T16:55:04.708240162Z",
+  "timestamp": "2026-09-25T09:40:39.139778344Z",
   "model": "glm-5.3"
 }

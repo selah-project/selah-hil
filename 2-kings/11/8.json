@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "hil",
   "chapter": 11,
-  "translation": "Kag palibutan ninyo ang hari sa palibot, tagsa ka tawo kag ang iya mga galamiton sa iya kamot, kag ang magasulod sa mga laray pagapatyon, kag magaupod kamo ⟨⟨את⟩ kaupod⟩ sang hari sa iya paggwa kag sa iya pagpalalob.",
+  "translation": "Kag pagpalibuti ninyo ang hari sa palibot, tagsa ka tawo kag ang iya mga galamiton sa iya kamot, kag ang magasulod sa mga laray pagapatyon; kag magakuyo kamo ⟨את⟩ ang hari sa iya paggwa kag sa iya pagpasulod.",
   "tokens": [
     {
       "surface": "והקפתם",
-      "gloss": "kag palibutan ninyo"
+      "gloss": "kag pagpalibuti ninyo"
     },
     {
       "surface": "על",
@@ -53,15 +53,16 @@
     },
     {
       "surface": "והיו",
-      "gloss": "kag magaupod kamo"
+      "gloss": "kag magakuyo kamo"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ kaupod"
+      "gloss": "⟨את⟩",
+      "marks": "ang hari"
     },
     {
       "surface": "המלך",
-      "gloss": "sang hari"
+      "gloss": "ang hari"
     },
     {
       "surface": "בצאתו",
@@ -69,9 +70,9 @@
     },
     {
       "surface": "ובבאו",
-      "gloss": "kag sa iya pagpalalob"
+      "gloss": "kag sa iya pagpasulod"
     }
   ],
-  "timestamp": "2026-09-21T18:43:35.563167259Z",
+  "timestamp": "2026-09-25T08:47:10.088273059Z",
   "model": "glm-5.3"
 }

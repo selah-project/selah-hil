@@ -5,24 +5,24 @@
   "book": "2-kings",
   "lang": "hil",
   "chapter": 13,
-  "translation": "Kag ginpangita ni Yehoachaz ⟨את⟩ ang panag-ang ni Yahweh, kag gintangan siya ni Yahweh, kay nakita niya ang paglutos sa Yisrael, kay ginpanglutos sang hari sang Aram ⟨אתם⟩ sila.",
+  "translation": "Kag ginpalum-ay ni Yehoachaz ⟨את⟩ ang dagway ni Yahweh, kag gintuman siya ni Yahweh, kay nakita niya ⟨את⟩ ang kagul-an sang Yisrael, kay ginpugos sang hari sang Aram ⟨אתם⟩.",
   "tokens": [
     {
       "surface": "ויחל",
-      "gloss": "kag ginpangita niya"
+      "gloss": "ginpalum-ay"
     },
     {
       "surface": "יהואחז",
-      "gloss": "si Yehoachaz"
+      "gloss": "ni Yehoachaz"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang panag-ang ni Yahweh"
+      "marks": "ang dagway"
     },
     {
       "surface": "פני",
-      "gloss": "ang panag-ang"
+      "gloss": "ang dagway"
     },
     {
       "surface": "יהוה",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "וישמע",
-      "gloss": "kag gintangan"
+      "gloss": "kag gintuman siya"
     },
     {
       "surface": "אליו",
@@ -51,15 +51,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang paglutos sa Yisrael"
+      "marks": "ang kagul-an"
     },
     {
       "surface": "לחץ",
-      "gloss": "ang paglutos"
+      "gloss": "ang kagul-an"
     },
     {
       "surface": "ישראל",
-      "gloss": "sa Yisrael"
+      "gloss": "sang Yisrael"
     },
     {
       "surface": "כי",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "לחץ",
-      "gloss": "ginpanglutos"
+      "gloss": "ginpugos"
     },
     {
       "surface": "אתם",
@@ -83,6 +83,6 @@
       "gloss": "sang Aram"
     }
   ],
-  "timestamp": "2026-09-21T18:46:06.025024682Z",
+  "timestamp": "2026-09-25T08:48:22.200106738Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "hil",
   "chapter": 20,
-  "translation": "Kag nagsinggit isa ka babaeng maalam gikan sa siyudad: Magpatalinghug kamo, magpatalinghug kamo, hambala ⟨giliwat⟩ sa Yoav: Palapit ka diri, agod makahambal ako sa imo.",
+  "translation": "Kag nagsinggit ang isa ka babaeng maalam halin sa siyudad: Magpatalinghaga kamo, magpatalinghaga kamo! Paningsa ninyo kay Yoav: Palapit ka diri, agod makahambal ako sa imo.",
   "tokens": [
     {
       "surface": "ותקרא",
-      "gloss": "nagsinggit"
+      "gloss": "kag nagsinggit"
     },
     {
       "surface": "אשה",
-      "gloss": "isa ka babaeng"
+      "gloss": "ang isa ka babae"
     },
     {
       "surface": "חכמה",
@@ -21,31 +21,31 @@
     },
     {
       "surface": "מן",
-      "gloss": "gikan sa"
+      "gloss": "halin"
     },
     {
       "surface": "העיר",
-      "gloss": "siyudad"
+      "gloss": "sa siyudad"
     },
     {
       "surface": "שמעו",
-      "gloss": "magpatalinghug kamo"
+      "gloss": "magpatalinghaga"
     },
     {
       "surface": "שמעו",
-      "gloss": "magpatalinghug kamo"
+      "gloss": "magpatalinghaga"
     },
     {
       "surface": "אמרו",
-      "gloss": "hambala"
+      "gloss": "paningsa ninyo"
     },
     {
       "surface": "נא",
-      "gloss": "⟨giliwat⟩"
+      "gloss": "⟨palihog⟩"
     },
     {
       "surface": "אל",
-      "gloss": "sa"
+      "gloss": "kay"
     },
     {
       "surface": "יואב",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "קרב",
-      "gloss": "palapit ka"
+      "gloss": "palapit"
     },
     {
       "surface": "עד",
-      "gloss": ""
+      "gloss": "öntil"
     },
     {
       "surface": "הנה",
@@ -72,6 +72,6 @@
       "gloss": "sa imo"
     }
   ],
-  "timestamp": "2026-09-21T22:28:46.719769534Z",
+  "timestamp": "2026-09-25T08:54:25.470029212Z",
   "model": "glm-5.3"
 }

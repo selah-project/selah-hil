@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 11,
-  "translation": "Indi ini maging kolon sa inyo, kag kamo ang magaestar sa sulod sini nga karne; sa utlanan sang Yisrael magahukum ako sa inyo.",
+  "translation": "Ina indi magakabuhi sa inyo subong kawa, kag kamo magakabuhi sa sulod sini nga karne; sa utlanan sang Yisrael pagahukman ko ⟨את⟩ kamo.",
   "tokens": [
     {
       "surface": "היא",
-      "gloss": "Ini"
+      "gloss": "Ina"
     },
     {
       "surface": "לא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תהיה",
-      "gloss": "maging"
+      "gloss": "magakabuhi"
     },
     {
       "surface": "לכם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לסיר",
-      "gloss": "kolon"
+      "gloss": "subong kawa"
     },
     {
       "surface": "ואתם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "תהיו",
-      "gloss": "magaestar"
+      "gloss": "magakabuhi"
     },
     {
       "surface": "בתוכה",
@@ -53,17 +53,18 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "sang Yisrael"
     },
     {
       "surface": "אשפט",
-      "gloss": "magahukum ako"
+      "gloss": "pagahukman ko"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ sa inyo"
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
     }
   ],
-  "timestamp": "2026-09-21T19:43:17.999524884Z",
+  "timestamp": "2026-09-25T09:07:50.376325883Z",
   "model": "glm-5.3"
 }

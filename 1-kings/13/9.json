@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "hil",
   "chapter": 13,
-  "translation": "Kay sa amo ginsogo ako sang pulong ni Yahweh, nga nagasiling: Indi ka magkaan sang tinapay kag indi ka mag-inom sang tubig, kag indi ka magbalik sa dalan nga imo ginkadtoan.",
+  "translation": "Kay amo ginsugo ako sang pamulong ni Yahweh, nga nagasiling: Indi ka magkaon sang tinapay kag indi ka mag-inom sang tubig, kag indi ka magbalik sa dalan nga imo ginalakat.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,20 +13,20 @@
     },
     {
       "surface": "כן",
-      "gloss": "sa amo"
+      "gloss": "amo"
     },
     {
       "surface": "צוה",
-      "gloss": "ginsogo"
+      "gloss": "ginsugo"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "sang pulong ni Yahweh"
+      "marks": "ako"
     },
     {
       "surface": "בדבר",
-      "gloss": "sang pulong"
+      "gloss": "sang pamulong"
     },
     {
       "surface": "יהוה",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "תאכל",
-      "gloss": "magkaan"
+      "gloss": "ka magkaon"
     },
     {
       "surface": "לחם",
-      "gloss": "tinapay"
+      "gloss": "sang tinapay"
     },
     {
       "surface": "ולא",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "תשתה",
-      "gloss": "mag-inom"
+      "gloss": "ka mag-inom"
     },
     {
       "surface": "מים",
-      "gloss": "tubig"
+      "gloss": "sang tubig"
     },
     {
       "surface": "ולא",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "תשוב",
-      "gloss": "magbalik"
+      "gloss": "ka magbalik"
     },
     {
       "surface": "בדרך",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "הלכת",
-      "gloss": "imo ginkadtoan"
+      "gloss": "imo ginalakat"
     }
   ],
-  "timestamp": "2026-09-21T18:32:33.481863733Z",
+  "timestamp": "2026-09-25T08:39:34.558828315Z",
   "model": "glm-5.3"
 }

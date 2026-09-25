@@ -5,24 +5,24 @@
   "book": "2-kings",
   "lang": "hil",
   "chapter": 18,
-  "translation": "kag indi ninyo pagtugutan nga pagtuoan kamo ni Khizkiyahu kay Yahweh, sa pagsiling nga, Luwason gayod nga luwason kami ni Yahweh, kag indi mahatag ⟨את⟩ ang ina nga lungsod sa kamot sang hari sang Ashur.",
+  "translation": "kag indi pagpasalig sa inyo hi Chizkiyahu kay Yahweh, nga nagasiling: Magaluwas gid si Yahweh sa aton, kag indi maitugyan ⟨את⟩ ang dakong ini sa kamot sang hari sang Ashshur.",
   "tokens": [
     {
       "surface": "ואל",
-      "gloss": "kag indi ninyo pagtugutan"
+      "gloss": "kag indi"
     },
     {
       "surface": "יבטח",
-      "gloss": "pagtuoan"
+      "gloss": "pagpasalig"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "kamo"
+      "marks": "Chizkiyahu"
     },
     {
       "surface": "חזקיהו",
-      "gloss": "ni Khizkiyahu"
+      "gloss": "Chizkiyahu"
     },
     {
       "surface": "אל",
@@ -34,19 +34,19 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "sa pagsiling nga"
+      "gloss": "nga nagasiling"
     },
     {
       "surface": "הצל",
-      "gloss": "Luwason gayod"
+      "gloss": "magaluwas"
     },
     {
       "surface": "יצילנו",
-      "gloss": "nga luwason kami"
+      "gloss": "gid sa aton"
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "si Yahweh"
     },
     {
       "surface": "ולא",
@@ -54,20 +54,20 @@
     },
     {
       "surface": "תנתן",
-      "gloss": "mahatag"
+      "gloss": "maitugyan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang ina nga lungsod"
+      "marks": "ang dakong ini"
     },
     {
       "surface": "העיר",
-      "gloss": "ang lungsod"
+      "gloss": "ang dakong"
     },
     {
       "surface": "הזאת",
-      "gloss": "ina"
+      "gloss": "ini"
     },
     {
       "surface": "ביד",
@@ -79,9 +79,9 @@
     },
     {
       "surface": "אשור",
-      "gloss": "sang Ashur"
+      "gloss": "sang Ashshur"
     }
   ],
-  "timestamp": "2026-09-21T18:49:06.678633334Z",
+  "timestamp": "2026-09-25T08:49:08.356133202Z",
   "model": "glm-5.3"
 }

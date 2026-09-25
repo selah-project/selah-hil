@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "hil",
   "chapter": 1,
-  "translation": "Kag nagsiling ang hari sa ila: Kuhaa uban sa inyo ⟨את⟩ ang mga sulugoon sang inyo agalon, kag patinduga ninyo si Shlomo nga akon anak sa akon pakang, kag dason ninyo ⟨אתו⟩ pakadto sa Gichon.",
+  "translation": "Kag nagsiling ang hari sa ila: Kuhaa ninyo kaupod ninyo ⟨את⟩ ang mga sulugoon sang inyo agalon, kag palangkoga ninyo ⟨את⟩ si Shelomoh nga akon anak sa mula nga akon, kag panaogon ninyo ⟨אתו⟩ siya sa Gichon.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "קחו",
-      "gloss": "kuhaa"
+      "gloss": "kuhaa ninyo"
     },
     {
       "surface": "עמכם",
-      "gloss": "uban sa inyo"
+      "gloss": "kaupod ninyo"
     },
     {
       "surface": "את",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "ang mga sulugoon"
+      "gloss": "mga sulugoon"
     },
     {
       "surface": "אדניכם",
@@ -42,16 +42,16 @@
     },
     {
       "surface": "והרכבתם",
-      "gloss": "kag patinduga ninyo"
+      "gloss": "kag palangkoga ninyo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "si Shlomo"
+      "marks": "si Shelomoh"
     },
     {
       "surface": "שלמה",
-      "gloss": "si Shlomo"
+      "gloss": "si Shelomoh"
     },
     {
       "surface": "בני",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "הפרדה",
-      "gloss": "akon pakang"
+      "gloss": "mula"
     },
     {
       "surface": "אשר",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "והורדתם",
-      "gloss": "kag dason ninyo"
+      "gloss": "kag panaogon ninyo"
     },
     {
       "surface": "אתו",
@@ -84,13 +84,13 @@
     },
     {
       "surface": "אל",
-      "gloss": "pakadto sa"
+      "gloss": "sa"
     },
     {
       "surface": "גחון",
       "gloss": "Gichon"
     }
   ],
-  "timestamp": "2026-09-21T18:26:09.761890487Z",
+  "timestamp": "2026-09-25T08:37:47.514812735Z",
   "model": "glm-5.3"
 }

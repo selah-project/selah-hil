@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "hil",
   "chapter": 19,
-  "translation": "Kag sa pag-ani ninyo ⟨sang⟩ ani sang inyo nga duta, indi ninyo pag-anihon sing bug-os ang kinatumyan sang imo nga uma sa pag-ani, kag ang natimbaw sang imo nga ani indi nimo pagtipunan.",
+  "translation": "Kag kon magaaní kamo ⟨sa⟩ ⟨את⟩ ang ani sang inyo duta, indi ninyo pagtapos-anihon ang kilid sang inyo uma sa pagani, kag ang nahulog nga ani sang inyo pagaani indi ninyo pagpuniton.",
   "tokens": [
     {
       "surface": "ובקצרכם",
-      "gloss": "kag sa pag-ani ninyo"
+      "gloss": "kag kon magaaní kamo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ani"
+      "marks": "ang ani"
     },
     {
       "surface": "קציר",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "ארצכם",
-      "gloss": "sang inyo nga duta"
+      "gloss": "sang inyo duta"
     },
     {
       "surface": "לא",
@@ -30,27 +30,27 @@
     },
     {
       "surface": "תכלה",
-      "gloss": "pag-anihon sing bug-os"
+      "gloss": "pagtapos-anihon"
     },
     {
       "surface": "פאת",
-      "gloss": "ang kinatumyan"
+      "gloss": "kilid"
     },
     {
       "surface": "שדך",
-      "gloss": "sang imo nga uma"
+      "gloss": "sang inyo uma"
     },
     {
       "surface": "לקצר",
-      "gloss": "sa pag-ani"
+      "gloss": "sa pagani"
     },
     {
       "surface": "ולקט",
-      "gloss": "kag ang natimbaw"
+      "gloss": "kag ang nahulog nga ani"
     },
     {
       "surface": "קצירך",
-      "gloss": "sang imo nga ani"
+      "gloss": "sang inyo pagaani"
     },
     {
       "surface": "לא",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "תלקט",
-      "gloss": "pagtipunan"
+      "gloss": "pagpuniton"
     }
   ],
-  "timestamp": "2026-09-21T16:50:07.020644593Z",
+  "timestamp": "2026-09-25T09:37:46.395051620Z",
   "model": "glm-5.3"
 }

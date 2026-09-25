@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "hil",
   "chapter": 11,
-  "translation": "Kag sa ikapito nga tuig ginpadala ni Yehoyada kag ginkuha niya ⟨את⟩ ang mga kapitan sang mga gatos ka tawo, sang mga Kari kag sang mga bantay, kag gindala niya sila sa iya sa balay ni Yahweh, kag nagtipan siya sa ila sang kasugtanan, kag ginpanumpa niya sila sa balay ni Yahweh, kag ginpakita niya sa ila ⟨את⟩ ang anak sang hari.",
+  "translation": "Kag sa ikapito nga tuig, ginpadian ni Yehoyada kag ginkuha ⟨את⟩ ang mga pangulo sang mga gatos, sang mga Kari kag sang mga manogdalagan, kag ginpasulod niya ⟨את⟩ sila sa iya, sa balay ni Yahweh, kag naghinimo siya sang kasugtanan sa ila, kag ginpampanumpa niya ⟨את⟩ sila sa balay ni Yahweh, kag ginpakita niya ⟨את⟩ sila ⟨את⟩ ang anak sang hari.",
   "tokens": [
     {
       "surface": "ובשנה",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "השביעית",
-      "gloss": "ikapito"
+      "gloss": "ikapito nga"
     },
     {
       "surface": "שלח",
-      "gloss": "ginpadala"
+      "gloss": "ginpadian"
     },
     {
       "surface": "יהוידע",
-      "gloss": "Yehoyada"
+      "gloss": "ni Yehoyada"
     },
     {
       "surface": "ויקח",
@@ -30,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang mga kapitan sang mga gatos"
+      "marks": "mga pangulo sang mga gatos"
     },
     {
       "surface": "שרי",
-      "gloss": "mga kapitan"
+      "gloss": "mga pangulo"
     },
     {
       "surface": "המאיות",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "ולרצים",
-      "gloss": "kag sang mga bantay"
+      "gloss": "kag sang mga manogdalagan"
     },
     {
       "surface": "ויבא",
-      "gloss": "kag gindala"
+      "gloss": "kag ginpasulod"
     },
     {
       "surface": "אתם",
@@ -63,15 +63,15 @@
     },
     {
       "surface": "בית",
-      "gloss": "balay"
+      "gloss": "sa balay"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "ויכרת",
-      "gloss": "kag nagtipan"
+      "gloss": "kag naghinimo"
     },
     {
       "surface": "להם",
@@ -79,11 +79,11 @@
     },
     {
       "surface": "ברית",
-      "gloss": "kasugtanan"
+      "gloss": "sang kasugtanan"
     },
     {
       "surface": "וישבע",
-      "gloss": "kag ginpanumpa"
+      "gloss": "kag ginpampanumpa"
     },
     {
       "surface": "אתם",
@@ -96,7 +96,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "וירא",
@@ -110,17 +110,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang anak sang hari"
+      "marks": "anak sang hari"
     },
     {
       "surface": "בן",
-      "gloss": "anak"
+      "gloss": "ang anak"
     },
     {
       "surface": "המלך",
       "gloss": "sang hari"
     }
   ],
-  "timestamp": "2026-09-21T22:30:43.087395479Z",
+  "timestamp": "2026-09-25T08:48:53.034322252Z",
   "model": "glm-5.3"
 }

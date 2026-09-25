@@ -5,12 +5,12 @@
   "book": "leviticus",
   "lang": "hil",
   "chapter": 10,
-  "translation": "Kag ⟨את⟩ ang dughan sang gintabyug kag ⟨את⟩ ang pa-id sang ginhatag nga halad kamon magakaon sa malinis nga duog — ikaw kag imo mga anak nga lalaki kag imo mga anak nga babayi nga kaupod sa imo, kay imo bahin kag bahin sang imo mga anak ini, ginhatag gikan sa mga halad sang pakig-dait sang mga anak nga lalaki sang Yisrael.",
+  "translation": "Kag ⟨את⟩ ang dughan sang pagpanukad kag ⟨את⟩ ang paa sang terumah kamon magakaon sa malinig nga duog — ikaw, kag ang imo mga anak nga lalaki, kag ang imo mga anak nga babayi kaupod nimo; kay subong sang imo bahin kag sang bahin sang imo mga anak ina ginahatag halin sa mga halad sang kalinong sang mga anak nga Yisrael.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang dughan sang gintabyug"
+      "marks": "ang dughan"
     },
     {
       "surface": "חזה",
@@ -18,20 +18,20 @@
     },
     {
       "surface": "התנופה",
-      "gloss": "sang gintabyug"
+      "gloss": "sang pagpanukad"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang pa-id sang ginhatag nga halad"
+      "marks": "ang paa"
     },
     {
       "surface": "שוק",
-      "gloss": "pa-id"
+      "gloss": "paa"
     },
     {
       "surface": "התרומה",
-      "gloss": "sang ginhatag nga halad"
+      "gloss": "sang terumah"
     },
     {
       "surface": "תאכלו",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "טהור",
-      "gloss": "malinis"
+      "gloss": "malinig"
     },
     {
       "surface": "אתה",
@@ -51,15 +51,15 @@
     },
     {
       "surface": "ובניך",
-      "gloss": "kag imo mga anak nga lalaki"
+      "gloss": "kag ang imo mga anak nga lalaki"
     },
     {
       "surface": "ובנתיך",
-      "gloss": "kag imo mga anak nga babayi"
+      "gloss": "kag ang imo mga anak nga babayi"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ kaupod sa imo"
+      "gloss": "⟨את⟩ kaupod nimo"
     },
     {
       "surface": "כי",
@@ -67,11 +67,11 @@
     },
     {
       "surface": "חקך",
-      "gloss": "imo bahin"
+      "gloss": "sang imo bahin"
     },
     {
       "surface": "וחק",
-      "gloss": "kag bahin"
+      "gloss": "kag sang bahin"
     },
     {
       "surface": "בניך",
@@ -79,25 +79,25 @@
     },
     {
       "surface": "נתנו",
-      "gloss": "ginhatag"
+      "gloss": "ginahatag"
     },
     {
       "surface": "מזבחי",
-      "gloss": "gikan sa mga halad"
+      "gloss": "halin sa mga halad"
     },
     {
       "surface": "שלמי",
-      "gloss": "sang pakig-dait"
+      "gloss": "sang kalinong"
     },
     {
       "surface": "בני",
-      "gloss": "sang mga anak nga lalaki"
+      "gloss": "sang mga anak nga"
     },
     {
       "surface": "ישראל",
-      "gloss": "sang Yisrael"
+      "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-09-21T16:46:44.322879453Z",
+  "timestamp": "2026-09-25T09:39:46.741754165Z",
   "model": "glm-5.3"
 }

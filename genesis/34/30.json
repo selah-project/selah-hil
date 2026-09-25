@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 34,
-  "translation": "Kag nagsiling si Yaakov kay Shim'on kag kay Levi: Ginagub-a ninyo ako, sa pagpaham-it sa akon sa mga pumoluyo sang duta, sa mga Kanaanan kag sa mga Perizzi; kag ako mga tawo nga bilang gid lang, kag kon magtipon sila batok sa akon kag magapapatay sa akon, magagun-ob ako nga ako kag ang akon balay",
+  "translation": "Kag nagsiling si Yaakov kay Shim'on kag kay Levi: Ginakalagut ninyo ⟨את⟩ ako, sa pagpabaho sang akon ngalan sa mga pumoluyo sang duta, sa mga Kanaanan kag sa mga Perizzi; kag ako ⟨mga tawo⟩ nga bilang lamang, kag magatipon sila batok sa akon kag pagalagason ako, kag mapierde ako kag ang akon balay.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Kag nagsiling"
+      "gloss": "kag nagsiling"
     },
     {
       "surface": "יעקב",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "שמעון",
-      "gloss": "si Shim'on"
+      "gloss": "Shim'on"
     },
     {
       "surface": "ואל",
@@ -33,15 +33,16 @@
     },
     {
       "surface": "עכרתם",
-      "gloss": "Ginagub-a ninyo"
+      "gloss": "ginakalagut ninyo"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ ako"
+      "gloss": "⟨את⟩",
+      "marks": "ako"
     },
     {
       "surface": "להבאישני",
-      "gloss": "sa pagpaham-it sa akon"
+      "gloss": "sa pagpabaho sang akon ngalan"
     },
     {
       "surface": "בישב",
@@ -69,11 +70,11 @@
     },
     {
       "surface": "מספר",
-      "gloss": "nga bilang gid lang"
+      "gloss": "nga bilang lamang"
     },
     {
       "surface": "ונאספו",
-      "gloss": "kag kon magtipon sila"
+      "gloss": "kag magatipon sila"
     },
     {
       "surface": "עלי",
@@ -81,21 +82,21 @@
     },
     {
       "surface": "והכוני",
-      "gloss": "kag magapapatay sa akon"
+      "gloss": "kag pagalagason ako"
     },
     {
       "surface": "ונשמדתי",
-      "gloss": "magagun-ob"
+      "gloss": "kag mapierde ako"
     },
     {
       "surface": "אני",
-      "gloss": "ako nga ako"
+      "gloss": "ako"
     },
     {
       "surface": "וביתי",
       "gloss": "kag ang akon balay"
     }
   ],
-  "timestamp": "2026-09-21T16:11:44.904648485Z",
+  "timestamp": "2026-09-25T09:18:57.339491364Z",
   "model": "glm-5.3"
 }

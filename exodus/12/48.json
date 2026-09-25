@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "hil",
   "chapter": 12,
-  "translation": "Kag kon may dayuhu nga magaestar sa imo ⟨אתך⟩ kag magahimo sang Pesach kay Yahweh, tuli-on ang tanan nga lalaki sini, kag sa sini nga tion magapalapit siya sa paghimo sini ⟨אתו⟩, kag magaanggid siya sa tumandok nga natawo sa duta; apang ang bisan sin-o nga ginapaele indi magakaon sini.",
+  "translation": "Kag kon magdayo ang isa ka dayo ⟨את⟩ kanimo kag magahimo sang Pesach kay Yahweh, ipatuli ang tanan nga lalaki nga iya, kag dayon magapalapit siya sa paghimo sini, kag magahimo siya nga pareho sang tagduta nga natawo sa duta; kag ang tanan nga wala natuli indi makakaon sini.",
   "tokens": [
     {
       "surface": "וכי",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "יגור",
-      "gloss": "magaestar"
+      "gloss": "magdayo"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨אתך⟩",
-      "marks": "sa imo"
+      "gloss": "⟨את⟩ kanimo",
+      "marks": "ang dayo"
     },
     {
       "surface": "גר",
-      "gloss": "dayuhu"
+      "gloss": "dayo"
     },
     {
       "surface": "ועשה",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "פסח",
-      "gloss": "sang Pesach"
+      "gloss": "Pesach"
     },
     {
       "surface": "ליהוה",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "המול",
-      "gloss": "tuli-on"
+      "gloss": "ipatuli"
     },
     {
       "surface": "לו",
-      "gloss": "sini"
+      "gloss": "iya"
     },
     {
       "surface": "כל",
-      "gloss": "ang tanan"
+      "gloss": "tanan"
     },
     {
       "surface": "זכר",
@@ -54,35 +54,35 @@
     },
     {
       "surface": "ואז",
-      "gloss": "kag sa sini nga tion"
+      "gloss": "kag dayon"
     },
     {
       "surface": "יקרב",
-      "gloss": "magapalapit siya"
+      "gloss": "magapalapit"
     },
     {
       "surface": "לעשתו",
-      "gloss": "sa paghimo sini ⟨אתו⟩"
+      "gloss": "sa paghimo sini"
     },
     {
       "surface": "והיה",
-      "gloss": "kag magaangkid siya"
+      "gloss": "kag magahimo siya"
     },
     {
       "surface": "כאזרח",
-      "gloss": "sa tumandok"
+      "gloss": "pareho sang tagduta nga natawo"
     },
     {
       "surface": "הארץ",
-      "gloss": "natawo sa duta"
+      "gloss": "sa duta"
     },
     {
       "surface": "וכל",
-      "gloss": "apang ang bisan sin-o"
+      "gloss": "kag ang tanan"
     },
     {
       "surface": "ערל",
-      "gloss": "nga ginapaele"
+      "gloss": "nga wala natuli"
     },
     {
       "surface": "לא",
@@ -90,13 +90,13 @@
     },
     {
       "surface": "יאכל",
-      "gloss": "magakaon"
+      "gloss": "makakaon"
     },
     {
       "surface": "בו",
       "gloss": "sini"
     }
   ],
-  "timestamp": "2026-09-21T16:25:24.762215151Z",
+  "timestamp": "2026-09-25T09:02:49.188739109Z",
   "model": "glm-5.3"
 }

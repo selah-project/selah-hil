@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 3,
-  "translation": "Kag sugiri ⟨את⟩ si Yehoshua, kag palig-una siya kag paganusa siya, kay siya ang magatabok sa atubangan sang ini nga katawhan, kag siya ang magapamanahon sa ila ⟨את⟩ ang duta nga imo makita.",
+  "translation": "Kag sugiri si Yehoshua, kag palig-ona siya kag pagmalig-onon siya, kay siya ang magaabante sa atubang sang katawhan nga ini, kag siya ang magapaman-ang ⟨את⟩ ⟨אותם⟩ sang ⟨את⟩ ang duta nga imo makikita.",
   "tokens": [
     {
       "surface": "וצו",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "וחזקהו",
-      "gloss": "kag palig-una siya"
+      "gloss": "kag palig-ona siya"
     },
     {
       "surface": "ואמצהו",
-      "gloss": "kag paganusa siya"
+      "gloss": "kag pagmalig-onon siya"
     },
     {
       "surface": "כי",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "יעבר",
-      "gloss": "magatabok"
+      "gloss": "magaabante \/ magaabante"
     },
     {
       "surface": "לפני",
-      "gloss": "sa atubangan sang"
+      "gloss": "sa atubang sang"
     },
     {
       "surface": "העם",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "הזה",
-      "gloss": "ini"
+      "gloss": "nga ini"
     },
     {
       "surface": "והוא",
@@ -58,12 +58,12 @@
     },
     {
       "surface": "ינחיל",
-      "gloss": "magapamanahon"
+      "gloss": "magapaman-ang"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "sa ila"
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "sila (ang katawhan)"
     },
     {
       "surface": "את",
@@ -80,9 +80,9 @@
     },
     {
       "surface": "תראה",
-      "gloss": "imo makita"
+      "gloss": "imo makikita"
     }
   ],
-  "timestamp": "2026-09-21T17:18:29.666911445Z",
+  "timestamp": "2026-09-25T08:56:48.560982208Z",
   "model": "glm-5.3"
 }

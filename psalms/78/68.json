@@ -5,24 +5,24 @@
   "book": "psalms",
   "lang": "hil",
   "chapter": 78,
-  "translation": "Kundi ginpili niya ⟨את⟩ ang tribo ni Yehudah, ⟨את⟩ ang bukid sang Tsiyon nga iya ginhigugma.",
+  "translation": "Kag ginpilian niya ⟨את⟩ ang tribo sang Yehudah, ⟨את⟩ ang bukid sang Tsiyon nga iya ginhigugma.",
   "tokens": [
     {
       "surface": "ויבחר",
-      "gloss": "kung indi ginpili niya"
+      "gloss": "ginpilian"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang tribo ni Yehudah"
+      "marks": "ang tribo sang Yehudah"
     },
     {
       "surface": "שבט",
-      "gloss": "ang tribo"
+      "gloss": "tribo"
     },
     {
       "surface": "יהודה",
-      "gloss": "ni Yehudah"
+      "gloss": "Yehudah"
     },
     {
       "surface": "את",
@@ -31,11 +31,11 @@
     },
     {
       "surface": "הר",
-      "gloss": "ang bukid"
+      "gloss": "bukid"
     },
     {
       "surface": "ציון",
-      "gloss": "sang Tsiyon"
+      "gloss": "Tsiyon"
     },
     {
       "surface": "אשר",
@@ -43,9 +43,9 @@
     },
     {
       "surface": "אהב",
-      "gloss": "iya ginhigugma"
+      "gloss": "ginhigugma"
     }
   ],
-  "timestamp": "2026-09-21T20:40:03.456451777Z",
+  "timestamp": "2026-09-25T09:48:53.354549500Z",
   "model": "glm-5.3"
 }

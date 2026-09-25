@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "hil",
   "chapter": 15,
-  "translation": "Kag nagsiling si David sa iya: Kon magtabok ka ⟨upod sa akon⟩, kag magakabuhi ka nga palan-at sa akon.",
+  "translation": "Kag nagsiling si David sa iya: Kon mag-upod ka ⟨את⟩ sa akon, magakabig ikaw sa akon nga pabug-at.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "kag nagsiling"
+      "gloss": "Kag nagsiling"
     },
     {
       "surface": "לו",
@@ -21,20 +21,20 @@
     },
     {
       "surface": "אם",
-      "gloss": "kon"
+      "gloss": "Kon"
     },
     {
       "surface": "עברת",
-      "gloss": "magtabok ka"
+      "gloss": "mag-upod ka"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ upod sa akon",
-      "marks": "upod sa akon"
+      "gloss": "⟨את⟩ sa akon",
+      "marks": "mag-upod ka ⟨את⟩ sa akon — ang marka nagatudlo sa 'ka' (ang nagakaupod)"
     },
     {
       "surface": "והית",
-      "gloss": "kag magakabuhi ka"
+      "gloss": "magakabig ikaw"
     },
     {
       "surface": "עלי",
@@ -42,9 +42,9 @@
     },
     {
       "surface": "למשא",
-      "gloss": "nga palan-at"
+      "gloss": "nga pabug-at"
     }
   ],
-  "timestamp": "2026-09-21T18:19:48.344820779Z",
+  "timestamp": "2026-09-25T08:51:09.451127663Z",
   "model": "glm-5.3"
 }

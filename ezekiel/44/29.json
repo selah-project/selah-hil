@@ -5,19 +5,19 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 44,
-  "translation": "Ang halad nga harina kag ang halad sang sala kag ang halad sang utang — sila <ang> magakaon sini; kag tanan nga ginbugkos sa Yisrael, sa ila <magaalintoto>.",
+  "translation": "Ang halad, kag ang halad tungà sa sala, kag ang halad tungà sa salâ — sila ang magakaon sini; kag ang tanan nga ginhalad sing bug-os sa Yisrael sa ila magakabuhi.",
   "tokens": [
     {
       "surface": "המנחה",
-      "gloss": "ang halad nga harina"
+      "gloss": "ang halad"
     },
     {
       "surface": "והחטאת",
-      "gloss": "kag ang halad sang sala"
+      "gloss": "kag ang halad tungà sa sala"
     },
     {
       "surface": "והאשם",
-      "gloss": "kag ang halad sang utang"
+      "gloss": "kag ang halad tungà sa salâ"
     },
     {
       "surface": "המה",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "יאכלום",
-      "gloss": "magakaon sini"
+      "gloss": "ang magakaon sini"
     },
     {
       "surface": "וכל",
-      "gloss": "kag tanan"
+      "gloss": "kag ang tanan"
     },
     {
       "surface": "חרם",
-      "gloss": "ginbugkos"
+      "gloss": "ginhalad sing bug-os"
     },
     {
       "surface": "בישראל",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "magaalintoto"
+      "gloss": "magakabuhi"
     }
   ],
-  "timestamp": "2026-09-21T20:01:28.217747483Z",
+  "timestamp": "2026-09-25T09:53:18.997895313Z",
   "model": "glm-5.3"
 }

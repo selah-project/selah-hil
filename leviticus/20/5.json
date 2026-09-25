@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "hil",
   "chapter": 20,
-  "translation": "Kag ibutang ko ang akon dagway batok sa tawo nga ina kag sa iya banwa, kag putlon ko siya, kag ⟨את⟩ tanan nga nagapangabaybay suno sa iya, sa pagpangabaybay suno sa Molekh, tunga sang ila katawhan.",
+  "translation": "Magabutang ako sang akon panagway batok sa tawo nga ina kag sa iya pamilya, kag ukuron ko ⟨את⟩ siya kag ⟨את⟩ tanan nga nagapanawas suno sa iya sa pagpanawas suno sang Molekh, hali sa tunga sang ila katawhan.",
   "tokens": [
     {
       "surface": "ושמתי",
-      "gloss": "kag ibutang"
+      "gloss": "kag magabutang"
     },
     {
       "surface": "אני",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang akon dagway"
+      "marks": "akon panagway"
     },
     {
       "surface": "פני",
-      "gloss": "ang akon dagway"
+      "gloss": "panagway"
     },
     {
       "surface": "באיש",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "ובמשפחתו",
-      "gloss": "kag sa iya banwa"
+      "gloss": "kag sa iya pamilya"
     },
     {
       "surface": "והכרתי",
-      "gloss": "kag putlon ko"
+      "gloss": "kag ukuron ko"
     },
     {
       "surface": "אתו",
@@ -48,7 +48,7 @@
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "tanan nga nagapangabaybay"
+      "marks": "tanan"
     },
     {
       "surface": "כל",
@@ -56,7 +56,7 @@
     },
     {
       "surface": "הזנים",
-      "gloss": "nga nagapangabaybay"
+      "gloss": "ang mga nagapanawas"
     },
     {
       "surface": "אחריו",
@@ -64,7 +64,7 @@
     },
     {
       "surface": "לזנות",
-      "gloss": "sa pagpangabaybay"
+      "gloss": "sa pagpanawas"
     },
     {
       "surface": "אחרי",
@@ -72,17 +72,17 @@
     },
     {
       "surface": "המלך",
-      "gloss": "Molekh"
+      "gloss": "sang Molekh"
     },
     {
       "surface": "מקרב",
-      "gloss": "tunga sang"
+      "gloss": "hali sa tunga"
     },
     {
       "surface": "עמם",
-      "gloss": "ila katawhan"
+      "gloss": "sang ila katawhan"
     }
   ],
-  "timestamp": "2026-09-21T16:53:00.316838450Z",
+  "timestamp": "2026-09-25T09:39:09.757957402Z",
   "model": "glm-5.3"
 }

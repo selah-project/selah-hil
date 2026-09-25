@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "hil",
   "chapter": 8,
-  "translation": "Kuhaa si Aharon kag ⟨את⟩ ang iya mga anak nga lalaki ⟨את⟩ kaupod niya, kag ⟨את⟩ ang mga bado, kag ⟨את⟩ ang lana sang paglahid, kag ⟨את⟩ ang baka sang halad sa sala, kag ⟨את⟩ ang duha ka karnero, kag ⟨את⟩ ang bakol sang mga tinapay nga wala sing lebadura,",
+  "translation": "Kuhaa ⟨את⟩ si Aharon kag ⟨את⟩ iya mga anak ⟨את⟩ kaupod niya, kag ⟨את⟩ ang mga bado, kag ⟨את⟩ ang lana sang pagpahid, kag ⟨את⟩ ang baka sang halad sang sala, kag ⟨את⟩ ang duha ka karnero, kag ⟨את⟩ ang bakag sang mga matzot.",
   "tokens": [
     {
       "surface": "קח",
@@ -18,16 +18,16 @@
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharon"
+      "gloss": "si Aharon"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang iya mga anak nga lalaki"
+      "marks": "iya mga anak"
     },
     {
       "surface": "בניו",
-      "gloss": "ang iya mga anak nga lalaki"
+      "gloss": "iya mga anak"
     },
     {
       "surface": "אתו",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "המשחה",
-      "gloss": "sang paglahid"
+      "gloss": "sang pagpahid"
     },
     {
       "surface": "ואת",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "החטאת",
-      "gloss": "sang halad sa sala"
+      "gloss": "sang halad sang sala"
     },
     {
       "surface": "ואת",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "שני",
-      "gloss": "duha"
+      "gloss": "ang duha"
     },
     {
       "surface": "האילים",
@@ -84,17 +84,17 @@
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang bakol"
+      "marks": "ang bakag"
     },
     {
       "surface": "סל",
-      "gloss": "ang bakol"
+      "gloss": "ang bakag"
     },
     {
       "surface": "המצות",
-      "gloss": "sang mga tinapay nga wala sing lebadura"
+      "gloss": "sang mga matzot"
     }
   ],
-  "timestamp": "2026-09-21T16:44:47.491500647Z",
+  "timestamp": "2026-09-25T09:40:47.714814642Z",
   "model": "glm-5.3"
 }

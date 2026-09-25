@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 42,
-  "translation": "Kag nagsiling si Reuven sa iya amay, nga nagahambal: ⟨את⟩ ang akon duha ka anak nga lalaki imo pagapatay kon indi ko siya dad-on sa imo; ihatag mo siya sa akon kamot, kag ako magapabalik sa iya sa imo.",
+  "translation": "Kag nagsiling si Reuven sa iya amay, nga nagahambal: Ang akon duha ka anak nga lalaki imo pagapatyon kon indi ko siya pagadalaon sa imo; ihatag mo siya sa akon kamot, kag ako ang magapabalik sa iya sa imo.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -30,7 +30,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang akon duha ka anak nga lalaki"
+      "marks": "duha ka anak nga lalaki"
     },
     {
       "surface": "שני",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "בני",
-      "gloss": "ka anak nga lalaki"
+      "gloss": "ka anak nga lalaki — akon"
     },
     {
       "surface": "תמית",
-      "gloss": "imo pagapatay"
+      "gloss": "imo pagapatyon"
     },
     {
       "surface": "אם",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "אביאנו",
-      "gloss": "ko siya dad-on"
+      "gloss": "ko siya pagadalaon"
     },
     {
       "surface": "אליך",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ siya",
+      "gloss": "siya ⟨אתו⟩",
       "marks": "siya (si Binyamin)"
     },
     {
@@ -83,13 +83,13 @@
     },
     {
       "surface": "אשיבנו",
-      "gloss": "magapabalik sa iya"
+      "gloss": "ang magapabalik sa iya"
     },
     {
       "surface": "אליך",
       "gloss": "sa imo"
     }
   ],
-  "timestamp": "2026-09-21T16:14:43.272185431Z",
+  "timestamp": "2026-09-25T09:18:10.956731255Z",
   "model": "glm-5.3"
 }

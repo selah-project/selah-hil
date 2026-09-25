@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "hil",
   "chapter": 3,
-  "translation": "Kag wala na siya makasabat kay Avner ⟨sa⟩ bisan isa ka pulong, tungod sang kahadlok niya ⟨sa iya⟩ ⟨את⟩.",
+  "translation": "Kag wala na siya makahimo pa sa pagbatos ⟨את⟩ kay Avner sang isa ka pulong, tungod sang iya pagkahadlok ⟨את⟩ sa iya.",
   "tokens": [
     {
       "surface": "ולא",
@@ -13,20 +13,20 @@
     },
     {
       "surface": "יכל",
-      "gloss": "maka-"
+      "gloss": "makahimo"
     },
     {
       "surface": "עוד",
-      "gloss": "na"
+      "gloss": "pa"
     },
     {
       "surface": "להשיב",
-      "gloss": "makasabat"
+      "gloss": "sa pagbatos"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "si Avner"
+      "marks": "kay Avner"
     },
     {
       "surface": "אבנר",
@@ -34,17 +34,18 @@
     },
     {
       "surface": "דבר",
-      "gloss": "bisan isa ka pulong"
+      "gloss": "pulong"
     },
     {
       "surface": "מיראתו",
-      "gloss": "tungod sang kahadlok niya"
+      "gloss": "tungod sang iya pagkahadlok"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "iya"
     }
   ],
-  "timestamp": "2026-09-21T18:13:12.038869112Z",
+  "timestamp": "2026-09-25T08:53:43.561825477Z",
   "model": "glm-5.3"
 }

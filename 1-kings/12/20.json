@@ -5,19 +5,19 @@
   "book": "1-kings",
   "lang": "hil",
   "chapter": 12,
-  "translation": "Kag nagatabo, sang madunggan sang tanan nga Yisreal nga nagbalik si Yeravam, nagsugo sila kag gintawag nila ⟨siya⟩ sa katilingban, kag ginhari nila ⟨siya⟩ sa tanan nga Yisrael; wala sing nagsunod sa balay ni David gawas lang sa tribo sang Yehudah nga bug-os lamang.",
+  "translation": "Kag natabo, sang madungog sang tanan nga Yisrael nga nagbalik si Yaravam, ginpadianoddayon nila kag gintawag sia ⟨את⟩ ngadto sa katilingban, kag ginhimo nila nga hari ⟨את⟩ sia sa bug-os nga Yisrael; wala sing nakasunod sa balay ni David, luwas lamang sa tribo sang Yehudah.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "kag nagatabo"
+      "gloss": "kag natabo"
     },
     {
       "surface": "כשמע",
-      "gloss": "sang madunggan"
+      "gloss": "sang madungog"
     },
     {
       "surface": "כל",
-      "gloss": "sang tanan nga"
+      "gloss": "tanan nga"
     },
     {
       "surface": "ישראל",
@@ -29,28 +29,28 @@
     },
     {
       "surface": "שב",
-      "gloss": "nga nagbalik"
+      "gloss": "nagbalik"
     },
     {
       "surface": "ירבעם",
-      "gloss": "si Yeravam"
+      "gloss": "si Yaravam"
     },
     {
       "surface": "וישלחו",
-      "gloss": "nagsugo sila"
+      "gloss": "ginpadianoddayon nila"
     },
     {
       "surface": "ויקראו",
-      "gloss": "kag gintawag nila"
+      "gloss": "kag gintawag"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "si Yeravam"
+      "marks": "sia (si Yaravam)"
     },
     {
       "surface": "אל",
-      "gloss": "sa"
+      "gloss": "ngadto sa"
     },
     {
       "surface": "העדה",
@@ -58,12 +58,12 @@
     },
     {
       "surface": "וימליכו",
-      "gloss": "kag ginhari nila"
+      "gloss": "kag ginhimo nila nga hari"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "si Yeravam"
+      "marks": "sia (si Yaravam)"
     },
     {
       "surface": "על",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "tanan nga"
+      "gloss": "bug-os nga"
     },
     {
       "surface": "ישראל",
@@ -79,19 +79,19 @@
     },
     {
       "surface": "לא",
-      "gloss": "wala sing"
+      "gloss": "wala"
     },
     {
       "surface": "היה",
-      "gloss": "nangin"
+      "gloss": "sing"
     },
     {
       "surface": "אחרי",
-      "gloss": "nagsunod"
+      "gloss": "nakasunod"
     },
     {
       "surface": "בית",
-      "gloss": "sa balay"
+      "gloss": "balay"
     },
     {
       "surface": "דוד",
@@ -99,11 +99,11 @@
     },
     {
       "surface": "זולתי",
-      "gloss": "gawas lang"
+      "gloss": "luwas"
     },
     {
       "surface": "שבט",
-      "gloss": "sa tribo"
+      "gloss": "tribo"
     },
     {
       "surface": "יהודה",
@@ -111,9 +111,9 @@
     },
     {
       "surface": "לבדו",
-      "gloss": "nga bug-os lamang"
+      "gloss": "lamang"
     }
   ],
-  "timestamp": "2026-09-21T18:32:23.000324275Z",
+  "timestamp": "2026-09-25T08:40:37.271761855Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "hil",
   "chapter": 18,
-  "translation": "Kag nagtindog ang mga tawo kag naglakat; kag ginsugo ni Yehoshua ⟨את⟩ ang mga nagalakat sa pagsulat sang duta, nga nagaingon: Lakat kag libot sang duta kag isulat ninyo ⟨את⟩ ina kag magbalik sa akon, kag diri aku magapahulag sang palad sa inyo sa atubangan ni Yahweh sa Shiloh.",
+  "translation": "Kag nagtindog ang mga tawo kag nanglakat; kag nagmando si Yehoshua ⟨את⟩ ang mga magaalalad sa pagsulat ⟨את⟩ sang duta, nga nagasiling: Lakat kag pangalagkat kamo sa duta, kag isulat ninyo ⟨את⟩ ini, kag magbalik kamo sa akon, kag diri itudlo ko sa inyo ang goloral sa atubang ni Yahweh sa Shiloh.",
   "tokens": [
     {
       "surface": "ויקמו",
-      "gloss": "Kag nagtindog"
+      "gloss": "nagtindog"
     },
     {
       "surface": "האנשים",
@@ -17,24 +17,24 @@
     },
     {
       "surface": "וילכו",
-      "gloss": "kag naglakat"
+      "gloss": "kag nanglakat"
     },
     {
       "surface": "ויצו",
-      "gloss": "kag ginsugo"
+      "gloss": "kag nagmando"
     },
     {
       "surface": "יהושע",
-      "gloss": "ni Yehoshua"
+      "gloss": "si Yehoshua"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang mga nagalakat sa pagsulat sang duta"
+      "marks": "ang mga magaalalad sa pagsulat"
     },
     {
       "surface": "ההלכים",
-      "gloss": "ang mga nagalakat"
+      "gloss": "ang mga magaalalad"
     },
     {
       "surface": "לכתב",
@@ -43,7 +43,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang duta"
+      "marks": "sang duta"
     },
     {
       "surface": "הארץ",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "nga nagaingon"
+      "gloss": "nga nagasiling"
     },
     {
       "surface": "לכו",
@@ -59,11 +59,11 @@
     },
     {
       "surface": "והתהלכו",
-      "gloss": "kag libot"
+      "gloss": "kag pangalagkat kamo"
     },
     {
       "surface": "בארץ",
-      "gloss": "sang duta"
+      "gloss": "sa duta"
     },
     {
       "surface": "וכתבו",
@@ -71,12 +71,12 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩",
-      "marks": "ina (ang duta)"
+      "gloss": "⟨את⟩ ini",
+      "marks": "ini (ang duta)"
     },
     {
       "surface": "ושובו",
-      "gloss": "kag magbalik"
+      "gloss": "kag magbalik kamo"
     },
     {
       "surface": "אלי",
@@ -88,7 +88,7 @@
     },
     {
       "surface": "אשליך",
-      "gloss": "aku magapahulag"
+      "gloss": "itudlo ko"
     },
     {
       "surface": "לכם",
@@ -96,11 +96,11 @@
     },
     {
       "surface": "גורל",
-      "gloss": "sang palad"
+      "gloss": "ang goloral"
     },
     {
       "surface": "לפני",
-      "gloss": "sa atubangan"
+      "gloss": "sa atubang"
     },
     {
       "surface": "יהוה",
@@ -111,6 +111,6 @@
       "gloss": "sa Shiloh"
     }
   ],
-  "timestamp": "2026-09-21T17:42:30.025449874Z",
+  "timestamp": "2026-09-25T09:32:59.345288554Z",
   "model": "glm-5.3"
 }

@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":22,"ref":"jeremiah 48:22","book":"jeremiah","lang":"hil","chapter":48,"translation":"Kag <bahin sang> Divon, kag <bahin sang> Nevo, kag <bahin sang> Bet Divlatayim,","tokens":[{"surface":"ועל","gloss":"kag <bahin sang>"},{"surface":"דיבון","gloss":"Divon"},{"surface":"ועל","gloss":"kag <bahin sang>"},{"surface":"נבו","gloss":"Nevo"},{"surface":"ועל","gloss":"kag <bahin sang>"},{"surface":"בית","gloss":"Bet"},{"surface":"דבלתים","gloss":"Divlatayim"}],"timestamp":"2026-09-21T19:36:26.818677803Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 48,
+  "translation": "kag sa Divon, kag sa Nevo, kag sa Beit Divlatayim",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "Divon"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Nevo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "דבלתים",
+      "gloss": "Divlatayim"
+    }
+  ],
+  "timestamp": "2026-09-25T09:27:35.753602725Z",
+  "model": "glm-5.3"
+}

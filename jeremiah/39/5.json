@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "hil",
   "chapter": 39,
-  "translation": "Kag ginpanglagas sang kasundalohan sang mga Kasdi ila, kag nadakop nila ⟨את⟩ si Tsidkiyahu sa kapatagan sang Yerikho; kag ginkuha nila ⟨את⟩ siya kag gidala siya sa atubangan ni Nevukhadretsar, hari sang Bavel, sa Rivlah, sa duta sang Khamat; kag naghambal siya mga paghukom ⟨sa iya⟩.",
+  "translation": "Kag ginpanglagas sang kasundalohan sang mga Kasdiyan sila, kag naabtan nila si Tsidkiyahu sa mga kapatagan sang Yericho; kag ginkuha nila ⟨את⟩ siya kag gindala siya pakadto kay Nevukhadretsar, hari sang Bavel, sa Rivlah, sa duta sang Khamat; kag naghambal siya ⟨את⟩ sa iya sang mga hukman.",
   "tokens": [
     {
       "surface": "וירדפו",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "כשדים",
-      "gloss": "mga Kasdi"
+      "gloss": "mga Kasdiyan"
     },
     {
       "surface": "אחריהם",
-      "gloss": "ila"
+      "gloss": "sila"
     },
     {
       "surface": "וישגו",
-      "gloss": "kag nadakop nila"
+      "gloss": "naabtan nila"
     },
     {
       "surface": "את",
@@ -38,28 +38,28 @@
     },
     {
       "surface": "בערבות",
-      "gloss": "sa kapatagan"
+      "gloss": "sa mga kapatagan"
     },
     {
       "surface": "ירחו",
-      "gloss": "sang Yerikho"
+      "gloss": "sang Yericho"
     },
     {
       "surface": "ויקחו",
-      "gloss": "kag ginkuha nila"
+      "gloss": "ginkuha nila"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "siya"
+      "marks": "siya (si Tsidkiyahu)"
     },
     {
       "surface": "ויעלהו",
-      "gloss": "kag gidala siya"
+      "gloss": "gindala siya"
     },
     {
       "surface": "אל",
-      "gloss": "sa atubangan ni"
+      "gloss": "pakadto kay"
     },
     {
       "surface": "נבוכדראצר",
@@ -87,18 +87,18 @@
     },
     {
       "surface": "וידבר",
-      "gloss": "kag naghambal siya"
+      "gloss": "naghambal siya"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "mga paghukom (sa iya)"
+      "marks": "sa iya (kay Tsidkiyahu)"
     },
     {
       "surface": "משפטים",
-      "gloss": "mga paghukom"
+      "gloss": "sang mga hukman"
     }
   ],
-  "timestamp": "2026-09-21T22:34:07.112463476Z",
+  "timestamp": "2026-09-25T09:26:35.186396851Z",
   "model": "glm-5.3"
 }

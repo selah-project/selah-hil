@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 32,
-  "translation": "Kag natapos si Moshe sa pagsiling sang tanan nga mga pulong ini sa tanan nga Yisrael.",
+  "translation": "Kag nahuman si Moshe sa pagsiling sang tanan nga mga pulong ina sa tanan nga Yisrael,",
   "tokens": [
     {
       "surface": "ויכל",
-      "gloss": "natapos"
+      "gloss": "kag nahuman"
     },
     {
       "surface": "משה",
@@ -22,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tanan"
+      "marks": "tanan nga mga pulong ina"
     },
     {
       "surface": "כל",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "הדברים",
-      "gloss": "nga mga pulong"
+      "gloss": "mga pulong"
     },
     {
       "surface": "האלה",
-      "gloss": "ini"
+      "gloss": "ina"
     },
     {
       "surface": "אל",
@@ -42,13 +42,13 @@
     },
     {
       "surface": "כל",
-      "gloss": "tanan"
+      "gloss": "tanan nga"
     },
     {
       "surface": "ישראל",
       "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-09-21T17:33:05.645596748Z",
+  "timestamp": "2026-09-25T09:01:02.031628697Z",
   "model": "glm-5.3"
 }

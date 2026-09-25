@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":34,"ref":"genesis 41:34","book":"genesis","lang":"hil","chapter":41,"translation":"Buhaton ni Paro ini kag maggahin siya sang mga manugbantay sa ibabaw sang duta, kag ikaanom nga bahin sang duta sang Mitsrayim sa pito ka tuig sang kasaganaan.","tokens":[{"surface":"יעשה","gloss":"Buhaton"},{"surface":"פרעה","gloss":"ni Paro"},{"surface":"ויפקד","gloss":"kag maggahin siya"},{"surface":"פקדים","gloss":"mga manugbantay"},{"surface":"על","gloss":"sa ibabaw sang"},{"surface":"הארץ","gloss":"duta"},{"surface":"וחמש","gloss":"kag ikaanom nga bahin"},{"surface":"את","gloss":"⟨את⟩","marks":"duta"},{"surface":"ארץ","gloss":"duta"},{"surface":"מצרים","gloss":"sang Mitsrayim"},{"surface":"בשבע","gloss":"sa pito ka"},{"surface":"שני","gloss":"tuig"},{"surface":"השבע","gloss":"sang kasaganaan"}],"timestamp":"2026-09-21T16:14:52.583979909Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 41:34",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 41,
+  "translation": "Buhaton ni Paro kag magbutang siya sang mga manugdumala sa ibabaw sang duta, kag kuhaon ang ikalima nga bahin sang ⟨את⟩ duta sang Mitsrayim sa pito ka tuig sang kadagaya.",
+  "tokens": [
+    {
+      "surface": "יעשה",
+      "gloss": "Buhaton"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "kag magbutang siya"
+    },
+    {
+      "surface": "פקדים",
+      "gloss": "mga manugdumala"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "kag kuhaon ang ikalima nga bahin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duta sang Mitsrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sang Mitsrayim"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "sa pito"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "sang kadagaya"
+    }
+  ],
+  "timestamp": "2026-09-25T09:15:48.413356703Z",
+  "model": "glm-5.3"
+}

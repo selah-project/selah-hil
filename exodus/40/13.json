@@ -5,59 +5,61 @@
   "book": "exodus",
   "lang": "hil",
   "chapter": 40,
-  "translation": "Kag isul-ob mo ⟨את⟩ si Aharon sang mga bado sang kabalaan, kag lanan mo ⟨את⟩ iya kag ipakigbalaan mo ⟨את⟩ iya, kag magin padi siya sa akon.",
+  "translation": "Kag ibutang mo ⟨את⟩ kay Aharon ⟨את⟩ sa mga bisti nga balaan, kag ligid-an mo ⟨את⟩ siya, kag pagtahuron mo ⟨את⟩ siya, agod mag-alagad siya bilang pari sa akon.",
   "tokens": [
     {
       "surface": "והלבשת",
-      "gloss": "kag isul-ob mo"
+      "gloss": "Kag ibutang mo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "si Aharon"
+      "marks": "kay Aharon"
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharon"
+      "gloss": "kay Aharon"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sang mga bado sang kabalaan"
+      "marks": "sa mga bisti nga balaan"
     },
     {
       "surface": "בגדי",
-      "gloss": "mga bado"
+      "gloss": "sa mga bisti"
     },
     {
       "surface": "הקדש",
-      "gloss": "sang kabalaan"
+      "gloss": "nga balaan"
     },
     {
       "surface": "ומשחת",
-      "gloss": "kag lanan mo"
+      "gloss": "kag ligid-an mo"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ iya"
+      "gloss": "⟨את⟩ siya",
+      "marks": "si Aharon"
     },
     {
       "surface": "וקדשת",
-      "gloss": "kag ipakigbalaan mo"
+      "gloss": "kag pagtahuron mo"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ iya"
+      "gloss": "⟨את⟩ siya",
+      "marks": "si Aharon"
     },
     {
       "surface": "וכהן",
-      "gloss": "magin padi siya"
+      "gloss": "agod mag-alagad siya bilang pari"
     },
     {
       "surface": "לי",
       "gloss": "sa akon"
     }
   ],
-  "timestamp": "2026-09-21T16:41:26.432134396Z",
+  "timestamp": "2026-09-25T09:04:47.652438436Z",
   "model": "glm-5.3"
 }

@@ -5,24 +5,24 @@
   "book": "zephaniah",
   "lang": "hil",
   "chapter": 1,
-  "translation": "kag ⟨את⟩ ang mga nagbulig sa likod ni Yahweh, kag ang wala nagpangita ⟨sa⟩ Yahweh, kag wala nagpangita sa iya",
+  "translation": "Kag ⟨את⟩ ang mga nagbalikid gikan sa luyo ni Yahweh, kag ang wala nagpangita ⟨את⟩ kang Yahweh kag wala nagpangita sing madali sa iya.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang mga nagbulig"
+      "marks": "ang mga nagbalikid"
     },
     {
       "surface": "הנסוגים",
-      "gloss": "ang mga nagbulig"
+      "gloss": "ang mga nagbalikid"
     },
     {
       "surface": "מאחרי",
-      "gloss": "sa likod"
+      "gloss": "gikan sa luyo"
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "ואשר",
@@ -51,9 +51,9 @@
     },
     {
       "surface": "דרשהו",
-      "gloss": "nagpangita sa iya"
+      "gloss": "nagpangita sing madali sa iya"
     }
   ],
-  "timestamp": "2026-09-21T20:17:21.634343179Z",
+  "timestamp": "2026-09-25T09:50:48.529116638Z",
   "model": "glm-5.3"
 }

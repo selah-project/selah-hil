@@ -5,16 +5,16 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 29,
-  "translation": "Kag magbantay kamo ⟨את⟩ ang mga pulong sang ining kasugtanan kag himoon ninyo sila, agod mag-uswag kamo ⟨את⟩ tanan nga himoon ninyo.",
+  "translation": "Kag pagbantayan ninyo ⟨את⟩ ang mga pulong sang ining kasugtanan, kag himoon ninyo ⟨אתם⟩, agod mag-uswag kamo ⟨את⟩ sa tanan nga buhaton ninyo.",
   "tokens": [
     {
       "surface": "ושמרתם",
-      "gloss": "kag magbantay ⟨kamo⟩"
+      "gloss": "kag pagbantayan ninyo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang mga pulong sang ining kasugtanan"
+      "marks": "ang mga pulong"
     },
     {
       "surface": "דברי",
@@ -30,12 +30,12 @@
     },
     {
       "surface": "ועשיתם",
-      "gloss": "kag himoon"
+      "gloss": "kag himoon ninyo"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "sila (ang mga pulong)"
+      "gloss": "⟨אתם⟩",
+      "marks": "ang mga pulong sang kasugtanan"
     },
     {
       "surface": "למען",
@@ -43,16 +43,16 @@
     },
     {
       "surface": "תשכילו",
-      "gloss": "mag-uswag ⟨kamo⟩"
+      "gloss": "mag-uswag kamo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tanan nga himoon ninyo"
+      "marks": "ang tanan"
     },
     {
       "surface": "כל",
-      "gloss": "tanan"
+      "gloss": "ang tanan"
     },
     {
       "surface": "אשר",
@@ -60,9 +60,9 @@
     },
     {
       "surface": "תעשון",
-      "gloss": "himoon ninyo"
+      "gloss": "buhaton ninyo"
     }
   ],
-  "timestamp": "2026-09-21T17:30:46.526802947Z",
+  "timestamp": "2026-09-25T08:59:10.884257144Z",
   "model": "glm-5.3"
 }

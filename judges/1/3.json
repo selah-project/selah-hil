@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "hil",
   "chapter": 1,
-  "translation": "Kag nagsiling si Yehudah kay Shim'on, iya utod: Saka ka ⟨ka⟩ ako sa akon bahin, kag makig-away kita sa mga Kenaanan; kag magakadto man ako ⟨ka⟩ imo sa imo bahin. Kag nagkadto ka niya si Shim'on.",
+  "translation": "Kag nagsiling si Yehudah kay Shim'on, nga iya utod: \"Umangat ka ka akon ⟨את⟩ sa akon parte, kag magtigayon kita maggubat batok sa mga Kenaanon, kag magakadto man ako ka imo ⟨את⟩ sa imo parte.\" Kag nagkadto si Shim'on ka iya ⟨את⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,28 +21,28 @@
     },
     {
       "surface": "אחיו",
-      "gloss": "iya utod"
+      "gloss": "nga iya utod"
     },
     {
       "surface": "עלה",
-      "gloss": "saka"
+      "gloss": "umangat ka"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ ka ako",
-      "marks": "ka ako (si Yehudah)"
+      "gloss": "⟨את⟩ ka akon",
+      "marks": "ka akon (sa akon parte)"
     },
     {
       "surface": "בגורלי",
-      "gloss": "sa akon bahin"
+      "gloss": "sa akon parte"
     },
     {
       "surface": "ונלחמה",
-      "gloss": "kag makig-away kita"
+      "gloss": "kag magtigayon kita maggubat"
     },
     {
       "surface": "בכנעני",
-      "gloss": "sa mga Kenaanan"
+      "gloss": "batok sa mga Kenaanon"
     },
     {
       "surface": "והלכתי",
@@ -59,11 +59,11 @@
     {
       "surface": "אתך",
       "gloss": "⟨את⟩ ka imo",
-      "marks": "ka imo (si Shim'on)"
+      "marks": "ka imo (sa imo parte)"
     },
     {
       "surface": "בגורלך",
-      "gloss": "sa imo bahin"
+      "gloss": "sa imo parte"
     },
     {
       "surface": "וילך",
@@ -71,14 +71,14 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ka niya",
-      "marks": "ka niya (si Shim'on kadto kay Yehudah)"
+      "gloss": "⟨את⟩ ka iya",
+      "marks": "si Shim'on"
     },
     {
       "surface": "שמעון",
       "gloss": "si Shim'on"
     }
   ],
-  "timestamp": "2026-09-21T17:46:03.217009569Z",
+  "timestamp": "2026-09-25T09:53:08.858286195Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 34,
-  "translation": "Kag si Yehoshua nga anak ni Nun puno sang espiritu sang kaalam, kay gintungtong ni Moshe ⟨את⟩ iya mga kamot sa iya; kag nagpatalingkad ang mga anak sang Yisrael sa iya kag ginhimo nila sia suno sa ginsugo ni Yahweh ⟨kay⟩ Moshe.",
+  "translation": "Kag si Yehoshua nga anak nga lalaki ni Nun puno sang espiritu sang kaalam, kay ginbutang ni Moshe ⟨את⟩ iya mga kamot sa iya; kag nagpatalabtob ang mga anak nga lalaki sang Yisrael sa iya kag ginhimo nila suno sa ginsogo ni Yahweh ⟨את⟩ Moshe.",
   "tokens": [
     {
       "surface": "ויהושע",
-      "gloss": "kag si Yehoshua"
+      "gloss": "Kag si Yehoshua"
     },
     {
       "surface": "בן",
-      "gloss": "nga anak"
+      "gloss": "nga anak nga lalaki"
     },
     {
       "surface": "נון",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "רוח",
-      "gloss": "sang espiritu"
+      "gloss": "espiritu"
     },
     {
       "surface": "חכמה",
-      "gloss": "sang kaalam"
+      "gloss": "kaalam"
     },
     {
       "surface": "כי",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "סמך",
-      "gloss": "gintungtong"
+      "gloss": "ginbutang"
     },
     {
       "surface": "משה",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "וישמעו",
-      "gloss": "kag nagpatalingkad"
+      "gloss": "kag nagpatalabtob"
     },
     {
       "surface": "אליו",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "ang mga anak"
+      "gloss": "ang mga anak nga lalaki"
     },
     {
       "surface": "ישראל",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "ויעשו",
-      "gloss": "kag ginhimo"
+      "gloss": "kag ginhimo nila"
     },
     {
       "surface": "כאשר",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "ginsugo"
+      "gloss": "ginsogo"
     },
     {
       "surface": "יהוה",
@@ -98,6 +98,6 @@
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-09-21T17:34:41.690036153Z",
+  "timestamp": "2026-09-25T09:00:51.553072687Z",
   "model": "glm-5.3"
 }

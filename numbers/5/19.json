@@ -5,24 +5,24 @@
   "book": "numbers",
   "lang": "hil",
   "chapter": 5,
-  "translation": "Kag papanumpahon sang saserdote ⟨את⟩ iya, kag hambalon niya sa babae: Kon wala nakigtulog sa imo isa ka lalaki, kag kon wala ka naghisuli sa pagkadut-an sa ilalom sang imo bana, inosente ka sa mga tubig sang kapaitan nga mga nagapatala nga ini.",
+  "translation": "Kag papanugaon sang pari ang ⟨את⟩ babayi kag magahambal sa babayi: Kon wala nakadorma ang isa ka lalaki ⟨את⟩ imo, kag kon wala ka nagpanihala sa kahugawan sa ilalom sang imo bana, malig-on ka sa ining mga tubig nga mapait nga mga nagapanumpal.",
   "tokens": [
     {
       "surface": "והשביע",
-      "gloss": "kag papanumpahon"
+      "gloss": "kag papanugaon"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "iya"
+      "marks": "ang babayi"
     },
     {
       "surface": "הכהן",
-      "gloss": "sang saserdote"
+      "gloss": "ang pari"
     },
     {
       "surface": "ואמר",
-      "gloss": "kag hambalon"
+      "gloss": "kag magahambal"
     },
     {
       "surface": "אל",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "האשה",
-      "gloss": "ang babae"
+      "gloss": "ang babayi"
     },
     {
       "surface": "אם",
@@ -42,16 +42,16 @@
     },
     {
       "surface": "שכב",
-      "gloss": "nakigtulog"
+      "gloss": "nakadorma"
     },
     {
       "surface": "איש",
-      "gloss": "isa ka lalaki"
+      "gloss": "lalaki"
     },
     {
       "surface": "אתך",
       "gloss": "⟨את⟩",
-      "marks": "sa imo"
+      "marks": "imo"
     },
     {
       "surface": "ואם",
@@ -63,11 +63,11 @@
     },
     {
       "surface": "שטית",
-      "gloss": "naghisuli"
+      "gloss": "nagpanihala"
     },
     {
       "surface": "טמאה",
-      "gloss": "sa pagkadut-an"
+      "gloss": "kahugawan"
     },
     {
       "surface": "תחת",
@@ -75,29 +75,29 @@
     },
     {
       "surface": "אישך",
-      "gloss": "sang imo bana"
+      "gloss": "imo bana"
     },
     {
       "surface": "הנקי",
-      "gloss": "inosente ka"
+      "gloss": "malig-on ka"
     },
     {
       "surface": "ממי",
-      "gloss": "sa mga tubig"
+      "gloss": "sa"
     },
     {
       "surface": "המרים",
-      "gloss": "sang kapaitan"
+      "gloss": "mga tubig nga mapait"
     },
     {
       "surface": "המאררים",
-      "gloss": "nga mga nagapatala"
+      "gloss": "mga nagapanumpal"
     },
     {
       "surface": "האלה",
-      "gloss": "nga ini"
+      "gloss": "ini"
     }
   ],
-  "timestamp": "2026-09-21T17:01:47.630747973Z",
+  "timestamp": "2026-09-25T09:47:34.880802625Z",
   "model": "glm-5.3"
 }

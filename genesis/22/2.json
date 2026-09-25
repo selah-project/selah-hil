@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 22,
-  "translation": "Kag nagsiling sia: Kuhaa ⟨man⟩ ⟨את⟩ ang imo anak, ang imo bugtum nga anak nga imo ginhigugma, si Yitskhak, kag lakat ka sa duta sang Moriya, kag iya igpatindog didto nga halad nga sinusunog sa isa sa mga bukid nga sasilingan ko sa imo.",
+  "translation": "Kag nagsiling ⟨siya⟩: Kuhaa ⟨palihog⟩ ⟨את⟩ ang imo anak, ⟨את⟩ ang imo bugtong anak nga imo ginpadunggan, ⟨את⟩ si Yitskhak, kag lakat ka sa duta sang Moriya, kag itungtong mo siya didto bilang sinunog nga halad sa isa ka bukid sa tanan nga mga bukid nga sambaton ko sa imo.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נא",
-      "gloss": "⟨man⟩"
+      "gloss": "⟨palihog⟩"
     },
     {
       "surface": "את",
@@ -26,16 +26,16 @@
     },
     {
       "surface": "בנך",
-      "gloss": "imo anak"
+      "gloss": "ang imo anak"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang imo bugtum nga anak"
+      "marks": "ang imo bugtong anak"
     },
     {
       "surface": "יחידך",
-      "gloss": "imo bugtum nga anak"
+      "gloss": "ang imo bugtong anak"
     },
     {
       "surface": "אשר",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "אהבת",
-      "gloss": "imong ginhigugma"
+      "gloss": "imo ginpadunggan"
     },
     {
       "surface": "את",
@@ -52,7 +52,7 @@
     },
     {
       "surface": "יצחק",
-      "gloss": "Yitskhak"
+      "gloss": "si Yitskhak"
     },
     {
       "surface": "ולך",
@@ -76,7 +76,7 @@
     },
     {
       "surface": "והעלהו",
-      "gloss": "kag iya igpatindog"
+      "gloss": "kag itungtong mo siya"
     },
     {
       "surface": "שם",
@@ -84,7 +84,7 @@
     },
     {
       "surface": "לעלה",
-      "gloss": "nga halad nga sinusunog"
+      "gloss": "bilang sinunog nga halad"
     },
     {
       "surface": "על",
@@ -92,11 +92,11 @@
     },
     {
       "surface": "אחד",
-      "gloss": "isa"
+      "gloss": "isa ka"
     },
     {
       "surface": "ההרים",
-      "gloss": "sa mga bukid"
+      "gloss": "bukid sa tanan nga mga bukid"
     },
     {
       "surface": "אשר",
@@ -104,13 +104,13 @@
     },
     {
       "surface": "אמר",
-      "gloss": "sasilingan"
+      "gloss": "sambaton"
     },
     {
       "surface": "אליך",
       "gloss": "sa imo"
     }
   ],
-  "timestamp": "2026-09-21T16:04:01.902975475Z",
+  "timestamp": "2026-09-25T09:14:43.853529207Z",
   "model": "glm-5.3"
 }

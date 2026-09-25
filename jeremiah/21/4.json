@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "hil",
   "chapter": 21,
-  "translation": "Sa amo siling ni Yahweh, ang Elohim sang Yisrael: Yari ako, ginpapaliko ko ⟨את⟩ ang mga galamiton sang gubat nga ara sa inyo mga kamot, nga gingagamit ninyo sa pakigaway ⟨את⟩ sa hari sang Bavel kag ⟨את⟩ sa mga Kashdi nga nagapalibot sa inyo sa guwa sang pader, kag tipunon ko sila sa tunga sang sini nga dakbanwa.",
+  "translation": "Amo ini ang ginhambal ni Yahweh, ang Elohim sang Yisrael: Yari ako, ibalik ko ⟨את⟩ ang mga butang sang gubat nga ara sa inyo mga kamot, nga ginapakigbatok ninyo sa hari sang Bavel kag ⟨את⟩ ang mga Kasdanhon nga nagaigo sa inyo sa guwa sang paril, kag tiguon ko ⟨את⟩ sila ngadto sa tunga sang sini nga dakbanwa.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "Sa amo"
+      "gloss": "Amo ini"
     },
     {
       "surface": "אמר",
-      "gloss": "siling"
+      "gloss": "ang ginhambal"
     },
     {
       "surface": "יהוה",
@@ -33,16 +33,16 @@
     },
     {
       "surface": "מסב",
-      "gloss": "ginpapaliko ko"
+      "gloss": "ibalik ko"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang mga galamiton sang gubat"
+      "marks": "ang mga butang sang gubat"
     },
     {
       "surface": "כלי",
-      "gloss": "mga galamiton"
+      "gloss": "ang mga butang"
     },
     {
       "surface": "המלחמה",
@@ -62,24 +62,24 @@
     },
     {
       "surface": "אתם",
-      "gloss": "kamo"
+      "gloss": "ninyo"
     },
     {
       "surface": "נלחמים",
-      "gloss": "nagapakigaway"
+      "gloss": "ginapakigbatok"
     },
     {
       "surface": "בם",
-      "gloss": "gamit sini"
+      "gloss": "—"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sa hari sang Bavel"
+      "marks": "ang hari sang Bavel"
     },
     {
       "surface": "מלך",
-      "gloss": "hari"
+      "gloss": "ang hari"
     },
     {
       "surface": "בבל",
@@ -87,16 +87,15 @@
     },
     {
       "surface": "ואת",
-      "gloss": "kag ⟨את⟩",
-      "marks": "sa mga Kashdi"
+      "gloss": "kag ⟨את⟩"
     },
     {
       "surface": "הכשדים",
-      "gloss": "mga Kashdi"
+      "gloss": "ang mga Kasdanhon"
     },
     {
       "surface": "הצרים",
-      "gloss": "nga nagapalibot"
+      "gloss": "nga nagaigo"
     },
     {
       "surface": "עליכם",
@@ -108,24 +107,23 @@
     },
     {
       "surface": "לחומה",
-      "gloss": "sang pader"
+      "gloss": "sang paril"
     },
     {
       "surface": "ואספתי",
-      "gloss": "kag tipunon ko"
+      "gloss": "kag tiguon ko"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "sila"
+      "gloss": "⟨את⟩ sila"
     },
     {
       "surface": "אל",
-      "gloss": "sa"
+      "gloss": "ngadto"
     },
     {
       "surface": "תוך",
-      "gloss": "tunga"
+      "gloss": "sa tunga"
     },
     {
       "surface": "העיר",
@@ -133,9 +131,9 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "sini"
+      "gloss": "sini nga"
     }
   ],
-  "timestamp": "2026-09-21T19:24:36.342127847Z",
+  "timestamp": "2026-09-25T09:24:37.681369225Z",
   "model": "glm-5.3"
 }

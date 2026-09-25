@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 45,
-  "translation": "Kag nagsiling si Yosef sa iya mga utod: Ako si Yosef; ginakabuhi pa bala ang akon amay? Kag indi makasabat ang iya mga utod ⟨sa iya⟩, kay nanginuyboyan sila sa iya atubang.",
+  "translation": "Kag naghambal si Yosef sa iya mga utod: Ako si Yosef — ang akon amay, bue pa bala? Kag wala makaikalumba ang iya mga utod sa pagbatos sa iya ⟨את⟩, kay nagkurog sila sa atubang sini.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "kag nagsiling"
+      "gloss": "Kag naghambal"
     },
     {
       "surface": "יוסף",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אני",
-      "gloss": "ako"
+      "gloss": "Ako"
     },
     {
       "surface": "יוסף",
@@ -33,36 +33,36 @@
     },
     {
       "surface": "העוד",
-      "gloss": "pa bala"
+      "gloss": "bue pa bala"
     },
     {
       "surface": "אבי",
-      "gloss": "ang akon amay"
+      "gloss": "akon amay"
     },
     {
       "surface": "חי",
-      "gloss": "ginakabuhi"
+      "gloss": "bue"
     },
     {
       "surface": "ולא",
-      "gloss": "kag indi"
+      "gloss": "Kag wala"
     },
     {
       "surface": "יכלו",
-      "gloss": "makasabat"
+      "gloss": "makaikalumba"
     },
     {
       "surface": "אחיו",
-      "gloss": "ang iya mga utod"
+      "gloss": "iya mga utod"
     },
     {
       "surface": "לענות",
-      "gloss": "sa pagpanabat"
+      "gloss": "sa pagbatos"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ sa iya",
-      "marks": "sa iya"
+      "gloss": "⟨את⟩",
+      "marks": "sa iya (ang pagbatos sa iya)"
     },
     {
       "surface": "כי",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "נבהלו",
-      "gloss": "nanginuyboyan sila"
+      "gloss": "nagkurog sila"
     },
     {
       "surface": "מפניו",
-      "gloss": "sa iya atubang"
+      "gloss": "sa atubang sini"
     }
   ],
-  "timestamp": "2026-09-21T16:17:23.146990165Z",
+  "timestamp": "2026-09-25T09:15:41.143402002Z",
   "model": "glm-5.3"
 }

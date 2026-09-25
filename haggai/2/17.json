@@ -5,32 +5,33 @@
   "book": "haggai",
   "lang": "hil",
   "chapter": 2,
-  "translation": "Ginpamalò ko kamo sang shidafon kag sang yerakon kag sang barad, ⟨sa⟩ ⟨את⟩ tanan nga buluhaton sang inyo mga kamot, kag wala kamo ⟨mibalik⟩ sa akon, naggasiling si Yahweh.",
+  "translation": "Ginsamod ko kamo ⟨את⟩ sa balasang kag sa amag kag sa yelo, ⟨את⟩ tanan nga buhat sang inyo mga kamot, kag wala kamo ⟨את⟩ sa akon, amo ang ginhambal ni Yahweh.",
   "tokens": [
     {
       "surface": "הכיתי",
-      "gloss": "Ginpamalò ko"
+      "gloss": "Ginsamod"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kamo"
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
     },
     {
       "surface": "בשדפון",
-      "gloss": "sang shidafon"
+      "gloss": "sa balasang"
     },
     {
       "surface": "ובירקון",
-      "gloss": "kag sang yerakon"
+      "gloss": "kag sa amag"
     },
     {
       "surface": "ובברד",
-      "gloss": "kag sang barad"
+      "gloss": "kag sa yelo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tanan nga buluhaton sang inyo mga kamot"
+      "marks": "tanan nga buhat sang inyo mga kamot"
     },
     {
       "surface": "כל",
@@ -38,7 +39,7 @@
     },
     {
       "surface": "מעשה",
-      "gloss": "buluhaton"
+      "gloss": "buhat"
     },
     {
       "surface": "ידיכם",
@@ -50,7 +51,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kamo"
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
     },
     {
       "surface": "אלי",
@@ -58,13 +60,13 @@
     },
     {
       "surface": "נאם",
-      "gloss": "naggasiling"
+      "gloss": "amo ang ginhambal"
     },
     {
       "surface": "יהוה",
-      "gloss": "si Yahweh"
+      "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-09-21T20:16:52.216850798Z",
+  "timestamp": "2026-09-25T09:21:50.840142480Z",
   "model": "glm-5.3"
 }

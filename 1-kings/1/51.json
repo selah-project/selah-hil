@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "hil",
   "chapter": 1,
-  "translation": "Kag ginpaathag kay Shelomoh nga nagsiling: Yari kadi, si Adoniyahu nagakahadlok ⟨kang⟩ hari nga si Shelomoh, kag yari kadi, ginkapit niya ang mga sungay sang halaran, nga nagsiling: Magpanumpa ang hari nga si Shelomoh sa akon subong nga adlaw nga indi niya pagapatyon ⟨sa⟩ sandata ⟨ang⟩ iya sulugoon.",
+  "translation": "Kag ginpahibalo kay Shelomoh, nga nagasiling: Tan-awa, nahadlok si Adoniyahu ⟨kay⟩ hari nga si Shelomoh, kag tan-awa, nakuha niya ang mga sungay sang halaran, nga nagasiling: Panumpaon ako sang hari nga si Shelomoh subong nga adlaw nga indi niya pagapatyon sang espada ang iya sulugoon.",
   "tokens": [
     {
       "surface": "ויגד",
-      "gloss": "Kag ginpaathag"
+      "gloss": "kag ginpahibalo"
     },
     {
       "surface": "לשלמה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "nga nagsiling"
+      "gloss": "nga nagasiling"
     },
     {
       "surface": "הנה",
-      "gloss": "Yari kadi"
+      "gloss": "tan-awa"
     },
     {
       "surface": "אדניהו",
@@ -29,16 +29,16 @@
     },
     {
       "surface": "ירא",
-      "gloss": "nagkahadlok"
+      "gloss": "nahadlok"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kang hari"
+      "marks": "hari nga si Shelomoh"
     },
     {
       "surface": "המלך",
-      "gloss": "kang hari"
+      "gloss": "hari"
     },
     {
       "surface": "שלמה",
@@ -46,31 +46,31 @@
     },
     {
       "surface": "והנה",
-      "gloss": "kag yari kadi"
+      "gloss": "kag tan-awa"
     },
     {
       "surface": "אחז",
-      "gloss": "ginkapit"
+      "gloss": "nakuha niya"
     },
     {
       "surface": "בקרנות",
-      "gloss": "ang mga sungay"
+      "gloss": "ang mga sungay sang"
     },
     {
       "surface": "המזבח",
-      "gloss": "sang halaran"
+      "gloss": "halaran"
     },
     {
       "surface": "לאמר",
-      "gloss": "nga nagsiling"
+      "gloss": "nga nagasiling"
     },
     {
       "surface": "ישבע",
-      "gloss": "Magpanumpa"
+      "gloss": "panumpaon ako"
     },
     {
       "surface": "לי",
-      "gloss": "sa akon"
+      "gloss": "ako"
     },
     {
       "surface": "כיום",
@@ -90,22 +90,22 @@
     },
     {
       "surface": "ימית",
-      "gloss": "niya pagapatyon"
+      "gloss": "pagapatyon"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iya sulugoon"
+      "marks": "ang iya sulugoon"
     },
     {
       "surface": "עבדו",
-      "gloss": "iya sulugoon"
+      "gloss": "ang iya sulugoon"
     },
     {
       "surface": "בחרב",
-      "gloss": "sa sandata"
+      "gloss": "sang espada"
     }
   ],
-  "timestamp": "2026-09-21T18:26:00.294103949Z",
+  "timestamp": "2026-09-25T08:39:17.559553825Z",
   "model": "glm-5.3"
 }

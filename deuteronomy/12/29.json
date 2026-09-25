@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 12,
-  "translation": "Kon papagtionon ni Yahweh nga Elohim mo ⟨את⟩ ang mga pungsod nga imo pasonhon didto sa pagpanun-i sa ila gikan sa imo atubangan, kag panun-ion mo sila kag magapuyo ka sa ila duta.",
+  "translation": "Kon pagaputlon ni Yahweh nga imo Elohim ⟨את⟩ ang mga pungsod nga diin ikaw magakadto didi sa pagpanag-iya sa ila gikan sa imo atubangan, kag panag-iyahon mo ⟨את⟩ sila kag magapuyo ka sa ila duta,",
   "tokens": [
     {
       "surface": "כי",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "יכרית",
-      "gloss": "papagtionon"
+      "gloss": "pagaputlon"
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אלהיך",
-      "gloss": "nga Elohim mo"
+      "gloss": "imo nga Elohim"
     },
     {
       "surface": "את",
@@ -38,24 +38,24 @@
     },
     {
       "surface": "אתה",
-      "gloss": "imo"
+      "gloss": "ikaw"
     },
     {
       "surface": "בא",
-      "gloss": "pasonhon"
+      "gloss": "magakadto"
     },
     {
       "surface": "שמה",
-      "gloss": "didto"
+      "gloss": "didi"
     },
     {
       "surface": "לרשת",
-      "gloss": "sa pagpanun-i sa ila"
+      "gloss": "sa pagpanag-iya"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩ sila",
-      "marks": "ila"
+      "marks": "mga pungsod (object sang pagpanag-iya)"
     },
     {
       "surface": "מפניך",
@@ -63,12 +63,12 @@
     },
     {
       "surface": "וירשת",
-      "gloss": "kag panun-ion mo"
+      "gloss": "kag panag-iyahon mo"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩ sila",
-      "marks": "sila"
+      "marks": "mga pungsod (object sang panag-iyahon)"
     },
     {
       "surface": "וישבת",
@@ -79,6 +79,6 @@
       "gloss": "sa ila duta"
     }
   ],
-  "timestamp": "2026-09-21T17:23:42.745495420Z",
+  "timestamp": "2026-09-25T08:57:43.412285728Z",
   "model": "glm-5.3"
 }

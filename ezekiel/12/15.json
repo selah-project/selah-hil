@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 12,
-  "translation": "Kag makilala nila nga ako si Yahweh, sa pagwagtang ko sa ila sa mga pungsod kag sa paglapya ko sa ila sa mga duta.",
+  "translation": "Kag matalastasan nila nga ako si Yahweh, sang pagpanglakat ko ⟨את⟩ sila sa mga pungsod kag pagbutarak ko ⟨את⟩ sila sa mga duta.",
   "tokens": [
     {
       "surface": "וידעו",
-      "gloss": "kag makilala nila"
+      "gloss": "kag matalastasan nila"
     },
     {
       "surface": "כי",
@@ -21,15 +21,16 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "si Yahweh"
     },
     {
       "surface": "בהפיצי",
-      "gloss": "sa pagwagtang ko"
+      "gloss": "sang pagpanglakat ko"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ sa ila"
+      "gloss": "⟨את⟩ sila",
+      "marks": "sa mga pungsod"
     },
     {
       "surface": "בגוים",
@@ -37,17 +38,18 @@
     },
     {
       "surface": "וזריתי",
-      "gloss": "kag sa paglapya ko"
+      "gloss": "kag pagbutarak ko"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ sa ila"
+      "gloss": "⟨את⟩ sila",
+      "marks": "sa mga duta"
     },
     {
       "surface": "בארצות",
       "gloss": "sa mga duta"
     }
   ],
-  "timestamp": "2026-09-21T22:35:01.058350327Z",
+  "timestamp": "2026-09-25T09:07:36.825273873Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,37 @@
   "book": "1-samuel",
   "lang": "hil",
   "chapter": 20,
-  "translation": "Kag nagdugang si Yehonatan nga papan-on ⟨את⟩ si David tungod sa iya paghigugma sa iya, kay sang paghigugma sang iya kaugalingon nga kalag ginhigugma niya siya.",
+  "translation": "Kag gindugangan ni Yehonatan ang pagpahinumpa ⟨את⟩ kay David tungod sang iya paghigugma sa iya ⟨אתו⟩, kay sa paghigugma sang iya kalag ginhigugma niya siya.",
   "tokens": [
     {
       "surface": "ויוסף",
-      "gloss": "Kag nagdugang"
+      "gloss": "kag gindugangan"
     },
     {
       "surface": "יהונתן",
-      "gloss": "si Yehonatan"
+      "gloss": "ni Yehonatan"
     },
     {
       "surface": "להשביע",
-      "gloss": "nga papan-on"
+      "gloss": "ang pagpahinumpa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "si David"
+      "marks": "kay David"
     },
     {
       "surface": "דוד",
-      "gloss": "si David"
+      "gloss": "kay David"
     },
     {
       "surface": "באהבתו",
-      "gloss": "tungod sa iya paghigugma"
+      "gloss": "tungod sang iya paghigugma"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ sa iya"
+      "gloss": "⟨אתו⟩",
+      "marks": "sa iya"
     },
     {
       "surface": "כי",
@@ -46,13 +47,13 @@
     },
     {
       "surface": "נפשו",
-      "gloss": "sang iya kaugalingon nga kalag"
+      "gloss": "sang iya kalag"
     },
     {
       "surface": "אהבו",
       "gloss": "ginhigugma niya siya"
     }
   ],
-  "timestamp": "2026-09-21T18:07:12.462755734Z",
+  "timestamp": "2026-09-25T08:44:51.150461978Z",
   "model": "glm-5.3"
 }

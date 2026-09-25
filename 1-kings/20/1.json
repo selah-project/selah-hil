@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "hil",
   "chapter": 20,
-  "translation": "Kag si Ben-Hadad nga hari sang Aram nagtipon ⟨sa⟩ tanan niya nga kusog, kag tatlo ka pulo kag duha ka hari kaupod ⟨sa iya⟩, kag mga kabayo kag mga karosa; kag nag-akat kag nagpalibot sa Shomron kag nakig-away sa sini.",
+  "translation": "Kag si Ben-Hadad, hari sang Aram, nagtipon sang ⟨את⟩ tanan niya nga puersa, kag tatlo ka pulo kag duha ka hari ⟨אתו⟩ kaupod niya, kag mga kabayo kag mga karwaza; kag nagsaka siya kag nagligot sa Shomron kag nakig-away batok sini.",
   "tokens": [
     {
       "surface": "ובן",
-      "gloss": "Kag si Ben-Hadad"
+      "gloss": "Kag si Ben-"
     },
     {
       "surface": "הדד",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ארם",
-      "gloss": "Aram"
+      "gloss": "sang Aram"
     },
     {
       "surface": "קבץ",
@@ -30,7 +30,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tanan niya nga kusog"
+      "marks": "tanan niya nga puersa"
     },
     {
       "surface": "כל",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "חילו",
-      "gloss": "niya nga kusog"
+      "gloss": "niya nga puersa"
     },
     {
       "surface": "ושלשים",
@@ -54,8 +54,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "kaupod sa iya"
+      "gloss": "⟨אתו⟩ kaupod niya",
+      "marks": "tatlo ka pulo kag duha ka hari"
     },
     {
       "surface": "וסוס",
@@ -63,15 +63,15 @@
     },
     {
       "surface": "ורכב",
-      "gloss": "kag mga karosa"
+      "gloss": "kag mga karwaza"
     },
     {
       "surface": "ויעל",
-      "gloss": "kag nag-akat"
+      "gloss": "kag nagsaka siya"
     },
     {
       "surface": "ויצר",
-      "gloss": "kag nagpalibot"
+      "gloss": "kag nagligot"
     },
     {
       "surface": "על",
@@ -87,9 +87,9 @@
     },
     {
       "surface": "בה",
-      "gloss": "sa sini"
+      "gloss": "batok sini"
     }
   ],
-  "timestamp": "2026-09-21T18:37:20.934824236Z",
+  "timestamp": "2026-09-25T08:41:34.926043664Z",
   "model": "glm-5.3"
 }

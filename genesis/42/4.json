@@ -5,16 +5,16 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 42,
-  "translation": "Kag ⟨ang⟩ Binyamin, utod ni Yosef, wala ginsugo ni Yaakov ⟨את⟩ sa iya mga utod, kay nagsiling siya: Bantangi madunggan siya sang kadaotan.",
+  "translation": "Kag ⟨את⟩ si Binyamin, utod ni Yosef, wala pagpadala sang ni Yaakov kag ⟨את⟩ iya mga utod, kay naghambal siya nga indi matabangan siya sang katalagman.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "Binyamin"
+      "marks": "si Binyamin"
     },
     {
       "surface": "בנימין",
-      "gloss": "Binyamin"
+      "gloss": "si Binyamin"
     },
     {
       "surface": "אחי",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "שלח",
-      "gloss": "ginsugo"
+      "gloss": "pagpadala"
     },
     {
       "surface": "יעקב",
@@ -51,21 +51,21 @@
     },
     {
       "surface": "אמר",
-      "gloss": "nagsiling siya"
+      "gloss": "naghambal"
     },
     {
       "surface": "פן",
-      "gloss": "bantangi"
+      "gloss": "indi"
     },
     {
       "surface": "יקראנו",
-      "gloss": "madunggan siya"
+      "gloss": "matabangan siya"
     },
     {
       "surface": "אסון",
-      "gloss": "sang kadaotan"
+      "gloss": "katalagman"
     }
   ],
-  "timestamp": "2026-09-21T16:16:01.159299108Z",
+  "timestamp": "2026-09-25T09:18:24.212753135Z",
   "model": "glm-5.3"
 }

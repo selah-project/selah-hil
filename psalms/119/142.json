@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "hil",
   "chapter": 119,
-  "translation": "Ang imo pagkamatarong ⟨⟨is⟩⟩ matarong sa dayon dayon, kag ang imo Torah ⟨⟨is⟩⟩ kamatuoran.",
+  "translation": "Ang imo pagkamatarong ⟨⟨amo⟩⟩ katarungan hasta sa dayon, kag ang imo Torah ⟨⟨amo⟩⟩ kamatuoran.",
   "tokens": [
     {
       "surface": "צדקתך",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "צדק",
-      "gloss": "matarong"
+      "gloss": "katarungan"
     },
     {
       "surface": "לעולם",
-      "gloss": "sa dayon dayon"
+      "gloss": "hasta sa dayon"
     },
     {
       "surface": "ותורתך",
@@ -28,6 +28,6 @@
       "gloss": "kamatuoran"
     }
   ],
-  "timestamp": "2026-09-21T22:40:41.543678974Z",
+  "timestamp": "2026-09-25T09:48:39.715580659Z",
   "model": "glm-5.3"
 }

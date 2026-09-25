@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "hil",
   "chapter": 7,
-  "translation": "Ginpanaog niya ⟨את⟩ ang katawhan padulong sa tubig, kag naghambal si Yahweh kay Gideon: Ang tagsa nga maglamlap sang tubig gamit ang iya dila, subong sang paglamlap sang iro, siya amo ang pagbutangon mo nga nag-usa; kag ang tagsa nga magduko sa iya mga tuhod sa pag-inom.",
+  "translation": "Ginpanaog niya ⟨את⟩ ang mga tawo paingon sa tubig, kag nagsiling si Yahweh kay Gidon: Ang tanan nga magalapa sang tubig sang iya dila, sama sang lapa sang ido, ibulag mo ⟨את⟩ siya nga nag-iya; kag ang tanan nga magatuhop sa iya mga tuhod sa pag-inum.",
   "tokens": [
     {
       "surface": "ויורד",
@@ -14,27 +14,27 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang katawhan"
+      "marks": "ang mga tawo"
     },
     {
       "surface": "העם",
-      "gloss": "ang katawhan"
+      "gloss": "ang mga tawo"
     },
     {
       "surface": "אל",
-      "gloss": "padulong sa"
+      "gloss": "paingon sa"
     },
     {
       "surface": "המים",
-      "gloss": "ang tubig"
+      "gloss": "tubig"
     },
     {
       "surface": "ויאמר",
-      "gloss": "kag naghambal"
+      "gloss": "kag nagsiling"
     },
     {
       "surface": "יהוה",
-      "gloss": "si Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אל",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "גדעון",
-      "gloss": "si Gideon"
+      "gloss": "Gidon"
     },
     {
       "surface": "כל",
-      "gloss": "ang tagsa"
+      "gloss": "ang tanan"
     },
     {
       "surface": "אשר",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "ילק",
-      "gloss": "maglamlap"
+      "gloss": "magalapa"
     },
     {
       "surface": "בלשונו",
-      "gloss": "gamit ang iya dila"
+      "gloss": "sang iya dila"
     },
     {
       "surface": "מן",
@@ -70,32 +70,32 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "subong sang"
+      "gloss": "sama sang"
     },
     {
       "surface": "ילק",
-      "gloss": "paglamlap"
+      "gloss": "lapa"
     },
     {
       "surface": "הכלב",
-      "gloss": "sang iro"
+      "gloss": "sang ido"
     },
     {
       "surface": "תציג",
-      "gloss": "pagbutangon mo"
+      "gloss": "ibulag mo"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩",
-      "marks": "siya (ang naglamlap)"
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (ang nagalapa)"
     },
     {
       "surface": "לבד",
-      "gloss": "nga nag-usa"
+      "gloss": "nag-iya"
     },
     {
       "surface": "וכל",
-      "gloss": "kag ang tagsa"
+      "gloss": "kag ang tanan"
     },
     {
       "surface": "אשר",
@@ -103,7 +103,7 @@
     },
     {
       "surface": "יכרע",
-      "gloss": "magduko"
+      "gloss": "magatuhop"
     },
     {
       "surface": "על",
@@ -115,9 +115,9 @@
     },
     {
       "surface": "לשתות",
-      "gloss": "sa pag-inom"
+      "gloss": "sa pag-inum"
     }
   ],
-  "timestamp": "2026-09-21T17:49:03.036871467Z",
+  "timestamp": "2026-09-25T09:36:18.971208491Z",
   "model": "glm-5.3"
 }

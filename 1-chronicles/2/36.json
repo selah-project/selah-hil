@@ -5,15 +5,15 @@
   "book": "1-chronicles",
   "lang": "hil",
   "chapter": 2,
-  "translation": "Kag si Attai natawo kay Natan, kag si Natan natawo kay Zabad.",
+  "translation": "Kag si Atay natahan ⟨את⟩ si Natan, kag si Natan natahan ⟨את⟩ si Zabad.",
   "tokens": [
     {
       "surface": "ועתי",
-      "gloss": "kag si Attai"
+      "gloss": "kag si Atay"
     },
     {
       "surface": "הליד",
-      "gloss": "natawo kay"
+      "gloss": "natahan"
     },
     {
       "surface": "את",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "Natan"
+      "gloss": "si Natan"
     },
     {
       "surface": "ונתן",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "הוליד",
-      "gloss": "natawo kay"
+      "gloss": "natahan"
     },
     {
       "surface": "את",
@@ -39,9 +39,9 @@
     },
     {
       "surface": "זבד",
-      "gloss": "Zabad"
+      "gloss": "si Zabad"
     }
   ],
-  "timestamp": "2026-09-21T21:49:33.369044092Z",
+  "timestamp": "2026-09-25T09:52:55.345858514Z",
   "model": "glm-5.3"
 }

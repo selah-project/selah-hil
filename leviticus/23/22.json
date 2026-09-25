@@ -5,20 +5,20 @@
   "book": "leviticus",
   "lang": "hil",
   "chapter": 23,
-  "translation": "Kag kon mag-ani kamo sang ⟨את⟩ ani sang inyo duta, indi ninyo tapuson ang gidapdan sang imo uma sa imo pag-ani, kag ang natumba sang imo ani indi ninyo tigumon; sa kabumulu-an kag sa dayo ila ninyo pagbayran — ako si Yahweh ang inyo Elohim.",
+  "translation": "Kag sa inyo pag-ani ⟨את⟩ sang ani sang inyo duta, indi ninyo pag-aninan hangtod sa kilid sang inyo uma sa inyo pag-ani, kag ang natumba nga ani sang inyo uma indi ninyo pagtipuna; sa mga kabos kag sa dayo tugutan ninyo ⟨את⟩ sila — ako si Yahweh, ang inyo Elohim.",
   "tokens": [
     {
       "surface": "ובקצרכם",
-      "gloss": "kag kon mag-ani kamo"
+      "gloss": "kag sa inyo pag-ani"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ani"
+      "marks": "sang ani"
     },
     {
       "surface": "קציר",
-      "gloss": "ani"
+      "gloss": "sang ani"
     },
     {
       "surface": "ארצכם",
@@ -30,27 +30,27 @@
     },
     {
       "surface": "תכלה",
-      "gloss": "ninyo tapuson"
+      "gloss": "ninyo pag-aninan hangtod"
     },
     {
       "surface": "פאת",
-      "gloss": "ang gidapdan"
+      "gloss": "kilid"
     },
     {
       "surface": "שדך",
-      "gloss": "sang imo uma"
+      "gloss": "sang inyo uma"
     },
     {
       "surface": "בקצרך",
-      "gloss": "sa imo pag-ani"
+      "gloss": "sa inyo pag-ani"
     },
     {
-      "surface": "ולקט",
-      "gloss": "kag ang natumba"
+      "surface": "ו לקט",
+      "gloss": "kag ang natumba nga ani"
     },
     {
       "surface": "קצירך",
-      "gloss": "sang imo ani"
+      "gloss": "sang inyo ani"
     },
     {
       "surface": "לא",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "תלקט",
-      "gloss": "ninyo tigumon"
+      "gloss": "ninyo pagtipuna"
     },
     {
       "surface": "לעני",
-      "gloss": "sa kabumulu-an"
+      "gloss": "sa mga kabos"
     },
     {
       "surface": "ולגר",
@@ -70,12 +70,12 @@
     },
     {
       "surface": "תעזב",
-      "gloss": "ila ninyo pagbayran"
+      "gloss": "tugutan ninyo"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "sila (ang gidapdan kag natumba)"
+      "gloss": "⟨את⟩",
+      "marks": "sila"
     },
     {
       "surface": "אני",
@@ -83,13 +83,13 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "si Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אלהיכם",
       "gloss": "ang inyo Elohim"
     }
   ],
-  "timestamp": "2026-09-21T16:54:21.227623898Z",
+  "timestamp": "2026-09-25T09:40:05.782107093Z",
   "model": "glm-5.3"
 }

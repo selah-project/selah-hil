@@ -5,19 +5,19 @@
   "book": "judges",
   "lang": "hil",
   "chapter": 11,
-  "translation": "Kag nagsiling si Yiftakh sa mga katuiging lalaki sang Gilad: Wala bala kamo sang pagkadumtan sa akon kag nagpalagyo ninyo ako sa balay sang akon amay? Ngaa nari kamo subong sa akon, sang nagakasubo kamo?",
+  "translation": "Kag nagsiling si Yiphtakh sa mga tigulang sang Gilad: Wala bala kamo nagkadumtan ⟨את⟩ ako kag ginpaggwa ninyo ako gikan sa balay sang akon amay? Kag ngaa kamo nagkari sa akon subong, sang may kalisod kamo?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "kag nagsiling"
+      "gloss": "Kag nagsiling"
     },
     {
       "surface": "יפתח",
-      "gloss": "si Yiftakh"
+      "gloss": "si Yiphtakh"
     },
     {
       "surface": "לזקני",
-      "gloss": "sa mga katuiging lalaki"
+      "gloss": "sa mga tigulang"
     },
     {
       "surface": "גלעד",
@@ -33,19 +33,20 @@
     },
     {
       "surface": "שנאתם",
-      "gloss": "sang pagkadumtan"
+      "gloss": "nagkadumtan"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ sa akon"
+      "gloss": "⟨את⟩",
+      "marks": "ako"
     },
     {
       "surface": "ותגרשוני",
-      "gloss": "kag nagpalagyo ninyo ako"
+      "gloss": "kag ginpaggwa ninyo ako"
     },
     {
       "surface": "מבית",
-      "gloss": "sa balay"
+      "gloss": "gikan sa balay"
     },
     {
       "surface": "אבי",
@@ -53,11 +54,11 @@
     },
     {
       "surface": "ומדוע",
-      "gloss": "ngaa"
+      "gloss": "kag ngaa"
     },
     {
       "surface": "באתם",
-      "gloss": "nari kamo"
+      "gloss": "kamo nagkari"
     },
     {
       "surface": "אלי",
@@ -73,13 +74,13 @@
     },
     {
       "surface": "צר",
-      "gloss": "nagakasubo"
+      "gloss": "may kalisod"
     },
     {
       "surface": "לכם",
       "gloss": "kamo"
     }
   ],
-  "timestamp": "2026-09-21T17:52:27.170585905Z",
+  "timestamp": "2026-09-25T09:34:24.407852194Z",
   "model": "glm-5.3"
 }

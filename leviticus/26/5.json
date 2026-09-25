@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "hil",
   "chapter": 26,
-  "translation": "Kag magaabot sa inyo ang paggik ⟨sa⟩ ting-ani sang ubas, kag ang ting-ani sang ubas magaabot ⟨sa⟩ ting-panum sang binhi; kag kumaon kamo sang inyo pagkaon sa kabusug, kag magapuyo kamo sa kalig-onan sa inyo duta.",
+  "translation": "Kag magaabot sa inyo ang panahon sang pag-ani sang humay sa ⟨את⟩ ting-ani sang ubas, kag ang ting-ani sang ubas magaabot sa ⟨את⟩ panahon sang pagtanom sang binhi; kag kaunon ninyo ang inyo tinapay hasta magaubos, kag magapuyo kamo sing wala sing kahadlok sa inyo duta.",
   "tokens": [
     {
       "surface": "והשיג",
-      "gloss": "magaabot"
+      "gloss": "kag magaabot"
     },
     {
       "surface": "לכם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "דיש",
-      "gloss": "ang paggik"
+      "gloss": "ang panahon sang pag-ani sang humay"
     },
     {
       "surface": "את",
@@ -39,23 +39,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ting-panum sang binhi"
+      "marks": "panahon sang pagtanom sang binhi"
     },
     {
       "surface": "זרע",
-      "gloss": "binhi"
+      "gloss": "panahon sang pagtanom sang binhi"
     },
     {
       "surface": "ואכלתם",
-      "gloss": "kag kumaon kamo"
+      "gloss": "kag kaunon ninyo"
     },
     {
       "surface": "לחמכם",
-      "gloss": "inyo pagkaon"
+      "gloss": "ang inyo tinapay"
     },
     {
       "surface": "לשבע",
-      "gloss": "sa kabusug"
+      "gloss": "hasta magaubos"
     },
     {
       "surface": "וישבתם",
@@ -63,13 +63,13 @@
     },
     {
       "surface": "לבטח",
-      "gloss": "sa kalig-onan"
+      "gloss": "sing wala sing kahadlok"
     },
     {
       "surface": "בארצכם",
       "gloss": "sa inyo duta"
     }
   ],
-  "timestamp": "2026-09-21T16:56:04.056832035Z",
+  "timestamp": "2026-09-25T09:40:06.631195770Z",
   "model": "glm-5.3"
 }

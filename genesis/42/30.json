@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 42,
-  "translation": "Naghambal ang tawo, ang adon sang duta, ⟨את⟩ sa amon sing mga mabug-at nga pulong, kag ginhimo niya ⟨את⟩ kami nga mga manan-aw sang duta.",
+  "translation": "Naghambal ang tawo, ang agalon sang duta, ⟨את⟩ sa amon sing mabug-at, kag gintuboy niya ⟨את⟩ kami subong mga mananagip sa ⟨את⟩ ang duta.",
   "tokens": [
     {
       "surface": "דבר",
-      "gloss": "naghambal"
+      "gloss": "Naghambal"
     },
     {
       "surface": "האיש",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אדני",
-      "gloss": "ang adon"
+      "gloss": "ang agalon"
     },
     {
       "surface": "הארץ",
@@ -25,23 +25,25 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ sa amon"
+      "gloss": "⟨את⟩ sa amon",
+      "marks": "sa amon"
     },
     {
       "surface": "קשות",
-      "gloss": "mga mabug-at nga pulong"
+      "gloss": "sing mabug-at"
     },
     {
       "surface": "ויתן",
-      "gloss": "kag ginhimo niya"
+      "gloss": "kag gintuboy niya"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ kami"
+      "gloss": "⟨את⟩ kami",
+      "marks": "kami subong mga mananagip"
     },
     {
       "surface": "כמרגלים",
-      "gloss": "nga mga manan-aw"
+      "gloss": "subong mga mananagip"
     },
     {
       "surface": "את",
@@ -53,6 +55,6 @@
       "gloss": "ang duta"
     }
   ],
-  "timestamp": "2026-09-21T16:16:37.487291278Z",
+  "timestamp": "2026-09-25T09:18:39.045023819Z",
   "model": "glm-5.3"
 }

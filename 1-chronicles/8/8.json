@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "hil",
   "chapter": 8,
-  "translation": "Kag si Shaharayim nagkatawo ⟨mga anak⟩ sa kapatagan sang Moab sang iya pagpapagawas sa ila — ⟨kanay⟩ si Hushim kag ⟨kanay⟩ si Baara, iya mga asawa.",
+  "translation": "Kag si Shaharayim nagkatawo ⟨mga anak⟩ sa kadutaan sang Moab sang tapos niya pagpadalagway sa ila ⟨את⟩ — sila sina Khushim kag ⟨את⟩ Baara, ang iya mga asawa.",
   "tokens": [
     {
       "surface": "ושחרים",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "בשדה",
-      "gloss": "sa kapatagan sang"
+      "gloss": "sa kadutaan"
     },
     {
       "surface": "מואב",
-      "gloss": "Moab"
+      "gloss": "sang Moab"
     },
     {
       "surface": "מן",
@@ -29,16 +29,16 @@
     },
     {
       "surface": "שלחו",
-      "gloss": "iya pagpapagawas sa ila"
+      "gloss": "tapos niya pagpadalagway"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "si Hushim kag si Baara"
+      "gloss": "⟨את⟩",
+      "marks": "ila — si Khushim kag si Baara"
     },
     {
       "surface": "חושים",
-      "gloss": "si Hushim"
+      "gloss": "sila sina Khushim"
     },
     {
       "surface": "ואת",
@@ -47,13 +47,13 @@
     },
     {
       "surface": "בערא",
-      "gloss": "si Baara"
+      "gloss": "Baara"
     },
     {
       "surface": "נשיו",
-      "gloss": "iya mga asawa"
+      "gloss": "ang iya mga asawa"
     }
   ],
-  "timestamp": "2026-09-21T21:51:53.459290460Z",
+  "timestamp": "2026-09-25T08:36:46.834633234Z",
   "model": "glm-5.3"
 }

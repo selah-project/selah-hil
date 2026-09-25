@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":23,"ref":"jeremiah 48:23","book":"jeremiah","lang":"hil","chapter":48,"translation":"kag <bahin sang> Kiryatayim, kag <bahin sang> Bet Gamul, kag <bahin sang> Bet Meon,","tokens":[{"surface":"ועל","gloss":"kag <bahin sang>"},{"surface":"קריתים","gloss":"Kiryatayim"},{"surface":"ועל","gloss":"kag <bahin sang>"},{"surface":"בית","gloss":"Bet"},{"surface":"גמול","gloss":"Gamul"},{"surface":"ועל","gloss":"kag <bahin sang>"},{"surface":"בית","gloss":"Bet"},{"surface":"מעון","gloss":"Meon"}],"timestamp":"2026-09-21T19:36:26.818807579Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 48:23",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 48,
+  "translation": "kag sa Kiryathayim, kag sa Beyt Gamul, kag sa Beyt Meon",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kiryathayim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "Gamul"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Meon"
+    }
+  ],
+  "timestamp": "2026-09-25T09:27:29.914147039Z",
+  "model": "glm-5.3"
+}

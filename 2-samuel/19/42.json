@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "hil",
   "chapter": 19,
-  "translation": "Kag yari, ang tanan nga mga tawo sang Yisrael nagkadto sa hari, kag nagsiling sila sa hari: Ngaa ginpanakop ikaw sang amon mga utod, mga tawo sang Yehudah, kag ginpalabya nila ⟨את⟩ ang hari kag ⟨את⟩ iya balay sa tabok sang Yarden, kag ang tanan nga mga tawo ni David kaupod iya?",
+  "translation": "Kag yari kuno, ang tanan nga tawo sang Yisrel nagkadto sa hari kag nagsiling sa hari, \"Ngaa ginpanakaw kamo sang aton mga utod, ang mga tawo sang Yehudah, kag gintabok nila ⟨את⟩ ang hari kag ⟨את⟩ iya balay, ⟨את⟩ sang Yarden, kag ang tanan nga mga tawo ni David upod sa iya?\"",
   "tokens": [
     {
       "surface": "והנה",
-      "gloss": "kag yari"
+      "gloss": "kag yari kuno"
     },
     {
       "surface": "כל",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "איש",
-      "gloss": "mga tawo"
+      "gloss": "nga tawo"
     },
     {
       "surface": "ישראל",
-      "gloss": "sang Yisrael"
+      "gloss": "sang Yisrel"
     },
     {
       "surface": "באים",
-      "gloss": "nangabhi"
+      "gloss": "nagkadto"
     },
     {
       "surface": "אל",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "המלך",
-      "gloss": "ang hari"
+      "gloss": "hari"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "kag nagsiling sila"
+      "gloss": "kag nagsiling"
     },
     {
       "surface": "אל",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "ang hari"
+      "gloss": "hari"
     },
     {
       "surface": "מדוע",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "גנבוך",
-      "gloss": "ginpanakop ikaw"
+      "gloss": "ginpanakaw kamo"
     },
     {
       "surface": "אחינו",
-      "gloss": "amon mga utod"
+      "gloss": "aton mga utod"
     },
     {
       "surface": "איש",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "ויעברו",
-      "gloss": "kag ginpalabya nila"
+      "gloss": "kag gintabok nila"
     },
     {
       "surface": "את",
@@ -92,11 +92,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang Yarden"
+      "marks": "sang Yarden"
     },
     {
       "surface": "הירדן",
-      "gloss": "ang Yarden"
+      "gloss": "sang Yarden"
     },
     {
       "surface": "וכל",
@@ -104,7 +104,7 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "mga tawo"
+      "gloss": "nga mga tawo"
     },
     {
       "surface": "דוד",
@@ -112,9 +112,9 @@
     },
     {
       "surface": "עמו",
-      "gloss": "kaupod iya"
+      "gloss": "upod sa iya"
     }
   ],
-  "timestamp": "2026-09-21T18:24:02.478397062Z",
+  "timestamp": "2026-09-25T08:54:45.411925624Z",
   "model": "glm-5.3"
 }

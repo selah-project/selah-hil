@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 31,
-  "translation": "kay ako nakahibalo sang imo pagpanukol kag ⟨את⟩ ang imo maugot nga liog; yari, samtang buhi pa ako kaupod ninyo subong nga adlaw, mga manunukol kamo sa Yahweh — kag labaw pa gid kon sa ulihi sang akon kamatayon.",
+  "translation": "Kay nakahibalo ako ⟨את⟩ sa imo pagtinokaway kag ⟨את⟩ sa imo matig-a nga liog; yari, samtang buhi pa ako kaupod sa inyo subong nga adlaw, nagatinokaway kamo sa Yahweh — kag labaw pa gid sa ulhi sang akon kamatayon.",
   "tokens": [
     {
       "surface": "כי",
@@ -17,21 +17,21 @@
     },
     {
       "surface": "ידעתי",
-      "gloss": "nakahibalo"
+      "gloss": "nakahibalo ako"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "imo pagpanukol"
+      "marks": "imo pagtinokaway"
     },
     {
       "surface": "מריך",
-      "gloss": "imo pagpanukol"
+      "gloss": "imo pagtinokaway"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "imo maugot nga liog"
+      "marks": "imo matig-a nga liog"
     },
     {
       "surface": "ערפך",
@@ -39,7 +39,7 @@
     },
     {
       "surface": "הקשה",
-      "gloss": "maugot"
+      "gloss": "matig-a"
     },
     {
       "surface": "הן",
@@ -47,15 +47,15 @@
     },
     {
       "surface": "בעודני",
-      "gloss": "samtang buhi pa ako"
+      "gloss": "samtang"
     },
     {
       "surface": "חי",
-      "gloss": "buhi"
+      "gloss": "buhi pa ako"
     },
     {
       "surface": "עמכם",
-      "gloss": "kaupod ninyo"
+      "gloss": "kaupod sa inyo"
     },
     {
       "surface": "היום",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "ממרים",
-      "gloss": "mga manunukol"
+      "gloss": "nagatinokaway"
     },
     {
       "surface": "היתם",
@@ -87,13 +87,13 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "sa ulihi"
+      "gloss": "sa ulhi"
     },
     {
       "surface": "מותי",
       "gloss": "akon kamatayon"
     }
   ],
-  "timestamp": "2026-09-21T17:33:37.197019764Z",
+  "timestamp": "2026-09-25T09:01:18.724848616Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "hil",
   "chapter": 9,
-  "translation": "Kag ginpaangkat ni Shelomoh tatlo ka beses sa isa ka tuig ⟨mga⟩ halad nga sinusunog kag mga halad sang kalinong sa halaran nga iya ginpatindog kay Yahweh, kag nagsunog ⟨sini⟩ sa atubang ni Yahweh; kag ginhimo niya sing himpis ⟨את⟩ ang balay.",
+  "translation": "Ginpataas ni Shelomoh nga tatlo ka beses sa tuig ⟨mga⟩ halad nga sinunog kag mga halad sang pakigdait sa halaran nga iya ginbanwa kay Yahweh, kag ginsunog niya ⟨אתו⟩ sing kamangyan sa atubang ni Yahweh, kag gintapos niya ⟨את⟩ ang balay.",
   "tokens": [
     {
       "surface": "והעלה",
-      "gloss": "ginpaangkat"
+      "gloss": "Ginpataas"
     },
     {
       "surface": "שלמה",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "בשנה",
-      "gloss": "sa isa ka tuig"
+      "gloss": "sa tuig"
     },
     {
       "surface": "עלות",
-      "gloss": "mga halad nga sinusunog"
+      "gloss": "halad nga sinunog"
     },
     {
       "surface": "ושלמים",
-      "gloss": "kag mga halad sang kalinong"
+      "gloss": "kag mga halad sang pakigdait"
     },
     {
       "surface": "על",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "בנה",
-      "gloss": "ginpatindog"
+      "gloss": "ginbanwa"
     },
     {
       "surface": "ליהוה",
@@ -57,15 +57,16 @@
     },
     {
       "surface": "והקטיר",
-      "gloss": "kag nagsunog"
+      "gloss": "kag ginsunog"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ sini"
+      "gloss": "⟨אתו⟩",
+      "marks": "ini (ang halaran \/ ang kamangyan)"
     },
     {
       "surface": "אשר",
-      "gloss": "nga"
+      "gloss": "⟨nga⟩"
     },
     {
       "surface": "לפני",
@@ -77,7 +78,7 @@
     },
     {
       "surface": "ושלם",
-      "gloss": "kag ginhimo sing himpis"
+      "gloss": "kag gintapos niya"
     },
     {
       "surface": "את",
@@ -89,6 +90,6 @@
       "gloss": "ang balay"
     }
   ],
-  "timestamp": "2026-09-21T18:31:21.790012855Z",
+  "timestamp": "2026-09-25T08:42:29.441570248Z",
   "model": "glm-5.3"
 }

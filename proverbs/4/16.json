@@ -5,15 +5,15 @@
   "book": "proverbs",
   "lang": "hil",
   "chapter": 4,
-  "translation": "Kay wala sila matulog kon wala sila makaマhimo sang malain, kag gin-agnan ang ila katulogon kon wala sila makapatumba sang iban.",
+  "translation": "Kay indi sila matulog kon indi sila makahimo sang kalaot, kag ginpangkuha ang ila tulog kon indi sila makapahuloga ⟨sang iban⟩.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "kay"
+      "gloss": "Kay"
     },
     {
       "surface": "לא",
-      "gloss": "wala"
+      "gloss": "indi"
     },
     {
       "surface": "ישנו",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "לא",
-      "gloss": "wala"
+      "gloss": "indi"
     },
     {
       "surface": "ירעו",
-      "gloss": "makahimo sang malain"
+      "gloss": "sila makahimo sang kalaot"
     },
     {
       "surface": "ונגזלה",
-      "gloss": "kag gin-agnan"
+      "gloss": "kag ginpangkuha"
     },
     {
       "surface": "שנתם",
-      "gloss": "ang ila katulogon"
+      "gloss": "ang ila tulog"
     },
     {
       "surface": "אם",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "לא",
-      "gloss": "wala"
+      "gloss": "indi"
     },
     {
       "surface": "יכשולו",
-      "gloss": "makapatumba sang iban"
+      "gloss": "sila makapahuloga"
     }
   ],
-  "timestamp": "2026-09-21T20:55:50.803467715Z",
+  "timestamp": "2026-09-25T09:48:05.255299926Z",
   "model": "glm-5.3"
 }

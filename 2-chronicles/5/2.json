@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "hil",
   "chapter": 5,
-  "translation": "Sa sadto nga tion ginpatipun ni Shelomoh ⟨את⟩ ang mga lagtaw nga katigulangan sang Yisrael kag ⟨את⟩ tanan nga mga pangulo sang mga tribo, ang mga manugdumala sang mga pamilya sang mga anak nga lalaki sang Yisrael, sa Yerushalayim, sa pagpatindog sang Arca sang Kasugtanan ni Yahweh gikan sa dakbunggay ni David — amo ina ang Tsiyon.",
+  "translation": "Sa sini nga tion gintipon ni Shelomoh ⟨את⟩ ang mga magulang nga lalaki sang Yisrael kag ⟨את⟩ tanan nga mga pangulo sang mga tribo, ang mga manunga sa mga amay sang mga anak sang Yisrael, ngadto sa Yerushalayim, sa pagpatindog sang ⟨את⟩ kahon sang kasugtanan ni Yahweh gikan sa duta sang Dawid — ina amo ang Tsiyon.",
   "tokens": [
     {
       "surface": "אז",
-      "gloss": "sa sadto nga tion"
+      "gloss": "sa sini nga tion"
     },
     {
       "surface": "יקהיל",
-      "gloss": "ginpatipun"
+      "gloss": "gintipon"
     },
     {
       "surface": "שלמה",
@@ -22,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang mga lagtaw nga katigulangan sang Yisrael"
+      "marks": "ang mga magulang nga lalaki sang Yisrael"
     },
     {
       "surface": "זקני",
-      "gloss": "mga lagtaw nga katigulangan"
+      "gloss": "ang mga magulang nga lalaki"
     },
     {
       "surface": "ישראל",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "ראשי",
-      "gloss": "mga pangulo"
+      "gloss": "nga mga pangulo"
     },
     {
       "surface": "המטות",
@@ -51,15 +51,15 @@
     },
     {
       "surface": "נשיאי",
-      "gloss": "mga manugdumala"
+      "gloss": "ang mga manunga"
     },
     {
       "surface": "האבות",
-      "gloss": "sang mga pamilya"
+      "gloss": "sa mga amay"
     },
     {
       "surface": "לבני",
-      "gloss": "sang mga anak nga lalaki"
+      "gloss": "sang mga anak"
     },
     {
       "surface": "ישראל",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "sa"
+      "gloss": "ngadto sa"
     },
     {
       "surface": "ירושלם",
@@ -80,15 +80,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang Arca"
+      "marks": "kahon sang kasugtanan ni Yahweh"
     },
     {
       "surface": "ארון",
-      "gloss": "Arca"
+      "gloss": "kahon"
     },
     {
       "surface": "ברית",
-      "gloss": "sang Kasugtanan"
+      "gloss": "sang kasugtanan"
     },
     {
       "surface": "יהוה",
@@ -96,21 +96,21 @@
     },
     {
       "surface": "מעיר",
-      "gloss": "gikan sa dakbunggay"
+      "gloss": "gikan sa duta"
     },
     {
       "surface": "דויד",
-      "gloss": "ni David"
+      "gloss": "sang Dawid"
     },
     {
       "surface": "היא",
-      "gloss": "amo ina"
+      "gloss": "ina"
     },
     {
       "surface": "ציון",
       "gloss": "ang Tsiyon"
     }
   ],
-  "timestamp": "2026-09-21T22:02:19.180083882Z",
+  "timestamp": "2026-09-25T08:46:58.604456956Z",
   "model": "glm-5.3"
 }

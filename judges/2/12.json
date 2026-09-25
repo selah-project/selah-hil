@@ -5,16 +5,16 @@
   "book": "judges",
   "lang": "hil",
   "chapter": 2,
-  "translation": "Kag ginbayaan nila ⟨kang⟩ Yahweh, ang Elohim sang ila mga kag-anak, nga nagpagwa ⟨אתם⟩ sa duta sang Mitsrayim, kag nagsunod sila sa mga Elohim nga lain, sa mga dios sang mga pungsod nga ara sa palibot nila, kag nagluhod sila sa ila tuod, kag ginpahigad nila ⟨kang⟩ Yahweh.",
+  "translation": "Kag ginbayaan nila ⟨את⟩ si Yahweh, ang Elohim sang ila mga amay, ang nagguwa ⟨את⟩ sa ila sa duta sang Mitsrayim, kag nagsunod sila sa mga iban nga mga dios, sa mga dios sang mga pungsod nga ara sa palibot nila, kag nagsimba sila sa mga ina, kag ginpaakig nila ⟨את⟩ si Yahweh.",
   "tokens": [
     {
       "surface": "ויעזבו",
-      "gloss": "Kag ginbayaan nila"
+      "gloss": "kag ginbayaan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahweh"
+      "marks": "si Yahweh"
     },
     {
       "surface": "יהוה",
@@ -22,20 +22,20 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "ang Elohim sang"
+      "gloss": "Elohim"
     },
     {
       "surface": "אבותם",
-      "gloss": "ila mga kag-anak"
+      "gloss": "sang ila mga amay"
     },
     {
       "surface": "המוציא",
-      "gloss": "nga nagpagwa"
+      "gloss": "ang nagguwa"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨אתם⟩",
-      "marks": "sa duta sang Mitsrayim"
+      "gloss": "⟨את⟩",
+      "marks": "sa ila"
     },
     {
       "surface": "מארץ",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "וילכו",
-      "gloss": "kag nagsunod sila"
+      "gloss": "kag nagsunod"
     },
     {
       "surface": "אחרי",
@@ -55,19 +55,19 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "mga Elohim"
+      "gloss": "mga dios"
     },
     {
       "surface": "אחרים",
-      "gloss": "nga lain"
+      "gloss": "mga iban"
     },
     {
       "surface": "מאלהי",
-      "gloss": "sa mga dios sang"
+      "gloss": "sa mga dios"
     },
     {
       "surface": "העמים",
-      "gloss": "mga pungsod"
+      "gloss": "sang mga pungsod"
     },
     {
       "surface": "אשר",
@@ -75,30 +75,30 @@
     },
     {
       "surface": "סביבותיהם",
-      "gloss": "ara sa palibot nila"
+      "gloss": "sa palibot nila"
     },
     {
       "surface": "וישתחוו",
-      "gloss": "kag nagluhod sila"
+      "gloss": "kag nagsimba"
     },
     {
       "surface": "להם",
-      "gloss": "sa ila tuod"
+      "gloss": "sa mga ina"
     },
     {
       "surface": "ויכעסו",
-      "gloss": "kag ginpahigad nila"
+      "gloss": "kag ginpaakig"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahweh"
+      "marks": "si Yahweh"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-09-21T17:45:52.208852841Z",
+  "timestamp": "2026-09-25T09:35:30.510060745Z",
   "model": "glm-5.3"
 }

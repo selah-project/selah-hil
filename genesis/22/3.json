@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 22,
-  "translation": "Kag nagbangon si Avraham sa kaagahon, kag ginsakyan niya ⟨את⟩ ang iya abo, kag nagkuha sia ⟨את⟩ sang iya duha ka katabang kaupod niya, kag ⟨את⟩ si Yitskhak nga iya anak, kag nagputol sia sang kahoy para sa halad nga sinusunog, kag nagtindog kag naglakat sia sa duta nga ginsiling sang Elohim sa iya.",
+  "translation": "Kag nagbangon si Avraham sa masayod nga aga, kag naglayhog ⟨את⟩ iya buriko, kag nagdala ⟨את⟩ duha ka iya mga batan-on kaupod ⟨את⟩ niya kag ⟨את⟩ si Yitskhak nga iya anak, kag nagtabas sang mga kahoy sang halad nga sinunog, kag nagtindog kag naglakat sa ang duog nga ginhambal sang Elohim sa iya.",
   "tokens": [
     {
       "surface": "וישכם",
-      "gloss": "nagbangon sa kaagahon"
+      "gloss": "nagbangon sa masayod"
     },
     {
       "surface": "אברהם",
@@ -17,29 +17,29 @@
     },
     {
       "surface": "בבקר",
-      "gloss": "sa kaagahon"
+      "gloss": "nga aga"
     },
     {
       "surface": "ויחבש",
-      "gloss": "ginsakyan"
+      "gloss": "naglayhog"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang iya abo"
+      "marks": "iya buriko"
     },
     {
       "surface": "חמרו",
-      "gloss": "iya abo"
+      "gloss": "iya buriko"
     },
     {
       "surface": "ויקח",
-      "gloss": "nagkuha"
+      "gloss": "nagdala"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sang iya duha ka katabang"
+      "marks": "duha"
     },
     {
       "surface": "שני",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "נעריו",
-      "gloss": "ka katabang"
+      "gloss": "iya mga batan-on"
     },
     {
       "surface": "אתו",
@@ -60,7 +60,7 @@
     },
     {
       "surface": "יצחק",
-      "gloss": "Yitskhak"
+      "gloss": "si Yitskhak"
     },
     {
       "surface": "בנו",
@@ -68,15 +68,15 @@
     },
     {
       "surface": "ויבקע",
-      "gloss": "nagputol"
+      "gloss": "nagtabas"
     },
     {
       "surface": "עצי",
-      "gloss": "sang kahoy"
+      "gloss": "sang mga kahoy"
     },
     {
       "surface": "עלה",
-      "gloss": "halad nga sinusunog"
+      "gloss": "sang halad nga sinunog"
     },
     {
       "surface": "ויקם",
@@ -92,7 +92,7 @@
     },
     {
       "surface": "המקום",
-      "gloss": "duta"
+      "gloss": "ang duog"
     },
     {
       "surface": "אשר",
@@ -100,7 +100,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "ginsiling"
+      "gloss": "ginhambal"
     },
     {
       "surface": "לו",
@@ -111,6 +111,6 @@
       "gloss": "sang Elohim"
     }
   ],
-  "timestamp": "2026-09-21T16:04:01.903359495Z",
+  "timestamp": "2026-09-25T09:14:35.571948059Z",
   "model": "glm-5.3"
 }

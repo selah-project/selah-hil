@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 13,
-  "translation": "Busa amo ini ang ginhambal ni Adonay Yahweh: Yari ako batok sa inyo mga unlan, nga didto kamo nagapangayam ⟨את⟩ sang mga kalag sa pagpalupad; kag paggisi ko sila gikan sa inyo mga brasuhay, kag pagpaluwas ko ⟨את⟩ ang mga kalag nga ginapangayam ninyo — ⟨את⟩ mga kalag sa pagpalupad.",
+  "translation": "Gani amo ini ang gin-hambal ni Adonay Yahweh: Yari ako ⟨batok⟩ sa inyo mga unlan, nga sa diin kamo nagapanginhas didto sang ⟨את⟩ mga kalag sa pagpalupad, kag ginsi ko ⟨את⟩ silá halin sa inyo mga braso, kag pagpalakaton ko ⟨את⟩ ang mga kalag nga kamo ginapanginhas ⟨את⟩ mga kalag sa pagpalupad.",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "Busa"
+      "gloss": "Gani"
     },
     {
       "surface": "כה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "ang ginhambal"
+      "gloss": "ang gin-hambal"
     },
     {
       "surface": "אדני",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "batok sa"
+      "gloss": "sa"
     },
     {
       "surface": "כסתותיכנה",
-      "gloss": "ino mga unlan"
+      "gloss": "inoyo mga unlan"
     },
     {
       "surface": "אשר",
-      "gloss": "nga"
+      "gloss": "nga sa diin"
     },
     {
       "surface": "אתנה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "מצדדות",
-      "gloss": "nagapangayam"
+      "gloss": "nagapanginhas"
     },
     {
       "surface": "שם",
@@ -70,24 +70,24 @@
     },
     {
       "surface": "וקרעתי",
-      "gloss": "kag paggisi ko"
+      "gloss": "kag ginsi ko"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "sila (ang mga unlan)"
+      "marks": "silá (ang inoyo mga unlan)"
     },
     {
       "surface": "מעל",
-      "gloss": "gikan sa"
+      "gloss": "halin sa"
     },
     {
       "surface": "זרועתיכם",
-      "gloss": "inyo mga brasuhay"
+      "gloss": "inoyo mga braso"
     },
     {
       "surface": "ושלחתי",
-      "gloss": "kag pagpaluwas ko"
+      "gloss": "kag pagpalakaton ko"
     },
     {
       "surface": "את",
@@ -108,7 +108,7 @@
     },
     {
       "surface": "מצדדות",
-      "gloss": "ginapangayam"
+      "gloss": "ginapanginhas"
     },
     {
       "surface": "את",
@@ -124,6 +124,6 @@
       "gloss": "sa pagpalupad"
     }
   ],
-  "timestamp": "2026-09-21T19:44:55.989189547Z",
+  "timestamp": "2026-09-25T09:07:49.567767673Z",
   "model": "glm-5.3"
 }

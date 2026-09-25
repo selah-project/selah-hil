@@ -5,36 +5,37 @@
   "book": "2-samuel",
   "lang": "hil",
   "chapter": 8,
-  "translation": "Kag gintumba niya ⟨את⟩ ang Moab kag ginsukod niya sila sang pisi, nga pabugtaron sila sa duta; kag ginsukod niya ang duha ka pisi sa pagpatay, kag ang bug-os nga pisi sa pagbuhin; kag ang Moab nangin mga ulipon ni David, mga magdala sang halaran.",
+  "translation": "Ginsikad niya ⟨את⟩ Moab kag ginsukod sila sang lana, ginpahigda sila ⟨את⟩ sa duta; kag ginsukod niya duha ka lana sa pagpatay, kag ang puno sang lana sa pagbuhi; kag nangin Moab nga mga sulugoon ni David, mga nagadala sang halad.",
   "tokens": [
     {
       "surface": "ויך",
-      "gloss": "Kag gintumba niya"
+      "gloss": "ginsikad niya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang Moab"
+      "marks": "Moab"
     },
     {
       "surface": "מואב",
-      "gloss": "ang Moab"
+      "gloss": "Moab"
     },
     {
       "surface": "וימדדם",
-      "gloss": "kag ginsukod niya sila"
+      "gloss": "kag ginsukod sila"
     },
     {
       "surface": "בחבל",
-      "gloss": "sang pisi"
+      "gloss": "sang lana"
     },
     {
       "surface": "השכב",
-      "gloss": "nga pabugtaron"
+      "gloss": "ginpahigda"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ sila"
+      "gloss": "⟨את⟩",
+      "marks": "sa duta"
     },
     {
       "surface": "ארצה",
@@ -46,11 +47,11 @@
     },
     {
       "surface": "שני",
-      "gloss": "ang duha"
+      "gloss": "duha ka"
     },
     {
       "surface": "חבלים",
-      "gloss": "ka pisi"
+      "gloss": "lana"
     },
     {
       "surface": "להמית",
@@ -58,15 +59,15 @@
     },
     {
       "surface": "ומלא",
-      "gloss": "kag ang bug-os"
+      "gloss": "kag ang puno"
     },
     {
       "surface": "החבל",
-      "gloss": "nga pisi"
+      "gloss": "sang lana"
     },
     {
       "surface": "להחיות",
-      "gloss": "sa pagbuhin"
+      "gloss": "sa pagbuhi"
     },
     {
       "surface": "ותהי",
@@ -74,25 +75,25 @@
     },
     {
       "surface": "מואב",
-      "gloss": "ang Moab"
+      "gloss": "Moab"
     },
     {
       "surface": "לדוד",
-      "gloss": "mga ulipon ni David"
+      "gloss": "ni David"
     },
     {
       "surface": "לעבדים",
-      "gloss": "mga ulipon"
+      "gloss": "mga sulugoon"
     },
     {
       "surface": "נשאי",
-      "gloss": "mga magdala"
+      "gloss": "mga nagadala"
     },
     {
       "surface": "מנחה",
-      "gloss": "sang halaran"
+      "gloss": "sang halad"
     }
   ],
-  "timestamp": "2026-09-21T18:15:54.715151192Z",
+  "timestamp": "2026-09-25T08:54:02.546227254Z",
   "model": "glm-5.3"
 }

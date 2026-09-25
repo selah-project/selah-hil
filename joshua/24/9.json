@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "hil",
   "chapter": 24,
-  "translation": "Kag nagtindog si Balak, anak ni Tsipor, hari sang Moav, kag nakig-away batok sa Yisrael; kag nagsaad kag gintawag <siya> kay Bileam, anak ni Beor, sa paglumain ⟨אתכם⟩ sa inyo.",
+  "translation": "Nagbangon si Balak nga anak ni Tsippor, hari sang Moav, kag nakig-away batok sa Yisrael; kag nagsugo kag nagtawag kay Bilam nga anak ni Beor, sa pagtunglo ⟨אתכם⟩ sa inyo kamo.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "kag nagtindog"
+      "gloss": "nagbangon"
     },
     {
       "surface": "בלק",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "צפור",
-      "gloss": "ni Tsipor"
+      "gloss": "ni Tsippor"
     },
     {
       "surface": "מלך",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "וישלח",
-      "gloss": "kag nagsaad"
+      "gloss": "kag nagsugo"
     },
     {
       "surface": "ויקרא",
-      "gloss": "kag gintawag"
+      "gloss": "kag nagtawag"
     },
     {
       "surface": "לבלעם",
-      "gloss": "kay Bileam"
+      "gloss": "kay Bilam"
     },
     {
       "surface": "בן",
@@ -61,14 +61,14 @@
     },
     {
       "surface": "לקלל",
-      "gloss": "sa paglumain"
+      "gloss": "sa pagtunglo"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨אתכם⟩",
-      "marks": "sa inyo"
+      "marks": "sa inyo kamo"
     }
   ],
-  "timestamp": "2026-09-21T22:25:11.672754194Z",
+  "timestamp": "2026-09-25T09:33:27.917371418Z",
   "model": "glm-5.3"
 }

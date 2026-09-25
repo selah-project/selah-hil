@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "hil",
   "chapter": 17,
-  "translation": "Kag nagsiling siya sa iya iloy: Ang isa ka libo kag isa ka gatos ka pilak nga ginkuha sa imo, nga gintunglo mo kag ginhambal mo man sa akon mga dalunggan — tan-awa, ang pilak ara sa akon; ako ang nangkuha sini. Kag nagsiling ang iya iloy: Ginpakamaayo ang akon anak kay Yahweh.",
+  "translation": "Kag nagsiling siya sa iya iloy: Ang isa ka libo kag isa ka gatos ka pilak nga ginkuha sa imo, kag ⟨את⟩ ako ginsumpa kag ginhambal man sa akon mga dalunggan — yari, ang pilak ⟨את⟩ ako; ako ang nagkuha sini. Kag nagsiling ang iya iloy: Ginpanalanginan ang akon anak sang Yahweh.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Kag nagsiling siya"
+      "gloss": "Kag nagsiling"
     },
     {
       "surface": "לאמו",
@@ -41,19 +41,20 @@
     },
     {
       "surface": "ואתי",
-      "gloss": "kag ako"
+      "gloss": "kag ⟨את⟩ ako",
+      "marks": "ako"
     },
     {
       "surface": "אלית",
-      "gloss": "gintunglo mo"
+      "gloss": "ginsumpa"
     },
     {
       "surface": "וגם",
-      "gloss": "kag man"
+      "gloss": "kag"
     },
     {
       "surface": "אמרת",
-      "gloss": "ginhambal mo"
+      "gloss": "ginhambal man"
     },
     {
       "surface": "באזני",
@@ -61,7 +62,7 @@
     },
     {
       "surface": "הנה",
-      "gloss": "tan-awa"
+      "gloss": "yari"
     },
     {
       "surface": "הכסף",
@@ -69,7 +70,8 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ sa akon"
+      "gloss": "⟨את⟩ ako",
+      "marks": "ako"
     },
     {
       "surface": "אני",
@@ -77,7 +79,7 @@
     },
     {
       "surface": "לקחתיו",
-      "gloss": "ang nangkuha sini"
+      "gloss": "nagkuha sini"
     },
     {
       "surface": "ותאמר",
@@ -89,7 +91,7 @@
     },
     {
       "surface": "ברוך",
-      "gloss": "Ginpakamaayo"
+      "gloss": "Ginpanalanginan"
     },
     {
       "surface": "בני",
@@ -97,9 +99,9 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "kay Yahweh"
+      "gloss": "sang Yahweh"
     }
   ],
-  "timestamp": "2026-09-21T17:55:05.069637037Z",
+  "timestamp": "2026-09-25T09:36:02.954365879Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "2-kings",
   "lang": "hil",
   "chapter": 4,
-  "translation": "Kag ang isa ka babae nga asawa sa mga anak sang mga manalagna nagsinggit kay Elisha, nga nagaingon: Ang imo sulugoon nga akon bana namatay, kag ikaw nakahibalo nga ang imo sulugoon ⟨naga⟩hahadlok ⟨kay⟩ Yahweh, kag ang nagpautang nagari sa pagkuha ⟨את⟩ sang akon duha ka anak para sa iya maggined mga sulugoon.",
+  "translation": "Kag ⟨ang⟩ isa ka asawa sang mga asawa sang mga anak sang mga manalagna nagpaningkad kay Elisha, nga nagsiling: Ang imo ulipon, ang akon bana, patay na; kag ikaw nasayod nga ang imo ulipon amo ⟨ang⟩ nagakahadlok ⟨kay⟩ ⟨את⟩ Yahweh; kag ang nagpautang nagaari sa pagkuha ⟨את⟩ sang akon duha ka anak sa iya ⟨nga⟩ mga ulipon.",
   "tokens": [
     {
       "surface": "ואשה",
-      "gloss": "kag ⟨ang⟩ babae"
+      "gloss": "Kag ⟨ang⟩ asawa"
     },
     {
       "surface": "אחת",
-      "gloss": "isa ka"
+      "gloss": "isa"
     },
     {
       "surface": "מנשי",
-      "gloss": "nga asawa sa"
+      "gloss": "sang mga asawa"
     },
     {
       "surface": "בני",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "mga manalagna"
+      "gloss": "sang mga manalagna"
     },
     {
       "surface": "צעקה",
-      "gloss": "nagsinggit"
+      "gloss": "nagpaningkad"
     },
     {
       "surface": "אל",
@@ -41,19 +41,19 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "nga nagaingon"
+      "gloss": "nga nagsiling"
     },
     {
       "surface": "עבדך",
-      "gloss": "ang imo sulugoon"
+      "gloss": "ang imo ulipon"
     },
     {
       "surface": "אישי",
-      "gloss": "nga akon bana"
+      "gloss": "ang akon bana"
     },
     {
       "surface": "מת",
-      "gloss": "namatay"
+      "gloss": "patay na"
     },
     {
       "surface": "ואתה",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ידעת",
-      "gloss": "nakahibalo"
+      "gloss": "nasayod"
     },
     {
       "surface": "כי",
@@ -69,20 +69,20 @@
     },
     {
       "surface": "עבדך",
-      "gloss": "ang imo sulugoon"
+      "gloss": "ang imo ulipon"
     },
     {
       "surface": "היה",
-      "gloss": "⟨naga⟩"
+      "gloss": "⟨amo⟩"
     },
     {
       "surface": "ירא",
-      "gloss": "hahadlok"
+      "gloss": "nagakahadlok"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahweh"
+      "marks": "kay Yahweh"
     },
     {
       "surface": "יהוה",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "nagari"
+      "gloss": "nagaari"
     },
     {
       "surface": "לקחת",
@@ -103,7 +103,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "duha ka anak"
+      "marks": "sang akon duha ka anak"
     },
     {
       "surface": "שני",
@@ -111,17 +111,17 @@
     },
     {
       "surface": "ילדי",
-      "gloss": "ka anak"
+      "gloss": "ka anak ko"
     },
     {
       "surface": "לו",
-      "gloss": "para sa iya"
+      "gloss": "sa iya"
     },
     {
       "surface": "לעבדים",
-      "gloss": "maggined mga sulugoon"
+      "gloss": "mga ulipon"
     }
   ],
-  "timestamp": "2026-09-21T18:41:10.874766106Z",
+  "timestamp": "2026-09-25T08:51:16.494469732Z",
   "model": "glm-5.3"
 }

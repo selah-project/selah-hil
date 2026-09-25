@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "hil",
   "chapter": 1,
-  "translation": "Kag nanumpa ang hari kag naghambal: Buhi si Yahweh, nga nagtubos sang akon kalag ⟨gikan⟩ sa tanan nga kalisod.",
+  "translation": "Kag napanumpa ang hari kag nagsiling: Buhi si Yahweh, nga nagtubos sang ⟨את⟩ akon kalag halin sa tanan nga kagul-an",
   "tokens": [
     {
       "surface": "וישבע",
-      "gloss": "kag nanumpa"
+      "gloss": "kag napanumpa"
     },
     {
       "surface": "המלך",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "kag naghambal"
+      "gloss": "kag nagsiling"
     },
     {
       "surface": "חי",
-      "gloss": "Buhi"
+      "gloss": "buhi"
     },
     {
       "surface": "יהוה",
@@ -38,21 +38,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang akon kalag"
+      "marks": "akon kalag"
     },
     {
       "surface": "נפשי",
-      "gloss": "ang akon kalag"
+      "gloss": "akon kalag"
     },
     {
       "surface": "מכל",
-      "gloss": "sa tanan nga"
+      "gloss": "halin sa tanan"
     },
     {
       "surface": "צרה",
-      "gloss": "kalisod"
+      "gloss": "nga kagul-an"
     }
   ],
-  "timestamp": "2026-09-21T18:26:18.724795455Z",
+  "timestamp": "2026-09-25T08:38:41.094179034Z",
   "model": "glm-5.3"
 }

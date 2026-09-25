@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "hil",
   "chapter": 6,
-  "translation": "Kag ikaw magapamati gikan sa mga langit, gikan sa imo puluy-anan, kag himoun mo ang tanan nga ang dayo magatawag sa imo, agod makilala sang tanan nga mga katawhan sang duta ⟨את⟩ ang imo Ngalan, kag magakadlahad ⟨sa imo⟩ nga pareho sang imo katawhan nga Yisrael, kag agod makilala nila nga ang imo Ngalan gintawag sa ini nga balay nga akon gintukod.",
+  "translation": "Kag ikaw magabati gikan sa mga langit, gikan sa imo puy-anan, kag himomon mo ang tanan nga pangamuyan sa imo sang dayo, agod makilala sang tanan nga mga pungsod sang duta ⟨את⟩ ang imo ngalan, kag magatahod ⟨את⟩ sa imo pareho sang imo pungsod nga si Yisrael, kag agod makilala nila nga ang imo ngalan ginatawag sa ini nga balay nga akon gintindog.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -13,31 +13,31 @@
     },
     {
       "surface": "תשמע",
-      "gloss": "magapamati"
+      "gloss": "magabati"
     },
     {
       "surface": "מן",
-      "gloss": "gikan sa"
+      "gloss": "gikan"
     },
     {
       "surface": "השמים",
-      "gloss": "mga langit"
+      "gloss": "sa mga langit"
     },
     {
       "surface": "ממכון",
-      "gloss": "gikan sa puluy-anan"
+      "gloss": "gikan sa"
     },
     {
       "surface": "שבתך",
-      "gloss": "imo puluy-anan"
+      "gloss": "imo puy-anan"
     },
     {
       "surface": "ועשית",
-      "gloss": "kag himoun mo"
+      "gloss": "kag himomon mo"
     },
     {
       "surface": "ככל",
-      "gloss": "sumala sa tanan"
+      "gloss": "suno sa tanan"
     },
     {
       "surface": "אשר",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "עמי",
-      "gloss": "mga katawhan"
+      "gloss": "mga pungsod"
     },
     {
       "surface": "הארץ",
@@ -78,15 +78,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang imo Ngalan"
+      "marks": "ang imo ngalan"
     },
     {
       "surface": "שמך",
-      "gloss": "imo Ngalan"
+      "gloss": "imo ngalan"
     },
     {
       "surface": "וליראה",
-      "gloss": "kag sa pagkadlahad"
+      "gloss": "kag magatahod"
     },
     {
       "surface": "אתך",
@@ -95,7 +95,7 @@
     },
     {
       "surface": "כעמך",
-      "gloss": "pareho sang imo katawhan"
+      "gloss": "pareho sang imo pungsod"
     },
     {
       "surface": "ישראל",
@@ -103,7 +103,7 @@
     },
     {
       "surface": "ולדעת",
-      "gloss": "kag sa pagkilala"
+      "gloss": "kag makilala"
     },
     {
       "surface": "כי",
@@ -111,11 +111,11 @@
     },
     {
       "surface": "שמך",
-      "gloss": "imo Ngalan"
+      "gloss": "imo ngalan"
     },
     {
       "surface": "נקרא",
-      "gloss": "gintawag"
+      "gloss": "ginatawag"
     },
     {
       "surface": "על",
@@ -123,7 +123,7 @@
     },
     {
       "surface": "הבית",
-      "gloss": "ang balay"
+      "gloss": "balay"
     },
     {
       "surface": "הזה",
@@ -135,9 +135,9 @@
     },
     {
       "surface": "בניתי",
-      "gloss": "akon gintukod"
+      "gloss": "akon gintindog"
     }
   ],
-  "timestamp": "2026-09-21T22:01:51.691037513Z",
+  "timestamp": "2026-09-25T08:49:53.448261427Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "hil",
   "chapter": 3,
-  "translation": "Kag ang bata nga si Shemuël nagaalagad ⟨kang⟩ Yahweh sa atubangan ni Eli, kag ang pulong ni Yahweh bilidhon sa mga adlaw nga ina — wala sing panan-aw nga nagabuto.",
+  "translation": "Kag ang bata nga si Shemuel nagaalagad kay Yahweh ⟨את⟩ sang ⟨sa⟩ atubangan ni Eli, kag ang pulong ni Yahweh ⟨aram⟩ nagkakahalaga sa mga adlaw nga ina; wala sing bisyon nga nagabuto.",
   "tokens": [
     {
       "surface": "והנער",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "שמואל",
-      "gloss": "si Shemuël"
+      "gloss": "si Shemuel"
     },
     {
       "surface": "משרת",
@@ -22,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahweh"
+      "marks": "kay Yahweh"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "kay Yahweh"
     },
     {
       "surface": "לפני",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "היה",
-      "gloss": "amo"
+      "gloss": "⟨aram⟩"
     },
     {
       "surface": "יקר",
-      "gloss": "bilidhon"
+      "gloss": "nagkakahalaga"
     },
     {
       "surface": "בימים",
@@ -66,13 +66,13 @@
     },
     {
       "surface": "חזון",
-      "gloss": "panan-aw"
+      "gloss": "bisyong"
     },
     {
       "surface": "נפרץ",
       "gloss": "nagabuto"
     }
   ],
-  "timestamp": "2026-09-21T17:58:48.563117566Z",
+  "timestamp": "2026-09-25T08:43:37.400837172Z",
   "model": "glm-5.3"
 }

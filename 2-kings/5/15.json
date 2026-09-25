@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "hil",
   "chapter": 5,
-  "translation": "Kag nagpauli siya sa tawo sang Elohim, siya kag ang tanan nga iya kampo, kag nagkadto kag nagtindog sa iya atubangan, kag nagsiling: Yari karon, nahibaluan ko nga wala sing Elohim sa tanan nga duta kundi sa Yisrael; kag subong, kuhaa ⟨gikan⟩ ⟨את⟩ ang panalangin sang imo sulugoon.",
+  "translation": "Kag nagbalik siya sa tawo sang Elohim, siya kag ang tanan sang iya ka kampo, kag nagdayon kag nagtindog sa iya atubangan, kag nagsiling: Tan-awa, pangadye, nahibaluan ko nga wala sing Elohim sa bug-os nga duta kundi sa Yisrael; kag subong, kuhaa, pangadye, sang panalangin sa ⟨את⟩ imo sulugoon.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "kag nagpauli"
+      "gloss": "kag nagbalik"
     },
     {
       "surface": "אל",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "מחנהו",
-      "gloss": "nga iya kampo"
+      "gloss": "sang iya ka kampo"
     },
     {
       "surface": "ויבא",
-      "gloss": "kag nagkadto"
+      "gloss": "kag nagdayon"
     },
     {
       "surface": "ויעמד",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "הנה",
-      "gloss": "Yari"
+      "gloss": "tan-awa"
     },
     {
       "surface": "נא",
-      "gloss": "karon"
+      "gloss": "pangadye"
     },
     {
       "surface": "ידעתי",
@@ -69,15 +69,15 @@
     },
     {
       "surface": "אין",
-      "gloss": "wala"
+      "gloss": "wala sing"
     },
     {
       "surface": "אלהים",
-      "gloss": "sing Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "בכל",
-      "gloss": "sa tanan"
+      "gloss": "sa bug-os"
     },
     {
       "surface": "הארץ",
@@ -85,11 +85,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "kung indi"
+      "gloss": "kundi"
     },
     {
       "surface": "אם",
-      "gloss": "kung indi"
+      "gloss": ""
     },
     {
       "surface": "בישראל",
@@ -105,22 +105,22 @@
     },
     {
       "surface": "נא",
-      "gloss": "palihog"
+      "gloss": "pangadye"
     },
     {
       "surface": "ברכה",
-      "gloss": "ang panalangin"
+      "gloss": "sang panalangin"
     },
     {
       "surface": "מאת",
-      "gloss": "gikan ⟨את⟩",
-      "marks": "ang panalangin sang imo sulugoon"
+      "gloss": "⟨את⟩",
+      "marks": "imo sulugoon"
     },
     {
       "surface": "עבדך",
-      "gloss": "sang imo sulugoon"
+      "gloss": "imo sulugoon"
     }
   ],
-  "timestamp": "2026-09-21T22:59:25.374799349Z",
+  "timestamp": "2026-09-25T08:50:25.455601325Z",
   "model": "glm-5.3"
 }

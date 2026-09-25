@@ -5,31 +5,32 @@
   "book": "1-kings",
   "lang": "hil",
   "chapter": 2,
-  "translation": "Kag subong, isa ka pangamuyo ang akon ginpangamuyo sa ⟨את⟩ imo; indi pagbaliksa ang akon dagway. Kag nagsiling siya sa iya, Hambala.",
+  "translation": "Kag subong, isa ka pagpangamoy akon nga ginapangamoy ⟨את⟩ sa imo — indi pagbalikli-i ⟨את⟩ ang akon dagway. Kag nagsiling siya sa iya: Hambala.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "Kag subong"
+      "gloss": "kag subong"
     },
     {
       "surface": "שאלה",
-      "gloss": "pangamuyo"
+      "gloss": "pagpangamoy"
     },
     {
       "surface": "אחת",
-      "gloss": "isa ka"
+      "gloss": "isa"
     },
     {
       "surface": "אנכי",
-      "gloss": "ang akon"
+      "gloss": "akon"
     },
     {
       "surface": "שאל",
-      "gloss": "ginpangamuyo"
+      "gloss": "ginapangamoy"
     },
     {
       "surface": "מאתך",
-      "gloss": "sa ⟨את⟩ imo"
+      "gloss": "⟨את⟩ sa imo",
+      "marks": "sa imo"
     },
     {
       "surface": "אל",
@@ -37,7 +38,7 @@
     },
     {
       "surface": "תשבי",
-      "gloss": "pagbaliksa"
+      "gloss": "pagbalikli-i"
     },
     {
       "surface": "את",
@@ -50,7 +51,7 @@
     },
     {
       "surface": "ותאמר",
-      "gloss": "Kag nagsiling"
+      "gloss": "kag nagsiling"
     },
     {
       "surface": "אליו",
@@ -61,6 +62,6 @@
       "gloss": "Hambala"
     }
   ],
-  "timestamp": "2026-09-21T18:26:02.867998190Z",
+  "timestamp": "2026-09-25T08:40:56.457265843Z",
   "model": "glm-5.3"
 }

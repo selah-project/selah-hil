@@ -5,27 +5,27 @@
   "book": "judges",
   "lang": "hil",
   "chapter": 2,
-  "translation": "Kag gintipon man ang tanan sang sadto nga kaliwatan sa ila mga kag-anak, kag nagtindog ang isa ka lain nga kaliwatan human sa ila, nga wala makakilala ⟨kang⟩ Yahweh kag indi man ⟨ang⟩ obra nga iya ginhimo para sa Yisrael.",
+  "translation": "Kag ginpurok man ang tanan nga henerasyon nga ina sa ila mga amay, kag nagtindog ang isa ka lain nga henerasyon human sa ila, nga wala makakilala ⟨kay⟩ ⟨את⟩ Yahweh kag ⟨gani⟩ ⟨את⟩ ang ginhimo nga obra nga iya ginhimo para sa Yisrael.",
   "tokens": [
     {
       "surface": "וגם",
-      "gloss": "Kag man"
+      "gloss": "kag ginpurok man"
     },
     {
       "surface": "כל",
-      "gloss": "ang tanan sang"
+      "gloss": "ang tanan nga"
     },
     {
       "surface": "הדור",
-      "gloss": "kaliwatan"
+      "gloss": "henerasyon"
     },
     {
       "surface": "ההוא",
-      "gloss": "sadto nga"
+      "gloss": "nga ina"
     },
     {
       "surface": "נאספו",
-      "gloss": "gintipon"
+      "gloss": "ginpurok"
     },
     {
       "surface": "אל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אבותיו",
-      "gloss": "ila mga kag-anak"
+      "gloss": "ila mga amay"
     },
     {
       "surface": "ויקם",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "דור",
-      "gloss": "ang kaliwatan"
+      "gloss": "henerasyon"
     },
     {
       "surface": "אחר",
-      "gloss": "nga lain"
+      "gloss": "lain"
     },
     {
       "surface": "אחריהם",
@@ -74,16 +74,16 @@
     },
     {
       "surface": "וגם",
-      "gloss": "kag indi man"
+      "gloss": "kag gani"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "obra"
+      "marks": "ang ginhimo nga obra"
     },
     {
       "surface": "המעשה",
-      "gloss": "ang obra"
+      "gloss": "ang ginhimo nga obra"
     },
     {
       "surface": "אשר",
@@ -91,13 +91,13 @@
     },
     {
       "surface": "עשה",
-      "gloss": "ginhimo iya"
+      "gloss": "iya ginhimo"
     },
     {
       "surface": "לישראל",
       "gloss": "para sa Yisrael"
     }
   ],
-  "timestamp": "2026-09-21T17:45:52.208499905Z",
+  "timestamp": "2026-09-25T09:36:03.412095318Z",
   "model": "glm-5.3"
 }

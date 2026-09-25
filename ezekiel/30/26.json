@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 30,
-  "translation": "Kag paglatyonon ko ⟨את⟩ ang Mitsrayim sa tunga sang mga pungsod, kag pagwagtangon ko sila sa tunga sang mga duta; kag makilala nila nga ako si Yahweh.",
+  "translation": "Kag pagsamponahon ko ⟨את⟩ ang Mitsrayim sa tanang pungsod, kag pagkalat-on ko sila sa mga duta, kag makaila sila nga ako si Yahweh.",
   "tokens": [
     {
       "surface": "והפצותי",
-      "gloss": "kag paglatyonon ko"
+      "gloss": "kag pagsamponahon ko"
     },
     {
       "surface": "את",
@@ -22,24 +22,24 @@
     },
     {
       "surface": "בגוים",
-      "gloss": "sa tunga sang mga pungsod"
+      "gloss": "sa tanang pungsod"
     },
     {
       "surface": "וזריתי",
-      "gloss": "kag pagwagtangon ko"
+      "gloss": "kag pagkalat-on ko"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "sila (ang katawhan sang Mitsrayim)"
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "sa mga duta"
     },
     {
       "surface": "בארצות",
-      "gloss": "sa tunga sang mga duta"
+      "gloss": "sa mga duta"
     },
     {
       "surface": "וידעו",
-      "gloss": "kag makilala nila"
+      "gloss": "kag makaila sila"
     },
     {
       "surface": "כי",
@@ -54,6 +54,6 @@
       "gloss": "si Yahweh"
     }
   ],
-  "timestamp": "2026-09-21T19:53:44.375745057Z",
+  "timestamp": "2026-09-25T09:10:57.854246472Z",
   "model": "glm-5.3"
 }

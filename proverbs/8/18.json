@@ -5,11 +5,11 @@
   "book": "proverbs",
   "lang": "hil",
   "chapter": 8,
-  "translation": "Kabayanan kag himaya ⟨ang⟩ ⟨⟨⟩ ara ⟨את⟩ sa akon; pinamungan nga kabayanan kag pagkamatarong.",
+  "translation": "Kamanang kag himaya ⟨את⟩ ako; kabakul nga madugay kag pagkamatarong.",
   "tokens": [
     {
       "surface": "עשר",
-      "gloss": "Kabayanan"
+      "gloss": "kamanang"
     },
     {
       "surface": "וכבוד",
@@ -17,21 +17,22 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ sa akon"
+      "gloss": "⟨את⟩ ako",
+      "marks": "ako"
     },
     {
       "surface": "הון",
-      "gloss": "pinamungan nga kabayanan"
+      "gloss": "kabakul"
     },
     {
       "surface": "עתק",
-      "gloss": "duag nga biloggon"
+      "gloss": "nga madugay"
     },
     {
       "surface": "וצדקה",
       "gloss": "kag pagkamatarong"
     }
   ],
-  "timestamp": "2026-09-21T20:57:17.906903548Z",
+  "timestamp": "2026-09-25T09:52:30.259054920Z",
   "model": "glm-5.3"
 }

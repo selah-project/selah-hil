@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 31,
-  "translation": "Kag gintawag ni Moshe si Yehoshua, kag nagsiling siya sa iya sa atubang sang tanan nga ISrael: Makusog ka kag magpanimalus, kay ikaw amo ang magsulod kaupod ⟨את⟩ sang sini nga katawhan sa duta nga ginsumpaan ni Yahweh sa ila mga katanog nga ihatag sa ila, kag ikaw ang magapamanubli sini sa ila.",
+  "translation": "Gintawag ni Moshe si Yehoshua kag naghambal siya sa iya sa atubangan sang tanan nga Yisrael: Magpakaisog kag magpinalanggon, kay ikaw ang magakadto upod ⟨את⟩ sang katawhan nga ini padulong sa duta nga ginpanumpa ni Yahweh sa ila mga kag-anak nga ihatag sa ila; kag ikaw ang magapamanungahon sa ila ⟨את⟩ ⟨אותם⟩.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "Kag gintawag"
+      "gloss": "Gintawag"
     },
     {
       "surface": "משה",
@@ -21,31 +21,31 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "kag nagsiling"
+      "gloss": "kag naghambal"
     },
     {
       "surface": "אליו",
-      "gloss": "siya sa iya"
+      "gloss": "sa iya"
     },
     {
       "surface": "לעיני",
-      "gloss": "sa atubang"
+      "gloss": "sa atubangan"
     },
     {
       "surface": "כל",
-      "gloss": "sang tanan"
+      "gloss": "tanan nga"
     },
     {
       "surface": "ישראל",
-      "gloss": "nga ISrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "חזק",
-      "gloss": "Makusog ka"
+      "gloss": "Magpakaisog"
     },
     {
       "surface": "ואמץ",
-      "gloss": "kag magpanimalus"
+      "gloss": "kag magpinalanggon"
     },
     {
       "surface": "כי",
@@ -57,24 +57,24 @@
     },
     {
       "surface": "תבוא",
-      "gloss": "amo ang magsulod"
+      "gloss": "ang magakadto"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sang sini nga katawhan"
+      "marks": "sang katawhan nga ini"
     },
     {
       "surface": "העם",
-      "gloss": "sang katawhan"
+      "gloss": "katawhan"
     },
     {
       "surface": "הזה",
-      "gloss": "sini nga"
+      "gloss": "nga ini"
     },
     {
       "surface": "אל",
-      "gloss": "sa"
+      "gloss": "padulong sa"
     },
     {
       "surface": "הארץ",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "נשבע",
-      "gloss": "ginsumpaan"
+      "gloss": "ginpanumpa"
     },
     {
       "surface": "יהוה",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "לאבתם",
-      "gloss": "sa ila mga katanog"
+      "gloss": "sa ila mga kag-anak"
     },
     {
       "surface": "לתת",
@@ -110,13 +110,14 @@
     },
     {
       "surface": "תנחילנה",
-      "gloss": "ang magapamanubli sini"
+      "gloss": "ang magapamanungahon"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ sa ila"
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "sa ila (ang katawhan)"
     }
   ],
-  "timestamp": "2026-09-21T17:33:52.666766249Z",
+  "timestamp": "2026-09-25T09:01:15.631611545Z",
   "model": "glm-5.3"
 }

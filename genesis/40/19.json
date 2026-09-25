@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 40,
-  "translation": "Sa sulod pa sang tatlo ka adlaw itimwa ni Paro ⟨את⟩ ang imo ulo halin sa ibabaw mo, kag itindog ⟨⟨את⟩ ika⟩ sa kahoy, kag magakaon ang langgam ⟨את⟩ ang imo unod halin sa ibabaw mo.",
+  "translation": "Sa sulod pa sang tatlo ka adlaw pagatimbro ni Paro ⟨את⟩ ang imo ulo halin sa ibabaw mo, kag gabiton ⟨את⟩ ikaw sa isa ka kahoy, kag kaonon sang langgam ⟨את⟩ ang imo unod halin sa ibabaw mo.",
   "tokens": [
     {
       "surface": "בעוד",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "שלשת",
-      "gloss": "tatlo ka"
+      "gloss": "tatlo"
     },
     {
       "surface": "ימים",
-      "gloss": "adlaw"
+      "gloss": "ka adlaw"
     },
     {
       "surface": "ישא",
-      "gloss": "itimwa"
+      "gloss": "pagatimbro"
     },
     {
       "surface": "פרעה",
@@ -42,11 +42,12 @@
     },
     {
       "surface": "ותלה",
-      "gloss": "kag itindog"
+      "gloss": "kag gabiton"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ ika"
+      "gloss": "⟨את⟩",
+      "marks": "ikaw"
     },
     {
       "surface": "על",
@@ -58,11 +59,11 @@
     },
     {
       "surface": "ואכל",
-      "gloss": "kag magakaon"
+      "gloss": "kag kaonon"
     },
     {
       "surface": "העוף",
-      "gloss": "ang langgam"
+      "gloss": "sang langgam"
     },
     {
       "surface": "את",
@@ -78,6 +79,6 @@
       "gloss": "halin sa ibabaw mo"
     }
   ],
-  "timestamp": "2026-09-21T22:58:15.672817479Z",
+  "timestamp": "2026-09-25T09:17:22.950186500Z",
   "model": "glm-5.3"
 }

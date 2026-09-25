@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "hil",
   "chapter": 14,
-  "translation": "Wala bala ini ang ginhambal namon sa imo sa Mitsrayim, nga nagaingon: Pahuwaya kami, agod mag-alagad kami ⟨את⟩ sang mga Mitsrite? Kay maayo sa amon ang mag-alagad ⟨את⟩ sang mga Mitsrite sangsa ang pagpatay namon sa kamingawan.",
+  "translation": "Indi bala ini ang pulong nga amon ginhambal sa imo sa Mitsrayim, nga nagsiling: Pahuya kuno sa amon, kag magaalagad kami ⟨את⟩ sang Mitsrayim, kay maayo para sa amon ang mag-alagad ⟨את⟩ sang Mitsrayim kaysa ang mamatay kami sa kamingawan?",
   "tokens": [
     {
       "surface": "הלא",
-      "gloss": "Wala bala"
+      "gloss": "indi bala"
     },
     {
       "surface": "זה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "ang ginhambal"
+      "gloss": "ang pulong"
     },
     {
       "surface": "אשר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "דברנו",
-      "gloss": "namon"
+      "gloss": "ginhambal sang amon"
     },
     {
       "surface": "אליך",
@@ -37,32 +37,32 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "nga nagaingon"
+      "gloss": "nga nagsiling"
     },
     {
       "surface": "חדל",
-      "gloss": "Pahuwaya kami"
+      "gloss": "pahuya"
     },
     {
       "surface": "ממנו",
-      "gloss": ""
+      "gloss": "sa amon"
     },
     {
       "surface": "ונעבדה",
-      "gloss": "agod mag-alagad kami"
+      "gloss": "kag magaalagad kami"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sang mga Mitsrite"
+      "marks": "sang Mitsrayim"
     },
     {
       "surface": "מצרים",
-      "gloss": "sang mga Mitsrite"
+      "gloss": "Mitsrayim"
     },
     {
       "surface": "כי",
-      "gloss": "Kay"
+      "gloss": "kay"
     },
     {
       "surface": "טוב",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "לנו",
-      "gloss": "sa amon"
+      "gloss": "para sa amon"
     },
     {
       "surface": "עבד",
@@ -79,21 +79,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sang mga Mitsrite"
+      "marks": "sang Mitsrayim"
     },
     {
       "surface": "מצרים",
-      "gloss": "sang mga Mitsrite"
+      "gloss": "Mitsrayim"
     },
     {
       "surface": "ממתנו",
-      "gloss": "sangsa ang pagpatay namon"
+      "gloss": "ang mamatay kami"
     },
     {
       "surface": "במדבר",
       "gloss": "sa kamingawan"
     }
   ],
-  "timestamp": "2026-09-21T16:26:11.660597329Z",
+  "timestamp": "2026-09-25T09:04:12.261877109Z",
   "model": "glm-5.3"
 }

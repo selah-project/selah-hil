@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "hil",
   "chapter": 21,
-  "translation": "Kag kon magbagâ ang baka sang isa ka tawo ⟨את⟩ ang baka sang iya isigkatawo kag magkatay, ibaligya nila ang baka nga buhi kag bahin-on nila ⟨את⟩ ang iya pilak, kag ⟨את⟩ ang patay ibahin man nila.",
+  "translation": "Kag kon magbatok ang baka sang isa ka tawo sa ⟨את⟩ ang baka sang iya isigkabuhi kag mapatay, ibaligya nila ang ⟨את⟩ buhi nga baka kag ibahin ang ⟨את⟩ iya pilak; kag ang ⟨את⟩ patay ibahin man nila.",
   "tokens": [
     {
       "surface": "וכי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יגף",
-      "gloss": "magbagâ"
+      "gloss": "magbatok"
     },
     {
       "surface": "שור",
@@ -34,20 +34,20 @@
     },
     {
       "surface": "רעהו",
-      "gloss": "sang iya isigkatawo"
+      "gloss": "sang iya isigkabuhi"
     },
     {
       "surface": "ומת",
-      "gloss": "kag magkatay"
+      "gloss": "kag mapatay"
     },
     {
       "surface": "ומכרו",
-      "gloss": "kag ibaligya nila"
+      "gloss": "ibaligya nila"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang baka"
+      "marks": "ang buhi nga baka"
     },
     {
       "surface": "השור",
@@ -55,24 +55,24 @@
     },
     {
       "surface": "החי",
-      "gloss": "nga buhi"
+      "gloss": "buhi"
     },
     {
       "surface": "וחצו",
-      "gloss": "kag bahin-on nila"
+      "gloss": "kag ibahin"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang iya pilak"
+      "marks": "iya pilak"
     },
     {
       "surface": "כספו",
-      "gloss": "ang iya pilak"
+      "gloss": "iya pilak"
     },
     {
       "surface": "וגם",
-      "gloss": "kag man"
+      "gloss": "kag … man"
     },
     {
       "surface": "את",
@@ -88,6 +88,6 @@
       "gloss": "ibahin nila"
     }
   ],
-  "timestamp": "2026-09-21T22:19:16.842637344Z",
+  "timestamp": "2026-09-25T09:05:29.556023052Z",
   "model": "glm-5.3"
 }

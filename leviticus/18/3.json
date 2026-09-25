@@ -5,19 +5,19 @@
   "book": "leviticus",
   "lang": "hil",
   "chapter": 18,
-  "translation": "Suno sa binuhatan sang duta sang Mitsrayim, nga diin kamo nagpuyo didto, indi ninyo buhaton; kag suno sa binuhatan sang duta sang Kenaan, nga diin ako magadala ⟨sa inyo⟩ didto, indi ninyo buhaton; kag sa ila mga kasuguan indi kamo magalakat.",
+  "translation": "Suno sa mga buhat sang duta sang Mitsrayim nga diin kamo nag-estar didto, indi ninyo himoon; kag suno sa mga buhat sang duta sang Kenahan nga diin ako gapasulod ⟨את⟩ kamo, indi ninyo himoon; kag sa ila mga pagtulun-an indi kamo maglakat.",
   "tokens": [
     {
       "surface": "כמעשה",
-      "gloss": "suno sa binuhatan"
+      "gloss": "suno sa mga buhat"
     },
     {
       "surface": "ארץ",
-      "gloss": "duta"
+      "gloss": "sang duta"
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayim"
+      "gloss": "sang Mitsrayim"
     },
     {
       "surface": "אשר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ישבתם",
-      "gloss": "kamo nagpuyo"
+      "gloss": "kamo nag-estar"
     },
     {
       "surface": "בה",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "תעשו",
-      "gloss": "ninyo buhaton"
+      "gloss": "ninyo himoon"
     },
     {
       "surface": "וכמעשה",
-      "gloss": "kag suno sa binuhatan"
+      "gloss": "kag suno sa mga buhat"
     },
     {
       "surface": "ארץ",
-      "gloss": "duta"
+      "gloss": "sang duta"
     },
     {
       "surface": "כנען",
-      "gloss": "Kenaan"
+      "gloss": "sang Kenahan"
     },
     {
       "surface": "אשר",
@@ -61,12 +61,12 @@
     },
     {
       "surface": "מביא",
-      "gloss": "magadala"
+      "gloss": "gapasulod"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "sa inyo"
+      "gloss": "⟨את⟩ kamo",
+      "marks": "kamo"
     },
     {
       "surface": "שמה",
@@ -78,11 +78,11 @@
     },
     {
       "surface": "תעשו",
-      "gloss": "ninyo buhaton"
+      "gloss": "ninyo himoon"
     },
     {
       "surface": "ובחקתיהם",
-      "gloss": "kag sa ila mga kasuguan"
+      "gloss": "kag sa ila mga pagtulun-an"
     },
     {
       "surface": "לא",
@@ -90,9 +90,9 @@
     },
     {
       "surface": "תלכו",
-      "gloss": "kamo magalakat"
+      "gloss": "kamo maglakat"
     }
   ],
-  "timestamp": "2026-09-21T22:21:19.348095442Z",
+  "timestamp": "2026-09-25T09:38:30.817205599Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "hil",
   "chapter": 20,
-  "translation": "Kag ginpakdi ni Pashchur ⟨את⟩ si Yirmeyahu ang manalagna, kag ginpahamtang niya ⟨siya⟩ sa mga gapos nga ara sa pultahan sang Binyamin, ang itaas, nga ara sa balay ni Yahweh.",
+  "translation": "Kag ginhampas ni Pashchur ⟨את⟩ si Yirmeyahu nga manalagna, kag ginpwesto niya ⟨את⟩ siya sa hawiran nga yara sa ganghaan sang Binyamin nga itaas, nga yara sa balay ni Yahweh.",
   "tokens": [
     {
       "surface": "ויכה",
-      "gloss": "kag ginpakdi"
+      "gloss": "kag ginhampas"
     },
     {
       "surface": "פשחור",
@@ -26,16 +26,16 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "ang manalagna"
+      "gloss": "nga manalagna"
     },
     {
       "surface": "ויתן",
-      "gloss": "kag ginpahamtang"
+      "gloss": "kag ginpwesto"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ siya",
-      "marks": "si Yirmeyahu"
+      "marks": "si Yirmeyahu (ginsabat sang על)"
     },
     {
       "surface": "על",
@@ -43,15 +43,15 @@
     },
     {
       "surface": "המהפכת",
-      "gloss": "mga gapos"
+      "gloss": "hawiran"
     },
     {
       "surface": "אשר",
-      "gloss": "nga"
+      "gloss": "nga yara"
     },
     {
       "surface": "בשער",
-      "gloss": "sa pultahan"
+      "gloss": "sa ganghaan"
     },
     {
       "surface": "בנימן",
@@ -59,11 +59,11 @@
     },
     {
       "surface": "העליון",
-      "gloss": "ang itaas"
+      "gloss": "nga itaas"
     },
     {
       "surface": "אשר",
-      "gloss": "nga"
+      "gloss": "nga yara"
     },
     {
       "surface": "בבית",
@@ -74,6 +74,6 @@
       "gloss": "ni Yahweh"
     }
   ],
-  "timestamp": "2026-09-21T19:24:41.127293104Z",
+  "timestamp": "2026-09-25T09:24:56.020892181Z",
   "model": "glm-5.3"
 }

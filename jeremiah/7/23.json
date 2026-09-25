@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "hil",
   "chapter": 7,
-  "translation": "Kundi ang pulong ini ang ginpanugsog ko ⟨את⟩ sa ila, nga nagasiling: Pamatii ang akon tingog, kag ako maga Elohim sa inyo, kag kamo maga sa akon nga katawhan; kag magalakat kamo sa tanan nga dalan nga ipapanugsog ko ⟨את⟩ ninyo, agod mag-ayo sa inyo.",
+  "translation": "Kundi ang ⟨את⟩ pulong ini ang ginsogo ko ⟨את⟩ sa ila, nga nagasiling: Pamati kamo sa akon tingog, kag magaalagad ako sa inyo nga Elohim, kag kamo magaako sa akon nga katawhan, kag magalakat kamo sa tanan nga dalan nga isogoon ko ⟨את⟩ sa inyo, agod maayo ang inyo kahimtangan.",
   "tokens": [
     {
       "surface": "כי",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang pulong"
+      "marks": "ang pulong ini"
     },
     {
       "surface": "הדבר",
-      "gloss": "ang pulong"
+      "gloss": "pulong"
     },
     {
       "surface": "הזה",
@@ -30,12 +30,12 @@
     },
     {
       "surface": "צויתי",
-      "gloss": "ginpanugsog ko"
+      "gloss": "ang ginsogo ko"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "sa ila"
+      "gloss": "⟨את⟩ sa ila",
+      "marks": "ila"
     },
     {
       "surface": "לאמר",
@@ -43,15 +43,15 @@
     },
     {
       "surface": "שמעו",
-      "gloss": "Pamatii"
+      "gloss": "Pamati kamo"
     },
     {
       "surface": "בקולי",
-      "gloss": "ang akon tingog"
+      "gloss": "sa akon tingog"
     },
     {
       "surface": "והייתי",
-      "gloss": "kag ako maga"
+      "gloss": "kag magaalagad ako"
     },
     {
       "surface": "לכם",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "תהיו",
-      "gloss": "maga"
+      "gloss": "magaako kamo"
     },
     {
       "surface": "לי",
@@ -83,11 +83,11 @@
     },
     {
       "surface": "בכל",
-      "gloss": "sa tanan"
+      "gloss": "sa tanan nga"
     },
     {
       "surface": "הדרך",
-      "gloss": "nga dalan"
+      "gloss": "dalan"
     },
     {
       "surface": "אשר",
@@ -95,12 +95,12 @@
     },
     {
       "surface": "אצוה",
-      "gloss": "ipapanugsog ko"
+      "gloss": "isogoon ko"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "ninyo"
+      "gloss": "⟨את⟩ sa inyo",
+      "marks": "kamo"
     },
     {
       "surface": "למען",
@@ -108,13 +108,13 @@
     },
     {
       "surface": "ייטב",
-      "gloss": "mag-ayo"
+      "gloss": "maayo"
     },
     {
       "surface": "לכם",
-      "gloss": "sa inyo"
+      "gloss": "ang inyo kahimtangan"
     }
   ],
-  "timestamp": "2026-09-21T19:19:35.906891069Z",
+  "timestamp": "2026-09-25T09:29:38.368265790Z",
   "model": "glm-5.3"
 }

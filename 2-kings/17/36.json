@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "hil",
   "chapter": 17,
-  "translation": "Kundi si Yahweh ⟨את⟩ — nga nagdala ⟨sa⟩ inyo gikan sa duta sang Mitsrayim sing dakung kusog kag sing binuka nga braso — siya ⟨אתו⟩ ang kahadlukan ninyo, kag sa iya magpanaod kamo, kag sa iya maghalad kamo.",
+  "translation": "kundi ⟨את⟩ si Yahweh, nga nagdala ⟨את⟩ sa inyo gikan sa duta sang Mitsrayim sing dakung gahum kag sang bugay nga tinuyong, ⟨את⟩ siya ang kamo pagakalahulayan, kag sa iya kamo magasimbahan, kag sa iya kamo magahalad;",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Kundi"
+      "gloss": "kundi"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "kundi"
     },
     {
       "surface": "את",
@@ -30,12 +30,12 @@
     },
     {
       "surface": "העלה",
-      "gloss": "nagdala"
+      "gloss": "nagdala sa ibabaw"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "kamo"
+      "gloss": "⟨את⟩ sa inyo",
+      "marks": "sa inyo"
     },
     {
       "surface": "מארץ",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "בכח",
-      "gloss": "sing kusog"
+      "gloss": "sing gahum"
     },
     {
       "surface": "גדול",
@@ -55,20 +55,20 @@
     },
     {
       "surface": "ובזרוע",
-      "gloss": "kag sing braso"
+      "gloss": "kag sang bugay"
     },
     {
       "surface": "נטויה",
-      "gloss": "binuka nga"
+      "gloss": "nga tinuyong"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "siya"
+      "gloss": "⟨את⟩ siya",
+      "marks": "si Yahweh"
     },
     {
       "surface": "תיראו",
-      "gloss": "ang kahadlukan ninyo"
+      "gloss": "ang kamo pagakalahulayan"
     },
     {
       "surface": "ולו",
@@ -76,7 +76,7 @@
     },
     {
       "surface": "תשתחוו",
-      "gloss": "magpanaod kamo"
+      "gloss": "kamo magasimbahan"
     },
     {
       "surface": "ולו",
@@ -84,9 +84,9 @@
     },
     {
       "surface": "תזבחו",
-      "gloss": "maghalad kamo"
+      "gloss": "kamo magahalad"
     }
   ],
-  "timestamp": "2026-09-21T18:47:11.502146005Z",
+  "timestamp": "2026-09-25T08:46:35.843160716Z",
   "model": "glm-5.3"
 }

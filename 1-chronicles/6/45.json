@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "hil",
   "chapter": 6,
-  "translation": "Kag sa tribo ni Binjamin: ⟨את⟩ ang Geba kag ang iya mga latian, kag ⟨את⟩ ang Alemeth kag ang iya mga latian, kag ⟨את⟩ ang Anatot kag ⟨את⟩ ang iya mga latian — tanan nga ila mga dakbanwa: napulo kag tatlo ka dakbanwa, segun sa ila mga pamilya.",
+  "translation": "Kag gikan sa tribo ni Binjamin: ⟨את⟩ Gava kag ⟨את⟩ iya mga parparan, kag ⟨את⟩ Alemet kag ⟨את⟩ iya mga parparan, kag ⟨את⟩ Anatot kag ⟨את⟩ iya mga parparan; tanan nga ila mga ciudad tatlo kag napulo ka ciudad sa ila mga panimalay.",
   "tokens": [
     {
       "surface": "וממטה",
-      "gloss": "kag sa tribo"
+      "gloss": "kag gikan sa tribo"
     },
     {
       "surface": "בנימן",
@@ -18,56 +18,56 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang Geba"
+      "marks": "Gava"
     },
     {
       "surface": "גבע",
-      "gloss": "ang Geba"
+      "gloss": "Gava"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang iya mga latian"
+      "marks": "iya mga parparan"
     },
     {
       "surface": "מגרשיה",
-      "gloss": "ang iya mga latian"
+      "gloss": "iya mga parparan"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang Alemeth"
+      "marks": "Alemet"
     },
     {
       "surface": "עלמת",
-      "gloss": "ang Alemeth"
+      "gloss": "Alemet"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang iya mga latian"
+      "marks": "iya mga parparan"
     },
     {
       "surface": "מגרשיה",
-      "gloss": "ang iya mga latian"
+      "gloss": "iya mga parparan"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang Anatot"
+      "marks": "Anatot"
     },
     {
       "surface": "ענתות",
-      "gloss": "ang Anatot"
+      "gloss": "Anatot"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang iya mga latian"
+      "marks": "iya mga parparan"
     },
     {
       "surface": "מגרשיה",
-      "gloss": "ang iya mga latian"
+      "gloss": "iya mga parparan"
     },
     {
       "surface": "כל",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "עריהם",
-      "gloss": "nga ila mga dakbanwa"
+      "gloss": "ila mga ciudad"
     },
     {
       "surface": "שלש",
@@ -83,17 +83,17 @@
     },
     {
       "surface": "עשרה",
-      "gloss": "napulo kag"
+      "gloss": "kag napulo"
     },
     {
       "surface": "עיר",
-      "gloss": "ka dakbanwa"
+      "gloss": "ka ciudad"
     },
     {
       "surface": "במשפחותיהם",
-      "gloss": "segun sa ila mga pamilya"
+      "gloss": "sa ila mga panimalay"
     }
   ],
-  "timestamp": "2026-09-21T21:52:01.151799231Z",
+  "timestamp": "2026-09-25T08:37:57.971119405Z",
   "model": "glm-5.3"
 }

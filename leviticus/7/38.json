@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "hil",
   "chapter": 7,
-  "translation": "nga ginsugo ni Yahweh ⟨את⟩ kay Moshe sa bukid sang Sinai, sa adlaw nga iya ginasugo ⟨את⟩ ang mga anak nga lalaki sang Yisrael sa paghalad sang ila mga korbano kay Yahweh, sa kamingawan sang Sinai.",
+  "translation": "nga ginsogo ni Yahweh ⟨kay⟩ Moshe sa bukid sang Sinai, sa adlaw nga pagsogo niya ⟨את⟩ sang mga anak nga lalaki sang Yisrael nga magahalad sang ila ⟨mga⟩ halad kay Yahweh sa kamingawan sang Sinai.",
   "tokens": [
     {
       "surface": "אשר",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "צוה",
-      "gloss": "ginsugo"
+      "gloss": "ginsogo"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kay Moshe"
+      "marks": "si Moshe"
     },
     {
       "surface": "משה",
@@ -42,16 +42,16 @@
     },
     {
       "surface": "צותו",
-      "gloss": "iya pagsugo"
+      "gloss": "nga pagsogo niya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang mga anak nga lalaki sang Yisrael"
+      "marks": "sang mga anak sang Yisrael"
     },
     {
       "surface": "בני",
-      "gloss": "ang mga anak nga lalaki"
+      "gloss": "mga anak"
     },
     {
       "surface": "ישראל",
@@ -59,16 +59,16 @@
     },
     {
       "surface": "להקריב",
-      "gloss": "sa paghalad"
+      "gloss": "nga magahalad"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sang ila mga korbano"
+      "marks": "sang ila mga halad"
     },
     {
       "surface": "קרבניהם",
-      "gloss": "sang ila mga korbano"
+      "gloss": "sang ila mga halad"
     },
     {
       "surface": "ליהוה",
@@ -83,6 +83,6 @@
       "gloss": "sang Sinai"
     }
   ],
-  "timestamp": "2026-09-21T16:42:31.743166638Z",
+  "timestamp": "2026-09-25T09:40:23.835031413Z",
   "model": "glm-5.3"
 }

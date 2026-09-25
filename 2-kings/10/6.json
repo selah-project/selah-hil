@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "hil",
   "chapter": 10,
-  "translation": "Kag ginsulat sa ila sulat nga ikaduha, nga nagasiling: Kon sa akon kamo, kag sa akon tingog kamo nagapamati, pagkuhaa ⟨את⟩ ang mga ulo sang mga tawo nga mga anak sang inyo agalon, kag magari sa akon sa tion nga ini, sa ugma, sa Yizreel. Kag ang mga anak sang hari, pito ka pulo ka tawo, ara ⟨ka⟩ sang mga dako sang dakbanwa, nga nagadako sa ila.",
+  "translation": "Kag nagsulat siya sa ila sang sulat sang ikaduha nga tion, nga nagasiling: Kon akon kamo, kag kon sa akon tingog kamo nagapati, kuhaa ninyo ⟨את⟩ ang mga ulo sang mga tawo, mga anak sang inyo mga agalon, kag magkadto kamo sa akon subong nga tion sa magab-i, sa Yizreel. Kag ang mga anak sang hari, pito ka pulo ka tawo, ara kaupod ⟨את⟩ sang mga dumalagko sang siyudad, sila ang nagadako ⟨את⟩ ⟨אותם⟩ sa ila.",
   "tokens": [
     {
       "surface": "ויכתב",
-      "gloss": "ginsulat"
+      "gloss": "kag nagsulat siya"
     },
     {
       "surface": "אליהם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "ספר",
-      "gloss": "sulat"
+      "gloss": "sang sulat"
     },
     {
       "surface": "שנית",
-      "gloss": "nga ikaduha"
+      "gloss": "sang ikaduha nga tion"
     },
     {
       "surface": "לאמר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "לי",
-      "gloss": "sa akon"
+      "gloss": "akon"
     },
     {
       "surface": "אתם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ולקלי",
-      "gloss": "kag sa akon tingog"
+      "gloss": "kag kon sa akon tingog"
     },
     {
       "surface": "אתם",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "שמעים",
-      "gloss": "nagapamati"
+      "gloss": "nagapati"
     },
     {
       "surface": "קחו",
-      "gloss": "pagkuhaa"
+      "gloss": "kuhaa ninyo"
     },
     {
       "surface": "את",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "ראשי",
-      "gloss": "mga ulo"
+      "gloss": "ang mga ulo"
     },
     {
       "surface": "אנשי",
@@ -74,11 +74,11 @@
     },
     {
       "surface": "אדניכם",
-      "gloss": "sang inyo agalon"
+      "gloss": "sang inyo mga agalon"
     },
     {
       "surface": "ובאו",
-      "gloss": "kag magari"
+      "gloss": "kag magkadto kamo"
     },
     {
       "surface": "אלי",
@@ -86,11 +86,11 @@
     },
     {
       "surface": "כעת",
-      "gloss": "sa tion nga ini"
+      "gloss": "subong nga tion"
     },
     {
       "surface": "מחר",
-      "gloss": "sa ugma"
+      "gloss": "sa magab-i"
     },
     {
       "surface": "יזרעאלה",
@@ -115,25 +115,26 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sang mga dako"
+      "marks": "sang mga dumalagko sang siyudad"
     },
     {
       "surface": "גדלי",
-      "gloss": "sang mga dako"
+      "gloss": "sang mga dumalagko"
     },
     {
       "surface": "העיר",
-      "gloss": "sang dakbanwa"
+      "gloss": "sang siyudad"
     },
     {
       "surface": "מגדלים",
-      "gloss": "nga nagadako"
+      "gloss": "nagadako"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ sa ila"
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "sa ila"
     }
   ],
-  "timestamp": "2026-09-21T18:44:21.420570165Z",
+  "timestamp": "2026-09-25T08:49:29.453885219Z",
   "model": "glm-5.3"
 }

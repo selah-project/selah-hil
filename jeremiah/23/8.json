@@ -5,23 +5,23 @@
   "book": "jeremiah",
   "lang": "hil",
   "chapter": 23,
-  "translation": "kundi: Nagakabuhi si Yahweh, nga nagdala kag nagpakadto ⟨את⟩ sa kaliwat sang balay sang Yisrael gikan sa duta sang amihan, kag gikan sa tanan nga mga duta diin ko sila ginpagwa didto; kag magapuyo sila sa ila kaugalingon nga duta.",
+  "translation": "kundi, Baye si Yahweh nga nagdala sa gwa kag nga nagpauli sang ⟨את⟩ kaliwat sang balay sang Yisrael gikan sa duta sang amihanan kag sa tanan nga mga duta nga diin Gin-palayas Ko sila didto, kag magapuyo sila sa ila duta.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "kundi"
+      "gloss": "kay"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "kundi"
     },
     {
       "surface": "חי",
-      "gloss": "Nagakabuhi"
+      "gloss": "Baye"
     },
     {
       "surface": "יהוה",
-      "gloss": "si Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אשר",
@@ -29,20 +29,20 @@
     },
     {
       "surface": "העלה",
-      "gloss": "nagdala"
+      "gloss": "nagdala sa gwa"
     },
     {
       "surface": "ואשר",
-      "gloss": "kag"
+      "gloss": "kag nga"
     },
     {
       "surface": "הביא",
-      "gloss": "nagpakadto"
+      "gloss": "nagpauli"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sa kaliwat sang balay sang Yisrael"
+      "marks": "kaliwat sang balay sang Yisrael"
     },
     {
       "surface": "זרע",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "בית",
-      "gloss": "sang balay"
+      "gloss": "balay"
     },
     {
       "surface": "ישראל",
-      "gloss": "sang Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "מארץ",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "צפונה",
-      "gloss": "sang amihan"
+      "gloss": "sang amihanan"
     },
     {
       "surface": "ומכל",
-      "gloss": "kag gikan sa tanan"
+      "gloss": "kag sa tanan"
     },
     {
       "surface": "הארצות",
@@ -74,11 +74,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "diin"
+      "gloss": "nga"
     },
     {
       "surface": "הדחתים",
-      "gloss": "ko sila ginpagwa"
+      "gloss": "Gin-palayas Ko sila"
     },
     {
       "surface": "שם",
@@ -94,9 +94,9 @@
     },
     {
       "surface": "אדמתם",
-      "gloss": "ila kaugalingon nga duta"
+      "gloss": "ila duta"
     }
   ],
-  "timestamp": "2026-09-21T19:25:55.534874812Z",
+  "timestamp": "2026-09-25T09:24:12.659203368Z",
   "model": "glm-5.3"
 }

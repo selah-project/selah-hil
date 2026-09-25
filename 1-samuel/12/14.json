@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "hil",
   "chapter": 12,
-  "translation": "Kon magakadlaw kamo ⟨את⟩ si Yahweh kag magaalagad kamo ⟨sa iya⟩, kag magapati kamo sa iya tingog, kag indi ninyo pagbatokan ⟨את⟩ ang baba sang Yahweh, kag mangin kamo man kamo kag man ang hari nga nagahari sa ibabaw ninyo, nga nagasunod kay Yahweh, sa Elohim ninyo.",
+  "translation": "Kon magakadlaw kamo ⟨את⟩ kay Yahweh kag magaalágad kamo ⟨אתו⟩ sa iya kag magapati kamo sa iya tingog, kag indi ninyo pagrebeldehan ⟨את⟩ ang baba sang Yahweh, kamo man kag gani ang hari nga naghari sa inyo magasunod kay Yahweh nga inyo Elohim.",
   "tokens": [
     {
       "surface": "אם",
@@ -18,20 +18,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "si Yahweh"
+      "marks": "Yahweh"
     },
     {
       "surface": "יהוה",
-      "gloss": "si Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "ועבדתם",
-      "gloss": "kag magaalagad kamo"
+      "gloss": "kag magaalágad kamo"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "sa iya"
+      "gloss": "⟨אתו⟩",
+      "marks": "siya (Yahweh)"
     },
     {
       "surface": "ושמעתם",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "תמרו",
-      "gloss": "pagbatokan ninyo"
+      "gloss": "pagrebeldehan ninyo"
     },
     {
       "surface": "את",
@@ -56,15 +56,15 @@
     },
     {
       "surface": "פי",
-      "gloss": "ang baba"
+      "gloss": "baba"
     },
     {
       "surface": "יהוה",
-      "gloss": "sang Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "והיתם",
-      "gloss": "kag mangin kamo"
+      "gloss": "kag magakamo"
     },
     {
       "surface": "גם",
@@ -76,7 +76,7 @@
     },
     {
       "surface": "וגם",
-      "gloss": "kag man"
+      "gloss": "kag gani"
     },
     {
       "surface": "המלך",
@@ -88,25 +88,25 @@
     },
     {
       "surface": "מלך",
-      "gloss": "nagahari"
+      "gloss": "naghari"
     },
     {
       "surface": "עליכם",
-      "gloss": "sa ibabaw ninyo"
+      "gloss": "sa inyo"
     },
     {
       "surface": "אחר",
-      "gloss": "nga nagasunod"
+      "gloss": "sa sunod sang"
     },
     {
       "surface": "יהוה",
-      "gloss": "kay Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אלהיכם",
-      "gloss": "sa Elohim ninyo"
+      "gloss": "inyo Elohim"
     }
   ],
-  "timestamp": "2026-09-21T18:01:53.472812237Z",
+  "timestamp": "2026-09-25T08:42:49.898589373Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "hil",
   "chapter": 3,
-  "translation": "Kag si Shemuel wala ⟨pa⟩ makaila ⟨kay⟩ Yahweh, kag wala ⟨pa⟩ ginpadayag sa iya ang pulong ni Yahweh.",
+  "translation": "Kag si Shemuel wala pa nakakilala ⟨את⟩ kang Yahweh, kag wala pa ginpagpadayag sa iya ang pulong ni Yahweh.",
   "tokens": [
     {
       "surface": "ושמואל",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "טרם",
-      "gloss": "wala ⟨pa⟩"
+      "gloss": "wala pa"
     },
     {
       "surface": "ידע",
-      "gloss": "makaila"
+      "gloss": "nakakilala"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahweh"
+      "marks": "kang Yahweh"
     },
     {
       "surface": "יהוה",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "וטרם",
-      "gloss": "kag wala ⟨pa⟩"
+      "gloss": "kag wala pa"
     },
     {
       "surface": "יגלה",
-      "gloss": "ginpadayag"
+      "gloss": "ginpagpadayag"
     },
     {
       "surface": "אליו",
@@ -49,6 +49,6 @@
       "gloss": "ni Yahweh"
     }
   ],
-  "timestamp": "2026-09-21T17:59:02.636674218Z",
+  "timestamp": "2026-09-25T08:43:14.689332099Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 49,
-  "translation": "Gintawag ni Yaakov ⟨ang⟩ iya mga anak, kag naghambal: Magtinipon kamo, kag ipahayag ko sa inyo ⟨את⟩ sang matabo sa inyo sa ulihi sang mga adlaw.",
+  "translation": "Kag gintawag ni Yaakov sa iya mga anak, kag nagsiling: Magtilipon kamo, kag ipahayag ko sa inyo ⟨את⟩ ang matabo ⟨את⟩ sa inyo sa katapusan sang mga adlaw.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "Gintawag"
+      "gloss": "Kag gintawag"
     },
     {
       "surface": "יעקב",
-      "gloss": "ni Yaakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "אל",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "kag naghambal"
+      "gloss": "kag nagsiling"
     },
     {
       "surface": "האספו",
-      "gloss": "Magtinipon kamo"
+      "gloss": "Magtilipon kamo"
     },
     {
       "surface": "ואגידה",
@@ -42,11 +42,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sang matabo sa inyo"
+      "marks": "ang matabo sa inyo"
     },
     {
       "surface": "אשר",
-      "gloss": "sang"
+      "gloss": "ang"
     },
     {
       "surface": "יקרא",
@@ -54,17 +54,18 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ sa inyo"
+      "gloss": "⟨את⟩",
+      "marks": "sa inyo"
     },
     {
       "surface": "באחרית",
-      "gloss": "sa ulihi"
+      "gloss": "sa katapusan"
     },
     {
       "surface": "הימים",
       "gloss": "sang mga adlaw"
     }
   ],
-  "timestamp": "2026-09-21T16:19:27.179267542Z",
+  "timestamp": "2026-09-25T09:17:23.736168470Z",
   "model": "glm-5.3"
 }

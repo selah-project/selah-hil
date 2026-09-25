@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "hil",
   "chapter": 11,
-  "translation": "⟨את⟩ ina nga mga butang sa ila makakaon kamo: ⟨ang⟩ balang suno sa iya matang, kag ⟨את⟩ ang sol'am suno sa iya matang, kag ⟨את⟩ ang hargol suno sa iya matang, kag ⟨את⟩ ang khagav suno sa iya matang.",
+  "translation": "⟨את⟩ ina sa ila among mahimo ninyo kaon: ⟨את⟩ ang arbeh suno sa iya minan, kag ⟨את⟩ ang solam suno sa iya minan, kag ⟨את⟩ ang khargol suno sa iya minan, kag ⟨את⟩ ang khagav suno sa iya minan.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ina nga mga butang"
+      "marks": "ina"
     },
     {
       "surface": "אלה",
-      "gloss": "ina nga mga butang"
+      "gloss": "ina"
     },
     {
       "surface": "מהם",
@@ -22,46 +22,46 @@
     },
     {
       "surface": "תאכלו",
-      "gloss": "makakaon kamo"
+      "gloss": "mahimo ninyo kaon"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang balang"
+      "marks": "ang arbeh"
     },
     {
       "surface": "הארבה",
-      "gloss": "balang"
+      "gloss": "ang arbeh"
     },
     {
       "surface": "למינו",
-      "gloss": "suno sa iya matang"
+      "gloss": "suno sa iya minan"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang sol'am"
+      "marks": "ang solam"
     },
     {
       "surface": "הסלעם",
-      "gloss": "sol'am"
+      "gloss": "ang solam"
     },
     {
       "surface": "למינהו",
-      "gloss": "suno sa iya matang"
+      "gloss": "suno sa iya minan"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang hargol"
+      "marks": "ang khargol"
     },
     {
       "surface": "החרגל",
-      "gloss": "hargol"
+      "gloss": "ang khargol"
     },
     {
       "surface": "למינהו",
-      "gloss": "suno sa iya matang"
+      "gloss": "suno sa iya minan"
     },
     {
       "surface": "ואת",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "החגב",
-      "gloss": "khagav"
+      "gloss": "ang khagav"
     },
     {
       "surface": "למינהו",
-      "gloss": "suno sa iya matang"
+      "gloss": "suno sa iya minan"
     }
   ],
-  "timestamp": "2026-09-21T16:45:24.450880721Z",
+  "timestamp": "2026-09-25T09:38:52.703511197Z",
   "model": "glm-5.3"
 }

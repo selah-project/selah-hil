@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "hil",
   "chapter": 4,
-  "translation": "Kag ang mga anak ni Ezrah ⟨mga⟩: Yeter, kag Mered, kag Efer, kag Yalon; kag nagmabdos ⟨si⟩ Miryam kag ⟨את⟩ ⟨si⟩ Shamay kag ⟨את⟩ ⟨si⟩ Yishbach, amay sang Eshtemoa.",
+  "translation": "Kag ang mga anak ni Ezrah: Yeter, kag Mered, kag Efer, kag Yalon; kag ⟨siya⟩ nagdungan ⟨את⟩ si Miryam kag ⟨את⟩ si Shamay kag ⟨את⟩ si Yishbakh, nga amay sang Eshtemoa.",
   "tokens": [
     {
       "surface": "ובן",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ותהר",
-      "gloss": "kag nagmabdos"
+      "gloss": "kag nagdungan"
     },
     {
       "surface": "את",
@@ -56,21 +56,21 @@
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "si Yishbach"
+      "marks": "si Yishbakh"
     },
     {
       "surface": "ישבח",
-      "gloss": "si Yishbach"
+      "gloss": "si Yishbakh"
     },
     {
       "surface": "אבי",
-      "gloss": "amay"
+      "gloss": "nga amay"
     },
     {
       "surface": "אשתמע",
       "gloss": "sang Eshtemoa"
     }
   ],
-  "timestamp": "2026-09-21T21:51:07.595706756Z",
+  "timestamp": "2026-09-25T08:38:39.285398158Z",
   "model": "glm-5.3"
 }

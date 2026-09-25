@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "hil",
   "chapter": 8,
-  "translation": "Kag nagsiling siya: Ang akon mga utod sila, mga anak sang akon iloy; buhi ⟨si⟩ Yahweh, kon ginpabuhi ninyo sila, wala ako nagpatay ⟨את⟩ sa inyo.",
+  "translation": "Kag nagsiling siya: Ang akon mga utod, mga anak sang akon iloy, sila ⟨ang⟩; buhi si Yahweh, kon ginbihag ninyo sila nga buhi, indi bala ninyo ako pagpatye — ⟨אותם⟩ ginbihag ninyo, ⟨אתכם⟩ indi ko pagpatyon.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Kag nagsiling"
+      "gloss": "kag nagsiling siya"
     },
     {
       "surface": "אחי",
@@ -41,27 +41,27 @@
     },
     {
       "surface": "החיתם",
-      "gloss": "ginpabuhi ninyo"
+      "gloss": "ginbihag ninyo nga buhi"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ sila",
-      "marks": "sila (mga utod ni Gideon)"
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang akon mga utod)"
     },
     {
       "surface": "לא",
-      "gloss": "wala"
+      "gloss": "indi"
     },
     {
       "surface": "הרגתי",
-      "gloss": "ako nagpatay"
+      "gloss": "ninyo ako pagpatye \/ ko ipatye"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ sa inyo",
-      "marks": "kamo (si Zeba kag si Zalmuna)"
+      "gloss": "⟨אתכם⟩",
+      "marks": "kamo"
     }
   ],
-  "timestamp": "2026-09-21T22:26:17.096740764Z",
+  "timestamp": "2026-09-25T09:36:34.292286901Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "hil",
   "chapter": 16,
-  "translation": "Amo bala gamay ini sa inyo — nga ginbulag sang Elohim sang Yisrael ⟨ang inyo⟩ sa katitiponan sang Yisrael, sa pagpaduol ⟨kaninyo⟩ sa iya, sa paghimo sang ⟨את⟩ sang buluhaton sang tolda ni Yahweh, kag sa pagtindog ninyo sa atubangan sang katitiponan sa pag-alagad sa ila?",
+  "translation": "Gamay bala sa inyo nga ginbulag sang Elohim sang Yisrael ⟨את⟩ kamo sa katipunan sang Yisrael, sa pagpaduol ⟨את⟩ kamo sa iya, sa pag-alagad ⟨את⟩ sang buluhaton sang Mishkan ni Yahweh, kag sa pagtindog sa atubang sang katipunan sa pag-alagad sa ila?",
   "tokens": [
     {
       "surface": "המעט",
-      "gloss": "gamay"
+      "gloss": "gamay bala"
     },
     {
       "surface": "מכם",
@@ -25,24 +25,24 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim sang"
+      "gloss": "Elohim"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "sang Yisrael"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ kamo",
-      "marks": "sa katitiponan sang Yisrael"
+      "marks": "sa katipunan sang Yisrael"
     },
     {
       "surface": "מעדת",
-      "gloss": "sa katitiponan"
+      "gloss": "katipunan"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "sang Yisrael"
     },
     {
       "surface": "להקריב",
@@ -59,24 +59,24 @@
     },
     {
       "surface": "לעבד",
-      "gloss": "sa paghimo"
+      "gloss": "sa pag-alagad"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "buluhaton sang tolda ni Yahweh"
+      "marks": "buluhaton sang Mishkan ni Yahweh"
     },
     {
       "surface": "עבדת",
-      "gloss": "buluhaton"
+      "gloss": "sang buluhaton"
     },
     {
       "surface": "משכן",
-      "gloss": "tolda"
+      "gloss": "sang Mishkan"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "ולעמד",
@@ -84,17 +84,17 @@
     },
     {
       "surface": "לפני",
-      "gloss": "sa atubangan"
+      "gloss": "sa atubang"
     },
     {
       "surface": "העדה",
-      "gloss": "sang katitiponan"
+      "gloss": "sang katipunan"
     },
     {
       "surface": "לשרתם",
       "gloss": "sa pag-alagad sa ila"
     }
   ],
-  "timestamp": "2026-09-21T17:07:39.013377294Z",
+  "timestamp": "2026-09-25T09:46:07.015871908Z",
   "model": "glm-5.3"
 }

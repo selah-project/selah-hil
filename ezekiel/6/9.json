@@ -5,31 +5,32 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 6,
-  "translation": "Kag matandumdan sang inyo mga pinalagyo ako sa tunga sang mga pungsod, diin sila ginbihag didto, kay nabali ako sang ⟨את⟩ ila kasing-kasing nga nagamakighalay, nga nagtalinwas gikan sa akon, kag sang ⟨את⟩ ila mga mata nga nagamakighalay sunod sa ila mga idolo; kag magakasilag sila sa ila mga nawong tungod sa mga kadaotan nga ila ginhimo sa tanan nga ila mga kahalayan.",
+  "translation": "Kag matatandum sang inyo mga paligtas ako ⟨את⟩ sa tunga sang mga pungsod, diin sila ginkaptibo didto, nga ako naguba ⟨את⟩ sa ila kasingkasing nga nangangalaswa, nga natalikid sa akon, kag ⟨את⟩ sa ila mga mata nga nangangalaswa suno sa ila mga dios-dios; kag malain sila sa ila kaugalingon sa ila mga dagway tungod sa mga kalaot nga ila ginhimo, sa tanan nga ila mga mahalay.",
   "tokens": [
     {
       "surface": "וזכרו",
-      "gloss": "kag matandumdan"
+      "gloss": "Kag matatandum"
     },
     {
       "surface": "פליטיכם",
-      "gloss": "sang inyo mga pinalagyo"
+      "gloss": "mga paligtas ninyo"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ ako"
+      "gloss": "⟨את⟩",
+      "marks": "sa tunga sang mga pungsod"
     },
     {
       "surface": "בגוים",
-      "gloss": "sa tunga sang mga pungsod"
+      "gloss": "sa mga pungsod"
     },
     {
       "surface": "אשר",
-      "gloss": "diin"
+      "gloss": "nga"
     },
     {
       "surface": "נשבו",
-      "gloss": "ginbihag sila"
+      "gloss": "ginkaptibo sila"
     },
     {
       "surface": "שם",
@@ -41,20 +42,20 @@
     },
     {
       "surface": "נשברתי",
-      "gloss": "nabali ako"
+      "gloss": "ako naguba"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ila kasing-kasing"
+      "marks": "ila kasingkasing"
     },
     {
       "surface": "לבם",
-      "gloss": "ila kasing-kasing"
+      "gloss": "ila kasingkasing"
     },
     {
       "surface": "הזונה",
-      "gloss": "nga nagamakighalay"
+      "gloss": "nga nangangalaswa"
     },
     {
       "surface": "אשר",
@@ -62,11 +63,11 @@
     },
     {
       "surface": "סר",
-      "gloss": "nagtalinwas"
+      "gloss": "natalikid"
     },
     {
       "surface": "מעלי",
-      "gloss": "gikan sa akon"
+      "gloss": "sa akon"
     },
     {
       "surface": "ואת",
@@ -79,23 +80,23 @@
     },
     {
       "surface": "הזנות",
-      "gloss": "nga nagamakighalay"
+      "gloss": "nga nangangalaswa"
     },
     {
       "surface": "אחרי",
-      "gloss": "sunod sa"
+      "gloss": "suno sa"
     },
     {
       "surface": "גלוליהם",
-      "gloss": "ila mga idolo"
+      "gloss": "ila mga dios-dios"
     },
     {
       "surface": "ונקטו",
-      "gloss": "kag magakasilag sila"
+      "gloss": "kag malain sila"
     },
     {
       "surface": "בפניהם",
-      "gloss": "sa ila mga nawong"
+      "gloss": "sa ila mga dagway"
     },
     {
       "surface": "אל",
@@ -103,7 +104,7 @@
     },
     {
       "surface": "הרעות",
-      "gloss": "mga kadaotan"
+      "gloss": "mga kalaot"
     },
     {
       "surface": "אשר",
@@ -111,7 +112,7 @@
     },
     {
       "surface": "עשו",
-      "gloss": "ilhimo nila"
+      "gloss": "ginhimo nila"
     },
     {
       "surface": "לכל",
@@ -119,9 +120,9 @@
     },
     {
       "surface": "תועבתיהם",
-      "gloss": "nga ila mga kahalayan"
+      "gloss": "ila mga mahalay"
     }
   ],
-  "timestamp": "2026-09-21T19:42:04.346511727Z",
+  "timestamp": "2026-09-25T09:13:43.717252417Z",
   "model": "glm-5.3"
 }

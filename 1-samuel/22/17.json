@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "hil",
   "chapter": 22,
-  "translation": "Kag nagsiling ang hari sa mga manugalaga nga nagatindog sa iya, \"Liko kamo kag patya ang mga pardi ni Yahweh, kay ang ila kamot man kaupod ni David, kag kay kabalo sila nga nagpalagyo siya kag wala nila ginbutyag ⟨sa akun⟩ ⟨ang akun dunggan⟩.\" Apang ang mga sulugoon sang hari wala magbuyo nga ipadala ang ila kamot sa pagtama sa mga pardi ni Yahweh.",
+  "translation": "Kag nagsiling ang hari sa mga manogdalagan nga nakatindog sa iya palibot: Likawi kag pagamatya ang mga saserdote ni Yahweh, kay kaupod man sang ila kamot si David, kag kay nakahibalo sila nga nagapalagyo siya kag wala nila ginbugkos ⟨את⟩ akong dunggan; kag wala magbakod ang mga sulugoon sang hari sa pagpadalag ⟨את⟩ ila kamot sa pag-atake sa mga saserdote ni Yahweh.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "לרצים",
-      "gloss": "sa mga manugalaga"
+      "gloss": "sa mga manogdalagan"
     },
     {
       "surface": "הנצבים",
-      "gloss": "nga nagatindog"
+      "gloss": "nga nakatindog"
     },
     {
       "surface": "עליו",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "סבו",
-      "gloss": "liko kamo"
+      "gloss": "likawi"
     },
     {
       "surface": "והמיתו",
-      "gloss": "kag patya"
+      "gloss": "kag pagamatya"
     },
     {
       "surface": "כהני",
-      "gloss": "ang mga pardi"
+      "gloss": "ang mga saserdote"
     },
     {
       "surface": "יהוה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ידם",
-      "gloss": "ang ila kamot"
+      "gloss": "ila kamot"
     },
     {
       "surface": "עם",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "דוד",
-      "gloss": "ni David"
+      "gloss": "si David"
     },
     {
       "surface": "וכי",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "ידעו",
-      "gloss": "kabalo sila"
+      "gloss": "nakahibalo sila"
     },
     {
       "surface": "כי",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "ברח",
-      "gloss": "nagpalagyo"
+      "gloss": "nagapalagyo"
     },
     {
       "surface": "הוא",
@@ -89,16 +89,16 @@
     },
     {
       "surface": "גלו",
-      "gloss": "ginbutyag nila"
+      "gloss": "ginbugkos"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang akun dunggan"
+      "marks": "akong dunggan"
     },
     {
       "surface": "אזנו",
-      "gloss": "ang akun dunggan"
+      "gloss": "akong dunggan"
     },
     {
       "surface": "ולא",
@@ -106,7 +106,7 @@
     },
     {
       "surface": "אבו",
-      "gloss": "magbuyo"
+      "gloss": "magbakod"
     },
     {
       "surface": "עבדי",
@@ -118,30 +118,30 @@
     },
     {
       "surface": "לשלח",
-      "gloss": "nga ipadala"
+      "gloss": "sa pagpadalag"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang ila kamot"
+      "marks": "ila kamot"
     },
     {
       "surface": "ידם",
-      "gloss": "ang ila kamot"
+      "gloss": "ila kamot"
     },
     {
       "surface": "לפגע",
-      "gloss": "sa pagtama"
+      "gloss": "sa pag-atake"
     },
     {
       "surface": "בכהני",
-      "gloss": "sa mga pardi"
+      "gloss": "sa mga saserdote"
     },
     {
       "surface": "יהוה",
       "gloss": "ni Yahweh"
     }
   ],
-  "timestamp": "2026-09-21T18:09:30.659412477Z",
+  "timestamp": "2026-09-25T08:43:08.862694762Z",
   "model": "glm-5.3"
 }

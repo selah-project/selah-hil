@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "hil",
   "chapter": 12,
-  "translation": "Kag subong, magatindog kamo, kag pagahukoman ko ⟨את⟩ kamo sa atubangan ni Yahweh — ⟨tungod sa⟩ tanan nga mga pagkamatarong ni Yahweh nga iya ginhimo ⟨את⟩ ka inyo kag ⟨את⟩ sang inyo mga katigulangan.",
+  "translation": "Kag subong, tumindog kamo, kag pagahukman ko kamo ⟨אתכם⟩ sa atubang ni Yahweh — ⟨את⟩ ang tanan nga mga matarong nga binuhat ni Yahweh, nga iya ginhimo sa inyo kag ⟨את⟩ sa inyo mga amay.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -13,19 +13,20 @@
     },
     {
       "surface": "התיצבו",
-      "gloss": "magatindog kamo"
+      "gloss": "tumindog kamo"
     },
     {
       "surface": "ואשפטה",
-      "gloss": "kag pagahukoman ko"
+      "gloss": "kag pagahukman ko"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kamo"
+      "gloss": "⟨אתכם⟩ kamo",
+      "marks": "sa inyo"
     },
     {
       "surface": "לפני",
-      "gloss": "sa atubangan"
+      "gloss": "sa atubang"
     },
     {
       "surface": "יהוה",
@@ -34,15 +35,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tanan nga mga pagkamatarong ni Yahweh"
+      "marks": "ang tanan nga mga matarong nga binuhat"
     },
     {
       "surface": "כל",
-      "gloss": "tanan"
+      "gloss": "ang tanan"
     },
     {
       "surface": "צדקות",
-      "gloss": "mga pagkamatarong"
+      "gloss": "mga matarong nga binuhat"
     },
     {
       "surface": "יהוה",
@@ -54,22 +55,23 @@
     },
     {
       "surface": "עשה",
-      "gloss": "ginhimo"
+      "gloss": "iya ginhimo"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ka inyo"
+      "gloss": "⟨אתכם⟩ kamo",
+      "marks": "sa inyo"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang inyo mga katigulangan"
+      "marks": "sa inyo mga amay"
     },
     {
       "surface": "אבותיכם",
-      "gloss": "ang inyo mga katigulangan"
+      "gloss": "inyo mga amay"
     }
   ],
-  "timestamp": "2026-09-21T18:02:44.093429499Z",
+  "timestamp": "2026-09-25T08:42:34.091004045Z",
   "model": "glm-5.3"
 }

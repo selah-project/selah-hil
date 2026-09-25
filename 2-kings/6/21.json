@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "hil",
   "chapter": 6,
-  "translation": "Kag nagsiling ang hari sang Yisrael kay Elisha, sang nakita niya sila: Aton amay, tungdon ko bala sila, tungdon ko bala sila?",
+  "translation": "Kag naghambal ang hari sang Yisrael kay Elisha, sang nakita niya sila ⟨אותם⟩: Amay ko, hampakon ko bala sila, hampakon ko bala?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "kag nagsiling"
+      "gloss": "kag naghambal"
     },
     {
       "surface": "מלך",
@@ -33,21 +33,22 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ sila"
+      "gloss": "⟨את⟩",
+      "marks": "sila"
     },
     {
       "surface": "האכה",
-      "gloss": "tungdon ko bala"
+      "gloss": "hampakon ko bala"
     },
     {
       "surface": "אכה",
-      "gloss": "tungdon ko bala"
+      "gloss": "hampakon ko bala"
     },
     {
       "surface": "אבי",
-      "gloss": "aton amay"
+      "gloss": "Amay ko"
     }
   ],
-  "timestamp": "2026-09-21T18:40:47.913338564Z",
+  "timestamp": "2026-09-25T08:53:20.408245179Z",
   "model": "glm-5.3"
 }

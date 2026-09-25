@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "hil",
   "chapter": 21,
-  "translation": "Wala gid sing nagin pareho kay Ahab, nga nagbaligya sang iya kaugalingon sa paghimo sang kagubtan sa mga mata ni Yahweh — ⟨siya⟩ nga ginpukaw ni Izebel nga iya asawa.",
+  "translation": "Palangga, wala sing pareho kay Ahab, nga nagbaligya sang iya kaugalingon sa paghimo sang kalaot sa atubangan ni Yahweh — ginpukaw siya sang ⟨את⟩ ni Izebel, iya asawa.",
   "tokens": [
     {
       "surface": "רק",
-      "gloss": "gid"
+      "gloss": "palangga"
     },
     {
       "surface": "לא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "היה",
-      "gloss": "nagin"
+      "gloss": "sing"
     },
     {
       "surface": "כאחאב",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "הרע",
-      "gloss": "sang kagubtan"
+      "gloss": "sang kalaot"
     },
     {
       "surface": "בעיני",
-      "gloss": "sa mga mata"
+      "gloss": "sa atubangan"
     },
     {
       "surface": "יהוה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nga"
+      "gloss": "—"
     },
     {
       "surface": "הסתה",
@@ -57,8 +57,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "si Ahab"
+      "gloss": "⟨את⟩ siya",
+      "marks": "si Izebel (sa realidad ginmarkahan ni Ahab, apang ang nagsunod nga pulong amo ang nangin rason)"
     },
     {
       "surface": "איזבל",
@@ -66,9 +66,9 @@
     },
     {
       "surface": "אשתו",
-      "gloss": "nga iya asawa"
+      "gloss": "iya asawa"
     }
   ],
-  "timestamp": "2026-09-21T18:38:40.447959561Z",
+  "timestamp": "2026-09-25T08:41:19.951285699Z",
   "model": "glm-5.3"
 }

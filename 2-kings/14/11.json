@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "hil",
   "chapter": 14,
-  "translation": "Kag wala magpatalingkat si Amatsyahu, kag nag-angkat si Yehoash, hari sang Yisrael, kag nagtan-ay sila sang mga nawong, sia kag si Amatsyahu, hari sang Yehudah, sa Bet-Shemesh nga yara sa Yehudah.",
+  "translation": "Kag wala nagpatalingkad si Amatsyahu, kag nagsaka si Yehoash nga hari sang Yisrael, kag nagkita sila sing nagapadungog ⟨sa⟩ mga nawong — siya kag si Amatsyahu nga hari sang Yehudah — sa Beth-Shemesh nga ara sa Yehudah.",
   "tokens": [
     {
       "surface": "ולא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "שמע",
-      "gloss": "magpatalingkat"
+      "gloss": "nagpatalingkad"
     },
     {
       "surface": "אמציהו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ויעל",
-      "gloss": "kag nag-angkat"
+      "gloss": "kag nagsaka"
     },
     {
       "surface": "יהואש",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מלך",
-      "gloss": "hari"
+      "gloss": "nga hari"
     },
     {
       "surface": "ישראל",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "ויתראו",
-      "gloss": "kag nagtan-ay"
+      "gloss": "kag nagkita sila sing nagapadungog"
     },
     {
       "surface": "פנים",
-      "gloss": "sang mga nawong"
+      "gloss": "mga nawong"
     },
     {
       "surface": "הוא",
-      "gloss": "sia"
+      "gloss": "siya"
     },
     {
       "surface": "ואמציהו",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "מלך",
-      "gloss": "hari"
+      "gloss": "nga hari"
     },
     {
       "surface": "יהודה",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "בבית",
-      "gloss": "sa Bet"
+      "gloss": "sa Beth-"
     },
     {
       "surface": "שמש",
@@ -69,13 +69,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nga"
+      "gloss": "nga ara sa"
     },
     {
       "surface": "ליהודה",
-      "gloss": "sang Yehudah"
+      "gloss": "Yehudah"
     }
   ],
-  "timestamp": "2026-09-21T18:44:49.324835397Z",
+  "timestamp": "2026-09-25T08:49:17.602011279Z",
   "model": "glm-5.3"
 }

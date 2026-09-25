@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 48,
-  "translation": "Kag ginbendisyunan niya ⟨את⟩ si Yosef kag nagsiling: Ang Elohim nga sa iya atubangan naglakat ang akon mga kagikan — si Avraham kag si Yitskhak — ang Elohim nga nagapastol sa akon sugod sang akon pagkatawo tubtob sa adlaw nga ini —",
+  "translation": "Kag ginpakamaayo niya ⟨את⟩ si Yosef kag nagsiling: Ang Elohim nga sa iya atubangan naglakat ang akon mga amay nga si Avraham kag si Yitskhak, ang Elohim nga nagabantay sa akon sa td nga iya ginsuguran ang akon kabuhi hasta subong nga adlaw.",
   "tokens": [
     {
       "surface": "ויברך",
-      "gloss": "ginbendisyunan"
+      "gloss": "kag ginpakamaayo niya"
     },
     {
       "surface": "את",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "ang Elohim"
+      "gloss": "Ang Elohim"
     },
     {
       "surface": "אשר",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אבתי",
-      "gloss": "ang akon mga kagikan"
+      "gloss": "ang akon mga amay"
     },
     {
       "surface": "לפניו",
@@ -58,30 +58,30 @@
     },
     {
       "surface": "הרעה",
-      "gloss": "nga nagapastol"
+      "gloss": "nagabantay sa"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩",
-      "marks": "sa akon"
+      "gloss": "⟨את⟩ ako",
+      "marks": "sa td nga iya ginsuguran ang akon kabuhi"
     },
     {
       "surface": "מעודי",
-      "gloss": "sugod sang akon pagkatawo"
+      "gloss": "sa td nga iya ginsuguran ang akon kabuhi"
     },
     {
       "surface": "עד",
-      "gloss": "tubtob"
+      "gloss": "hasta"
     },
     {
       "surface": "היום",
-      "gloss": "adlaw"
+      "gloss": "subong nga adlaw"
     },
     {
       "surface": "הזה",
-      "gloss": "nga ini"
+      "gloss": "ini"
     }
   ],
-  "timestamp": "2026-09-21T16:18:35.690841904Z",
+  "timestamp": "2026-09-25T09:18:17.786268575Z",
   "model": "glm-5.3"
 }

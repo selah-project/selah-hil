@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "hil",
   "chapter": 9,
-  "translation": "Kag sang nakita ini ni Akhazyah nga hari sang Yehudah, nagpalagyo siya paagi sa Balay sang Tanaman; kag ginpangita siya ni Yehu, kag nagsiling siya: Palton man siya sa karwahe. Kag gintama siya sa pag-angat padulong sa Gur, nga duol sa Yivleam; kag nagpalagyo siya paadto sa Megido kag namatay didto.",
+  "translation": "Kag nakita ni Ahazyah nga hari sang Yehudah ⟨ito⟩, kag nagpalagyo siya sa dalan sang Balay sang Tanaman; kag nagpanungalipad si Yehu sa iya pakadto kag nagsiling: himu-a man ⟨את⟩ siya sa karo, sa pag-alsa pa-Gur, nga ara sa tapak sang ⟨את⟩ Yivleam; kag nagpalagyo siya pa-Megiddo kag namatay didto.",
   "tokens": [
     {
       "surface": "ואחזיה",
-      "gloss": "kag si Akhazyah"
+      "gloss": "kag si Ahazyah"
     },
     {
       "surface": "מלך",
-      "gloss": "nga hari"
+      "gloss": "hari"
     },
     {
       "surface": "יהודה",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "וינס",
-      "gloss": "nagpalagyo siya"
+      "gloss": "kag nagpalagyo siya"
     },
     {
       "surface": "דרך",
-      "gloss": "paeig"
+      "gloss": "sa dalan"
     },
     {
       "surface": "בית",
-      "gloss": "sa Balay"
+      "gloss": "sang Balay"
     },
     {
       "surface": "הגן",
@@ -41,19 +41,19 @@
     },
     {
       "surface": "וירדף",
-      "gloss": "ginpangita"
+      "gloss": "kag nagpanungalipad"
     },
     {
       "surface": "אחריו",
-      "gloss": "siya"
+      "gloss": "sa iya pakadto"
     },
     {
       "surface": "יהוא",
-      "gloss": "ni Yehu"
+      "gloss": "si Yehu"
     },
     {
       "surface": "ויאמר",
-      "gloss": "kag nagsiling siya"
+      "gloss": "kag nagsiling"
     },
     {
       "surface": "גם",
@@ -62,11 +62,11 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "siya"
+      "marks": "siya (si Ahazyah)"
     },
     {
       "surface": "הכהו",
-      "gloss": "palton siya"
+      "gloss": "himu-a siya"
     },
     {
       "surface": "אל",
@@ -74,19 +74,19 @@
     },
     {
       "surface": "המרכבה",
-      "gloss": "karwahe"
+      "gloss": "karo"
     },
     {
       "surface": "במעלה",
-      "gloss": "sa pag-angat"
+      "gloss": "sa pag-alsa"
     },
     {
       "surface": "גור",
-      "gloss": "padulong sa Gur"
+      "gloss": "pa-Gur"
     },
     {
       "surface": "אשר",
-      "gloss": "nga duol sa"
+      "gloss": "nga"
     },
     {
       "surface": "את",
@@ -99,11 +99,11 @@
     },
     {
       "surface": "וינס",
-      "gloss": "nagpalagyo siya"
+      "gloss": "kag nagpalagyo siya"
     },
     {
       "surface": "מגדו",
-      "gloss": "paadto sa Megido"
+      "gloss": "pa-Megiddo"
     },
     {
       "surface": "וימת",
@@ -114,6 +114,6 @@
       "gloss": "didto"
     }
   ],
-  "timestamp": "2026-09-21T18:43:31.522158516Z",
+  "timestamp": "2026-09-25T08:50:51.711907487Z",
   "model": "glm-5.3"
 }

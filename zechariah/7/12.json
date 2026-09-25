@@ -5,41 +5,41 @@
   "book": "zechariah",
   "lang": "hil",
   "chapter": 7,
-  "translation": "Kag ang ila kasingkasing ginhimo nila nga samad bato sa pagpamati sang Torah kag ⟨את⟩ ang mga pulong nga ginpadala ni Yahweh sang Tsevaot paagi sa iya Espiritu, paagi sa kamot sang mga manalagna nga nahauna; kag nagkahimo sang dako nga kaakig gikan ⟨את⟩ kay Yahweh sang Tsevaot.",
+  "translation": "Kag ang ila kasingkasing ginbutang nila nga shamir, sa pagdumili sang pagdungog sang ⟨את⟩ Torah kag sang ⟨את⟩ mga pulong nga ginsugo ni Yahweh Tsevaot paagi sa iya espiritu, sa kamot sang mga manalagna nga nahauna; kag nagdako nga kasuko ang naggikan gikan ⟨את⟩ kay Yahweh Tsevaot.",
   "tokens": [
     {
       "surface": "ולבם",
-      "gloss": "kag ang ila kasingkasing"
+      "gloss": "Kag ang ila kasingkasing"
     },
     {
       "surface": "שמו",
-      "gloss": "ginhimo nila"
+      "gloss": "ginbutang nila"
     },
     {
       "surface": "שמיר",
-      "gloss": "nga samad bato"
+      "gloss": "nga shamir"
     },
     {
       "surface": "משמוע",
-      "gloss": "sa pagpamati"
+      "gloss": "sa pagdumili sang pagdungog"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang Torah"
+      "marks": "Torah"
     },
     {
       "surface": "התורה",
-      "gloss": "sang Torah"
+      "gloss": "Torah"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang mga pulong"
+      "marks": "mga pulong"
     },
     {
       "surface": "הדברים",
-      "gloss": "ang mga pulong"
+      "gloss": "mga pulong"
     },
     {
       "surface": "אשר",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "שלח",
-      "gloss": "ginpadala"
+      "gloss": "ginsugo"
     },
     {
       "surface": "יהוה",
@@ -55,15 +55,15 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "sang Tsevaot"
+      "gloss": "Tsevaot"
     },
     {
       "surface": "ברוחו",
-      "gloss": "paagi sa iya Espiritu"
+      "gloss": "paagi sa iya espiritu"
     },
     {
       "surface": "ביד",
-      "gloss": "paagi sa kamot"
+      "gloss": "sa kamot"
     },
     {
       "surface": "הנביאים",
@@ -75,29 +75,30 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "kag nagkahimo"
+      "gloss": "kag nagdako"
     },
     {
       "surface": "קצף",
-      "gloss": "sang kaakig"
+      "gloss": "nga kasuko"
     },
     {
       "surface": "גדול",
-      "gloss": "nga dako"
+      "gloss": "kadako"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ gikan kay"
+      "gloss": "gikan ⟨את⟩",
+      "marks": "Yahweh Tsevaot"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "kay Yahweh"
     },
     {
       "surface": "צבאות",
-      "gloss": "sang Tsevaot"
+      "gloss": "Tsevaot"
     }
   ],
-  "timestamp": "2026-09-21T20:18:19.303208016Z",
+  "timestamp": "2026-09-25T09:51:37.124560985Z",
   "model": "glm-5.3"
 }

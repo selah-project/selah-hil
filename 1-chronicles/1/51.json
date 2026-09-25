@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "hil",
   "chapter": 1,
-  "translation": "Kag namatay si Hadad. Kag ang mga pangulo sang Edom ⟨amo ini⟩: si pangulo Timna, si pangulo Alva, si pangulo Yetet.",
+  "translation": "Kag namatay si Hadad, kag nangin ang mga pangulo sang Edom: pangulo si Timna, pangulo si Alva, pangulo si Yitet.",
   "tokens": [
     {
       "surface": "וימת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ויהיו",
-      "gloss": "kag <amo ini>"
+      "gloss": "kag nangin"
     },
     {
       "surface": "אלופי",
@@ -29,29 +29,29 @@
     },
     {
       "surface": "אלוף",
-      "gloss": "si pangulo"
+      "gloss": "pangulo"
     },
     {
       "surface": "תמנע",
-      "gloss": "Timna"
+      "gloss": "si Timna"
     },
     {
       "surface": "אלוף",
-      "gloss": "si pangulo"
+      "gloss": "pangulo"
     },
     {
       "surface": "עליה",
-      "gloss": "Alva"
+      "gloss": "si Alva"
     },
     {
       "surface": "אלוף",
-      "gloss": "si pangulo"
+      "gloss": "pangulo"
     },
     {
       "surface": "יתת",
-      "gloss": "Yetet"
+      "gloss": "si Yitet"
     }
   ],
-  "timestamp": "2026-09-21T21:49:13.040114841Z",
+  "timestamp": "2026-09-25T08:37:19.776886903Z",
   "model": "glm-5.3"
 }

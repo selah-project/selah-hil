@@ -1,1 +1,93 @@
-{"tier":"glm-5.2","verse":14,"ref":"2-kings 9:14","book":"2-kings","lang":"hil","chapter":9,"translation":"Kag nagtikas si Yehua nga anak ni Yehoshafat nga anak ni Nimshi batok kay Yoram, kag si Yoram ⟨naga⟩bantay sa Ramot sang Gilad, sia kag tanan nga Yisrael, tungod kay Khazael nga hari sang Aram.","tokens":[{"surface":"ויתקשר","gloss":"nagtikas"},{"surface":"יהוא","gloss":"si Yehua"},{"surface":"בן","gloss":"anak"},{"surface":"יהושפט","gloss":"Yehoshafat"},{"surface":"בן","gloss":"anak"},{"surface":"נמשי","gloss":"Nimshi"},{"surface":"אל","gloss":"batok kay"},{"surface":"יורם","gloss":"Yoram"},{"surface":"ויורם","gloss":"kag si Yoram"},{"surface":"היה","gloss":"⟨naga-⟩"},{"surface":"שמר","gloss":"bantay"},{"surface":"ברמת","gloss":"sa Ramot"},{"surface":"גלעד","gloss":"Gilad"},{"surface":"הוא","gloss":"sia"},{"surface":"וכל","gloss":""},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"מפני","gloss":"tungod kay"},{"surface":"חזאל","gloss":"Khazael"},{"surface":"מלך","gloss":"hari"},{"surface":"ארם","gloss":"Aram"}],"timestamp":"2026-09-21T18:42:56.473282152Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 9:14",
+  "book": "2-kings",
+  "lang": "hil",
+  "chapter": 9,
+  "translation": "Kag nagpanaghiusa si Yehu nga anak nga lalaki ni Yehoshafat, nga anak nga lalaki ni Nimshi, batok kay Yoram; kag si Yoram nagaabantay sa Ramot sang Gilad, siya kag tanan nga Yisrael, tungod sa atake ni Khazael nga hari sang Aram.",
+  "tokens": [
+    {
+      "surface": "ויתקשר",
+      "gloss": "nagpanaghiusa"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "si Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak nga lalaki"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "ni Yehoshafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak nga lalaki"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "ni Nimshi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "batok kay"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Yoram"
+    },
+    {
+      "surface": "ויורם",
+      "gloss": "kag si Yoram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨naga⟩abantay"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nagaabantay"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "sa Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "sang Gilad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kag tanan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nga Yisrael"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tungod sa atake sang"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Khazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "sang Aram"
+    }
+  ],
+  "timestamp": "2026-09-25T08:50:31.357283050Z",
+  "model": "glm-5.3"
+}

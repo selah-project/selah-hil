@@ -5,11 +5,11 @@
   "book": "proverbs",
   "lang": "hil",
   "chapter": 13,
-  "translation": "Nangandoy ang kalag sang tapulan kag wala ⟨sia sang⟩ ginakandoy; apang ang kalag sang mga mainuganon magatabunuk.",
+  "translation": "Nagapangandoy kag wala — ang kalag sang tapulan; apang ang kalag sang mga masugtanon magatabunon ⟨sang taba⟩.",
   "tokens": [
     {
       "surface": "מתאוה",
-      "gloss": "nangandoy"
+      "gloss": "nagapangandoy"
     },
     {
       "surface": "ואין",
@@ -17,25 +17,25 @@
     },
     {
       "surface": "נפשו",
-      "gloss": "ang kalag sang tapulan"
+      "gloss": "ang kalag sang"
     },
     {
       "surface": "עצל",
-      "gloss": ""
+      "gloss": "tapulan"
     },
     {
       "surface": "ונפש",
-      "gloss": "apang ang kalag"
+      "gloss": "apang ang kalag sang"
     },
     {
       "surface": "חרצים",
-      "gloss": "sang mga mainuganon"
+      "gloss": "mga masugtanon"
     },
     {
       "surface": "תדשן",
-      "gloss": "magatabunuk"
+      "gloss": "magatabunon"
     }
   ],
-  "timestamp": "2026-09-21T20:59:03.887458577Z",
+  "timestamp": "2026-09-25T09:48:09.916058089Z",
   "model": "glm-5.3"
 }

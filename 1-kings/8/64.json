@@ -5,19 +5,19 @@
   "book": "1-kings",
   "lang": "hil",
   "chapter": 8,
-  "translation": "Sang adlaw nga ina ginpakabalaan sang hari ⟨את⟩ tunga sang nataranan nga ara sa atubang sang balay ni Yahweh, kay didto ginhimo niya ⟨את⟩ ang halad nga sinusunog kag ⟨את⟩ ang halad nga hilawanon kag ⟨את⟩ ang mga taba sang mga shlamim, kay ang halaran sang tumbaga nga ara sa atubang ni Yahweh gamay sa paghikot sang halad nga sinusunog kag ⟨את⟩ ang halad nga hilawanon kag ⟨את⟩ ang mga taba sang mga shlamim.",
+  "translation": "Sa sadto nga adlaw ginbalaan sang hari ⟨את⟩ ang tunga sang hulatan nga ara sa atubangan sang balay ni Yahweh, kay didto ginhimo niya ⟨את⟩ ang halad nga sinusunog kag ⟨את⟩ ang halad nga bugas kag ⟨את⟩ ang mga taba sang mga halad sang kappia, kay ang halaran sang tumbaga nga ara sa atubangan ni Yahweh ⟨ga⟩gamay sa paghikot ⟨את⟩ ang halad nga sinusunog kag ⟨את⟩ ang halad nga bugas kag ⟨את⟩ ang mga taba sang mga halad sang kappia.",
   "tokens": [
     {
       "surface": "ביום",
-      "gloss": "sa adlaw"
+      "gloss": "sa sadto nga adlaw"
     },
     {
       "surface": "ההוא",
-      "gloss": "nga ina"
+      "gloss": "sadto"
     },
     {
       "surface": "קדש",
-      "gloss": "ginpakabalaan"
+      "gloss": "ginbalaan"
     },
     {
       "surface": "המלך",
@@ -26,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tunga sang nataranan"
+      "marks": "ang tunga"
     },
     {
       "surface": "תוך",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "החצר",
-      "gloss": "sang nataranan"
+      "gloss": "sang hulatan"
     },
     {
       "surface": "אשר",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "sa atubang"
+      "gloss": "sa atubangan"
     },
     {
       "surface": "בית",
@@ -67,7 +67,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "halad nga sinusunog"
+      "marks": "ang halad nga sinusunog"
     },
     {
       "surface": "העלה",
@@ -76,16 +76,16 @@
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "halad nga hilawanon"
+      "marks": "ang halad nga bugas"
     },
     {
       "surface": "המנחה",
-      "gloss": "ang halad nga hilawanon"
+      "gloss": "ang halad nga bugas"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "mga taba sang mga shlamim"
+      "marks": "ang mga taba"
     },
     {
       "surface": "חלבי",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "השלמים",
-      "gloss": "sang mga shlamim"
+      "gloss": "sang mga halad sang kappia"
     },
     {
       "surface": "כי",
@@ -113,7 +113,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "sa atubang"
+      "gloss": "sa atubangan"
     },
     {
       "surface": "יהוה",
@@ -130,7 +130,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "halad nga sinusunog"
+      "marks": "ang halad nga sinusunog"
     },
     {
       "surface": "העלה",
@@ -139,16 +139,16 @@
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "halad nga hilawanon"
+      "marks": "ang halad nga bugas"
     },
     {
       "surface": "המנחה",
-      "gloss": "ang halad nga hilawanon"
+      "gloss": "ang halad nga bugas"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "mga taba sang mga shlamim"
+      "marks": "ang mga taba"
     },
     {
       "surface": "חלבי",
@@ -156,9 +156,9 @@
     },
     {
       "surface": "השלמים",
-      "gloss": "sang mga shlamim"
+      "gloss": "sang mga halad sang kappia"
     }
   ],
-  "timestamp": "2026-09-21T18:31:42.158137338Z",
+  "timestamp": "2026-09-25T08:39:53.566847051Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "hil",
   "chapter": 14,
-  "translation": "Kag nagsiling ang babae: Palihog, maghambal ang imo sulug-on nga babae sa Ginoo ko nga hari sang isa ka pulong. Kag nagsiling: Hambala.",
+  "translation": "Kag nagsiling ang babae: Maghambal ⟨nga⟩ sang isa ka pulong ang imo sulugoon nga babae, pangamuyo, sa akon agalon nga hari. Kag nagsiling siya: Hambala.",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "נא",
-      "gloss": "palihog"
+      "gloss": "pangamuyo"
     },
     {
       "surface": "שפחתך",
-      "gloss": "ang imo sulug-on nga babae"
+      "gloss": "ang imo sulugoon nga babae"
     },
     {
       "surface": "אל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אדני",
-      "gloss": "Ginoo ko"
+      "gloss": "akon agalon"
     },
     {
       "surface": "המלך",
@@ -52,6 +52,6 @@
       "gloss": "Hambala"
     }
   ],
-  "timestamp": "2026-09-21T18:18:12.468762579Z",
+  "timestamp": "2026-09-25T08:52:27.085689449Z",
   "model": "glm-5.3"
 }

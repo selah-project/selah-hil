@@ -5,24 +5,24 @@
   "book": "2-kings",
   "lang": "hil",
   "chapter": 22,
-  "translation": "Kag nagmandu ang hari ⟨את⟩ kang Hilkiya nga pari, kag ⟨את⟩ kang Akhbor nga anak ni Mikhayah, kag ⟨את⟩ kay Shafan ang manunulat, kag ⟨את⟩ kay Asayah nga sulugoon sang hari, nga nagaingon:",
+  "translation": "Kag ginsogo sang hari si ⟨את⟩ Khilkiyah nga pari, kag ⟨את⟩ si Akhikam nga anak sang Shafan, kag ⟨את⟩ si Akhbor nga anak sang Mikhayah, kag ⟨את⟩ si Shafan ang manugsulat, kag ⟨את⟩ si Asayah nga sulugoon sang hari, nga nagasiling:",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "kag nagmandu"
+      "gloss": "kag ginsogo"
     },
     {
       "surface": "המלך",
-      "gloss": "ang hari"
+      "gloss": "sang hari"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kang Hilkiya"
+      "marks": "si Khilkiyah nga pari"
     },
     {
       "surface": "חלקיה",
-      "gloss": "si Hilkiya"
+      "gloss": "si Khilkiyah"
     },
     {
       "surface": "הכהן",
@@ -31,7 +31,7 @@
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "kang Akhikam"
+      "marks": "si Akhikam"
     },
     {
       "surface": "אחיקם",
@@ -43,12 +43,12 @@
     },
     {
       "surface": "שפן",
-      "gloss": "ni Shafan"
+      "gloss": "sang Shafan"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "kang Akhbor"
+      "marks": "si Akhbor"
     },
     {
       "surface": "עכבור",
@@ -60,12 +60,12 @@
     },
     {
       "surface": "מיכיה",
-      "gloss": "ni Mikhayah"
+      "gloss": "sang Mikhayah"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "kay Shafan"
+      "marks": "si Shafan ang manugsulat"
     },
     {
       "surface": "שפן",
@@ -73,12 +73,12 @@
     },
     {
       "surface": "הספר",
-      "gloss": "ang manunulat"
+      "gloss": "ang manugsulat"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "kay Asayah"
+      "marks": "si Asayah"
     },
     {
       "surface": "עשיה",
@@ -94,9 +94,9 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "nga nagaingon"
+      "gloss": "nga nagasiling"
     }
   ],
-  "timestamp": "2026-09-21T18:49:05.113186271Z",
+  "timestamp": "2026-09-25T08:47:50.137343378Z",
   "model": "glm-5.3"
 }

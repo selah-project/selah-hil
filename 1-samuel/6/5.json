@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "hil",
   "chapter": 6,
-  "translation": "Kag himuon ninyo ang mga larawan sang inyo mga bukol kag ang mga larawan sang inyo mga ilaga nga nagaguba sang duta, kag ihatag ninyo kay Elohim sang Yisrael himaya; basin magagaan niya ⟨את⟩ ang iya kamot gikan sa inyo kag gikan sa inyo mga dios kag gikan sa inyo duta.",
+  "translation": "Kag himpon ninyo ⟨את⟩ ang mga larawan sang inyo mga hubag kag ang mga larawan sang inyo mga ilaga nga nagaguba sang duta, kag ihatag ninyo kay Elohim sang Yisrael kabug-at; basi mahaptan niya ⟨את⟩ iya kamot gikan sa inyo, kag gikan sa inyo mga elohim, kag gikan sa inyo duta.",
   "tokens": [
     {
       "surface": "ועשיתם",
-      "gloss": "kag himuon ninyo"
+      "gloss": "kag himpon ninyo"
     },
     {
       "surface": "צלמי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "עפליכם",
-      "gloss": "sang inyo mga bukol"
+      "gloss": "sang inyo mga hubag"
     },
     {
       "surface": "וצלמי",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "ang duta"
+      "gloss": "sang duta"
     },
     {
       "surface": "ונתתם",
@@ -54,24 +54,24 @@
     },
     {
       "surface": "כבוד",
-      "gloss": "himaya"
+      "gloss": "kabug-at"
     },
     {
       "surface": "אולי",
-      "gloss": "basin"
+      "gloss": "basi"
     },
     {
       "surface": "יקל",
-      "gloss": "magagaan"
+      "gloss": "mahaptan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang iya kamot"
+      "marks": "iya kamot"
     },
     {
       "surface": "ידו",
-      "gloss": "ang iya kamot"
+      "gloss": "iya kamot"
     },
     {
       "surface": "מעליכם",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "inyo mga dios"
+      "gloss": "inyo mga elohim"
     },
     {
       "surface": "ומעל",
@@ -94,6 +94,6 @@
       "gloss": "inyo duta"
     }
   ],
-  "timestamp": "2026-09-21T18:01:15.663235034Z",
+  "timestamp": "2026-09-25T08:46:15.655081119Z",
   "model": "glm-5.3"
 }

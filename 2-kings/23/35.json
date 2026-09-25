@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "hil",
   "chapter": 23,
-  "translation": "Kag ang plata kag ang bulawan ginsaad ni Yehoyakim kay Paro; apang ginpakadarahon niya ang duta sa paghatag sang plata suno sa kahulugan sang Paro — tagsa ka tawo suno sa iya sukod ginpabayad niya ⟨את⟩ ang plata kag ⟨את⟩ ang bulawan, gikan sa ⟨את⟩ mga tawo sang duta, sa paghatag kay Paro-Nekoh.",
+  "translation": "Kag ang pilak kag ang bulawan ginhatag ni Yehoyakim kay Paro; apang ginbanabana niya ⟨את⟩ ang duta sa paghatag sang ⟨את⟩ pilak suno sa baba ni Paro; tagsa ka tawo suno sa iya bili, ginpangayo niya ⟨את⟩ ang pilak kag ⟨את⟩ ang bulawan sa ⟨את⟩ katawhan sang duta, sa paghatag kay Paro-Nekoh.",
   "tokens": [
     {
       "surface": "והכסף",
-      "gloss": "Kag ang plata"
+      "gloss": "kag ang pilak"
     },
     {
       "surface": "והזהב",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "ginsaad"
+      "gloss": "ginhatag"
     },
     {
       "surface": "יהויקים",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "העריך",
-      "gloss": "ginpakadarahon"
+      "gloss": "ginbanabana niya"
     },
     {
       "surface": "את",
@@ -51,23 +51,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang plata"
+      "marks": "ang pilak"
     },
     {
       "surface": "הכסף",
-      "gloss": "ang plata"
+      "gloss": "sang pilak"
     },
     {
       "surface": "על",
-      "gloss": "suno sa"
+      "gloss": "suno"
     },
     {
       "surface": "פי",
-      "gloss": "kahulugan"
+      "gloss": "sa baba"
     },
     {
       "surface": "פרעה",
-      "gloss": "sang Paro"
+      "gloss": "ni Paro"
     },
     {
       "surface": "איש",
@@ -75,20 +75,20 @@
     },
     {
       "surface": "כערכו",
-      "gloss": "suno sa iya sukod"
+      "gloss": "suno sa iya bili"
     },
     {
       "surface": "נגש",
-      "gloss": "ginpabayad niya"
+      "gloss": "ginpangayo niya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang plata"
+      "marks": "ang pilak"
     },
     {
       "surface": "הכסף",
-      "gloss": "ang plata"
+      "gloss": "ang pilak"
     },
     {
       "surface": "ואת",
@@ -102,11 +102,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mga tawo sang duta"
+      "marks": "katawhan sang duta"
     },
     {
       "surface": "עם",
-      "gloss": "mga tawo"
+      "gloss": "sa katawhan"
     },
     {
       "surface": "הארץ",
@@ -118,13 +118,13 @@
     },
     {
       "surface": "לפרעה",
-      "gloss": "kay Paro"
+      "gloss": "kay Paro-Nekoh"
     },
     {
       "surface": "נכה",
       "gloss": "Nekoh"
     }
   ],
-  "timestamp": "2026-09-21T18:51:42.301807425Z",
+  "timestamp": "2026-09-25T08:47:16.777063986Z",
   "model": "glm-5.3"
 }

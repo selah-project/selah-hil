@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "hil",
   "chapter": 7,
-  "translation": "Kay ikaw, Yahweh Tsevaot, Elohim sang Yisrael, nagpahayag ⟨sa⟩ ⟨את⟩ igoy sang imo sulugoon sa paghambal: balay ipatindog ko para sa imo; gani nakit-an sang imo sulugoon ang ⟨את⟩ iya kasing-kasing sa pagpangadi sa imo ⟨sang⟩ ini nga ⟨את⟩ pangadi.",
+  "translation": "Kay ikaw, Yahweh sang Tsevaot, Elohim sang Yisrael, nagdayon sa imo sulugoon ⟨את⟩ sa pagsiling: Balay balukton ko para sa imo; tungod sini nangita ang imo sulugoon ⟨את⟩ iya tagipusuon sa pagpangamuyo sa imo, ⟨את⟩ ini nga pangamuyo.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Kay"
+      "gloss": "kay"
     },
     {
       "surface": "אתה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Tsevaot"
+      "gloss": "sang Tsevaot"
     },
     {
       "surface": "אלהי",
@@ -33,16 +33,16 @@
     },
     {
       "surface": "גליתה",
-      "gloss": "nagpahayag"
+      "gloss": "nagdayon sa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "igoy"
+      "marks": "sa imo sulugoon"
     },
     {
       "surface": "אזן",
-      "gloss": "igoy"
+      "gloss": "dunggan"
     },
     {
       "surface": "עבדך",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "sa paghambal"
+      "gloss": "sa pagsiling"
     },
     {
       "surface": "בית",
-      "gloss": "balay"
+      "gloss": "Balay"
     },
     {
       "surface": "אבנה",
-      "gloss": "ipatindog ko"
+      "gloss": "balukton ko"
     },
     {
       "surface": "לך",
@@ -66,15 +66,15 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "Tungod"
     },
     {
       "surface": "כן",
-      "gloss": "gani"
+      "gloss": "sini"
     },
     {
       "surface": "מצא",
-      "gloss": "nakit-an"
+      "gloss": "nangita"
     },
     {
       "surface": "עבדך",
@@ -83,15 +83,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kasing-kasing"
+      "marks": "iya tagipusuon"
     },
     {
       "surface": "לבו",
-      "gloss": "iya kasing-kasing"
+      "gloss": "iya tagipusuon"
     },
     {
       "surface": "להתפלל",
-      "gloss": "sa pagpangadi"
+      "gloss": "sa pagpangamuyo"
     },
     {
       "surface": "אליך",
@@ -100,17 +100,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pangadi"
+      "marks": "ini nga pangamuyo"
     },
     {
       "surface": "התפלה",
-      "gloss": "pangadi"
+      "gloss": "pangamuyo"
     },
     {
       "surface": "הזאת",
-      "gloss": "ini"
+      "gloss": "ini nga"
     }
   ],
-  "timestamp": "2026-09-21T18:15:57.261016235Z",
+  "timestamp": "2026-09-25T09:54:16.625940829Z",
   "model": "glm-5.3"
 }

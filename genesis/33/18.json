@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 33,
-  "translation": "Kag nagkari si Yaakov nga himput sa dakbanwa sang Shekhem, nga yara sa duta sang Kenaan, sa iya pagkari gikan sa Padan Aram, kag nagkampo siya ⟨sa atubangan⟩ sang dakbanwa.",
+  "translation": "Kag nag-abot si Yaakov nga <שלם> sa duta sang Shekhem, nga yara sa duta sang Kenaan, sa iya pag-abot gikan sa Padan Aram, kag nagtindog siya sang tolda sa atubangan sang ⟨את⟩ illa sang duta.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "Kag nagkari"
+      "gloss": "kag nag-abot"
     },
     {
       "surface": "יעקב",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "שלם",
-      "gloss": "nga himput"
+      "gloss": "nga himpit"
     },
     {
       "surface": "עיר",
-      "gloss": "dakbanwa"
+      "gloss": "duta"
     },
     {
       "surface": "שכם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "בבאו",
-      "gloss": "sa iya pagkari"
+      "gloss": "sa iya pag-abot"
     },
     {
       "surface": "מפדן",
@@ -53,22 +53,22 @@
     },
     {
       "surface": "ויחן",
-      "gloss": "kag nagkampo"
+      "gloss": "kag nagtindog sang tolda"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "atubangan sang dakbanwa"
+      "marks": "illa"
     },
     {
       "surface": "פני",
-      "gloss": "atubangan"
+      "gloss": "illa"
     },
     {
       "surface": "העיר",
-      "gloss": "sang dakbanwa"
+      "gloss": "sang duta"
     }
   ],
-  "timestamp": "2026-09-21T16:10:10.842889235Z",
+  "timestamp": "2026-09-25T09:17:31.481832279Z",
   "model": "glm-5.3"
 }

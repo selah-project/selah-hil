@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "hil",
   "chapter": 5,
-  "translation": "Kag si Yehotsadak nagdangop sa pagkabihag, sang ginpakadto ni Yahweh ⟨את⟩ si Yehudah kag ⟨את⟩ ang Yerushalayim sa kamot ni Nevukhadnetstsar.",
+  "translation": "Kag si Yehotsadak nanglakat sa pagkabihag — ginpabihag ni Yahweh ⟨את⟩ si Yehudah kag ⟨את⟩ ang Yerushalayim — paagi sa kamot ni Nevukhadnetstsar.",
   "tokens": [
     {
       "surface": "ויהוצדק",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הלך",
-      "gloss": "nagdangop"
+      "gloss": "nanglakat"
     },
     {
       "surface": "בהגלות",
@@ -26,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "si Yehudah"
+      "marks": "si Yehudah kag ang Yerushalayim"
     },
     {
       "surface": "יהודה",
@@ -34,17 +34,17 @@
     },
     {
       "surface": "וירושלם",
-      "gloss": "kag ⟨את⟩ ang Yerushalayim"
+      "gloss": "kag ang Yerushalayim"
     },
     {
       "surface": "ביד",
-      "gloss": "sa kamot"
+      "gloss": "paagi sa kamot"
     },
     {
       "surface": "נבכדנאצר",
       "gloss": "ni Nevukhadnetstsar"
     }
   ],
-  "timestamp": "2026-09-21T21:50:06.994432082Z",
+  "timestamp": "2026-09-25T08:38:49.981476028Z",
   "model": "glm-5.3"
 }

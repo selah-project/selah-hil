@@ -5,15 +5,15 @@
   "book": "micah",
   "lang": "hil",
   "chapter": 3,
-  "translation": "Sa sini nga tion magasinggit sila kay Yahweh, apang indi niya sila pagasabtan; kag isikreto niya ang iya dagway sa ila sa sini nga tion, bangod nga ginhimo nila nga kaebedlian ang ila mga binuhat.",
+  "translation": "Sa sadto nga tion magapanawag sila kay Yahweh, apang indi niya pagabatian ⟨את⟩ sila; kag magakubli ang iya dagway sa ila sa sadto nga tion, bangod ginhimo nila nga malaot ang ila mga binuhaton.",
   "tokens": [
     {
       "surface": "אז",
-      "gloss": "Sa sini nga tion"
+      "gloss": "sa sadto nga tion"
     },
     {
       "surface": "יזעקו",
-      "gloss": "magasinggit sila"
+      "gloss": "magapanawag sila"
     },
     {
       "surface": "אל",
@@ -29,16 +29,16 @@
     },
     {
       "surface": "יענה",
-      "gloss": "niya pagasabtan"
+      "gloss": "niya pagabatian"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "sila"
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila (ang mga manugpanawag)"
     },
     {
       "surface": "ויסתר",
-      "gloss": "kag isikreto niya"
+      "gloss": "kag magakubli"
     },
     {
       "surface": "פניו",
@@ -54,21 +54,21 @@
     },
     {
       "surface": "ההיא",
-      "gloss": "nga sini"
+      "gloss": "sadto"
     },
     {
       "surface": "כאשר",
-      "gloss": "bangod nga"
+      "gloss": "bangod"
     },
     {
       "surface": "הרעו",
-      "gloss": "ginhimo nila nga kaebedlian"
+      "gloss": "ginhimo nila nga malaot"
     },
     {
       "surface": "מעלליהם",
-      "gloss": "ang ila mga binuhat"
+      "gloss": "ang ila mga binuhaton"
     }
   ],
-  "timestamp": "2026-09-21T20:13:22.229578828Z",
+  "timestamp": "2026-09-25T09:42:16.645430608Z",
   "model": "glm-5.3"
 }

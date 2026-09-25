@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "hil",
   "chapter": 11,
-  "translation": "Kag gintindog ni Elohim sa iya isa ka manuglalaban, ⟨si⟩ Rezon nga anak ni Elyada, nga naglayas gikan ⟨את⟩ kay Hadadezer nga hari sang Tsobah, iya nga agalon.",
+  "translation": "Kag gintindog ni Elohim sa iya sang isa ka manugdumila, ⟨את⟩ si Rezon nga anak ni Elyada, nga nagpalagiw ⟨gikan kay⟩ ⟨את⟩ Hadadezer nga hari sang Tsova, iya nga agalon.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "Kag gintindog"
+      "gloss": "kag gintindog"
     },
     {
       "surface": "אלהים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "שטן",
-      "gloss": "isa ka manuglalaban"
+      "gloss": "sang isa ka manugdumila"
     },
     {
       "surface": "את",
@@ -46,16 +46,15 @@
     },
     {
       "surface": "ברח",
-      "gloss": "naglayas"
+      "gloss": "nagpalagiw"
     },
     {
       "surface": "מאת",
-      "gloss": "gikan ⟨את⟩",
-      "marks": "kay Hadadezer"
+      "gloss": "⟨gikan kay⟩ ⟨את⟩"
     },
     {
       "surface": "הדדעזר",
-      "gloss": "kay Hadadezer"
+      "gloss": "Hadadezer"
     },
     {
       "surface": "מלך",
@@ -63,13 +62,13 @@
     },
     {
       "surface": "צובה",
-      "gloss": "sang Tsobah"
+      "gloss": "sang Tsova"
     },
     {
       "surface": "אדניו",
       "gloss": "iya nga agalon"
     }
   ],
-  "timestamp": "2026-09-21T18:32:23.873106538Z",
+  "timestamp": "2026-09-25T08:41:57.026231171Z",
   "model": "glm-5.3"
 }

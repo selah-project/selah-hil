@@ -5,16 +5,16 @@
   "book": "2-chronicles",
   "lang": "hil",
   "chapter": 4,
-  "translation": "⟨ang⟩ isa ka Dagat, kag ⟨את⟩ ang napulo kag duha ka baka sa idalom sini",
+  "translation": "⟨את⟩ ang dagat, isa; kag ⟨את⟩ ang mga baka, napulo kag duha, sa idalom sini;",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang Dagat"
+      "marks": "ang dagat"
     },
     {
       "surface": "הים",
-      "gloss": "Dagat"
+      "gloss": "ang dagat"
     },
     {
       "surface": "אחד",
@@ -23,11 +23,11 @@
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang napulo kag duha ka baka"
+      "marks": "ang mga baka"
     },
     {
       "surface": "הבקר",
-      "gloss": "mga baka"
+      "gloss": "ang mga baka"
     },
     {
       "surface": "שנים",
@@ -35,13 +35,13 @@
     },
     {
       "surface": "עשר",
-      "gloss": "napulo kag"
+      "gloss": "napulo"
     },
     {
       "surface": "תחתיו",
       "gloss": "sa idalom sini"
     }
   ],
-  "timestamp": "2026-09-21T22:01:21.898153910Z",
+  "timestamp": "2026-09-25T08:49:32.350796041Z",
   "model": "glm-5.3"
 }

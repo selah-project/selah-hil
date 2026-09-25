@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "hil",
   "chapter": 3,
-  "translation": "Kag nagsiling si David kay Yoav kag sa tanan nga mga tawo nga ⟨ubra⟩ iya: Siroti ninyo ang inyo mga bayo kag maghigot kamo sang mga sako kag magbangi kamo sa atubangan ni Avner; kag si David nga hari nagalakat sa luyo sang banig sang patay.",
+  "translation": "Kag nagsiling si David kay Yoav kag sa tanan nga mga tawo nga ⟨אתו⟩ ka iya: Ginsihami ang inyo mga bado kag maghigot kamo sang mga sako kag magbangod kamo sa atubangan ni Avner; kag ang hari nga si David nagalakat sa likod sang Katulong.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -41,15 +41,16 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ubra iya"
+      "gloss": "⟨אתו⟩",
+      "marks": "ka iya (kay David)"
     },
     {
       "surface": "קרעו",
-      "gloss": "Siroti ninyo"
+      "gloss": "Ginsihami"
     },
     {
       "surface": "בגדיכם",
-      "gloss": "inyo mga bayo"
+      "gloss": "ang inyo mga bado"
     },
     {
       "surface": "וחגרו",
@@ -57,11 +58,11 @@
     },
     {
       "surface": "שקים",
-      "gloss": "mga sako"
+      "gloss": "sang mga sako"
     },
     {
       "surface": "וספדו",
-      "gloss": "kag magbangi kamo"
+      "gloss": "kag magbangod kamo"
     },
     {
       "surface": "לפני",
@@ -73,11 +74,11 @@
     },
     {
       "surface": "והמלך",
-      "gloss": "Kag ang hari"
+      "gloss": "kag ang hari"
     },
     {
       "surface": "דוד",
-      "gloss": "si David"
+      "gloss": "nga si David"
     },
     {
       "surface": "הלך",
@@ -85,13 +86,13 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "sa luyo"
+      "gloss": "sa likod"
     },
     {
       "surface": "המטה",
-      "gloss": "banig sang patay"
+      "gloss": "sang Katulong"
     }
   ],
-  "timestamp": "2026-09-21T18:14:13.646269640Z",
+  "timestamp": "2026-09-25T08:54:26.952398976Z",
   "model": "glm-5.3"
 }

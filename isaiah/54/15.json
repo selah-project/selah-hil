@@ -5,28 +5,28 @@
   "book": "isaiah",
   "lang": "hil",
   "chapter": 54,
-  "translation": "Tan-awa, magatipon gid sila, apang indi ⟨sang akon⟩; sin-o bala ang magatipon sangdang ⟨את⟩? Kontra sa imo siya matumba.",
+  "translation": "Tan-awa, maggakatapok ⟨sila⟩, apang indi ⟨את⟩ gikan sa akon; sin-o ang nagakatapok ⟨את⟩ imo? Kontra sa imo siya matumba.",
   "tokens": [
     {
       "surface": "הן",
-      "gloss": "tan-awa"
+      "gloss": "Tan-awa"
     },
     {
       "surface": "גור",
-      "gloss": "magatipon"
+      "gloss": "maggakatapok"
     },
     {
       "surface": "יגור",
-      "gloss": "gid sila magatipon"
+      "gloss": "maggakatapok"
     },
     {
       "surface": "אפס",
-      "gloss": "apang indi"
+      "gloss": "indi"
     },
     {
       "surface": "מאותי",
-      "gloss": "⟨מאת⟩",
-      "marks": "mga magatipon"
+      "gloss": "⟨את⟩ gikan sa akon",
+      "marks": "sin-o"
     },
     {
       "surface": "מי",
@@ -34,11 +34,12 @@
     },
     {
       "surface": "גר",
-      "gloss": "ang magatipon"
+      "gloss": "nagakatapok"
     },
     {
       "surface": "אתך",
-      "gloss": "sangdang ⟨את⟩"
+      "gloss": "⟨את⟩ imo",
+      "marks": "imo"
     },
     {
       "surface": "עליך",
@@ -46,9 +47,9 @@
     },
     {
       "surface": "יפול",
-      "gloss": "siya matumba"
+      "gloss": "matumba"
     }
   ],
-  "timestamp": "2026-09-21T19:09:44.273339688Z",
+  "timestamp": "2026-09-25T09:21:16.787800601Z",
   "model": "glm-5.3"
 }

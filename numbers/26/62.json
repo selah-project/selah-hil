@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "hil",
   "chapter": 26,
-  "translation": "Kag ang ila mga ginbilang ⟨amo⟩ tatlo kag duha ka pulo ka libo, tanang lalaki, tikang sa anak nga isa ka bulan kag pataas; nga wala sila ginbilang sa tunga sang mga anak sang Yisrael, kay wala ginhatag sa ila sing kabilin sa tunga sang mga anak sang Yisrael.",
+  "translation": "Kag ang ila mga gin-ilanhan nagtatlo kag duha ka pulo ka libo, tanan nga lalaki halin sa anak nga isa ka bulan kag paitaas, kay wala sila pag-ilanhon sa tunga sang mga anak sang Yisrael, kay wala sing minana nga ginhatag sa ila sa tunga sang mga anak sang Yisrael.",
   "tokens": [
     {
       "surface": "ויהיו",
-      "gloss": "Kag nangyari"
+      "gloss": "kag ang ila mga gin-ilanhan nag"
     },
     {
       "surface": "פקדיהם",
-      "gloss": "ang ila mga ginbilang"
+      "gloss": "ila mga gin-ilanhan"
     },
     {
       "surface": "שלשה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "tanang"
+      "gloss": "tanan"
     },
     {
       "surface": "זכר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "מבן",
-      "gloss": "tikang sa anak"
+      "gloss": "halin sa anak"
     },
     {
       "surface": "חדש",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ומעלה",
-      "gloss": "kag pataas"
+      "gloss": "kag paitaas"
     },
     {
       "surface": "כי",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "התפקדו",
-      "gloss": "silа ginbilang"
+      "gloss": "sila pag-ilanhon"
     },
     {
       "surface": "בתוך",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "נחלה",
-      "gloss": "sing kabilin"
+      "gloss": "minana"
     },
     {
       "surface": "בתוך",
@@ -104,6 +104,6 @@
       "gloss": "sang Yisrael"
     }
   ],
-  "timestamp": "2026-09-21T17:12:34.434141702Z",
+  "timestamp": "2026-09-25T09:44:18.044764777Z",
   "model": "glm-5.3"
 }

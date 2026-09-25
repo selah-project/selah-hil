@@ -5,19 +5,19 @@
   "book": "2-kings",
   "lang": "hil",
   "chapter": 10,
-  "translation": "Kag nagsulod sila sa paghimo sang mga halad kag sang mga sinunog, kag si Yehu nagbutang para sa iya sa gwa sang walo ka pulo ka tawo, kag naghambal: ang tawo nga makagwa sa mga tawo nga ginadala ko sa inyo mga kamot, iya nga kalag <sa> bayad sang kalag.",
+  "translation": "Kag nagsulod sila sa paghalad sang mga-sa-halad kag sang mga sinunog, kag si Yehu nagbutang para sa iya sa guwa sang walo ka pulo ka tawo, kag naghambal, ⟨kon⟩ ang tawo nga makaligya gikan sa mga tawo nga ako madala sa inyo mga kamot, iya nga kalag baylo sang kalag.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "Kag nagsulod sila"
+      "gloss": "kag nagsulod sila"
     },
     {
       "surface": "לעשות",
-      "gloss": "sa paghimo"
+      "gloss": "sa paghalad"
     },
     {
       "surface": "זבחים",
-      "gloss": "sang mga halad"
+      "gloss": "mga-sa-halad"
     },
     {
       "surface": "ועלות",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "בחוץ",
-      "gloss": "sa gwa"
+      "gloss": "sa guwa"
     },
     {
       "surface": "שמנים",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "ימלט",
-      "gloss": "makagwa"
+      "gloss": "makaligya"
     },
     {
       "surface": "מן",
-      "gloss": "sa"
+      "gloss": "gikan sa"
     },
     {
       "surface": "האנשים",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "מביא",
-      "gloss": "ginadala"
+      "gloss": "madala"
     },
     {
       "surface": "על",
@@ -97,13 +97,13 @@
     },
     {
       "surface": "תחת",
-      "gloss": "sa bayad sang"
+      "gloss": "baylo sang"
     },
     {
       "surface": "נפשו",
       "gloss": "kalag"
     }
   ],
-  "timestamp": "2026-09-21T18:43:42.009993295Z",
+  "timestamp": "2026-09-25T08:49:26.996403575Z",
   "model": "glm-5.3"
 }

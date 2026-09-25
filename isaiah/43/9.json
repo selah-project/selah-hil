@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "hil",
   "chapter": 43,
-  "translation": "Magatipon ang tanan nga mga pungsod <kag magkadto>, kag magatipon ang mga katawhan; sin-o sa ila ang magapahibalo sang ina kag magapadungog sang mga nahauna? Magahatag sila sang ila mga saksi agod magamatarong sila, kag magadungog kag magahambal: Matuod.",
+  "translation": "Magtipon ⟨sang tanan⟩ ang mga pungsod kag magtinipon ang mga komunidad: sin-o sa ila ang magapahibalo sini kag magapahibalo sang nahauna ⟨nga mga butang⟩? Magahatag sila sang ila mga testigo kag magatarong sila, kag magapamatok kag magahambal: kamatuoran.",
   "tokens": [
     {
       "surface": "כל",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "נקבצו",
-      "gloss": "magatipon"
+      "gloss": "magtipon"
     },
     {
       "surface": "יחדו",
-      "gloss": "kag magkadto"
+      "gloss": "magtinipon"
     },
     {
       "surface": "ויאספו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "לאמים",
-      "gloss": "ang mga katawhan"
+      "gloss": "ang mga komunidad"
     },
     {
       "surface": "מי",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "זאת",
-      "gloss": "sang ina"
+      "gloss": "sini"
     },
     {
       "surface": "וראשנות",
-      "gloss": "kag ang mga nahauna"
+      "gloss": "kag sang nahauna"
     },
     {
       "surface": "ישמיענו",
-      "gloss": "magapadungog"
+      "gloss": "magapahibalo ⟨sa aton⟩"
     },
     {
       "surface": "יתנו",
@@ -61,15 +61,15 @@
     },
     {
       "surface": "עדיהם",
-      "gloss": "ang ila mga saksi"
+      "gloss": "sang ila mga testigo"
     },
     {
       "surface": "ויצדקו",
-      "gloss": "agod magamatarong"
+      "gloss": "kag magatarong sila"
     },
     {
       "surface": "וישמעו",
-      "gloss": "kag magadungog"
+      "gloss": "kag magapamatok"
     },
     {
       "surface": "ויאמרו",
@@ -77,9 +77,9 @@
     },
     {
       "surface": "אמת",
-      "gloss": "Matuod"
+      "gloss": "kamatuoran"
     }
   ],
-  "timestamp": "2026-09-21T22:31:47.530152513Z",
+  "timestamp": "2026-09-25T09:20:55.516667890Z",
   "model": "glm-5.3"
 }

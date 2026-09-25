@@ -5,16 +5,16 @@
   "book": "2-kings",
   "lang": "hil",
   "chapter": 25,
-  "translation": "Kag ginsunog niya ⟨את⟩ ang balay ni Yahweh kag ⟨את⟩ ang balay sang hari, kag ⟨את⟩ ang tanan nga mga balay sang Yerushalayim; kag ang tanan nga balay nga dalagkò ginsunog niya sang kalayo.",
+  "translation": "Kag ginsunog niya ⟨את⟩ ang balay ni Yahweh kag ⟨את⟩ ang balay sang hari, kag ⟨את⟩ ang tanan nga mga balay sang Yerushalayim, kag ⟨את⟩ ang tanan nga balay nga dakô ginsunog sa kalayo.",
   "tokens": [
     {
       "surface": "וישרף",
-      "gloss": "gingsunog niya"
+      "gloss": "kinsunog"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang balay"
+      "marks": "ang balay ni Yahweh"
     },
     {
       "surface": "בית",
@@ -57,7 +57,7 @@
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang tanan nga balay nga dalagkò"
+      "marks": "ang tanan nga balay nga dakô"
     },
     {
       "surface": "כל",
@@ -69,17 +69,17 @@
     },
     {
       "surface": "גדול",
-      "gloss": "nga dalagkò"
+      "gloss": "nga dakô"
     },
     {
       "surface": "שרף",
-      "gloss": "gingsunog"
+      "gloss": "ginsunog"
     },
     {
       "surface": "באש",
-      "gloss": "sang kalayo"
+      "gloss": "sa kalayo"
     }
   ],
-  "timestamp": "2026-09-21T18:51:07.349057833Z",
+  "timestamp": "2026-09-25T08:47:24.798645427Z",
   "model": "glm-5.3"
 }

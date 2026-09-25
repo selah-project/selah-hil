@@ -5,19 +5,19 @@
   "book": "psalms",
   "lang": "hil",
   "chapter": 73,
-  "translation": "Kag ginpanghuna-huna ko sa pagkaamgo sini — amo ini isa ka kapoy ⟨⟨sang⟩⟩ sa akon mga mata;",
+  "translation": "Kag ginhunahuna ko nga sayud ini; kapoy <himo> ini sa akon <mga> mata.",
   "tokens": [
     {
       "surface": "ואחשבה",
-      "gloss": "kag ginpanghuna-huna ko"
+      "gloss": "kag ginhunahuna ko"
     },
     {
       "surface": "לדעת",
-      "gloss": "sa pagkaamgo"
+      "gloss": "nga sayud"
     },
     {
       "surface": "זאת",
-      "gloss": "sini — amo ini"
+      "gloss": "ini"
     },
     {
       "surface": "עמל",
@@ -25,13 +25,13 @@
     },
     {
       "surface": "היא",
-      "gloss": "amo ini"
+      "gloss": "<himo> ini"
     },
     {
       "surface": "בעיני",
-      "gloss": "sa akon mga mata"
+      "gloss": "sa akon <mga> mata"
     }
   ],
-  "timestamp": "2026-09-21T23:01:55.060503644Z",
+  "timestamp": "2026-09-25T09:49:58.431871094Z",
   "model": "glm-5.3"
 }

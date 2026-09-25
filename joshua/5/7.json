@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "hil",
   "chapter": 5,
-  "translation": "Kag ⟨את⟩ ang ila mga anak ginpatindug ⟨niya⟩ sa ila katpostahan; sila gintuli ni Yehoshua, kay di-tuli sila ⟨nangin⟩, kay wala nila gintuli ⟨את⟩ ⟨אותם⟩ sa dalan.",
+  "translation": "Kag ⟨את⟩ ang ila mga anak ginpatindog sa ila nga duog; sila gintuli ni Yehoshua, kay mga wala sing tuli sila, kay wala sila gintuli sa dalan.",
   "tokens": [
     {
       "surface": "ואת",
@@ -18,16 +18,16 @@
     },
     {
       "surface": "הקים",
-      "gloss": "ginpatindug"
+      "gloss": "ginpatindog"
     },
     {
       "surface": "תחתם",
-      "gloss": "sa ila katpostahan"
+      "gloss": "sa ila nga duog"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "sila"
+      "gloss": "⟨את⟩ sila",
+      "marks": "gintuli (ni Yehoshua)"
     },
     {
       "surface": "מל",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "ערלים",
-      "gloss": "di-tuli"
+      "gloss": "mga wala sing tuli"
     },
     {
       "surface": "היו",
@@ -63,14 +63,14 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אותם⟩",
-      "marks": "sila"
+      "gloss": "⟨את⟩ sila",
+      "marks": "sa dalan"
     },
     {
       "surface": "בדרך",
       "gloss": "sa dalan"
     }
   ],
-  "timestamp": "2026-09-21T17:36:22.793801923Z",
+  "timestamp": "2026-09-25T09:33:02.052557284Z",
   "model": "glm-5.3"
 }

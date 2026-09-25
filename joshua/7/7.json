@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "hil",
   "chapter": 7,
-  "translation": "Kag nagsiling si Yehoshua: Ahah, Adonay Yahweh, ngaa ginpaagi Mo ⟨את⟩ ang ini nga katawhan sa tabok sang Yarden, sa paghatod ⟨את⟩ sang aton sa kamot sang Amori agod paglaglagon kami? O kon magpabilin kami lang kag nagpuyo kami sa pihak sang Yarden!",
+  "translation": "Kag nagsiling si Yehoshua: Ahah, Adonay Yahweh, ngaa ginpaagi Mo ⟨את⟩ ang sini nga katawhan sa tabok sang Yarden, sa paghatag sang ⟨את⟩ amo sa kamot sang Amorite, sa paglaglag sa amon? Kag kon tinugutan lamang naton ⟨את⟩, kag nagpabilin kita sa tabok sang Yarden!",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Kag nagsiling"
+      "gloss": "kag nagsiling"
     },
     {
       "surface": "יהושע",
@@ -37,12 +37,12 @@
     },
     {
       "surface": "העביר",
-      "gloss": "sa pagpaagi"
+      "gloss": "ginpaagi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang ini nga katawhan"
+      "marks": "ang sini nga katawhan"
     },
     {
       "surface": "העם",
@@ -50,25 +50,25 @@
     },
     {
       "surface": "הזה",
-      "gloss": "ini nga"
+      "gloss": "sini"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang Yarden"
+      "marks": "Yarden"
     },
     {
       "surface": "הירדן",
-      "gloss": "sang Yarden"
+      "gloss": "Yarden"
     },
     {
       "surface": "לתת",
-      "gloss": "sa paghatod"
+      "gloss": "sa paghatag"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ sang aton",
-      "marks": "kita — sa kamot sang Amori"
+      "gloss": "⟨את⟩",
+      "marks": "amo sa kamot sang Amorite"
     },
     {
       "surface": "ביד",
@@ -76,33 +76,33 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "sang Amori"
+      "gloss": "sang Amorite"
     },
     {
       "surface": "להאבידנו",
-      "gloss": "agod paglaglagon kami"
+      "gloss": "sa paglaglag sa amon"
     },
     {
       "surface": "ולו",
-      "gloss": "O kon"
+      "gloss": "kag kon"
     },
     {
       "surface": "הואלנו",
-      "gloss": "nagpabilin kami"
+      "gloss": "tinugutan naton"
     },
     {
       "surface": "ונשב",
-      "gloss": "kag nagpuyo kami"
+      "gloss": "kag nagpabilin"
     },
     {
       "surface": "בעבר",
-      "gloss": "sa pihak"
+      "gloss": "sa tabok"
     },
     {
       "surface": "הירדן",
       "gloss": "sang Yarden"
     }
   ],
-  "timestamp": "2026-09-21T17:38:53.144147419Z",
+  "timestamp": "2026-09-25T09:31:26.670981114Z",
   "model": "glm-5.3"
 }

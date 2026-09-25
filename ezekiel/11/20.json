@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 11,
-  "translation": "Agod sila magalakat sa akon mga kasuguan kag ⟨את⟩ ang akon mga paghudok bantayan nila kag himoon nila sila; kag magauntat sila nga akon katawhan, kag ako magahimo nga ila Elohim.",
+  "translation": "Agod sa akon mga kasuguan sila magalakat, kag ⟨את⟩ akon mga paghukum bantayan nila, kag himuon nila ⟨את⟩ sila; kag sila magapangin ⟨the⟩ akon nga katawhan, kag ako magapangin sa ila nga ila Elohim.",
   "tokens": [
     {
       "surface": "למען",
@@ -22,11 +22,11 @@
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang akon mga paghudok"
+      "marks": "akon mga paghukum"
     },
     {
       "surface": "משפטי",
-      "gloss": "akon mga paghudok"
+      "gloss": "akon mga paghukum"
     },
     {
       "surface": "ישמרו",
@@ -34,15 +34,16 @@
     },
     {
       "surface": "ועשו",
-      "gloss": "kag himoon nila"
+      "gloss": "kag himuon nila"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ sila"
+      "gloss": "⟨את⟩ sila",
+      "marks": "akon mga kasuguan kag akon mga paghukum"
     },
     {
       "surface": "והיו",
-      "gloss": "kag magauntat sila"
+      "gloss": "kag sila magapangin"
     },
     {
       "surface": "לי",
@@ -50,7 +51,7 @@
     },
     {
       "surface": "לעם",
-      "gloss": "katawhan"
+      "gloss": "nga katawhan"
     },
     {
       "surface": "ואני",
@@ -58,17 +59,17 @@
     },
     {
       "surface": "אהיה",
-      "gloss": "magahimo"
+      "gloss": "magapangin"
     },
     {
       "surface": "להם",
-      "gloss": "ila"
+      "gloss": "sa ila"
     },
     {
       "surface": "לאלהים",
-      "gloss": "Elohim"
+      "gloss": "nga ila Elohim"
     }
   ],
-  "timestamp": "2026-09-21T19:44:45.400094105Z",
+  "timestamp": "2026-09-25T09:07:23.793980193Z",
   "model": "glm-5.3"
 }

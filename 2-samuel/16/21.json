@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "hil",
   "chapter": 16,
-  "translation": "Kag naghambal si Akhitofel kay Avshalom: Pagsulod sa mga ikaduha nga asawa sang imo amay, nga iya ginbilin sa pagbantay sang balay; kag madunggan sang bug-o nga Yisrael nga ginakaayawan ka sang imo amay, kag magakusog ang mga kamot sang tanan nga kaupod sa imo.",
+  "translation": "Kag nagsiling si Akhitofel kay Avshalom: Lakat ka dayon sa mga kilaglay sang imo amay, nga iya ginbayaan sa pagbantay sang balay; kag mabal-an sang tanan nga Yisrael nga nagakahoy ka ⟨את⟩ sa imo amay, kag magakusog ang mga kamot sang tanan nga ara imo.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Kag naghambal"
+      "gloss": "kag nagsiling"
     },
     {
       "surface": "אחיתפל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "בוא",
-      "gloss": "Pagsulod"
+      "gloss": "lakat ka dayon"
     },
     {
       "surface": "אל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "פלגשי",
-      "gloss": "mga ikaduha nga asawa"
+      "gloss": "mga kilaglay"
     },
     {
       "surface": "אביך",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הניח",
-      "gloss": "iya ginbilin"
+      "gloss": "ginbayaan"
     },
     {
       "surface": "לשמור",
@@ -57,15 +57,15 @@
     },
     {
       "surface": "ושמע",
-      "gloss": "kag madunggan"
+      "gloss": "kag mabal-an"
     },
     {
       "surface": "כל",
-      "gloss": "sang bug-o"
+      "gloss": "tanan"
     },
     {
       "surface": "ישראל",
-      "gloss": "nga Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "כי",
@@ -73,12 +73,12 @@
     },
     {
       "surface": "נבאשת",
-      "gloss": "ginakaayawan ka"
+      "gloss": "nagakahoy ka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sang imo amay"
+      "marks": "imo amay"
     },
     {
       "surface": "אביך",
@@ -90,11 +90,11 @@
     },
     {
       "surface": "ידי",
-      "gloss": "ang mga kamot"
+      "gloss": "mga kamot"
     },
     {
       "surface": "כל",
-      "gloss": "sang tanan"
+      "gloss": "tanan"
     },
     {
       "surface": "אשר",
@@ -102,10 +102,9 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩",
-      "marks": "kaupod sa imo (ang tanan nga kaupod mo)"
+      "gloss": "⟨את⟩ ara imo"
     }
   ],
-  "timestamp": "2026-09-21T18:19:19.525581492Z",
+  "timestamp": "2026-09-25T08:51:51.793992998Z",
   "model": "glm-5.3"
 }

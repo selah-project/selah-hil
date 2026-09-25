@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "hil",
   "chapter": 1,
-  "translation": "Kundi sa Torah ni Yahweh ang iya kalipay, kag sa iya Torah ginahunahuna niya ⟨ini⟩ adlaw kag gab-i.",
+  "translation": "Kundi sa Torah ni Yahweh ang iya kalipayan, kag sa iya Torah ini nagahuna-huna adlaw kag gab-i.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Kundi"
+      "gloss": "kundi"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "kundi"
     },
     {
       "surface": "בתורת",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "חפצו",
-      "gloss": "ang iya kalipay"
+      "gloss": "ang iya kalipayan"
     },
     {
       "surface": "ובתורתו",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "יהגה",
-      "gloss": "ginahunahuna niya"
+      "gloss": "nagahuna-huna"
     },
     {
       "surface": "יומם",
@@ -44,6 +44,6 @@
       "gloss": "kag gab-i"
     }
   ],
-  "timestamp": "2026-09-21T20:23:42.310199030Z",
+  "timestamp": "2026-09-25T09:49:03.472808544Z",
   "model": "glm-5.3"
 }

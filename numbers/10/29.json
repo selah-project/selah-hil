@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "hil",
   "chapter": 10,
-  "translation": "Kag nagsiling si Moshe kay Khovav, anak ni Reuel nga Midyaninhon, ang ugangan ni Moshe: Nagapanaw kita padulong sa duta nga ingon ni Yahweh, '⟨את⟩ ini Ihatag ko sa inyo'; lakat ka ⟨kaupod⟩ sa amon kag pagbuhaton namon sang maayo sa imo, kay si Yahweh naghambal sang maayo parte sa Yisrael.",
+  "translation": "Kag nagsiling si Moshe kay Khobab, anak ni Reuel ang Midyaninhon, umagad ni Moshe: \"Nagapakadto kami sa duog nga sgiling ni Yahweh, ⟨את⟩ ina itatag ko sa inyo; maglakat ka kag ⟨את⟩ ka amon, kag pagaayuhon namon sa imo, kay sang maayo nagsiling si Yahweh parte sa Yisrael.\"",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Kag nagsiling"
+      "gloss": "kag nagsiling"
     },
     {
       "surface": "משה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לחבב",
-      "gloss": "kay Khovav"
+      "gloss": "kay Khobav"
     },
     {
       "surface": "בן",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "המדיני",
-      "gloss": "nga Midyaninhon"
+      "gloss": "ang Midyaninhon"
     },
     {
       "surface": "חתן",
-      "gloss": "ang ugangan"
+      "gloss": "umagad"
     },
     {
       "surface": "משה",
@@ -41,19 +41,19 @@
     },
     {
       "surface": "נסעים",
-      "gloss": "nagapanaw"
+      "gloss": "nagapakadto"
     },
     {
       "surface": "אנחנו",
-      "gloss": "kita"
+      "gloss": "kami"
     },
     {
       "surface": "אל",
-      "gloss": "padulong sa"
+      "gloss": "sa"
     },
     {
       "surface": "המקום",
-      "gloss": "duta"
+      "gloss": "ang duog"
     },
     {
       "surface": "אשר",
@@ -61,20 +61,20 @@
     },
     {
       "surface": "אמר",
-      "gloss": "ingon"
+      "gloss": "nagsiling"
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "si Yahweh"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ini (ang duta)"
+      "marks": "ina (ang duog)"
     },
     {
       "surface": "אתן",
-      "gloss": "Ihatag ko"
+      "gloss": "itatag ko"
     },
     {
       "surface": "לכם",
@@ -82,15 +82,15 @@
     },
     {
       "surface": "לכה",
-      "gloss": "lakat"
+      "gloss": "maglakat ka"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ kaupod sa amon"
+      "gloss": "⟨את⟩ ka amon"
     },
     {
       "surface": "והטבנו",
-      "gloss": "kag pagbuhaton namon sang maayo"
+      "gloss": "kag pagaayuhon namon"
     },
     {
       "surface": "לך",
@@ -106,7 +106,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "naghambal"
+      "gloss": "nagsiling"
     },
     {
       "surface": "טוב",
@@ -121,6 +121,6 @@
       "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-09-21T17:03:48.218409637Z",
+  "timestamp": "2026-09-25T09:43:01.622338621Z",
   "model": "glm-5.3"
 }

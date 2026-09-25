@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "hil",
   "chapter": 4,
-  "translation": "Kag ini ang himuon ninyo sa ila agod mabuhi sila kag indi sila mamatay sa pagpalapit nila sa ⟨את⟩ ang balaan sang mga balaan: magasulod si Aharon kag ang iya mga anak kag ibutang nila sila, tagsa ka tawo sa iya kaugalingon nga buluhaton kag sa iya dala.",
+  "translation": "Kag ina himoion ninyo sa ila, kag mabuhi sila kag indi sila mamatay sa pagduol nila sa ⟨את⟩ balaan sang mga balaan: si Aharon kag iya mga anak ang magasulod, kag ibutang nila ⟨את⟩ sila, tagsa ka tawo sa iya buluhaton kag sa iya pasan.",
   "tokens": [
     {
       "surface": "וזאת",
-      "gloss": "kag ini"
+      "gloss": "kag ina"
     },
     {
       "surface": "עשו",
-      "gloss": "himuon ninyo"
+      "gloss": "himoion ninyo"
     },
     {
       "surface": "להם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "וחיו",
-      "gloss": "agod mabuhi sila"
+      "gloss": "kag mabuhi sila"
     },
     {
       "surface": "ולא",
@@ -33,12 +33,12 @@
     },
     {
       "surface": "בגשתם",
-      "gloss": "sa pagpalapit nila"
+      "gloss": "sa pagduol nila"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang balaan sang mga balaan"
+      "marks": "balaan sang mga balaan"
     },
     {
       "surface": "קדש",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "אהרן",
-      "gloss": "si Aharon"
+      "gloss": "Aharon"
     },
     {
       "surface": "ובניו",
-      "gloss": "kag ang iya mga anak"
+      "gloss": "kag iya mga anak"
     },
     {
       "surface": "יבאו",
@@ -67,15 +67,15 @@
     {
       "surface": "אותם",
       "gloss": "⟨את⟩ sila",
-      "marks": "sila (ang mga Kehatnon)"
+      "marks": "tagsa ka tawo"
     },
     {
       "surface": "איש",
-      "gloss": "tagsa ka tawo"
+      "gloss": "tagsa"
     },
     {
       "surface": "איש",
-      "gloss": "tagsa ka tawo"
+      "gloss": "ka tawo"
     },
     {
       "surface": "על",
@@ -91,9 +91,9 @@
     },
     {
       "surface": "משאו",
-      "gloss": "iya dala"
+      "gloss": "iya pasan"
     }
   ],
-  "timestamp": "2026-09-21T16:59:14.817178401Z",
+  "timestamp": "2026-09-25T09:47:15.817446885Z",
   "model": "glm-5.3"
 }

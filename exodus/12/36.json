@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "hil",
   "chapter": 12,
-  "translation": "Kag si Yahweh naghatag sang kaayohan sang katawhan sa mga mata sang Mitsrayim, kag ginpahulam nila sa ila, kag ginpanulon nila ⟨את⟩ ang Mitsrayim.",
+  "translation": "Kag si Yahweh naghatag sang ⟨את⟩ ang kahalwan sang katawhan sa mga mata sang mga taga-Mitsrayim, kag nangayo sila sa ila, kag ginpanghakot nila ⟨את⟩ ang Mitsrayim.",
   "tokens": [
     {
       "surface": "ויהוה",
-      "gloss": "kag si Yahweh"
+      "gloss": "Kag si Yahweh"
     },
     {
       "surface": "נתן",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang kaayohan"
+      "marks": "ang kahalwan"
     },
     {
       "surface": "חן",
-      "gloss": "ang kaayohan"
+      "gloss": "ang kahalwan"
     },
     {
       "surface": "העם",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "sang Mitsrayim"
+      "gloss": "sang mga taga-Mitsrayim"
     },
     {
       "surface": "וישאלום",
-      "gloss": "kag ginpahulam nila sa ila"
+      "gloss": "kag nangayo sila sa ila"
     },
     {
       "surface": "וינצלו",
-      "gloss": "kag ginpanulon nila"
+      "gloss": "kag ginpanghakot nila"
     },
     {
       "surface": "את",
@@ -54,6 +54,6 @@
       "gloss": "ang Mitsrayim"
     }
   ],
-  "timestamp": "2026-09-21T16:25:25.980218689Z",
+  "timestamp": "2026-09-25T09:02:39.865891229Z",
   "model": "glm-5.3"
 }

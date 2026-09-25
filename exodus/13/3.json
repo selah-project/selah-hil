@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "hil",
   "chapter": 13,
-  "translation": "Kag nagsiling si Moshe sa mga tawo: Dumduma ninyo ⟨את⟩ ini nga adlaw, nga diin kamo naggwa sa Mitsrayim, sa balay sang mga ulipon, kay sa kusog sang kamot ginpagwa kamo ni Yahweh diri; kag indi kaonon ang may inasin.",
+  "translation": "Kag nagsiling si Moshe sa katawhan: Dumalumdum kamo sang ⟨את⟩ ang adlaw nga ini, nga nagguwa kamo sa Mitsrayim, gikan sa balay sang mga ulipon, kay sa kusog sang kamot ginpagwa ni Yahweh ⟨את⟩ kamo sa diri; kag indi pagkaonon ang hamets.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Kag nagsiling"
+      "gloss": "kag nagsiling"
     },
     {
       "surface": "משה",
@@ -21,24 +21,24 @@
     },
     {
       "surface": "העם",
-      "gloss": "mga tawo"
+      "gloss": "katawhan"
     },
     {
       "surface": "זכור",
-      "gloss": "Dumduma ninyo"
+      "gloss": "dumalumdum kamo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ini nga adlaw"
+      "marks": "ang adlaw nga ini"
     },
     {
       "surface": "היום",
-      "gloss": "adlaw"
+      "gloss": "ang adlaw"
     },
     {
       "surface": "הזה",
-      "gloss": "ini nga"
+      "gloss": "nga ini"
     },
     {
       "surface": "אשר",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "יצאתם",
-      "gloss": "kamo naggwa"
+      "gloss": "nagguwa kamo"
     },
     {
       "surface": "ממצרים",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "מבית",
-      "gloss": "sa balay"
+      "gloss": "gikan sa balay"
     },
     {
       "surface": "עבדים",
-      "gloss": "mga ulipon"
+      "gloss": "sang mga ulipon"
     },
     {
       "surface": "כי",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "יד",
-      "gloss": "kamot"
+      "gloss": "sang kamot"
     },
     {
       "surface": "הוציא",
@@ -82,11 +82,12 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kamo"
+      "gloss": "⟨את⟩ kamo",
+      "marks": "kamo"
     },
     {
       "surface": "מזה",
-      "gloss": "diri"
+      "gloss": "sa diri"
     },
     {
       "surface": "ולא",
@@ -94,13 +95,13 @@
     },
     {
       "surface": "יאכל",
-      "gloss": "kaonon"
+      "gloss": "pagkaonon"
     },
     {
       "surface": "חמץ",
-      "gloss": "may inasin"
+      "gloss": "hamets"
     }
   ],
-  "timestamp": "2026-09-21T16:25:51.012792257Z",
+  "timestamp": "2026-09-25T09:02:18.816192325Z",
   "model": "glm-5.3"
 }

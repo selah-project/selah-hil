@@ -5,28 +5,28 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 8,
-  "translation": "Ginyamtis ni Yahweh ⟨את⟩ ang hamot sang pagpahuway, kag nagsiling si Yahweh sa iya kasingkasing: Indi na ako magadugang pagtunga sang duta tungod sa tawo, kay ang mga hunahuna sang kasingkasing sang tawo malaut gikan sa iya pagkabata; kag indi na ako magadugang paglaglag ⟨את⟩ tanan nga may kabuhi, subong sang akon ginhimo.",
+  "translation": "Kag nakaamoy si Yahweh ⟨את⟩ ang baho nga nakapahulay, kag nagsiling si Yahweh sa iya kasingkasing: indi na ako magdugang pagtuma-aw ⟨את⟩ sang duta tungod sang tawo, kay ang kaburak-an sang kasingkasing sang tawo malaon sa iya pagkabata pa; kag indi na ako magdugang pa paghampak ⟨את⟩ sang tanan nga buhi, subong sang akon ginbuhat.",
   "tokens": [
     {
       "surface": "וירח",
-      "gloss": "ginyamtis"
+      "gloss": "kag nakaamoy"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "si Yahweh"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang hamot"
+      "marks": "ang baho nga nakapahulay"
     },
     {
       "surface": "ריח",
-      "gloss": "ang hamot"
+      "gloss": "ang baho"
     },
     {
       "surface": "הניחח",
-      "gloss": "sang pagpahuway"
+      "gloss": "nga nakapahulay"
     },
     {
       "surface": "ויאמר",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "si Yahweh"
     },
     {
       "surface": "אל",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "אסף",
-      "gloss": "magadugang"
+      "gloss": "magdugang"
     },
     {
       "surface": "לקלל",
-      "gloss": "pagtunga"
+      "gloss": "pagtuma-aw"
     },
     {
       "surface": "עוד",
@@ -63,15 +63,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang duta"
+      "marks": "sang duta"
     },
     {
       "surface": "האדמה",
-      "gloss": "ang duta"
+      "gloss": "sang duta"
     },
     {
       "surface": "בעבור",
-      "gloss": "tungod sa"
+      "gloss": "tungod sang"
     },
     {
       "surface": "האדם",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "יצר",
-      "gloss": "mga hunahuna"
+      "gloss": "ang kaburak-an"
     },
     {
       "surface": "לב",
@@ -95,11 +95,11 @@
     },
     {
       "surface": "רע",
-      "gloss": "malaut"
+      "gloss": "malaon"
     },
     {
       "surface": "מנעריו",
-      "gloss": "gikan sa iya pagkabata"
+      "gloss": "sa iya pagkabata"
     },
     {
       "surface": "ולא",
@@ -107,28 +107,28 @@
     },
     {
       "surface": "אסף",
-      "gloss": "magadugang"
+      "gloss": "magdugang"
     },
     {
       "surface": "עוד",
-      "gloss": "na"
+      "gloss": "pa"
     },
     {
       "surface": "להכות",
-      "gloss": "paglaglag"
+      "gloss": "paghampak"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tanan nga may kabuhi"
+      "marks": "sang tanan nga buhi"
     },
     {
       "surface": "כל",
-      "gloss": "tanan"
+      "gloss": "sang tanan"
     },
     {
       "surface": "חי",
-      "gloss": "nga may kabuhi"
+      "gloss": "nga buhi"
     },
     {
       "surface": "כאשר",
@@ -136,9 +136,9 @@
     },
     {
       "surface": "עשיתי",
-      "gloss": "akon ginhimo"
+      "gloss": "akon ginbuhat"
     }
   ],
-  "timestamp": "2026-09-21T15:57:05.682609671Z",
+  "timestamp": "2026-09-25T09:19:26.875228472Z",
   "model": "glm-5.3"
 }

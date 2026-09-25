@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "hil",
   "chapter": 35,
-  "translation": "Kag indi ninyo paghugawan ⟨את⟩ ang duta nga diin kamo yara sa iya, kay ang dugo amo ang magahugawan sang ⟨את⟩ ang duta; kag sa duta indi mabayaran ang dugo nga gin-usik sa iya, kondi sa dugo sang nagausik sini.",
+  "translation": "Kag indi ninyo hugawan ⟨את⟩ ang duta nga diin kamo yara, kay ang dugo amo ang maghugaw ⟨את⟩ sang duta, kag ang duta indi mababayaran sang dugo nga gin-usik sa iya, kondi sang dugo sang nag-usik sini.",
   "tokens": [
     {
       "surface": "ולא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "תחניפו",
-      "gloss": "paghugawan"
+      "gloss": "hugawan ninyo"
     },
     {
       "surface": "את",
@@ -46,24 +46,24 @@
     },
     {
       "surface": "הוא",
-      "gloss": "amo"
+      "gloss": "amo ang"
     },
     {
       "surface": "יחניף",
-      "gloss": "magahugawan"
+      "gloss": "maghugaw"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang duta"
+      "marks": "sang duta"
     },
     {
       "surface": "הארץ",
-      "gloss": "ang duta"
+      "gloss": "sang duta"
     },
     {
       "surface": "ולארץ",
-      "gloss": "kag sa duta"
+      "gloss": "kag ang duta"
     },
     {
       "surface": "לא",
@@ -71,11 +71,11 @@
     },
     {
       "surface": "יכפר",
-      "gloss": "mabayaran"
+      "gloss": "mababayaran"
     },
     {
       "surface": "לדם",
-      "gloss": "ang dugo"
+      "gloss": "sang dugo"
     },
     {
       "surface": "אשר",
@@ -91,21 +91,21 @@
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "kon"
     },
     {
       "surface": "אם",
-      "gloss": "kondi"
+      "gloss": "indi"
     },
     {
       "surface": "בדם",
-      "gloss": "sa dugo"
+      "gloss": "sang dugo"
     },
     {
       "surface": "שפכו",
-      "gloss": "sang nagausik sini"
+      "gloss": "nag-usik sini"
     }
   ],
-  "timestamp": "2026-09-21T17:15:44.212405854Z",
+  "timestamp": "2026-09-25T09:47:29.348059096Z",
   "model": "glm-5.3"
 }

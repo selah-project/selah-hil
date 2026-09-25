@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "hil",
   "chapter": 9,
-  "translation": "Kag ang wala magbutang sang iya kasingkasing sa pulong ni Yahweh nagpabilin sang iya mga sulugoon kag ⟨את⟩ ang iya mga kahayupan sa uma.",
+  "translation": "Kag ang wala nagbutang sang iya tagipusuon sa pulong ni Yahweh nagpabilin ang iya mga sulugoon kag ⟨את⟩ ang iya mga kahayupan sa uma.",
   "tokens": [
     {
       "surface": "ואשר",
-      "gloss": "kag ang nga"
+      "gloss": "kag ang"
     },
     {
       "surface": "לא",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "שם",
-      "gloss": "magbutang"
+      "gloss": "nagbutang"
     },
     {
       "surface": "לבו",
-      "gloss": "iya kasingkasing"
+      "gloss": "iya tagipusuon"
     },
     {
       "surface": "אל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "ויעזב",
@@ -42,7 +42,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iya mga sulugoon"
+      "marks": "ang iya mga sulugoon"
     },
     {
       "surface": "עבדיו",
@@ -51,7 +51,7 @@
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "iya mga kahayupan"
+      "marks": "ang iya mga kahayupan"
     },
     {
       "surface": "מקנהו",
@@ -62,6 +62,6 @@
       "gloss": "sa uma"
     }
   ],
-  "timestamp": "2026-09-21T16:24:38.063063208Z",
+  "timestamp": "2026-09-25T09:05:53.982540431Z",
   "model": "glm-5.3"
 }

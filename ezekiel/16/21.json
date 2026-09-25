@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 16,
-  "translation": "Kag ginti-as mo ⟨את⟩ ang imo mga anak, kag ginhatag mo sila sa pagpaagi ⟨kanila⟩ sa ila, sa pagpatabok ⟨sa ila⟩.",
+  "translation": "Kag ginpatay mo ⟨את⟩ ang imo mga anak, kag ginhatag mo sila ⟨sa pagpaagi sa ila⟩ sa pagpaagi sang mga anak ⟨את⟩ ⟨אותם⟩ para sa ila.",
   "tokens": [
     {
       "surface": "ותשחטי",
-      "gloss": "kag ginti-as mo"
+      "gloss": "kag ginpatay mo"
     },
     {
       "surface": "את",
@@ -26,18 +26,18 @@
     },
     {
       "surface": "בהעביר",
-      "gloss": "sa pagpatabok"
+      "gloss": "sa pagpaagi"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "kanila"
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "sila — ang mga anak"
     },
     {
       "surface": "להם",
       "gloss": "sa ila"
     }
   ],
-  "timestamp": "2026-09-21T19:46:21.238286102Z",
+  "timestamp": "2026-09-25T09:08:22.034103010Z",
   "model": "glm-5.3"
 }

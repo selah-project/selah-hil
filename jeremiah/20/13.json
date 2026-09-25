@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "hil",
   "chapter": 20,
-  "translation": "Kanta kamo kay Yahweh, dayeg kamo si Yahweh, kay ginpangluwas niya ⟨את⟩ ang kabuhi sang kabus sa kamot sang mga manginbad",
+  "translation": "Kanta kamo kay Yahweh, dayeg kamo ⟨את⟩ Yahweh, kay ginpahulas niya ⟨את⟩ ang kalag sang kabus halin sa kamot sang mga manginmalain.",
   "tokens": [
     {
       "surface": "שירו",
@@ -22,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "si Yahweh"
+      "marks": "Yahweh"
     },
     {
       "surface": "יהוה",
@@ -34,16 +34,16 @@
     },
     {
       "surface": "הציל",
-      "gloss": "ginpangluwas niya"
+      "gloss": "ginpahulas niya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang kabuhi sang kabus"
+      "marks": "ang kalag sang kabus"
     },
     {
       "surface": "נפש",
-      "gloss": "ang kabuhi"
+      "gloss": "ang kalag"
     },
     {
       "surface": "אביון",
@@ -51,13 +51,13 @@
     },
     {
       "surface": "מיד",
-      "gloss": "sa kamot"
+      "gloss": "halin sa kamot"
     },
     {
       "surface": "מרעים",
-      "gloss": "sang mga manginbad"
+      "gloss": "sang mga manginmalain"
     }
   ],
-  "timestamp": "2026-09-21T22:32:29.862157533Z",
+  "timestamp": "2026-09-25T09:24:21.920798543Z",
   "model": "glm-5.3"
 }

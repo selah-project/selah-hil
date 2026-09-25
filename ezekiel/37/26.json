@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 37,
-  "translation": "Kag magabuhat ako sang kasugtanan sang kalinong sa ila — isa ka kasugtanan sa dayon magapabilin sa ila; kag magapabutang ako sa ila kag padamuon ko sila, kag ibutang ko ⟨את⟩ ang akon balaan nga lugar sa ila tunga sa dayon.",
+  "translation": "Kag magabuhat ako sa ila sing kasugtanan sang kappahayahay — isa ka kasugtanan nga pangdayon ⟨ang⟩ mahimo sa ila — kag pagapataroon ko ⟨את⟩ sila kag pagadaghanon ko ⟨את⟩ sila, kag ibutang ko ⟨את⟩ ang akon balaan nga lugar sa ila kabutang, sa dayon.",
   "tokens": [
     {
       "surface": "וכרתי",
@@ -17,40 +17,40 @@
     },
     {
       "surface": "ברית",
-      "gloss": "sang kasugtanan"
+      "gloss": "sing kasugtanan"
     },
     {
       "surface": "שלום",
-      "gloss": "sang kalinong"
+      "gloss": "sang kappahayahay"
     },
     {
       "surface": "ברית",
-      "gloss": "isa ka kasugtanan"
+      "gloss": "kasugtanan"
     },
     {
       "surface": "עולם",
-      "gloss": "sa dayon"
+      "gloss": "pangdayon"
     },
     {
       "surface": "יהיה",
-      "gloss": "magapabilin"
+      "gloss": "mahimo"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨אתם⟩",
-      "marks": "sa ila"
+      "gloss": "⟨את⟩ sila",
+      "marks": "sa ila (ang kasugtaran)"
     },
     {
       "surface": "ונתתים",
-      "gloss": "kag magapabutang ako sa ila"
+      "gloss": "kag pagapataroon ko sila"
     },
     {
       "surface": "והרביתי",
-      "gloss": "kag padamuon ko"
+      "gloss": "kag pagadaghanon ko"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ sila",
       "marks": "sila"
     },
     {
@@ -68,13 +68,13 @@
     },
     {
       "surface": "בתוכם",
-      "gloss": "sa ila tunga"
+      "gloss": "sa ila kabutang"
     },
     {
       "surface": "לעולם",
       "gloss": "sa dayon"
     }
   ],
-  "timestamp": "2026-09-21T19:58:02.665662202Z",
+  "timestamp": "2026-09-25T09:11:04.539345275Z",
   "model": "glm-5.3"
 }

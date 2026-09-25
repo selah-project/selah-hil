@@ -5,11 +5,11 @@
   "book": "ecclesiastes",
   "lang": "hil",
   "chapter": 12,
-  "translation": "Sang katapusan sang tanan nga <ang> pulong nagakabati ⟨⟨na⟩⟩ kagahapon: magatahod ka ⟨kay⟩ ⟨את⟩ Elohim kag magatipon sa ⟨את⟩ iya mga kasuguan, kay ini amo ang kabug-osan sang tawo.",
+  "translation": "Ang katapusan sang pulong, ang tanan nabatian na: ikahadlok ⟨את⟩ ang Elohim kag tuman-a ⟨את⟩ ang iya mga kasuguan, kay ini amo ang kabug-osan sang tawo.",
   "tokens": [
     {
       "surface": "סוף",
-      "gloss": "sang katapusan"
+      "gloss": "ang katapusan"
     },
     {
       "surface": "דבר",
@@ -21,33 +21,33 @@
     },
     {
       "surface": "נשמע",
-      "gloss": "nagakabati kagahapon"
+      "gloss": "nabatian na"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨kay⟩ Elohim"
+      "marks": "ang Elohim"
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim"
+      "gloss": "ang Elohim"
     },
     {
       "surface": "ירא",
-      "gloss": "magatahod ka"
+      "gloss": "ikahadlok"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "iya mga kasuguan"
+      "marks": "ang iya mga kasuguan"
     },
     {
       "surface": "מצותיו",
-      "gloss": "iya mga kasuguan"
+      "gloss": "ang iya mga kasuguan"
     },
     {
       "surface": "שמור",
-      "gloss": "magatipon sa"
+      "gloss": "tuman-a"
     },
     {
       "surface": "כי",
@@ -59,13 +59,13 @@
     },
     {
       "surface": "כל",
-      "gloss": "kabug-osan"
+      "gloss": "ang kabug-osan"
     },
     {
       "surface": "האדם",
       "gloss": "sang tawo"
     }
   ],
-  "timestamp": "2026-09-21T21:28:03.843821311Z",
+  "timestamp": "2026-09-25T09:01:58.726383480Z",
   "model": "glm-5.3"
 }

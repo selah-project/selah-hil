@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 13,
-  "translation": "Kag nagpadayon siya sa iya mga pagpanaw — gikan sa timaan nga habagat tubtob sa Bet-El, sa duta nga diin ang iya tolda ⟨ara⟩ sa nahauna, sa tunga sang Bet-El kag sang Ay.",
+  "translation": "Kag nagpadayon siya sa iya mga pagpanaw gikan sa Negheb tubtob sa Beit-El, tubtob sa duog nga diin ang iya tolda ⟨ang⟩ nahauna nga didto sa pagtatap sa pagitan sang Beit-El kag sa pagitan sang Ai.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "Kag nagpadayon"
+      "gloss": "kag nagpadayon siya"
     },
     {
       "surface": "למסעיו",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "מנגב",
-      "gloss": "gikan sa timaan nga habagat"
+      "gloss": "gikan sa Negheb"
     },
     {
       "surface": "ועד",
-      "gloss": "tubtob sa"
+      "gloss": "tubtob"
     },
     {
       "surface": "בית",
-      "gloss": "Bet"
+      "gloss": "Beit-"
     },
     {
       "surface": "אל",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "עד",
-      "gloss": "sa"
+      "gloss": "tubtob"
     },
     {
       "surface": "המקום",
-      "gloss": "duta"
+      "gloss": "sa duog"
     },
     {
       "surface": "אשר",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "היה",
-      "gloss": "⟨ara⟩"
+      "gloss": "nahauna nga didto"
     },
     {
       "surface": "שם",
-      "gloss": "diin"
+      "gloss": "didto"
     },
     {
       "surface": "אהלה",
@@ -57,15 +57,15 @@
     },
     {
       "surface": "בתחלה",
-      "gloss": "sa nahauna"
+      "gloss": "sa pagtatap sa nahauna"
     },
     {
       "surface": "בין",
-      "gloss": "sa tunga sang"
+      "gloss": "sa pagitan sang"
     },
     {
       "surface": "בית",
-      "gloss": "Bet"
+      "gloss": "Beit-"
     },
     {
       "surface": "אל",
@@ -73,13 +73,13 @@
     },
     {
       "surface": "ובין",
-      "gloss": "kag sang"
+      "gloss": "kag sa pagitan sang"
     },
     {
       "surface": "העי",
-      "gloss": "Ay"
+      "gloss": "Ai"
     }
   ],
-  "timestamp": "2026-09-21T15:59:45.991969471Z",
+  "timestamp": "2026-09-25T09:54:02.776554538Z",
   "model": "glm-5.3"
 }

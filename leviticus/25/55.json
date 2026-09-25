@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "hil",
   "chapter": 25,
-  "translation": "Kay <para> sa akon ang mga anak nga lalaki sang Yisrael <mga> ulipon; mga ulipon ko sila, nga akon ginaluwas ⟨את⟩ sila sa duta sang Mitsrayim; ako si Yahweh ang inyo Elohim.",
+  "translation": "Kay sa akon ang mga anak ni Yisrael ⟨mga⟩ sulugoon; mga sulugoon ko sila, nga akon paggwaon ⟨את⟩ sila sa duta sang Mitsrayim; ako si Yahweh ang inyo Elohim.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,23 +13,23 @@
     },
     {
       "surface": "לי",
-      "gloss": "para sa akon"
+      "gloss": "sa akon"
     },
     {
       "surface": "בני",
-      "gloss": "mga anak nga lalaki"
+      "gloss": "mga anak"
     },
     {
       "surface": "ישראל",
-      "gloss": "sang Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "עבדים",
-      "gloss": "mga ulipon"
+      "gloss": "mga sulugoon"
     },
     {
       "surface": "עבדי",
-      "gloss": "mga ulipon ko"
+      "gloss": "mga sulugoon ko"
     },
     {
       "surface": "הם",
@@ -41,12 +41,12 @@
     },
     {
       "surface": "הוצאתי",
-      "gloss": "akon ginaluwas"
+      "gloss": "akon paggwaon"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "sila (ang mga anak sang Yisrael)"
+      "marks": "sila (mga anak ni Yisrael)"
     },
     {
       "surface": "מארץ",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "sang Mitsrayim"
+      "gloss": "Mitsrayim"
     },
     {
       "surface": "אני",
@@ -62,13 +62,13 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "si Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אלהיכם",
       "gloss": "ang inyo Elohim"
     }
   ],
-  "timestamp": "2026-09-21T16:55:22.725704061Z",
+  "timestamp": "2026-09-25T09:40:24.321530203Z",
   "model": "glm-5.3"
 }

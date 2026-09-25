@@ -1,1 +1,42 @@
-{"tier":"glm-5.2","verse":9,"ref":"psalms 119:9","book":"psalms","lang":"hil","chapter":119,"translation":"Sa ano malinig sang batan-on ⟨את⟩ ang iya dalan? Sa pagbantay sini suno sa imo pulong.","tokens":[{"surface":"במה","gloss":"sa ano"},{"surface":"יזכה","gloss":""},{"surface":"נער","gloss":"sang batan-on"},{"surface":"את","gloss":"⟨את⟩","marks":"ang iya dalan"},{"surface":"ארחו","gloss":"ang iya dalan"},{"surface":"לשמר","gloss":"sa pagbantay sini"},{"surface":"כדברך","gloss":"suno sa imo pulong"}],"timestamp":"2026-09-21T20:49:36.326214540Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "hil",
+  "chapter": 119,
+  "translation": "Sa diin magamham sang isa ka batang lalaki ⟨את⟩ ang iya dalan? Sa pagtipig sini suno sa imo pulong.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "sa diin"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "magamham"
+    },
+    {
+      "surface": "נער",
+      "gloss": "batang lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iya dalan"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "ang iya dalan"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "sa pagtipig"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "suno sa imo pulong"
+    }
+  ],
+  "timestamp": "2026-09-25T09:48:47.098781218Z",
+  "model": "glm-5.3"
+}

@@ -5,19 +5,19 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 41,
-  "translation": "Kag natabo, subong sang iya pagpat-ad sa amon, amo ina ang nangin: ⟨אתי⟩ ginpabalik sa akon katungdanan kag ⟨ואתו⟩ ginpabitay.",
+  "translation": "Kag nahanabo, samtang gintudlok niya sa amon, amo man ang nahimo: ⟨את⟩ akon ginpabalik sa akon katungdanan, kag ⟨את⟩ siya gintinan-aw.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "kag natabo"
+      "gloss": "kag nahanabo"
     },
     {
       "surface": "כאשר",
-      "gloss": "subong sang"
+      "gloss": "samtang"
     },
     {
       "surface": "פתר",
-      "gloss": "pagpat-ad"
+      "gloss": "gintudlok"
     },
     {
       "surface": "לנו",
@@ -25,16 +25,16 @@
     },
     {
       "surface": "כן",
-      "gloss": "amo ina"
+      "gloss": "amo man"
     },
     {
       "surface": "היה",
-      "gloss": "ang nangin"
+      "gloss": "nahimo"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨אתי⟩",
-      "marks": "ako"
+      "gloss": "⟨את⟩",
+      "marks": "akon"
     },
     {
       "surface": "השיב",
@@ -50,14 +50,14 @@
     },
     {
       "surface": "ואתו",
-      "gloss": "kag ⟨ואתו⟩",
+      "gloss": "kag ⟨את⟩",
       "marks": "siya"
     },
     {
       "surface": "תלה",
-      "gloss": "ginpabitay"
+      "gloss": "gintinan-aw"
     }
   ],
-  "timestamp": "2026-09-21T16:14:39.477345707Z",
+  "timestamp": "2026-09-25T09:15:55.944662307Z",
   "model": "glm-5.3"
 }

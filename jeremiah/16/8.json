@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "hil",
   "chapter": 16,
-  "translation": "Kag indi ka mag-sulod sa balay sang banguagan sa pagpungko ⟨kaupod⟩ sa pagkaon kag sa pag-inom.",
+  "translation": "Kag sa balay sang pag-inom indi ka magasulod sa pagligid upod ⟨את⟩ sila, sa pagkaon kag sa pag-inom.",
   "tokens": [
     {
       "surface": "ובית",
-      "gloss": "sa balay"
+      "gloss": "Kag sa balay"
     },
     {
       "surface": "משתה",
-      "gloss": "sang banguagan"
+      "gloss": "sang pag-inom"
     },
     {
       "surface": "לא",
@@ -21,16 +21,16 @@
     },
     {
       "surface": "תבוא",
-      "gloss": "mag-sulod"
+      "gloss": "ka magasulod"
     },
     {
       "surface": "לשבת",
-      "gloss": "sa pagpungko"
+      "gloss": "sa pagligid upod"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "sa pagkaon kag sa pag-inom"
+      "marks": "sila"
     },
     {
       "surface": "לאכל",
@@ -41,6 +41,6 @@
       "gloss": "kag sa pag-inom"
     }
   ],
-  "timestamp": "2026-09-21T19:21:15.915281702Z",
+  "timestamp": "2026-09-25T09:23:53.267181809Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "hil",
   "chapter": 6,
-  "translation": "Kag gintubos ko kamo sa kamot sang Mitsrayim kag sa kamot sang tanan ninyo mga manuglutos, kag ginpaguwa ko sila sa inyo atubangan, kag gintagan ko kamo ⟨את⟩ sang ila duta.",
+  "translation": "Kag ginbuhin ko ⟨את⟩ kamo sa kamot sang Mitsrayim kag sa kamot sang tanan ninyo nga manuglutos, kag ginpagwa ko ⟨את⟩ sila sa atubangan ninyo, kag gintugyan ko sa inyo ⟨את⟩ ang ila duta.",
   "tokens": [
     {
       "surface": "ואצל",
-      "gloss": "Kag gintubos ko"
+      "gloss": "kag ginbuhin ko"
     },
     {
       "surface": "אתכם",
@@ -17,55 +17,54 @@
     },
     {
       "surface": "מיד",
-      "gloss": "sa kamot"
+      "gloss": "sa kamot sang"
     },
     {
       "surface": "מצרים",
-      "gloss": "sang Mitsrayim"
+      "gloss": "Mitsrayim"
     },
     {
       "surface": "ומיד",
-      "gloss": "kag sa kamot"
+      "gloss": "kag sa kamot sang"
     },
     {
       "surface": "כל",
-      "gloss": "sang tanan"
+      "gloss": "tanan"
     },
     {
       "surface": "לחציכם",
-      "gloss": "ninyo mga manuglutos"
+      "gloss": "ninyo nga manuglutos"
     },
     {
       "surface": "ואגרש",
-      "gloss": "kag ginpaguwa ko"
+      "gloss": "kag ginpagwa ko"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "sila"
+      "gloss": "⟨את⟩ sila"
     },
     {
       "surface": "מפניכם",
-      "gloss": "sa inyo atubangan"
+      "gloss": "sa atubangan ninyo"
     },
     {
       "surface": "ואתנה",
-      "gloss": "kag gintagan ko"
+      "gloss": "kag gintugyan ko"
     },
     {
       "surface": "לכם",
-      "gloss": "kamo"
+      "gloss": "sa inyo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang duta"
+      "marks": "ang ila duta"
     },
     {
       "surface": "ארצם",
-      "gloss": "sang ila duta"
+      "gloss": "ang ila duta"
     }
   ],
-  "timestamp": "2026-09-21T17:47:41.727055934Z",
+  "timestamp": "2026-09-25T09:36:46.798610183Z",
   "model": "glm-5.3"
 }

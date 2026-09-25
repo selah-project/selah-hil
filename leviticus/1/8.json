@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "hil",
   "chapter": 1,
-  "translation": "Kag magahan-ay ang mga anak ni Aharon, ang mga saserdote, ⟨את⟩ sang mga pedaso, ⟨את⟩ sang ulo kag ⟨את⟩ sang taba, sa ibabaw sang mga kahoy nga ara sa ibabaw sang kalayo nga ara sa ibabaw sang halaran.",
+  "translation": "Kag magatindog sang mga anak nga lalaki ni Aharon, ang mga sacerdote, ⟨את⟩ ang mga gintunga nga mga piyesa, ⟨את⟩ ang ulo kag ⟨את⟩ ang taba, sa ibabaw sang mga kahoy nga ara sa ibabaw sang kalayo nga ara sa ibabaw sang halaran.",
   "tokens": [
     {
       "surface": "וערכו",
-      "gloss": "kag magahan-ay"
+      "gloss": "kag magatindog sang"
     },
     {
       "surface": "בני",
-      "gloss": "ang mga anak"
+      "gloss": "mga anak"
     },
     {
       "surface": "אהרן",
@@ -21,34 +21,34 @@
     },
     {
       "surface": "הכהנים",
-      "gloss": "ang mga saserdote"
+      "gloss": "ang mga sacerdote"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sang mga pedaso"
+      "marks": "ang mga gintunga nga mga piyesa"
     },
     {
       "surface": "הנתחים",
-      "gloss": "sang mga pedaso"
+      "gloss": "ang mga gintunga nga mga piyesa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sang ulo"
+      "marks": "ang ulo"
     },
     {
       "surface": "הראש",
-      "gloss": "sang ulo"
+      "gloss": "ang ulo"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "sang taba"
+      "marks": "ang taba"
     },
     {
       "surface": "הפדר",
-      "gloss": "sang taba"
+      "gloss": "ang taba"
     },
     {
       "surface": "על",
@@ -83,6 +83,6 @@
       "gloss": "sang halaran"
     }
   ],
-  "timestamp": "2026-09-21T16:41:19.075880368Z",
+  "timestamp": "2026-09-25T09:38:30.330342615Z",
   "model": "glm-5.3"
 }

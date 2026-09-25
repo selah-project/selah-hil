@@ -5,24 +5,24 @@
   "book": "2-samuel",
   "lang": "hil",
   "chapter": 3,
-  "translation": "Nakilala mo ⟨את⟩ si Avner nga anak nga lalaki ni Ner, nga nagkadto siya agud maglimo sa imo, kag agud mahibalo sang imo paggwa kag ⟨את⟩ sang imo pagdulong, kag agud mahibalo ⟨את⟩ sang tanan nga imo ginahimo.",
+  "translation": "Nahibalo ka kay ⟨את⟩ Avner nga anak ni Ner, nga nagkadto siya sa pagpangita sing pig-ulan sa imo, kag sa paghibalo sang imo paggwa kag sang imo pagsulod, kag sa paghibalo sang ⟨tanang⟩ ⟨butang⟩ nga imo ginahimo.",
   "tokens": [
     {
       "surface": "ידעת",
-      "gloss": "Nakilala mo"
+      "gloss": "Nahibalo ka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "si Avner"
+      "marks": "Avner"
     },
     {
       "surface": "אבנר",
-      "gloss": "si Avner"
+      "gloss": "Avner"
     },
     {
       "surface": "בן",
-      "gloss": "anak nga lalaki"
+      "gloss": "anak"
     },
     {
       "surface": "נר",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "לפתתך",
-      "gloss": "agud maglimo sa imo"
+      "gloss": "sa pagpangita sing pig-ulan sa imo"
     },
     {
       "surface": "בא",
@@ -42,38 +42,38 @@
     },
     {
       "surface": "ולדעת",
-      "gloss": "kag agud mahibalo"
+      "gloss": "kag sa paghibalo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sang imo paggwa"
+      "marks": "imong paggwa"
     },
     {
       "surface": "מוצאך",
-      "gloss": "imo paggwa"
+      "gloss": "imong paggwa"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "sang imo pagdulong"
+      "marks": "imong pagsulod"
     },
     {
       "surface": "מבואך",
-      "gloss": "imo pagdulong"
+      "gloss": "imong pagsulod"
     },
     {
       "surface": "ולדעת",
-      "gloss": "kag agud mahibalo"
+      "gloss": "kag sa paghibalo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sang tanan"
+      "marks": "tanang butang"
     },
     {
       "surface": "כל",
-      "gloss": "tanan"
+      "gloss": "tanang"
     },
     {
       "surface": "אשר",
@@ -88,6 +88,6 @@
       "gloss": "ginahimo"
     }
   ],
-  "timestamp": "2026-09-21T18:13:19.321112167Z",
+  "timestamp": "2026-09-25T08:54:00.889848285Z",
   "model": "glm-5.3"
 }

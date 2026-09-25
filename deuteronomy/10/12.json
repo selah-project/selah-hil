@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 10,
-  "translation": "Kag subong, Yisrael, ano ang ginapangayo ni Yahweh nga iyo Elohim sa imo — kundi ikaw magakahadlok ⟨את⟩ kay Yahweh nga iyo Elohim, sa paglakat sa tanan nga iya mga dalan, kag sa paghigugma ⟨sa iya⟩, kag sa pagpanulundo ⟨את⟩ kay Yahweh nga iyo Elohim sa tanan nga imo kasingkasing kag sa tanan nga imo kalag.",
+  "translation": "Kag subong, Yisrael, ano ang ginapangayo ni Yahweh nga Elohim mo sa imo, kondi sa pagkahadlok ⟨את⟩ kay Yahweh nga Elohim mo, sa paglakat sa tanan nga iya mga dalan, kag sa paghigugma ⟨את⟩ sa iya, kag sa pag-alagad ⟨את⟩ kay Yahweh nga Elohim mo sang tanan mong kasingkasing kag sang tanan mong kalag",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "kag subong"
+      "gloss": "Kag subong"
     },
     {
       "surface": "ישראל",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אלהיך",
-      "gloss": "nga iyo Elohim"
+      "gloss": "nga Elohim mo"
     },
     {
       "surface": "שאל",
@@ -37,28 +37,28 @@
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "kondi"
     },
     {
       "surface": "אם",
-      "gloss": "kundi"
+      "gloss": ""
     },
     {
       "surface": "ליראה",
-      "gloss": "magakahadlok"
+      "gloss": "sa pagkahadlok"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kay Yahweh nga iyo Elohim"
+      "marks": "kay Yahweh nga Elohim mo"
     },
     {
       "surface": "יהוה",
-      "gloss": "kay Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אלהיך",
-      "gloss": "nga iyo Elohim"
+      "gloss": "nga Elohim mo"
     },
     {
       "surface": "ללכת",
@@ -83,38 +83,38 @@
     },
     {
       "surface": "ולעבד",
-      "gloss": "kag sa pagpanulundo"
+      "gloss": "kag sa pag-alagad"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kay Yahweh nga iyo Elohim"
+      "marks": "kay Yahweh nga Elohim mo"
     },
     {
       "surface": "יהוה",
-      "gloss": "kay Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אלהיך",
-      "gloss": "nga iyo Elohim"
+      "gloss": "nga Elohim mo"
     },
     {
       "surface": "בכל",
-      "gloss": "sa tanan"
+      "gloss": "sang tanan"
     },
     {
       "surface": "לבבך",
-      "gloss": "nga imo kasingkasing"
+      "gloss": "mong kasingkasing"
     },
     {
       "surface": "ובכל",
-      "gloss": "kag sa tanan"
+      "gloss": "kag sang tanan"
     },
     {
       "surface": "נפשך",
-      "gloss": "nga imo kalag"
+      "gloss": "mong kalag"
     }
   ],
-  "timestamp": "2026-09-21T17:21:35.266927198Z",
+  "timestamp": "2026-09-25T08:56:44.334623162Z",
   "model": "glm-5.3"
 }

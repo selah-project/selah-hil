@@ -5,15 +5,16 @@
   "book": "jeremiah",
   "lang": "hil",
   "chapter": 16,
-  "translation": "Kag itatapok ko kamo palayo sa duta ini, sa duta nga indi ninyo nakilala — indi kamo kag indi ang inyo mga amay — kag magaalagad kamo didto ⟨את⟩ sang mga Elohim nga lain, adlaw kag gab-i, nga indi ako magahatag sa inyo sing kaawa.",
+  "translation": "Kag itapok ko ⟨את⟩ kamo palayo sa duta nga ini, padulong sa duta nga wala makilala sang kamo kag sang inyo mga kagikan, kag magaalagad kamo didto ⟨את⟩ sa mga dios nga iban adlaw kag gab-i, nga diin wala ako magahatag sang kaayo sa inyo.",
   "tokens": [
     {
       "surface": "והטלתי",
-      "gloss": "itatapok ko"
+      "gloss": "kag itapok ko"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kamo"
+      "gloss": "⟨את⟩ kamo",
+      "marks": "kamo"
     },
     {
       "surface": "מעל",
@@ -25,11 +26,11 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "ini"
+      "gloss": "nga ini"
     },
     {
       "surface": "על",
-      "gloss": "sa"
+      "gloss": "padulong sa"
     },
     {
       "surface": "הארץ",
@@ -41,11 +42,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "indi"
+      "gloss": "wala"
     },
     {
       "surface": "ידעתם",
-      "gloss": "ninyo nakilala"
+      "gloss": "makilala"
     },
     {
       "surface": "אתם",
@@ -53,11 +54,11 @@
     },
     {
       "surface": "ואבותיכם",
-      "gloss": "kag ang inyo mga amay"
+      "gloss": "kag inyo mga kagikan"
     },
     {
       "surface": "ועבדתם",
-      "gloss": "magaalagad kamo"
+      "gloss": "kag magaalagad kamo"
     },
     {
       "surface": "שם",
@@ -66,15 +67,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mga Elohim nga lain"
+      "marks": "sa mga dios nga iban"
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohim"
+      "gloss": "mga dios"
     },
     {
       "surface": "אחרים",
-      "gloss": "nga lain"
+      "gloss": "nga iban"
     },
     {
       "surface": "יומם",
@@ -86,11 +87,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nga"
+      "gloss": "nga diin"
     },
     {
       "surface": "לא",
-      "gloss": "indi"
+      "gloss": "wala"
     },
     {
       "surface": "אתן",
@@ -102,9 +103,9 @@
     },
     {
       "surface": "חנינה",
-      "gloss": "kaawa"
+      "gloss": "kaayo"
     }
   ],
-  "timestamp": "2026-09-21T19:22:37.835330893Z",
+  "timestamp": "2026-09-25T09:22:59.720239642Z",
   "model": "glm-5.3"
 }

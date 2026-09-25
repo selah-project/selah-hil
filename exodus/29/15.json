@@ -5,20 +5,20 @@
   "book": "exodus",
   "lang": "hil",
   "chapter": 29,
-  "translation": "Kag ⟨את⟩ ang isa ka karnero kuhaon mo, kag isandig ni Aharon kag sang iya mga anak ang ila mga kamot sa ulo sang karnero.",
+  "translation": "Kag ⟨את⟩ ang isa ka carnero kuhaon mo, kag si Aharon kag ang iya mga anak magapatindog sang ⟨את⟩ ila mga kamot sa ulo sang carnero.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "isa ka karnero"
+      "marks": "ang isa ka carnero"
     },
     {
       "surface": "האיל",
-      "gloss": "karnero"
+      "gloss": "ang carnero"
     },
     {
       "surface": "האחד",
-      "gloss": "isa"
+      "gloss": "ang isa"
     },
     {
       "surface": "תקח",
@@ -26,15 +26,15 @@
     },
     {
       "surface": "וסמכו",
-      "gloss": "kag isandig"
+      "gloss": "kag magapatindog"
     },
     {
       "surface": "אהרן",
-      "gloss": "ni Aharon"
+      "gloss": "si Aharon"
     },
     {
       "surface": "ובניו",
-      "gloss": "kag sang iya mga anak"
+      "gloss": "kag ang iya mga anak"
     },
     {
       "surface": "את",
@@ -55,9 +55,9 @@
     },
     {
       "surface": "האיל",
-      "gloss": "sang karnero"
+      "gloss": "sang carnero"
     }
   ],
-  "timestamp": "2026-09-21T16:34:00.218271659Z",
+  "timestamp": "2026-09-25T09:03:29.148220060Z",
   "model": "glm-5.3"
 }

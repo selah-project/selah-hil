@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "hil",
   "chapter": 34,
-  "translation": "Lakat kamo, panuksa ninyo ⟨את⟩ si Yahweh sang akon ⟨kapakanan⟩ kag sang ⟨mga⟩ nagpabilin sa Yisrael kag sa Yehudah, parte sa mga pulong sang sulat nga nadiskubri, kay dako ang kaakig ni Yahweh nga gintula sa aton, tungod kay wala pagbantay sang aton mga kagikan ⟨sa⟩ pulong ni Yahweh sa paghimo sang tanan nga nakasulat sa sini nga sulat.",
+  "translation": "Lakat kamo, magpangita kamo kay Yahweh ⟨את⟩ sa akon bahin kag sa bahin sang mga nabilin sa Yisrael kag sa Yehudah, parte sa mga pulong sang sulat nga nadiskubre, kay dako ang kasdug ni Yahweh nga gintula sa aton, tungod kay wala pagtipigi sang aton mga kag-anak ⟨את⟩ ang pulong ni Yahweh sa paghimo sang tanan nga nasulat sa sini nga sulat.",
   "tokens": [
     {
       "surface": "לכו",
@@ -13,12 +13,12 @@
     },
     {
       "surface": "דרשו",
-      "gloss": "panuksa ninyo"
+      "gloss": "magpangita kamo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "si Yahweh"
+      "marks": "kay Yahweh"
     },
     {
       "surface": "יהוה",
@@ -26,15 +26,15 @@
     },
     {
       "surface": "בעדי",
-      "gloss": "sang akon"
+      "gloss": "sa akon bahin"
     },
     {
       "surface": "ובעד",
-      "gloss": "kag sang"
+      "gloss": "kag sa bahin"
     },
     {
       "surface": "הנשאר",
-      "gloss": "nagpabilin"
+      "gloss": "sang mga nabilin"
     },
     {
       "surface": "בישראל",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "הספר",
-      "gloss": "sulat"
+      "gloss": "sang sulat"
     },
     {
       "surface": "אשר",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "נמצא",
-      "gloss": "nadiskubri"
+      "gloss": "nadiskubre"
     },
     {
       "surface": "כי",
@@ -74,11 +74,11 @@
     },
     {
       "surface": "חמת",
-      "gloss": "kaakig"
+      "gloss": "ang kasdug"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "אשר",
@@ -94,11 +94,11 @@
     },
     {
       "surface": "על",
-      "gloss": "tungod"
+      "gloss": "tungod sa"
     },
     {
       "surface": "אשר",
-      "gloss": "kay"
+      "gloss": "nga"
     },
     {
       "surface": "לא",
@@ -106,24 +106,24 @@
     },
     {
       "surface": "שמרו",
-      "gloss": "pagbantay"
+      "gloss": "pagtipigi"
     },
     {
       "surface": "אבותינו",
-      "gloss": "aton mga kagikan"
+      "gloss": "sang aton mga kag-anak"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pulong ni Yahweh"
+      "marks": "ang pulong ni Yahweh"
     },
     {
       "surface": "דבר",
-      "gloss": "pulong"
+      "gloss": "ang pulong"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "לעשות",
@@ -135,7 +135,7 @@
     },
     {
       "surface": "הכתוב",
-      "gloss": "nakasulat"
+      "gloss": "nga nasulat"
     },
     {
       "surface": "על",
@@ -143,13 +143,13 @@
     },
     {
       "surface": "הספר",
-      "gloss": "sulat"
+      "gloss": "sang sulat"
     },
     {
       "surface": "הזה",
-      "gloss": "sini nga"
+      "gloss": "nga ini"
     }
   ],
-  "timestamp": "2026-09-21T22:15:19.264617302Z",
+  "timestamp": "2026-09-25T08:49:49.997928452Z",
   "model": "glm-5.3"
 }

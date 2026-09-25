@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 14,
-  "translation": "Kag magakaon ka sa atubangan ni Yahweh nga imo Elohim, sa duog nga iya pilion sa pagpuyo sang iya ngalan didto, sang ikanapulo sang imo banwa, sang imo bag-o nga bino, kag sang imo lana, kag sang mga nahauna nga anak sang imo mga baka kag sang imo mga karnero, agod matun-an mo ang pagkakahadlok ⟨kang⟩ Yahweh nga imo Elohim sa tanan nga mga adlaw.",
+  "translation": "Kag kumaon ka sa atubang ni Yahweh nga Elohim mo, sa duog nga iya pilion para pagpuyo sang iya ngalan didto, sang ikanapulo sang imo humay, imo bag-ong bino, kag imo lana, kag sang mga nahauna nga anak sang imo mga baka kag sang imo mga karnero, agod matun-an mo ang pagkahadlok kay ⟨את⟩ Yahweh nga Elohim mo sa tanan nga mga adlaw.",
   "tokens": [
     {
       "surface": "ואכלת",
-      "gloss": "Kag magakaon ka"
+      "gloss": "Kag kumaon ka"
     },
     {
       "surface": "לפני",
-      "gloss": "sa atubangan"
+      "gloss": "sa atubang"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "nga imo Elohim"
+      "gloss": "nga Elohim mo"
     },
     {
       "surface": "במקום",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "לשכן",
-      "gloss": "sa pagpuyo"
+      "gloss": "para pagpuyo"
     },
     {
       "surface": "שמו",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "דגנך",
-      "gloss": "sang imo banwa"
+      "gloss": "sang imo humay"
     },
     {
       "surface": "תירשך",
-      "gloss": "sang imo bag-o nga bino"
+      "gloss": "imo bag-ong bino"
     },
     {
       "surface": "ויצהרך",
-      "gloss": "kag sang imo lana"
+      "gloss": "kag imo lana"
     },
     {
       "surface": "ובכרת",
@@ -85,20 +85,20 @@
     },
     {
       "surface": "ליראה",
-      "gloss": "ang pagkakahadlok"
+      "gloss": "ang pagkahadlok"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahweh nga imo Elohim"
+      "marks": "kay Yahweh"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "kay Yahweh"
     },
     {
       "surface": "אלהיך",
-      "gloss": "nga imo Elohim"
+      "gloss": "nga Elohim mo"
     },
     {
       "surface": "כל",
@@ -109,6 +109,6 @@
       "gloss": "mga adlaw"
     }
   ],
-  "timestamp": "2026-09-21T17:23:41.155180546Z",
+  "timestamp": "2026-09-25T08:59:30.348383020Z",
   "model": "glm-5.3"
 }

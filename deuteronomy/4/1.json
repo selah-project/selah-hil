@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 4,
-  "translation": "Kag subong, Yisrael, magpatalinghog kamo sa mga kasuguan kag sa mga hukum nga akon ginatudlo sa inyo sa pagbuhat sini, agod mabuhi kamo kag makasulod kamo kag makapanag-iya kamo sang ⟨את⟩ ang duta nga ginahatag sang Yahweh, nga Elohim sang inyo mga katalunanhan, sa inyo.",
+  "translation": "Kag subong, Yisrael, pamati sa mga kasuguan kag sa mga paghukum nga akon gatudlo ⟨את⟩ sa inyo sa paghimuon, agod mabuhi kamo kag magkadto kamo kag pamun-an ninyo ⟨את⟩ ang duta nga ginahatag sang Yahweh, sang Elohim sang inyo mga kagikan, sa inyo.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "Kag subong"
+      "gloss": "kag subong"
     },
     {
       "surface": "ישראל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "שמע",
-      "gloss": "magpatalinghog kamo"
+      "gloss": "pamati"
     },
     {
       "surface": "אל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "המשפטים",
-      "gloss": "mga hukum"
+      "gloss": "mga paghukum"
     },
     {
       "surface": "אשר",
@@ -45,15 +45,16 @@
     },
     {
       "surface": "מלמד",
-      "gloss": "ginatudlo"
+      "gloss": "gatudlo"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ sa inyo"
+      "gloss": "⟨את⟩",
+      "marks": "sa inyo"
     },
     {
       "surface": "לעשות",
-      "gloss": "sa pagbuhat"
+      "gloss": "sa paghimuon"
     },
     {
       "surface": "למען",
@@ -65,11 +66,11 @@
     },
     {
       "surface": "ובאתם",
-      "gloss": "kag makasulod kamo"
+      "gloss": "kag magkadto kamo"
     },
     {
       "surface": "וירשתם",
-      "gloss": "kag makapanag-iya kamo"
+      "gloss": "kag pamun-an ninyo"
     },
     {
       "surface": "את",
@@ -86,15 +87,15 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "sang Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim sang"
+      "gloss": "sang Elohim"
     },
     {
       "surface": "אבתיכם",
-      "gloss": "inyo mga katalunanhan"
+      "gloss": "sang inyo mga kagikan"
     },
     {
       "surface": "נתן",
@@ -105,6 +106,6 @@
       "gloss": "sa inyo"
     }
   ],
-  "timestamp": "2026-09-21T17:19:58.367777344Z",
+  "timestamp": "2026-09-25T09:00:32.511026097Z",
   "model": "glm-5.3"
 }

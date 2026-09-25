@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "hil",
   "chapter": 3,
-  "translation": "Palapita ang tribo ni Levi, kag ipatindog mo ⟨את⟩ ina sa atubangan ni Aharon nga saserdote, kag magaalagad sila ⟨אתו⟩ sa iya.",
+  "translation": "Palapita ⟨את⟩ ang tribo ni Levi, kag patindugon mo ⟨את⟩ ⟨siya⟩ sa atubangan ni Aharon ang pari, kag magaalagad sila ⟨sa iya⟩.",
   "tokens": [
     {
       "surface": "הקרב",
@@ -26,12 +26,12 @@
     },
     {
       "surface": "והעמדת",
-      "gloss": "kag ipatindog mo"
+      "gloss": "kag patindugon mo"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "ina (ang tribo ni Levi)"
+      "gloss": "⟨את⟩ ⟨siya⟩",
+      "marks": "siya — ang tribo ni Levi"
     },
     {
       "surface": "לפני",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "nga saserdote"
+      "gloss": "ang pari"
     },
     {
       "surface": "ושרתו",
@@ -51,10 +51,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "sa iya (kay Aharon)"
+      "gloss": "⟨את⟩ ⟨sa iya⟩",
+      "marks": "sa iya — kay Aharon"
     }
   ],
-  "timestamp": "2026-09-21T16:59:17.671288649Z",
+  "timestamp": "2026-09-25T09:45:27.498807630Z",
   "model": "glm-5.3"
 }

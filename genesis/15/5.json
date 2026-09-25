@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 15,
-  "translation": "Kag ginpakgwa niya ⟨אתו⟩ siya sa guwa, kag nagsiling: Tan-awa ⟨karon⟩ sa mga langit kag ihap ang mga bitoon, kon makasimo ka mag-ihap sang mga sina; kag nagsiling siya sa iya: Amo man ang imo kaliwat.",
+  "translation": "Gindala niya ⟨את⟩ siya sa guwa kag nagsiling: Tan-awa ⟨karon⟩ sa langit kag ihap ang mga bitoon, kon ikaw makahihap ⟨את⟩ sila; kag nagsiling siya sa iya: Amo sini magakadto ang imo kaliwat.",
   "tokens": [
     {
       "surface": "ויוצא",
-      "gloss": "ginpakgwa"
+      "gloss": "Gindala niya"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩",
       "marks": "siya"
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "surface": "השמימה",
-      "gloss": "sa mga langit"
+      "gloss": "sa langit"
     },
     {
       "surface": "וספר",
@@ -50,20 +50,20 @@
     },
     {
       "surface": "תוכל",
-      "gloss": "makasimo ka"
+      "gloss": "ikaw makahihap"
     },
     {
       "surface": "לספר",
-      "gloss": "mag-ihap"
+      "gloss": "mangihap"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "ang mga bitoon"
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang mga bitoon)"
     },
     {
       "surface": "ויאמר",
-      "gloss": "kag nagsiling siya"
+      "gloss": "kag nagsiling"
     },
     {
       "surface": "לו",
@@ -71,17 +71,17 @@
     },
     {
       "surface": "כה",
-      "gloss": "Amo man"
+      "gloss": "Amo sini"
     },
     {
       "surface": "יהיה",
-      "gloss": "ang magakabuhi"
+      "gloss": "magakadto"
     },
     {
       "surface": "זרעך",
-      "gloss": "imo kaliwat"
+      "gloss": "ang imo kaliwat"
     }
   ],
-  "timestamp": "2026-09-21T15:59:40.395533095Z",
+  "timestamp": "2026-09-25T09:13:55.222450018Z",
   "model": "glm-5.3"
 }

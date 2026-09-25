@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 18,
-  "translation": "Kag sa mga baka nagdalagan si Avraham, kag nagkuha siya sang isa ka anak sang baka, lomoy kag maayo, kag ginhatod niya ini sa batan-on, kag nagdali ini sa paghimo ⟨sini⟩.",
+  "translation": "Kag nagdalagan si Avraham sa mga sapat, kag nagkuha siya sang isa ka anak sang sapat, lomahok kag maayo, kag gintana iya sa batan-on, kag nagmadali siya paghimo ⟨את⟩ sini.",
   "tokens": [
     {
       "surface": "ואל",
-      "gloss": "sa"
+      "gloss": "kag sa"
     },
     {
       "surface": "הבקר",
-      "gloss": "mga baka"
+      "gloss": "mga sapat"
     },
     {
       "surface": "רץ",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ויקח",
-      "gloss": "kag nagkuha"
+      "gloss": "kag nagkuha siya"
     },
     {
       "surface": "בן",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "בקר",
-      "gloss": "sang baka"
+      "gloss": "sang sapat"
     },
     {
       "surface": "רך",
-      "gloss": "lomoy"
+      "gloss": "lomahok"
     },
     {
-      "surface": "וטוב",
+      "surface": "ווטוב",
       "gloss": "kag maayo"
     },
     {
       "surface": "ויתן",
-      "gloss": "kag ginhatod niya"
+      "gloss": "kag gintana"
     },
     {
       "surface": "אל",
@@ -57,18 +57,18 @@
     },
     {
       "surface": "וימהר",
-      "gloss": "kag nagdali"
+      "gloss": "kag nagmadali siya"
     },
     {
       "surface": "לעשות",
-      "gloss": "sa paghimo"
+      "gloss": "paghimo"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "sini"
+      "marks": "sini (ang anak sang sapat)"
     }
   ],
-  "timestamp": "2026-09-21T22:16:01.426573047Z",
+  "timestamp": "2026-09-25T09:15:26.033531535Z",
   "model": "glm-5.3"
 }

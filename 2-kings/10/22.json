@@ -5,31 +5,31 @@
   "book": "2-kings",
   "lang": "hil",
   "chapter": 10,
-  "translation": "Kag naghambal siya sa <nagaatipan> sang badohunan: Palabua ang mga bado para sa tanan nga mga alagad sang Baal; kag ginpagwa niya sa ila ang mga bado.",
+  "translation": "Kag naghambal siya sa nagaatipan sang mga bado: Magkuha ka sang mga bado para sa tanan nga mga alagad sang Baal; kag ginkuha niya ang mga bado para sa ila.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Kag naghambal"
+      "gloss": "naghambal"
     },
     {
       "surface": "לאשר",
-      "gloss": "sa <nagaatipan>"
+      "gloss": "sa ⟨sia nga⟩ nagaatipan"
     },
     {
       "surface": "על",
-      "gloss": "sa"
+      "gloss": "⟨sang⟩"
     },
     {
       "surface": "המלתחה",
-      "gloss": "badohunan"
+      "gloss": "mga bado"
     },
     {
       "surface": "הוצא",
-      "gloss": "Palabua"
+      "gloss": "magkuha ka"
     },
     {
       "surface": "לבוש",
-      "gloss": "ang mga bado"
+      "gloss": "mga bado"
     },
     {
       "surface": "לכל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "nga mga alagad"
+      "gloss": "mga alagad"
     },
     {
       "surface": "הבעל",
@@ -45,17 +45,17 @@
     },
     {
       "surface": "ויצא",
-      "gloss": "kag ginpagwa"
+      "gloss": "ginkuha niya"
     },
     {
       "surface": "להם",
-      "gloss": "sa ila"
+      "gloss": "para sa ila"
     },
     {
       "surface": "המלבוש",
       "gloss": "ang mga bado"
     }
   ],
-  "timestamp": "2026-09-21T18:43:42.009614096Z",
+  "timestamp": "2026-09-25T08:49:15.524144189Z",
   "model": "glm-5.3"
 }

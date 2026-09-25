@@ -5,15 +5,15 @@
   "book": "joshua",
   "lang": "hil",
   "chapter": 8,
-  "translation": "Kag naggwa ini sa syudad sa pagtapak sa ila, kag nahimo sila sa butong sang Yisrael — ini sa sini ka bahin kag ini sa sina ka bahin — kag ginpatay nila sila, hangtud wala na nila pagbilin sa ila bisan isa ka nabilin ukon makalagyo.",
+  "translation": "Kag nagguwa ini ⟨nga mga tawo⟩ sa siyudad sa pagtapak sa ila, kag natabo sila sa tunga sang Yisrael — ini ⟨nga mga⟩ sa sini nga bahin kag ini ⟨nga mga⟩ sa sini nga bahin — kag gintamdan nila sila ⟨את⟩ tubtob wala na gin-abil sa ila bisan isa ka ulinan kag nakalagyo.",
   "tokens": [
     {
       "surface": "ואלה",
-      "gloss": "Kag ini"
+      "gloss": "kag ini nga mga"
     },
     {
       "surface": "יצאו",
-      "gloss": "naggwa"
+      "gloss": "nagguwa"
     },
     {
       "surface": "מן",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "העיר",
-      "gloss": "syudad"
+      "gloss": "siyudad"
     },
     {
       "surface": "לקראתם",
@@ -29,51 +29,52 @@
     },
     {
       "surface": "ויהיו",
-      "gloss": "kag nahimo sila"
+      "gloss": "kag natabo"
     },
     {
       "surface": "לישראל",
-      "gloss": "sang Yisrael"
+      "gloss": "sa tunga sang Yisrael"
     },
     {
       "surface": "בתוך",
-      "gloss": "sa butong"
+      "gloss": "sa tunga"
     },
     {
       "surface": "אלה",
-      "gloss": "ini"
+      "gloss": "ini nga mga"
     },
     {
       "surface": "מזה",
-      "gloss": "sa sini ka bahin"
+      "gloss": "sa sini nga bahin"
     },
     {
       "surface": "ואלה",
-      "gloss": "kag ini"
+      "gloss": "kag ini nga mga"
     },
     {
       "surface": "מזה",
-      "gloss": "sa sina ka bahin"
+      "gloss": "sa sini nga bahin"
     },
     {
       "surface": "ויכו",
-      "gloss": "kag ginpatay"
+      "gloss": "kag gintamdan"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ sila"
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang mga tawo sang Ay)"
     },
     {
       "surface": "עד",
-      "gloss": "hangtud"
+      "gloss": "tubtob"
     },
     {
       "surface": "בלתי",
-      "gloss": "wala"
+      "gloss": "wala na"
     },
     {
       "surface": "השאיר",
-      "gloss": "pagbilin"
+      "gloss": "gin-abil"
     },
     {
       "surface": "לו",
@@ -81,13 +82,13 @@
     },
     {
       "surface": "שריד",
-      "gloss": "nabilin"
+      "gloss": "bisan isa ka ulinan"
     },
     {
       "surface": "ופליט",
-      "gloss": "ukon makalagyo"
+      "gloss": "kag nakalagyo"
     }
   ],
-  "timestamp": "2026-09-21T17:38:03.232316732Z",
+  "timestamp": "2026-09-25T09:34:12.982047784Z",
   "model": "glm-5.3"
 }

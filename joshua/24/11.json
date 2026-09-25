@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "hil",
   "chapter": 24,
-  "translation": "Kag nagtabok kamo ⟨sa⟩ ⟨את⟩ sang Yarden kag nagsulod kamo sa Yericho, kag nagpakig-away contra sa inyo ang mga ginuo sang Yericho — ang mga Emori, kag ang mga Perizzi, kag ang mga Kenani, kag ang mga Hiti, kag ang mga Girgashi, ang mga Hivi kag ang mga Yevusi — kag ginsaad ko sila sa inyo mga kamot.",
+  "translation": "Kag nagtabok kamo ⟨את⟩ sang Yarden kag nagsulod kamo sa Yericho, kag nagpakigaway sa inyo ang mga agalon sang Yericho — ang Amorihanon, kag ang Perizihanon, kag ang Kenahanon, kag ang Hithanon, kag ang Girgashanon, ang Hiwhanon kag ang Yebusanon — kag ginhatag Ko sila ⟨אותם⟩ sa inyo mga kamot.",
   "tokens": [
     {
       "surface": "ותעברו",
-      "gloss": "nagtabok kamo"
+      "gloss": "Kag nagtabok kamo"
     },
     {
       "surface": "את",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "וילחמו",
-      "gloss": "kag nagpakig-away"
+      "gloss": "kag nagpakigaway"
     },
     {
       "surface": "בכם",
-      "gloss": "contra sa inyo"
+      "gloss": "sa inyo"
     },
     {
       "surface": "בעלי",
-      "gloss": "ang mga ginuo"
+      "gloss": "ang mga agalon"
     },
     {
       "surface": "יריחו",
@@ -50,39 +50,39 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "ang mga Emori"
+      "gloss": "ang Amorihanon"
     },
     {
       "surface": "והפרזי",
-      "gloss": "kag ang mga Perizzi"
+      "gloss": "kag ang Perizihanon"
     },
     {
       "surface": "והכנעני",
-      "gloss": "kag ang mga Kenani"
+      "gloss": "kag ang Kenahanon"
     },
     {
       "surface": "והחתי",
-      "gloss": "kag ang mga Hiti"
+      "gloss": "kag ang Hithanon"
     },
     {
       "surface": "והגרגשי",
-      "gloss": "kag ang mga Girgashi"
+      "gloss": "kag ang Girgashanon"
     },
     {
       "surface": "החוי",
-      "gloss": "ang mga Hivi"
+      "gloss": "ang Hiwhanon"
     },
     {
       "surface": "והיבוסי",
-      "gloss": "kag ang mga Yevusi"
+      "gloss": "kag ang Yebusanon"
     },
     {
       "surface": "ואתן",
-      "gloss": "kag ginsaad ko sila"
+      "gloss": "kag ginhatag Ko"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אותם⟩ sila",
       "marks": "sa inyo mga kamot"
     },
     {
@@ -90,6 +90,6 @@
       "gloss": "sa inyo mga kamot"
     }
   ],
-  "timestamp": "2026-09-21T22:25:12.400793047Z",
+  "timestamp": "2026-09-25T09:32:04.914667336Z",
   "model": "glm-5.3"
 }

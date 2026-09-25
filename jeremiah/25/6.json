@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "hil",
   "chapter": 25,
-  "translation": "kag indi kamo maglakat suno sa mga dios nga iban sa pag-alagad sa ila kag sa pagsimba sa ila, kag indi ninyo ako pagpaakigon sa binuhatan sang inyo mga kamot, kag indi ako magahimo sang kalaain sa inyo.",
+  "translation": "Kag indi kamo maglakat sa likod sang mga dios nga iban sa pag-alagad sa ila kag sa pagsilhig sa ila, kag indi ninyo pagaakig ⟨את⟩ ako paagi sang mga buhat sang inyo mga kamot, kag indi ako magahimo sang kalaot sa inyo.",
   "tokens": [
     {
       "surface": "ואל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "suno sa"
+      "gloss": "sa likod"
     },
     {
       "surface": "אלהים",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ולהשתחות",
-      "gloss": "kag sa pagsimba"
+      "gloss": "kag sa pagsilhig"
     },
     {
       "surface": "להם",
@@ -45,15 +45,16 @@
     },
     {
       "surface": "תכעיסו",
-      "gloss": "ninyo pagpaakigon"
+      "gloss": "ninyo pagaakig"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ ako"
+      "gloss": "⟨את⟩ ako",
+      "marks": "ako"
     },
     {
       "surface": "במעשה",
-      "gloss": "sa binuhatan"
+      "gloss": "paagi sang mga buhat"
     },
     {
       "surface": "ידיכם",
@@ -65,13 +66,13 @@
     },
     {
       "surface": "ארע",
-      "gloss": "ako magahimo sang kalaain"
+      "gloss": "ako magahimo sang kalaot"
     },
     {
       "surface": "לכם",
       "gloss": "sa inyo"
     }
   ],
-  "timestamp": "2026-09-21T19:25:41.409050928Z",
+  "timestamp": "2026-09-25T09:25:26.970982880Z",
   "model": "glm-5.3"
 }

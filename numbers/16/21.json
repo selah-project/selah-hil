@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "hil",
   "chapter": 16,
-  "translation": "Magbulag kamo sa tunga sang <ang> katilingban <ini>, kag pawalon ko sila sa isa ka bigla.",
+  "translation": "Magbulag kamo gikan sa tunga sang ini nga katipunan, kag laglagon ko sila ⟨אתם⟩ sa isa ka bigla.",
   "tokens": [
     {
       "surface": "הבדלו",
@@ -13,29 +13,30 @@
     },
     {
       "surface": "מתוך",
-      "gloss": "sa tunga sang"
+      "gloss": "gikan sa tunga"
     },
     {
       "surface": "העדה",
-      "gloss": "katilingban"
+      "gloss": "sang katipunan"
     },
     {
       "surface": "הזאת",
-      "gloss": "ini"
+      "gloss": "ini nga"
     },
     {
       "surface": "ואכלה",
-      "gloss": "kag pawalon ko"
+      "gloss": "kag laglagon ko"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ silа"
+      "gloss": "⟨אתם⟩",
+      "marks": "sila"
     },
     {
       "surface": "כרגע",
       "gloss": "sa isa ka bigla"
     }
   ],
-  "timestamp": "2026-09-21T17:06:39.950241897Z",
+  "timestamp": "2026-09-25T09:45:21.694452339Z",
   "model": "glm-5.3"
 }

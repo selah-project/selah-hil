@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "hil",
   "chapter": 1,
-  "translation": "Indi amo ang mga balasubas, kundi lagas ipa nga ginapalayo sang hangin.",
+  "translation": "Indi sina ang mga magaad — kondi amo ang motech nga ginapalayas sang hangin.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,23 +13,23 @@
     },
     {
       "surface": "כן",
-      "gloss": "amo"
+      "gloss": "sina"
     },
     {
       "surface": "הרשעים",
-      "gloss": "ang mga balasubas"
+      "gloss": "ang mga magaad"
     },
     {
       "surface": "כי",
-      "gloss": "kundi"
+      "gloss": "—"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "kondi"
     },
     {
       "surface": "כמץ",
-      "gloss": "lagas ipa"
+      "gloss": "amo ang motech"
     },
     {
       "surface": "אשר",
@@ -37,13 +37,13 @@
     },
     {
       "surface": "תדפנו",
-      "gloss": "ginapalayo"
+      "gloss": "ginapalayas"
     },
     {
       "surface": "רוח",
       "gloss": "sang hangin"
     }
   ],
-  "timestamp": "2026-09-21T20:23:42.310559999Z",
+  "timestamp": "2026-09-25T09:48:58.520677892Z",
   "model": "glm-5.3"
 }

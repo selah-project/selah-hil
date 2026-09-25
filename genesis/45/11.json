@@ -5,16 +5,16 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 45,
-  "translation": "Kag didto ako ang magapakaon ⟨sa imo⟩, kay pa may lima ka tuig kag gutom, bangud indi madula ikaw kag ang imo balay kag tanan nga sa imo.",
+  "translation": "kag sipropinaron ko ⟨את⟩ sa imo didto, kay ara pa nga lima ka tuig sang gutom, agud indi ka mahuuran — ikaw kag ang imo balay kag tanan nga ara sa imo.",
   "tokens": [
     {
       "surface": "וכלכלתי",
-      "gloss": "Kag ako ang magapakaon"
+      "gloss": "kag sipropinaron ko"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩",
-      "marks": "sa imo"
+      "gloss": "⟨את⟩ sa imo",
+      "marks": "didto (sa imo)"
     },
     {
       "surface": "שם",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "עוד",
-      "gloss": "pa"
+      "gloss": "ara pa nga"
     },
     {
       "surface": "חמש",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "רעב",
-      "gloss": "kag gutom"
+      "gloss": "sang gutom"
     },
     {
       "surface": "פן",
-      "gloss": "bangud indi"
+      "gloss": "agud indi"
     },
     {
       "surface": "תורש",
-      "gloss": "madula"
+      "gloss": "mahuuran"
     },
     {
       "surface": "אתה",
@@ -66,9 +66,9 @@
     },
     {
       "surface": "לך",
-      "gloss": "sa imo"
+      "gloss": "ara sa imo"
     }
   ],
-  "timestamp": "2026-09-21T16:17:13.684213231Z",
+  "timestamp": "2026-09-25T09:17:49.383011349Z",
   "model": "glm-5.3"
 }

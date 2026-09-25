@@ -5,15 +5,15 @@
   "book": "joshua",
   "lang": "hil",
   "chapter": 1,
-  "translation": "Ang tagsa ka tawo nga magasukol ⟨sa⟩ imo baba kag indi magapatinisod ⟨את⟩ sa imo mga pulong, sa tanan nga imo ginasugo sa iya, pagapatyon; basta magkusog kag magaisog.",
+  "translation": "Bisan ano nga tawo nga magrebeldi kontra ⟨את⟩ sang imo baba kag indi maminaw sang imo mga pulong, sa tanan nga imo pagtugon sa iya, pagapatyon siya; nga lamang magpakumod kag magpakaisog.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "ang tagsa"
+      "gloss": "Bisan ano"
     },
     {
       "surface": "איש",
-      "gloss": "ka tawo"
+      "gloss": "nga tawo"
     },
     {
       "surface": "אשר",
@@ -21,12 +21,12 @@
     },
     {
       "surface": "ימרה",
-      "gloss": "magasukol"
+      "gloss": "magrebeldi kontra"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "imo baba"
+      "marks": "sang imo baba"
     },
     {
       "surface": "פיך",
@@ -38,12 +38,12 @@
     },
     {
       "surface": "ישמע",
-      "gloss": "magapatinisod"
+      "gloss": "maminaw"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "imo mga pulong"
+      "marks": "sang imo mga pulong"
     },
     {
       "surface": "דבריך",
@@ -59,25 +59,25 @@
     },
     {
       "surface": "תצונו",
-      "gloss": "ginasugo"
+      "gloss": "imo pagtugon sa iya"
     },
     {
       "surface": "יומת",
-      "gloss": "pagapatyon"
+      "gloss": "pagapatyon siya"
     },
     {
       "surface": "רק",
-      "gloss": "basta"
+      "gloss": "nga lamang"
     },
     {
       "surface": "חזק",
-      "gloss": "magkusog"
+      "gloss": "magpakumod"
     },
     {
       "surface": "ואמץ",
-      "gloss": "kag magaisog"
+      "gloss": "kag magpakaisog"
     }
   ],
-  "timestamp": "2026-09-21T17:34:41.544429561Z",
+  "timestamp": "2026-09-25T09:30:40.118822049Z",
   "model": "glm-5.3"
 }

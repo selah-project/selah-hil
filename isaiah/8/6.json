@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "hil",
   "chapter": 8,
-  "translation": "Tungod kay nagsikway ang katawhan nga ini sang ⟨את⟩ ang mga tubig sang Shiloaj nga nagalakat hinahunahon, kag nagakalipay ⟨sa⟩ Retsin kag sa anak ni Remalyahu,",
+  "translation": "Tungod kay ginsikway sang katawhan nga ini ⟨את⟩ ang mga tubig sang Shiloah nga nagalakat sing mahinay, kag nagakalipay ⟨את⟩ kay Retsin kag sa anak ni Remalyahu",
   "tokens": [
     {
       "surface": "יען",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מאס",
-      "gloss": "nagsikway"
+      "gloss": "ginsikway"
     },
     {
       "surface": "העם",
@@ -30,23 +30,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mga tubig sang Shiloaj"
+      "marks": "ang mga tubig sang Shiloah"
     },
     {
       "surface": "מי",
-      "gloss": "mga tubig"
+      "gloss": "ang mga tubig"
     },
     {
       "surface": "השלח",
-      "gloss": "sang Shiloaj"
+      "gloss": "sang Shiloah"
     },
     {
       "surface": "ההלכים",
-      "gloss": "nagalakat"
+      "gloss": "nga nagalakat"
     },
     {
       "surface": "לאט",
-      "gloss": "hinahunahon"
+      "gloss": "sing mahinay"
     },
     {
       "surface": "ומשוש",
@@ -55,7 +55,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Retsin"
+      "marks": "kay Retsin"
     },
     {
       "surface": "רצין",
@@ -70,6 +70,6 @@
       "gloss": "ni Remalyahu"
     }
   ],
-  "timestamp": "2026-09-21T18:54:51.790274998Z",
+  "timestamp": "2026-09-25T09:22:28.472279900Z",
   "model": "glm-5.3"
 }

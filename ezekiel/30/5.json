@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 30,
-  "translation": "Kush, kag Fut, kag Lud, kag tanan nga halo, kag Khuv, kag ang mga anak sang duta sang katipan — ⟨kaubra nila⟩ magakatumba sa espada.",
+  "translation": "Kush, kag Put, kag Lud, kag ang tanan nga sinarakpan ⟨nga⟩ katawhan, kag Khuv, kag ang mga anak nga lalaki sang duta sang kasugtanan — kaupod nila sa espada mahulog sila.",
   "tokens": [
     {
       "surface": "כוש",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ופוט",
-      "gloss": "kag Fut"
+      "gloss": "kag Put"
     },
     {
       "surface": "ולוד",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "וכל",
-      "gloss": "kag tanan"
+      "gloss": "kag ang tanan"
     },
     {
       "surface": "הערב",
-      "gloss": "nga halo"
+      "gloss": "sinarakpan ⟨nga⟩ katawhan"
     },
     {
       "surface": "וכוב",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ובני",
-      "gloss": "kag ang mga anak"
+      "gloss": "kag ang mga anak nga lalaki"
     },
     {
       "surface": "ארץ",
@@ -41,12 +41,12 @@
     },
     {
       "surface": "הברית",
-      "gloss": "sang katipan"
+      "gloss": "sang kasugtanan"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "kaubra nila — sa ila kauban magakatumba"
+      "gloss": "⟨את⟩",
+      "marks": "kaupod nila"
     },
     {
       "surface": "בחרב",
@@ -54,9 +54,9 @@
     },
     {
       "surface": "יפלו",
-      "gloss": "magakatumba"
+      "gloss": "mahulog sila"
     }
   ],
-  "timestamp": "2026-09-21T19:53:35.126292226Z",
+  "timestamp": "2026-09-25T09:10:47.786617311Z",
   "model": "glm-5.3"
 }

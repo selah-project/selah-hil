@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "hil",
   "chapter": 30,
-  "translation": "Kag kon sa adlaw sang pagdungog sang iya bana iya siya pagbabawalan, ipawaya niya ⟨את⟩ iya pangako nga ara sa iya kag ⟨את⟩ ang iya padali nga hambal sang iya mga ngabil nga iya ginbugkos sa iya kalag, kag si Yahweh magapatawad sa iya.",
+  "translation": "Kag kon sa adlaw sang pagkadungog sini ang iya bana, indi niya pagtugutan ⟨את⟩ siya kag panganullan niya ⟨את⟩ ang iya saad nga ara sa iya kag ⟨את⟩ ang iya padalagakon nga binuhat sang iya mga bibig, nga iya ginsugatan sa iya kaugalingon, kag si Yahweh magapatawad sa iya.",
   "tokens": [
     {
       "surface": "ואם",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "שמע",
-      "gloss": "sang pagdungog"
+      "gloss": "sang pagkadungog"
     },
     {
       "surface": "אישה",
-      "gloss": "iya bana"
+      "gloss": "ang iya bana"
     },
     {
       "surface": "יניא",
-      "gloss": "pagbabawalan"
+      "gloss": "indi niya pagtugutan"
     },
     {
       "surface": "אותה",
@@ -34,16 +34,16 @@
     },
     {
       "surface": "והפר",
-      "gloss": "ipawaya"
+      "gloss": "kag panganullan niya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iya pangako"
+      "marks": "ang iya saad"
     },
     {
       "surface": "נדרה",
-      "gloss": "iya pangako"
+      "gloss": "ang iya saad"
     },
     {
       "surface": "אשר",
@@ -51,20 +51,20 @@
     },
     {
       "surface": "עליה",
-      "gloss": "sa iya"
+      "gloss": "nga ara sa iya"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "iya padali nga hambal"
+      "marks": "ang iya padalagakon"
     },
     {
       "surface": "מבטא",
-      "gloss": "padali nga hambal"
+      "gloss": "ang iya padalagakon"
     },
     {
       "surface": "שפתיה",
-      "gloss": "iya mga ngabil"
+      "gloss": "nga binuhat sang iya mga bibig"
     },
     {
       "surface": "אשר",
@@ -72,7 +72,7 @@
     },
     {
       "surface": "אסרה",
-      "gloss": "ginbugkos"
+      "gloss": "iya ginsugatan"
     },
     {
       "surface": "על",
@@ -80,7 +80,7 @@
     },
     {
       "surface": "נפשה",
-      "gloss": "iya kalag"
+      "gloss": "iya kaugalingon"
     },
     {
       "surface": "ויהוה",
@@ -95,6 +95,6 @@
       "gloss": "sa iya"
     }
   ],
-  "timestamp": "2026-09-21T17:14:33.682509221Z",
+  "timestamp": "2026-09-25T09:44:59.831273916Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "hil",
   "chapter": 22,
-  "translation": "Kay sa duog diin nila siya ginbiya nga bihag, dido siya magakapatay, kag ⟨את⟩ ang duta ini indi na niya makita pa.",
+  "translation": "kay sa duog nga diin nila pagpaguaon ⟨את⟩ siya sa pagkabihag, didto siya mamatay, kag ⟨את⟩ ining duta indi na niya makita pa.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Kay"
+      "gloss": "kay"
     },
     {
       "surface": "במקום",
@@ -17,33 +17,32 @@
     },
     {
       "surface": "אשר",
-      "gloss": "diin"
+      "gloss": "nga diin"
     },
     {
       "surface": "הגלו",
-      "gloss": "ginbiya nila nga bihag"
+      "gloss": "nila pagpaguaon sa pagkabihag"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ siya",
-      "marks": "si Shallum"
+      "gloss": "⟨את⟩",
+      "marks": "siya"
     },
     {
       "surface": "שם",
-      "gloss": "dido"
+      "gloss": "didto"
     },
     {
       "surface": "ימות",
-      "gloss": "siya magakapatay"
+      "gloss": "siya mamatay"
     },
     {
       "surface": "ואת",
-      "gloss": "kag ⟨את⟩",
-      "marks": "ang duta"
+      "gloss": "kag ⟨את⟩"
     },
     {
       "surface": "הארץ",
-      "gloss": "ang duta"
+      "gloss": "ining duta"
     },
     {
       "surface": "הזאת",
@@ -51,7 +50,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "indi na"
+      "gloss": "indi"
     },
     {
       "surface": "יראה",
@@ -62,6 +61,6 @@
       "gloss": "pa"
     }
   ],
-  "timestamp": "2026-09-21T19:24:28.521679965Z",
+  "timestamp": "2026-09-25T09:23:47.987704317Z",
   "model": "glm-5.3"
 }

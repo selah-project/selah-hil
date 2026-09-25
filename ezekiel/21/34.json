@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 21,
-  "translation": "Samtang nagakita sila sang ⟨mga⟩ bakak sa imo, samtang nagapangdumal sila sang ⟨mga⟩ tinago nga bakak sa imo, sa pagbutang sa imo sa mga liog sang mga patay nga mga malain, nga ang ila adlaw nagabalikid, sa tion sang kalaut sang katapusan.",
+  "translation": "Sa pagpakita sang bakak sa imo, sa pagpangitam-is sang kahakop sa imo, sa pagbutang ⟨sa imo⟩ sa mga liog sang mga pinatay nga mga tampulosan, ang mga nga ang ila adlaw nag-abot sa tion sang kalaut sang katapusan.",
   "tokens": [
     {
       "surface": "בחזות",
-      "gloss": "samtang nagakita sila"
+      "gloss": "sa pagpakita"
     },
     {
       "surface": "לך",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "שוא",
-      "gloss": "mga bakak"
+      "gloss": "bakak"
     },
     {
       "surface": "בקסם",
-      "gloss": "samtang nagapangdumal sila"
+      "gloss": "sa pagpangitam-is"
     },
     {
       "surface": "לך",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "כזב",
-      "gloss": "mga tinago nga bakak"
+      "gloss": "kahakop"
     },
     {
       "surface": "לתת",
@@ -37,7 +37,8 @@
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ sa imo"
+      "gloss": "⟨את⟩ sa imo",
+      "marks": "sa imo — ang butang nga ginabutangan"
     },
     {
       "surface": "אל",
@@ -49,11 +50,11 @@
     },
     {
       "surface": "חללי",
-      "gloss": "mga patay"
+      "gloss": "mga pinatay"
     },
     {
       "surface": "רשעים",
-      "gloss": "nga mga malain"
+      "gloss": "mga tampulosan"
     },
     {
       "surface": "אשר",
@@ -61,7 +62,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "nagabalikid"
+      "gloss": "nag-abot"
     },
     {
       "surface": "יומם",
@@ -73,13 +74,13 @@
     },
     {
       "surface": "עון",
-      "gloss": "sang kalaut"
+      "gloss": "kalaut"
     },
     {
       "surface": "קץ",
-      "gloss": "sang katapusan"
+      "gloss": "katapusan"
     }
   ],
-  "timestamp": "2026-09-21T19:48:20.524466072Z",
+  "timestamp": "2026-09-25T09:08:51.449001326Z",
   "model": "glm-5.3"
 }

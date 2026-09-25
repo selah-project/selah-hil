@@ -5,25 +5,25 @@
   "book": "exodus",
   "lang": "hil",
   "chapter": 28,
-  "translation": "Kag isul-ob mo sila ⟨אתם⟩ — si Aharon, imo utod, kag ⟨את⟩ ang iya mga anak ⟨את⟩ ka iya — kag lalain mo sila ⟨אתם⟩, kag pun-on mo ⟨את⟩ ang ila mga kamot, kag pagabinlan mo sila ⟨אתם⟩, agod magaparì sila sa akon.",
+  "translation": "Kag isulob mo ⟨את⟩ sila — ⟨את⟩ kay Aharon, imo utod, kag ⟨את⟩ iya mga anak ⟨את⟩ ka iya; kag dilihan mo ⟨את⟩ sila, kag pun-a mo ⟨את⟩ ila mga kamot, kag pagbalaanon mo ⟨את⟩ sila, kag magapari sila sa akon.",
   "tokens": [
     {
       "surface": "והלבשת",
-      "gloss": "kag isul-ob mo"
+      "gloss": "kag isulob mo"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "sila (si Aharon kag ang iya mga anak)"
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila — sila Aharon kag iya mga anak"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "si Aharon"
+      "marks": "Aharon"
     },
     {
       "surface": "אהרן",
-      "gloss": "si Aharon"
+      "gloss": "Aharon"
     },
     {
       "surface": "אחיך",
@@ -32,57 +32,56 @@
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang iya mga anak"
+      "marks": "iya mga anak"
     },
     {
       "surface": "בניו",
-      "gloss": "ang iya mga anak"
+      "gloss": "iya mga anak"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ka iya",
-      "marks": "ka iya"
+      "gloss": "⟨את⟩ ka iya"
     },
     {
       "surface": "ומשחת",
-      "gloss": "kag lalain mo"
+      "gloss": "kag dilihan mo"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "sila"
+      "gloss": "⟨את⟩ sila",
+      "marks": "dilihan kag pagbalaanon"
     },
     {
       "surface": "ומלאת",
-      "gloss": "kag pun-on mo"
+      "gloss": "kag pun-a mo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang ila mga kamot"
+      "marks": "ila mga kamot"
     },
     {
       "surface": "ידם",
-      "gloss": "ang ila mga kamot"
+      "gloss": "ila mga kamot"
     },
     {
       "surface": "וקדשת",
-      "gloss": "kag pagabinlan mo"
+      "gloss": "kag pagbalaanon mo"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "sila"
+      "gloss": "⟨את⟩ sila",
+      "marks": "magapari"
     },
     {
       "surface": "וכהנו",
-      "gloss": "agod magaparì sila"
+      "gloss": "kag magapari sila"
     },
     {
       "surface": "לי",
       "gloss": "sa akon"
     }
   ],
-  "timestamp": "2026-09-21T16:33:46.490729554Z",
+  "timestamp": "2026-09-25T09:03:43.937396029Z",
   "model": "glm-5.3"
 }

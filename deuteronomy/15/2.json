@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 15,
-  "translation": "Kag ini ang pulong sang pagpahuway: palagyaron sang tagsa ka agalon sang utang ang iya kamot nga ginpalutang niya sa iya isigkabuhi; indi niya pagpaninguhaton ang iya isigkabuhi kag ⟨את⟩ ang iya utod, kay gintawag ang pagpahuway para kang Yahweh.",
+  "translation": "Kag ina amo ang butang sang pagpahuway: pahuwayon sang tagsa ka tag-iya sang utang ang iya kamot nga gin-abay niya sa iya isigkatawo; indi niya pagasingtan ⟨את⟩ ang iya isigkatawo kag ⟨את⟩ ang iya utod, kay gintawag ang pagpahuway kay Yahweh.",
   "tokens": [
     {
       "surface": "וזה",
-      "gloss": "Kag ini"
+      "gloss": "kag ina"
     },
     {
       "surface": "דבר",
-      "gloss": "ang pulong"
+      "gloss": "ang butang"
     },
     {
       "surface": "השמטה",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "שמוט",
-      "gloss": "palagyaron"
+      "gloss": "pahuwayon"
     },
     {
       "surface": "כל",
-      "gloss": "ang tanan"
+      "gloss": "tagsa ka"
     },
     {
       "surface": "בעל",
-      "gloss": "agalon"
+      "gloss": "tag-iya"
     },
     {
       "surface": "משה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ידו",
-      "gloss": "iya kamot"
+      "gloss": "ang iya kamot"
     },
     {
       "surface": "אשר",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "ישה",
-      "gloss": "ginpalutang"
+      "gloss": "gin-abay"
     },
     {
       "surface": "ברעהו",
-      "gloss": "sa iya isigkabuhi"
+      "gloss": "sa iya isigkatawo"
     },
     {
       "surface": "לא",
@@ -57,16 +57,16 @@
     },
     {
       "surface": "יגש",
-      "gloss": "pagpaninguhaton"
+      "gloss": "pagasingtan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang iya isigkabuhi"
+      "marks": "ang iya isigkatawo"
     },
     {
       "surface": "רעהו",
-      "gloss": "iya isigkabuhi"
+      "gloss": "ang iya isigkatawo"
     },
     {
       "surface": "ואת",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "אחיו",
-      "gloss": "iya utod"
+      "gloss": "ang iya utod"
     },
     {
       "surface": "כי",
@@ -91,9 +91,9 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "para kang Yahweh"
+      "gloss": "kay Yahweh"
     }
   ],
-  "timestamp": "2026-09-21T17:24:24.020185692Z",
+  "timestamp": "2026-09-25T08:57:24.975366300Z",
   "model": "glm-5.3"
 }

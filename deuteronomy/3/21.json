@@ -5,12 +5,12 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 3,
-  "translation": "Kag ⟨את⟩ Yehoshua ginsugo ko sadto nga tion, nga nagaingon: Ang imo mga mata nga nakakita sang tanan nga ginhimo ni Yahweh nga imo Elohim sa sini nga duha ka hari — pareho man sini buhaton ni Yahweh sa tanan nga mga gingharian diin ikaw magakatabok.",
+  "translation": "Kag ⟨את⟩ si Yehoshua gintugoan ko sa tion nga ina, nga nagaingon: Ang imo mga mata nakakita sang ⟨את⟩ tanan nga ginhimo ni Yahweh nga Elohim ninyo sa duha ka hari nga ina; amo man ang himuon ni Yahweh sa tanan nga mga gingharian nga imo pagalabyan ⟨kadto⟩.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "Yehoshua"
+      "marks": "si Yehoshua"
     },
     {
       "surface": "יהושוע",
@@ -18,15 +18,15 @@
     },
     {
       "surface": "צויתי",
-      "gloss": "ginsugo ko"
+      "gloss": "gintugoan ko"
     },
     {
       "surface": "בעת",
-      "gloss": "sadto nga tion"
+      "gloss": "sa tion"
     },
     {
       "surface": "ההוא",
-      "gloss": "ina"
+      "gloss": "nga ina"
     },
     {
       "surface": "לאמר",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "הראת",
-      "gloss": "nga nakakita"
+      "gloss": "nakakita"
     },
     {
       "surface": "את",
@@ -63,27 +63,27 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "imo Elohim"
+      "gloss": "Elohim ninyo"
     },
     {
       "surface": "לשני",
-      "gloss": "sa sini nga duha"
+      "gloss": "sa duha ka"
     },
     {
       "surface": "המלכים",
-      "gloss": "mga hari"
+      "gloss": "hari"
     },
     {
       "surface": "האלה",
-      "gloss": "sini"
+      "gloss": "nga ina"
     },
     {
       "surface": "כן",
-      "gloss": "pareho man"
+      "gloss": "amo man"
     },
     {
       "surface": "יעשה",
-      "gloss": "buhaton"
+      "gloss": "himuon"
     },
     {
       "surface": "יהוה",
@@ -91,7 +91,7 @@
     },
     {
       "surface": "לכל",
-      "gloss": "sa tanan"
+      "gloss": "sa tanan nga"
     },
     {
       "surface": "הממלכות",
@@ -99,21 +99,21 @@
     },
     {
       "surface": "אשר",
-      "gloss": "diin"
+      "gloss": "nga"
     },
     {
       "surface": "אתה",
-      "gloss": "ikaw"
+      "gloss": "imo"
     },
     {
       "surface": "עבר",
-      "gloss": "magakatabok"
+      "gloss": "pagalabyan"
     },
     {
       "surface": "שמה",
       "gloss": "kadto"
     }
   ],
-  "timestamp": "2026-09-21T17:17:14.700115445Z",
+  "timestamp": "2026-09-25T08:57:12.205515534Z",
   "model": "glm-5.3"
 }

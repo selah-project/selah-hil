@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 29,
-  "translation": "Kag nag-alagad si Yaakov sang ⟨kay⟩ Rahel pito ka tuig; kag sa iya mga mata⟨⟨⟩⟩ pareho lang sang pila ka adlaw tungod sang iya paghigugma ⟨את⟩ sa iya.",
+  "translation": "Kag nagpangabod si Yaakov kay Rakhel pito ka tuig, kag nahimo ini sa iya mga mata ⟨nga⟩ pareho lang sang pila ka adlaw, tungod sang iya paghigugma ⟨את⟩ sa iya.",
   "tokens": [
     {
       "surface": "ויעבד",
-      "gloss": "Kag nag-alagad"
+      "gloss": "nagpangabod"
     },
     {
       "surface": "יעקב",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "ברחל",
-      "gloss": "sang Rahel"
+      "gloss": "kay Rakhel"
     },
     {
       "surface": "שבע",
-      "gloss": "pito ka"
+      "gloss": "pito"
     },
     {
       "surface": "שנים",
-      "gloss": "tuig"
+      "gloss": "ka tuig"
     },
     {
       "surface": "ויהיו",
-      "gloss": "kag nangin"
+      "gloss": "kag nahimo"
     },
     {
       "surface": "בעיניו",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "כימים",
-      "gloss": "pareho sang mga adlaw"
+      "gloss": "pareho lang sang pila ka adlaw"
     },
     {
       "surface": "אחדים",
-      "gloss": "pila lang"
+      "gloss": "pila"
     },
     {
       "surface": "באהבתו",
@@ -50,9 +50,9 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "sa iya"
+      "marks": "sa iya (si Rakhel)"
     }
   ],
-  "timestamp": "2026-09-21T16:07:16.957881713Z",
+  "timestamp": "2026-09-25T09:13:47.712599947Z",
   "model": "glm-5.3"
 }

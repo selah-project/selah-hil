@@ -5,23 +5,23 @@
   "book": "2-kings",
   "lang": "hil",
   "chapter": 1,
-  "translation": "Yari karon, nagkadto-down ang kalayo gikan sa mga langit kag naglamon ⟨את⟩ sang duha ka tagapangulo sang mga nahauna nga lima ka pulo kag ⟨את⟩ ila mga lima ka pulo; kag subong palanggaon ang akon kalag sa imo mga mata.",
+  "translation": "Tan-awa, nagpanaog ang kalayo sa mga langit kag naglamon ⟨את⟩ sang duha ka pangulo sang lima ka pulo, ⟨ang⟩ mga nahauna, kag ⟨את⟩ sang ila lima ka pulo; kag subong, pangitaa nga mahal ang akon kalag sa imo mga mata.",
   "tokens": [
     {
       "surface": "הנה",
-      "gloss": "Yari karon"
+      "gloss": "Tan-awa"
     },
     {
       "surface": "ירדה",
-      "gloss": "nagkadto-down"
+      "gloss": "nagpanaog"
     },
     {
       "surface": "אש",
-      "gloss": "kalayo"
+      "gloss": "ang kalayo"
     },
     {
       "surface": "מן",
-      "gloss": "gikan sa"
+      "gloss": "sa"
     },
     {
       "surface": "השמים",
@@ -34,32 +34,32 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "duha ka tagapangulo sang mga nahauna nga lima ka pulo"
+      "marks": "duha ka pangulo sang lima ka pulo"
     },
     {
       "surface": "שני",
-      "gloss": "duha"
+      "gloss": "duha ka"
     },
     {
       "surface": "שרי",
-      "gloss": "ka tagapangulo"
+      "gloss": "pangulo"
     },
     {
       "surface": "החמשים",
-      "gloss": "sang mga lima ka pulo"
+      "gloss": "sang lima ka pulo"
     },
     {
       "surface": "הראשנים",
-      "gloss": "mga nahauna"
+      "gloss": "⟨ang⟩ mga nahauna"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ila mga lima ka pulo"
+      "marks": "ila lima ka pulo"
     },
     {
       "surface": "חמשיהם",
-      "gloss": "ila mga lima ka pulo"
+      "gloss": "sang ila lima ka pulo"
     },
     {
       "surface": "ועתה",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "תיקר",
-      "gloss": "palanggaon"
+      "gloss": "pangitaa nga mahal"
     },
     {
       "surface": "נפשי",
@@ -78,6 +78,6 @@
       "gloss": "sa imo mga mata"
     }
   ],
-  "timestamp": "2026-09-21T22:59:10.004864804Z",
+  "timestamp": "2026-09-25T08:46:55.082609770Z",
   "model": "glm-5.3"
 }

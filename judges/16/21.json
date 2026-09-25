@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "hil",
   "chapter": 16,
-  "translation": "Gindakop siya sang mga Pelishti, kag ginpokot nila ⟨את⟩ ang iya mga mata, kag ginpanaog nila ⟨siya⟩ sa Azzah, kag ginpigan nila siya sang duha ka tanhal nga bronse, kag nangin magagali siya sa balay sang mga bilanggo.",
+  "translation": "Gindakop siya sang mga Pelishti kag ginbun-og nila ⟨את⟩ ang iya mga mata, kag gindalhog nila ⟨את⟩ siya sa Aza, kag gintali siya sang duha ka tanso nga gapos, kag nagtahon siya sa balay sang mga bilanggo.",
   "tokens": [
     {
       "surface": "ויאחזוהו",
-      "gloss": "gindakop nila siya"
+      "gloss": "gindakop siya"
     },
     {
       "surface": "פלשתים",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "וינקרו",
-      "gloss": "kag ginpokot nila"
+      "gloss": "ginbun-og nila"
     },
     {
       "surface": "את",
@@ -30,32 +30,32 @@
     },
     {
       "surface": "ויורידו",
-      "gloss": "kag ginpanaog nila"
+      "gloss": "gindalhog nila"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩",
-      "marks": "siya"
+      "gloss": "⟨את⟩ siya",
+      "marks": "sa Aza"
     },
     {
       "surface": "עזתה",
-      "gloss": "sa Azzah"
+      "gloss": "sa Aza"
     },
     {
       "surface": "ויאסרוהו",
-      "gloss": "kag ginpigan nila siya"
+      "gloss": "gintali siya"
     },
     {
       "surface": "בנחשתים",
-      "gloss": "sang duha ka tanhal nga bronse"
+      "gloss": "sang duha ka tanso nga gapos"
     },
     {
       "surface": "ויהי",
-      "gloss": "kag nangin"
+      "gloss": "kag nagtahon"
     },
     {
       "surface": "טוחן",
-      "gloss": "magagali"
+      "gloss": "nagtahon"
     },
     {
       "surface": "בבית",
@@ -66,6 +66,6 @@
       "gloss": "sang mga bilanggo"
     }
   ],
-  "timestamp": "2026-09-21T22:25:54.265757046Z",
+  "timestamp": "2026-09-25T09:36:28.954785485Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 37,
-  "translation": "Kag natabo, sang umabot si Yosef sa iya mga utod, ginhubaran nila si Yosef sang iya badu, ⟨את⟩ ang badu sang mga siday nga ara sa iya.",
+  "translation": "Kag natabo, sang umabot si Yosef sa iya mga utod, ginhubaran nila ⟨את⟩ si Yosef sang iya sinina, ⟨את⟩ ang sinina sang lain-lain nga kolor nga ara sa iya.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -42,29 +42,29 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "si Yosef"
+      "gloss": "Yosef"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sang iya badu"
+      "marks": "iya sinina"
     },
     {
       "surface": "כתנתו",
-      "gloss": "iya badu"
+      "gloss": "iya sinina"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang badu sang mga siday"
+      "marks": "ang sinina"
     },
     {
       "surface": "כתנת",
-      "gloss": "ang badu"
+      "gloss": "ang sinina"
     },
     {
       "surface": "הפסים",
-      "gloss": "sang mga siday"
+      "gloss": "sang lain-lain nga kolor"
     },
     {
       "surface": "אשר",
@@ -72,9 +72,9 @@
     },
     {
       "surface": "עליו",
-      "gloss": "ara sa iya"
+      "gloss": "sa iya"
     }
   ],
-  "timestamp": "2026-09-21T16:13:29.787591911Z",
+  "timestamp": "2026-09-25T09:15:59.783443911Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,27 @@
   "book": "numbers",
   "lang": "hil",
   "chapter": 21,
-  "translation": "Kag gindunggan ni Yahweh ang tingog sang Yisrael, kag ginhatag niya ⟨את⟩ ang Kenaananhon, kag ginpahinabyon sila kag ⟨את⟩ ang ila mga kagamyan; kag gintawag ang ngalan sang duog nga Khormah.",
+  "translation": "Kag nakabati si Yahweh sa tingog ni Yisrael, kag ginpahulip niya ⟨את⟩ ang Kenaananhon, kag ginbutang sa guba ⟨את⟩ sila kag ⟨את⟩ ang ila mga banwa; kag gintawag niya ang ngalan sang duog nga Khormah.",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "kag gindunggan"
+      "gloss": "Kag nakabati"
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "si Yahweh"
     },
     {
       "surface": "בקול",
-      "gloss": "ang tingog"
+      "gloss": "sa tingog"
     },
     {
       "surface": "ישראל",
-      "gloss": "sang Yisrael"
+      "gloss": "ni Yisrael"
     },
     {
       "surface": "ויתן",
-      "gloss": "kag ginhatag niya"
+      "gloss": "kag ginpahulip niya"
     },
     {
       "surface": "את",
@@ -38,20 +38,21 @@
     },
     {
       "surface": "ויחרם",
-      "gloss": "kag ginpahinabyon"
+      "gloss": "kag ginbutang sa guba"
     },
     {
       "surface": "אתהם",
       "gloss": "⟨את⟩",
-      "marks": "sila (ang Kenaananhon)"
+      "marks": "sila"
     },
     {
       "surface": "ואת",
-      "gloss": "kag ⟨את⟩"
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang ila mga banwa"
     },
     {
       "surface": "עריהם",
-      "gloss": "ang ila mga kagamyan"
+      "gloss": "ang ila mga banwa"
     },
     {
       "surface": "ויקרא",
@@ -67,9 +68,9 @@
     },
     {
       "surface": "חרמה",
-      "gloss": "nga Khormah"
+      "gloss": "Khormah"
     }
   ],
-  "timestamp": "2026-09-21T17:09:27.657120415Z",
+  "timestamp": "2026-09-25T09:45:46.225079287Z",
   "model": "glm-5.3"
 }

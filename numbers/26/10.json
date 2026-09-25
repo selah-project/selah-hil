@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "hil",
   "chapter": 26,
-  "translation": "Kag nagabukas ang duta ⟨את⟩ ang iya baba kag ginlutaw niya sila kag ⟨את⟩ si Korach sang napatay ang katipunan; sang ginkalot sang kalayo ⟨את⟩ lima ka pulo kag duha ka gatos ka tawo, kag nangin sila ⟨is⟩ timailhan.",
+  "translation": "Kag nag-abli ang duta sang ⟨את⟩ iya baba kag ginlutol ⟨את⟩ sila kag ⟨את⟩ si Korach sa pagkamatay sang katipunan, sa pagkaon sang kalayo ⟨את⟩ lima ka pulo kag duha ka gatos ka tawo, kag nangin sila nga tandâ.",
   "tokens": [
     {
       "surface": "ותפתח",
-      "gloss": "kag nagabukas"
+      "gloss": "kag nag-abli"
     },
     {
       "surface": "הארץ",
@@ -18,19 +18,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang iya baba"
+      "marks": "iya baba"
     },
     {
       "surface": "פיה",
-      "gloss": "ang iya baba"
+      "gloss": "iya baba"
     },
     {
       "surface": "ותבלע",
-      "gloss": "kag ginlutaw"
+      "gloss": "kag ginlutol"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩ sila",
+      "gloss": "⟨את⟩ sila",
       "marks": "sila (si Datan kag si Aviram)"
     },
     {
@@ -44,15 +44,15 @@
     },
     {
       "surface": "במות",
-      "gloss": "sang napatay"
+      "gloss": "sa pagkamatay"
     },
     {
       "surface": "העדה",
-      "gloss": "ang katipunan"
+      "gloss": "sang katipunan"
     },
     {
       "surface": "באכל",
-      "gloss": "sang ginkalot"
+      "gloss": "sa pagkaon"
     },
     {
       "surface": "האש",
@@ -77,13 +77,13 @@
     },
     {
       "surface": "ויהיו",
-      "gloss": "kag nangin sila"
+      "gloss": "kag nangin"
     },
     {
       "surface": "לנס",
-      "gloss": "timailhan"
+      "gloss": "sila nga tandâ"
     }
   ],
-  "timestamp": "2026-09-21T22:23:38.419795458Z",
+  "timestamp": "2026-09-25T09:44:12.305956514Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "hil",
   "chapter": 33,
-  "translation": "Kag naghambal si Yahweh: Yari, isa ka duog ⟨sa akon⟩, kag magatindog ka sa ⟨ang⟩ bato.",
+  "translation": "Kag nagsiling si Yahweh: Yari ⟨ang⟩ isa ka duog tupad ⟨אתי⟩ sa akon, kag magatindog ka sa ⟨ang⟩ bato.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Kag naghambal"
+      "gloss": "kag nagsiling"
     },
     {
       "surface": "יהוה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנה",
-      "gloss": "Yari"
+      "gloss": "yari"
     },
     {
       "surface": "מקום",
@@ -25,8 +25,8 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ sa akon",
-      "marks": "isa ka duog — ang duog nga duol sa akon"
+      "gloss": "⟨אתי⟩ tupad sa akon",
+      "marks": "tupad sa akon — ang duog nga ginatudlo"
     },
     {
       "surface": "ונצבת",
@@ -38,9 +38,9 @@
     },
     {
       "surface": "הצור",
-      "gloss": "⟨ang⟩ bato"
+      "gloss": "ang bato"
     }
   ],
-  "timestamp": "2026-09-21T16:35:47.872625666Z",
+  "timestamp": "2026-09-25T09:05:03.059469496Z",
   "model": "glm-5.3"
 }

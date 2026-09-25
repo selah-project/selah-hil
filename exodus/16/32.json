@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "hil",
   "chapter": 16,
-  "translation": "Kag nagsiling si Moshe: Ini ang pulong nga ginsogo ni Yahweh: punu-a sang isa ka omer sini bilang tipiganon para sa inyo mga kaliwat, agod makita nila ⟨את⟩ ang tinapay nga ginpakaon ko sa inyo sa kamingawan, sang paggwa ko sa inyo sa duta sang Mitsrayim.",
+  "translation": "Kag nagsiling si Moshe: Amo ini ang ginasiling nga ginsugo ni Yahweh — pun-i sang isa ka omer sini agod tipigon para sa inyo mga kaliwatan, agod makita nila ⟨את⟩ ang tinapay nga ginpakaon ko ⟨את⟩ kamo sa kamingawan, sang pagguwa ko ⟨את⟩ kamo sa duta sang Mitsrayim.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "זה",
-      "gloss": "Ini"
+      "gloss": "ini"
     },
     {
       "surface": "הדבר",
-      "gloss": "ang pulong"
+      "gloss": "ang ginasiling"
     },
     {
       "surface": "אשר",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "צוה",
-      "gloss": "ginsogo"
+      "gloss": "ginsugo"
     },
     {
       "surface": "יהוה",
-      "gloss": "si Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "מלא",
-      "gloss": "punu-a"
+      "gloss": "pun-i"
     },
     {
       "surface": "העמר",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "למשמרת",
-      "gloss": "bilang tipiganon"
+      "gloss": "agod tipigon"
     },
     {
       "surface": "לדרתיכם",
-      "gloss": "para sa inyo mga kaliwat"
+      "gloss": "para sa inyo mga kaliwatan"
     },
     {
       "surface": "למען",
@@ -82,7 +82,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ sa inyo"
+      "gloss": "⟨את⟩ kamo",
+      "marks": "kamo"
     },
     {
       "surface": "במדבר",
@@ -90,11 +91,12 @@
     },
     {
       "surface": "בהוציאי",
-      "gloss": "sang paggwa ko"
+      "gloss": "sang pagguwa ko"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ sa inyo"
+      "gloss": "⟨את⟩ kamo",
+      "marks": "kamo"
     },
     {
       "surface": "מארץ",
@@ -105,6 +107,6 @@
       "gloss": "sang Mitsrayim"
     }
   ],
-  "timestamp": "2026-09-21T16:27:39.239533482Z",
+  "timestamp": "2026-09-25T09:03:22.610534307Z",
   "model": "glm-5.3"
 }

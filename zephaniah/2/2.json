@@ -5,7 +5,7 @@
   "book": "zephaniah",
   "lang": "hil",
   "chapter": 2,
-  "translation": "Sa wala pa magabuhi ang kaliwatan, samtang ang adlaw magalabyi subong sang masaral, sa wala pa mag-abot sa inyo ang mabuga nga kaakig ni Yahweh, sa wala pa mag-abot sa inyo ang adlaw sang kaakig ni Yahweh;",
+  "translation": "Sa wala pa pagatawo sang kasugoan, sa wala pa mag-agi ang adlaw subong sang bahô, sa wala pa mag-abot sa inyo ang mainit nga kaakig ni Yahweh, sa wala pa mag-abot sa inyo ang adlaw sang kaakig ni Yahweh,",
   "tokens": [
     {
       "surface": "בטרם",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "לדת",
-      "gloss": "magabuhi"
+      "gloss": "pagatawo"
     },
     {
       "surface": "חק",
-      "gloss": "ang kaliwatan"
+      "gloss": "sang kasugoan"
     },
     {
       "surface": "כמץ",
-      "gloss": "subong sang masaral"
+      "gloss": "subong sang bahô"
     },
     {
       "surface": "עבר",
-      "gloss": "magalabyi"
+      "gloss": "mag-agi"
     },
     {
       "surface": "יום",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "לא",
-      "gloss": ""
+      "gloss": "indi"
     },
     {
       "surface": "יבוא",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "חרון",
-      "gloss": "mabuga"
+      "gloss": "ang mainit"
     },
     {
       "surface": "אף",
-      "gloss": "kaakig"
+      "gloss": "nga kaakig"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "בטרם",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "לא",
-      "gloss": ""
+      "gloss": "indi"
     },
     {
       "surface": "יבוא",
@@ -88,6 +88,6 @@
       "gloss": "ni Yahweh"
     }
   ],
-  "timestamp": "2026-09-21T20:17:31.630731076Z",
+  "timestamp": "2026-09-25T09:50:54.281100197Z",
   "model": "glm-5.3"
 }

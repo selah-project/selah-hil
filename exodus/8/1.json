@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "hil",
   "chapter": 8,
-  "translation": "Kag nagsiling si Yahweh kay Moshe: Siling kay Aharon: Ipadangat ang imo kamot gamit ang imo tungkod sa ibabaw sang mga suba, sa ibabaw sang mga sapa kag sa ibabaw sang mga linaw, kag pagpadangata ⟨את⟩ ang mga baki sa duta sang Mitsrayim.",
+  "translation": "Kag nagsiling si Yahweh kay Moshe: Hambala kay Aharon: Itungtod ⟨את⟩ imo kamot gamit ang imo tungkod sa ibabaw sang mga suba, sa ibabaw sang mga sapa kag sa ibabaw sang mga linaw, kag pagpatunga ⟨את⟩ sang mga baki sa ibabaw sang duta sang Mitsrayim.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "משה",
-      "gloss": "Moshe"
+      "gloss": "si Moshe"
     },
     {
       "surface": "אמר",
-      "gloss": "Siling"
+      "gloss": "hambala"
     },
     {
       "surface": "אל",
@@ -33,16 +33,16 @@
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharon"
+      "gloss": "si Aharon"
     },
     {
       "surface": "נטה",
-      "gloss": "Ipadangat"
+      "gloss": "itungtod"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang imo kamot"
+      "marks": "imo kamot"
     },
     {
       "surface": "ידך",
@@ -78,12 +78,12 @@
     },
     {
       "surface": "והעל",
-      "gloss": "kag pagpadangata"
+      "gloss": "kag pagpatunga"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang mga baki"
+      "marks": "mga baki"
     },
     {
       "surface": "הצפרדעים",
@@ -91,7 +91,7 @@
     },
     {
       "surface": "על",
-      "gloss": "sa"
+      "gloss": "sa ibabaw sang"
     },
     {
       "surface": "ארץ",
@@ -102,6 +102,6 @@
       "gloss": "sang Mitsrayim"
     }
   ],
-  "timestamp": "2026-09-21T16:24:24.754640925Z",
+  "timestamp": "2026-09-25T09:06:00.062110816Z",
   "model": "glm-5.3"
 }

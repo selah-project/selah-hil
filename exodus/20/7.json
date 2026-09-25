@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "hil",
   "chapter": 20,
-  "translation": "Indi ka magdala sang ⟨את⟩ ngalan ni Yahweh nga Elohim mo sa wala; kay si Yahweh indi magpatawad ⟨sa isa ka tawo⟩ nga magadala sang ⟨את⟩ iya ngalan sa wala.",
+  "translation": "Indi mo pagdunggan ⟨את⟩ ang Ngalan ni Yahweh nga Elohim mo sa wala sing kapuslanan, kay si Yahweh wala magapintasi ang tawo nga magadunggan ⟨את⟩ ang iya Ngalan sa wala sing kapuslanan.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,20 +13,20 @@
     },
     {
       "surface": "תשא",
-      "gloss": "ka magdala"
+      "gloss": "mo pagdunggan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ngalan"
+      "marks": "ang Ngalan"
     },
     {
       "surface": "שם",
-      "gloss": "ngalan"
+      "gloss": "Ngalan"
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אלהיך",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "לשוא",
-      "gloss": "sa wala"
+      "gloss": "sa wala sing kapuslanan"
     },
     {
       "surface": "כי",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "indi"
+      "gloss": "wala"
     },
     {
       "surface": "ינקה",
-      "gloss": "magpatawad"
+      "gloss": "magapintasi"
     },
     {
       "surface": "יהוה",
@@ -55,7 +55,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang isa ka tawo"
+      "marks": "ang tawo nga"
     },
     {
       "surface": "אשר",
@@ -63,22 +63,22 @@
     },
     {
       "surface": "ישא",
-      "gloss": "magadala"
+      "gloss": "magadunggan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iya ngalan"
+      "marks": "ang iya Ngalan"
     },
     {
       "surface": "שמו",
-      "gloss": "iya ngalan"
+      "gloss": "iya Ngalan"
     },
     {
       "surface": "לשוא",
-      "gloss": "sa wala"
+      "gloss": "sa wala sing kapuslanan"
     }
   ],
-  "timestamp": "2026-09-21T16:27:27.253995262Z",
+  "timestamp": "2026-09-25T09:03:05.991557602Z",
   "model": "glm-5.3"
 }

@@ -5,40 +5,40 @@
   "book": "exodus",
   "lang": "hil",
   "chapter": 1,
-  "translation": "Kag bisan ano gid ang ila pagpaantos ⟨sa iya⟩, sa amo man gid nga kadamo siya nagdamo kag sa amo man gid siya naglapad; kag nangililisos sila tungod sa mga anak sang Yisrael.",
+  "translation": "Kag kon madamo sila pagpain, amo man sila kadamo nagdamo kag amo man sila naglapad; kag nalain sila tungod sa mga anak nga lalaki sang Yisrael.",
   "tokens": [
     {
       "surface": "וכאשר",
-      "gloss": "kag bisan ano gid ang"
+      "gloss": "kag kon"
     },
     {
       "surface": "יענו",
-      "gloss": "ila pagpaantos"
+      "gloss": "sila pagpain"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩⟨sa iya⟩",
-      "marks": "sa iya (ang mga anak sang Yisrael)"
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang ginpain)"
     },
     {
       "surface": "כן",
-      "gloss": "sa amo man gid"
+      "gloss": "amo man"
     },
     {
       "surface": "ירבה",
-      "gloss": "siya nagdamo"
+      "gloss": "kadamo nagdamo"
     },
     {
       "surface": "וכן",
-      "gloss": "kag sa amo man gid"
+      "gloss": "kag amo man"
     },
     {
       "surface": "יפרץ",
-      "gloss": "siya naglapad"
+      "gloss": "naglapad"
     },
     {
       "surface": "ויקצו",
-      "gloss": "kag nangililisos sila"
+      "gloss": "kag nalain"
     },
     {
       "surface": "מפני",
@@ -46,13 +46,13 @@
     },
     {
       "surface": "בני",
-      "gloss": "mga anak"
+      "gloss": "mga anak nga lalaki"
     },
     {
       "surface": "ישראל",
       "gloss": "sang Yisrael"
     }
   ],
-  "timestamp": "2026-09-21T22:18:57.261053878Z",
+  "timestamp": "2026-09-25T09:02:32.086552570Z",
   "model": "glm-5.3"
 }

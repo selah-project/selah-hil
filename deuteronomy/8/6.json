@@ -5,20 +5,20 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 8,
-  "translation": "Kag magatagana ka sang ⟨את⟩ sang mga kasuguan ni Yahweh nga imo Elohim, sa paglakat sa iya mga dalan kag sa pagkahadlok sa iya.",
+  "translation": "Kag magatipon ka sang ⟨את⟩ sang mga kasuguan ni Yahweh nga Elohim mo, sa paglakat sa iya mga dalan kag sa pagkakahadlok ⟨אתו⟩ sa iya.",
   "tokens": [
     {
       "surface": "ושמרת",
-      "gloss": "kag magatagana ka"
+      "gloss": "magatipon ka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mga kasuguan"
+      "marks": "sang mga kasuguan"
     },
     {
       "surface": "מצות",
-      "gloss": "mga kasuguan"
+      "gloss": "sang mga kasuguan"
     },
     {
       "surface": "יהוה",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "imo Elohim"
+      "gloss": "nga Elohim mo"
     },
     {
       "surface": "ללכת",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "וליראה",
-      "gloss": "kag sa pagkahadlok"
+      "gloss": "kag sa pagkakahadlok"
     },
     {
       "surface": "אתו",
@@ -46,6 +46,6 @@
       "marks": "sa iya"
     }
   ],
-  "timestamp": "2026-09-21T17:21:54.608200148Z",
+  "timestamp": "2026-09-25T09:01:36.387505814Z",
   "model": "glm-5.3"
 }

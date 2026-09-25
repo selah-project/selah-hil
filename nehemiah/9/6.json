@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "hil",
   "chapter": 9,
-  "translation": "Ikaw ⟨⟨amo⟩⟩ ⟨amo⟩ si Yahweh bugtOS lamang; ikaw ang naghimo ⟨את⟩ sang mga langit, ang mga langit sang mga langit kag ang tanan nila nga kasoldadosan, ang duta kag ang tanan nga ara sa ibabaw sini, ang mga dagat kag ang tanan nga ara sa sulod sini; kag ikaw ang nagabuhi ⟨את⟩ sa tanan nila, kag ang kasoldadosan sang mga langit nagapakataghoy sa imo.",
+  "translation": "Ikaw gid, Yahweh, ikaw lamang; ⟨את⟩ imo gintimo ⟨את⟩ ang mga langit, ang mga langit sang mga langit kag ang tanan nila nga kasundalohan, ang duta kag ang tanan nga sa iya, ang mga dagat kag ang tanan nga sa ila; kag ikaw ang nagabuhi ⟨את⟩ sang tanan nila, kag ang kasundalohan sang mga langit nagapakighinapos sa imo.",
   "tokens": [
     {
       "surface": "אתה",
@@ -13,36 +13,37 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨amo⟩"
+      "gloss": "gid"
     },
     {
       "surface": "יהוה",
-      "gloss": "si Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "לבדך",
-      "gloss": "bugtOS lamang"
-    },
-    {
-      "surface": "את",
-      "gloss": "ikaw"
-    },
-    {
-      "surface": "עשית",
-      "gloss": "ang naghimo"
+      "gloss": "ikaw lamang"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sang mga langit"
+      "marks": "imo gintimo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "imo gintimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga langit"
     },
     {
       "surface": "השמים",
-      "gloss": "sang mga langit"
+      "gloss": "ang mga langit"
     },
     {
       "surface": "שמי",
-      "gloss": "ang mga langit"
+      "gloss": "sang mga langit"
     },
     {
       "surface": "השמים",
@@ -54,7 +55,7 @@
     },
     {
       "surface": "צבאם",
-      "gloss": "nila nga kasoldadosan"
+      "gloss": "nila nga kasundalohan"
     },
     {
       "surface": "הארץ",
@@ -70,7 +71,7 @@
     },
     {
       "surface": "עליה",
-      "gloss": "ara sa ibabaw sini"
+      "gloss": "sa iya"
     },
     {
       "surface": "הימים",
@@ -86,7 +87,7 @@
     },
     {
       "surface": "בהם",
-      "gloss": "ara sa sulod sini"
+      "gloss": "sa ila"
     },
     {
       "surface": "ואתה",
@@ -94,20 +95,20 @@
     },
     {
       "surface": "מחיה",
-      "gloss": "ang nagabuhi"
+      "gloss": "nagabuhi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sa tanan nila"
+      "marks": "sang tanan nila"
     },
     {
       "surface": "כלם",
-      "gloss": "sa tanan nila"
+      "gloss": "sang tanan nila"
     },
     {
       "surface": "וצבא",
-      "gloss": "kag ang kasoldadosan"
+      "gloss": "kag ang kasundalohan"
     },
     {
       "surface": "השמים",
@@ -119,9 +120,9 @@
     },
     {
       "surface": "משתחוים",
-      "gloss": "nagapakataghoy"
+      "gloss": "nagapakighinapos"
     }
   ],
-  "timestamp": "2026-09-21T21:46:57.054346940Z",
+  "timestamp": "2026-09-25T09:41:13.483510060Z",
   "model": "glm-5.3"
 }

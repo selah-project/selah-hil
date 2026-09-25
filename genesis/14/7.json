@@ -5,14 +5,14 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 14,
-  "translation": "Kag nagbalik sila kag nagkadto sa En-Mishpat, amo ini ang Kadesh, kag gintama nila ⟨את⟩ ang tanan nga uma sang Amalekita, kag man ⟨את⟩ ang Amorita nga nagaestar sa Khatsеtson-Tamar.",
+  "translation": "Kag nagbalik sila kag nagkadto sa En-Mishpat, amo ina ang Kadesh, kag gintumba nila ⟨את⟩ ang tanan nga duta sang mga Amalekita, kag man ⟨את⟩ ang mga Amorita nga nagaestar sa Khatseson-Tamar.",
   "tokens": [
     {
       "surface": "וישבו",
-      "gloss": "kag nagbalik sila"
+      "gloss": "nagbalik"
     },
     {
-      "surface": "ויבאו",
+      "surface": "וגם-ויבאו",
       "gloss": "kag nagkadto"
     },
     {
@@ -25,11 +25,11 @@
     },
     {
       "surface": "משפט",
-      "gloss": "-Mishpat"
+      "gloss": "Mishpat"
     },
     {
       "surface": "הוא",
-      "gloss": "amo ini"
+      "gloss": "amo ina"
     },
     {
       "surface": "קדש",
@@ -37,12 +37,12 @@
     },
     {
       "surface": "ויכו",
-      "gloss": "kag gintama nila"
+      "gloss": "gintumba nila"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang tanan nga uma"
+      "marks": "ang tanan nga duta sang mga Amalekita"
     },
     {
       "surface": "כל",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "שדה",
-      "gloss": "nga uma"
+      "gloss": "nga duta"
     },
     {
       "surface": "העמלקי",
-      "gloss": "sang Amalekita"
+      "gloss": "sang mga Amalekita"
     },
     {
       "surface": "וגם",
@@ -63,11 +63,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang Amorita"
+      "marks": "ang mga Amorita"
     },
     {
       "surface": "האמרי",
-      "gloss": "ang Amorita"
+      "gloss": "ang mga Amorita"
     },
     {
       "surface": "הישב",
@@ -75,13 +75,13 @@
     },
     {
       "surface": "בחצצן",
-      "gloss": "sa Khatsеtson"
+      "gloss": "sa Khatseson"
     },
     {
       "surface": "תמר",
-      "gloss": "-Tamar"
+      "gloss": "Tamar"
     }
   ],
-  "timestamp": "2026-09-21T15:59:58.064446118Z",
+  "timestamp": "2026-09-25T09:14:54.050095112Z",
   "model": "glm-5.3"
 }

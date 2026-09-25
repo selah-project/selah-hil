@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "hil",
   "chapter": 11,
-  "translation": "Kag nagsugo si David kay Yoav: Sugo-a ako si Uriya nga Hittite. Kag ginsugo ni Yoav si Uriya kay David.",
+  "translation": "Kag ginsugo ni David si Yoav: Sugoo si Uriya nga Hiteo sa akon. Kag ginsugo ni Yoav si ⟨את⟩ Uriya sa kay David.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "Kag nagsugo"
+      "gloss": "kag ginsugo"
     },
     {
       "surface": "דוד",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "kay"
+      "gloss": "kang"
     },
     {
       "surface": "יואב",
-      "gloss": "Yoav"
+      "gloss": "si Yoav"
     },
     {
       "surface": "שלח",
-      "gloss": "Sugo-a"
+      "gloss": "sugoo"
     },
     {
       "surface": "אלי",
-      "gloss": "ako"
+      "gloss": "sa akon"
     },
     {
       "surface": "את",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "אוריה",
-      "gloss": "Uriya"
+      "gloss": "si Uriya"
     },
     {
       "surface": "החתי",
-      "gloss": "nga Hittite"
+      "gloss": "nga Hiteo"
     },
     {
       "surface": "וישלח",
-      "gloss": "Kag ginsugo"
+      "gloss": "kag ginsugo"
     },
     {
       "surface": "יואב",
@@ -59,17 +59,17 @@
     },
     {
       "surface": "אוריה",
-      "gloss": "Uriya"
+      "gloss": "si Uriya"
     },
     {
       "surface": "אל",
-      "gloss": "kay"
+      "gloss": "sa kay"
     },
     {
       "surface": "דוד",
       "gloss": "David"
     }
   ],
-  "timestamp": "2026-09-21T18:16:50.474633499Z",
+  "timestamp": "2026-09-25T08:51:16.494469732Z",
   "model": "glm-5.3"
 }

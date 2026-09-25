@@ -5,20 +5,20 @@
   "book": "joshua",
   "lang": "hil",
   "chapter": 11,
-  "translation": "Kag ⟨את⟩ tanan nga mga dakbanwa sang mga hari nga ini kag ⟨את⟩ tanan nga ila mga hari, ginkuha ni Yehoshua kag gintamaan niya sila pinaagi sang espada, ginpaanon niya sila sa lagda, samtang ginsogo ni Moshe, alagad ni Yahweh.",
+  "translation": "Kag ⟨את⟩ ang tanan nga mga dakbanwa sang mga hari nga ini kag ⟨את⟩ ang tanan nga mga hari sini ginkuha ni Yehoshua, kag ginbunalan niya sila sa ngipon sang espada — ginlaglag niya ⟨את⟩ sila, suno sa ginpamando ni Moshe, ang sulugoon ni Yahweh.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "tanan nga mga dakbanwa"
+      "marks": "ang tanan nga mga dakbanwa"
     },
     {
       "surface": "כל",
-      "gloss": "tanan"
+      "gloss": "ang tanan"
     },
     {
       "surface": "ערי",
-      "gloss": "nga mga dakbanwa"
+      "gloss": "mga dakbanwa"
     },
     {
       "surface": "המלכים",
@@ -31,15 +31,15 @@
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "tanan nga ila mga hari"
+      "marks": "ang tanan nga mga hari"
     },
     {
       "surface": "כל",
-      "gloss": "tanan"
+      "gloss": "ang tanan"
     },
     {
       "surface": "מלכיהם",
-      "gloss": "nga ila mga hari"
+      "gloss": "mga hari sini"
     },
     {
       "surface": "לכד",
@@ -51,11 +51,11 @@
     },
     {
       "surface": "ויכם",
-      "gloss": "kag gintamaan niya sila"
+      "gloss": "kag ginbunalan niya sila"
     },
     {
       "surface": "לפי",
-      "gloss": "pinaagi"
+      "gloss": "sa ngipon"
     },
     {
       "surface": "חרב",
@@ -63,20 +63,20 @@
     },
     {
       "surface": "החרים",
-      "gloss": "ginpaanon sa lagda"
+      "gloss": "ginlaglag"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩ sila",
-      "marks": "sila (ang mga hari kag mga dakbanwa)"
+      "marks": "sila"
     },
     {
       "surface": "כאשר",
-      "gloss": "samtang"
+      "gloss": "suno sa"
     },
     {
       "surface": "צוה",
-      "gloss": "ginsogo"
+      "gloss": "ginpamando"
     },
     {
       "surface": "משה",
@@ -84,13 +84,13 @@
     },
     {
       "surface": "עבד",
-      "gloss": "alagad"
+      "gloss": "ang sulugoon"
     },
     {
       "surface": "יהוה",
       "gloss": "ni Yahweh"
     }
   ],
-  "timestamp": "2026-09-21T17:40:04.362745641Z",
+  "timestamp": "2026-09-25T09:31:52.064798695Z",
   "model": "glm-5.3"
 }

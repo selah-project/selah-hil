@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "hil",
   "chapter": 31,
-  "translation": "Kilala ang iya bana sa mga ganghaan <sang dako nga duta>, kon nagahigda siya kaupod sang mga tigulang sang <dako nga duta>.",
+  "translation": "Kilala sa ⟨mga⟩ ganghaan ang iya bana, kon siya nagakatupo kaupod sa mga katuigan sang duta.",
   "tokens": [
     {
       "surface": "נודע",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "בשערים",
-      "gloss": "sa mga ganghaan"
+      "gloss": "sa ⟨mga⟩ ganghaan"
     },
     {
       "surface": "בעלה",
@@ -21,21 +21,21 @@
     },
     {
       "surface": "בשבתו",
-      "gloss": "kon nagahigda siya"
+      "gloss": "kon siya nagakatupo"
     },
     {
       "surface": "עם",
-      "gloss": "kaupod"
+      "gloss": "kaupod sa"
     },
     {
       "surface": "זקני",
-      "gloss": "sang mga tigulang"
+      "gloss": "mga katuigan"
     },
     {
       "surface": "ארץ",
-      "gloss": "sang dako nga duta"
+      "gloss": "sang duta"
     }
   ],
-  "timestamp": "2026-09-21T21:05:08.179466548Z",
+  "timestamp": "2026-09-25T09:48:33.306226358Z",
   "model": "glm-5.3"
 }

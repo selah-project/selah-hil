@@ -5,16 +5,16 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 4,
-  "translation": "Kag magatagad ka sang iya mga kasuguan kag ⟨את⟩ sang iya mga mando nga ginasogo ko sa imo subong nga adlaw, aron maayo sa imo kag sa imo mga anak lagbas sa imo, kag aron magdugay ang imo mga adlaw sa duta nga ginahatag sa imo ni Yahweh nga imo Elohim, sa tanan nga mga adlaw.",
+  "translation": "Kag magatipig ikaw sang iya mga kasuguan kag ⟨את⟩ sang iya mga sogo, nga ako nagasogo sa imo subong nga adlaw, agod maayo para sa imo kag sa imo mga anak nga lalaki kahuman sa imo, kag agod magadugay ang imo mga adlaw sa duta nga ginahatag ni Yahweh nga imo Elohim sa imo, sa tanan nga mga adlaw.",
   "tokens": [
     {
       "surface": "ושמרת",
-      "gloss": "kag magatagad ka"
+      "gloss": "kag magatipig ikaw"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sang iya mga kasuguan"
+      "marks": "iya mga kasuguan"
     },
     {
       "surface": "חקיו",
@@ -23,11 +23,11 @@
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "sang iya mga mando"
+      "marks": "iya mga sogo"
     },
     {
       "surface": "מצותיו",
-      "gloss": "iya mga mando"
+      "gloss": "iya mga sogo"
     },
     {
       "surface": "אשר",
@@ -39,7 +39,7 @@
     },
     {
       "surface": "מצוך",
-      "gloss": "ginasogo ko"
+      "gloss": "nagasogo sa imo"
     },
     {
       "surface": "היום",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "aron"
+      "gloss": "agod"
     },
     {
       "surface": "ייטב",
@@ -55,27 +55,27 @@
     },
     {
       "surface": "לך",
-      "gloss": "sa imo"
+      "gloss": "para sa imo"
     },
     {
       "surface": "ולבניך",
-      "gloss": "kag sa imo mga anak"
+      "gloss": "kag sa imo mga anak nga lalaki"
     },
     {
       "surface": "אחריך",
-      "gloss": "lagbas sa imo"
+      "gloss": "kahuman sa imo"
     },
     {
       "surface": "ולמען",
-      "gloss": "kag aron"
+      "gloss": "kag agod"
     },
     {
       "surface": "תאריך",
-      "gloss": "magdugay ka"
+      "gloss": "magadugay"
     },
     {
       "surface": "ימים",
-      "gloss": "mga adlaw"
+      "gloss": "ang imo mga adlaw"
     },
     {
       "surface": "על",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "האדמה",
-      "gloss": "ang duta"
+      "gloss": "duta"
     },
     {
       "surface": "אשר",
@@ -111,9 +111,9 @@
     },
     {
       "surface": "הימים",
-      "gloss": "nga mga adlaw"
+      "gloss": "mga adlaw"
     }
   ],
-  "timestamp": "2026-09-21T17:20:01.964011409Z",
+  "timestamp": "2026-09-25T09:00:07.401752208Z",
   "model": "glm-5.3"
 }

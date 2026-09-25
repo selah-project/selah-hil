@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 38,
-  "translation": "kag pagabalikson ta ikaw, kag ibutang ko ang mga kawit sa imo mga apapangig, kag pagaguaon ta ikaw kag ⟨את⟩ ang tanan nga imo puwersa — mga kabayo kag mga mangangabayo, nga nagsusul-ob sang himpit nga balintiya, sila tanan — dako nga katipunan, nga may taming kag tangkagal, nga naggakabot sang mga espada, sila tanan.",
+  "translation": "Kag pagabaliklon ko ikaw, kag ibutang ko ang mga kawit sa imo mga panga, kag pagagwaon ko ikaw kag ⟨את⟩ ang tanan mo nga puersa — mga kabayo kag mga nakakabayo, ang tanan nila nga nagasul-ob sang bug-os nga dayaw, isa ka dako nga katipon, nga may mga taming kag mga ligid, nga naggakemot sang mga espada, sila tanan.",
   "tokens": [
     {
       "surface": "ושובבתיך",
-      "gloss": "kag pagabalikson ta ikaw"
+      "gloss": "Kag pagabaliklon ko ikaw"
     },
     {
       "surface": "ונתתי",
@@ -17,32 +17,33 @@
     },
     {
       "surface": "חחים",
-      "gloss": "mga kawit"
+      "gloss": "ang mga kawit"
     },
     {
       "surface": "בלחייך",
-      "gloss": "sa imo mga apapangig"
+      "gloss": "sa imo mga panga"
     },
     {
       "surface": "והוצאתי",
-      "gloss": "kag pagaguaon ta"
+      "gloss": "kag pagagwaon ko"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ ikaw"
+      "gloss": "⟨את⟩",
+      "marks": "ikaw"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang tanan nga imo puwersa"
+      "marks": "ang tanan mo nga puersa"
     },
     {
       "surface": "כל",
-      "gloss": "tanan"
+      "gloss": "ang tanan"
     },
     {
       "surface": "חילך",
-      "gloss": "nga imo puwersa"
+      "gloss": "mo nga puersa"
     },
     {
       "surface": "סוסים",
@@ -50,23 +51,23 @@
     },
     {
       "surface": "ופרשים",
-      "gloss": "kag mga mangangabayo"
+      "gloss": "kag mga nakakabayo"
     },
     {
       "surface": "לבשי",
-      "gloss": "nga nagsusul-ob"
+      "gloss": "nagasul-ob"
     },
     {
       "surface": "מכלול",
-      "gloss": "himpit nga balintiya"
+      "gloss": "sang bug-os nga dayaw"
     },
     {
       "surface": "כלם",
-      "gloss": "sila tanan"
+      "gloss": "ang tanan nila"
     },
     {
       "surface": "קהל",
-      "gloss": "katipunan"
+      "gloss": "katipon"
     },
     {
       "surface": "רב",
@@ -74,15 +75,15 @@
     },
     {
       "surface": "צנה",
-      "gloss": "taming"
+      "gloss": "mga taming"
     },
     {
       "surface": "ומגן",
-      "gloss": "kag tangkagal"
+      "gloss": "kag mga ligid"
     },
     {
       "surface": "תפשי",
-      "gloss": "nga naggakabot"
+      "gloss": "naggakemot"
     },
     {
       "surface": "חרבות",
@@ -93,6 +94,6 @@
       "gloss": "sila tanan"
     }
   ],
-  "timestamp": "2026-09-21T19:58:27.739555357Z",
+  "timestamp": "2026-09-25T09:11:55.394317380Z",
   "model": "glm-5.3"
 }

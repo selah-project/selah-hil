@@ -5,16 +5,16 @@
   "book": "joshua",
   "lang": "hil",
   "chapter": 23,
-  "translation": "Sa paglapas ninyo sang ⟨את⟩ kasugtanan ni Yahweh nga Elohim ninyo, nga iya ginsugo sa inyo, kag maglakat kamo kag mag-alagad kamo sa mga dios nga iba kag magluhod kamo sa ila, magbala ang kalagot ni Yahweh sa inyo, kag paspas kamo madula sa dungawan sang duta nga maayo, nga iya ginhatag sa inyo.",
+  "translation": "Kon maglabag kamo ⟨את⟩ sa kasugtanan ni Yahweh nga Elohim ninyo, nga iya ginsogo sa inyo, kag magkadto kamo kag mag-aalagon sing mga dios nga iban kag magduko kamo sa ila, magasinga ang kaakig ni Yahweh batok sa inyo, kag madali kamo magkawala sa duta nga maayo nga iya ginhatag sa inyo.",
   "tokens": [
     {
       "surface": "בעברכם",
-      "gloss": "sa paglapas ninyo"
+      "gloss": "kon maglabag kamo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sang kasugtanan"
+      "marks": "sa kasugtanan"
     },
     {
       "surface": "ברית",
@@ -34,19 +34,20 @@
     },
     {
       "surface": "צוה",
-      "gloss": "ginsugo"
+      "gloss": "ginsogo"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ sa inyo"
+      "gloss": "⟨את⟩ sa inyo",
+      "marks": "sa inyo"
     },
     {
       "surface": "והלכתם",
-      "gloss": "kag maglakat kamo"
+      "gloss": "kag magkadto kamo"
     },
     {
       "surface": "ועבדתם",
-      "gloss": "kag mag-alagad kamo"
+      "gloss": "kag mag-aalagon kamo"
     },
     {
       "surface": "אלהים",
@@ -54,11 +55,11 @@
     },
     {
       "surface": "אחרים",
-      "gloss": "nga iba"
+      "gloss": "nga iban"
     },
     {
       "surface": "והשתחויתם",
-      "gloss": "kag magluhod kamo"
+      "gloss": "kag magduko kamo"
     },
     {
       "surface": "להם",
@@ -66,11 +67,11 @@
     },
     {
       "surface": "וחרה",
-      "gloss": "magbala"
+      "gloss": "magasinga"
     },
     {
       "surface": "אף",
-      "gloss": "ang kalagot"
+      "gloss": "kaakig"
     },
     {
       "surface": "יהוה",
@@ -78,23 +79,23 @@
     },
     {
       "surface": "בכם",
-      "gloss": "sa inyo"
+      "gloss": "batok sa inyo"
     },
     {
       "surface": "ואבדתם",
-      "gloss": "kag madula kamo"
+      "gloss": "kag magkawala kamo"
     },
     {
       "surface": "מהרה",
-      "gloss": "paspas"
+      "gloss": "madali"
     },
     {
       "surface": "מעל",
-      "gloss": "sa dungawan"
+      "gloss": "sa"
     },
     {
       "surface": "הארץ",
-      "gloss": "sang duta"
+      "gloss": "duta"
     },
     {
       "surface": "הטובה",
@@ -113,6 +114,6 @@
       "gloss": "sa inyo"
     }
   ],
-  "timestamp": "2026-09-21T17:45:58.191433386Z",
+  "timestamp": "2026-09-25T09:32:30.988787867Z",
   "model": "glm-5.3"
 }

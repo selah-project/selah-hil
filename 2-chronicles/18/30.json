@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "hil",
   "chapter": 18,
-  "translation": "Kag ang hari sang Aram nagsugo ⟨kang⟩ ⟨את⟩ mga sarì sang mga karwahe nga ara sa iya, nga nagasiling: Indi kamo maggubat ⟨את⟩ ang gamay ukon ⟨את⟩ ang dako, kondi ⟨את⟩ ang hari sang Yisrael lamang.",
+  "translation": "Kag ang hari sang Aram nagasogo ⟨את⟩ sang mga mangungulo sang mga karuwahe nga iya, nga nagasiling: Indi kamo makig-away ⟨את⟩ sa gamay ukon ⟨את⟩ sa dako, kundi ⟨את⟩ ang hari sang Yisrael lamang.",
   "tokens": [
     {
       "surface": "ומלך",
@@ -17,20 +17,20 @@
     },
     {
       "surface": "צוה",
-      "gloss": "nagsugo"
+      "gloss": "nagasogo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mga sarì sang mga karwahe"
+      "marks": "sang mga mangungulo"
     },
     {
       "surface": "שרי",
-      "gloss": "mga sarì"
+      "gloss": "sang mga mangungulo"
     },
     {
       "surface": "הרכב",
-      "gloss": "sang mga karwahe"
+      "gloss": "sang mga karuwahe"
     },
     {
       "surface": "אשר",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "sa iya"
+      "gloss": "iya"
     },
     {
       "surface": "לאמר",
@@ -50,38 +50,38 @@
     },
     {
       "surface": "תלחמו",
-      "gloss": "kamo maggubat"
+      "gloss": "kamo makig-away"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang gamay"
+      "marks": "sa gamay"
     },
     {
       "surface": "הקטן",
-      "gloss": "ang gamay"
+      "gloss": "sa gamay"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang dako"
+      "marks": "sa dako"
     },
     {
       "surface": "הגדול",
-      "gloss": "ang dako"
+      "gloss": "sa dako"
     },
     {
       "surface": "כי",
-      "gloss": "kondi"
+      "gloss": "kundi"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "ukon"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang hari sang Yisrael"
+      "marks": "ang hari"
     },
     {
       "surface": "מלך",
@@ -96,6 +96,6 @@
       "gloss": "lamang"
     }
   ],
-  "timestamp": "2026-09-21T22:07:19.094474517Z",
+  "timestamp": "2026-09-25T08:43:27.248736778Z",
   "model": "glm-5.3"
 }

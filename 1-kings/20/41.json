@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "hil",
   "chapter": 20,
-  "translation": "Kag nagdali siya kag ginkuha ang putik sa iya mga mata, kag nakilala siya sang hari sang Yisrael, nga isa siya sa mga manalagna.",
+  "translation": "Kag nagdali siya kag ginkuha niya ⟨את⟩ ang apog sa iya mga mata, kag nakilala sang hari sang Yisrael ⟨אתו⟩ — nga siya isa sa mga manalagna.",
   "tokens": [
     {
       "surface": "וימהר",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "ויסר",
-      "gloss": "kag ginkuha"
+      "gloss": "kag ginkuha niya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang putik"
+      "marks": "ang apog"
     },
     {
       "surface": "האפר",
-      "gloss": "ang putik"
+      "gloss": "ang apog"
     },
     {
       "surface": "מעל",
@@ -34,12 +34,12 @@
     },
     {
       "surface": "ויכר",
-      "gloss": "kag nakilala siya"
+      "gloss": "kag nakilala"
     },
     {
       "surface": "אתו",
       "gloss": "⟨אתו⟩",
-      "marks": "siya"
+      "marks": "hari sang Yisrael ang nakakilala kaniya"
     },
     {
       "surface": "מלך",
@@ -55,13 +55,13 @@
     },
     {
       "surface": "מהנבאים",
-      "gloss": "sa mga manalagna"
+      "gloss": "isa sa mga manalagna"
     },
     {
       "surface": "הוא",
       "gloss": "siya"
     }
   ],
-  "timestamp": "2026-09-21T18:36:12.614134470Z",
+  "timestamp": "2026-09-25T08:41:20.365043509Z",
   "model": "glm-5.3"
 }

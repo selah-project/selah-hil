@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 17,
-  "translation": "Hambala ⟨karon⟩ sa balay sang pagbatok: wala bala kamo makahibalo ano ini? Hambala: Yari, nagkari ang hari sang Bavel sa Yerushalayim, kag ginkuha niya ⟨את⟩ ang hari sini kag ⟨את⟩ ang mga manugdumala sini, kag ginpadala niya sila sa iya sa Bavel.",
+  "translation": "Hambala ⟨gali⟩ sa balay sang pagdumut: Wala bala kamo makahibalo ano ining mga ini? Hambala: Yari, nagkari ang hari sang Bavel sa Yerushalayim, kag ginkuha niya ⟨את⟩ ang hari sini kag ⟨את⟩ ang iya mga pangulo, kag ginpadala niya sila ⟨את⟩ ⟨אותם⟩ sa iya kaugalingon sa Bavel.",
   "tokens": [
     {
       "surface": "אמר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "נא",
-      "gloss": "⟨karon⟩"
+      "gloss": "⟨gali⟩"
     },
     {
       "surface": "לבית",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "המרי",
-      "gloss": "sang pagbatok"
+      "gloss": "sang pagdumut"
     },
     {
       "surface": "הלא",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אלה",
-      "gloss": "ini"
+      "gloss": "ining mga ini"
     },
     {
       "surface": "אמר",
@@ -79,11 +79,11 @@
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang mga manugdumala sini"
+      "marks": "ang iya mga pangulo"
     },
     {
       "surface": "שריה",
-      "gloss": "ang mga manugdumala sini"
+      "gloss": "ang iya mga pangulo"
     },
     {
       "surface": "ויבא",
@@ -91,18 +91,18 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "sila (ang hari kag ang mga manugdumala)"
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "sila"
     },
     {
       "surface": "אליו",
-      "gloss": "sa iya"
+      "gloss": "sa iya kaugalingon"
     },
     {
       "surface": "בבלה",
       "gloss": "sa Bavel"
     }
   ],
-  "timestamp": "2026-09-21T22:35:46.366646552Z",
+  "timestamp": "2026-09-25T09:07:25.551773306Z",
   "model": "glm-5.3"
 }

@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":24,"ref":"jeremiah 48:24","book":"jeremiah","lang":"hil","chapter":48,"translation":"kag <bahin sang> Keryot, kag <bahin sang> Botserah, kag sa tanan nga mga siyudad sang duta sang Moab — ang malayo kag ang malapit.","tokens":[{"surface":"ועל","gloss":"kag <bahin sang>"},{"surface":"קריות","gloss":"Keryot"},{"surface":"ועל","gloss":"kag <bahin sang>"},{"surface":"בצרה","gloss":"Botserah"},{"surface":"ועל","gloss":"kag sa"},{"surface":"כל","gloss":"tanan nga"},{"surface":"ערי","gloss":"mga siyudad"},{"surface":"ארץ","gloss":"duta"},{"surface":"מואב","gloss":"sang Moab"},{"surface":"הרחקות","gloss":"ang malayo"},{"surface":"והקרבות","gloss":"kag ang malapit"}],"timestamp":"2026-09-21T19:36:26.818959217Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 48:24",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 48,
+  "translation": "kag sa Keriyot, kag sa Botserah, kag sa tanan nga mga ciudad sang duta sang Moab, ⟨sa⟩ malayo kag ⟨sa⟩ malapit",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "קריות",
+      "gloss": "Keriyot"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "Botserah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga ciudad"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sang duta"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "sang Moab"
+    },
+    {
+      "surface": "הרחקות",
+      "gloss": "⟨sa⟩ malayo"
+    },
+    {
+      "surface": "והקרבות",
+      "gloss": "kag ⟨sa⟩ malapit"
+    }
+  ],
+  "timestamp": "2026-09-25T09:27:24.017717266Z",
+  "model": "glm-5.3"
+}

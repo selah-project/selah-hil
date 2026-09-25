@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "hil",
   "chapter": 32,
-  "translation": "kag kon indi ninyo himuon ina, tan-awa, nagasala kamo kay Yahweh, kag tihuya ang inyo sala nga makakaplag sang inyo kamo.",
+  "translation": "Kag kon indi ninyo himuon ina, tan-awa, nagasala kamo kay Yahweh; kag tig-ano ang inyo sala, nga magakaplag ⟨kamo⟩ ⟨את⟩.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "kag kon"
+      "gloss": "Kag kon"
     },
     {
       "surface": "לא",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ודעו",
-      "gloss": "kag tihuya"
+      "gloss": "kag tig-ano"
     },
     {
       "surface": "חטאתכם",
@@ -49,13 +49,14 @@
     },
     {
       "surface": "תמצא",
-      "gloss": "makakaplag"
+      "gloss": "magakaplag"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kamo"
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
     }
   ],
-  "timestamp": "2026-09-21T17:14:57.757399717Z",
+  "timestamp": "2026-09-25T09:46:37.981149814Z",
   "model": "glm-5.3"
 }

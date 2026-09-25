@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "hil",
   "chapter": 27,
-  "translation": "Kag kon wala sing mga utod ang iya amay, itugyo ninyo ⟨את⟩ ang iya mananonaron sa iya kaPLOY nga pinakalapit sa iya sa iya banwa, kag iya nga punganon ini; kag ini magauntat nga kasuguan sang paghukom sa mga anak nga lalaki sang Yisrael, subong sang ginsugo ni Yahweh ⟨את⟩ kay Moshe.",
+  "translation": "Kag kon wala sing mga utod ang iya amay, ihatag ninyo ⟨את⟩ ang iya manunahan sa iya ka duot nga pinakalapit sa iya sa iya banay, kag pagapanghawanan niya ⟨את⟩ ina; kag magauntat ini nga isa ka kasuguan sang paghudyo sa mga anak nga lalaki sang Yisrael, suno sa ginsugo ni Yahweh ⟨את⟩ kay Moshe.",
   "tokens": [
     {
       "surface": "ואם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אין",
-      "gloss": "wala"
+      "gloss": "wala sing"
     },
     {
       "surface": "אחים",
@@ -25,24 +25,24 @@
     },
     {
       "surface": "ונתתם",
-      "gloss": "itugyo ninyo"
+      "gloss": "ihatag ninyo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang iya mananonaron"
+      "marks": "ang iya manunahan"
     },
     {
       "surface": "נחלתו",
-      "gloss": "ang iya mananonaron"
+      "gloss": "ang iya manunahan"
     },
     {
       "surface": "לשארו",
-      "gloss": "sa iya kadugo"
+      "gloss": "sa iya ka duot"
     },
     {
       "surface": "הקרב",
-      "gloss": "pinakalapit"
+      "gloss": "nga pinakalapit"
     },
     {
       "surface": "אליו",
@@ -50,16 +50,16 @@
     },
     {
       "surface": "ממשפחתו",
-      "gloss": "sa iya banwa"
+      "gloss": "sa iya banay"
     },
     {
       "surface": "וירש",
-      "gloss": "kag punganon niya"
+      "gloss": "kag pagapanghawanan niya"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "ini (ang mananonaron)"
+      "marks": "ina"
     },
     {
       "surface": "והיתה",
@@ -75,15 +75,15 @@
     },
     {
       "surface": "לחקת",
-      "gloss": "nga kasuguan"
+      "gloss": "nga isa ka kasuguan"
     },
     {
       "surface": "משפט",
-      "gloss": "sang paghukom"
+      "gloss": "sang paghudyo"
     },
     {
       "surface": "כאשר",
-      "gloss": "subong sang"
+      "gloss": "suno sa"
     },
     {
       "surface": "צוה",
@@ -91,7 +91,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "את",
@@ -100,9 +100,9 @@
     },
     {
       "surface": "משה",
-      "gloss": "kay Moshe"
+      "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-09-21T17:12:27.840181895Z",
+  "timestamp": "2026-09-25T09:45:38.205227007Z",
   "model": "glm-5.3"
 }

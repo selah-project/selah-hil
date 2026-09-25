@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "hil",
   "chapter": 18,
-  "translation": "Kag nagsiling si Mikhayhu: Buhi si Yahweh, kay ⟨ang⟩ butang nga isiling sang akon Elohim, ina ang akon isiling.",
+  "translation": "Kag naghambal si Mikhayhu: Buhî si Yahweh — kay kon ano ang hambalon sang akon Elohim, ina ang akon hambalon ⟨את⟩ ⟨ina⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "kag nagsiling"
+      "gloss": "Kag naghambal"
     },
     {
       "surface": "מיכיהו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "חי",
-      "gloss": "buhi"
+      "gloss": "Buhî"
     },
     {
       "surface": "יהוה",
@@ -30,30 +30,30 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang butang nga isiling sang akon Elohim"
+      "marks": "ano ang hambalon sang akon Elohim"
     },
     {
       "surface": "אשר",
-      "gloss": "nga"
+      "gloss": "ano"
     },
     {
       "surface": "יאמר",
-      "gloss": "isiling"
+      "gloss": "hambalon"
     },
     {
       "surface": "אלהי",
-      "gloss": "sang akon Elohim"
+      "gloss": " sang akon Elohim"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "ina ang akon isiling"
+      "gloss": "⟨את⟩ ina",
+      "marks": "ang akon hambalon"
     },
     {
       "surface": "אדבר",
-      "gloss": "ang akon isiling"
+      "gloss": "hambalon"
     }
   ],
-  "timestamp": "2026-09-21T22:06:33.632124499Z",
+  "timestamp": "2026-09-25T08:44:49.316322941Z",
   "model": "glm-5.3"
 }

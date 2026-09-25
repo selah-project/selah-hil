@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "hil",
   "chapter": 21,
-  "translation": "Kag nagsiling si David sa Elohim: Nakasala ako sing labi sang ginbuhat ko ⟨את⟩ ining butang; kag subong, palihog ipalagyod ⟨ang⟩ daotan sang imo sulugoon, kay nagbuangbuang ako sing labi.",
+  "translation": "Kag nagsiling si David kay Elohim: Nakasala ako sing dako, kay ginhimo ko ⟨את⟩ ang butang ini; kag subong, ipalagyo ⟨⟨⟩⟩ palihog ⟨את⟩ ang sala sang imo sulugoon, kay nagbuang-buang ako sing dako.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "sa"
+      "gloss": "kay"
     },
     {
       "surface": "האלהים",
@@ -29,20 +29,20 @@
     },
     {
       "surface": "מאד",
-      "gloss": "sing labi"
+      "gloss": "sing dako"
     },
     {
       "surface": "אשר",
-      "gloss": "sang"
+      "gloss": "kay"
     },
     {
       "surface": "עשיתי",
-      "gloss": "ginbuhat ko"
+      "gloss": "ginhimo ko"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ining butang"
+      "marks": "ang butang ini"
     },
     {
       "surface": "הדבר",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "העבר",
-      "gloss": "ipalagyod"
+      "gloss": "ipalagyo"
     },
     {
       "surface": "נא",
@@ -67,11 +67,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang daotan"
+      "marks": "ang sala sang imo sulugoon"
     },
     {
       "surface": "עוון",
-      "gloss": "daotan"
+      "gloss": "ang sala"
     },
     {
       "surface": "עבדך",
@@ -83,13 +83,13 @@
     },
     {
       "surface": "נסכלתי",
-      "gloss": "nagbuangbuang ako"
+      "gloss": "nagbuang-buang ako"
     },
     {
       "surface": "מאד",
-      "gloss": "sing labi"
+      "gloss": "sing dako"
     }
   ],
-  "timestamp": "2026-09-21T21:56:45.935402781Z",
+  "timestamp": "2026-09-25T08:38:33.394564835Z",
   "model": "glm-5.3"
 }

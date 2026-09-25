@@ -5,15 +5,16 @@
   "book": "numbers",
   "lang": "hil",
   "chapter": 31,
-  "translation": "Kag ginpapadala sila ni Moshe, isa ka libo kada tribo, sa paggubat — sila kag ⟨את⟩ si Pinchas, anak nga lalaki ni Elazar ang pari, sa paggubat; kag ang mga galamiton sang balaan nga ⟨mga butang⟩ kag ang mga trumpeta sang pagtunog ⟨sa pag-alsa⟩ ⟨mga⟩ sa iya kamot.",
+  "translation": "Ginsugo ni Moshe sila ⟨את⟩ — isa ka libo sa tagsa ka tribo — sa pagpanagbat, sila ⟨את⟩ kag ⟨את⟩ si Pinḥas nga anak ni Elazar, ang pari, sa pagpanagbat, kag ang mga galamiton sang balaan nga mga butang kag ang mga trumpeta sang pagtuog ⟨ara⟩ sa iya kamot.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "ginpapadala"
+      "gloss": "Ginsugo"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ sila"
+      "gloss": "sila ⟨את⟩",
+      "marks": "sila (ang mga ginsugo)"
     },
     {
       "surface": "משה",
@@ -25,28 +26,29 @@
     },
     {
       "surface": "למטה",
-      "gloss": "kada tribo"
+      "gloss": "sa tagsa ka tribo"
     },
     {
       "surface": "לצבא",
-      "gloss": "sa paggubat"
+      "gloss": "sa pagpanagbat"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ sila"
+      "gloss": "sila ⟨את⟩",
+      "marks": "sila (ang mga ginsugo)"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "si Pinchas anak nga lalaki ni Elazar ang pari"
+      "marks": "si Pinḥas nga anak ni Elazar"
     },
     {
       "surface": "פינחס",
-      "gloss": "si Pinchas"
+      "gloss": "si Pinḥas"
     },
     {
       "surface": "בן",
-      "gloss": "anak nga lalaki"
+      "gloss": "nga anak"
     },
     {
       "surface": "אלעזר",
@@ -58,7 +60,7 @@
     },
     {
       "surface": "לצבא",
-      "gloss": "sa paggubat"
+      "gloss": "sa pagpanagbat"
     },
     {
       "surface": "וכלי",
@@ -66,7 +68,7 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "sang balaan nga butang"
+      "gloss": "sang balaan nga mga butang"
     },
     {
       "surface": "וחצצרות",
@@ -74,13 +76,13 @@
     },
     {
       "surface": "התרועה",
-      "gloss": "sang pagtunog sa pag-alsa"
+      "gloss": "sang pagtuog"
     },
     {
       "surface": "בידו",
       "gloss": "sa iya kamot"
     }
   ],
-  "timestamp": "2026-09-21T17:14:20.471294418Z",
+  "timestamp": "2026-09-25T09:45:49.402672232Z",
   "model": "glm-5.3"
 }

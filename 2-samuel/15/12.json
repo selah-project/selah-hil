@@ -5,32 +5,32 @@
   "book": "2-samuel",
   "lang": "hil",
   "chapter": 15,
-  "translation": "Kag ginpatawag ni Avshalom si Akhitofel ang taga-Gilo, magtatambag ni David, halin sa iya dakbungban, halin sa Gilo, samtang nagahalad siya sang ⟨את⟩ mga halad. Kag nangin makusog ang panaghiusa, kag ang katawhan nagadamo nga upod ⟨kay⟩ Avshalom.",
+  "translation": "Kag ginpaddangat ni Avshalom si Akhitofel nga taga-Gilo, ang manugtudlo ni David, gikan sa iyaudad, gikan sa Gilo, samtang nagahalad sia ⟨את⟩ sang mga halad. Kag ang pakigtahum nangin mabaskog, kag ang katawhan nagapadayon kag nagadamo ⟨את⟩ upod ⟨kay⟩ Avshalom.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "kag ginpatawag"
+      "gloss": "ginpaddangat"
     },
     {
       "surface": "אבשלום",
-      "gloss": "ni Avshalom"
+      "gloss": "Avshalom"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "si Akhitofel"
+      "marks": "si Akhitofel nga taga-Gilo"
     },
     {
       "surface": "אחיתפל",
-      "gloss": "si Akhitofel"
+      "gloss": "Akhitofel"
     },
     {
       "surface": "הגילני",
-      "gloss": "ang taga-Gilo"
+      "gloss": "nga taga-Gilo"
     },
     {
       "surface": "יועץ",
-      "gloss": "magtatambag"
+      "gloss": "ang manugtudlo"
     },
     {
       "surface": "דוד",
@@ -38,24 +38,24 @@
     },
     {
       "surface": "מעירו",
-      "gloss": "halin sa iya dakbungban"
+      "gloss": "gikan sa iyaudad"
     },
     {
       "surface": "מגלה",
-      "gloss": "halin sa Gilo"
+      "gloss": "gikan sa Gilo"
     },
     {
       "surface": "בזבחו",
-      "gloss": "samtang nagahalad siya"
+      "gloss": "samtang nagahalad sia"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mga halad"
+      "marks": "sang mga halad"
     },
     {
       "surface": "הזבחים",
-      "gloss": "mga halad"
+      "gloss": "sang mga halad"
     },
     {
       "surface": "ויהי",
@@ -63,11 +63,11 @@
     },
     {
       "surface": "הקשר",
-      "gloss": "ang panaghiusa"
+      "gloss": "ang pakigtahum"
     },
     {
       "surface": "אמץ",
-      "gloss": "makusog"
+      "gloss": "mabaskog"
     },
     {
       "surface": "והעם",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "הולך",
-      "gloss": "nagalakat"
+      "gloss": "nagapadayon"
     },
     {
       "surface": "ורב",
@@ -83,14 +83,13 @@
     },
     {
       "surface": "את",
-      "gloss": "upod ⟨את⟩",
-      "marks": "Avshalom"
+      "gloss": "⟨את⟩ upod"
     },
     {
       "surface": "אבשלום",
       "gloss": "Avshalom"
     }
   ],
-  "timestamp": "2026-09-21T18:19:27.246131788Z",
+  "timestamp": "2026-09-25T08:52:50.368857372Z",
   "model": "glm-5.3"
 }

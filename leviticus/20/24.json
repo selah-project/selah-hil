@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "hil",
   "chapter": 20,
-  "translation": "Kag nagsiling ako sa inyo: Kamo ang mangaana sang ⟨את⟩ ila duta, kag ako magahatag sini sa inyo sa pagpanag-ana sini — duta nga nagaagos sang gatas kag dugos. Ako si Yahweh ang inyo Elohim, nga nagbulag sa ⟨את⟩ inyo halin sa mga pungsod.",
+  "translation": "Kag nagsiling Ako sa inyo: Kamo ang magapanungaw sang ⟨את⟩ ila duta, kag Ako magahatag sini sa inyo nga inyo pagpanungawon ⟨את⟩ sini — isa ka duta nga nagadagay sang gatas kag dugos. Ako si Yahweh nga inyo Elohim, nga nagbulag ⟨אתכם⟩ sa inyo sa mga pungsod.",
   "tokens": [
     {
       "surface": "ואמר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "לכם",
-      "gloss": "ako sa inyo"
+      "gloss": "sa inyo"
     },
     {
       "surface": "אתם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "תירשו",
-      "gloss": "ang mangaana"
+      "gloss": "magapanungaw"
     },
     {
       "surface": "את",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ואני",
-      "gloss": "kag ako"
+      "gloss": "kag Ako"
     },
     {
       "surface": "אתננה",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "לרשת",
-      "gloss": "sa pagpanag-ana"
+      "gloss": "nga pagpanungawon"
     },
     {
       "surface": "אתה",
@@ -59,11 +59,11 @@
     },
     {
       "surface": "זבת",
-      "gloss": "nga nagaagos"
+      "gloss": "nga nagadagay"
     },
     {
       "surface": "חלב",
-      "gloss": "sang gatas"
+      "gloss": "gatas"
     },
     {
       "surface": "ודבש",
@@ -71,15 +71,15 @@
     },
     {
       "surface": "אני",
-      "gloss": "ako"
+      "gloss": "Ako"
     },
     {
       "surface": "יהוה",
-      "gloss": "si Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אלהיכם",
-      "gloss": "ang inyo Elohim"
+      "gloss": "inyo Elohim"
     },
     {
       "surface": "אשר",
@@ -91,18 +91,18 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ inyo",
-      "marks": "kamo"
+      "gloss": "⟨אתכם⟩",
+      "marks": "sa inyo"
     },
     {
       "surface": "מן",
-      "gloss": "halin sa"
+      "gloss": "sa"
     },
     {
       "surface": "העמים",
       "gloss": "mga pungsod"
     }
   ],
-  "timestamp": "2026-09-21T16:53:54.419940138Z",
+  "timestamp": "2026-09-25T09:39:05.310656431Z",
   "model": "glm-5.3"
 }

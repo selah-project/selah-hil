@@ -5,28 +5,28 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 22,
-  "translation": "Kag gинтipon ko ⟨אתכם⟩, kag ginhipan ko kamo sa kalayo sang akon kaakig, kag natunaw kamo sa sulod sini.",
+  "translation": "Kag tiguiron ko kamo ⟨את⟩ kag magahuyop ako sa inyo sang kalayo sang akon kaakig, kag matunaw kamo sa tunga sini.",
   "tokens": [
     {
       "surface": "וכנסתי",
-      "gloss": "kag gintipon ko"
+      "gloss": "kag tiguiron ko"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ kamo",
       "marks": "kamo"
     },
     {
       "surface": "ונפחתי",
-      "gloss": "kag ginhipan ko"
+      "gloss": "kag magahuyop ako"
     },
     {
       "surface": "עליכם",
-      "gloss": "sa kamo"
+      "gloss": "sa inyo"
     },
     {
       "surface": "באש",
-      "gloss": "sa kalayo"
+      "gloss": "sang kalayo"
     },
     {
       "surface": "עברתי",
@@ -34,13 +34,13 @@
     },
     {
       "surface": "ונתכתם",
-      "gloss": "kag natunaw kamo"
+      "gloss": "kag matunaw kamo"
     },
     {
       "surface": "בתוכה",
-      "gloss": "sa sulod sini"
+      "gloss": "sa tunga sini"
     }
   ],
-  "timestamp": "2026-09-21T22:35:37.890127460Z",
+  "timestamp": "2026-09-25T09:06:59.151340265Z",
   "model": "glm-5.3"
 }

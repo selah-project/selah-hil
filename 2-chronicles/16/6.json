@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "hil",
   "chapter": 16,
-  "translation": "Kag si Asa ang hari nangkuha sang tanan nga taga-Yehudah, kag gindala nila ⟨את⟩ ang mga bato sang Rama kag ⟨את⟩ ang iya mga kahoy nga ginpatindog ni Baasha, kag nagpatindog siya sa mga ina ⟨את⟩ ang Geva kag ⟨את⟩ ang Mitspa.",
+  "translation": "Kag si Asa ang hari nagdala sang tanan nga Yehudah, kag gin-angkat nila ⟨את⟩ ang mga bato sang Ramah kag ⟨את⟩ ang iya mga kahoy nga ginpatindog ni Baasha, kag gintindog niya sang mga ina ⟨את⟩ ang Geba kag ⟨את⟩ ang haMitspah.",
   "tokens": [
     {
       "surface": "ואסא",
-      "gloss": "Kag si Asa"
+      "gloss": "kag si Asa"
     },
     {
       "surface": "המלך",
@@ -17,12 +17,12 @@
     },
     {
       "surface": "לקח",
-      "gloss": "nangkuha"
+      "gloss": "nagdala"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang tanan nga taga-Yehudah"
+      "marks": "tanan"
     },
     {
       "surface": "כל",
@@ -30,16 +30,16 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehudah"
+      "gloss": "nga Yehudah"
     },
     {
       "surface": "וישאו",
-      "gloss": "kag gindala nila"
+      "gloss": "kag gin-angkat nila"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang mga bato sang Rama"
+      "marks": "mga bato sang Ramah"
     },
     {
       "surface": "אבני",
@@ -47,11 +47,12 @@
     },
     {
       "surface": "הרמה",
-      "gloss": "sang Rama"
+      "gloss": "sang Ramah"
     },
     {
       "surface": "ואת",
-      "gloss": "kag ⟨את⟩"
+      "gloss": "kag ⟨את⟩",
+      "marks": "iya mga kahoy"
     },
     {
       "surface": "עציה",
@@ -71,30 +72,31 @@
     },
     {
       "surface": "ויבן",
-      "gloss": "kag nagpatindog"
+      "gloss": "kag gintindog niya"
     },
     {
       "surface": "בהם",
-      "gloss": "sa mga ina"
+      "gloss": "sang mga ina"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang Geva"
+      "marks": "Geba"
     },
     {
       "surface": "גבע",
-      "gloss": "Geva"
+      "gloss": "ang Geba"
     },
     {
       "surface": "ואת",
-      "gloss": "kag ⟨את⟩"
+      "gloss": "kag ⟨את⟩",
+      "marks": "haMitspah"
     },
     {
       "surface": "המצפה",
-      "gloss": "ang Mitspa"
+      "gloss": "ang haMitspah"
     }
   ],
-  "timestamp": "2026-09-21T22:06:41.734838199Z",
+  "timestamp": "2026-09-25T08:43:00.516691521Z",
   "model": "glm-5.3"
 }

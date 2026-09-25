@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 11,
-  "translation": "Kay kamo magatabok ⟨את⟩ sang Yarden sa pagsulod sa pagpanag-iya ⟨את⟩ sang duta nga ginahatag sa inyo ni Yahweh nga inyo Elohim, kag pagpanag-iya ninyo ini kag magaestar kamo didto.",
+  "translation": "Kay kamo magatabok ⟨את⟩ sa Yarden sa pagsulod sa pagpanag-iya ⟨את⟩ sang duta nga ginahatag ni Yahweh nga inyo Elohim sa inyo, kag panag-iya ninyo ⟨את⟩ ini kag magapuyo kamo didto.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Kay"
+      "gloss": "kay"
     },
     {
       "surface": "אתם",
@@ -22,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sang Yarden"
+      "marks": "sa Yarden"
     },
     {
       "surface": "הירדן",
@@ -51,11 +51,11 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "אלהיכם",
-      "gloss": "nga inyo Elohim"
+      "gloss": "inyo Elohim"
     },
     {
       "surface": "נתן",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "וירשתם",
-      "gloss": "kag pagpanag-iya ninyo"
+      "gloss": "kag panag-iya ninyo"
     },
     {
       "surface": "אתה",
@@ -76,13 +76,13 @@
     },
     {
       "surface": "וישבתם",
-      "gloss": "kag magaestar kamo"
+      "gloss": "kag magapuyo kamo"
     },
     {
       "surface": "בה",
       "gloss": "didto"
     }
   ],
-  "timestamp": "2026-09-21T17:22:37.782169196Z",
+  "timestamp": "2026-09-25T08:58:02.560022101Z",
   "model": "glm-5.3"
 }

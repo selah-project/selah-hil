@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "hil",
   "chapter": 35,
-  "translation": "Kag ginhimo sang mga anak nga lalaki sang Yisrael nga ara ⟨ang⟩ Paskuwa sa sina nga tion, kag ⟨ang⟩ pista sang mga tinapay nga wala sing lebadura pito ka adlaw.",
+  "translation": "Kag ginhimo sang mga anak nga lalaki sang Yisrael nga mga nakita ⟨את⟩ ang Pesach sadtong tion, kag ⟨את⟩ ang fiesta sang mga tinapay nga wala sing lebadura, pito ka adlaw.",
   "tokens": [
     {
       "surface": "ויעשו",
@@ -21,33 +21,33 @@
     },
     {
       "surface": "הנמצאים",
-      "gloss": "nga ara"
+      "gloss": "nga mga nakita"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang Paskuwa"
+      "marks": "ang Pesach"
     },
     {
       "surface": "הפסח",
-      "gloss": "ang Paskuwa"
+      "gloss": "ang Pesach"
     },
     {
       "surface": "בעת",
-      "gloss": "sa tion"
+      "gloss": "sadtong tion"
     },
     {
       "surface": "ההיא",
-      "gloss": "sina"
+      "gloss": "sadtong tion"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang pista"
+      "marks": "ang fiesta sang mga tinapay nga wala sing lebadura"
     },
     {
       "surface": "חג",
-      "gloss": "ang pista"
+      "gloss": "ang fiesta"
     },
     {
       "surface": "המצות",
@@ -62,6 +62,6 @@
       "gloss": "ka adlaw"
     }
   ],
-  "timestamp": "2026-09-21T22:14:10.613572814Z",
+  "timestamp": "2026-09-25T08:47:42.914525284Z",
   "model": "glm-5.3"
 }

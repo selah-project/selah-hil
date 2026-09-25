@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "hil",
   "chapter": 19,
-  "translation": "Indi ka pagkadlaw sang imo utod sa imo kasingkasing; saway ka sing saway ⟨את⟩ ang imo kaupod, kag indi ka magdala sang sala tungod sa iya.",
+  "translation": "Indi ikaw pagkadumtan ⟨את⟩ ang imo igsoon sa imo tagipusuon; pangdanay ikaw magpangdanan ⟨את⟩ ang imo kaupod, kag indi ikaw magdala sa iya sang sala.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,28 +13,28 @@
     },
     {
       "surface": "תשנא",
-      "gloss": "pagkadlaw"
+      "gloss": "pagkadumtan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang imo utod"
+      "marks": "ang imo igsoon"
     },
     {
       "surface": "אחיך",
-      "gloss": "ang imo utod"
+      "gloss": "ang imo igsoon"
     },
     {
       "surface": "בלבבך",
-      "gloss": "sa imo kasingkasing"
+      "gloss": "sa imo tagipusuon"
     },
     {
       "surface": "הוכח",
-      "gloss": "saway"
+      "gloss": "pangdanay"
     },
     {
       "surface": "תוכיח",
-      "gloss": "sing saway"
+      "gloss": "magpangdanan"
     },
     {
       "surface": "את",
@@ -55,13 +55,13 @@
     },
     {
       "surface": "עליו",
-      "gloss": "tungod sa iya"
+      "gloss": "sa iya"
     },
     {
       "surface": "חטא",
       "gloss": "sala"
     }
   ],
-  "timestamp": "2026-09-21T22:21:25.677335411Z",
+  "timestamp": "2026-09-25T09:38:07.220048823Z",
   "model": "glm-5.3"
 }

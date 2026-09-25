@@ -5,15 +5,15 @@
   "book": "1-chronicles",
   "lang": "hil",
   "chapter": 22,
-  "translation": "Sanglit magamainuswagon ikaw, kon magabantay ikaw sa pagtuman sang ⟨את⟩ ang mga kasogoan kag sang ⟨את⟩ ang mga paghukum nga ginsogo ni Yahweh ⟨kang⟩ Moshe mahitungod sa Yisrael: magpakumado kag magpakaisog; indi magkahadlok kag indi magkuyumpis.",
+  "translation": "Sangtanto magakabuhi ikaw kon magatipon ikaw sa pagtuman sang ⟨את⟩ ang mga kasuguan kag ⟨את⟩ ang mga paghukum nga gintugon ni Yahweh ⟨את⟩ Moshe mahitungod sa Yisrael: Magligad kag magpakaisog; indi pagkahadlok kag indi pagkabudlayan ⟨nga mawad-an sang kadalag-an⟩.",
   "tokens": [
     {
       "surface": "אז",
-      "gloss": "sanglit"
+      "gloss": "sangtanto"
     },
     {
       "surface": "תצליח",
-      "gloss": "magamainuswagon ikaw"
+      "gloss": "magakabuhi"
     },
     {
       "surface": "אם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "תשמור",
-      "gloss": "magabantay ikaw"
+      "gloss": "magatipon ikaw"
     },
     {
       "surface": "לעשות",
@@ -30,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang mga kasogoan"
+      "marks": "ang mga kasuguan"
     },
     {
       "surface": "החקים",
-      "gloss": "ang mga kasogoan"
+      "gloss": "ang mga kasuguan"
     },
     {
       "surface": "ואת",
@@ -51,20 +51,20 @@
     },
     {
       "surface": "צוה",
-      "gloss": "ginsogo"
+      "gloss": "gintugon"
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "si Moshe"
+      "marks": "Moshe"
     },
     {
       "surface": "משה",
-      "gloss": "si Moshe"
+      "gloss": "Moshe"
     },
     {
       "surface": "על",
@@ -76,7 +76,7 @@
     },
     {
       "surface": "חזק",
-      "gloss": "magpakumado"
+      "gloss": "magligad"
     },
     {
       "surface": "ואמץ",
@@ -88,7 +88,7 @@
     },
     {
       "surface": "תירא",
-      "gloss": "magkahadlok"
+      "gloss": "pagkahadlok"
     },
     {
       "surface": "ואל",
@@ -96,9 +96,9 @@
     },
     {
       "surface": "תחת",
-      "gloss": "magkuyumpis"
+      "gloss": "pagkabudlayan"
     }
   ],
-  "timestamp": "2026-09-21T21:58:40.868832727Z",
+  "timestamp": "2026-09-25T08:39:04.757612554Z",
   "model": "glm-5.3"
 }

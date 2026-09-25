@@ -5,19 +5,19 @@
   "book": "1-kings",
   "lang": "hil",
   "chapter": 16,
-  "translation": "Sa tuig nga tatlo ka pulo kag isa ni Asa nga hari sang Yehudah, naghari si Omri sa Yisrael napulo kag duha ka tuig; sa Tirtsah naghari siya anom ka tuig.",
+  "translation": "Sa ikatlo ka pulo kag nahauna nga tuig ni Asa nga hari sang Yehudah, naghari si Omri sa ibabaw sang Yisrael, napulo kag duha ka tuig; sa Tirtsah naghari siya sang anom ka tuig.",
   "tokens": [
     {
       "surface": "בשנת",
-      "gloss": "Sa tuig nga"
+      "gloss": "sa … nga tuig"
     },
     {
       "surface": "שלשים",
-      "gloss": "tatlo ka pulo"
+      "gloss": "ikatlo ka pulo"
     },
     {
       "surface": "ואחת",
-      "gloss": "kag isa"
+      "gloss": "kag nahauna"
     },
     {
       "surface": "שנה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "מלך",
-      "gloss": "nga hari"
+      "gloss": "hari"
     },
     {
       "surface": "יהודה",
-      "gloss": "sang Yehudah"
+      "gloss": "Yehudah"
     },
     {
       "surface": "מלך",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "על",
-      "gloss": "sa"
+      "gloss": "sa ibabaw sang"
     },
     {
       "surface": "ישראל",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "שתים",
-      "gloss": "napulo kag duha"
+      "gloss": "duha"
     },
     {
       "surface": "עשרה",
-      "gloss": "ka tuig"
+      "gloss": "napulo kag"
     },
     {
       "surface": "שנה",
-      "gloss": ""
+      "gloss": "ka tuig"
     },
     {
       "surface": "בתרצה",
@@ -80,6 +80,6 @@
       "gloss": "ka tuig"
     }
   ],
-  "timestamp": "2026-09-21T18:35:29.783093918Z",
+  "timestamp": "2026-09-25T08:40:02.216620412Z",
   "model": "glm-5.3"
 }

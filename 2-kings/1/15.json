@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "hil",
   "chapter": 1,
-  "translation": "Kag naghambal ang mensahero ni Yahweh kay Eliyahu: Palanguyon, manaog ka kaupod ⟨sa iya⟩; indi ka magkahadlok sa iya. Kag nagtindog siya kag nagpanaog kaupod ⟨sa iya⟩ sa hari.",
+  "translation": "Kag naghambal ang manugmensahe ni Yahweh kay Eliyahu: Ronde kadto ⟨את⟩ siya, indi pagkahadlok sa iya; kag nagtindog siya kag nagronde siya ⟨את⟩ kay ⟨ang⟩ hari.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "Kag naghambal"
+      "gloss": "kag naghambal"
     },
     {
       "surface": "מלאך",
-      "gloss": "ang mensahero"
+      "gloss": "ang manugmensahe"
     },
     {
       "surface": "יהוה",
@@ -29,12 +29,12 @@
     },
     {
       "surface": "רד",
-      "gloss": "manaog ka"
+      "gloss": "ronde kadto"
     },
     {
       "surface": "אותו",
       "gloss": "⟨את⟩",
-      "marks": "kaupod sa iya"
+      "marks": "siya (ang kapitan)"
     },
     {
       "surface": "אל",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "תירא",
-      "gloss": "ka magkahadlok"
+      "gloss": "pagkahadlok"
     },
     {
       "surface": "מפניו",
@@ -50,26 +50,26 @@
     },
     {
       "surface": "ויקם",
-      "gloss": "Kag nagtindog"
+      "gloss": "kag nagtindog siya"
     },
     {
       "surface": "וירד",
-      "gloss": "siya kag nagpanaog"
+      "gloss": "kag nagronde siya"
     },
     {
       "surface": "אותו",
       "gloss": "⟨את⟩",
-      "marks": "kaupod sa iya"
+      "marks": "siya (ang kapitan)"
     },
     {
       "surface": "אל",
-      "gloss": "sa"
+      "gloss": "kay"
     },
     {
       "surface": "המלך",
-      "gloss": "hari"
+      "gloss": "⟨ang⟩ hari"
     }
   ],
-  "timestamp": "2026-09-21T18:40:18.231951870Z",
+  "timestamp": "2026-09-25T09:53:31.027584944Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 37,
-  "translation": "Hambala sa ila: Amo ang ginhambal ni Adonay Yahweh: Tan-awa, ako magakuha sang ⟨את⟩ kahoy ni Yosef nga ara sa kamot sang Efrayim kag sang mga tribo sang Yisrael nga iya mga kaupod, kag ibutang ko sila sa iya kaupod ang ⟨את⟩ kahoy sang Yehudah, kag himoon ko sila nga isa ka kahoy, kag maga-upod sila nga isa sa akon kamot.",
+  "translation": "Hambala sa ila: Amo ini ang ginahambal ni Adonay Yahweh: Yari karon, aku magakuha sang ⟨את⟩ kahoy ni Yosef nga ara sa kamot sang Efrayim kag sang mga tribo sang Yisrael nga iya mga kaupod, kag ibutang ko sila sa iya kaupod ⟨את⟩ kahoy ni Yehudah, kag himoon ko sila nga isa ka kahoy, kag maga-inpisa sila nga isa sa akon kamot.",
   "tokens": [
     {
       "surface": "דבר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "Amo"
+      "gloss": "Amo ini"
     },
     {
       "surface": "אמר",
-      "gloss": "ang ginhambal"
+      "gloss": "ang ginahambal"
     },
     {
       "surface": "אדני",
@@ -33,20 +33,20 @@
     },
     {
       "surface": "הנה",
-      "gloss": "Tan-awa"
+      "gloss": "Yari karon"
     },
     {
       "surface": "אני",
-      "gloss": "ako"
+      "gloss": "aku"
     },
     {
       "surface": "לקח",
-      "gloss": "magakuha"
+      "gloss": "magakuha sang"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang kahoy ni Yosef"
+      "marks": "kahoy ni Yosef"
     },
     {
       "surface": "עץ",
@@ -87,16 +87,16 @@
     {
       "surface": "אותם",
       "gloss": "⟨את⟩ sila",
-      "marks": "ang mga tribo sang Yisrael"
+      "marks": "sa iya kaupod kahoy ni Yehudah"
     },
     {
       "surface": "עליו",
-      "gloss": "sa iya kaupod"
+      "gloss": "sa iya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang kahoy sang Yehudah"
+      "marks": "kahoy ni Yehudah"
     },
     {
       "surface": "עץ",
@@ -104,11 +104,11 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "sang Yehudah"
+      "gloss": "ni Yehudah"
     },
     {
       "surface": "ועשיתם",
-      "gloss": "kag himoon ko sila"
+      "gloss": "kag himoon ko"
     },
     {
       "surface": "לעץ",
@@ -120,7 +120,7 @@
     },
     {
       "surface": "והיו",
-      "gloss": "kag maga-upod sila"
+      "gloss": "kag maga-inpisa sila"
     },
     {
       "surface": "אחד",
@@ -131,6 +131,6 @@
       "gloss": "sa akon kamot"
     }
   ],
-  "timestamp": "2026-09-21T19:57:25.966369378Z",
+  "timestamp": "2026-09-25T09:10:29.599866224Z",
   "model": "glm-5.3"
 }

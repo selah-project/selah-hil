@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "hil",
   "chapter": 25,
-  "translation": "Kag nagsiling si Yahweh kay Moshe: Kuhaa ⟨את⟩ tanan nga mga pangulo sang katawhan, kag ipabitay ⟨sila⟩ sa atubang ni Yahweh, payungga sang adlaw, agod mag-untat ang nagasiga nga kaakig ni Yahweh sa Yisrael.",
+  "translation": "Kag nagsiling si Yahweh kay Moshe: Kuhaa ⟨את⟩ ang tanan nga mga pangulo sang katawhan, kag ipakila ⟨את⟩ sila para kay Yahweh atubang sang adlaw, agod magsuli ang mainit nga kaakig ni Yahweh sa Yisrael.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,20 +25,20 @@
     },
     {
       "surface": "קח",
-      "gloss": "kuhaa"
+      "gloss": "Kuhaa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tanan nga mga pangulo sang katawhan"
+      "marks": "ang tanan nga mga pangulo sang katawhan"
     },
     {
       "surface": "כל",
-      "gloss": "tanan nga"
+      "gloss": "ang tanan"
     },
     {
       "surface": "ראשי",
-      "gloss": "mga pangulo"
+      "gloss": "nga mga pangulo"
     },
     {
       "surface": "העם",
@@ -46,32 +46,32 @@
     },
     {
       "surface": "והוקע",
-      "gloss": "kag ipabitay"
+      "gloss": "kag ipakila"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ sila",
       "marks": "sila (ang mga pangulo)"
     },
     {
       "surface": "ליהוה",
-      "gloss": "sa atubang ni Yahweh"
+      "gloss": "para kay Yahweh"
     },
     {
       "surface": "נגד",
-      "gloss": "payungga sang"
+      "gloss": "atubang"
     },
     {
       "surface": "השמש",
-      "gloss": "adlaw"
+      "gloss": "sang adlaw"
     },
     {
       "surface": "וישב",
-      "gloss": "agod mag-untat"
+      "gloss": "agod magsuli"
     },
     {
       "surface": "חרון",
-      "gloss": "ang nagasiga"
+      "gloss": "ang mainit nga"
     },
     {
       "surface": "אף",
@@ -86,6 +86,6 @@
       "gloss": "sa Yisrael"
     }
   ],
-  "timestamp": "2026-09-21T17:11:47.034051837Z",
+  "timestamp": "2026-09-25T09:44:40.414600769Z",
   "model": "glm-5.3"
 }

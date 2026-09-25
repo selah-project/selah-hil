@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "hil",
   "chapter": 17,
-  "translation": "Kay gintungtung ni Yahweh ang Yisrael gikan sa balay ni David, kag ginhimo nga hari si Yaravam nga anak ni Nevat; kag gintimo ni Yaravam ang Yisrael ⟨את⟩ sa pag-away sa Yahweh, kag ginpasala sila sing dako nga sala.",
+  "translation": "Kay naglubog si Yisrael sa balay ni David, kag ginpahari ninda ⟨את⟩ si Yaravam nga anak ni Nevat; kag ginpalayo ni Yaravam ⟨את⟩ si Yisrael sa pagtuman kay Yahweh, kag ginpagpalahunon niya sila sang dako nga sala.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "קרע",
-      "gloss": "gintungtung"
+      "gloss": "naglubog"
     },
     {
       "surface": "ישראל",
-      "gloss": "ang Yisrael"
+      "gloss": "si Yisrael"
     },
     {
       "surface": "מעל",
-      "gloss": "gikan sa"
+      "gloss": "sa"
     },
     {
       "surface": "בית",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "וימליכו",
-      "gloss": "ginhimo nga hari"
+      "gloss": "ginpahari ninda"
     },
     {
       "surface": "את",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "וידא",
-      "gloss": "gintimo"
+      "gloss": "kag ginpalayo"
     },
     {
       "surface": "ירבעם",
@@ -63,23 +63,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang Yisrael"
+      "marks": "si Yisrael"
     },
     {
       "surface": "ישראל",
-      "gloss": "ang Yisrael"
+      "gloss": "si Yisrael"
     },
     {
       "surface": "מאחרי",
-      "gloss": "sa pag-away sa"
+      "gloss": "sa pagtuman"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "kay Yahweh"
     },
     {
       "surface": "והחטיאם",
-      "gloss": "ginpasala sila"
+      "gloss": "kag ginpagpalahunon niya sila"
     },
     {
       "surface": "חטאה",
@@ -87,9 +87,9 @@
     },
     {
       "surface": "גדולה",
-      "gloss": "dako nga"
+      "gloss": "dako"
     }
   ],
-  "timestamp": "2026-09-21T18:47:04.462810444Z",
+  "timestamp": "2026-09-25T08:47:53.000598503Z",
   "model": "glm-5.3"
 }

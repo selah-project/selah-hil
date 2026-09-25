@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "hil",
   "chapter": 18,
-  "translation": "Kag sa mga Levita imo hambalon, kag imo silingon sa ila: Kon magaku kamo gikan sa ⟨את⟩ mga anak sang Yisrael ang ikapulo nga bahin nga akon ginhatag sa inyo gikan sa ila ⟨את⟩ bilang inyo manunubosan, kag ipataas ninyo gikan sini ang halad ni Yahweh — ikapulo nga bahin sang ikapulo nga bahin.",
+  "translation": "Kag sa mga Levita imo hambalon, kag mo silingon sa ila: Kon magkuha kamo gikan ⟨את⟩ sa mga anak sang Yisrael ⟨את⟩ ang ikanapulo nga ginhatag ko sa inyo gikan sa ila ⟨את⟩ bilang inyo kanunon, dayon itataas ninyo gikan sini ang halad nga itataas sang Yahweh, ikanapulo sang ikanapulo.",
   "tokens": [
     {
       "surface": "ואל",
-      "gloss": "Kag sa"
+      "gloss": "kag sa"
     },
     {
       "surface": "הלוים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ואמרת",
-      "gloss": "kag imo silingon"
+      "gloss": "kag mo silingon"
     },
     {
       "surface": "אלהם",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "Kon"
+      "gloss": "kon"
     },
     {
       "surface": "תקחו",
-      "gloss": "magaku kamo"
+      "gloss": "magkuha kamo"
     },
     {
       "surface": "מאת",
-      "gloss": "gikan sa ⟨את⟩"
+      "gloss": "gikan ⟨את⟩"
     },
     {
       "surface": "בני",
@@ -50,11 +50,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang ikapulo nga bahin"
+      "marks": "ang ikanapulo"
     },
     {
       "surface": "המעשר",
-      "gloss": "ang ikapulo nga bahin"
+      "gloss": "ang ikanapulo"
     },
     {
       "surface": "אשר",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "נתתי",
-      "gloss": "akon ginhatag"
+      "gloss": "ginhatag ko"
     },
     {
       "surface": "לכם",
@@ -74,11 +74,11 @@
     },
     {
       "surface": "בנחלתכם",
-      "gloss": "bilang inyo manunubosan"
+      "gloss": "bilang inyo kanunon"
     },
     {
       "surface": "והרמתם",
-      "gloss": "kag ipataas ninyo"
+      "gloss": "dayon itataas ninyo"
     },
     {
       "surface": "ממנו",
@@ -86,15 +86,15 @@
     },
     {
       "surface": "תרומת",
-      "gloss": "ang halad"
+      "gloss": "halad nga itataas"
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "sang Yahweh"
     },
     {
       "surface": "מעשר",
-      "gloss": "ikapulo nga bahin"
+      "gloss": "ikanapulo"
     },
     {
       "surface": "מן",
@@ -102,9 +102,9 @@
     },
     {
       "surface": "המעשר",
-      "gloss": "ikapulo nga bahin"
+      "gloss": "ang ikanapulo"
     }
   ],
-  "timestamp": "2026-09-21T17:09:01.570822582Z",
+  "timestamp": "2026-09-25T09:43:26.214875332Z",
   "model": "glm-5.3"
 }

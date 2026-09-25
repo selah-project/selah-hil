@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 29,
-  "translation": "Anak sang tawo, si Nevukhadretsar, hari sang Bavel, nagpangabudlay siya sang iya kasoldados sa dako nga pagpangabudlay sa palibot sang Tsor; kada ulo nagkaluba, kag kada abaga nagkabhasi; kag wala sing balus sa iya kag sa iya kasoldados gikan sa Tsor tungod sang pagpangabudlay nga iya ginhimo sa sini.",
+  "translation": "Anak sang tawo, si Nevukhadretsar nga hari sang Bavel, ginpagod niya ⟨את⟩ ang iya kasundalahan sang dako nga pagpangabudlay sa pag-atubang sa Tsor: kada ulo ginpanitan kag kada abaga ginbalasag, kag balasad wala nga nakua sang iya kag sang iya kasundalahan gikan sa Tsor, tungod sa pagpangabudlay nga iya ginhimo sa sini.",
   "tokens": [
     {
       "surface": "בן",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נבוכדראצר",
-      "gloss": "si Nevukhadretsar"
+      "gloss": "Nevukhadretsar"
     },
     {
       "surface": "מלך",
@@ -29,20 +29,20 @@
     },
     {
       "surface": "העביד",
-      "gloss": "nagpangabudlay siya"
+      "gloss": "ginpagod"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iya kasoldados"
+      "marks": "ang iya kasundalahan"
     },
     {
       "surface": "חילו",
-      "gloss": "iya kasoldados"
+      "gloss": "ang iya kasundalahan"
     },
     {
       "surface": "עבדה",
-      "gloss": "sa pagpangabudlay"
+      "gloss": "pagpangabudlay"
     },
     {
       "surface": "גדלה",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "sa palibot sang"
+      "gloss": "sa pag-atubang"
     },
     {
       "surface": "צר",
-      "gloss": "Tsor"
+      "gloss": "sa Tsor"
     },
     {
       "surface": "כל",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "מקרח",
-      "gloss": "nagkaluba"
+      "gloss": "ginpanitan"
     },
     {
       "surface": "וכל",
@@ -78,11 +78,11 @@
     },
     {
       "surface": "מרוטה",
-      "gloss": "nagkabhasi"
+      "gloss": "ginbalasag"
     },
     {
       "surface": "ושכר",
-      "gloss": "kag balus"
+      "gloss": "kag balasad"
     },
     {
       "surface": "לא",
@@ -90,15 +90,15 @@
     },
     {
       "surface": "היה",
-      "gloss": "may"
+      "gloss": "nakua"
     },
     {
       "surface": "לו",
-      "gloss": "sa iya"
+      "gloss": "sang iya"
     },
     {
       "surface": "ולחילו",
-      "gloss": "kag sa iya kasoldados"
+      "gloss": "kag sang iya kasundalahan"
     },
     {
       "surface": "מצר",
@@ -106,7 +106,7 @@
     },
     {
       "surface": "על",
-      "gloss": "tungod sang"
+      "gloss": "tungod sa"
     },
     {
       "surface": "העבדה",
@@ -125,6 +125,6 @@
       "gloss": "sa sini"
     }
   ],
-  "timestamp": "2026-09-21T19:53:08.036386786Z",
+  "timestamp": "2026-09-25T09:07:13.432354897Z",
   "model": "glm-5.3"
 }

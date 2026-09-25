@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 11,
-  "translation": "Kag ipaguwa ko kamo sa tunga sini, kag itugyan ko kamo sa kamot sang mga taga-lain, kag himoon ko sa inyo ⟨mga⟩ paghukom.",
+  "translation": "Kag kuhaon ko kamo sa tunga sini kag itugyan ko kamo sa kamot sang mga taga-lain, kag magahimo ako sang mga paghukom sa inyo.",
   "tokens": [
     {
       "surface": "והוצאתי",
-      "gloss": "kag ipaguwa ko"
+      "gloss": "kag kuhaon ko kamo"
     },
     {
       "surface": "אתכם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ונתתי",
-      "gloss": "kag itugyan ko"
+      "gloss": "kag itugyan ko kamo"
     },
     {
       "surface": "אתכם",
@@ -33,21 +33,21 @@
     },
     {
       "surface": "זרים",
-      "gloss": "mga taga-lain"
-    },
-    {
-      "surface": "ועשיתי",
-      "gloss": "kag himoon ko"
+      "gloss": "sang mga taga-lain"
     },
     {
       "surface": "בכם",
       "gloss": "sa inyo"
     },
     {
+      "surface": "ועשיתי",
+      "gloss": "kag magahimo ako"
+    },
+    {
       "surface": "שפטים",
-      "gloss": "mga paghukom"
+      "gloss": "sang mga paghukom"
     }
   ],
-  "timestamp": "2026-09-21T19:43:17.999048877Z",
+  "timestamp": "2026-09-25T09:06:23.198723165Z",
   "model": "glm-5.3"
 }

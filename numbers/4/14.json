@@ -5,28 +5,28 @@
   "book": "numbers",
   "lang": "hil",
   "chapter": 4,
-  "translation": "Kag ilalatid nila sa iya ang tanan nga iya kagamitan nga ginakabuhi sa iya ⟨את⟩ ang mga panira sang kalayo, ⟨את⟩ ang mga sulhad, kag ⟨את⟩ ang mga pala, kag ⟨את⟩ ang mga pahulugan — tanan nga kagamitan sang halaran; kag ipalapda nila sa iya ang takup nga panit sang takhash, kag ilalatid ang iya mga hawid.",
+  "translation": "Kag ibutang nila sa ibabaw sini ⟨את⟩ ang tanan nga mga kagamitan sini nga ginagamit nila sa pag-alagad sa ibabaw sini — ⟨את⟩ ang mga pana sang kalayo, ⟨את⟩ ang mga tinidor, kag ⟨את⟩ ang mga kapa, kag ⟨את⟩ ang mga pansolod — tanan nga mga kagamitan sang halaran; kag lat-aron nila sa ibabaw sini ang tabon nga panit sang takhash, kag isulod ang mga badbar sini.",
   "tokens": [
     {
       "surface": "ונתנו",
-      "gloss": "kag ilalatid nila"
+      "gloss": "kag ibutang nila"
     },
     {
       "surface": "עליו",
-      "gloss": "sa iya"
+      "gloss": "sa ibabaw sini"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang tanan nga iya kagamitan"
+      "marks": "ang tanan"
     },
     {
       "surface": "כל",
-      "gloss": "tanan"
+      "gloss": "ang tanan"
     },
     {
       "surface": "כליו",
-      "gloss": "iya kagamitan"
+      "gloss": "nga mga kagamitan sini"
     },
     {
       "surface": "אשר",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "ישרתו",
-      "gloss": "ginakabuhi"
+      "gloss": "ginagamit nila sa pag-alagad"
     },
     {
       "surface": "עליו",
-      "gloss": "sa iya"
+      "gloss": "sa ibabaw sini"
     },
     {
       "surface": "בהם",
@@ -47,38 +47,38 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang mga panira sang kalayo"
+      "marks": "ang mga pana sang kalayo"
     },
     {
       "surface": "המחתת",
-      "gloss": "ang mga panira sang kalayo"
+      "gloss": "ang mga pana sang kalayo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang mga sulhad"
+      "marks": "ang mga tinidor"
     },
     {
       "surface": "המזלגת",
-      "gloss": "ang mga sulhad"
+      "gloss": "ang mga tinidor"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang mga pala"
+      "marks": "ang mga kapa"
     },
     {
       "surface": "היעים",
-      "gloss": "ang mga pala"
+      "gloss": "ang mga kapa"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang mga pahulugan"
+      "marks": "ang mga pansolod"
     },
     {
       "surface": "המזרקת",
-      "gloss": "ang mga pahulugan"
+      "gloss": "ang mga pansolod"
     },
     {
       "surface": "כל",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "כלי",
-      "gloss": "kagamitan"
+      "gloss": "nga mga kagamitan"
     },
     {
       "surface": "המזבח",
@@ -94,33 +94,33 @@
     },
     {
       "surface": "ופרשו",
-      "gloss": "kag ipalapda nila"
+      "gloss": "kag lat-aron nila"
     },
     {
       "surface": "עליו",
-      "gloss": "sa iya"
+      "gloss": "sa ibabaw sini"
     },
     {
       "surface": "כסוי",
-      "gloss": "takup"
+      "gloss": "ang tabon"
     },
     {
       "surface": "עור",
-      "gloss": "panit"
+      "gloss": "nga panit"
     },
     {
       "surface": "תחש",
-      "gloss": "takhash"
+      "gloss": "sang takhash"
     },
     {
       "surface": "ושמו",
-      "gloss": "kag ilalatid"
+      "gloss": "kag isulod"
     },
     {
       "surface": "בדיו",
-      "gloss": "iya mga hawid"
+      "gloss": "ang mga badbar sini"
     }
   ],
-  "timestamp": "2026-09-21T17:00:02.298447625Z",
+  "timestamp": "2026-09-25T09:47:17.229582368Z",
   "model": "glm-5.3"
 }

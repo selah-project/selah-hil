@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 40,
-  "translation": "Kag yari karon, isa ka pader sa guwa sang balay, palibot kag palibot; kag sa kamot sang tawo may tambo sang pagsukol, anom ka siko sa siko kag isa ka palad; kag ginsukol niya ⟨את⟩ ang lapad sang balay — isa ka tambo — kag ang kataason, isa ka tambo.",
+  "translation": "Kag tan-awa, ⟨ang⟩ pader sa guwa sang balay, palibot kag palibot; kag sa kamot sang tawo ⟨may⟩ kalamay sang pagsukol, anom ka siko sang siko kag isa ka lapad sang palad; kag ginsukol niya ⟨את⟩ ang lapad sang pinatindog, isa ka kalamay, kag ang kataason, isa ka kalamay.",
   "tokens": [
     {
       "surface": "והנה",
-      "gloss": "kag yari karon"
+      "gloss": "kag tan-awa"
     },
     {
       "surface": "חומה",
-      "gloss": "isa ka pader"
+      "gloss": "pader"
     },
     {
       "surface": "מחוץ",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "קנה",
-      "gloss": "tambo"
+      "gloss": "kalamay"
     },
     {
       "surface": "המדה",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "באמה",
-      "gloss": "sa siko"
+      "gloss": "sang siko"
     },
     {
       "surface": "וטפח",
-      "gloss": "kag isa ka palad"
+      "gloss": "kag isa ka lapad sang palad"
     },
     {
       "surface": "וימד",
@@ -70,7 +70,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang lapad sang balay"
+      "marks": "ang lapad sang pinatindog"
     },
     {
       "surface": "רחב",
@@ -78,11 +78,11 @@
     },
     {
       "surface": "הבנין",
-      "gloss": "sang balay"
+      "gloss": "sang pinatindog"
     },
     {
       "surface": "קנה",
-      "gloss": "tambo"
+      "gloss": "isa ka kalamay"
     },
     {
       "surface": "אחד",
@@ -94,13 +94,13 @@
     },
     {
       "surface": "קנה",
-      "gloss": "tambo"
+      "gloss": "kalamay"
     },
     {
       "surface": "אחד",
       "gloss": "isa"
     }
   ],
-  "timestamp": "2026-09-21T22:36:14.352178773Z",
+  "timestamp": "2026-09-25T09:12:13.775359777Z",
   "model": "glm-5.3"
 }

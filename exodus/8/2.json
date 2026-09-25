@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "hil",
   "chapter": 8,
-  "translation": "Kag gindangat ni Aharon ang iya kamot sa ibabaw sang mga tubig sang Mitsrayim, kag nagtungas ang baki kag gintabon ⟨את⟩ ang duta sang Mitsrayim.",
+  "translation": "Kag gintuyang ni Aharon ⟨את⟩ iya kamot sa ibabaw sang mga tubig sang Mitsrayim, kag nagsaka ang mga baki kag gintabon ⟨את⟩ ang duta sang Mitsrayim.",
   "tokens": [
     {
       "surface": "ויט",
-      "gloss": "kag gindangat"
+      "gloss": "kag gintuyang"
     },
     {
       "surface": "אהרן",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang iya kamot"
+      "marks": "iya kamot"
     },
     {
       "surface": "ידו",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "ותעל",
-      "gloss": "kag nagtungas"
+      "gloss": "kag nagsaka"
     },
     {
       "surface": "הצפרדע",
-      "gloss": "ang baki"
+      "gloss": "ang mga baki"
     },
     {
       "surface": "ותכס",
@@ -55,13 +55,13 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "duta"
+      "gloss": "ang duta"
     },
     {
       "surface": "מצרים",
       "gloss": "sang Mitsrayim"
     }
   ],
-  "timestamp": "2026-09-21T16:24:24.754893771Z",
+  "timestamp": "2026-09-25T09:05:59.280494528Z",
   "model": "glm-5.3"
 }

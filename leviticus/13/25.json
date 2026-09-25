@@ -5,20 +5,20 @@
   "book": "leviticus",
   "lang": "hil",
   "chapter": 13,
-  "translation": "Kag tuman-awa sang pari ⟨את⟩⟨niya⟩, kag yari, ang bolbon nagbalhin nga maputi sa mabian nga bahin, kag ang iya hitsura mas malalim kisa sa panit — tsaraat ini, nagpuyod ini sa sunog; kag ginpamara sang pari siya — sara ini ka tsaraat.",
+  "translation": "Kag tan-awon sang saserdote ⟨את⟩ ina, kag yari, ang bolbo nagbalhin nga maputi sa maningala nga bahin, kag ang itsura sini mas malalim sangsa ang panit — tsaraat ini, sa sunog ini nagsunga; kag gidum-an sang saserdote ⟨את⟩ ang tawo; sakit sang tsaraat ini.",
   "tokens": [
     {
       "surface": "וראה",
-      "gloss": "kag tuman-awa"
+      "gloss": "Kag tan-awon"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩⟨niya⟩",
-      "marks": "siya (ang nagsunog nga bahin)"
+      "gloss": "⟨את⟩",
+      "marks": "ina (ang bahin)"
     },
     {
       "surface": "הכהן",
-      "gloss": "sang pari"
+      "gloss": "sang saserdote"
     },
     {
       "surface": "והנה",
@@ -30,19 +30,19 @@
     },
     {
       "surface": "שער",
-      "gloss": "ang bolbon"
+      "gloss": "ang bolbo"
     },
     {
       "surface": "לבן",
-      "gloss": "nga maputi"
+      "gloss": "maputi"
     },
     {
       "surface": "בבהרת",
-      "gloss": "sa mabian nga bahin"
+      "gloss": "sa maningala nga bahin"
     },
     {
       "surface": "ומראה",
-      "gloss": "kag ang iya hitsura"
+      "gloss": "kag ang itsura"
     },
     {
       "surface": "עמק",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "מן",
-      "gloss": "kisa"
+      "gloss": "sangsa"
     },
     {
       "surface": "העור",
-      "gloss": "sa panit"
+      "gloss": "ang panit"
     },
     {
       "surface": "צרעת",
@@ -70,34 +70,34 @@
     },
     {
       "surface": "פרחה",
-      "gloss": "nagpuyod ini"
+      "gloss": "nagsunga"
     },
     {
       "surface": "וטמא",
-      "gloss": "kag ginpamara"
+      "gloss": "kag gidum-an"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ siya",
-      "marks": "siya (ang tawo)"
+      "gloss": "⟨את⟩",
+      "marks": "ang tawo"
     },
     {
       "surface": "הכהן",
-      "gloss": "sang pari"
+      "gloss": "sang saserdote"
     },
     {
       "surface": "נגע",
-      "gloss": "sara"
+      "gloss": "sakit"
     },
     {
       "surface": "צרעת",
-      "gloss": "ka tsaraat"
+      "gloss": "tsaraat"
     },
     {
       "surface": "הוא",
       "gloss": "ini"
     }
   ],
-  "timestamp": "2026-09-21T16:49:24.757769007Z",
+  "timestamp": "2026-09-25T09:37:39.213496453Z",
   "model": "glm-5.3"
 }

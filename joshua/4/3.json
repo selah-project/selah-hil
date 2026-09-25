@@ -5,28 +5,28 @@
   "book": "joshua",
   "lang": "hil",
   "chapter": 4,
-  "translation": "Kag autosdon ninyo sila ⟨אותם⟩ nga nagaingon: Ituboy ninyo gikan diri, gikan sa tunga sang Yarden, gikan sa tinindgan sang mga tiil sang mga sacerdote, nga nagatindog husto, napulo kag duha ka mga bato, kag dal-on ninyo sila ⟨אותם⟩ kaupod ninyo tabok, kag ihandon ninyo sila ⟨אותם⟩ sa tulugan nga inyo tulugan sini nga gab-i.",
+  "translation": "Kag tugyani ninyo ⟨את⟩ sila nga maghambal: Pagbuhat kamo para sa inyo gikan diri, sa tunga sang Yarden, gikan sa tinindugan sang tiil sang mga saserdote nga naglig-on, napulo kag duha ka bato, kag dalhon ninyo ⟨את⟩ sila kaubay ninyo, kag ibutang ninyo ⟨את⟩ sila sa tuluganan diin magatulog kamo didto sa subong nga gab-i.",
   "tokens": [
     {
       "surface": "וצוו",
-      "gloss": "Kag autosdon ninyo"
+      "gloss": "kag tugyani ninyo"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אותם⟩",
-      "marks": "sila (ang napulo kag duha ka tawo)"
+      "gloss": "⟨את⟩",
+      "marks": "sila (nga maghambal)"
     },
     {
       "surface": "לאמר",
-      "gloss": "nga nagaingon"
+      "gloss": "nga maghambal"
     },
     {
       "surface": "שאו",
-      "gloss": "Ituboy ninyo"
+      "gloss": "pagbuhat kamo"
     },
     {
       "surface": "לכם",
-      "gloss": "inyo"
+      "gloss": "para sa inyo"
     },
     {
       "surface": "מזה",
@@ -34,35 +34,35 @@
     },
     {
       "surface": "מתוך",
-      "gloss": "gikan sa tunga"
+      "gloss": "sa tunga sang"
     },
     {
       "surface": "הירדן",
-      "gloss": "sang Yarden"
+      "gloss": "Yarden"
     },
     {
       "surface": "ממצב",
-      "gloss": "gikan sa tinindgan"
+      "gloss": "gikan sa tinindugan"
     },
     {
       "surface": "רגלי",
-      "gloss": "mga tiil"
+      "gloss": "tiil"
     },
     {
       "surface": "הכהנים",
-      "gloss": "sang mga sacerdote"
+      "gloss": "mga saserdote"
     },
     {
       "surface": "הכין",
-      "gloss": "nagatindog husto"
+      "gloss": "naglig-on"
     },
     {
       "surface": "שתים",
-      "gloss": "napulo kag"
+      "gloss": "duha"
     },
     {
       "surface": "עשרה",
-      "gloss": "duha ka"
+      "gloss": "napulo kag"
     },
     {
       "surface": "אבנים",
@@ -70,47 +70,47 @@
     },
     {
       "surface": "והעברתם",
-      "gloss": "kag dal-on ninyo tabok"
+      "gloss": "kag dalhon ninyo sila"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אותם⟩",
-      "marks": "sila (ang mga bato)"
+      "gloss": "⟨את⟩",
+      "marks": "kaubay ninyo"
     },
     {
       "surface": "עמכם",
-      "gloss": "kaupod ninyo"
+      "gloss": "kaubay ninyo"
     },
     {
       "surface": "והנחתם",
-      "gloss": "kag ihandon ninyo"
+      "gloss": "kag ibutang ninyo sila"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אותם⟩",
-      "marks": "sila (ang mga bato)"
+      "gloss": "⟨את⟩",
+      "marks": "sa tuluganan"
     },
     {
       "surface": "במלון",
-      "gloss": "sa tulugan"
+      "gloss": "sa tuluganan"
     },
     {
       "surface": "אשר",
-      "gloss": "nga"
+      "gloss": "diin"
     },
     {
       "surface": "תלינו",
-      "gloss": "inyo tulugan"
+      "gloss": "magatulog kamo"
     },
     {
       "surface": "בו",
-      "gloss": "sa"
+      "gloss": "didto sa sini"
     },
     {
       "surface": "הלילה",
-      "gloss": "sini nga gab-i"
+      "gloss": "subong nga gab-i"
     }
   ],
-  "timestamp": "2026-09-21T17:35:56.949568913Z",
+  "timestamp": "2026-09-25T09:33:54.488619227Z",
   "model": "glm-5.3"
 }

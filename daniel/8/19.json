@@ -5,11 +5,11 @@
   "book": "daniel",
   "lang": "hil",
   "chapter": 8,
-  "translation": "Kag naghambal siya: Yari ako, pagahimon ko nga maathag sa imo <ang> matabo sa katapusan sang kaakig, kay sa takna nga ginbutangan ang katapusan.",
+  "translation": "Kag naghambal siya: Yari ako, ginpahibalo ko sa imo ⟨את⟩ kon ano ang mahitabo sa katapusan sang kaakig, kay sa takna nga gintakda ang katapusan.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "kag naghambal siya"
+      "gloss": "Kag naghambal siya"
     },
     {
       "surface": "הנני",
@@ -17,28 +17,28 @@
     },
     {
       "surface": "מודיעך",
-      "gloss": "pagahimon ko nga maathag sa imo"
+      "gloss": "ginpahibalo ko sa imo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang matabo (אשר יהיה)"
+      "marks": "kon ano ang mahitabo"
     },
     {
       "surface": "אשר",
-      "gloss": "ang"
+      "gloss": "kon ano"
     },
     {
       "surface": "יהיה",
-      "gloss": "matabo"
+      "gloss": "ang mahitabo"
     },
     {
       "surface": "באחרית",
-      "gloss": "sa katapusan sang"
+      "gloss": "sa katapusan"
     },
     {
       "surface": "הזעם",
-      "gloss": "kaakig"
+      "gloss": "sang kaakig"
     },
     {
       "surface": "כי",
@@ -46,13 +46,13 @@
     },
     {
       "surface": "למועד",
-      "gloss": "sa takna nga ginbutangan"
+      "gloss": "sa takna nga gintakda"
     },
     {
       "surface": "קץ",
       "gloss": "ang katapusan"
     }
   ],
-  "timestamp": "2026-09-21T21:36:06.635837471Z",
+  "timestamp": "2026-09-25T08:55:32.052153067Z",
   "model": "glm-5.3"
 }

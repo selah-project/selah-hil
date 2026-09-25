@@ -5,20 +5,20 @@
   "book": "1-kings",
   "lang": "hil",
   "chapter": 2,
-  "translation": "Kag magbantay ka sang pagbantay ni Yahweh nga imo Elohim, sa paglakat sa iya mga dalan, sa pagbantay sang iya mga kahitudan, iya mga kasuguan, iya mga paghukom, kag iya mga pagsaksi, suno sa nakasulat sa Torah ni Moshe, agod magmaligyon ka sa tanan nga imo himoon kag sa tanan nga imo tumin-an didto.",
+  "translation": "Kag bantayi mo ⟨את⟩ ang pagbantay ni Yahweh nga Elohim mo, sa paglakat sa iya mga dalan, sa pagbantay sang iya mga kasuguan, iya mga mando, iya mga paghukom, kag iya mga pagpamatuod, suno sa nakasulat sa Torah ni Moshe, agod mag-uswag ka sa ⟨את⟩ tanan nga himoon mo kag ⟨את⟩ tanan nga pagtumangan mo didto",
   "tokens": [
     {
       "surface": "ושמרת",
-      "gloss": "Kag magbantay ka"
+      "gloss": "kag bantayi mo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sang pagbantay ni Yahweh"
+      "marks": "ang pagbantay"
     },
     {
       "surface": "משמרת",
-      "gloss": "sang pagbantay"
+      "gloss": "ang pagbantay"
     },
     {
       "surface": "יהוה",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "nga imo Elohim"
+      "gloss": "nga Elohim mo"
     },
     {
       "surface": "ללכת",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "חקתיו",
-      "gloss": "sang iya mga kahitudan"
+      "gloss": "sang iya mga kasuguan"
     },
     {
       "surface": "מצותיו",
-      "gloss": "iya mga kasuguan"
+      "gloss": "iya mga mando"
     },
     {
       "surface": "ומשפטיו",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ועדותיו",
-      "gloss": "kag iya mga pagsaksi"
+      "gloss": "kag iya mga pagpamatuod"
     },
     {
       "surface": "ככתוב",
@@ -74,16 +74,16 @@
     },
     {
       "surface": "תשכיל",
-      "gloss": "magmaligyon ka"
+      "gloss": "mag-uswag ka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sa tanan nga imo himoon"
+      "marks": "tanan nga himoon mo"
     },
     {
       "surface": "כל",
-      "gloss": "sa tanan"
+      "gloss": "tanan"
     },
     {
       "surface": "אשר",
@@ -91,16 +91,16 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "imo himoon"
+      "gloss": "himoon mo"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "sa tanan nga imo tumin-an"
+      "marks": "tanan nga pagtumangan mo"
     },
     {
       "surface": "כל",
-      "gloss": "sa tanan"
+      "gloss": "tanan"
     },
     {
       "surface": "אשר",
@@ -108,13 +108,13 @@
     },
     {
       "surface": "תפנה",
-      "gloss": "imo tumin-an"
+      "gloss": "pagtumangan mo"
     },
     {
       "surface": "שם",
       "gloss": "didto"
     }
   ],
-  "timestamp": "2026-09-21T18:27:25.678280861Z",
+  "timestamp": "2026-09-25T08:41:01.618619909Z",
   "model": "glm-5.3"
 }

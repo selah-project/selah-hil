@@ -1,1 +1,119 @@
-{"tier":"glm-5.2","verse":5,"ref":"2-chronicles 24:5","book":"2-chronicles","lang":"hil","chapter":24,"translation":"Kag gintipon niya ⟨את⟩ ang mga saserdote kag ang mga Levita, kag nagsiling siya sa ila: Maggwa kamo sa mga dakbanwa sang Yehudah kag tiponon ninyo sa tanan nga Yisrael ang pilak sa pagpalig-on sang ⟨את⟩ balay sang inyo Elohim, kada tuig sa tuig; kag kamo, magdali kamo sa butang; apang wala nagdali ang mga Levita.","tokens":[{"surface":"ויקבץ","gloss":"gintipon niya"},{"surface":"את","gloss":"⟨את⟩","marks":"ang mga saserdote kag ang mga Levita"},{"surface":"הכהנים","gloss":"ang mga saserdote"},{"surface":"והלוים","gloss":"kag ang mga Levita"},{"surface":"ויאמר","gloss":"kag nagsiling"},{"surface":"להם","gloss":"sa ila"},{"surface":"צאו","gloss":"maggwa kamo"},{"surface":"לערי","gloss":"sa mga dakbanwa"},{"surface":"יהודה","gloss":"sang Yehudah"},{"surface":"וקבצו","gloss":"kag tiponon ninyo"},{"surface":"מכל","gloss":"sa tanan nga"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"כסף","gloss":"ang pilak"},{"surface":"לחזק","gloss":"sa pagpalig-on"},{"surface":"את","gloss":"⟨את⟩","marks":"balay sang inyo Elohim"},{"surface":"בית","gloss":"balay"},{"surface":"אלהיכם","gloss":"sang inyo Elohim"},{"surface":"מדי","gloss":"kada"},{"surface":"שנה","gloss":"tuig"},{"surface":"בשנה","gloss":"sa tuig"},{"surface":"ואתם","gloss":"kag kamo"},{"surface":"תמהרו","gloss":"magdali kamo"},{"surface":"לדבר","gloss":"sa butang"},{"surface":"ולא","gloss":""},{"surface":"מהרו","gloss":"wala nagdali"},{"surface":"הלוים","gloss":"ang mga Levita"}],"timestamp":"2026-09-21T22:08:33.221342844Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 24:5",
+  "book": "2-chronicles",
+  "lang": "hil",
+  "chapter": 24,
+  "translation": "Kag gintipon niya ⟨את⟩ ang mga saserdote kag ang mga Levita, kag nagsiling siya sa ila: Maggwa kamo sa mga dakbanwa sang Yehudah kag tipunon ninyo sa tanan nga Yisrael ang pilak agod mapalig-onon ⟨את⟩ ang balay sang inyo Elohim, tuig sa tagsa ka tuig; kag kamo, daliona ninyo ang butang — apang wala nagdali ang mga Levita.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "gintipon niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga saserdote"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ang mga saserdote"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "kag ang mga Levita"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kag nagsiling siya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "Maggwa kamo"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "sa mga dakbanwa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sang Yehudah"
+    },
+    {
+      "surface": "וקבצו",
+      "gloss": "kag tipunon ninyo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ang pilak"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "agod mapalig-onon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay sang inyo Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sang inyo Elohim"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "tuig sa tagsa ka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "kag kamo"
+    },
+    {
+      "surface": "תמהרו",
+      "gloss": "daliona ninyo"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ang butang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apang wala"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "nagdali"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ang mga Levita"
+    }
+  ],
+  "timestamp": "2026-09-25T08:45:55.122617656Z",
+  "model": "glm-5.3"
+}

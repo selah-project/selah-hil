@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "hil",
   "chapter": 5,
-  "translation": "Kag natabo, sang madungog sang tanan nga mga hari sang Emori nga yara sa tabok sang Yarden sa baybay sang dagat, kag sang tanan nga mga hari sang Kenaani nga yara sa dagat, ⟨ang⟩ ginpamala ni Yahweh ⟨את⟩ ang mga tubig sang Yarden sa atubangan sang mga anak nga lalaki sang Yisrael tubot sa aton pagtabok, nga nagtunaw ang ila kasingkasing kag wala na sing ginhawa sa ila sa atubangan sang mga anak nga lalaki sang Yisrael.",
+  "translation": "Kag nahimo nga, sang madungog sang tanan nga mga hari sang mga Emori nga yara sa tabok sang Yarden pakadto sa dagat, kag sang tanan nga mga hari sang mga Kanaan nga yara sa baybayon sang dagat, ⟨את⟩ nga ginpamala ni Yahweh ⟨את⟩ ang mga tubig sang Yarden sa atubangan sang mga anak sang Yisrael tubtob nga kita nakatabok, nagtunaw ang ila mga kasingkasing kag wala na sing espiritu sa ila tungod sa mga anak sang Yisrael.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Kag natabo"
+      "gloss": "Kag nahimo nga"
     },
     {
       "surface": "כשמע",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "sang tanan"
+      "gloss": "tanan"
     },
     {
       "surface": "מלכי",
-      "gloss": "nga mga hari"
+      "gloss": "mga hari"
     },
     {
       "surface": "האמרי",
-      "gloss": "sang Emori"
+      "gloss": "sang mga Emori"
     },
     {
       "surface": "אשר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ימה",
-      "gloss": "sa baybay sang dagat"
+      "gloss": "pakadto sa dagat"
     },
     {
       "surface": "וכל",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "מלכי",
-      "gloss": "nga mga hari"
+      "gloss": "mga hari"
     },
     {
       "surface": "הכנעני",
-      "gloss": "sang Kenaani"
+      "gloss": "sang mga Kanaan"
     },
     {
       "surface": "אשר",
@@ -65,16 +65,16 @@
     },
     {
       "surface": "הים",
-      "gloss": "dagat"
+      "gloss": "baybayon sang dagat"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang ginpamala ni Yahweh"
+      "marks": "ang ginpamala ni Yahweh (ang butang nga nadungog)"
     },
     {
       "surface": "אשר",
-      "gloss": "ang ginpamala"
+      "gloss": "nga"
     },
     {
       "surface": "הוביש",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "si Yahweh"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "את",
@@ -91,7 +91,7 @@
     },
     {
       "surface": "מי",
-      "gloss": "ang mga tubig"
+      "gloss": "mga tubig"
     },
     {
       "surface": "הירדן",
@@ -103,7 +103,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "sang mga anak nga lalaki"
+      "gloss": "mga anak"
     },
     {
       "surface": "ישראל",
@@ -111,19 +111,19 @@
     },
     {
       "surface": "עד",
-      "gloss": "tubot"
+      "gloss": "tubtob"
     },
     {
       "surface": "עברנו",
-      "gloss": "sa aton pagtabok"
+      "gloss": "nga kita nakatabok"
     },
     {
       "surface": "וימס",
-      "gloss": "nga nagtunaw"
+      "gloss": "nagtunaw"
     },
     {
       "surface": "לבבם",
-      "gloss": "ang ila kasingkasing"
+      "gloss": "ila mga kasingkasing"
     },
     {
       "surface": "ולא",
@@ -131,7 +131,7 @@
     },
     {
       "surface": "היה",
-      "gloss": "sing"
+      "gloss": "nga may"
     },
     {
       "surface": "בם",
@@ -143,21 +143,21 @@
     },
     {
       "surface": "רוח",
-      "gloss": "ginhawa"
+      "gloss": "espiritu"
     },
     {
       "surface": "מפני",
-      "gloss": "sa atubangan"
+      "gloss": "tungod sa"
     },
     {
       "surface": "בני",
-      "gloss": "sang mga anak nga lalaki"
+      "gloss": "mga anak"
     },
     {
       "surface": "ישראל",
       "gloss": "sang Yisrael"
     }
   ],
-  "timestamp": "2026-09-21T17:36:24.859642257Z",
+  "timestamp": "2026-09-25T09:33:30.836102276Z",
   "model": "glm-5.3"
 }

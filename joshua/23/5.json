@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "hil",
   "chapter": 23,
-  "translation": "Kag si Yahweh nga Elohim ninyo, siya ang magatulod sa ila sa atubangan ninyo kag magapaguwa ila sa atubangan ninyo, kag magapabilin kamo sang ila duta, subong sang ginhambal ni Yahweh nga Elohim ninyo sa inyo.",
+  "translation": "Kag si Yahweh nga Elohim ninyo, amo sia ang magatabog sa ila gikan sa atubangan ninyo kag magapaguwa ⟨את⟩ sa ila sa mga mata ninyo, kag pagapanghimuon ninyo ⟨את⟩ ang ila duta, subong sang ginhambal ni Yahweh nga Elohim ninyo sa inyo.",
   "tokens": [
     {
       "surface": "ויהוה",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "הוא",
-      "gloss": "siya"
+      "gloss": "amo sia"
     },
     {
       "surface": "יהדפם",
-      "gloss": "ang magatulod sa ila"
+      "gloss": "ang magatabog sa ila"
     },
     {
       "surface": "מפניכם",
-      "gloss": "sa atubangan ninyo"
+      "gloss": "gikan sa atubangan ninyo"
     },
     {
       "surface": "והוריש",
@@ -34,24 +34,24 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "ila"
+      "marks": "sa ila"
     },
     {
       "surface": "מלפניכם",
-      "gloss": "sa atubangan ninyo"
+      "gloss": "sa mga mata ninyo"
     },
     {
       "surface": "וירשתם",
-      "gloss": "kag magapabilin kamo"
+      "gloss": "kag pagapanghimuon ninyo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang duta sang ila"
+      "marks": "ang ila duta"
     },
     {
       "surface": "ארצם",
-      "gloss": "sang ila duta"
+      "gloss": "ang ila duta"
     },
     {
       "surface": "כאשר",
@@ -74,6 +74,6 @@
       "gloss": "sa inyo"
     }
   ],
-  "timestamp": "2026-09-21T17:44:55.206915307Z",
+  "timestamp": "2026-09-25T09:31:12.354153993Z",
   "model": "glm-5.3"
 }

@@ -1,1 +1,86 @@
-{"tier":"glm-5.2","verse":14,"ref":"genesis 40:14","book":"genesis","lang":"hil","chapter":40,"translation":"Kay kon madumduman mo ako kaupod sa imo sang maayo na ang imo kahimtangan, himoon mo, pangamuyo ko, ang hesed sa akon, kag hisgutan mo ako kay Paro, kag pagwaon mo ako sa sini nga balay.","tokens":[{"surface":"כי","gloss":"kay"},{"surface":"אם","gloss":"kon"},{"surface":"זכרתני","gloss":"madumduman mo ako"},{"surface":"אתך","gloss":"kaupod ⟨את⟩ sa imo"},{"surface":"כאשר","gloss":"sang"},{"surface":"ייטב","gloss":"maayo na"},{"surface":"לך","gloss":"imo kahimtangan"},{"surface":"ועשית","gloss":"himoon mo"},{"surface":"נא","gloss":"pangamuyo ko"},{"surface":"עמדי","gloss":"sa akon"},{"surface":"חסד","gloss":"hesed"},{"surface":"והזכרתני","gloss":"hisgutan mo ako"},{"surface":"אל","gloss":"kay"},{"surface":"פרעה","gloss":"Paro"},{"surface":"והוצאתני","gloss":"pagwaon mo ako"},{"surface":"מן","gloss":"sa"},{"surface":"הבית","gloss":"balay"},{"surface":"הזה","gloss":"sini"}],"timestamp":"2026-09-21T16:14:07.602046505Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 40:14",
+  "book": "genesis",
+  "lang": "hil",
+  "chapter": 40,
+  "translation": "Basta kon dumdumon mo ako ka⟨את⟩ sang mag-ayo ang imo kahimtangan, kag buhaton mo, palihog, ka hesed sa akon, kag hisgutan mo ako kay Paro, kag pagwaon mo ako sa sini nga balay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "basta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "זכרתני",
+      "gloss": "dumdumon mo ako"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "ka⟨את⟩",
+      "marks": "ikaw"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sang"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "mag-ayo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ang imo kahimtangan"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "kag buhaton mo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "palihog"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ka hesed"
+    },
+    {
+      "surface": "והזכרתני",
+      "gloss": "kag hisgutan mo ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "והוציאתני",
+      "gloss": "kag pagwaon mo ako"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sini nga"
+    }
+  ],
+  "timestamp": "2026-09-25T09:16:38.115608662Z",
+  "model": "glm-5.3"
+}

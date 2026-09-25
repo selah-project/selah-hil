@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":21,"ref":"jeremiah 48:21","book":"jeremiah","lang":"hil","chapter":48,"translation":"Kag ang pagpamdos nagaabot sa duta sang Kapatagan — sa Kholon kag sa Yahats, kag <bahin sang> Moab: sa Mofaat.","tokens":[{"surface":"ומשפט","gloss":"kag ang pagpamdos"},{"surface":"בא","gloss":"nagaabot sa"},{"surface":"אל","gloss":"duta"},{"surface":"ארץ","gloss":"sang Kapatagan"},{"surface":"המישר","gloss":"sa"},{"surface":"אל","gloss":"Kholon"},{"surface":"חלון","gloss":"kag sa"},{"surface":"ואל","gloss":"Yahats"},{"surface":"יהצה","gloss":"kag <bahin sang>"},{"surface":"ועל","gloss":"Moab"},{"surface":"מופעת","gloss":"Mofaat"}],"timestamp":"2026-09-21T19:36:26.818407705Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 48:21",
+  "book": "jeremiah",
+  "lang": "hil",
+  "chapter": 48,
+  "translation": "Kag may hudayal nga nagaabot sa duta sang Kapatagan, sa Kholon kag sa Yahatsah, kag sa Mofaath,",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "kag may hudayal"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nagaabot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "duta"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "sang Kapatagan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "Kholon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Yahatsah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kag sa"
+    },
+    {
+      "surface": "מופעת",
+      "gloss": "Mofaath"
+    }
+  ],
+  "timestamp": "2026-09-25T09:27:53.945011759Z",
+  "model": "glm-5.3"
+}

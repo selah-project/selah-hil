@@ -5,24 +5,24 @@
   "book": "2-samuel",
   "lang": "hil",
   "chapter": 13,
-  "translation": "Kag gintawag niya ⟨את⟩ ang iya batang lalaki, ang iya mino, kag nagsiling: Palakat ngani ining babayi gikan sa akon pakadto sa gwa, kag siraha ang pultahan sa iya likud.",
+  "translation": "Kag gintawag niya ⟨את⟩ iya nga batang lalaki, iya nga alalay, kag nagsiling: Palakwa kadi ining ⟨את⟩ ini sa akon pakadto sa gawas, kag isara ang pultahan sa iya liwat.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "gintawag"
+      "gloss": "kag gintawag"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang iya batang lalaki"
+      "marks": "iya nga batang lalaki"
     },
     {
       "surface": "נערו",
-      "gloss": "iya batang lalaki"
+      "gloss": "iya nga batang lalaki"
     },
     {
       "surface": "משרתו",
-      "gloss": "iya mino"
+      "gloss": "iya nga alalay"
     },
     {
       "surface": "ויאמר",
@@ -30,32 +30,32 @@
     },
     {
       "surface": "שלחו",
-      "gloss": "palakat"
+      "gloss": "palakwa"
     },
     {
       "surface": "נא",
-      "gloss": "ngani"
+      "gloss": "kadi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ining babayi"
+      "marks": "ini"
     },
     {
       "surface": "זאת",
-      "gloss": "ining"
+      "gloss": "ini"
     },
     {
       "surface": "מעלי",
-      "gloss": "gikan sa akon"
+      "gloss": "sa akon"
     },
     {
       "surface": "החוצה",
-      "gloss": "sa gwa"
+      "gloss": "pakadto sa gawas"
     },
     {
       "surface": "ונעל",
-      "gloss": "kag siraha"
+      "gloss": "kag isara"
     },
     {
       "surface": "הדלת",
@@ -63,9 +63,9 @@
     },
     {
       "surface": "אחריה",
-      "gloss": "sa iya likud"
+      "gloss": "sa iya liwat"
     }
   ],
-  "timestamp": "2026-09-21T18:18:32.175598359Z",
+  "timestamp": "2026-09-25T08:53:02.237155456Z",
   "model": "glm-5.3"
 }

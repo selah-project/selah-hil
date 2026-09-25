@@ -1,1 +1,94 @@
-{"tier":"glm-5.2","verse":22,"ref":"ezekiel 33:22","book":"ezekiel","lang":"hil","chapter":33,"translation":"Kag ang kamot ni Yahweh nangin sa akon sa kagabhionon, antes mag-abot ang nakaligtas, kag ginbukas niya ⟨את⟩ ang akon baba tubtob sa iya pag-abot sa akon sa kaagahan; kag nabukas ang akon baba, kag wala na ako ginpugong.","tokens":[{"surface":"ויד","gloss":"Kag ang kamot"},{"surface":"יהוה","gloss":"ni Yahweh"},{"surface":"היתה","gloss":"nangin"},{"surface":"אלי","gloss":"sa akon"},{"surface":"בערב","gloss":"sa kagabhionon"},{"surface":"לפני","gloss":"antes"},{"surface":"בוא","gloss":"mag-abot"},{"surface":"הפליט","gloss":"ang nakaligtas"},{"surface":"ויפתח","gloss":"kag ginbukas"},{"surface":"את","gloss":"⟨את⟩","marks":"ang akon baba"},{"surface":"פי","gloss":"ang akon baba"},{"surface":"עד","gloss":"tubtob"},{"surface":"בוא","gloss":"sa pag-abot"},{"surface":"אלי","gloss":"sa akon"},{"surface":"בבקר","gloss":"sa kaagahan"},{"surface":"ויפתח","gloss":"kag nabukas"},{"surface":"פי","gloss":"ang akon baba"},{"surface":"ולא","gloss":""},{"surface":"נאלמתי","gloss":"ako ginpugong"},{"surface":"עוד","gloss":"na"}],"timestamp":"2026-09-21T19:54:33.646470455Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 33:22",
+  "book": "ezekiel",
+  "lang": "hil",
+  "chapter": 33,
+  "translation": "Kag ang kamot ni Yahweh nangin sa akon sa pagkahapon, antes mag-abot ang nakalagi; kag ginbukas ⟨את⟩ ang akon baba tubtob sa iya pag-abot sa akon sa kaagahon; kag nabukas ang akon baba, kag indi na ako nahilum.",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "kag ang kamot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "nangin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "sa pagkahapon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "antes"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "mag-abot"
+    },
+    {
+      "surface": "הפליט",
+      "gloss": "ang nakalagi"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "kag ginbukas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akon baba"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ang akon baba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tubtob"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "pag-abot"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akon"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa kaagahon"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "kag nabukas"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ang akon baba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kag indi"
+    },
+    {
+      "surface": "נאלמתי",
+      "gloss": "ako nahilum"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na pa"
+    }
+  ],
+  "timestamp": "2026-09-25T09:10:40.182710067Z",
+  "model": "glm-5.3"
+}

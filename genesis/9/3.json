@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 9,
-  "translation": "Tanan nga nagakamang nga buhi — para sa inyo <ini> magakabuhi nga pagkaon; subong sang berde nga sagbut, ginhatag ko sa inyo ⟨את⟩ ang tanan.",
+  "translation": "Ang tanan nga nagakalat-kalat nga buhi mahimo ⟨sang⟩ inyo nga pagkaon; subong sa berdeng tanom ginhatag ko sa inyo ⟨את⟩ ang tanan.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "tanan nga"
+      "gloss": "ang tanan"
     },
     {
       "surface": "רמש",
-      "gloss": "nagakamang"
+      "gloss": "nga nagakalat-kalat"
     },
     {
       "surface": "אשר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "ini"
+      "gloss": "⟨siya⟩"
     },
     {
       "surface": "חי",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "לכם",
-      "gloss": "para sa inyo"
+      "gloss": "sa inyo"
     },
     {
       "surface": "יהיה",
-      "gloss": "magakabuhi"
+      "gloss": "mahimo"
     },
     {
       "surface": "לאכלה",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "כירק",
-      "gloss": "subong sang berde"
+      "gloss": "subong sa berdeng"
     },
     {
       "surface": "עשב",
-      "gloss": "sagbut"
+      "gloss": "tanom"
     },
     {
       "surface": "נתתי",
@@ -65,6 +65,6 @@
       "gloss": "ang tanan"
     }
   ],
-  "timestamp": "2026-09-21T15:57:47.388870743Z",
+  "timestamp": "2026-09-25T09:19:08.400963455Z",
   "model": "glm-5.3"
 }

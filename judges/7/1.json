@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "hil",
   "chapter": 7,
-  "translation": "Kag nagbangon sing kadlawon si Yerubbaal — amo siya si Gideon — kag ang tanan nga katawhan nga ara ⟨sa iya⟩, kag nagkampo sila sa tubod sang Charod; kag ang kampo sang Midyan ⟨ara⟩ sa amihananan niya, sa bungtod sang More, sa kapatagan.",
+  "translation": "Nagsikadlaw si Yerubbaal — siya amo si Gidon — kag ang tanan nga katawhan nga upod ⟨אתו⟩ sa iya, kag nagkampo sila sa dayon sang Ein Harod; kag ang kampo sang Midyan ⟨ara⟩ sa iya sa amihanan, sa bakilid sang More, sa kapatagan.",
   "tokens": [
     {
       "surface": "וישכם",
-      "gloss": "nagbangon kadlawon"
+      "gloss": "Nagsikadlaw"
     },
     {
       "surface": "ירבעל",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "amo siya"
+      "gloss": "siya amo"
     },
     {
       "surface": "גדעון",
-      "gloss": "si Gideon"
+      "gloss": "si Gidon"
     },
     {
       "surface": "וכל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "katawhan"
+      "gloss": "nga katawhan"
     },
     {
       "surface": "אשר",
@@ -37,8 +37,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ sa iya",
-      "marks": "si Gideon"
+      "gloss": "⟨אתו⟩",
+      "marks": "sa iya"
     },
     {
       "surface": "ויחנו",
@@ -46,15 +46,15 @@
     },
     {
       "surface": "על",
-      "gloss": "sa"
+      "gloss": "sa dayon"
     },
     {
       "surface": "עין",
-      "gloss": "tubod"
+      "gloss": "sang Ein"
     },
     {
       "surface": "חרד",
-      "gloss": "sang Charod"
+      "gloss": "Harod"
     },
     {
       "surface": "ומחנה",
@@ -66,19 +66,19 @@
     },
     {
       "surface": "היה",
-      "gloss": "ara"
+      "gloss": "⟨ara⟩"
     },
     {
       "surface": "לו",
-      "gloss": "niya"
+      "gloss": "sa iya"
     },
     {
       "surface": "מצפון",
-      "gloss": "sa amihananan"
+      "gloss": "sa amihanan"
     },
     {
       "surface": "מגבעת",
-      "gloss": "sang bungtod"
+      "gloss": "sa bakilid"
     },
     {
       "surface": "המורה",
@@ -89,6 +89,6 @@
       "gloss": "sa kapatagan"
     }
   ],
-  "timestamp": "2026-09-21T17:49:08.509192882Z",
+  "timestamp": "2026-09-25T09:35:10.003783797Z",
   "model": "glm-5.3"
 }

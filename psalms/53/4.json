@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "hil",
   "chapter": 53,
-  "translation": "Ang tanan nagbalik ⟨sa likod⟩, magkahipon sila nangin malaw-ay; wala sing nagabuhat sang maayo, wala, bisan gani isa.",
+  "translation": "Ang tanan natalikod, magkahipos nagkamaal, wala sing gapahamutad sang maayo, wala gani bisan isa.",
   "tokens": [
     {
       "surface": "כלו",
@@ -13,23 +13,23 @@
     },
     {
       "surface": "סג",
-      "gloss": "nagbalik"
+      "gloss": "natalikod"
     },
     {
       "surface": "יחדו",
-      "gloss": "magkahipon"
+      "gloss": "magkahipos"
     },
     {
       "surface": "נאלחו",
-      "gloss": "nangin malaw-ay"
+      "gloss": "nagkamaal"
     },
     {
       "surface": "אין",
-      "gloss": "wala"
+      "gloss": "wala sing"
     },
     {
       "surface": "עשה",
-      "gloss": "nagabuhat"
+      "gloss": "gapahamutad"
     },
     {
       "surface": "טוב",
@@ -41,13 +41,13 @@
     },
     {
       "surface": "גם",
-      "gloss": "bisan gani"
+      "gloss": "gani"
     },
     {
       "surface": "אחד",
-      "gloss": "isa"
+      "gloss": "bisan isa"
     }
   ],
-  "timestamp": "2026-09-21T20:34:38.555138953Z",
+  "timestamp": "2026-09-25T09:49:21.615263243Z",
   "model": "glm-5.3"
 }

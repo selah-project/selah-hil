@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "hil",
   "chapter": 27,
-  "translation": "sa Bavel nga dal-on sila, kag didto magapabilin sila tubtob sa adlaw sang akon pagpanawag sa ila, giila ni Yahweh; kag ihatod ko sila kag ibalik ko sila sa sini nga duog.'",
+  "translation": "Sa Bavel sila pagadad-on, kag didto sila magapabilin tubtub sa adlaw nga pagapanawagan ko ⟨את⟩ sa ila, amo ang ginhambal ni Yahweh; kag pagabaw-on ko sila kag pagapabalikon ko sila sa sina nga duog.",
   "tokens": [
     {
       "surface": "בבלה",
-      "gloss": "sa Bavel"
+      "gloss": "Sa Bavel"
     },
     {
       "surface": "יובאו",
-      "gloss": "nga dal-on sila"
+      "gloss": "pagadad-on"
     },
     {
       "surface": "ושמה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "יהיו",
-      "gloss": "magapabilin sila"
+      "gloss": "magapabilin"
     },
     {
       "surface": "עד",
-      "gloss": "tubtob"
+      "gloss": "tubtub"
     },
     {
       "surface": "יום",
@@ -33,15 +33,16 @@
     },
     {
       "surface": "פקדי",
-      "gloss": "akon pagpanawag"
+      "gloss": "pagapanawagan ko"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ sila"
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang mga sudlon)"
     },
     {
       "surface": "נאם",
-      "gloss": "giila"
+      "gloss": "amo ang ginhambal"
     },
     {
       "surface": "יהוה",
@@ -49,11 +50,11 @@
     },
     {
       "surface": "והעליתים",
-      "gloss": "kag ihatod ko sila"
+      "gloss": "kag pagabaw-on ko sila"
     },
     {
       "surface": "והשיבתים",
-      "gloss": "kag ibalik ko sila"
+      "gloss": "kag pagapabalikon ko sila"
     },
     {
       "surface": "אל",
@@ -65,9 +66,9 @@
     },
     {
       "surface": "הזה",
-      "gloss": "sini nga"
+      "gloss": "sina"
     }
   ],
-  "timestamp": "2026-09-21T19:27:26.607695272Z",
+  "timestamp": "2026-09-25T09:26:01.161357061Z",
   "model": "glm-5.3"
 }

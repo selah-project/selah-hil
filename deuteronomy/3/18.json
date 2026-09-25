@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 3,
-  "translation": "Kag ginsogo ko kamo sa ina nga tion, nga nagasiling: si Yahweh nga inyo Elohim naghatag sa inyo ⟨את⟩ ining duta agod ninyo solton; maglaban kamo nga mga armado sa atubangan sang inyo mga utod, nga mga anak sang Yisrael, tanan nga mga anak sang kusog.",
+  "translation": "Kag nagligad ako sa kamo sang manta nga tion, nga nagaingon: Ginhaton sang Yahweh nga Elohim ninyo sa inyo ⟨את⟩ ang duta nga ini agod ninyo iya pag-angkon; magatabok kamo nga mga andam sa pag-away-atubang sang inyo mga utod, nga mga anak sang Yisrael, tanan nga mga anak sang kusog.",
   "tokens": [
     {
       "surface": "ואצו",
-      "gloss": "kag ginsogo ko"
+      "gloss": "nagligad ako sa"
     },
     {
       "surface": "אתכם",
@@ -17,27 +17,27 @@
     },
     {
       "surface": "בעת",
-      "gloss": "sa tion"
+      "gloss": "sang manta nga tion"
     },
     {
       "surface": "ההוא",
-      "gloss": "ina nga"
+      "gloss": "nga"
     },
     {
       "surface": "לאמר",
-      "gloss": "nga nagasiling"
+      "gloss": "nga nagaingon"
     },
     {
       "surface": "יהוה",
-      "gloss": "si Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אלהיכם",
-      "gloss": "inyo Elohim"
+      "gloss": "nga Elohim ninyo"
     },
     {
       "surface": "נתן",
-      "gloss": "naghatag"
+      "gloss": "ginhaton"
     },
     {
       "surface": "לכם",
@@ -46,7 +46,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang duta"
+      "marks": "ang duta nga ini"
     },
     {
       "surface": "הארץ",
@@ -54,27 +54,27 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "ini"
+      "gloss": "nga ini"
     },
     {
       "surface": "לרשתה",
-      "gloss": "agod ninyo solton"
+      "gloss": "agod ninyo iya pag-angkon"
     },
     {
       "surface": "חלוצים",
-      "gloss": "nga mga armado"
+      "gloss": "nga mga andam sa pag-away"
     },
     {
       "surface": "תעברו",
-      "gloss": "maglaban kamo"
+      "gloss": "magatabok kamo"
     },
     {
       "surface": "לפני",
-      "gloss": "sa atubangan"
+      "gloss": "atubang sang"
     },
     {
       "surface": "אחיכם",
-      "gloss": "sang inyo mga utod"
+      "gloss": "inyo mga utod"
     },
     {
       "surface": "בני",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "sang Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "כל",
@@ -90,13 +90,13 @@
     },
     {
       "surface": "בני",
-      "gloss": "nga mga anak"
+      "gloss": "mga anak"
     },
     {
       "surface": "חיל",
-      "gloss": "sang kusog"
+      "gloss": "kusog"
     }
   ],
-  "timestamp": "2026-09-21T17:18:19.770833498Z",
+  "timestamp": "2026-09-25T08:58:15.770702677Z",
   "model": "glm-5.3"
 }

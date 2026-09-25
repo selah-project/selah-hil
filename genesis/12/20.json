@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 12,
-  "translation": "Kag nagtuga si Paro sang mga tawo parte sa iya, kag ginpapadalon nila siya kag ⟨את⟩ ang iya asawa kag ⟨את⟩ ang tanan nga iya ginatag-iya.",
+  "translation": "Kag nagmandar si Paro sang ⟨mga⟩ tawo tungod sa iya, kag ginpaini nila ⟨את⟩ siya kag ⟨את⟩ ang iya asawa kag ⟨את⟩ ang tanan nga iya.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "nagtuga"
+      "gloss": "nagmandar"
     },
     {
       "surface": "עליו",
-      "gloss": "parte sa iya"
+      "gloss": "tungod sa iya"
     },
     {
       "surface": "פרעה",
@@ -21,16 +21,16 @@
     },
     {
       "surface": "אנשים",
-      "gloss": "sang mga tawo"
+      "gloss": "⟨mga⟩ tawo"
     },
     {
       "surface": "וישלחו",
-      "gloss": "ginpapadalon nila"
+      "gloss": "ginpaini nila"
     },
     {
       "surface": "אתו",
-      "gloss": "siya ⟨את⟩",
-      "marks": "siya (si Avram)"
+      "gloss": "⟨את⟩",
+      "marks": "siya"
     },
     {
       "surface": "ואת",
@@ -39,12 +39,12 @@
     },
     {
       "surface": "אשתו",
-      "gloss": "iya asawa"
+      "gloss": "ang iya asawa"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang tanan"
+      "marks": "ang tanan nga iya"
     },
     {
       "surface": "כל",
@@ -56,9 +56,9 @@
     },
     {
       "surface": "לו",
-      "gloss": "iya ginatag-iya"
+      "gloss": "iya"
     }
   ],
-  "timestamp": "2026-09-21T15:59:15.989990149Z",
+  "timestamp": "2026-09-25T09:14:05.255802778Z",
   "model": "glm-5.3"
 }

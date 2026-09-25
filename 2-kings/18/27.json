@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "hil",
   "chapter": 18,
-  "translation": "Kag nagsiling ang Rabshakeh sa ila: Agod bala sang imo agalon kag sa imo ginsugo ako nga adi, sang akon agalon, sa paghambal sang mga pulong nga ina? Indi bala sa mga tawo nga nagapungko sa pader — nga magakaon ⟨את⟩ sang ila tae kag magainum ⟨את⟩ sang ila ihi kaupod ninyo?",
+  "translation": "Kag nagsiling si Ravshakeh sa ila: Ang imo agalon kag ikaw bala ang ginpadalan sang akon agalon sa pagsining sang ⟨את⟩ mga pulong nga ina? Wala bala siya ginpadala sa mga tawo nga nagapungko sa paril — sa pagkaon sang ⟨את⟩ ila tae kag pag-inum sang ⟨את⟩ ila ihi kaupod ninyo?",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "רב",
-      "gloss": "ang Rab-"
+      "gloss": "si Rav-"
     },
     {
       "surface": "שקה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "העל",
-      "gloss": "agod bala"
+      "gloss": "bala ang"
     },
     {
       "surface": "אדניך",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "ואליך",
-      "gloss": "kag sa imo"
+      "gloss": "kag ikaw"
     },
     {
       "surface": "שלחני",
-      "gloss": "ginsugo ako"
+      "gloss": "ginpadalan sang akon agalon ako"
     },
     {
       "surface": "אדני",
-      "gloss": "sang akon agalon"
+      "gloss": "akon agalon"
     },
     {
       "surface": "לדבר",
-      "gloss": "sa paghambal"
+      "gloss": "sa pagsining"
     },
     {
       "surface": "את",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "הלא",
-      "gloss": "indi bala"
+      "gloss": "wala bala"
     },
     {
       "surface": "על",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "הישבים",
-      "gloss": "nagapungko"
+      "gloss": "nga nagapungko"
     },
     {
       "surface": "על",
@@ -82,11 +82,11 @@
     },
     {
       "surface": "החמה",
-      "gloss": "pader"
+      "gloss": "paril"
     },
     {
       "surface": "לאכל",
-      "gloss": "magakaon"
+      "gloss": "sa pagkaon"
     },
     {
       "surface": "את",
@@ -99,7 +99,7 @@
     },
     {
       "surface": "ולשתות",
-      "gloss": "kag magainum"
+      "gloss": "kag pag-inum"
     },
     {
       "surface": "את",
@@ -115,6 +115,6 @@
       "gloss": "kaupod ninyo"
     }
   ],
-  "timestamp": "2026-09-21T18:47:48.256389671Z",
+  "timestamp": "2026-09-25T08:48:33.336068348Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "hil",
   "chapter": 17,
-  "translation": "Kag bisan ang anak sang kusog nga iya tagipusuon pareho sang tagipusuon sang leon, matunaw gid nga magatunaw, kay kabalo ang tanan nga Yisrael nga kusgan ang imo amay kag mga anak sang kusog ⟨ang mga kaabay⟩ ⟨ka iya⟩.",
+  "translation": "Kag bisan siya nga anak sang kusog, nga ang iya tagipusuon amo sang tagipusuon sang leon, magakaluya gid; kay nahibalo ang tanan nga Yisrael nga kusgan ang imo amay kag mga anak sang kusog ⟨את⟩ ang mga kaupod niya.",
   "tokens": [
     {
       "surface": "והוא",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "לבו",
-      "gloss": "iya tagipusuon"
+      "gloss": "ang iya tagipusuon"
     },
     {
       "surface": "כלב",
-      "gloss": "pareho sang tagipusuon"
+      "gloss": "tagipusuon"
     },
     {
       "surface": "האריה",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "המס",
-      "gloss": "matunaw gid"
+      "gloss": "magakaluya gid"
     },
     {
       "surface": "ימס",
-      "gloss": "magatunaw"
+      "gloss": "magakaluya"
     },
     {
       "surface": "כי",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ידע",
-      "gloss": "kabalo"
+      "gloss": "nahibalo"
     },
     {
       "surface": "כל",
@@ -89,10 +89,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "ka iya (ang mga kaabay)"
+      "gloss": "⟨את⟩ ang mga kaupod niya",
+      "marks": "ang mga kaupod niya"
     }
   ],
-  "timestamp": "2026-09-21T18:20:09.767607213Z",
+  "timestamp": "2026-09-25T08:52:03.526116264Z",
   "model": "glm-5.3"
 }

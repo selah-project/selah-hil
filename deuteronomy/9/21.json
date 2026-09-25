@@ -5,16 +5,16 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 9,
-  "translation": "Kag ⟨את⟩ ang inyo sala nga ginbuhat ninyo — ⟨את⟩ ang uso — ginkuha ko, kag ginsunog ko ini sa kalayo, kag gintukar ko ini, ginpanggaling nga husto tubtob nga nagdudo kag lupok, kag ginalag ko ⟨את⟩ ang iya abo sa sapa nga nagasulog gikan sa bukid.",
+  "translation": "Kag ⟨את⟩ ang inyo nga sala nga gingimo ninyo — ⟨את⟩ ang nobeno — ginkuha ko, kag ginsunog ko ⟨את⟩ ini sa kalayo, kag gintadtad ko ⟨את⟩ ini ginpanggaling sing humpit, tubtob nga nagunit kag nangin abo, kag gintabog ko ⟨את⟩ ang iya abo sa sapa nga nagadulhog gikan sa bukid.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang inyo sala"
+      "marks": "ang inyo nga sala"
     },
     {
       "surface": "חטאתכם",
-      "gloss": "ang inyo sala"
+      "gloss": "ang inyo nga sala"
     },
     {
       "surface": "אשר",
@@ -22,16 +22,16 @@
     },
     {
       "surface": "עשיתם",
-      "gloss": "ginbuhat ninyo"
+      "gloss": "gingimo ninyo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang uso"
+      "marks": "ang nobeno"
     },
     {
       "surface": "העגל",
-      "gloss": "ang uso"
+      "gloss": "ang nobeno"
     },
     {
       "surface": "לקחתי",
@@ -44,7 +44,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ini (ang uso)"
+      "marks": "ini sa kalayo"
     },
     {
       "surface": "באש",
@@ -52,12 +52,12 @@
     },
     {
       "surface": "ואכת",
-      "gloss": "kag gintukar ko"
+      "gloss": "kag gintadtad ko"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ini (ang uso)"
+      "marks": "ini ginpanggaling"
     },
     {
       "surface": "טחון",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "היטב",
-      "gloss": "nga husto"
+      "gloss": "sing humpit"
     },
     {
       "surface": "עד",
-      "gloss": "tubtob"
+      "gloss": "tubtob nga"
     },
     {
       "surface": "אשר",
@@ -77,15 +77,15 @@
     },
     {
       "surface": "דק",
-      "gloss": "nagdudo"
+      "gloss": "nagunit"
     },
     {
       "surface": "לעפר",
-      "gloss": "kag lupok"
+      "gloss": "kag nangin abo"
     },
     {
       "surface": "ואשלך",
-      "gloss": "kag ginalag ko"
+      "gloss": "kag gintabog ko"
     },
     {
       "surface": "את",
@@ -106,17 +106,17 @@
     },
     {
       "surface": "הירד",
-      "gloss": "nga nagasulog"
+      "gloss": "nga nagadulhog"
     },
     {
       "surface": "מן",
-      "gloss": "gikan"
+      "gloss": "gikan sa"
     },
     {
       "surface": "ההר",
-      "gloss": "sa bukid"
+      "gloss": "bukid"
     }
   ],
-  "timestamp": "2026-09-21T17:21:20.065498669Z",
+  "timestamp": "2026-09-25T09:00:21.891546553Z",
   "model": "glm-5.3"
 }

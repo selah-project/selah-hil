@@ -1,1 +1,137 @@
-{"tier":"glm-5.2","verse":14,"ref":"1-kings 7:14","book":"1-kings","lang":"hil","chapter":7,"translation":"Anak siya sang isa ka babae nga balo sa tribo sang Naftali, kag ang iya amay isa ka tawo nga taga-Tsor, manugluto sang tumbaga; kag napuno siya sang kaalam kag ⟨את⟩ sang pagsabat kag ⟨את⟩ sang kahibalo sa paghimo sang tanan nga buluhaton sa tumbaga; kag nagkadto siya kay hari Shelomoh kag ginhimo niya ⟨את⟩ ang tanan nga iya buluhaton.","tokens":[{"surface":"בן","gloss":"anak"},{"surface":"אשה","gloss":"babae"},{"surface":"אלמנה","gloss":"balo"},{"surface":"הוא","gloss":"siya"},{"surface":"ממטה","gloss":"sa tribo"},{"surface":"נפתלי","gloss":"Naftali"},{"surface":"ואביו","gloss":"kag ang iya amay"},{"surface":"איש","gloss":"tawo"},{"surface":"צרי","gloss":"taga-Tsor"},{"surface":"חרש","gloss":"manugluto"},{"surface":"נחשת","gloss":"tumbaga"},{"surface":"וימלא","gloss":"kag napuno"},{"surface":"את","gloss":"⟨את⟩","marks":"kaalam"},{"surface":"החכמה","gloss":"kaalam"},{"surface":"ואת","gloss":"kag ⟨את⟩","marks":"pagsabat"},{"surface":"התבונה","gloss":"pagsabat"},{"surface":"ואת","gloss":"kag ⟨את⟩","marks":"kahibalo"},{"surface":"הדעת","gloss":"kahibalo"},{"surface":"לעשות","gloss":"sa paghimo"},{"surface":"כל","gloss":"tanan"},{"surface":"מלאכה","gloss":"buluhaton"},{"surface":"בנחשת","gloss":"sa tumbaga"},{"surface":"ויבוא","gloss":"kag nagkadto"},{"surface":"אל","gloss":"kay"},{"surface":"המלך","gloss":"hari"},{"surface":"שלמה","gloss":"Shelomoh"},{"surface":"ויעש","gloss":"kag ginhimo"},{"surface":"את","gloss":"⟨את⟩","marks":"tanan"},{"surface":"כל","gloss":"tanan"},{"surface":"מלאכתו","gloss":"iya buluhaton"}],"timestamp":"2026-09-21T18:28:59.531063445Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 7:14",
+  "book": "1-kings",
+  "lang": "hil",
+  "chapter": 7,
+  "translation": "Anak sang isa ka babayi nga balo siya, sa tribo sang Naftali, kag ang iya amay isa ka tawo sang Tsor, manughamis sang tumbaga; kag napuno siya sang ⟨את⟩ ang kaalam kag ⟨את⟩ ang pag-intiendi kag ⟨את⟩ ang kahibalo sa paghimo sang tanan nga buluhaton sa tumbaga; kag nagpalapit siya kay Haring Shelomoh kag ginhimo niya ⟨את⟩ ang tanan niya nga buluhaton.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Anak"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sang babayi"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "nga balo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "sa tribo"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "sang Naftali"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "kag ang iya amay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "sang Tsor"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "manughamis"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "sang tumbaga"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "kag napuno siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kaalam"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "ang kaalam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang pag-intiendi"
+    },
+    {
+      "surface": "התבונה",
+      "gloss": "ang pag-intiendi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang kahibalo"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "ang kahibalo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa paghimo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sang tanan"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "nga buluhaton"
+    },
+    {
+      "surface": "בנחשת",
+      "gloss": "sa tumbaga"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "kag nagpalapit siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang Hari"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "kag ginhimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "niya nga buluhaton"
+    }
+  ],
+  "timestamp": "2026-09-25T08:42:07.800330349Z",
+  "model": "glm-5.3"
+}

@@ -5,21 +5,21 @@
   "book": "numbers",
   "lang": "hil",
   "chapter": 4,
-  "translation": "Kag isulod nila ini kag ⟨את⟩ tanan nga iya mga kagamitan sa sulod sang isa ka tabtab sang panit sang takash, kag ibutang nila ini sa badbaran.",
+  "translation": "Kag ibutang nila ⟨את⟩ ini kag ⟨את⟩ tanan nga iya mga galamiton sa tabon nga panit sang tahash, kag ibutang nila ini sa ang baras nga pagdara.",
   "tokens": [
     {
       "surface": "ונתנו",
-      "gloss": "kag isulod nila"
+      "gloss": "kag ibutang nila"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ ini",
-      "marks": "ini (ang kandelabro)"
+      "gloss": "⟨את⟩",
+      "marks": "ini"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "tanan nga iya mga kagamitan"
+      "marks": "tanan nga iya mga galamiton"
     },
     {
       "surface": "כל",
@@ -27,15 +27,15 @@
     },
     {
       "surface": "כליה",
-      "gloss": "iya mga kagamitan"
+      "gloss": "iya mga galamiton"
     },
     {
       "surface": "אל",
-      "gloss": "sa sulod sang"
+      "gloss": "sa"
     },
     {
       "surface": "מכסה",
-      "gloss": "tabtab"
+      "gloss": "tabon"
     },
     {
       "surface": "עור",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "תחש",
-      "gloss": "takash"
+      "gloss": "tahash"
     },
     {
       "surface": "ונתנו",
@@ -55,9 +55,9 @@
     },
     {
       "surface": "המוט",
-      "gloss": "badbaran"
+      "gloss": "ang baras nga pagdara"
     }
   ],
-  "timestamp": "2026-09-21T16:59:44.170874376Z",
+  "timestamp": "2026-09-25T09:46:23.561939719Z",
   "model": "glm-5.3"
 }

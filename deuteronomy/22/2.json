@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 22,
-  "translation": "Kag kon indi duol sa imo ang imo utod kag indi mo siya kilalahon, dad-a mo siya sa sulod sang imo balay, kag magapabilin siya kaupod sa imo tubtob sa pagpangita sang imo utod ⟨sa iya⟩, kag ibalik mo siya sa iya.",
+  "translation": "Kag kon indi duol sa imo ang imo utod, kag wala mo siya makilala, ddon-a mo siya sa sulod sang imo balay, kag magaambit siya sa imo hasta pangitaon sang imo utod ⟨את⟩ siya, kag isauli mo siya sa iya.",
   "tokens": [
     {
       "surface": "ואם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אחיך",
-      "gloss": "imo utod"
+      "gloss": "ang imo utod"
     },
     {
       "surface": "אליך",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "ולא",
-      "gloss": "kag indi"
+      "gloss": "kag wala"
     },
     {
       "surface": "ידעתו",
-      "gloss": "mo siya kilalahon"
+      "gloss": "mo siya makilala"
     },
     {
       "surface": "ואספתו",
-      "gloss": "kag dad-a mo siya"
+      "gloss": "ddon-a mo siya"
     },
     {
       "surface": "אל",
@@ -53,38 +53,38 @@
     },
     {
       "surface": "והיה",
-      "gloss": "kag magapabilin"
+      "gloss": "kag magaambit siya"
     },
     {
       "surface": "עמך",
-      "gloss": "kaupod sa imo"
+      "gloss": "sa imo"
     },
     {
       "surface": "עד",
-      "gloss": "tubtob"
+      "gloss": "hasta"
     },
     {
       "surface": "דרש",
-      "gloss": "sa pagpangita"
+      "gloss": "pangitaon"
     },
     {
       "surface": "אחיך",
-      "gloss": "imo utod"
+      "gloss": "sang imo utod"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "siya (ang butang nga ginapangita)"
+      "gloss": "⟨את⟩",
+      "marks": "siya (ang butang nga pangitaon kag isauli)"
     },
     {
       "surface": "והשבתו",
-      "gloss": "kag ibalik mo siya"
+      "gloss": "kag isauli mo siya"
     },
     {
       "surface": "לו",
       "gloss": "sa iya"
     }
   ],
-  "timestamp": "2026-09-21T17:27:31.737449499Z",
+  "timestamp": "2026-09-25T08:56:58.941368946Z",
   "model": "glm-5.3"
 }

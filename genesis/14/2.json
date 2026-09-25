@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 14,
-  "translation": "Naghimo sila sang gubat ⟨batok⟩ ⟨kay⟩ בֶּרַע ⟨את⟩ Berea nga hari sang Sedom kag ⟨kay⟩ ⟨את⟩ Birsha nga hari sang Amorah, Shinab nga hari sang Admah, kag Shemever nga hari sang Tsevoyim, kag ang hari sang Bela — amo ini ang Tsoar.",
+  "translation": "Naghimo sang gubat ⟨kay⟩ Bera nga hari sang Sedom ⟨את⟩ kag ⟨kay⟩ Birsha nga hari sang Amorah, Shinab nga hari sang Admah, kag Shemaver nga hari sang Tsevoim, kag ang hari sang Bela — ina amo ang Tsoar.",
   "tokens": [
     {
       "surface": "עשו",
-      "gloss": "naghimo sila"
+      "gloss": "naghimo"
     },
     {
       "surface": "מלחמה",
@@ -17,24 +17,24 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "Berea"
+      "gloss": "⟨את⟩ ⟨kay⟩",
+      "marks": "Bera"
     },
     {
       "surface": "ברע",
-      "gloss": "Berea"
+      "gloss": "Bera"
     },
     {
       "surface": "מלך",
-      "gloss": "nga hari"
+      "gloss": "hari"
     },
     {
       "surface": "סדם",
-      "gloss": "sang Sedom"
+      "gloss": "Sedom"
     },
     {
       "surface": "ואת",
-      "gloss": "kag ⟨את⟩",
+      "gloss": "⟨את⟩ kag ⟨kay⟩",
       "marks": "Birsha"
     },
     {
@@ -43,11 +43,11 @@
     },
     {
       "surface": "מלך",
-      "gloss": "nga hari"
+      "gloss": "hari"
     },
     {
       "surface": "עמרה",
-      "gloss": "sang Amorah"
+      "gloss": "Amorah"
     },
     {
       "surface": "שנאב",
@@ -55,23 +55,23 @@
     },
     {
       "surface": "מלך",
-      "gloss": "nga hari"
+      "gloss": "hari"
     },
     {
       "surface": "אדמה",
-      "gloss": "sang Admah"
+      "gloss": "Admah"
     },
     {
       "surface": "ושמאבר",
-      "gloss": "kag Shemever"
+      "gloss": "kag Shemaver"
     },
     {
       "surface": "מלך",
-      "gloss": "nga hari"
+      "gloss": "hari"
     },
     {
       "surface": "צביים",
-      "gloss": "sang Tsevoyim"
+      "gloss": "Tsevoim"
     },
     {
       "surface": "ומלך",
@@ -83,13 +83,13 @@
     },
     {
       "surface": "היא",
-      "gloss": "amo ini"
+      "gloss": "ina"
     },
     {
       "surface": "צער",
       "gloss": "ang Tsoar"
     }
   ],
-  "timestamp": "2026-09-21T15:59:49.675651401Z",
+  "timestamp": "2026-09-25T09:15:02.533610985Z",
   "model": "glm-5.3"
 }

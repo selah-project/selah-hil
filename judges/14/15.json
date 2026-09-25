@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "hil",
   "chapter": 14,
-  "translation": "Kag natabo sa ikapito nga adlaw, kag nagsiling sila sa asawa ni Shimshon: Paila-a ang imo bana, agor ihambal niya ⟨את⟩ ang palaisipan sa amon, balaunon ta sa kalayo ⟨את⟩ ikaw kag ⟨את⟩ ang balay sang imo amay. Sa pagparigu-on bala kami gindumog ninyo kami? Wala bala?",
+  "translation": "Kag natabo sa ikapito nga adlaw, nagsiling sila sa asawa ni Shimshon: Pahuya ang ⟨את⟩ imo bana, agod ipahibalo niya sa amon ⟨את⟩ ang tulontolon, basanon namon pagsunog ⟨את⟩ ikaw kag ⟨את⟩ ang balay sang imo amay sa kalayo. Sa pagpobre sa amon bala gintawag ninyo kami? Indi bala?",
   "tokens": [
     {
       "surface": "ויהי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "kag nagsiling sila"
+      "gloss": "kag nagsiling"
     },
     {
       "surface": "לאשת",
@@ -33,20 +33,20 @@
     },
     {
       "surface": "פתי",
-      "gloss": "paila-a"
+      "gloss": "pahuya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang imo bana"
+      "marks": "imo bana"
     },
     {
       "surface": "אישך",
-      "gloss": "ang imo bana"
+      "gloss": "imo bana"
     },
     {
       "surface": "ויגד",
-      "gloss": "agor ihambal niya"
+      "gloss": "agod ipahibalo"
     },
     {
       "surface": "לנו",
@@ -55,37 +55,36 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang palaisipan"
+      "marks": "ang tulontolon"
     },
     {
       "surface": "החידה",
-      "gloss": "ang palaisipan"
+      "gloss": "ang tulontolon"
     },
     {
       "surface": "פן",
-      "gloss": "bala"
+      "gloss": "basanon"
     },
     {
       "surface": "נשרף",
-      "gloss": "pagasunugon ta"
+      "gloss": "pagsunog"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ ikaw",
-      "marks": "ikaw"
+      "gloss": "⟨את⟩ ikaw"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang balay sang imo amay"
+      "marks": "ang balay"
     },
     {
       "surface": "בית",
-      "gloss": "balay"
+      "gloss": "ang balay"
     },
     {
       "surface": "אביך",
-      "gloss": "sang imo amay"
+      "gloss": "imo amay"
     },
     {
       "surface": "באש",
@@ -93,11 +92,11 @@
     },
     {
       "surface": "הלירשנו",
-      "gloss": "sa pagparigu-on kami"
+      "gloss": "sa pagpobre sa amon"
     },
     {
       "surface": "קראתם",
-      "gloss": "gindumog ninyo"
+      "gloss": "gintawag ninyo"
     },
     {
       "surface": "לנו",
@@ -105,9 +104,9 @@
     },
     {
       "surface": "הלא",
-      "gloss": "wala bala"
+      "gloss": "indi bala"
     }
   ],
-  "timestamp": "2026-09-21T17:53:31.737840310Z",
+  "timestamp": "2026-09-25T09:36:57.155031950Z",
   "model": "glm-5.3"
 }

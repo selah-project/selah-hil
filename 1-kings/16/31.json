@@ -5,19 +5,19 @@
   "book": "1-kings",
   "lang": "hil",
   "chapter": 16,
-  "translation": "Kag nangin ⟨nga⟩ wala itoy mabakod sa iya ang paglakat sa mga sala ni Yarovam nga anak ni Nevat, kag nagkuha siya sing asawa ⟨את⟩ si Izevel nga anak ni Etbaal nga hari sang mga Sidonnon, kag naglakat kag nag-alagad ⟨את⟩ sa Baal kag nagtindog sa paga-atubang <saiya>.",
+  "translation": "Kag nagkahimo nga ⟨tingali⟩ gamay lamang ang iya paglakat sa mga sala ni Yaravam nga anak ni Nevat, kag nagkuha siya sang asawa — ⟨את⟩ si Izebel, anak ni Etvaal, hari sang mga Tsidonnon — kag naglakat siya kag nag-alagad ⟨את⟩ kang haBaal, kag nagluhod siya sa iya.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "kag nangin"
+      "gloss": "kag nagkahimo"
     },
     {
       "surface": "הנקל",
-      "gloss": "wala itoy mabakod"
+      "gloss": "gamay lamang"
     },
     {
       "surface": "לכתו",
-      "gloss": "ang paglakat niya"
+      "gloss": "ang iya paglakat"
     },
     {
       "surface": "בחטאות",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ירבעם",
-      "gloss": "ni Yarovam"
+      "gloss": "ni Yaravam"
     },
     {
       "surface": "בן",
@@ -41,16 +41,16 @@
     },
     {
       "surface": "אשה",
-      "gloss": "sing asawa"
+      "gloss": "sang asawa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "si Izevel"
+      "marks": "si Izebel"
     },
     {
       "surface": "איזבל",
-      "gloss": "si Izevel"
+      "gloss": "Izebel"
     },
     {
       "surface": "בת",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "אתבעל",
-      "gloss": "ni Etbaal"
+      "gloss": "ni Etvaal"
     },
     {
       "surface": "מלך",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "צידנים",
-      "gloss": "sang mga Sidonnon"
+      "gloss": "sang mga Tsidonnon"
     },
     {
       "surface": "וילך",
@@ -79,21 +79,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sa Baal"
+      "marks": "kang haBaal"
     },
     {
       "surface": "הבעל",
-      "gloss": "sa Baal"
+      "gloss": "haBaal"
     },
     {
       "surface": "וישתחו",
-      "gloss": "kag nagtindog sa paga-atubang"
+      "gloss": "kag nagluhod"
     },
     {
       "surface": "לו",
-      "gloss": "saiya"
+      "gloss": "sa iya"
     }
   ],
-  "timestamp": "2026-09-21T18:35:03.228163618Z",
+  "timestamp": "2026-09-25T08:40:03.789874723Z",
   "model": "glm-5.3"
 }

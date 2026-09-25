@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 30,
-  "translation": "Kag pagatulihi-on ni Yahweh nga imo Elohim ⟨את⟩ imo kasingkasing kag ⟨את⟩ ang kasingkasing sang imo kaliwat, sa paghigugma ⟨kang⟩ Yahweh nga imo Elohim sang tanan mong kasingkasing kag sang tanan mong kabuhi, agod mabuhi ka.",
+  "translation": "Kag tuktukon sang Yahweh nga Elohim mo ⟨את⟩ ang imo tagipusuon kag ⟨את⟩ ang tagipusuon sang imo kaliwat, agod higugmaon mo ⟨את⟩ si Yahweh nga Elohim mo sang tanan mo nga tagipusuon kag sang tanan mo nga kalag, agod mabuhi ka.",
   "tokens": [
     {
       "surface": "ומל",
-      "gloss": "kag pagatulihi-on"
+      "gloss": "Kag tuktukon"
     },
     {
       "surface": "יהוה",
@@ -17,46 +17,46 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "imo Elohim"
+      "gloss": "nga Elohim mo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "imo kasingkasing"
+      "marks": "ang imo tagipusuon"
     },
     {
       "surface": "לבבך",
-      "gloss": "imo kasingkasing"
+      "gloss": "ang imo tagipusuon"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang kasingkasing sang imo kaliwat"
+      "marks": "ang tagipusuon sang imo kaliwat"
     },
     {
       "surface": "לבב",
-      "gloss": "ang kasingkasing"
+      "gloss": "ang tagipusuon"
     },
     {
       "surface": "זרעך",
-      "gloss": "imo kaliwat"
+      "gloss": "sang imo kaliwat"
     },
     {
       "surface": "לאהבה",
-      "gloss": "sa paghigugma"
+      "gloss": "agod higugmaon mo"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "Yahweh nga imo Elohim"
+      "gloss": "si ⟨את⟩",
+      "marks": "si Yahweh"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "si Yahweh"
     },
     {
       "surface": "אלהיך",
-      "gloss": "imo Elohim"
+      "gloss": "nga Elohim mo"
     },
     {
       "surface": "בכל",
@@ -64,7 +64,7 @@
     },
     {
       "surface": "לבבך",
-      "gloss": "mong kasingkasing"
+      "gloss": "mo nga tagipusuon"
     },
     {
       "surface": "ובכל",
@@ -72,7 +72,7 @@
     },
     {
       "surface": "נפשך",
-      "gloss": "mong kabuhi"
+      "gloss": "mo nga kalag"
     },
     {
       "surface": "למען",
@@ -83,6 +83,6 @@
       "gloss": "mabuhi ka"
     }
   ],
-  "timestamp": "2026-09-21T17:31:44.803076579Z",
+  "timestamp": "2026-09-25T08:58:07.175312648Z",
   "model": "glm-5.3"
 }

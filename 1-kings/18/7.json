@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "hil",
   "chapter": 18,
-  "translation": "Kag yara si Ovadyahu sa dalan, kag yari kuno si Eliyahu nga nagatipon sa iya; kag nakilala niya siya, kag nagtindog siya nga nadula sa iya dagway <sa pagtahod>, kag nagsiling: Ikaw bala ini, akon ginoo, si Eliyahu?",
+  "translation": "Kag sang ara si Ovadyahu sa dalanon, kag nagtana-aw, si Eliyahu ⟨sa iya pagpanugod⟩; kag nakilala niya siya, kag nagtinpak siya sa iya dagyaw, kag nagsiling: Ikaw bala ini, akon ginoo nga si Eliyahu?",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "kag yara"
+      "gloss": "kag sang ara"
     },
     {
       "surface": "עבדיהו",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "בדרך",
-      "gloss": "sa dalan"
+      "gloss": "sa dalanon"
     },
     {
       "surface": "והנה",
-      "gloss": "kag yari kuno"
+      "gloss": "kag nagtana-aw"
     },
     {
       "surface": "אליהו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "לקראתו",
-      "gloss": "nga nagatipon sa iya"
+      "gloss": "⟨sa iya pagpanugod⟩"
     },
     {
       "surface": "ויכרהו",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ויפל",
-      "gloss": "kag nagdunga"
+      "gloss": "kag nagtinpak siya"
     },
     {
       "surface": "על",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "פניו",
-      "gloss": "iya dagway"
+      "gloss": "iya dagyaw"
     },
     {
       "surface": "ויאמר",
@@ -68,6 +68,6 @@
       "gloss": "si Eliyahu"
     }
   ],
-  "timestamp": "2026-09-21T18:35:54.590239003Z",
+  "timestamp": "2026-09-25T08:39:42.548711554Z",
   "model": "glm-5.3"
 }

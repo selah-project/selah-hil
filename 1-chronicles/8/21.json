@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "hil",
   "chapter": 8,
-  "translation": "kag Adayah, kag Berayah, kag Shimrat — <ang mga anak ni Shimei>",
+  "translation": "kag Adayah, kag Berayah, kag Shimrat — <span dir=\"rtl\">בני<\/span> ni Shim'i:",
   "tokens": [
     {
       "surface": "ועדיה",
@@ -21,13 +21,13 @@
     },
     {
       "surface": "בני",
-      "gloss": "<ang mga anak>"
+      "gloss": "mga anak"
     },
     {
       "surface": "שמעי",
-      "gloss": "ni Shimei"
+      "gloss": "ni Shim'i"
     }
   ],
-  "timestamp": "2026-09-21T21:51:23.808600190Z",
+  "timestamp": "2026-09-25T08:36:59.128650970Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "hil",
   "chapter": 36,
-  "translation": "Kag ⟨את⟩ si Baruk ginpangutan nila, nga nagaingon: Isugid, kon mahimo, sa amon, paano nga nakasulat ikaw sang tanan nga mga pulong ini halin sa iya baba?",
+  "translation": "Kag ⟨את⟩ si Baruk ginpangutana nila nga nagasiling: Isugid ⟨sa amon⟩ subong, sa ano nga paagi nga imo nasulat ⟨את⟩ ang tanan nga mga pulong ina ⟨gikan sa iya baba⟩?",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "kag ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "si Baruk"
     },
     {
@@ -18,11 +18,11 @@
     },
     {
       "surface": "שאלו",
-      "gloss": "ginpangutan nila"
+      "gloss": "ginpangutana nila"
     },
     {
       "surface": "לאמר",
-      "gloss": "nga nagaingon"
+      "gloss": "nga nagasiling"
     },
     {
       "surface": "הגד",
@@ -30,24 +30,24 @@
     },
     {
       "surface": "נא",
-      "gloss": "kon mahimo"
+      "gloss": "subong"
     },
     {
       "surface": "לנו",
-      "gloss": "sa amon"
+      "gloss": "⟨sa amon⟩"
     },
     {
       "surface": "איך",
-      "gloss": "paano"
+      "gloss": "sa ano nga paagi"
     },
     {
       "surface": "כתבת",
-      "gloss": "ikaw nakasulat"
+      "gloss": "imo nasulat"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang tanan"
+      "marks": "ang tanan nga mga pulong"
     },
     {
       "surface": "כל",
@@ -55,17 +55,17 @@
     },
     {
       "surface": "הדברים",
-      "gloss": "mga pulong"
+      "gloss": "nga mga pulong"
     },
     {
       "surface": "האלה",
-      "gloss": "ini"
+      "gloss": "ina"
     },
     {
       "surface": "מפיו",
-      "gloss": "halin sa iya baba"
+      "gloss": "gikan sa iya baba"
     }
   ],
-  "timestamp": "2026-09-21T19:32:09.432082761Z",
+  "timestamp": "2026-09-25T09:28:01.714194975Z",
   "model": "glm-5.3"
 }

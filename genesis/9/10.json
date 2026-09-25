@@ -5,23 +5,24 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 9,
-  "translation": "Kag ⟨את⟩ sa tanan nga may ginhalinan nga buhi nga kaangot sa inyo — sa mga pispis, sa mga sapat, kag sa tanan nga sapat sang duta nga ⟨את⟩ upod sa inyo — sa tanan nga naggwa sa sakayan, sa tanan nga sapat sang duta.",
+  "translation": "Kag ⟨את⟩ ang tanan nga ginahabol nga kabuhi nga ara ka ninyo — sa mga pispis, sa mga sapat kag sa tanan nga sapat sang duta ka ninyo — halin sa tanan nga naggwa sa sakayan, tubtob sa tanan nga sapat sang duta.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "kag ⟨את⟩"
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang tanan nga ginahabol nga kabuhi"
     },
     {
       "surface": "כל",
-      "gloss": "sa tanan"
+      "gloss": "ang tanan"
     },
     {
       "surface": "נפש",
-      "gloss": "ginhalinan nga buhi"
+      "gloss": "kabuhi"
     },
     {
       "surface": "החיה",
-      "gloss": "nga buhi"
+      "gloss": "ginahabol"
     },
     {
       "surface": "אשר",
@@ -29,7 +30,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ sa inyo"
+      "gloss": "⟨את⟩ ka ninyo"
     },
     {
       "surface": "בעוף",
@@ -53,15 +54,15 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ upod sa inyo"
+      "gloss": "⟨את⟩ ka ninyo"
     },
     {
       "surface": "מכל",
-      "gloss": "sa tanan"
+      "gloss": "halin sa tanan"
     },
     {
       "surface": "יצאי",
-      "gloss": "naggwa"
+      "gloss": "nga naggwa"
     },
     {
       "surface": "התבה",
@@ -69,7 +70,7 @@
     },
     {
       "surface": "לכל",
-      "gloss": "sa tanan"
+      "gloss": "tubtob sa tanan"
     },
     {
       "surface": "חית",
@@ -80,6 +81,6 @@
       "gloss": "sang duta"
     }
   ],
-  "timestamp": "2026-09-21T15:57:50.885368654Z",
+  "timestamp": "2026-09-25T09:19:17.723927771Z",
   "model": "glm-5.3"
 }

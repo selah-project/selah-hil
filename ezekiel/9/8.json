@@ -5,19 +5,19 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 9,
-  "translation": "Kag nahitabo, samtang nagagum sila kag ako ⟨nga⟩ nabilin, ako nagdunggo sa akon nawong kag nagsinggit kag nagsiling: Aho! Adonay Yahweh, basi ikaw ang magapaat-ay sang ⟨את⟩ tanan nga salin sang Yisrael sa imo pagbubo sang ⟨את⟩ imo kaakig sa Yerushalayim?",
+  "translation": "Kag natabo samtang gintama sila, kag ako ang nabilin, ginkumba ako sa akon dagway kag nagsinggit ako kag nagsiling: Ah! Adonay Yahweh, ikaw bala ang nagapaguba ⟨את⟩ sang tanan nga salin sang Yisrael sa imo pagbubo ⟨את⟩ sang imo kaligutgut sa Yerushalayim?",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Kag nahitabo"
+      "gloss": "kag natabo"
     },
     {
       "surface": "כהכותם",
-      "gloss": "samtang nagagum sila"
+      "gloss": "samtang gintama sila"
     },
     {
       "surface": "ונאשאר",
-      "gloss": "kag ako nabilin"
+      "gloss": "kag ako ang nabilin"
     },
     {
       "surface": "אני",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ואפלה",
-      "gloss": "nagdunggo ako"
+      "gloss": "ginkumba ako"
     },
     {
       "surface": "על",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "פני",
-      "gloss": "akon nawong"
+      "gloss": "akon dagway"
     },
     {
       "surface": "ואזעק",
-      "gloss": "kag nagsinggit ako"
+      "gloss": "nagsinggit ako"
     },
     {
       "surface": "ואמר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אהה",
-      "gloss": "Aho!"
+      "gloss": "Ah"
     },
     {
       "surface": "אדני",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "המשחית",
-      "gloss": "ang magapaat-ay"
+      "gloss": "ang nagapaguba"
     },
     {
       "surface": "אתה",
@@ -66,7 +66,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tanan nga salin sang Yisrael"
+      "marks": "ang tanan nga salin sang Yisrael"
     },
     {
       "surface": "כל",
@@ -87,11 +87,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "imo kaakig"
+      "marks": "imo kaligutgut"
     },
     {
       "surface": "חמתך",
-      "gloss": "imo kaakig"
+      "gloss": "imo kaligutgut"
     },
     {
       "surface": "על",
@@ -102,6 +102,6 @@
       "gloss": "Yerushalayim"
     }
   ],
-  "timestamp": "2026-09-21T19:45:15.089985409Z",
+  "timestamp": "2026-09-25T09:13:20.628241703Z",
   "model": "glm-5.3"
 }

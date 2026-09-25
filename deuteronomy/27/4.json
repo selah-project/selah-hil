@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 27,
-  "translation": "Kag matabo sa pagtabok ninyo ⟨את⟩ sa Yarden, itindog ninyo ⟨את⟩ ini nga mga bato nga akon ginamandar ⟨את⟩ sa inyo subong nga adlaw sa bukid Eival, kag ipapanit mo ⟨sila⟩ sa sid.",
+  "translation": "Kag magakatabo, sa pagtabok ninyo ⟨sa⟩ Yarden, pagatindgon ninyo ⟨את⟩ ini nga mga bato, nga ako nagasugo ⟨את⟩ sa inyo subong nga adlaw, sa bukid Ebal, kag balisan ninyo ⟨את⟩ sila sang apog.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Kag matabo"
+      "gloss": "kag magakatabo"
     },
     {
       "surface": "בעברכם",
@@ -18,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sa Yarden"
+      "marks": "Yarden"
     },
     {
       "surface": "הירדן",
-      "gloss": "sa Yarden"
+      "gloss": "Yarden"
     },
     {
       "surface": "תקימו",
-      "gloss": "itindog ninyo"
+      "gloss": "pagatindgon ninyo"
     },
     {
       "surface": "את",
@@ -51,11 +51,12 @@
     },
     {
       "surface": "מצוה",
-      "gloss": "ginamandar"
+      "gloss": "nagasugo"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ sa inyo"
+      "gloss": "⟨את⟩ sa inyo",
+      "marks": "subong nga adlaw"
     },
     {
       "surface": "היום",
@@ -67,22 +68,22 @@
     },
     {
       "surface": "עיבל",
-      "gloss": "Eival"
+      "gloss": "Ebal"
     },
     {
       "surface": "ושדת",
-      "gloss": "ipapanit mo"
+      "gloss": "kag balisan ninyo"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "ang mga bato sa sid"
+      "gloss": "⟨את⟩ sila",
+      "marks": "apog"
     },
     {
       "surface": "בשיד",
-      "gloss": "sa sid"
+      "gloss": "sang apog"
     }
   ],
-  "timestamp": "2026-09-21T17:29:18.430695267Z",
+  "timestamp": "2026-09-25T08:58:30.367313292Z",
   "model": "glm-5.3"
 }

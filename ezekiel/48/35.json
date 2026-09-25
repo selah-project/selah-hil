@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 48,
-  "translation": "Sa palibot <span class=\"hebrew\">שמנה עשר<\/span> nga libo; kag ang ngalan sang ciudad, maga halin sa adlaw nga yaon, <span class=\"hebrew\">יהוה שמה<\/span>.",
+  "translation": "Sa palibot: napulo kag walo ka libo; kag ang ngalan sang siyudad sa tinu-i nga adlaw maga: Yahweh Didto.",
   "tokens": [
     {
       "surface": "סביב",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "עשר",
-      "gloss": "ka pulo"
+      "gloss": "napulo kag"
     },
     {
       "surface": "אלף",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "העיר",
-      "gloss": "sang ciudad"
+      "gloss": "sang siyudad"
     },
     {
       "surface": "מיום",
-      "gloss": "maga halin sa adlaw"
+      "gloss": "sa tinu-i nga adlaw"
     },
     {
       "surface": "יהוה",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "שמה",
-      "gloss": " didto"
+      "gloss": "Didto"
     }
   ],
-  "timestamp": "2026-09-21T20:03:07.852826857Z",
+  "timestamp": "2026-09-25T09:12:57.128777299Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "zechariah",
   "lang": "hil",
   "chapter": 1,
-  "translation": "Kag nagsabat ang mensahero ni Yahweh kag nagsiling, Yahweh Tsevaot, hangtod san-o ikaw indi magakaluoy ⟨kay⟩ Yerushalayim kag ⟨kay⟩ ⟨את⟩ ang mga siyudad sang Yehudah nga imo ginakasuko ini nga pito ka pulo ka tuig?",
+  "translation": "Kag gintuboy ang sulugo ni Yahweh kag nagsiling: Yahweh Tsevaot, hasta san-o ikaw indi makaluoy ⟨את⟩ Yerushalayim kag ⟨את⟩ ang mga dakbanwa sang Yehudah, nga imo ginaakigan ini nga pito ka pulo ka tuig?",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "kag nagsabat"
+      "gloss": "Kag gintuboy"
     },
     {
       "surface": "מלאך",
-      "gloss": "ang mensahero"
+      "gloss": "ang sulugo"
     },
     {
       "surface": "יהוה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "עד",
-      "gloss": "hangtod"
+      "gloss": "hasta"
     },
     {
       "surface": "מתי",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "תרחם",
-      "gloss": "magakaluoy"
+      "gloss": "makaluoy"
     },
     {
       "surface": "את",
@@ -63,11 +63,11 @@
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang mga siyudad sang Yehudah"
+      "marks": "mga dakbanwa sang Yehudah"
     },
     {
       "surface": "ערי",
-      "gloss": "mga siyudad"
+      "gloss": "mga dakbanwa"
     },
     {
       "surface": "יהודה",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "זעמתה",
-      "gloss": "imo ginakasuko"
+      "gloss": "ginaakigan"
     },
     {
       "surface": "זה",
@@ -94,6 +94,6 @@
       "gloss": "ka tuig"
     }
   ],
-  "timestamp": "2026-09-21T20:17:37.247381622Z",
+  "timestamp": "2026-09-25T09:51:16.211713999Z",
   "model": "glm-5.3"
 }

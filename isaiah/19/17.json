@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "hil",
   "chapter": 19,
-  "translation": "Kag ang duta sang Yehudah magaabot ⟨nga⟩ kahadlok sa Mitsrayim; bisan sin-o nga magapahinumdom ⟨sa ila⟩ sini magakalahadlok, tungod sang tambag ni Yahweh Tsevaot nga siya nagatambag batok sa ila.",
+  "translation": "Kag ang duta sang Yehudah magalin magakahadlok sa Mitsrayim — ang tagsa nga magahinumdom sang ina magakapahadlok sa iya kaugalingon, tungod sang tambag ni Yahweh Tsevaot, nga iya gintambag batok sini.",
   "tokens": [
     {
       "surface": "והיתה",
-      "gloss": "Kag magaabot"
+      "gloss": "kag magalin"
     },
     {
       "surface": "אדמת",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "לחגא",
-      "gloss": "⟨nga⟩ kahadlok"
+      "gloss": "magakahadlok"
     },
     {
       "surface": "כל",
-      "gloss": "bisan sin-o"
+      "gloss": "ang tagsa"
     },
     {
       "surface": "אשר",
@@ -37,32 +37,32 @@
     },
     {
       "surface": "יזכיר",
-      "gloss": "magapahinumdom"
+      "gloss": "magahinumdom"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "sa ila"
+      "marks": "sang ina (ang duta sang Yehudah)"
     },
     {
       "surface": "אליו",
-      "gloss": "sa ila"
+      "gloss": "sa iya"
     },
     {
       "surface": "יפחד",
-      "gloss": "magakalahadlok"
+      "gloss": "magakapahadlok"
     },
     {
       "surface": "מפני",
-      "gloss": "tungod sa"
+      "gloss": "tungod"
     },
     {
       "surface": "עצת",
-      "gloss": "tambag"
+      "gloss": "sang tambag"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "צבאות",
@@ -74,17 +74,17 @@
     },
     {
       "surface": "הוא",
-      "gloss": "siya"
+      "gloss": "iya"
     },
     {
       "surface": "יועץ",
-      "gloss": "nagatambag"
+      "gloss": "gintambag"
     },
     {
       "surface": "עליו",
-      "gloss": "batok sa ila"
+      "gloss": "batok sini"
     }
   ],
-  "timestamp": "2026-09-21T18:58:40.237162400Z",
+  "timestamp": "2026-09-25T09:20:37.198901851Z",
   "model": "glm-5.3"
 }

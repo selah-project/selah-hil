@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "hil",
   "chapter": 31,
-  "translation": "Kag indi na sila pagtudluan sing isa ka tawo ⟨את⟩ iya kaabay kag isa ka tawo ⟨את⟩ iya utod nga maghambal, Kilalahi ninyo ⟨את⟩ si Yahweh; kay tanan nila makakilala ⟨את⟩ sa akon, gikan sa ila gid nga gagmay tubtob sa ila nga dako, gintudlo ni Yahweh; kay magapatawad ako sang ila mga sala kag sang ila mga paglapas indi ko na pagdumdumon.",
+  "translation": "Kag indi na pagatulun-anon sang tagsa ka tawo ⟨את⟩ ang iya kaupod, kag sang tagsa ka tawo ⟨את⟩ ang iya utod, nga hambalon, 'Kilalahi ninyo ⟨את⟩ si Yahweh,' kay tanan nila ikilala ⟨את⟩ sa akon, tungod sa ila pagkamuti tubtob sa ila pagkadako — amo ang ginsiling ni Yahweh; kay papatawaron ko ang ila mga sala, kag ang ila mga paglapas indi ko na dumdomanon pa.",
   "tokens": [
     {
       "surface": "ולא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ילמדו",
-      "gloss": "sila pagtudluan"
+      "gloss": "pagatulun-anon"
     },
     {
       "surface": "עוד",
@@ -21,37 +21,37 @@
     },
     {
       "surface": "איש",
-      "gloss": "isa ka tawo"
+      "gloss": "sang tagsa ka tawo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iya kaabay"
+      "marks": "ang iya kaupod"
     },
     {
       "surface": "רעהו",
-      "gloss": "iya kaabay"
+      "gloss": "ang iya kaupod"
     },
     {
       "surface": "ואיש",
-      "gloss": "kag isa ka tawo"
+      "gloss": "kag sang tagsa ka tawo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iya utod"
+      "marks": "ang iya utod"
     },
     {
       "surface": "אחיו",
-      "gloss": "iya utod"
+      "gloss": "ang iya utod"
     },
     {
       "surface": "לאמר",
-      "gloss": "ngha maghambal"
+      "gloss": "nga hambalon"
     },
     {
       "surface": "דעו",
-      "gloss": "Kilalahi ninyo"
+      "gloss": "kilalahi ninyo"
     },
     {
       "surface": "את",
@@ -72,28 +72,28 @@
     },
     {
       "surface": "ידעו",
-      "gloss": "makakilala"
+      "gloss": "ikilala"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ sa akon",
-      "marks": "sa akon"
+      "gloss": "⟨את⟩",
+      "marks": "akon"
     },
     {
       "surface": "למקטנם",
-      "gloss": "gikan sa ila gid nga gagmay"
+      "gloss": "tungod sa ila pagkamuti"
     },
     {
       "surface": "ועד",
-      "gloss": "tubtob"
+      "gloss": "tubtob sa"
     },
     {
       "surface": "גדולם",
-      "gloss": "sa ila nga dako"
+      "gloss": "ila pagkadako"
     },
     {
       "surface": "נאם",
-      "gloss": "gintudlo"
+      "gloss": "amo ang ginsiling"
     },
     {
       "surface": "יהוה",
@@ -105,15 +105,15 @@
     },
     {
       "surface": "אסלח",
-      "gloss": "magapatawad ako"
+      "gloss": "papatawaron ko"
     },
     {
       "surface": "לעונם",
-      "gloss": "sang ila mga sala"
+      "gloss": "ang ila mga sala"
     },
     {
       "surface": "ולחטאתם",
-      "gloss": "kag sang ila mga paglapas"
+      "gloss": "kag ang ila mga paglapas"
     },
     {
       "surface": "לא",
@@ -121,13 +121,13 @@
     },
     {
       "surface": "אזכר",
-      "gloss": "ko na pagdumdumon"
+      "gloss": "ko dumdomanon"
     },
     {
       "surface": "עוד",
-      "gloss": ""
+      "gloss": "na pa"
     }
   ],
-  "timestamp": "2026-09-21T19:27:58.164078931Z",
+  "timestamp": "2026-09-25T09:28:14.244618927Z",
   "model": "glm-5.3"
 }

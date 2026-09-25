@@ -5,15 +5,16 @@
   "book": "leviticus",
   "lang": "hil",
   "chapter": 18,
-  "translation": "Kag ⟨את⟩ sang lalaki indi ka maghigda sa mga paghigda sang babae — kasuklanan ⟨kini⟩.",
+  "translation": "Kag ⟨את⟩ ang lalaki indi ka paghigdaan ngapareho sang mga higdaanan sang babayi — kabalak-an ini.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "kag ⟨את⟩"
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang lalaki"
     },
     {
       "surface": "זכר",
-      "gloss": "sang lalaki"
+      "gloss": "ang lalaki"
     },
     {
       "surface": "לא",
@@ -21,25 +22,25 @@
     },
     {
       "surface": "תשכב",
-      "gloss": "maghigda"
+      "gloss": "ka paghigdaan"
     },
     {
       "surface": "משכבי",
-      "gloss": "sa mga paghigda"
+      "gloss": "ngapareho sang mga higdaanan"
     },
     {
       "surface": "אשה",
-      "gloss": "sang babae"
+      "gloss": "sang babayi"
     },
     {
       "surface": "תועבה",
-      "gloss": "kasuklanan"
+      "gloss": "kabalak-an"
     },
     {
       "surface": "הוא",
-      "gloss": "kini"
+      "gloss": "ini"
     }
   ],
-  "timestamp": "2026-09-21T16:50:11.880376338Z",
+  "timestamp": "2026-09-25T09:38:09.297678940Z",
   "model": "glm-5.3"
 }

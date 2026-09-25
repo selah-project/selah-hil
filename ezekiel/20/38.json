@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 20,
-  "translation": "Kag maglin-in ako sa inyo sang mga nanginlaban kag ang mga nagasala sa akon; sa duta sang ila pagpuyo pagaguwa-on ko sila ⟨את⟩, kag sa duta sang Yisrael indi sila magakari; kag makahibalo kamo nga ako si Yahweh.",
+  "translation": "Kag magatin-o ako sa inyo sang mga nagasukol kag sang mga nagasala sa akon; sa duta sang ila pagpuyo sa langyaw guwa-on ko ⟨את⟩ sila, kag sa duta sang Yisrael indi sila magasulod, kag makahibalo kamo nga ako si Yahweh.",
   "tokens": [
     {
       "surface": "וברותי",
-      "gloss": "kag maglin-in ako"
+      "gloss": "kag magatin-o ako"
     },
     {
       "surface": "מכם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "המרדים",
-      "gloss": "sang mga nanginlaban"
+      "gloss": "ang mga nagasukol"
     },
     {
       "surface": "והפושעים",
@@ -37,12 +37,12 @@
     },
     {
       "surface": "אוציא",
-      "gloss": "pagaguwa-on ko"
+      "gloss": "guwa-on ko"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "sila"
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila — ang mga nagasukol kag nagasala"
     },
     {
       "surface": "ואל",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "יבוא",
-      "gloss": "silа magakari"
+      "gloss": "magasulod"
     },
     {
       "surface": "וידעתם",
@@ -81,6 +81,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-09-21T19:49:49.887436601Z",
+  "timestamp": "2026-09-25T09:08:39.153959209Z",
   "model": "glm-5.3"
 }

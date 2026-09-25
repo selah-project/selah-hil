@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "hil",
   "chapter": 138,
-  "translation": "Si Yahweh magatapos sang <sa akon pulong>, si Yahweh, ang imo hesed tubtob sa dayon; ang mga buhat sang imo mga kamot indi pagbul-iogi mahulog.",
+  "translation": "Si Yahweh magatapos ⟨sa akon⟩ — si Yahweh, ang imo hesed ⟨maganat⟩ tubi sang dayon; ang mga buhat sang imo mga kamot indi pagpaluya.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בעדי",
-      "gloss": "<sa akon pulong>"
+      "gloss": "⟨sa akon⟩"
     },
     {
       "surface": "יהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "לעולם",
-      "gloss": "tubtob sa dayon"
+      "gloss": "tubi sang dayon"
     },
     {
       "surface": "מעשי",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "תרף",
-      "gloss": "pagbul-iogi mahulag"
+      "gloss": "pagpaluya"
     }
   ],
-  "timestamp": "2026-09-21T20:53:07.770290218Z",
+  "timestamp": "2026-09-25T09:50:11.406297771Z",
   "model": "glm-5.3"
 }

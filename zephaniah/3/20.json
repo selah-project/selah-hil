@@ -5,7 +5,7 @@
   "book": "zephaniah",
   "lang": "hil",
   "chapter": 3,
-  "translation": "Sa tion nga ina, ipabalik ko kamo ⟨את⟩, kag sa tion nga pagtipon ko sa inyo ⟨את⟩; kay itugyan ko kamo nga ngalan kag pangdayaway sa tanan nga mga pumuloyo sang duta, kon ipabalik ko ⟨את⟩ ang inyo pagkabihag sa inyo ⟨mga⟩ mata, nagsiling si Yahweh.",
+  "translation": "Sa sadto nga tion pag-adton ko kamo ⟨אתכם⟩, kag sa tion nga itipon ko kamo ⟨אתכם⟩, kay ihatag ko kamo ⟨אתכם⟩ bilang ngalan kag bilang dayaw sa tanan nga mga pungsod sang duta, sa pagbalik ko sang inyo pagkabihag ⟨את⟩ sa atubangan sang inyo mga mata, nagsiling si Yahweh.",
   "tokens": [
     {
       "surface": "בעת",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "ההיא",
-      "gloss": "nga ina"
+      "gloss": "sadto"
     },
     {
       "surface": "אביא",
-      "gloss": "ipabalik ko sa sulod"
+      "gloss": "pag-adton ko"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨אתכם⟩",
       "marks": "kamo"
     },
     {
@@ -30,11 +30,11 @@
     },
     {
       "surface": "קבצי",
-      "gloss": "pagtipon ko"
+      "gloss": "itipon ko"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨אתכם⟩",
       "marks": "kamo"
     },
     {
@@ -43,20 +43,20 @@
     },
     {
       "surface": "אתן",
-      "gloss": "itugyan ko"
+      "gloss": "ihatag ko"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨אתכם⟩",
       "marks": "kamo"
     },
     {
       "surface": "לשם",
-      "gloss": "nga ngalan"
+      "gloss": "bilang ngalan"
     },
     {
       "surface": "ולתהלה",
-      "gloss": "kag pangdayaway"
+      "gloss": "kag bilang dayaw"
     },
     {
       "surface": "בכל",
@@ -64,7 +64,7 @@
     },
     {
       "surface": "עמי",
-      "gloss": "mga pumuloyo"
+      "gloss": "nga mga pungsod"
     },
     {
       "surface": "הארץ",
@@ -72,12 +72,12 @@
     },
     {
       "surface": "בשובי",
-      "gloss": "kon ipabalik ko"
+      "gloss": "sa pagbalik ko"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang inyo pagkabihag"
+      "marks": "inyo pagkabihag"
     },
     {
       "surface": "שבותיכם",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "לעיניכם",
-      "gloss": "sa inyo mga mata"
+      "gloss": "sa atubangan sang inyo mga mata"
     },
     {
       "surface": "אמר",
@@ -96,6 +96,6 @@
       "gloss": "si Yahweh"
     }
   ],
-  "timestamp": "2026-09-21T20:17:10.943523876Z",
+  "timestamp": "2026-09-25T09:50:41.258564332Z",
   "model": "glm-5.3"
 }

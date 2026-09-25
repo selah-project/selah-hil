@@ -5,29 +5,29 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 30,
-  "translation": "Ihatag ⟨את⟩ ang akon mga asawa kag ⟨את⟩ ang akon mga anak, nga akon ginalagad sa imo paagi sini, kag magakadto ako, kay ikaw nakahibalo ⟨את⟩ sang akon pag-alagad nga akon ginalagad sa imo.",
+  "translation": "Ihatag ⟨ang⟩ ⟨את⟩ akon mga asawa kag ⟨את⟩ akon mga anak, nga akon gin-alagaran ⟨את⟩ kanimo sa ila, kag maghalin ako; kay ikaw nakakahibalo sang ⟨את⟩ akon pag-alagad nga akon gin-alagaran sa imo.",
   "tokens": [
     {
       "surface": "תנה",
-      "gloss": "ihatag"
+      "gloss": "Ihatag"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang akon mga asawa"
+      "marks": "akon mga asawa"
     },
     {
       "surface": "נשי",
-      "gloss": "ang akon mga asawa"
+      "gloss": "akon mga asawa"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang akon mga anak"
+      "marks": "akon mga anak"
     },
     {
       "surface": "ילדי",
-      "gloss": "ang akon mga anak"
+      "gloss": "akon mga anak"
     },
     {
       "surface": "אשר",
@@ -35,20 +35,19 @@
     },
     {
       "surface": "עבדתי",
-      "gloss": "akon ginalagad"
+      "gloss": "akon gin-alagaran"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩",
-      "marks": "sa imo"
+      "gloss": "⟨את⟩ kanimo"
     },
     {
       "surface": "בהן",
-      "gloss": "paagi sini"
+      "gloss": "sa ila"
     },
     {
       "surface": "ואלכה",
-      "gloss": "kag magakadto ako"
+      "gloss": "kag maghalin ako"
     },
     {
       "surface": "כי",
@@ -60,16 +59,16 @@
     },
     {
       "surface": "ידעת",
-      "gloss": "nakahibalo"
+      "gloss": "nakakahibalo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sang akon pag-alagad"
+      "marks": "akon pag-alagad"
     },
     {
       "surface": "עבדתי",
-      "gloss": "sang akon pag-alagad"
+      "gloss": "akon pag-alagad"
     },
     {
       "surface": "אשר",
@@ -77,9 +76,9 @@
     },
     {
       "surface": "עבדתיך",
-      "gloss": "akon ginalagad sa imo"
+      "gloss": "akon gin-alagaran sa imo"
     }
   ],
-  "timestamp": "2026-09-21T16:08:04.489350059Z",
+  "timestamp": "2026-09-25T09:15:33.460593132Z",
   "model": "glm-5.3"
 }

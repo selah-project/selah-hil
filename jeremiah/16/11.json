@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "hil",
   "chapter": 16,
-  "translation": "Kag imo isiling sa ila: Tungod kay ang inyo mga amay nagbaya ⟨אותי⟩, amo ang ginsiling ni Yahweh, kag naglakat sila sunod sa iban nga mga dios kag nag-alagad sila sa ila kag nagluhod sila sa ila, ⟨את⟩ kag ⟨אותי⟩ ginbaya nila, kag ⟨את⟩ ang akon Torah wala nila gintipigan.",
+  "translation": "Kag silanon mo sa ila: Tungod kay ang inyo mga amay nagbaya sang ⟨את⟩ ako, amo ang ginhambal ni Yahweh, kag naglakat sila sa luyo sang mga dios nga iban, kag nagsimba sila sa ila, kag nagluhod sila sa ila, kag ⟨את⟩ ako ginbayaan nila, kag ⟨את⟩ ang akon Torah wala nila tipigi.",
   "tokens": [
     {
       "surface": "ואמרת",
-      "gloss": "Kag imo isiling"
+      "gloss": "kag silanon mo"
     },
     {
       "surface": "אליהם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "על",
-      "gloss": "Tungod"
+      "gloss": "tungod kay"
     },
     {
       "surface": "אשר",
-      "gloss": "kay"
+      "gloss": "nga"
     },
     {
       "surface": "עזבו",
@@ -33,12 +33,12 @@
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ ⟨אותי⟩",
+      "gloss": "⟨את⟩",
       "marks": "ako"
     },
     {
       "surface": "נאם",
-      "gloss": "amo ang ginsiling"
+      "gloss": "amo ang ginhambal"
     },
     {
       "surface": "יהוה",
@@ -50,19 +50,19 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "sunod"
+      "gloss": "sa luyo sang"
     },
     {
       "surface": "אלהים",
-      "gloss": "sa mga dios"
+      "gloss": "mga dios"
     },
     {
       "surface": "אחרים",
-      "gloss": "iban"
+      "gloss": "nga iban"
     },
     {
       "surface": "ויעבדום",
-      "gloss": "kag nag-alagad sila sa ila"
+      "gloss": "kag nagsimba sila sa ila"
     },
     {
       "surface": "וישתחוו",
@@ -73,17 +73,18 @@
       "gloss": "sa ila"
     },
     {
-      "surface": "ואתי",
-      "gloss": "⟨את⟩ kag ⟨אותי⟩",
+      "surface": "ויתי",
+      "gloss": "kag ⟨את⟩",
       "marks": "ako"
     },
     {
       "surface": "עזבו",
-      "gloss": "ginbaya"
+      "gloss": "ginbayaan nila"
     },
     {
       "surface": "ואת",
-      "gloss": "kag ⟨את⟩"
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang akon Torah"
     },
     {
       "surface": "תורתי",
@@ -95,9 +96,9 @@
     },
     {
       "surface": "שמרו",
-      "gloss": "gintipigan"
+      "gloss": "nila tipigi"
     }
   ],
-  "timestamp": "2026-09-21T19:22:30.240954633Z",
+  "timestamp": "2026-09-25T09:22:45.148073451Z",
   "model": "glm-5.3"
 }

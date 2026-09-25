@@ -5,14 +5,14 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 23,
-  "translation": "Kag mga tawo nga matarong, sila ang magahukom sa ila sing sentensya sang babayi nga managki kag sing sentensya sang mga nagaawas sang dugo, kay managki sila kag dugo ara sa ila mga kamot.",
+  "translation": "Kag mga tawo nga matarong, sila ang magahukom sa ila ⟨את⟩ sing paghukom sang mga babayi nga mananapaw kag sing paghukom sang mga nagaabog sang dugo, kay mga mananapaw sila kag dugo ara sa ila mga kamot.",
   "tokens": [
     {
       "surface": "ואנשים",
-      "gloss": "kag mga tawo"
+      "gloss": "Kag mga tawo"
     },
     {
-      "surface": "צדיקם",
+      "surface": "צדיקים",
       "gloss": "nga matarong"
     },
     {
@@ -21,28 +21,28 @@
     },
     {
       "surface": "ישפטו",
-      "gloss": "magahukom"
+      "gloss": "ang magahukom"
     },
     {
-      "surface": "אותהם",
+      "surface": "אותם",
       "gloss": "⟨את⟩",
       "marks": "sa ila"
     },
     {
       "surface": "משפט",
-      "gloss": "sing sentensya"
+      "gloss": "sing paghukom"
     },
     {
       "surface": "נאפות",
-      "gloss": "sang babayi nga managki"
+      "gloss": "sang mga babayi nga mananapaw"
     },
     {
       "surface": "ומשפט",
-      "gloss": "kag sing sentensya"
+      "gloss": "kag sing paghukom"
     },
     {
       "surface": "שפכות",
-      "gloss": "sang mga nagaawas"
+      "gloss": "sang mga nagaabog"
     },
     {
       "surface": "דם",
@@ -53,8 +53,8 @@
       "gloss": "kay"
     },
     {
-      "surface": "נאפת",
-      "gloss": "managki"
+      "surface": "נאפות",
+      "gloss": "mga mananapaw"
     },
     {
       "surface": "הנה",
@@ -69,6 +69,6 @@
       "gloss": "sa ila mga kamot"
     }
   ],
-  "timestamp": "2026-09-21T19:50:35.856578527Z",
+  "timestamp": "2026-09-25T09:06:40.160674008Z",
   "model": "glm-5.3"
 }

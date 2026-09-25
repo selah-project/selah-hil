@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 18,
-  "translation": "Kay ang mga pungsod nga ini, nga ikaw magasawad ⟨sila⟩, nagapamati sa mga nagatan-aw sang panganod kag sa mga manugtadna; apang ikaw — indi sang amo sina ginhatag sa imo ni Yahweh nga imo Elohim.",
+  "translation": "Kay ini nga mga pungsod nga imo pagsunodsunodon ⟨את⟩ sila, sa mga nangangilo-sa-panganod kag sa mga nagakiling nagapaminaw⟨sila⟩; apang ikaw, indi pares sini ang ginhatag sa imo ni Yahweh nga Elohim mo.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Kay"
+      "gloss": "kay"
     },
     {
       "surface": "הגוים",
-      "gloss": "ang mga pungsod"
+      "gloss": "mga pungsod"
     },
     {
       "surface": "האלה",
-      "gloss": "nga ini"
+      "gloss": "ini nga"
     },
     {
       "surface": "אשר",
@@ -25,16 +25,16 @@
     },
     {
       "surface": "אתה",
-      "gloss": "ikaw"
+      "gloss": "imo"
     },
     {
       "surface": "יורש",
-      "gloss": "magasawad"
+      "gloss": "pagsunodsunodon"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "⟨sila⟩ (ang mga pungsod)"
+      "marks": "sila (ang mga pungsod)"
     },
     {
       "surface": "אל",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "מעננים",
-      "gloss": "mga nagatan-aw sang panganod"
+      "gloss": "mga nangangilo-sa-panganod"
     },
     {
       "surface": "ואל",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "קסמים",
-      "gloss": "mga manugtadna"
+      "gloss": "mga nagakiling"
     },
     {
       "surface": "ישמעו",
-      "gloss": "nagapamati"
+      "gloss": "nagapaminaw"
     },
     {
       "surface": "ואתה",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "כן",
-      "gloss": "sang amo sina"
+      "gloss": "pares sini"
     },
     {
       "surface": "נתן",
@@ -78,13 +78,13 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "אלהיך",
-      "gloss": "imo Elohim"
+      "gloss": "Elohim mo"
     }
   ],
-  "timestamp": "2026-09-21T17:26:18.801437305Z",
+  "timestamp": "2026-09-25T08:59:39.276713379Z",
   "model": "glm-5.3"
 }

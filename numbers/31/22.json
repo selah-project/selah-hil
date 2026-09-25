@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "hil",
   "chapter": 31,
-  "translation": "Apang ⟨ang⟩ bulawan kag ⟨ang⟩ pilak, ⟨ang⟩ tumbaga, ⟨ang⟩ puthaw, ⟨ang⟩ estanyo kag ⟨ang⟩ tingga —",
+  "translation": "Basi ⟨את⟩ ang bulawan kag ⟨את⟩ ang pilak, ⟨את⟩ ang tumbaga, ⟨את⟩ ang puthaw, ⟨את⟩ ang estaño, kag ⟨את⟩ ang tingga",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "apang"
+      "gloss": "basi"
     },
     {
       "surface": "את",
@@ -50,11 +50,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang estanyo"
+      "marks": "ang estaño"
     },
     {
       "surface": "הבדיל",
-      "gloss": "ang estanyo"
+      "gloss": "ang estaño"
     },
     {
       "surface": "ואת",
@@ -66,6 +66,6 @@
       "gloss": "ang tingga"
     }
   ],
-  "timestamp": "2026-09-21T17:13:43.961713752Z",
+  "timestamp": "2026-09-25T09:44:47.343684429Z",
   "model": "glm-5.3"
 }

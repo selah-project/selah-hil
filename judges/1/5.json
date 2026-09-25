@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "hil",
   "chapter": 1,
-  "translation": "Kag nakita nila si Adoni-Bezek sa Bezek, kag nanginlaban sila sa iya, kag ginslag nila ⟨את⟩ ang Kanaanon kag ⟨את⟩ ang Perizzi.",
+  "translation": "Kag nakita nila si ⟨את⟩ Adoni-Bezek sa Bezek, kag ginalaban nila siya, kag ginpamatay nila ⟨את⟩ ang Kenaanon kag ⟨את⟩ ang Perizzi.",
   "tokens": [
     {
       "surface": "וימצאו",
-      "gloss": "nakita nila"
+      "gloss": "kag nakita nila"
     },
     {
       "surface": "את",
@@ -18,11 +18,11 @@
     },
     {
       "surface": "אדני",
-      "gloss": "Adoni-"
+      "gloss": "Adoni"
     },
     {
       "surface": "בזק",
-      "gloss": "Bezek"
+      "gloss": "-Bezek"
     },
     {
       "surface": "בבזק",
@@ -30,34 +30,35 @@
     },
     {
       "surface": "וילחמו",
-      "gloss": "kag nanginlaban"
+      "gloss": "kag ginalaban nila"
     },
     {
       "surface": "בו",
-      "gloss": "sa iya"
+      "gloss": "siya"
     },
     {
       "surface": "ויכו",
-      "gloss": "kag ginslag"
+      "gloss": "kag ginpamatay nila"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang Kanaanon"
+      "marks": "ang Kenaanon"
     },
     {
       "surface": "הכנעני",
-      "gloss": "ang Kanaanon"
+      "gloss": "ang Kenaanon"
     },
     {
       "surface": "ואת",
-      "gloss": "kag ⟨את⟩"
+      "gloss": "kag ⟨את⟩",
+      "marks": "ang Perizzi"
     },
     {
       "surface": "הפרזי",
       "gloss": "ang Perizzi"
     }
   ],
-  "timestamp": "2026-09-21T17:46:08.770614080Z",
+  "timestamp": "2026-09-25T09:36:54.926951138Z",
   "model": "glm-5.3"
 }

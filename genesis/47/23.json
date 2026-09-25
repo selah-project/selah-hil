@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 47,
-  "translation": "Nagsiling si Yosef sa mga tawo: Tan-awa, ginbakal ko kamo subong nga adlaw kag ⟨את⟩ ang inyo duta para kay Paro; yari, binhi para sa inyo, kag magatanom kamo sang ⟨את⟩ ang duta.",
+  "translation": "Kag nagsiling si Yosef sa mga tawo: Tan-awa, ginpatakaw ko kamo subong nga adlaw kag ⟨את⟩ ang inyo duta para kay Paro; yari sa inyo ang binhi, kag magatanom kamo ⟨את⟩ sang duta.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "nagsiling"
+      "gloss": "Kag nagsiling"
     },
     {
       "surface": "יוסף",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "העם",
-      "gloss": "ang mga tawo"
+      "gloss": "mga tawo"
     },
     {
       "surface": "הן",
-      "gloss": "tan-awa"
+      "gloss": "Tan-awa"
     },
     {
       "surface": "קניתי",
-      "gloss": "ginbakal ko"
+      "gloss": "ginpatakaw ko"
     },
     {
       "surface": "אתכם",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "לכם",
-      "gloss": "para sa inyo"
+      "gloss": "sa inyo"
     },
     {
       "surface": "זרע",
@@ -71,13 +71,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang duta"
+      "marks": "sang duta"
     },
     {
       "surface": "האדמה",
-      "gloss": "ang duta"
+      "gloss": "sang duta"
     }
   ],
-  "timestamp": "2026-09-21T22:18:05.491293246Z",
+  "timestamp": "2026-09-25T09:17:40.531717528Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "hil",
   "chapter": 23,
-  "translation": "Kag nagsiling si Balak sa iya: Lakat kuno ka upod sa akon sa iban nga duog, diin makita mo sila gikan didto; ang kahingpitan lang sang ila <sang katapusan> makita mo, kag ang tanan nila indi mo makita; kag tudlo-a ako sang mga panalanganon didto.",
+  "translation": "Kag nagsiling si Balak sa iya: Kadto ka ⟨palihog⟩ kaupod ⟨את⟩ ako sa iban nga duog, diin makita mo sila gikan didto; ang kaguyod sini gid lamang ang makita mo, kag ang tanan sini indi mo makita; kag tungkona ⟨את⟩ sila para sa akon gikan didto.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,16 +21,15 @@
     },
     {
       "surface": "לך",
-      "gloss": "lakat"
+      "gloss": "kadto ka"
     },
     {
       "surface": "נא",
-      "gloss": "kuno"
+      "gloss": "⟨palihog⟩"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩",
-      "marks": "sa akon"
+      "gloss": "kaupod ⟨את⟩ ako"
     },
     {
       "surface": "אל",
@@ -58,15 +57,15 @@
     },
     {
       "surface": "אפס",
-      "gloss": "ang katapusan"
+      "gloss": "gid lamang"
     },
     {
       "surface": "קצהו",
-      "gloss": "kahingpitan sini"
+      "gloss": "ang kaguyod sini"
     },
     {
       "surface": "תראה",
-      "gloss": "makita mo"
+      "gloss": "ang makita mo"
     },
     {
       "surface": "וכלו",
@@ -78,21 +77,21 @@
     },
     {
       "surface": "תראה",
-      "gloss": "makita mo"
+      "gloss": "mo makita"
     },
     {
       "surface": "וקבנו",
-      "gloss": "kag tudlo-a"
+      "gloss": "kag tungkona"
     },
     {
       "surface": "לי",
-      "gloss": "ako"
+      "gloss": "para sa akon"
     },
     {
       "surface": "משם",
-      "gloss": "didto"
+      "gloss": "gikan didto"
     }
   ],
-  "timestamp": "2026-09-21T17:11:08.996470443Z",
+  "timestamp": "2026-09-25T09:43:55.062913265Z",
   "model": "glm-5.3"
 }

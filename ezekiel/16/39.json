@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 16,
-  "translation": "Kag itugyan ko ikaw ⟨אותך⟩ sa ila mga kamot, kag gubaon nila ang imo arko kag paggubaon nila ang imo mga mataas nga duong, kag paghubason nila ikaw ⟨אותך⟩ sang imo mga bado, kag kuhaon nila ang mga galamiton sang imo katahum, kag pagabilin nila sa imo nga hubad kag wala gid sing bado.",
+  "translation": "Kag itugyan ko ikaw ⟨את⟩ sa ila mga kamot, kag pagbung-ag nila sang imo arko, kag paggun-ob nila sang imo mga mataas nga duog, kag paghubad nila ikaw ⟨את⟩ sang imo mga bado, kag kuhaon nila ang mga galamiton sang imo kaanyag, kag pagbay-i nila ikaw nga hubad kag wala sing bado.",
   "tokens": [
     {
       "surface": "ונתתי",
@@ -13,8 +13,8 @@
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ ⟨אותך⟩",
-      "marks": "ikaw"
+      "gloss": "⟨את⟩",
+      "marks": "sa ila mga kamot"
     },
     {
       "surface": "בידם",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "והרסו",
-      "gloss": "kag gubaon nila"
+      "gloss": "kag pagbung-ag nila"
     },
     {
       "surface": "גבך",
@@ -30,24 +30,24 @@
     },
     {
       "surface": "ונתצו",
-      "gloss": "kag paggubaon nila"
+      "gloss": "kag paggun-ob nila"
     },
     {
       "surface": "רמתיך",
-      "gloss": "imo mga mataas nga duong"
+      "gloss": "imo mga mataas nga duog"
     },
     {
       "surface": "והפשיטו",
-      "gloss": "kag paghubason nila"
+      "gloss": "kag paghubad nila"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ ⟨אותך⟩",
-      "marks": "ikaw"
+      "gloss": "⟨את⟩",
+      "marks": "imo mga bado"
     },
     {
       "surface": "בגדיך",
-      "gloss": "sang imo mga bado"
+      "gloss": "imo mga bado"
     },
     {
       "surface": "ולקחו",
@@ -55,15 +55,15 @@
     },
     {
       "surface": "כלי",
-      "gloss": "ang mga galamiton"
+      "gloss": "mga galamiton"
     },
     {
       "surface": "תפארתך",
-      "gloss": "sang imo katahum"
+      "gloss": "sang imo kaanyag"
     },
     {
       "surface": "והניחוך",
-      "gloss": "kag pagabilin nila sa imo"
+      "gloss": "kag pagbay-i nila ikaw"
     },
     {
       "surface": "עירם",
@@ -71,9 +71,9 @@
     },
     {
       "surface": "ועריה",
-      "gloss": "kag wala gid sing bado"
+      "gloss": "kag wala sing bado"
     }
   ],
-  "timestamp": "2026-09-21T19:46:46.985688595Z",
+  "timestamp": "2026-09-25T09:08:17.185402331Z",
   "model": "glm-5.3"
 }

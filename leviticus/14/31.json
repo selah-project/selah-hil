@@ -5,20 +5,20 @@
   "book": "leviticus",
   "lang": "hil",
   "chapter": 14,
-  "translation": "ang iya kamot makaabut: ⟨את⟩ ang isa nga halad sang sala kag ⟨את⟩ ang isa nga halad nga sunog, kaupod sang halad nga harina; kag magabayad-sala ang saserdote para sa tawo nga mapain sa atubangan ni Yahweh.",
+  "translation": "⟨את⟩ ang iya maatangan sang iya kamot: ang isa ⟨את⟩ ingon halad sang sala, kag ⟨את⟩ ang isa ingon halad nga sinusunug kaupod sa halad nga harina; kag magapanubli ang saserdote sa ginainunahan sa atubangan ni Yahweh.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang iya kamot makaabut"
+      "marks": "ang iya maatangan sang iya kamot"
     },
     {
       "surface": "אשר",
-      "gloss": "nga"
+      "gloss": "ang"
     },
     {
       "surface": "תשיג",
-      "gloss": "makaabut"
+      "gloss": "maatangan"
     },
     {
       "surface": "ידו",
@@ -48,11 +48,11 @@
     },
     {
       "surface": "עלה",
-      "gloss": "halad nga sunog"
+      "gloss": "halad nga sinusunug"
     },
     {
       "surface": "על",
-      "gloss": "kaupod sang"
+      "gloss": "kaupod sa"
     },
     {
       "surface": "המנחה",
@@ -60,7 +60,7 @@
     },
     {
       "surface": "וכפר",
-      "gloss": "kag magabayad-sala"
+      "gloss": "kag magapanubli"
     },
     {
       "surface": "הכהן",
@@ -68,11 +68,11 @@
     },
     {
       "surface": "על",
-      "gloss": "para sa"
+      "gloss": "sa"
     },
     {
       "surface": "המטהר",
-      "gloss": "tawo nga mapain"
+      "gloss": "ginainunahan"
     },
     {
       "surface": "לפני",
@@ -80,9 +80,9 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-09-21T16:47:59.509130043Z",
+  "timestamp": "2026-09-25T09:37:26.956905038Z",
   "model": "glm-5.3"
 }

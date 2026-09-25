@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "hil",
   "chapter": 7,
-  "translation": "Kuhaa ⟨את⟩ sa ila, kag magaabot sila sa pagbuhat sang ⟨את⟩ pagbuluhaton sang Balangay sang Pagtigayon, kag imo nga ihatod sila sa mga Levita, tagsa ka tawo suno sa iya kaugalingon nga pagbuluhaton.",
+  "translation": "Kuhaa ⟨gikan⟩ ⟨את⟩ sa ila, kag magauntat sila sa pagpadalagan sang pagpangabudlay sang Tolda sang Katipunan; kag ihatag mo ⟨את⟩ sila sa mga Levita, tagsa ka tawo suno sa iya pagpangabudlay.",
   "tokens": [
     {
       "surface": "קח",
@@ -14,41 +14,41 @@
     {
       "surface": "מאתם",
       "gloss": "⟨את⟩ sa ila",
-      "marks": "ang mga regalo"
+      "marks": "mga karosa kag mga baka (ang ginkuha)"
     },
     {
       "surface": "והיו",
-      "gloss": "kag magaabot sila"
+      "gloss": "kag magauntat sila"
     },
     {
       "surface": "לעבד",
-      "gloss": "sa pagbuhat"
+      "gloss": "sa pagpadalagan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pagbuluhaton"
+      "marks": "pagpangabudlay"
     },
     {
       "surface": "עבדת",
-      "gloss": "pagbuluhaton"
+      "gloss": "pagpangabudlay"
     },
     {
       "surface": "אהל",
-      "gloss": "Balangay"
+      "gloss": "Tolda"
     },
     {
       "surface": "מועד",
-      "gloss": "sang Pagtigayon"
+      "gloss": "sang Katipunan"
     },
     {
       "surface": "ונתתה",
-      "gloss": "kag imo nga ihatod"
+      "gloss": "kag ihatag mo"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "sila"
+      "marks": "sila (padulong sa mga Levita)"
     },
     {
       "surface": "אל",
@@ -68,9 +68,9 @@
     },
     {
       "surface": "עבדתו",
-      "gloss": "iya kaugalingon nga pagbuluhaton"
+      "gloss": "iya pagpangabudlay"
     }
   ],
-  "timestamp": "2026-09-21T17:00:34.410834306Z",
+  "timestamp": "2026-09-25T09:46:41.860475632Z",
   "model": "glm-5.3"
 }

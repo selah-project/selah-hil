@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 11,
-  "translation": "Kay kon pagtipigan ninyo sing maayo ⟨את⟩ ang tanan nga sugo ini nga akon ginasogo sa inyo nga himoon ninyo, sa paghigugma ⟨את⟩ kang Yahweh nga inyo Elohim, sa paglakat sa tanan nga iya mga dalan kag sa pagdunggan sa iya —",
+  "translation": "Kay kon magbantay kamo sing mabantayaron sang tanan nga sugo ini, nga akon ginasugo ⟨את⟩ sa inyo ⟨nga tumanon ninyo ini⟩, sa paghigugma ⟨kang⟩ Yahweh nga Elohim ninyo, sa paglakat sa tanan nga iya mga dalan, kag sa pagdungan ⟨kaniya⟩;",
   "tokens": [
     {
       "surface": "כי",
@@ -17,20 +17,20 @@
     },
     {
       "surface": "שמר",
-      "gloss": "pagtipig"
+      "gloss": "magbantay"
     },
     {
       "surface": "תשמרון",
-      "gloss": "tipigan ninyo sing maayo"
+      "gloss": "mabantayaron"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang tanan nga sugo ini"
+      "marks": "ang tanan nga sugo"
     },
     {
       "surface": "כל",
-      "gloss": "ang tanan"
+      "gloss": "tanan"
     },
     {
       "surface": "המצוה",
@@ -46,19 +46,19 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "ako"
+      "gloss": "akon"
     },
     {
       "surface": "מצוה",
-      "gloss": "ginasogo"
+      "gloss": "ginasugo"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kamo"
+      "gloss": "⟨את⟩ sa inyo"
     },
     {
       "surface": "לעשתה",
-      "gloss": "nga himoon ninyo"
+      "gloss": "⟨nga tumanon ninyo ini⟩"
     },
     {
       "surface": "לאהבה",
@@ -67,7 +67,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kang Yahweh"
+      "marks": "Yahweh nga Elohim ninyo"
     },
     {
       "surface": "יהוה",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "inyo Elohim"
+      "gloss": "nga Elohim ninyo"
     },
     {
       "surface": "ללכת",
@@ -87,17 +87,17 @@
     },
     {
       "surface": "דרכיו",
-      "gloss": "iya mga dalan"
+      "gloss": "nga iya mga dalan"
     },
     {
       "surface": "ולדבקה",
-      "gloss": "kag sa pagdunggan"
+      "gloss": "kag sa pagdungan"
     },
     {
       "surface": "בו",
-      "gloss": "sa iya"
+      "gloss": "⟨kaniya⟩"
     }
   ],
-  "timestamp": "2026-09-21T17:22:02.151732702Z",
+  "timestamp": "2026-09-25T08:57:58.924871543Z",
   "model": "glm-5.3"
 }

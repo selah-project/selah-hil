@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "hil",
   "chapter": 9,
-  "translation": "Kag ginpamatan-ay ni Yahweh ⟨את⟩ ang kasingkasing ni Paro, kag wala niya pagbati ang ila hambal, nga pareho sang ginhambal ni Yahweh kay Moshe.",
+  "translation": "Kag ginpabaskog ni Yahweh ⟨את⟩ ang tagipusuon ni Paro, kag wala siya mamati sa ila, subong sang ginhambal ni Yahweh kay Moshe.",
   "tokens": [
     {
       "surface": "ויחזק",
-      "gloss": "ginpamatan-ay"
+      "gloss": "ginpabaskog"
     },
     {
       "surface": "יהוה",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang kasingkasing ni Paro"
+      "marks": "ang tagipusuon"
     },
     {
       "surface": "לב",
-      "gloss": "kasingkasing"
+      "gloss": "ang tagipusuon"
     },
     {
       "surface": "פרעה",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "שמע",
-      "gloss": "pagbati ang ila hambal"
+      "gloss": "mamati"
     },
     {
       "surface": "אלהם",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "nga pareho sang"
+      "gloss": "subong sang"
     },
     {
       "surface": "דבר",
@@ -61,6 +61,6 @@
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-09-21T16:23:03.168339382Z",
+  "timestamp": "2026-09-25T09:05:47.895522869Z",
   "model": "glm-5.3"
 }

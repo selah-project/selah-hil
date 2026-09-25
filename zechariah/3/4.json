@@ -5,15 +5,15 @@
   "book": "zechariah",
   "lang": "hil",
   "chapter": 3,
-  "translation": "Kag nagsabat siya kag nagsiling sa mga nagatindog sa iya atubang, nga nagaingon: Kuhaa ninyo ang malaw-ay nga mga bado sa iya. Kag nagsiling siya sa iya: Tan-awa, gintangko ko palayo sa imo ang imong kalautan, kag magasul-oban kita ⟨⟨את⟩ ikaw⟩ sang mahalon nga mga bado.",
+  "translation": "Kag ginsabat niya kag naghambal sa mga nagatindog sa iya atubang, nga nagaingod: Tangd-a ang mga bado nga mahigko sa iya. Kag naghambal siya sa iya: Tan-awa, ginpahalin ko ang imo kalaut ⟨sa imo⟩, kag ipasul-ong ikaw sang ⟨את⟩ mga matahom nga bado.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "kag nagsabat"
+      "gloss": "Kag ginsabat niya"
     },
     {
       "surface": "ויאמר",
-      "gloss": "kag nagsiling"
+      "gloss": "kag naghambal"
     },
     {
       "surface": "אל",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "nga nagaingon"
+      "gloss": "nga nagaingod"
     },
     {
       "surface": "הסירו",
-      "gloss": "kuhaa ninyo"
+      "gloss": "Tangd-a"
     },
     {
       "surface": "הבגדים",
-      "gloss": "ang mga bado"
+      "gloss": "mga bado"
     },
     {
       "surface": "הצאים",
-      "gloss": "nga malaw-ay"
+      "gloss": "nga mahigko"
     },
     {
       "surface": "מעליו",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "kag nagsiling"
+      "gloss": "Kag naghambal siya"
     },
     {
       "surface": "אליו",
@@ -57,33 +57,34 @@
     },
     {
       "surface": "ראה",
-      "gloss": "tan-awa"
+      "gloss": "Tan-awa"
     },
     {
       "surface": "העברתי",
-      "gloss": "gintangko ko palayo"
+      "gloss": "ginpahalin ko"
     },
     {
       "surface": "מעליך",
-      "gloss": "sa imo"
+      "gloss": "⟨sa imo⟩"
     },
     {
       "surface": "עונך",
-      "gloss": "imong kalautan"
+      "gloss": "imo kalaut"
     },
     {
       "surface": "והלבש",
-      "gloss": "kag magasul-oban"
+      "gloss": "kag ipasul-ong"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ikaw"
+      "gloss": "⟨את⟩ ikaw",
+      "marks": "mga matahom nga bado"
     },
     {
       "surface": "מחלצות",
-      "gloss": "mahalon nga mga bado"
+      "gloss": "mga matahom nga bado"
     }
   ],
-  "timestamp": "2026-09-21T20:19:20.009070485Z",
+  "timestamp": "2026-09-25T09:51:02.342075657Z",
   "model": "glm-5.3"
 }

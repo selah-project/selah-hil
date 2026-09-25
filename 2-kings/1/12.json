@@ -5,19 +5,19 @@
   "book": "2-kings",
   "lang": "hil",
   "chapter": 1,
-  "translation": "Kag ginsabat ni Eliyahu kag nagsiling sa ila: Kon tawo sang Elohim ako, magpanaug kalayo sa mga langit kag magakaon ⟨sa imo⟩ kag ⟨kag⟩ sa imo nga lima ka pulo; kag nagpanaug ang kalayo sang Elohim sa mga langit kag nagkaon ⟨sa iya⟩ kag sa iya nga lima ka pulo.",
+  "translation": "Kag gintuboy si Eliyah kag naghambal sa ila, “Kon tawo ako sang Elohim, magpanaog ang kalayo sa langit kag magakaon ⟨את⟩ sa imo kag ⟨את⟩ sa imo nga lima ka pulo.” Kag nagpanaog ang kalayo sang Elohim sa langit kag nagkaon ⟨את⟩ sa iya kag ⟨את⟩ sa iya nga lima ka pulo.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "Kag ginsabat"
+      "gloss": "gintuboy"
     },
     {
       "surface": "אליה",
-      "gloss": "ni Eliyahu"
+      "gloss": "si Eliyah"
     },
     {
       "surface": "וידבר",
-      "gloss": "kag nagsiling"
+      "gloss": "naghambal"
     },
     {
       "surface": "אליהם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "Kon"
+      "gloss": "kon"
     },
     {
       "surface": "איש",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "תרד",
-      "gloss": "magpanaug"
+      "gloss": "magpanaog"
     },
     {
       "surface": "אש",
-      "gloss": "kalayo"
+      "gloss": "ang kalayo"
     },
     {
       "surface": "מן",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "השמים",
-      "gloss": "mga langit"
+      "gloss": "langit"
     },
     {
       "surface": "ותאכל",
@@ -62,7 +62,7 @@
     {
       "surface": "אתך",
       "gloss": "⟨את⟩",
-      "marks": "ikaw"
+      "marks": "sa imo"
     },
     {
       "surface": "ואת",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "ותרד",
-      "gloss": "kag nagpanaug"
+      "gloss": "kag nagpanaog"
     },
     {
       "surface": "אש",
@@ -91,7 +91,7 @@
     },
     {
       "surface": "השמים",
-      "gloss": "mga langit"
+      "gloss": "langit"
     },
     {
       "surface": "ותאכל",
@@ -100,7 +100,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "siya"
+      "marks": "sa iya"
     },
     {
       "surface": "ואת",
@@ -112,6 +112,6 @@
       "gloss": "iya nga lima ka pulo"
     }
   ],
-  "timestamp": "2026-09-21T18:39:39.937543585Z",
+  "timestamp": "2026-09-25T08:48:11.553115817Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "1-samuel",
   "lang": "hil",
   "chapter": 2,
-  "translation": "Kag nagkadto si Elqana sa Ramah sa iya balay, kag ang bata nagaserbi ⟨את⟩ kang Yahweh sa atubang ni Eli nga pari.",
+  "translation": "Kag nagpauli si Elkanah sa Rama, sa iya balay; kag ang bata nagabalhanabhat ⟨kay⟩ Yahweh, ⟨sa atubangan⟩ ni Eli nga pari.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "kag nagkadto"
+      "gloss": "kag nagpauli"
     },
     {
       "surface": "אלקנה",
-      "gloss": "si Elqana"
+      "gloss": "si Elkanah"
     },
     {
       "surface": "הרמתה",
-      "gloss": "sa Ramah"
+      "gloss": "sa Rama"
     },
     {
       "surface": "על",
@@ -33,29 +33,29 @@
     },
     {
       "surface": "היה",
-      "gloss": "nagin"
+      "gloss": "nagabalhanabhat ⟨amo⟩"
     },
     {
       "surface": "משרת",
-      "gloss": "nagaserbi"
+      "gloss": "nagaserbi\/nagabalhanabhat"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kang Yahweh"
+      "marks": "kay Yahweh"
     },
     {
       "surface": "יהוה",
-      "gloss": "si Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sa atubang ni Eli"
+      "marks": "sa atubangan ni Eli"
     },
     {
       "surface": "פני",
-      "gloss": "atubang"
+      "gloss": "⟨sa atubangan⟩"
     },
     {
       "surface": "עלי",
@@ -66,6 +66,6 @@
       "gloss": "nga pari"
     }
   ],
-  "timestamp": "2026-09-21T17:57:29.529921322Z",
+  "timestamp": "2026-09-25T08:43:28.652876364Z",
   "model": "glm-5.3"
 }

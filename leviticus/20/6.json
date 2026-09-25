@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "hil",
   "chapter": 20,
-  "translation": "Kag ang kalag nga magtuyok sa mga mangangalap sang mga patay kag sa mga mataho sang mga tinago, sa pagpangabaybay suno sa ila, ibutang ko ang akon dagway batok sa kalag nga ina, kag putlon ko siya tunga sang iya katawhan.",
+  "translation": "Kag ang tawo nga magpaligyo sa mga nagatawag sang mga kalag kag sa mga man nga nakasayod ⟨sa mga tinago⟩, sa pagpaslubog sa ila pabalik, igapatungtong ko ang akon dagway sa sini nga tawo, kag papaguhiton ko siya ⟨את⟩ sa tunga sang iya katawhan.",
   "tokens": [
     {
       "surface": "והנפש",
-      "gloss": "kag ang kalag"
+      "gloss": "kag ang tawo"
     },
     {
       "surface": "אשר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תפנה",
-      "gloss": "magtuyok"
+      "gloss": "magpaligyo"
     },
     {
       "surface": "אל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "האבת",
-      "gloss": "mga mangangalap sang mga patay"
+      "gloss": "mga nagatawag sang mga kalag"
     },
     {
       "surface": "ואל",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "הידענים",
-      "gloss": "mga mataho sang mga tinago"
+      "gloss": "mga man nga nakasayod"
     },
     {
       "surface": "לזנות",
-      "gloss": "sa pagpangabaybay"
+      "gloss": "sa pagpaslubog"
     },
     {
       "surface": "אחריהם",
-      "gloss": "suno sa ila"
+      "gloss": "sa ila pabalik"
     },
     {
       "surface": "ונתתי",
-      "gloss": "kag ibutang ko"
+      "gloss": "igapatungtong ko"
     },
     {
       "surface": "את",
@@ -58,15 +58,15 @@
     },
     {
       "surface": "בנפש",
-      "gloss": "sa kalag"
+      "gloss": "sa sini nga tawo"
     },
     {
       "surface": "ההוא",
-      "gloss": "nga ina"
+      "gloss": "sini"
     },
     {
       "surface": "והכרתי",
-      "gloss": "kag putlon ko"
+      "gloss": "kag papaguhiton ko siya"
     },
     {
       "surface": "אתו",
@@ -75,13 +75,13 @@
     },
     {
       "surface": "מקרב",
-      "gloss": "tunga sang"
+      "gloss": "sa tunga"
     },
     {
       "surface": "עמו",
-      "gloss": "iya katawhan"
+      "gloss": "sang iya katawhan"
     }
   ],
-  "timestamp": "2026-09-21T16:53:00.317129712Z",
+  "timestamp": "2026-09-25T09:39:56.259209570Z",
   "model": "glm-5.3"
 }

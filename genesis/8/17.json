@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "hil",
   "chapter": 8,
-  "translation": "Ang tanan nga buhi nga ⟨are⟩ uban sa imo, tanan nga unod, sa mga sapat nga nagalayog kag sa mga sapat nga gapanghod kag sa tanan nga nagakamang nga nagakamang sa ibabaw sang duta, ipagwa ka ⟨together⟩ uban sa imo, kag magakamáng sila sa duta kag magakunog sila kag madamo sila sa ibabaw sang duta.",
+  "translation": "Ang tanan nga buhi nga ara kanimo, sa tanan nga unod, sa mga langgam kag sa mga sapat kag sa tanan nga maya nga nagakapan-an sa ibabaw sang duta — pagguwaon mo sila ⟨את⟩ kaupod kanimo, kag magasibsib sila sa duta kag magabunga kag magadamo sa duta.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "ang tanan"
+      "gloss": "tanan"
     },
     {
       "surface": "החיה",
-      "gloss": "nga buhi"
+      "gloss": "buhi"
     },
     {
       "surface": "אשר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ uban sa imo"
+      "gloss": "⟨את⟩ kanimo"
     },
     {
       "surface": "מכל",
-      "gloss": "tanan"
+      "gloss": "sa tanan"
     },
     {
       "surface": "בשר",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "בעוף",
-      "gloss": "sa mga sapat nga nagalayog"
+      "gloss": "sa mga langgam"
     },
     {
       "surface": "ובבהמה",
-      "gloss": "kag sa mga sapat nga gapanghod"
+      "gloss": "kag sa mga sapat"
     },
     {
       "surface": "ובכל",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "הרמש",
-      "gloss": "nga nagakamang"
+      "gloss": "maya"
     },
     {
       "surface": "הרמש",
-      "gloss": "nga nagakamang"
+      "gloss": "nagakapan-an"
     },
     {
       "surface": "על",
@@ -61,15 +61,15 @@
     },
     {
       "surface": "הוצא",
-      "gloss": "ipagwa"
+      "gloss": "pagguwaon"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ uban sa imo"
+      "gloss": "⟨את⟩ kaupod kanimo"
     },
     {
       "surface": "ושרצו",
-      "gloss": "kag magakamáng sila"
+      "gloss": "kag magasibsib"
     },
     {
       "surface": "בארץ",
@@ -77,11 +77,11 @@
     },
     {
       "surface": "ופרו",
-      "gloss": "kag magakunog sila"
+      "gloss": "kag magabunga"
     },
     {
       "surface": "ורבו",
-      "gloss": "kag madamo sila"
+      "gloss": "kag magadamo"
     },
     {
       "surface": "על",
@@ -92,6 +92,6 @@
       "gloss": "sang duta"
     }
   ],
-  "timestamp": "2026-09-21T15:57:30.766430802Z",
+  "timestamp": "2026-09-25T09:18:54.787959246Z",
   "model": "glm-5.3"
 }

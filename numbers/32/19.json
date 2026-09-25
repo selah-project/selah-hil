@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "hil",
   "chapter": 32,
-  "translation": "kay indi kami mangin manogpanubli ⟨ka⟩ ila sa tabok sang Yarden kag sa layo, kay ang aton panubliuan nakaabot sa aton sa tabok sang Yarden, sa sidlangan.",
+  "translation": "kay indi kami manunungkol kaupod nila ⟨את⟩ sa tabok sang Yarden kag pakadto pa, kay ang aton tinuhoy sa pagpanunungkol nakaabot sa aton sa tabok sang Yarden, sa sidlangan.",
   "tokens": [
     {
       "surface": "כי",
@@ -17,12 +17,12 @@
     },
     {
       "surface": "ננחל",
-      "gloss": "mangin manogpanubli"
+      "gloss": "manunungkol kami"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "ila"
+      "marks": "kaupod nila"
     },
     {
       "surface": "מעבר",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "והלאה",
-      "gloss": "kag sa layo"
+      "gloss": "kag pakadto pa"
     },
     {
       "surface": "כי",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "נחלתנו",
-      "gloss": "ang aton panubliuan"
+      "gloss": "ang aton tinuhoy sa pagpanunungkol"
     },
     {
       "surface": "אלינו",
@@ -65,6 +65,6 @@
       "gloss": "sa sidlangan"
     }
   ],
-  "timestamp": "2026-09-21T22:57:58.439340952Z",
+  "timestamp": "2026-09-25T09:46:30.746913606Z",
   "model": "glm-5.3"
 }

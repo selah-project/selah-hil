@@ -5,40 +5,41 @@
   "book": "jeremiah",
   "lang": "hil",
   "chapter": 39,
-  "translation": "Kag ginpadala nila kag nakuha nila si Yirmeyahu sa kortal sang pagkapOT sang mga sulud ⟨את⟩, kag ginhatod nila siya kay Gedalyahu nga anak ni Akhikam, nga anak ni Shafan, agod iya siya iguwa sa balay; kag nagpuyo siya sa tunga sang mga tawo.",
+  "translation": "Kag nagpadala kag nangkuha sila ⟨את⟩ kay Yirmeyahu sa korte sang mga bantay, kag gintugyan nila ⟨את⟩ siya kay Gedalyahu, anak nga lalaki ni Akhikam, anak nga lalaki ni Shafan, agod nga ipagwa siya sa balay, kag nagpuyo siya sa tunga sang mga tawo.",
   "tokens": [
     {
       "surface": "וישלחו",
-      "gloss": "ginpadala nila"
+      "gloss": "kag nagpadala sila"
     },
     {
       "surface": "ויקחו",
-      "gloss": "kag nakuha nila"
+      "gloss": "kag nangkuha sila"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "si Yirmeyahu"
+      "marks": "kay Yirmeyahu"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "si Yirmeyahu"
+      "gloss": "kay Yirmeyahu"
     },
     {
       "surface": "מחצר",
-      "gloss": "sa kortal"
+      "gloss": "sa korte"
     },
     {
       "surface": "המטרה",
-      "gloss": "sang pagkapiit"
+      "gloss": "sang mga bantay"
     },
     {
       "surface": "ויתנו",
-      "gloss": "kag ginhatod nila"
+      "gloss": "kag gintugyan nila"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ siya"
+      "gloss": "⟨את⟩ siya",
+      "marks": "si Yirmeyahu"
     },
     {
       "surface": "אל",
@@ -50,7 +51,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "nga anak"
+      "gloss": "anak nga lalaki"
     },
     {
       "surface": "אחיקם",
@@ -58,7 +59,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "nga anak"
+      "gloss": "anak nga lalaki"
     },
     {
       "surface": "שפן",
@@ -66,7 +67,7 @@
     },
     {
       "surface": "להוצאהו",
-      "gloss": "agod iya siya iguwa"
+      "gloss": "agod nga ipagwa siya"
     },
     {
       "surface": "אל",
@@ -78,7 +79,7 @@
     },
     {
       "surface": "וישב",
-      "gloss": "kag nagpuyo"
+      "gloss": "kag nagpuyo siya"
     },
     {
       "surface": "בתוך",
@@ -89,6 +90,6 @@
       "gloss": "sang mga tawo"
     }
   ],
-  "timestamp": "2026-09-21T19:32:49.874032403Z",
+  "timestamp": "2026-09-25T09:26:35.245211385Z",
   "model": "glm-5.3"
 }

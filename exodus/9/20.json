@@ -5,24 +5,24 @@
   "book": "exodus",
   "lang": "hil",
   "chapter": 9,
-  "translation": "Ang nagakadlagan sa pulong ni Yahweh sa mga sulugoon ni Paro iya ginpahalín ⟨את⟩ ang iya mga sulugoon kag ⟨את⟩ ang iya mga sapat pasulod sa mga balay.",
+  "translation": "Ang nakaikog sa hambal ni Yahweh, sa mga sulugoon ni Paro, nagpalagi sa iya mga sulugoon kag ⟨את⟩ sa iya mga kahayupan sa sulod sang mga balay.",
   "tokens": [
     {
       "surface": "הירא",
-      "gloss": "Ang nagakadlagan"
+      "gloss": "ang nakaikog"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pulong"
+      "marks": "hambal"
     },
     {
       "surface": "דבר",
-      "gloss": "pulong"
+      "gloss": "hambal"
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "מעבדי",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "ni Paro"
+      "gloss": "Paro"
     },
     {
       "surface": "הניס",
-      "gloss": "iya ginpahalín"
+      "gloss": "nagpalagi"
     },
     {
       "surface": "את",
@@ -48,21 +48,21 @@
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "iya mga sapat"
+      "marks": "iya mga kahayupan"
     },
     {
       "surface": "מקנהו",
-      "gloss": "iya mga sapat"
+      "gloss": "iya mga kahayupan"
     },
     {
       "surface": "אל",
-      "gloss": "pasulod"
+      "gloss": "sa"
     },
     {
       "surface": "הבתים",
-      "gloss": "sa mga balay"
+      "gloss": "sulod sang mga balay"
     }
   ],
-  "timestamp": "2026-09-21T16:24:02.869588114Z",
+  "timestamp": "2026-09-25T09:05:47.538998652Z",
   "model": "glm-5.3"
 }

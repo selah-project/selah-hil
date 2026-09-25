@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "hil",
   "chapter": 23,
-  "translation": "Kag nagsiling si Yahweh: si Yehudah man pagkuhaon ko sa akon atubangan, subong sang ginkuha ko ⟨את⟩ ang Yisrael; kag pagtalikdan ko ⟨את⟩ ini nga syudad nga akon ginpili — ang Yerushalayim — kag ⟨את⟩ ang balay nga akon ginsilingan: maging ang akon ngalan didto.",
+  "translation": "Kag nagsiling si Yahweh: Kuhaon ko man ⟨את⟩ ang Yehudah gikan sa akon tampad, subong sang akon pagkuha ⟨את⟩ ang Yisrael, kag sikwayan ko ⟨את⟩ ini nga siyudad nga akon pinilian — ⟨את⟩ ang Yerushalayim — kag ⟨את⟩ ang balay nga akon gin-hambalan, 'Ara didto ang akon ngalan.'",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Kag nagsiling"
+      "gloss": "kag nagsiling"
     },
     {
       "surface": "יהוה",
@@ -22,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "si Yehudah"
+      "marks": "ang Yehudah"
     },
     {
       "surface": "יהודה",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "אסיר",
-      "gloss": "pagkuhaon ko"
+      "gloss": "kuhaon ko"
     },
     {
       "surface": "מעל",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "פני",
-      "gloss": "akon atubangan"
+      "gloss": "akon tampad"
     },
     {
       "surface": "כאשר",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "הסרתי",
-      "gloss": "ginkuha ko"
+      "gloss": "akon pagkuha"
     },
     {
       "surface": "את",
@@ -59,16 +59,16 @@
     },
     {
       "surface": "ומאסתי",
-      "gloss": "kag pagtalikdan ko"
+      "gloss": "kag sikwayan ko"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ini nga syudad"
+      "marks": "ini nga siyudad"
     },
     {
       "surface": "העיר",
-      "gloss": "ang syudad"
+      "gloss": "ini nga siyudad"
     },
     {
       "surface": "הזאת",
@@ -80,7 +80,7 @@
     },
     {
       "surface": "בחרתי",
-      "gloss": "akon ginpili"
+      "gloss": "akon pinilian"
     },
     {
       "surface": "את",
@@ -106,11 +106,11 @@
     },
     {
       "surface": "אמרתי",
-      "gloss": "akon ginsiling"
+      "gloss": "akon gin-hambalan"
     },
     {
       "surface": "יהיה",
-      "gloss": "maging"
+      "gloss": "ara"
     },
     {
       "surface": "שמי",
@@ -121,6 +121,6 @@
       "gloss": "didto"
     }
   ],
-  "timestamp": "2026-09-21T18:50:17.962840016Z",
+  "timestamp": "2026-09-25T08:47:41.743205951Z",
   "model": "glm-5.3"
 }

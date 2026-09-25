@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 31,
-  "translation": "Agod indi magpagataas ang tanan nga kahoy sang tubig sa ila kataas, kag indi maghatag sang ⟨את⟩ ila topmayo sa tunga sang mga maapton nga sanga, kag indi magtindog sa ila kabugtason ang tanan nga nanginom sang tubig, kay tanan sila ginhatag sa kamatayon, sa duta sa ubos, sa tunga sang mga anak sang tawo, kaupod sang mga nagpanaog sa lungag.",
+  "translation": "Agod nga tanan nga mga kahoy sang tubig indi magpataas sa ila kataas, kag indi magbutang ⟨את⟩ sang ila dahon sa tunga sang mga mabaskog nga sanga, kag indi magtindog sa ila kataas ang tanan nga naga-inom sang tubig; kay tanan sila ginhatag sa kamatayon, sa duta sa ilalum, sa tunga sang mga anak sang tawo, kaupod sang mga nagpanaug sa luwang.",
   "tokens": [
     {
       "surface": "למען",
-      "gloss": "agod"
+      "gloss": "agod nga"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "nga"
     },
     {
       "surface": "לא",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יגבהו",
-      "gloss": "magpagataas"
+      "gloss": "magpataas"
     },
     {
       "surface": "בקומתם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "עצי",
-      "gloss": "kahoy"
+      "gloss": "mga kahoy"
     },
     {
       "surface": "מים",
@@ -45,16 +45,16 @@
     },
     {
       "surface": "יתנו",
-      "gloss": "maghatag"
+      "gloss": "magbutang"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ila topmayo"
+      "marks": "sang ila dahon"
     },
     {
       "surface": "צמרתם",
-      "gloss": "topmayo"
+      "gloss": "ila dahon"
     },
     {
       "surface": "אל",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "עבתים",
-      "gloss": "mga maapton nga sanga"
+      "gloss": "mga mabaskog nga sanga"
     },
     {
       "surface": "ולא",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "בגבהם",
-      "gloss": "ila kabugtason"
+      "gloss": "sa ila kataas"
     },
     {
       "surface": "כל",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "שתי",
-      "gloss": "nanginom"
+      "gloss": "nga naga-inom"
     },
     {
       "surface": "מים",
@@ -122,7 +122,7 @@
     },
     {
       "surface": "תחתית",
-      "gloss": "sa ubos"
+      "gloss": "sa ilalum"
     },
     {
       "surface": "בתוך",
@@ -142,13 +142,13 @@
     },
     {
       "surface": "יורדי",
-      "gloss": "mga nagpanaog"
+      "gloss": "mga nagpanaug"
     },
     {
       "surface": "בור",
-      "gloss": "sa lungag"
+      "gloss": "sa luwang"
     }
   ],
-  "timestamp": "2026-09-21T19:56:04.237145681Z",
+  "timestamp": "2026-09-25T09:12:40.012007801Z",
   "model": "glm-5.3"
 }

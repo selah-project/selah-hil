@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 20,
-  "translation": "Agod indi sila magtudlo ⟨sa inyo⟩ sa paghimo sang tanan nila nga kakahalayan, nga ginhimo nila sa ila mga elohim, kag ⟨siling sini⟩ magasala kamo kay Yahweh nga Elohim ninyo.",
+  "translation": "agod nga indi sila magtudlo ⟨את⟩ sa inyo sa pagbuhat sang tanan nga ila mga kinasil-an, nga ila ginhimo sa ila mga dios, kag magpakasala kamo kay Yahweh, ang inyo Elohim.",
   "tokens": [
     {
       "surface": "למען",
-      "gloss": "Agod"
+      "gloss": "agod nga"
     },
     {
       "surface": "אשר",
@@ -21,24 +21,24 @@
     },
     {
       "surface": "ילמדו",
-      "gloss": "magtudlo sila"
+      "gloss": "sila magtudlo"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "sa inyo"
+      "gloss": "⟨את⟩ sa inyo",
+      "marks": "sa pagbuhat sang tanan nga ila mga kinasil-an"
     },
     {
       "surface": "לעשות",
-      "gloss": "sa paghimo"
+      "gloss": "sa pagbuhat"
     },
     {
       "surface": "ככל",
-      "gloss": "sang tanan"
+      "gloss": "sang tanan nga"
     },
     {
       "surface": "תועבתם",
-      "gloss": "nila nga kakahalayan"
+      "gloss": "ila mga kinasil-an"
     },
     {
       "surface": "אשר",
@@ -46,15 +46,15 @@
     },
     {
       "surface": "עשו",
-      "gloss": "ginhimo nila"
+      "gloss": "ila ginhimo"
     },
     {
       "surface": "לאלהיהם",
-      "gloss": "sa ila mga elohim"
+      "gloss": "sa ila mga dios"
     },
     {
       "surface": "וחטאתם",
-      "gloss": "kag magasala kamo"
+      "gloss": "kag magpakasala kamo"
     },
     {
       "surface": "ליהוה",
@@ -62,9 +62,9 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim ninyo"
+      "gloss": "ang inyo Elohim"
     }
   ],
-  "timestamp": "2026-09-21T17:27:03.573662026Z",
+  "timestamp": "2026-09-25T08:57:55.498215641Z",
   "model": "glm-5.3"
 }

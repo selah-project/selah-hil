@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "hil",
   "chapter": 38,
-  "translation": "Kag naghambal ang hari si Tsidkiyahu: Tan-awa, siya ara sa inyo mga kamot, kay ang hari indi makahimo sang bisan ano laban sa inyo.",
+  "translation": "Kag nagsiling ang hari nga si Tsidkijahu, Tan-awa, siya ara sa inyo ⟨mga⟩ kamot, kay wala makahimo ang hari ⟨את⟩ sang inyo ⟨partido⟩ sa bisan ano nga butang.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Kag naghambal"
+      "gloss": "kag nagsiling"
     },
     {
       "surface": "המלך",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "צדקיהו",
-      "gloss": "si Tsidkiyahu"
+      "gloss": "si Tsidkijahu"
     },
     {
       "surface": "הנה",
-      "gloss": "Tan-awa"
+      "gloss": "tan-awa"
     },
     {
       "surface": "הוא",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אין",
-      "gloss": "indi"
+      "gloss": "wala"
     },
     {
       "surface": "המלך",
@@ -49,13 +49,14 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ sa inyo"
+      "gloss": "⟨את⟩",
+      "marks": "sa inyo — ang ginatudlo sini amo ang butang (דבר)"
     },
     {
       "surface": "דבר",
-      "gloss": "bisan ano"
+      "gloss": "bisan ano nga butang"
     }
   ],
-  "timestamp": "2026-09-21T22:34:39.243055490Z",
+  "timestamp": "2026-09-25T09:25:58.855359443Z",
   "model": "glm-5.3"
 }

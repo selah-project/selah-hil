@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "hil",
   "chapter": 18,
-  "translation": "Sa manugpanguna, sang alagad ni Yahweh, kay David, nga naghambal kay Yahweh ⟨את⟩ ang mga pulong sang dayeng ini, sa adlaw nga ginluwas ni Yahweh siya gikan sa palad sang tanan niya nga mga kaaway kag gikan sa kamot ni Shaul.",
+  "translation": "Sa manugdumala, para sa ulipon ni Yahweh, kay David, nga naghambal kay Yahweh ⟨את⟩ sang mga pulong sang kanta nga ini, sa adlaw nga gintan-aw ni Yahweh nga maluwas ⟨את⟩ siya gikan sa palad sang tanan niya nga mga kaaway kag gikan sa kamot ni Shaul;",
   "tokens": [
     {
       "surface": "למנצח",
-      "gloss": "Sa manugpanguna"
+      "gloss": "sa manugdumala"
     },
     {
       "surface": "לעבד",
-      "gloss": "sang alagad"
+      "gloss": "para sa ulipon"
     },
     {
       "surface": "יהוה",
@@ -38,19 +38,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang mga pulong"
+      "marks": "mga pulong"
     },
     {
       "surface": "דברי",
-      "gloss": "ang mga pulong"
+      "gloss": "mga pulong"
     },
     {
       "surface": "השירה",
-      "gloss": "sang dayeng"
+      "gloss": "sang kanta"
     },
     {
       "surface": "הזאת",
-      "gloss": "ini"
+      "gloss": "nga ini"
     },
     {
       "surface": "ביום",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "הציל",
-      "gloss": "nga ginluwas"
+      "gloss": "gintan-aw nga maluwas"
     },
     {
       "surface": "יהוה",
@@ -66,8 +66,8 @@
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ ⟨siya⟩",
-      "marks": "si David"
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (si David)"
     },
     {
       "surface": "מכף",
@@ -75,11 +75,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "sang tanan"
+      "gloss": "tanan"
     },
     {
       "surface": "איביו",
-      "gloss": "niya nga mga kaaway"
+      "gloss": "iya nga mga kaaway"
     },
     {
       "surface": "ומיד",
@@ -90,6 +90,6 @@
       "gloss": "ni Shaul"
     }
   ],
-  "timestamp": "2026-09-21T22:38:54.297182955Z",
+  "timestamp": "2026-09-25T09:49:50.565926820Z",
   "model": "glm-5.3"
 }

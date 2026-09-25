@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "hil",
   "chapter": 13,
-  "translation": "Nagpaninguhay si Aviyah sa paglampos kay Yarovam, kag nakuha niya halin sa iya ang mga siyudad: ⟨את⟩ Bet-El kag ang iya mga baryo, kag ⟨את⟩ Yeshanah kag ang iya mga baryo, kag ⟨את⟩ Efron kag ang iya mga baryo.",
+  "translation": "Kag naglagas si Aviya kay Yarovam, kag nagdakop gikan sa iya sang mga siyudad: ⟨את⟩ Bet-El kag ⟨ang⟩ iya mga baryo, kag ⟨את⟩ Yeshanah kag iya mga baryo, kag ⟨את⟩ Efron kag iya mga baryo.",
   "tokens": [
     {
       "surface": "וירדף",
-      "gloss": "nagpaninguhay sa paglampos"
+      "gloss": "Kag naglagas"
     },
     {
       "surface": "אביה",
-      "gloss": "si Aviyah"
+      "gloss": "si Aviya"
     },
     {
       "surface": "אחרי",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "וילכד",
-      "gloss": "kag nakuha"
+      "gloss": "kag nagdakop"
     },
     {
       "surface": "ממנו",
-      "gloss": "halin sa iya"
+      "gloss": "gikan sa iya"
     },
     {
       "surface": "ערים",
-      "gloss": "ang mga siyudad"
+      "gloss": "sang mga siyudad"
     },
     {
       "surface": "את",
@@ -42,20 +42,20 @@
     },
     {
       "surface": "בית",
-      "gloss": "Bet-"
+      "gloss": "Bet"
     },
     {
       "surface": "אל",
-      "gloss": "El"
+      "gloss": "-El"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "Yeshanah"
+      "marks": "ang iya mga baryo"
     },
     {
       "surface": "בנותיה",
-      "gloss": "ang iya mga baryo"
+      "gloss": "iya mga baryo"
     },
     {
       "surface": "ואת",
@@ -69,11 +69,11 @@
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang iya mga baryo sang Yeshanah"
+      "marks": "iya mga baryo"
     },
     {
       "surface": "בנותיה",
-      "gloss": "ang iya mga baryo"
+      "gloss": "iya mga baryo"
     },
     {
       "surface": "ואת",
@@ -86,9 +86,9 @@
     },
     {
       "surface": "ובנתיה",
-      "gloss": "kag ang iya mga baryo"
+      "gloss": "kag iya mga baryo"
     }
   ],
-  "timestamp": "2026-09-21T22:05:58.661993795Z",
+  "timestamp": "2026-09-25T08:45:49.145821105Z",
   "model": "glm-5.3"
 }

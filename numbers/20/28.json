@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "hil",
   "chapter": 20,
-  "translation": "Kag ginhubaran ni Moshe si Aharon sang iya mga bado, kag ginsul-ob niya ang mga ina kay Elazar iya anak; kag nangamatay si Aharon didto sa tumoy sang bantay; kag nagpanaw si Moshe kag si Elazar paingod gikan sa bantay.",
+  "translation": "Ginhubo ni Moshe ⟨את⟩ si Aharon sang iya mga bado, kag ginsul-ob niya ⟨אתם⟩ kay Elazar, iya anak nga lalaki; kag namatay si Aharon didto sa ibabaw sang bukid; kag nagpanaog si Moshe kag si Elazar tikang sa bukid.",
   "tokens": [
     {
       "surface": "ויפשט",
-      "gloss": "Kag ginhubaran"
+      "gloss": "ginhubo"
     },
     {
       "surface": "משה",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Aharon"
+      "marks": "si Aharon"
     },
     {
       "surface": "אהרן",
@@ -27,37 +27,37 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iya mga bado"
+      "marks": "sang iya mga bado"
     },
     {
       "surface": "בגדיו",
-      "gloss": "sang iya mga bado"
+      "gloss": "iya mga bado"
     },
     {
       "surface": "וילבש",
-      "gloss": "kag ginsul-ob niya"
+      "gloss": "ginsul-ob"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ang mga ina",
-      "marks": "ang mga ina"
+      "gloss": "⟨אתם⟩",
+      "marks": "iya mga bado"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Elazar"
+      "marks": "kay Elazar"
     },
     {
       "surface": "אלעזר",
-      "gloss": "kay Elazar"
+      "gloss": "si Elazar"
     },
     {
       "surface": "בנו",
-      "gloss": "iya anak"
+      "gloss": "iya anak nga lalaki"
     },
     {
       "surface": "וימת",
-      "gloss": "kag nangamatay"
+      "gloss": "kag namatay"
     },
     {
       "surface": "אהרן",
@@ -69,15 +69,15 @@
     },
     {
       "surface": "בראש",
-      "gloss": "sa tumoy"
+      "gloss": "sa ibabaw"
     },
     {
       "surface": "ההר",
-      "gloss": "sang bantay"
+      "gloss": "sang bukid"
     },
     {
       "surface": "וירד",
-      "gloss": "kag nagpanaw paingod"
+      "gloss": "kag nagpanaog"
     },
     {
       "surface": "משה",
@@ -89,13 +89,13 @@
     },
     {
       "surface": "מן",
-      "gloss": "gikan"
+      "gloss": "tikang"
     },
     {
       "surface": "ההר",
-      "gloss": "sa bantay"
+      "gloss": "sa bukid"
     }
   ],
-  "timestamp": "2026-09-21T17:09:43.224567980Z",
+  "timestamp": "2026-09-25T09:44:58.707465658Z",
   "model": "glm-5.3"
 }

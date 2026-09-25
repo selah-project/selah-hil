@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "hil",
   "chapter": 27,
-  "translation": "Kag nagturog si Yotam kaupod sang iya mga amay, kag ginlubong siya ⟨siya⟩ sa duta ni David; kag naghari si Achatz, iya anak, sa iya ⟨duog⟩.",
+  "translation": "Kag nagturog si Yotam kaupod sang iya mga amay, kag ginalubong nila ⟨את⟩ siya saudad sang si Dav id; kag naghari si Akhaz, iya anak, sa iya duog.",
   "tokens": [
     {
       "surface": "וישכב",
-      "gloss": "kag nagturog"
+      "gloss": "Kag nagturog"
     },
     {
       "surface": "יותם",
@@ -25,20 +25,20 @@
     },
     {
       "surface": "ויקברו",
-      "gloss": "kag ginlubong"
+      "gloss": "kag ginalubong nila"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "siya (Yotam)"
+      "marks": "siya"
     },
     {
       "surface": "בעיר",
-      "gloss": "sa duta"
+      "gloss": "sa siyudad"
     },
     {
       "surface": "דויד",
-      "gloss": "ni David"
+      "gloss": "sang Dav id"
     },
     {
       "surface": "וימלך",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "אחז",
-      "gloss": "si Achatz"
+      "gloss": "si Akhaz"
     },
     {
       "surface": "בנו",
@@ -57,6 +57,6 @@
       "gloss": "sa iya duog"
     }
   ],
-  "timestamp": "2026-09-21T22:08:59.360393791Z",
+  "timestamp": "2026-09-25T08:44:16.758062473Z",
   "model": "glm-5.3"
 }

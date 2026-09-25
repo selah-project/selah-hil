@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "hil",
   "chapter": 4,
-  "translation": "⟨Ang⟩ Betser sa kawadian, sa duta sang patag nga lugar, para sa mga Rubennonhon; kag ⟨את⟩ sang Ramot sa Gilad para sa mga Gadhonhon; kag ⟨את⟩ sang Golan sa Bashan para sa mga Manassenhon.",
+  "translation": "⟨את⟩ Betser sa kamingawan, sa duta sang patag nga lugar, para sa mga Reubeni; kag ⟨את⟩ Ramoth sa Gilad para sa mga Gadi; kag ⟨את⟩ Golan sa Bashan para sa mga Menashi.",
   "tokens": [
     {
       "surface": "את",
@@ -18,28 +18,28 @@
     },
     {
       "surface": "במדבר",
-      "gloss": "sa kawadian"
+      "gloss": "sa kamingawan"
     },
     {
       "surface": "בארץ",
-      "gloss": "sa duta sang"
+      "gloss": "sa duta"
     },
     {
       "surface": "המישר",
-      "gloss": "patag nga lugar"
+      "gloss": "sang patag nga lugar"
     },
     {
       "surface": "לראובני",
-      "gloss": "para sa mga Rubennonhon"
+      "gloss": "para sa mga Reubeni"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "Ramot"
+      "marks": "Ramoth"
     },
     {
       "surface": "ראמת",
-      "gloss": "Ramot"
+      "gloss": "Ramoth"
     },
     {
       "surface": "בגלעד",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "לגדי",
-      "gloss": "para sa mga Gadhonhon"
+      "gloss": "para sa mga Gadi"
     },
     {
       "surface": "ואת",
@@ -64,9 +64,9 @@
     },
     {
       "surface": "למנשי",
-      "gloss": "para sa mga Manassenhon"
+      "gloss": "para sa mga Menashi"
     }
   ],
-  "timestamp": "2026-09-21T17:19:25.513359241Z",
+  "timestamp": "2026-09-25T08:59:47.987225133Z",
   "model": "glm-5.3"
 }

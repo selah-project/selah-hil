@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "hil",
   "chapter": 35,
-  "translation": "kay sa iya dako nga pagtalangdan magapuyo siya tubtob sa kamatayon sang nahauna nga sacerdote; kag kayapat sang kamatayon sang nahauna nga sacerdote, magabalik ang mamamatay-o sa duta sang iya pagkabunyag.",
+  "translation": "kay sa siyudad sang iya pagpanikasagan magapuyo siya hasta sa kamatayon sang nahauna nga sacerdote, kag katapos sang kamatayon sang nahauna nga sacerdote, magabalik ang mamatay-tawo sa duta sang iya pagpanag-iya",
   "tokens": [
     {
       "surface": "כי",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "בעיר",
-      "gloss": "sa dakо"
+      "gloss": "sa siyudad"
     },
     {
       "surface": "מקלטו",
-      "gloss": "iya pagtalangdan"
+      "gloss": "sang iya pagpanikasagan"
     },
     {
       "surface": "ישב",
-      "gloss": "magapuyo"
+      "gloss": "magapuyo siya"
     },
     {
       "surface": "עד",
-      "gloss": "tubtob sa"
+      "gloss": "hasta sa"
     },
     {
       "surface": "מות",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "sang sacerdote"
+      "gloss": "sang nahauna nga sacerdote"
     },
     {
       "surface": "הגדל",
-      "gloss": "nahauna"
+      "gloss": "nga nahauna"
     },
     {
       "surface": "ואחרי",
-      "gloss": "kag kayapat sang"
+      "gloss": "kag katapos sang"
     },
     {
       "surface": "מות",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "הגדל",
-      "gloss": "nahauna"
+      "gloss": "nga nahauna"
     },
     {
       "surface": "ישוב",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "הרצח",
-      "gloss": "ang mamamatay-o"
+      "gloss": "ang mamatay-tawo"
     },
     {
       "surface": "אל",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "אחזתו",
-      "gloss": "iya pagkabunyag"
+      "gloss": "sang iya pagpanag-iya"
     }
   ],
-  "timestamp": "2026-09-21T17:16:36.551120603Z",
+  "timestamp": "2026-09-25T09:47:40.488598126Z",
   "model": "glm-5.3"
 }

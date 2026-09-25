@@ -5,15 +5,16 @@
   "book": "joshua",
   "lang": "hil",
   "chapter": 24,
-  "translation": "Kag gindala ko kamo sa duta sang mga Emori nga nagapuyo sa tabok sang Yarden, kag nakig-away sila sa inyo; kag ginhatag ko sila sa inyo mga kamot, kag nakapanunod kamo ⟨את⟩ ang ila duta, kag ginlaglag ko sila gikan sa atubang ninyo.",
+  "translation": "Kag gindala ko ⟨את⟩ kamo sa duta sang mga Emori nga nagaistar sa tabok sang Yarden, kag nakig-away sila sa inyo, kag ginhatag ko ⟨את⟩ sila sa inyo mga kamot, kag ginpang-iya ninyo ⟨את⟩ ang ila duta, kag ginpanas ko sila sa atubangan ninyo.",
   "tokens": [
     {
       "surface": "ואבאה",
-      "gloss": "gindala ko"
+      "gloss": "kag gindala ko"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kamo"
+      "gloss": "⟨את⟩ kamo",
+      "marks": "sa duta sang mga Emori"
     },
     {
       "surface": "אל",
@@ -25,11 +26,11 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "mga Emori"
+      "gloss": "sang mga Emori"
     },
     {
       "surface": "היושב",
-      "gloss": "nga nagapuyo"
+      "gloss": "nga nagaistar"
     },
     {
       "surface": "בעבר",
@@ -41,19 +42,21 @@
     },
     {
       "surface": "וילחמו",
-      "gloss": "nakig-away sila"
+      "gloss": "kag nakig-away sila"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ sa inyo"
+      "gloss": "⟨את⟩ sa inyo",
+      "marks": "nakig-away sila"
     },
     {
       "surface": "ואתן",
-      "gloss": "ginhatag ko"
+      "gloss": "kag ginhatag ko"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ sila"
+      "gloss": "⟨את⟩ sila",
+      "marks": "sa inyo mga kamot"
     },
     {
       "surface": "בידכם",
@@ -61,7 +64,7 @@
     },
     {
       "surface": "ותירשו",
-      "gloss": "nakapanunod kamo"
+      "gloss": "kag ginpang-iya ninyo"
     },
     {
       "surface": "את",
@@ -70,17 +73,17 @@
     },
     {
       "surface": "ארצם",
-      "gloss": "ila duta"
+      "gloss": "ang ila duta"
     },
     {
       "surface": "ואשמידם",
-      "gloss": "ginlaglag ko sila"
+      "gloss": "kag ginpanas ko sila"
     },
     {
       "surface": "מפניכם",
-      "gloss": "gikan sa atubang ninyo"
+      "gloss": "sa atubangan ninyo"
     }
   ],
-  "timestamp": "2026-09-21T17:45:58.803329865Z",
+  "timestamp": "2026-09-25T09:32:44.126881501Z",
   "model": "glm-5.3"
 }

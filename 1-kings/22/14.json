@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "hil",
   "chapter": 22,
-  "translation": "Kag nagsiling si Mikhayhu: Buhi si Yahweh; kay ⟨את⟩ nga ipangsiling ni Yahweh sa akon, ina ang imatudlo ko.",
+  "translation": "Kag nagsiling si Mikhayhu: Buhî si Yahweh — kay ⟨את⟩ amon nga ingaton sa iya sulod, ang ginsiling ni Yahweh sa akon, ⟨ang⟩ ina ang ihambal ko.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "חי",
-      "gloss": "buhi"
+      "gloss": "Buhî"
     },
     {
       "surface": "יהוה",
@@ -30,19 +30,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nga ipangsiling ni Yahweh sa akon"
+      "marks": "ang ginsiling ni Yahweh sa akon"
     },
     {
       "surface": "אשר",
-      "gloss": "nga"
+      "gloss": "ang ginsiling"
     },
     {
       "surface": "יאמר",
-      "gloss": "ipangsiling"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "יהוה",
-      "gloss": "si Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אלי",
@@ -50,14 +50,14 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "imatudlo ko"
+      "gloss": "⟨את⟩ ⟨ang ina⟩",
+      "marks": "ang ihambal ko"
     },
     {
       "surface": "אדבר",
-      "gloss": "imatudlo ko"
+      "gloss": "ang ihambal ko"
     }
   ],
-  "timestamp": "2026-09-21T18:38:47.202650536Z",
+  "timestamp": "2026-09-25T08:41:07.017381300Z",
   "model": "glm-5.3"
 }

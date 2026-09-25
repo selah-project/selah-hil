@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 29,
-  "translation": "Kag ibuyang ko ikaw sa kamingawan, ikaw kag ⟨את⟩ ang tanan nga sira sang imo mga suba; sa tampad sang kapatagan mahulog ka, indi ka pagtigumon kag indi ka pagtapunon; sa mga sapat sang duta kag sa mga pispis sang langit ginhatag ko ikaw nga pagkaon.",
+  "translation": "Kag pabay-an ko ⟨את⟩ ikaw sa kamingawan, kag ⟨את⟩ tanan nga isda sang imo mga suba; sa nawong sang uma ikaw mahulog, indi ka pagaku-on kag indi ka pagatip-on; sa mga sapat sang duta kag sa mga pispis sang langit ginhatag ko ikaw nga pagkaon.",
   "tokens": [
     {
       "surface": "ונטשתיך",
-      "gloss": "ibuyang ko ikaw"
+      "gloss": "kag pabay-an ko ikaw"
     },
     {
       "surface": "המדברה",
@@ -17,24 +17,25 @@
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ ikaw"
+      "gloss": "⟨את⟩",
+      "marks": "ikaw"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "ang tanan nga sira"
+      "marks": "tanan nga isda sang imo mga suba"
     },
     {
       "surface": "כל",
-      "gloss": "ang tanan"
+      "gloss": "tanan"
     },
     {
       "surface": "דגת",
-      "gloss": "sira"
+      "gloss": "isda"
     },
     {
       "surface": "יאריך",
-      "gloss": "sang imo mga suba"
+      "gloss": "imo mga suba"
     },
     {
       "surface": "על",
@@ -42,15 +43,15 @@
     },
     {
       "surface": "פני",
-      "gloss": "tampad"
+      "gloss": "nawong"
     },
     {
       "surface": "השדה",
-      "gloss": "sang kapatagan"
+      "gloss": "uma"
     },
     {
       "surface": "תפול",
-      "gloss": "mahulog ka"
+      "gloss": "mahulog"
     },
     {
       "surface": "לא",
@@ -58,7 +59,7 @@
     },
     {
       "surface": "תאסף",
-      "gloss": "ka pagtigumon"
+      "gloss": "pagaku-on"
     },
     {
       "surface": "ולא",
@@ -66,7 +67,7 @@
     },
     {
       "surface": "תקבץ",
-      "gloss": "ka pagtapunon"
+      "gloss": "pagatip-on"
     },
     {
       "surface": "לחית",
@@ -93,6 +94,6 @@
       "gloss": "nga pagkaon"
     }
   ],
-  "timestamp": "2026-09-21T19:52:57.613268660Z",
+  "timestamp": "2026-09-25T09:08:59.097904485Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,20 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 47,
-  "translation": "Kag inyo pagapangabat-anon ini, isa ka tawo pareho sang iya utod, bangud ginpahalang ko ⟨את⟩ ang akon kamot sa paghatag sini sa inyo mga katigulangan; kag ang duta nga ini magakahulog sa inyo bilang kabahin.",
+  "translation": "Kag manag-iya kamo ⟨את⟩ sini, ang tagsa ka tawo pareho sang iya utod, sang ginbangon ko ⟨את⟩ ang akon kamot sa paghatag sini sa inyo mga kagikan nga amay; kag madunggan ining duta sa inyo subong nga panag-iya.",
   "tokens": [
     {
       "surface": "ונחלתם",
-      "gloss": "Kag inyo pagapangabat-anon"
+      "gloss": "kag manag-iya kamo"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ ini"
+      "gloss": "⟨את⟩",
+      "marks": "ang tagsa ka tawo"
     },
     {
       "surface": "איש",
-      "gloss": "isa ka tawo"
+      "gloss": "ang tagsa ka tawo"
     },
     {
       "surface": "כאחיו",
@@ -25,11 +26,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "bangud"
+      "gloss": "sang"
     },
     {
       "surface": "נשאתי",
-      "gloss": "ginpahalang ko"
+      "gloss": "ginbangon ko"
     },
     {
       "surface": "את",
@@ -46,19 +47,19 @@
     },
     {
       "surface": "לאבתיכם",
-      "gloss": "sa inyo mga katigulangan"
+      "gloss": "sa inyo mga kagikan nga amay"
     },
     {
       "surface": "ונפלה",
-      "gloss": "kag magakahulog"
+      "gloss": "kag madunggan"
     },
     {
       "surface": "הארץ",
-      "gloss": "ang duta"
+      "gloss": "ining duta"
     },
     {
       "surface": "הזאת",
-      "gloss": "nga ini"
+      "gloss": "ining"
     },
     {
       "surface": "לכם",
@@ -66,9 +67,9 @@
     },
     {
       "surface": "בנחלה",
-      "gloss": "bilang kabahin"
+      "gloss": "subong nga panag-iya"
     }
   ],
-  "timestamp": "2026-09-21T20:02:03.599534525Z",
+  "timestamp": "2026-09-25T09:13:06.539878616Z",
   "model": "glm-5.3"
 }

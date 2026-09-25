@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "hil",
   "chapter": 20,
-  "translation": "Gani, maghambal ka sa balay sang Yisrael, anak sang tawo, kag ihambal mo sa ila: Amo ini ang hambal ni Adonay Yahweh: Gani pa gid ini, gintuya sang inyo mga kagikan ⟨את⟩ ⟨אותי⟩ sa ila pag-intra sa akon.",
+  "translation": "Gani, anak sang tawo, hambalan mo ang balay sang Yisrael kag silingon mo sa ila: Amo ang ginsiling ni Adonay Yahweh: Paagi pa gid sa ini, ginbag-id akó sang inyo mga amay ⟨את⟩, sa ila pagpakintra — sa akon sila nagpakintra.",
   "tokens": [
     {
       "surface": "לכן",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "maghambal ka"
+      "gloss": "hambalan mo"
     },
     {
       "surface": "אל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "balay"
+      "gloss": "ang balay"
     },
     {
       "surface": "ישראל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ואמרת",
-      "gloss": "kag ihambal mo"
+      "gloss": "kag silingon mo"
     },
     {
       "surface": "אליהם",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "Amo ini"
+      "gloss": "Amo"
     },
     {
       "surface": "אמר",
-      "gloss": "ang hambal"
+      "gloss": "ang ginsiling"
     },
     {
       "surface": "אדני",
@@ -65,24 +65,24 @@
     },
     {
       "surface": "זאת",
-      "gloss": "ini"
+      "gloss": "sa ini"
     },
     {
       "surface": "גדפו",
-      "gloss": "gintuya"
+      "gloss": "ginbag-id"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ ⟨אותי⟩",
-      "marks": "sa akon"
+      "gloss": "⟨את⟩",
+      "marks": "ako"
     },
     {
       "surface": "אבותיכם",
-      "gloss": "sang inyo mga kagikan"
+      "gloss": "sang inyo mga amay"
     },
     {
       "surface": "במעלם",
-      "gloss": "sa ila pag-intra"
+      "gloss": "sa ila pagpakintra"
     },
     {
       "surface": "בי",
@@ -90,9 +90,9 @@
     },
     {
       "surface": "מעל",
-      "gloss": ""
+      "gloss": "nagpakintra sila"
     }
   ],
-  "timestamp": "2026-09-21T19:50:12.581094531Z",
+  "timestamp": "2026-09-25T09:06:53.920744970Z",
   "model": "glm-5.3"
 }

@@ -5,16 +5,16 @@
   "book": "2-kings",
   "lang": "hil",
   "chapter": 9,
-  "translation": "Kag ginpasakay siya sang iya mga sulugoon sa karwahe pakadto sa Yerushalayim, kag ginalubong nila siya sa iya lulubngan kaupod sang iya mga katigulangan, sa ciudad ni David.",
+  "translation": "Kag ginsakyan siya sang iya mga sulugoon pakadto sa Yerushalayim, kag ginlubong nila siya ⟨את⟩ sa iya tinaguang lugad kaupod sang iya mga kabanay sa duta ni David.",
   "tokens": [
     {
       "surface": "וירכבו",
-      "gloss": "ginpasakay"
+      "gloss": "kag ginsakyan"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "siya"
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya — ang ginsakyan nga hari"
     },
     {
       "surface": "עבדיו",
@@ -26,16 +26,16 @@
     },
     {
       "surface": "ויקברו",
-      "gloss": "kag ginalubong nila"
+      "gloss": "kag ginlubong nila"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "siya"
+      "gloss": "⟨את⟩ siya",
+      "marks": "sa iya tinaguang lugard"
     },
     {
       "surface": "בקברתו",
-      "gloss": "sa iya lulubngan"
+      "gloss": "sa iya tinaguang lugad"
     },
     {
       "surface": "עם",
@@ -43,17 +43,17 @@
     },
     {
       "surface": "אבתיו",
-      "gloss": "sang iya mga katigulangan"
+      "gloss": "sang iya mga kabanay"
     },
     {
       "surface": "בעיר",
-      "gloss": "sa ciudad"
+      "gloss": "sa duta"
     },
     {
       "surface": "דוד",
       "gloss": "ni David"
     }
   ],
-  "timestamp": "2026-09-21T18:43:31.522426589Z",
+  "timestamp": "2026-09-25T08:51:02.176832489Z",
   "model": "glm-5.3"
 }

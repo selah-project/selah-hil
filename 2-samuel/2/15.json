@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "hil",
   "chapter": 2,
-  "translation": "Kag nagtindog sila kag nagtabok sang bilang: napulo kag duha para sa Binyamin kag kay Ish-Boshet nga anak ni Shaul, kag napulo kag duha sa mga sulugoon ni David.",
+  "translation": "Kag nagtindog sila kag nagtabok sila sa bilang — napulo kag duha ka tawo halin sa Binyamin, kay Ish-Boshet nga anak ni Shaul, kag napulo kag duha halin sa mga suluguon ni David.",
   "tokens": [
     {
       "surface": "ויקמו",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "ויעברו",
-      "gloss": "kag nagtabok"
+      "gloss": "kag nagtabok sila"
     },
     {
       "surface": "במספר",
-      "gloss": "sang bilang"
+      "gloss": "sa bilang"
     },
     {
       "surface": "שנים",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "לבנימן",
-      "gloss": "para sa Binyamin"
+      "gloss": "halin sa Binyamin"
     },
     {
       "surface": "ולאיש",
-      "gloss": "kag kay Ish"
+      "gloss": "kay Ish-"
     },
     {
       "surface": "בשת",
-      "gloss": "-Boshet"
+      "gloss": "Boshet"
     },
     {
       "surface": "בן",
@@ -53,17 +53,17 @@
     },
     {
       "surface": "עשר",
-      "gloss": ""
+      "gloss": "(bahin sang napulo kag duha)"
     },
     {
       "surface": "מעבדי",
-      "gloss": "sa mga sulugoon"
+      "gloss": "halin sa mga suluguon"
     },
     {
       "surface": "דוד",
       "gloss": "ni David"
     }
   ],
-  "timestamp": "2026-09-21T22:28:02.669723903Z",
+  "timestamp": "2026-09-25T08:54:32.656523222Z",
   "model": "glm-5.3"
 }

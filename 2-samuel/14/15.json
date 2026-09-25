@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "hil",
   "chapter": 14,
-  "translation": "Kag subong, nga nari ako sa paghambal sa hari nga akon Ginoo ⟨את⟩ sang pulong ini — kay ang katawhan ang nagpahadlok sa akon — kag nagsiling ang imo sulugoon nga babae: Magahambal man ako ⟨palihog⟩ sa hari; basin himuon sang hari ⟨את⟩ sang pangamuyo sang iya sulugoon nga babae.",
+  "translation": "Kag subong, bangod nagkari ako sa paghambal sa hari, akon agalon, sang ⟨את⟩ ang pulong nga ini, kay ginpahadlok ako sang mga tawo; kag nagsiling ang imo sulugong babae: Magahambal ako, palihog, sa hari; basi himuon sang hari ⟨את⟩ ang pulong sang iya sulugong babae.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nga"
+      "gloss": "bangod"
     },
     {
       "surface": "באתי",
-      "gloss": "nari ako"
+      "gloss": "nagkari ako"
     },
     {
       "surface": "לדבר",
@@ -33,12 +33,12 @@
     },
     {
       "surface": "אדני",
-      "gloss": "nga akon Ginoo"
+      "gloss": "akon agalon"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang pulong"
+      "marks": "ang pulong nga ini"
     },
     {
       "surface": "הדבר",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "הזה",
-      "gloss": "ini"
+      "gloss": "nga ini"
     },
     {
       "surface": "כי",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "יראני",
-      "gloss": "nagpahadlok sa akon"
+      "gloss": "ginpahadlok ako"
     },
     {
       "surface": "העם",
-      "gloss": "ang katawhan"
+      "gloss": "ang mga tawo"
     },
     {
       "surface": "ותאמר",
@@ -66,15 +66,15 @@
     },
     {
       "surface": "שפחתך",
-      "gloss": "ang imo sulugoon nga babae"
+      "gloss": "ang imo sulugong babae"
     },
     {
       "surface": "אדברה",
-      "gloss": "magahambal man ako"
+      "gloss": "magahambal ako"
     },
     {
       "surface": "נא",
-      "gloss": "⟨palihog⟩"
+      "gloss": "palihog"
     },
     {
       "surface": "אל",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "אולי",
-      "gloss": "basin"
+      "gloss": "basi"
     },
     {
       "surface": "יעשה",
@@ -99,17 +99,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang pangamuyo"
+      "marks": "ang pulong sang iya sulugong babae"
     },
     {
       "surface": "דבר",
-      "gloss": "ang pangamuyo"
+      "gloss": "ang pulong"
     },
     {
       "surface": "אמתו",
-      "gloss": "sang iya sulugoon nga babae"
+      "gloss": "sang iya sulugong babae"
     }
   ],
-  "timestamp": "2026-09-21T18:18:53.543103425Z",
+  "timestamp": "2026-09-25T08:52:15.247044188Z",
   "model": "glm-5.3"
 }

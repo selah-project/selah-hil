@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "hil",
   "chapter": 1,
-  "translation": "Kag nagsiling: Kon magatabang kamo sa pag-anak sang mga Hebreya kag tan-awon ninyo sila sa mga bato sang pag-anak — kon anak nga lalaki ⟨siya⟩, patyon ninyo ⟨אתו⟩ siya; kag kon babae ⟨siya⟩, magabuhi siya.",
+  "translation": "Kag nagsiling: Kon magpanganak kamo ⟨את⟩ sang mga Hebreo nga babae, kag tan-awon ninyo sila sa mga bato — kon anak nga lalaki sia, patyon ninyo ⟨אתו⟩ siya; kag kon anak nga babae sia, magabuhi sia.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "בילדכן",
-      "gloss": "sa pag-anak ninyo"
+      "gloss": "kon magpanganak kamo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang mga Hebreya"
+      "marks": "sang mga Hebreo nga babae"
     },
     {
       "surface": "העבריות",
-      "gloss": "ang mga Hebreya"
+      "gloss": "mga Hebreo nga babae"
     },
     {
       "surface": "וראיתן",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "האבנים",
-      "gloss": "mga bato sang pag-anak"
+      "gloss": "mga bato"
     },
     {
       "surface": "אם",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨siya⟩"
+      "gloss": "sia"
     },
     {
       "surface": "והמתן",
@@ -63,17 +63,17 @@
     },
     {
       "surface": "בת",
-      "gloss": "babae"
+      "gloss": "anak nga babae"
     },
     {
       "surface": "היא",
-      "gloss": "⟨siya⟩"
+      "gloss": "sia"
     },
     {
       "surface": "וחיה",
-      "gloss": "magabuhi siya"
+      "gloss": "magabuhi sia"
     }
   ],
-  "timestamp": "2026-09-21T16:19:01.232882975Z",
+  "timestamp": "2026-09-25T09:02:18.155249842Z",
   "model": "glm-5.3"
 }

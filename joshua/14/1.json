@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "hil",
   "chapter": 14,
-  "translation": "Kag ini ⟨amo⟩ ang mga ginpanubli sang mga anak nga lalaki sang Yisrael sa duta sang Kenaan, nga ginpanubli ni Elazar nga pari kag ni Yehoshua anak nga lalaki ni Nun kag sang mga pangulo sang mga kaapohan sang mga tribo sa mga anak nga lalaki sang Yisrel ⟨sa ila⟩.",
+  "translation": "Kag ini amo ang mga tinana nga ginpanubli sang mga anak nga lalaki sang Yisrael sa duta sang Kenaan, nga gintana ⟨את⟩ sa ila ni Elazar nga pari kag ni Yehoshua nga anak nga lalaki ni Nun kag sang mga pangulo sang mga kaapohan sang mga tribo sang mga anak nga lalaki sang Yisrael.",
   "tokens": [
     {
       "surface": "ואלה",
-      "gloss": "Kag ini"
+      "gloss": "kag ini"
     },
     {
       "surface": "אשר",
@@ -41,12 +41,12 @@
     },
     {
       "surface": "נחלו",
-      "gloss": "ginpanubli"
+      "gloss": "gintana"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "sa ila"
+      "marks": "sa ila — ni Elazar nga pari kag ni Yehoshua kag sang mga pangulo"
     },
     {
       "surface": "אלעזר",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "אבות",
-      "gloss": "sang mga kaapohan"
+      "gloss": "mga kaapohan"
     },
     {
       "surface": "המטות",
@@ -82,13 +82,13 @@
     },
     {
       "surface": "לבני",
-      "gloss": "sa mga anak nga lalaki"
+      "gloss": "sang mga anak nga lalaki"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "sang Yisrael"
     }
   ],
-  "timestamp": "2026-09-21T17:40:27.982842054Z",
+  "timestamp": "2026-09-25T09:31:37.049903989Z",
   "model": "glm-5.3"
 }

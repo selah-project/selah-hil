@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "hil",
   "chapter": 8,
-  "translation": "Gani, tan-awa, si Adonay nagapataas sa ila sang ⟨את⟩ mga tubig sang suba, ang mga makusog kag madamo — ⟨ang⟩ hari sang Ashshur kag ⟨את⟩ ang tanan nga iya himaya; kag magataas ⟨siya⟩ sa tanan nga iya mga apyak kag magalakat sa tanan nga iya mga baybayon.",
+  "translation": "Busa tan-awa, ginasakdagi ni Adonay sa ila ⟨את⟩ ang mga tubig sang suba, ang makusog kag ang madamu — ⟨את⟩ ang hari sang Ashur kag ⟨את⟩ ang tanan nga iya himaya; kag magasaka sa tanan nga iya mga alagyan kag magaabaw sa tanan nga iya mga baybayon.",
   "tokens": [
     {
       "surface": "ולכן",
-      "gloss": "Gani"
+      "gloss": "Busa"
     },
     {
       "surface": "הנה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מעלה",
-      "gloss": "nagapataas"
+      "gloss": "ginasakdagi"
     },
     {
       "surface": "עליהם",
@@ -30,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mga tubig sang suba"
+      "marks": "ang mga tubig sang suba, ang makusog kag ang madamu"
     },
     {
       "surface": "מי",
-      "gloss": "mga tubig"
+      "gloss": "ang mga tubig"
     },
     {
       "surface": "הנהר",
@@ -42,41 +42,41 @@
     },
     {
       "surface": "העצומים",
-      "gloss": "ang mga makusog"
+      "gloss": "ang makusog"
     },
     {
       "surface": "והרבים",
-      "gloss": "kag ang madamo"
+      "gloss": "kag ang madamu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hari sang Ashshur"
+      "marks": "ang hari sang Ashur"
     },
     {
       "surface": "מלך",
-      "gloss": "hari"
+      "gloss": "ang hari"
     },
     {
       "surface": "אשור",
-      "gloss": "sang Ashshur"
+      "gloss": "sang Ashur"
     },
     {
       "surface": "ואת",
       "gloss": "kag ⟨את⟩",
-      "marks": "tanan nga iya himaya"
+      "marks": "ang tanan nga iya himaya"
     },
     {
       "surface": "כל",
-      "gloss": "tanan"
+      "gloss": "ang tanan"
     },
     {
       "surface": "כבודו",
-      "gloss": "iya himaya"
+      "gloss": "nga iya himaya"
     },
     {
       "surface": "ועלה",
-      "gloss": "kag magataas"
+      "gloss": "kag magasaka"
     },
     {
       "surface": "על",
@@ -88,11 +88,11 @@
     },
     {
       "surface": "אפיקיו",
-      "gloss": "iya mga apyak"
+      "gloss": "nga iya mga alagyan"
     },
     {
       "surface": "והלך",
-      "gloss": "kag magalakat"
+      "gloss": "kag magaabaw"
     },
     {
       "surface": "על",
@@ -104,9 +104,9 @@
     },
     {
       "surface": "גדותיו",
-      "gloss": "iya mga baybayon"
+      "gloss": "nga iya mga baybayon"
     }
   ],
-  "timestamp": "2026-09-21T18:54:51.790552431Z",
+  "timestamp": "2026-09-25T09:22:16.820743121Z",
   "model": "glm-5.3"
 }

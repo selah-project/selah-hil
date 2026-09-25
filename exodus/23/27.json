@@ -5,20 +5,20 @@
   "book": "exodus",
   "lang": "hil",
   "chapter": 23,
-  "translation": "⟨את⟩ ang ako katalang magapadala ko sa imo atubangan, kag patyon ko ang tanan nga katawhan nga imo suludlan sa ila, kag ihatag ko ⟨kay⟩ ang tanan nga imo mga kaaway sa imo — ang likod sang ila liog.",
+  "translation": "⟨את⟩ Ang akon katalalahuban ipadala ko sa imo atubangan, kag papatyon ko ⟨את⟩ ang tanan nga katawhan nga imo masulod didto sa ila, kag igahatod ko sa imo ⟨את⟩ ang tanan nga imo mga kaaway ⟨nga⟩ liog ⟨sa ila⟩.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang ako katalang"
+      "marks": "ang akon katalalahuban"
     },
     {
       "surface": "אימתי",
-      "gloss": "ang ako katalang"
+      "gloss": "ang akon katalalahuban"
     },
     {
       "surface": "אשלח",
-      "gloss": "magapadala ko"
+      "gloss": "ipadala ko"
     },
     {
       "surface": "לפניך",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "והמתי",
-      "gloss": "kag patyon ko"
+      "gloss": "kag papatyon ko"
     },
     {
       "surface": "את",
@@ -47,15 +47,15 @@
     },
     {
       "surface": "תבא",
-      "gloss": "imo suludlan"
+      "gloss": "imo masulod"
     },
     {
       "surface": "בהם",
-      "gloss": "sa ila"
+      "gloss": "didto sa ila"
     },
     {
       "surface": "ונתתי",
-      "gloss": "kag ihatag ko"
+      "gloss": "kag igahatod ko"
     },
     {
       "surface": "את",
@@ -76,9 +76,9 @@
     },
     {
       "surface": "ערף",
-      "gloss": "ang likod sang liog"
+      "gloss": "liog"
     }
   ],
-  "timestamp": "2026-09-21T16:30:13.249746845Z",
+  "timestamp": "2026-09-25T09:03:49.262783468Z",
   "model": "glm-5.3"
 }

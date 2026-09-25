@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "hil",
   "chapter": 14,
-  "translation": "Kag naghambal si Moshe sa katawhan: Indi kamo magkahadlok, magtindog kamo kag tan-awa ninyo ⟨את⟩ ang kaligtasan ni Yahweh nga iya himuon sa inyo subong nga adlaw, kay ang mga Mitsrayim nga inyo nakita subong nga adlaw, indi na ninyo sila makita ⟨pa⟩ sing utro hasta sang dayon.",
+  "translation": "Nagsiling si Moshe sa katawhan: Indi kamo magkahadlok, tumindog kamo kag tan-awa ⟨את⟩ ang kaluwas nga himoon ni Yahweh para sa inyo subong nga adlaw; kay ⟨ang⟩ ⟨את⟩ mga Mitsrayim nga nakita ninyo subong nga adlaw, indi na ninyo sila makita pa gid hasta sa siempre.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "kag naghambal"
+      "gloss": "Nagsiling"
     },
     {
       "surface": "משה",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "העם",
-      "gloss": "ang katawhan"
+      "gloss": "katawhan"
     },
     {
       "surface": "אל",
-      "gloss": "indi"
+      "gloss": "Indi"
     },
     {
       "surface": "תיראו",
-      "gloss": "magkahadlok"
+      "gloss": "kamo magkahadlok"
     },
     {
       "surface": "התיצבו",
-      "gloss": "magtindog kamo"
+      "gloss": "tumindog kamo"
     },
     {
       "surface": "וראו",
@@ -42,11 +42,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang kaligtasan ni Yahweh"
+      "marks": "ang kaluwas"
     },
     {
       "surface": "ישועת",
-      "gloss": "kaligtasan"
+      "gloss": "ang kaluwas"
     },
     {
       "surface": "יהוה",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "iya himuon"
+      "gloss": "himoon"
     },
     {
       "surface": "לכם",
-      "gloss": "sa inyo"
+      "gloss": "para sa inyo"
     },
     {
       "surface": "היום",
@@ -74,16 +74,16 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ang"
+      "gloss": "⟨nga⟩"
     },
     {
       "surface": "ראיתם",
-      "gloss": "inyo nakita"
+      "gloss": "nakita ninyo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang mga Mitsrayim"
+      "marks": "mga Mitsrayim"
     },
     {
       "surface": "מצרים",
@@ -99,25 +99,25 @@
     },
     {
       "surface": "תסיפו",
-      "gloss": "magdugang pa"
+      "gloss": "na … pa"
     },
     {
       "surface": "לראתם",
-      "gloss": "sa pagtan-aw sa ila"
+      "gloss": "ninyo sila makita"
     },
     {
       "surface": "עוד",
-      "gloss": "pa"
+      "gloss": "pa gid"
     },
     {
       "surface": "עד",
-      "gloss": "hasta"
+      "gloss": "hasta sa"
     },
     {
       "surface": "עולם",
-      "gloss": "sang dayon"
+      "gloss": "siempre"
     }
   ],
-  "timestamp": "2026-09-21T16:26:20.453567961Z",
+  "timestamp": "2026-09-25T09:03:58.884327071Z",
   "model": "glm-5.3"
 }

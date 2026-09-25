@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "hil",
   "chapter": 32,
-  "translation": "Kag magakalipay ako sa ila sa paghimo sang maayo sa ila, kag pagatanumin ko sila sa duta nga ini sing kamatuoran, sang tanan ko nga kasingkasing kag sang tanan ko nga kalag.",
+  "translation": "Kag magakalipay ako sa ila sa paghimo sang maayo ⟨את⟩ sa ila, kag tatamnan ko sila sa duta nga ini sa kamatuoran, sang tanan ko nga kasingkasing kag sang tanan ko nga kalag.",
   "tokens": [
     {
       "surface": "וששתי",
-      "gloss": "Kag magakalipay ako"
+      "gloss": "kag magakalipay ako"
     },
     {
       "surface": "עליהם",
@@ -21,11 +21,12 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ sa ila"
+      "gloss": "⟨את⟩",
+      "marks": "sa ila (ang mga tawo nga pagahimu-an sang maayo)"
     },
     {
       "surface": "ונטעתים",
-      "gloss": "kag pagatanumin ko sila"
+      "gloss": "kag tatamnan ko sila"
     },
     {
       "surface": "בארץ",
@@ -37,7 +38,7 @@
     },
     {
       "surface": "באמת",
-      "gloss": "sing kamatuoran"
+      "gloss": "sa kamatuoran"
     },
     {
       "surface": "בכל",
@@ -56,6 +57,6 @@
       "gloss": "ko nga kalag"
     }
   ],
-  "timestamp": "2026-09-21T19:31:33.348446184Z",
+  "timestamp": "2026-09-25T09:27:06.390119873Z",
   "model": "glm-5.3"
 }

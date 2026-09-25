@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "hil",
   "chapter": 25,
-  "translation": "Kay amo ini ang ginsiling ni Yahweh, ang Elohim sang Yisrael, sa akon: Kuhaa ⟨את⟩ ang kopita sang bino sang kaakig nga ini sa akon kamot, kag ipainum mo ⟨את⟩ ini sa tanan nga mga pungsod nga siakon ginasudia ⟨⟨את⟩ ikaw⟩ sa ila.",
+  "translation": "Kaythus sang Yahweh, ang Elohim sang Yisrael, sa akon: Kuhaa ⟨את⟩ ang kopa sang bino sang kaakig ini sa akon kamot, kag ipainom mo ⟨אתו⟩ sa tanan nga mga pungsod nga akuwa magapadala sa imo ⟨את⟩ ⟨אותך⟩ sa ila.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,23 +13,23 @@
     },
     {
       "surface": "כה",
-      "gloss": "amo ini"
+      "gloss": "sang"
     },
     {
       "surface": "אמר",
-      "gloss": "ang ginsiling"
+      "gloss": "nagasiling"
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אלהי",
-      "gloss": "ang Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "ישראל",
-      "gloss": "sang Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "אלי",
@@ -42,11 +42,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang kopita"
+      "marks": "ang kopa"
     },
     {
       "surface": "כוס",
-      "gloss": "ang kopita"
+      "gloss": "kopa"
     },
     {
       "surface": "היין",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "nga ini"
+      "gloss": "ini"
     },
     {
       "surface": "מידי",
@@ -66,17 +66,17 @@
     },
     {
       "surface": "והשקיתה",
-      "gloss": "kag ipainum mo"
+      "gloss": "kag ipainom mo"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "ini"
+      "gloss": "⟨אתו⟩",
+      "marks": "sa tanan nga mga pungsod"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tanan"
+      "marks": "ang tanan"
     },
     {
       "surface": "כל",
@@ -84,7 +84,7 @@
     },
     {
       "surface": "הגוים",
-      "gloss": "nga mga pungsod"
+      "gloss": "mga pungsod"
     },
     {
       "surface": "אשר",
@@ -92,21 +92,22 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "siakon"
+      "gloss": "akuwa"
     },
     {
       "surface": "שלח",
-      "gloss": "ginasudia"
+      "gloss": "magapadala"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ ikaw"
+      "gloss": "⟨את⟩ ⟨אותך⟩",
+      "marks": "sa ila"
     },
     {
       "surface": "אליהם",
       "gloss": "sa ila"
     }
   ],
-  "timestamp": "2026-09-21T19:26:09.013852004Z",
+  "timestamp": "2026-09-25T09:25:28.417158206Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "zechariah",
   "lang": "hil",
   "chapter": 4,
-  "translation": "Kag gintuboy kag nagsiling sa akon nga nagaingon: Amo ini ang pulong ni Yahweh kay Zerubabel, nga nagaingon: Indi sa kusog sang kasundalohan kag indi sa gahum, kundi sa akon espiritu, nagaingon si Yahweh sang Tsevaot.",
+  "translation": "Kag nagsabat siya kag nagsiling sa akon nga nagahambal: Amo ini ang pulong ni Yahweh kay Zerubbabel, nga nagahambal: Indi sa kasoldadosan kag indi sa kusog, kondi sa akon espiritu, siling ni Yahweh sang Tsevaot.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "Kag gintuboy"
+      "gloss": "kag nagsabat"
     },
     {
       "surface": "ויאמר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "nga nagaingon"
+      "gloss": "nga nagahambal"
     },
     {
       "surface": "זה",
-      "gloss": "ini"
+      "gloss": "Amo ini"
     },
     {
       "surface": "דבר",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "זרבבל",
-      "gloss": "Zerubabel"
+      "gloss": "Zerubbabel"
     },
     {
       "surface": "לאמר",
-      "gloss": "nga nagaingon"
+      "gloss": "nga nagahambal"
     },
     {
       "surface": "לא",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "בחיל",
-      "gloss": "sa kusog sang kasundalohan"
+      "gloss": "sa kasoldadosan"
     },
     {
       "surface": "ולא",
@@ -61,15 +61,15 @@
     },
     {
       "surface": "בכח",
-      "gloss": "sa gahum"
+      "gloss": "sa kusog"
     },
     {
       "surface": "כי",
-      "gloss": "kundi"
+      "gloss": "—"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "kondi"
     },
     {
       "surface": "ברוחי",
@@ -77,17 +77,17 @@
     },
     {
       "surface": "אמר",
-      "gloss": "nagaingon"
+      "gloss": "siling"
     },
     {
       "surface": "יהוה",
-      "gloss": "si Yahweh"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "צבאות",
       "gloss": "sang Tsevaot"
     }
   ],
-  "timestamp": "2026-09-21T20:19:15.142144657Z",
+  "timestamp": "2026-09-25T09:51:55.999973600Z",
   "model": "glm-5.3"
 }
